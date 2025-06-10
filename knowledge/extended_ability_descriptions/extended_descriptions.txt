@@ -1,0 +1,95 @@
+# Extended Ability Descriptions
+# Format: Proto-like structure for easy codegen integration
+# No manual line breaks - codegen handles text wrapping automatically
+
+# Example format:
+# ability {
+#   id: ABILITY_NAME
+#   extended_description: "Full description text without line breaks. Codegen will wrap at ~32-35 characters automatically."
+# }
+
+# Weather Abilities (Batch 1)
+
+ability {
+  id: ABILITY_ICE_COLD_HUNTER
+  extended_description: "Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail."
+}
+
+ability {
+  id: ABILITY_DRIZZLE
+  extended_description: "Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (12 with Damp Rock). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder never misses. Activates Swift Swim, Rain Dish, and Dry Skin. Cannot override primal weather conditions."
+}
+
+ability {
+  id: ABILITY_DROUGHT
+  extended_description: "Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane accuracy drops. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine/Air Lock."
+}
+
+ability {
+  id: ABILITY_SAND_STREAM
+  extended_description: "Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush activate. Cannot override primal weather. Multiple weather setters compete by Speed stat."
+}
+
+ability {
+  id: ABILITY_SNOW_WARNING
+  extended_description: "Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat."
+}
+
+ability {
+  id: ABILITY_PRIMORDIAL_SEA
+  extended_description: "Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Activates rain-based abilities normally."
+}
+
+ability {
+  id: ABILITY_DESOLATE_LAND
+  extended_description: "Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Thaws frozen Pokemon. Solar moves charge instantly. Synthesis/Morning Sun heal more."
+}
+
+ability {
+  id: ABILITY_DELTA_STREAM
+  extended_description: "Creates Strong Winds lasting until user switches. Reduces super-effective damage to Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather. Protects all Flying Pokemon on field, not just user."
+}
+
+ability {
+  id: ABILITY_GULP_MISSILE
+  extended_description: "When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base form. Gulping form also lowers Defense by 1; Gorging form paralyzes."
+}
+
+ability {
+  id: ABILITY_WEATHER_CONTROL
+  extended_description: "Grants complete immunity to 18 specific weather-based moves when used by opponents: Bleakwind Storm, Blizzard, Sheer Cold, Thunder, Wildbolt Storm, Hurricane, Sandsear Storm, Springtide Storm, Ominous Wind, Eerie Spell, Solar Beam, Solar Blade, Weather Ball, Revival Blessing, Depletion Beam, Fire/Water/Grass Pledge. Does not block weather-setting moves or weather-boosted moves."
+}
+
+ability {
+  id: ABILITY_ELECTRIC_SURGE
+  extended_description: "Creates Electric Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon can't fall asleep and Electric moves gain 50% power. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon. Overrides other terrains when activated."
+}
+
+ability {
+  id: ABILITY_GRASSY_SURGE
+  extended_description: "Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains."
+}
+
+ability {
+  id: ABILITY_PSYCHIC_SURGE
+  extended_description: "Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides other terrains."
+}
+
+# [More weather abilities to be added]
+
+# Elite Redux Custom Abilities
+
+ability {
+  id: ABILITY_DRAGONSLAYER
+  extended_description: "Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. This ability is based on the attacker and defender's types, not move types. The defensive bonus reduces damage from any move used by a Dragon-type Pokemon. Can be suppressed by Mold Breaker."
+}
+
+ability {
+  id: ABILITY_FORT_KNOX
+  extended_description: "Blocks offensive abilities that boost damage or enable multi-hits when defending. Nullifies ~158 damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond can bypass this defense. Pure defensive ability."
+}
+
+# [More to be added]
+
+# Original Pokemon Abilities
+# [To be added]
