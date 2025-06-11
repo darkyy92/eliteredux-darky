@@ -1,4 +1,4 @@
-# PERFECTIONIST - Ability ID 288
+# Perfectionist - Ability ID 288
 
 ## In-Game Description
 "Move BP < 51 BP: +1 to crit rate. Move BP < 26 BP: +1 priority too."

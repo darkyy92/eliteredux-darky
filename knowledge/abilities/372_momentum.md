@@ -1,4 +1,4 @@
-# MOMENTUM - Ability ID 372
+# Momentum - Ability ID 372
 
 ## In-Game Description
 "Contact moves use the Speed stat for damage calculation."

@@ -1,4 +1,4 @@
-# NEUTRALIZING GAS - Ability ID 256
+# Neutralizing Gas - Ability ID 256
 
 ## In-Game Description
 "All abilities are nullified."

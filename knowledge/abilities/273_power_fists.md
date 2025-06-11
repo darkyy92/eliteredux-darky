@@ -1,4 +1,4 @@
-# POWER FISTS - Ability ID 273
+# Power Fists - Ability ID 273
 
 ## In-Game Description
 "Iron Fist moves target Special Defense and get a 1.3x boost."

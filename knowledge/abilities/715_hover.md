@@ -1,4 +1,4 @@
-# HOVER - Ability ID 715
+# Hover - Ability ID 715
 
 ## In-Game Description
 "Adds Psychic type to itself. Avoids Ground attacks."

@@ -1,4 +1,4 @@
-# MYSTIC BLADES - Ability ID 505
+# Mystic Blades - Ability ID 505
 
 ## In-Game Description
 "Keen edge moves become special and deal 30% more damage."

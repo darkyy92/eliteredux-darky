@@ -1,4 +1,4 @@
-# MYTHICAL ARROWS - Ability ID 601
+# Mythical Arrows - Ability ID 601
 
 ## In-Game Description
 "Arrow moves become special and deal 30% more damage."

@@ -1,4 +1,4 @@
-# EARLY GRAVE - Ability ID 522
+# Early Grave - Ability ID 522
 
 ## In-Game Description
 "Ghost-type moves get +1 priority at max HP."

@@ -1,4 +1,4 @@
-# ENERGIZED HORNS - Ability ID 751
+# Energized Horns - Ability ID 751
 
 ## In-Game Description
 "Horn moves become special and deal 30% more damage."

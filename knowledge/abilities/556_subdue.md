@@ -1,4 +1,4 @@
-# SUBDUE - Ability ID 556
+# Subdue - Ability ID 556
 
 ## In-Game Description
 "Doubles stat drop effects used by this pokemon."

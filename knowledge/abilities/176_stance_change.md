@@ -1,4 +1,4 @@
-# STANCE CHANGE - Ability ID 176
+# Stance Change - Ability ID 176
 
 ## In-Game Description
 "Turns into Blade or Shield form depending on move used."

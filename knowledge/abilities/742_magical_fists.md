@@ -1,4 +1,4 @@
-# MAGICAL FISTS - Ability ID 742
+# Magical Fists - Ability ID 742
 
 ## In-Game Description
 "Punching moves use Special Attack and get a 1.3x boost."

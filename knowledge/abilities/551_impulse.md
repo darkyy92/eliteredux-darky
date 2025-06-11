@@ -1,4 +1,4 @@
-# IMPULSE - Ability ID 551
+# Impulse - Ability ID 551
 
 ## In-Game Description
 "Non-contact moves use the Speed stat for damage."

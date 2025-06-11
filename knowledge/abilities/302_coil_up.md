@@ -1,4 +1,4 @@
-# COIL UP - Ability ID 302
+# Coil Up - Ability ID 302
 
 ## In-Game Description
 "On entry, gives +1 priority once to the first biting move used."

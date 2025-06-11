@@ -1,4 +1,4 @@
-# SHARING IS CARING - Ability ID 577
+# Sharing Is Caring - Ability ID 577
 
 ## In-Game Description
 "Stat changes are shared between all battlers."
