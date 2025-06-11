@@ -4,13 +4,14 @@ This repository contains AI-assisted development tools, scripts, and documentati
 
 ## Contents
 
-- **`.claude/`** - Claude AI configuration and commands
 - **`knowledge/`** - Project knowledge base and documentation
 - **`plans/`** - Development plans and specifications
 - **`scripts/`** - Utility scripts for various tasks
   - `ability_tools/` - Scripts for ability management
   - `trainer_tools/` - Scripts for trainer management
   - `wiki_tools/` - Scripts for wiki management
+
+**Note**: The `.claude/` folder must remain in the main repository (not this submodule) for slash commands to work properly.
 
 ## Usage
 

@@ -3,7 +3,9 @@
 ## Important: Script Path Updates Required
 
 ### Context
-All AI-related files (`.claude/`, `knowledge/`, `plans/`, `scripts/`) have been moved from the main repository to this submodule. This affects how scripts are executed and referenced.
+Most AI-related files (`knowledge/`, `plans/`, `scripts/`) have been moved from the main repository to this submodule. This affects how scripts are executed and referenced.
+
+**Important Exception**: The `.claude/` folder must remain in the main repository for slash commands to work. Only `knowledge/`, `plans/`, and `scripts/` are in the submodule.
 
 ### Scripts That May Need Updates
 
