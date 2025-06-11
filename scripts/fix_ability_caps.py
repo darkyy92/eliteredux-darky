@@ -12,8 +12,15 @@ def fix_ability_name_caps():
     abilities_folder = "/Users/joel/Github/eliteredux/eliteredux-source/eliteredux-darky/knowledge/abilities"
     
     # Pattern to match titles with ALL CAPS ability names
-    # Matches: "# ALL_CAPS_NAME - Ability ID XXX" or "# ALL CAPS NAME - Ability ID XXX"
-    pattern = re.compile(r'^# ([A-Z][A-Z\s_]+) - (Ability ID \d+)$', re.MULTILINE)
+    # Matches various formats:
+    # "# ALL_CAPS_NAME - Ability ID XXX"
+    # "# ALL CAPS NAME (Ability ID: XXX)"
+    # "# ALL CAPS NAME (ID: XXX)"
+    patterns = [
+        re.compile(r'^# ([A-Z][A-Z\s_]+) - (Ability ID \d+)$', re.MULTILINE),
+        re.compile(r'^# ([A-Z][A-Z\s_]+) \((Ability ID: \d+)\)$', re.MULTILINE),
+        re.compile(r'^# ([A-Z][A-Z\s_]+) \((ID: \d+)\)$', re.MULTILINE)
+    ]
     
     # Get all .md files except README.md
     md_files = glob.glob(os.path.join(abilities_folder, "*.md"))
@@ -28,18 +35,17 @@ def fix_ability_name_caps():
             
             original_content = content
             
-            def fix_match(match):
-                ability_name = match.group(1)
-                rest = match.group(2)
-                
-                # Convert to title case (handles both underscores and spaces)
-                # Replace underscores with spaces, then convert to title case
-                fixed_name = ability_name.replace('_', ' ').title()
-                
-                return f"# {fixed_name} - {rest}"
-            
-            # Apply the fix
-            content = pattern.sub(fix_match, content)
+            # Apply the fix for all patterns
+            for i, pattern in enumerate(patterns):
+                if i == 0:
+                    # Format: "# Name - Ability ID XXX"
+                    content = pattern.sub(lambda m: f"# {m.group(1).replace('_', ' ').title()} - {m.group(2)}", content)
+                elif i == 1:
+                    # Format: "# Name (Ability ID: XXX)"
+                    content = pattern.sub(lambda m: f"# {m.group(1).replace('_', ' ').title()} ({m.group(2)})", content)
+                elif i == 2:
+                    # Format: "# Name (ID: XXX)"
+                    content = pattern.sub(lambda m: f"# {m.group(1).replace('_', ' ').title()} ({m.group(2)})", content)
             
             # Only write if changes were made
             if content != original_content:

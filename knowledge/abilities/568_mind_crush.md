@@ -1,7 +1,7 @@
-# Mind Crunch (ID: 568)
+# Mind Crush (ID: 568)
 
 ## Summary
-Mind Crunch transforms biting moves to use Special Attack instead of Attack while also boosting their damage by 30%, creating a unique niche for special attackers to utilize the typically physical biting move pool.
+Mind Crush transforms biting moves to use Special Attack instead of Attack while also boosting their damage by 30%, creating a unique niche for special attackers to utilize the typically physical biting move pool.
 
 ## Mechanics
 - **Affected Moves**: All moves with FLAG_STRONG_JAW_BOOST (biting moves)

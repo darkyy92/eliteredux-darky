@@ -2,6 +2,17 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
+
+// First, fix ability caps in the source files
+console.log('Fixing ability title capitalization...');
+try {
+  const fixCapsScript = path.join(__dirname, '../../scripts/fix_ability_caps.py');
+  execSync(`python3 "${fixCapsScript}"`, { stdio: 'inherit' });
+  console.log('✓ Ability titles normalized\n');
+} catch (error) {
+  console.error('Warning: Could not run fix_ability_caps.py:', error.message);
+}
 
 // Paths
 const sourceDir = path.join(__dirname, '../../knowledge/abilities');

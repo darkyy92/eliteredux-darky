@@ -1,4 +1,4 @@
-# Drizzle - Ability ID 15
+# Drizzle - Ability ID 2
 
 ## In-Game Description
 "Summons rain on entry. Lasts 8 turns."

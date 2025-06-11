@@ -1,4 +1,4 @@
-# DRAGONSLAYER (ID: 313)
+# Dragonslayer (ID: 313)
 
 ## In-Game Description
 "Deals 1.5x damage to Dragons. Takes 0.5x damage from Dragons."

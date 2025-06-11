@@ -10,10 +10,31 @@
 
 ---
 
+# ID: 3
+ability {
+  id: ABILITY_SPEED_BOOST
+  extended_description: "Speed Boost raises the user's Speed by one stage at the end of each turn they remain on the field. Does not activate on the turn of entry or when switching in. Continues until reaching maximum Speed (+6 stages). Creates powerful momentum in extended battles."
+}
+
+
 # ID: 15
 ability {
   id: ABILITY_DRIZZLE
   extended_description: "Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (12 with Damp Rock). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder never misses. Activates Swift Swim, Rain Dish, and Dry Skin. Cannot override primal weather conditions."
+}
+
+
+# ID: 22
+ability {
+  id: ABILITY_INTIMIDATE
+  extended_description: "Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affects all foes in doubles. Works every time the user enters battle. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, and Oblivious."
+}
+
+
+# ID: 26
+ability {
+  id: ABILITY_LEVITATE
+  extended_description: "Levitate grants complete immunity to all Ground-type moves and boosts the power of the user's Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down."
 }
 
 
@@ -24,6 +45,13 @@ ability {
 }
 
 
+# ID: 47
+ability {
+  id: ABILITY_THICK_FAT
+  extended_description: "Provides resistance to Fire and Ice type attacks, taking only half damage from these types. This dual resistance makes the Pokemon exceptionally durable against temperature-based attacks, offering both offensive counter-play and defensive staying power in battle."
+}
+
+
 # ID: 70
 ability {
   id: ABILITY_DROUGHT
@@ -31,10 +59,52 @@ ability {
 }
 
 
+# ID: 86
+ability {
+  id: ABILITY_SIMPLE
+  extended_description: "Simple doubles all stat stage changes on the Pokémon, whether positive or negative. Boosts from moves like Swords Dance become +4 instead of +2. Stat drops are also doubled. Works perfectly with moves like Stored Power, which gains +40 power per stage instead of +20. Blocked by Clear Body/abilities that prevent stat drops."
+}
+
+
+# ID: 104
+ability {
+  id: ABILITY_MOLD_BREAKER
+  extended_description: "Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as \"breakable\" - does not ignore protective abilities like Magic Guard or unsuppressable abilities."
+}
+
+
+# ID: 109
+ability {
+  id: ABILITY_UNAWARE
+  extended_description: "Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers and ignore defensive boosts, while also being unaffected by stat debuffs."
+}
+
+
 # ID: 117
 ability {
   id: ABILITY_SNOW_WARNING
   extended_description: "Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat."
+}
+
+
+# ID: 125
+ability {
+  id: ABILITY_SHEER_FORCE
+  extended_description: "Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted."
+}
+
+
+# ID: 126
+ability {
+  id: ABILITY_CONTRARY
+  extended_description: "Contrary reverses all stat changes affecting this Pokémon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat), opponent moves (Intimidate), and abilities (Simple). The reversed stats still respect +6/-6 limits."
+}
+
+
+# ID: 144
+ability {
+  id: ABILITY_REGENERATOR
+  extended_description: "Regenerator restores 33% of the Pokémon's maximum HP whenever it switches out of battle, provided it's still alive and not at full health. Works with voluntary switches, forced switches from moves like Roar, and U-turn/Volt Switch. Does not activate if KO'd. Essential for defensive pivoting strategies."
 }
 
 
