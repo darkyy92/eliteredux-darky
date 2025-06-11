@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Elite Redux Ability Codex - Comprehensive ability documentation",
   "scripts": {
-    "dev": "node scripts/copy-abilities.js && vitepress dev docs",
-    "build": "node scripts/copy-abilities.js && vitepress build docs",
+    "predev": "node scripts/copy-abilities.js",
+    "dev": "vitepress dev docs",
+    "prebuild": "node scripts/copy-abilities.js",
+    "build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "copy-abilities": "node scripts/copy-abilities.js"
   },

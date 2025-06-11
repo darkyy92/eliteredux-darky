@@ -5,21 +5,31 @@ import { fileURLToPath } from 'url'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
-// Function to get all ability files
+// Function to get all ability files - reads from both locations
 function getAbilityFiles() {
-  const abilitiesDir = join(__dirname, '../abilities')
+  // Try docs/abilities first (copied files)
+  let abilitiesDir = join(__dirname, '../abilities')
+  let files = []
+  
   try {
-    const files = readdirSync(abilitiesDir)
+    files = readdirSync(abilitiesDir)
       .filter(file => file.endsWith('.md') && file !== 'index.md')
-      .sort()
-    
-    return files.map(file => ({
-      text: file.replace('.md', '').replace(/_/g, ' '),
-      link: `/abilities/${file.replace('.md', '')}`
-    }))
   } catch {
-    return []
+    // If that fails, try reading from knowledge/abilities
+    try {
+      abilitiesDir = join(__dirname, '../../../knowledge/abilities')
+      files = readdirSync(abilitiesDir)
+        .filter(file => file.endsWith('.md') && file !== 'index.md' && file !== 'README.md')
+    } catch {
+      console.warn('No ability files found in either location')
+      return []
+    }
   }
+  
+  return files.sort().map(file => ({
+    text: file.replace('.md', '').replace(/_/g, ' '),
+    link: `/abilities/${file.replace('.md', '')}`
+  }))
 }
 
 export default defineConfig({
