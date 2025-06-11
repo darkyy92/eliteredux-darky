@@ -37,7 +37,7 @@ DRAGONSLAYER modifies damage based on the **types of the Pokemon involved**, not
 ### Example Scenarios
 - Dragonslayer user vs Dragonite: All moves deal 1.5x damage
 - Garchomp using Earthquake vs Dragonslayer user: Earthquake deals 0.5x damage (because Garchomp is Dragon-type)
-- Charizard using Dragon Pulse vs Dragonslayer user: Dragon Pulse deals normal damage (because Charizard is not Dragon-type)
+- Charizard using Dragon Pulse vs Dragonslayer user: Dragon Pulse deals 0.5x damage (because Charizard is Fire/Dragon-type in Elite Redux)
 
 ### Comparison to Similar Abilities
 Unlike type-based damage modifiers that check move types (like Filter or Solid Rock), DRAGONSLAYER specifically checks the Pokemon's types themselves, making it unique in its targeting approach.
