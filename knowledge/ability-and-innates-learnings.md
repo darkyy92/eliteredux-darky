@@ -19,7 +19,7 @@ This file documents general learnings about how the ability and innate system wo
 ## System Mechanics Patterns
 
 ### Common Ability Triggers
-- **onParentalBond**: Used for multi-hit abilities (e.g., Ice Cold Hunter)
+- **onParentalBond**: Used for multi-hit abilities
 - **Weather-based triggers**: Check weather conditions using `IsBattlerWeatherAffected()`
 - **Type-based triggers**: Check move types with `moveType == TYPE_X`
 
@@ -30,7 +30,7 @@ This file documents general learnings about how the ability and innate system wo
 - **Ability hooks**: Various hooks in the Ability struct (onParentalBond, onModifyDamage, etc.)
 
 ### Parental Bond Damage Multipliers (from GetParentalBondMultiplier)
-- **Default/Unlisted**: 100% damage on all hits (e.g., Ice Cold Hunter)
+- **Default/Unlisted**: 100% damage on all hits
 - **HYPER_AGGRESSIVE**: 25% on second hit
 - **THREE_HEADED**: 20% on second hit, 15% on third hit
 - **MINION_CONTROL**: 10% on second hit
@@ -52,6 +52,16 @@ When analyzing abilities with `/project:analyze-ability`:
 3. Document trigger conditions and battle state interactions
 4. Note any special cases or conditional behavior
 5. Individual ability documentation goes in `knowledge/abilities/{ability_id}_{ability_name}.md`
+
+## Critical Verification Requirements
+
+### Elite Redux Data Verification
+- **Never assume vanilla Pokemon facts** - Elite Redux has extensive changes
+- **Typing**: Check `proto/SpeciesList.textproto` for actual types
+- **Abilities**: Verify from species data, not vanilla assumptions  
+- **Stats**: Elite Redux has modified base stats for many Pokemon
+- **Examples in documentation**: Must use Elite Redux data, not vanilla Pokemon
+- Common changes include type modifications, ability distributions, stats/BSTs
 
 ## General Insights
 
@@ -140,10 +150,8 @@ constexpr Ability WeatherAbility = {
 
 ### Pokémon Type vs Move Type Abilities
 Some abilities check the Pokémon's type rather than move types:
-- **DRAGONSLAYER**: Checks if target/attacker IS Dragon-type (not move type)
-  - Uses `IS_BATTLER_OF_TYPE(battler, TYPE_X)` macro
-  - Offensive: 1.5x damage to Dragon-type Pokémon (all moves)
-  - Defensive: 0.5x damage from Dragon-type Pokémon (all their moves)
+- Uses `IS_BATTLER_OF_TYPE(battler, TYPE_X)` macro
+- Affects all moves from/to that Pokémon type, not specific move types
 - This pattern is distinct from move-type-based abilities like Filter
 
 ### Type Checking Macros
@@ -253,27 +261,25 @@ Abilities that change a Pokémon's form (e.g., Gulp Missile, Stance Change):
 - Often use `BattleScriptCall(BattleScript_AttackerFormChange)` for visual update
 - Can have different triggers (onAttacker for offensive, onDefender for defensive)
 
-### Example Implementation (Gulp Missile)
-```cpp
-constexpr Ability GulpMissile = {
-    .onAttacker = +[](ON_ATTACKER) -> int {
-        CHECK_NOT(gBattleMons[battler].status2 & STATUS2_TRANSFORMED)
-        CHECK(gBattleMons[battler].species == SPECIES_CRAMORANT)
-        // Form determination based on HP
-        SpeciesEnum newSpecies = gBattleMons[battler].hp <= gBattleMons[battler].maxHP / 2 
-            ? SPECIES_CRAMORANT_GORGING : SPECIES_CRAMORANT_GULPING;
-        UpdateAbilityStateIndicesForNewSpecies(battler, newSpecies);
-        gBattleMons[battler].species = newSpecies;
-        BattleScriptCall(BattleScript_AttackerFormChange);
-        return TRUE;
-    },
-    .unsuppressable = TRUE,
-    .randomizerBanned = TRUE,
-};
-```
+### Implementation Elements
+- Check for transformed status (prevent Ditto usage)
+- Verify specific species before form change
+- Use `UpdateAbilityStateIndicesForNewSpecies()` for proper tracking
+- Modify `gBattleMons[battler].species` directly
+- Call appropriate battle script for visual update
 
 ### Ability Properties
 - **unsuppressable**: Cannot be suppressed by Neutralizing Gas or similar effects
-- **randomizerBanned**: Not available in randomizer modes
+- **randomizerBanned**: Not available in randomizer modes (used for extremely complex/powerful abilities)
 - **acceleratedTwoTurn**: Special handling for two-turn moves like Dive
 - Species checks prevent transformed Pokémon (e.g., Ditto) from using form changes
+
+## Complex Ability Patterns
+
+### Multi-Effect Abilities
+- Often use `randomizerBanned = TRUE` to prevent random assignment
+- Type-based abilities check `moveType` for move's type, not Pokémon's type
+- Use extensive CHECK() validation for each effect branch
+- `AbilityStatusEffect()` function handles most status inflictions uniformly
+- Terrain effects use `TryChangeBattleTerrain()` for consistent implementation
+- Switch statements on `moveType` for type-based branching logic
