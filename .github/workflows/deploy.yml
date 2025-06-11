@@ -7,6 +7,7 @@ on:
     paths:
       - 'codex/**'
       - 'knowledge/abilities/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:

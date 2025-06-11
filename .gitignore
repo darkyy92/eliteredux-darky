@@ -5,3 +5,8 @@ __pycache__/
 *.tmp
 .vscode/
 .idea/
+
+# Codex (VitePress) specific
+codex/node_modules/
+codex/docs/.vitepress/dist/
+codex/docs/.vitepress/cache/
