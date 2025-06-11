@@ -1,4 +1,4 @@
-# LEVITATE - Ability ID 26
+# Levitate - Ability ID 26
 
 ## In-Game Description
 "Immune to Ground-type moves. Ups own Flying moves by 1.25x."

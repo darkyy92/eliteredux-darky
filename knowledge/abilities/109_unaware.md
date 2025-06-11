@@ -1,4 +1,4 @@
-# UNAWARE - Ability ID 109
+# Unaware - Ability ID 109
 
 ## In-Game Description
 "Ignores foes' stat changes, both positive and negative ones."

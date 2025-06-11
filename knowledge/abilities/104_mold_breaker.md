@@ -1,4 +1,4 @@
-# MOLD BREAKER - Ability ID 104
+# Mold Breaker - Ability ID 104
 
 ## In-Game Description
 "Moves hit through abilities. Also affects innates."
