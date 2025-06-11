@@ -26,8 +26,8 @@ export default defineConfig({
   title: 'Elite Redux Ability Codex',
   description: 'Comprehensive documentation of all Elite Redux abilities',
   
-  // Base URL for GitHub Pages - will be updated when we know the repo name
-  base: '/eliteredux-darky/',
+  // Base URL for custom domain
+  base: '/',
   
   // Dark theme by default
   appearance: 'dark',
