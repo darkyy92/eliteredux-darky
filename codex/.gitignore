@@ -5,3 +5,7 @@ docs/.vitepress/cache/
 *.log
 .env
 .env.local
+
+# Ignore copied ability files (except index.md)
+docs/abilities/*.md
+!docs/abilities/index.md

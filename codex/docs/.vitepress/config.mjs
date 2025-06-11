@@ -7,10 +7,10 @@ const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 // Function to get all ability files
 function getAbilityFiles() {
-  const abilitiesDir = join(__dirname, '../../../knowledge/abilities')
+  const abilitiesDir = join(__dirname, '../abilities')
   try {
     const files = readdirSync(abilitiesDir)
-      .filter(file => file.endsWith('.md'))
+      .filter(file => file.endsWith('.md') && file !== 'index.md')
       .sort()
     
     return files.map(file => ({
@@ -81,10 +81,5 @@ export default defineConfig({
   },
   
   // Source directory configuration
-  srcDir: '.',
-  
-  // Rewrites to map knowledge/abilities to /abilities route
-  rewrites: {
-    '../../knowledge/abilities/:file.md': 'abilities/:file.md'
-  }
+  srcDir: '.'
 })
