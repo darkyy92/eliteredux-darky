@@ -8,88 +8,379 @@
 #   extended_description: "Full description text without line breaks. Codegen will wrap at ~32-35 characters automatically."
 # }
 
-# Weather Abilities (Batch 1)
+---
 
-ability {
-  id: ABILITY_ICE_COLD_HUNTER
-  extended_description: "Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail."
-}
-
+# ID: 15
 ability {
   id: ABILITY_DRIZZLE
   extended_description: "Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (12 with Damp Rock). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder never misses. Activates Swift Swim, Rain Dish, and Dry Skin. Cannot override primal weather conditions."
 }
 
-ability {
-  id: ABILITY_DROUGHT
-  extended_description: "Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane accuracy drops. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine/Air Lock."
-}
 
+# ID: 45
 ability {
   id: ABILITY_SAND_STREAM
   extended_description: "Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush activate. Cannot override primal weather. Multiple weather setters compete by Speed stat."
 }
 
+
+# ID: 70
+ability {
+  id: ABILITY_DROUGHT
+  extended_description: "Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane accuracy drops. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine/Air Lock."
+}
+
+
+# ID: 117
 ability {
   id: ABILITY_SNOW_WARNING
   extended_description: "Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat."
 }
 
+
+# ID: 176
+ability {
+  id: ABILITY_STANCE_CHANGE
+  extended_description: "Automatically changes Aegislash's form based on moves used. Shield form switches to Blade when using damaging moves. Blade switches to Shield with King's Shield. Redux forms swap between physical/special based on move type. Unsuppressable. Form changes occur before attacks execute."
+}
+
+# ID: 189
 ability {
   id: ABILITY_PRIMORDIAL_SEA
   extended_description: "Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Activates rain-based abilities normally."
 }
 
+
+# ID: 190
 ability {
   id: ABILITY_DESOLATE_LAND
   extended_description: "Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Thaws frozen Pokemon. Solar moves charge instantly. Synthesis/Morning Sun heal more."
 }
 
+
+# ID: 191
 ability {
   id: ABILITY_DELTA_STREAM
   extended_description: "Creates Strong Winds lasting until user switches. Reduces super-effective damage to Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather. Protects all Flying Pokemon on field, not just user."
 }
 
-ability {
-  id: ABILITY_GULP_MISSILE
-  extended_description: "When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base form. Gulping form also lowers Defense by 1; Gorging form paralyzes."
-}
 
-ability {
-  id: ABILITY_WEATHER_CONTROL
-  extended_description: "Grants complete immunity to 18 specific weather-based moves when used by opponents: Bleakwind Storm, Blizzard, Sheer Cold, Thunder, Wildbolt Storm, Hurricane, Sandsear Storm, Springtide Storm, Ominous Wind, Eerie Spell, Solar Beam, Solar Blade, Weather Ball, Revival Blessing, Depletion Beam, Fire/Water/Grass Pledge. Does not block weather-setting moves or weather-boosted moves."
-}
-
+# ID: 226
 ability {
   id: ABILITY_ELECTRIC_SURGE
   extended_description: "Creates Electric Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon can't fall asleep and Electric moves gain 50% power. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon. Overrides other terrains when activated."
 }
 
-ability {
-  id: ABILITY_GRASSY_SURGE
-  extended_description: "Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains."
-}
 
+# ID: 227
 ability {
   id: ABILITY_PSYCHIC_SURGE
   extended_description: "Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides other terrains."
 }
 
-# [More weather abilities to be added]
 
-# Elite Redux Custom Abilities
+# ID: 229
+ability {
+  id: ABILITY_GRASSY_SURGE
+  extended_description: "Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains."
+}
 
+
+# ID: 241
+ability {
+  id: ABILITY_GULP_MISSILE
+  extended_description: "When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base form. Gulping form also lowers Defense by 1; Gorging form paralyzes."
+}
+
+
+# ID: 273
+ability {
+  id: ABILITY_POWER_FISTS
+  extended_description: "Punching moves gain 30% damage boost and target Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches and fighting moves. Allows physical attackers to exploit low SpDef, creating unique mixed offense threats."
+}
+
+
+# ID: 313
 ability {
   id: ABILITY_DRAGONSLAYER
   extended_description: "Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. This ability is based on the attacker and defender's types, not move types. The defensive bonus reduces damage from any move used by a Dragon-type Pokemon. Can be suppressed by Mold Breaker."
 }
 
+
+# ID: 341
 ability {
   id: ABILITY_FORT_KNOX
   extended_description: "Blocks offensive abilities that boost damage or enable multi-hits when defending. Nullifies ~158 damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond can bypass this defense. Pure defensive ability."
 }
 
-# [More to be added]
 
-# Original Pokemon Abilities
-# [To be added]
+# ID: 347
+ability {
+  id: ABILITY_MULTI_HEADED
+  extended_description: "Multi-hit attacks based on head count. Two heads: hits 2 times (100% + 25% damage = 125% total). Three heads: hits 3 times (100% + 20% + 15% = 135% total). Each hit can trigger contact effects and ability activations. More heads mean more total damage output."
+}
+
+
+# ID: 354
+ability {
+  id: ABILITY_WEATHER_CONTROL
+  extended_description: "Grants complete immunity to 18 specific weather-based moves when used by opponents: Bleakwind Storm, Blizzard, Sheer Cold, Thunder, Wildbolt Storm, Hurricane, Sandsear Storm, Springtide Storm, Ominous Wind, Eerie Spell, Solar Beam, Solar Blade, Weather Ball, Revival Blessing, Depletion Beam, Fire/Water/Grass Pledge. Does not block weather-setting moves or weather-boosted moves."
+}
+
+
+# ID: 397
+ability {
+  id: ABILITY_PYRO_SHELLS
+  extended_description: "After using a Mega Launcher-boosted move, automatically follows up with 50 BP Outburst (Normal/Special). Unlike regular Outburst (250 BP, KOs user), this version does NOT cause self-KO. Triggers once per turn. Combines well with pulse/aura/ball moves for extra damage."
+}
+
+
+# ID: 431
+ability {
+  id: ABILITY_DUNE_TERROR
+  extended_description: "Ground moves always deal 20% more damage (not weather-dependent). In sandstorm, takes 35% less damage from all attacks. Immune to sandstorm chip damage. The offensive boost works in any weather, making Ground attacks consistently threatening."
+}
+
+# Batch 3: User Questions Batch 2
+
+ability {
+  id: ABILITY_FORECAST
+  extended_description: "Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability."
+}
+
+ability {
+  id: ABILITY_HEATPROOF
+  extended_description: "Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Can still be inflicted with burn status condition but suffers no harmful effects from it."
+}
+
+ability {
+  id: ABILITY_WONDER_SKIN
+  extended_description: "Prevents opposing damage-boosting abilities like Hustle and Guts from applying their multipliers. Also blocks multihit abilities like Parental Bond from striking multiple times, forcing them to hit only once."
+}
+
+ability {
+  id: ABILITY_MEGA_LAUNCHER
+  extended_description: "Powers up pulse, beam, ball, and aura moves by 30%. Also boosts all status moves. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles and energy attacks."
+}
+
+ability {
+  id: ABILITY_POWER_OF_ALCHEMY
+  extended_description: "Upon entry, transmutes opposing Berries into Black Sludge. When any Pokémon loses an item, Power of Alchemy remembers and creates a replacement: regular items become Black Sludge (heals Poison-types, damages others), while transmuted items become Big Nuggets."
+}
+
+ability {
+  id: ABILITY_KNOW_YOUR_PLACE
+  extended_description: "Contact moves inflict dazed status for 5 turns. Dazed Pokémon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokémon compete normally among themselves. Does not stack."
+}
+
+
+# ID: 455
+ability {
+  id: ABILITY_ARCHMAGE
+  extended_description: "30% chance to add type-based effects: Poison=Toxic, Ice=Frostbite, Water=Confusion, Fire=Burn, Electric/Psychic/Fairy/Grass set terrain, Normal=Encore, Rock=Stealth Rock, Ghost=Disable, Dark=Bleed, Fighting=+SpAtk, Flying=+Speed, Dragon=-Atk, Ground=Trap, Steel=+Def."
+}
+
+
+# ID: 505
+ability {
+  id: ABILITY_MYSTIC_BLADES
+  extended_description: "Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers with cutting move access."
+}
+
+
+# ID: 515
+ability {
+  id: ABILITY_RETRIEVER
+  extended_description: "Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle. Message shows which item was retrieved."
+}
+
+
+# ID: 522
+ability {
+  id: ABILITY_EARLY_GRAVE
+  extended_description: "Ghost-type moves gain +1 priority when at full HP. Like Gale Wings for Ghost moves. Allows powerful Ghost attacks like Shadow Ball to strike first. Synergizes with revenge killing and maintaining momentum. Must stay at max HP to keep priority advantage. Rewards careful HP management."
+}
+
+
+# ID: 534
+ability {
+  id: ABILITY_COSMIC_DAZE
+  extended_description: "Cosmic Daze amplifies the disorientation of confused foes. All attacks against confused targets deal 2x damage, turning confusion into a deadly vulnerability. Perfect synergy with moves like Confuse Ray, Supersonic, or Swagger. Works with any source of confusion, including enemy self-inflicted. Confusion becomes a win condition."
+}
+
+# ID: 546
+ability {
+  id: ABILITY_SALT_CIRCLE
+  extended_description: "Prevents all opposing Pokemon from fleeing or switching when user enters battle. Works like automatic Mean Look on all foes. In doubles, traps both opponents. Wild Pokemon cannot run; trainers cannot switch normally. Effect lasts until user leaves field. Forced switches like Roar still work. Switch-in msg."
+}
+
+
+# ID: 568
+ability {
+  id: ABILITY_MIND_CRUNCH
+  extended_description: "Biting moves use Special Attack and deal 30% more damage. Transforms physical bites like Crunch, Fire Fang into special moves. All FLAG_STRONG_JAW_BOOST moves affected. Creates unique special attacker niche with physical coverage. Stronger boost than Strong Jaw. Works with Fishious Rend, Psychic Fangs."
+}
+
+
+# ID: 577
+ability {
+  id: ABILITY_SHARING_IS_CARING
+  extended_description: "All stat changes are shared between all battlers on the field. Both positive and negative stat changes affect everyone equally. Creates a level playing field where no Pokemon can gain stat advantages. Counters setup sweepers but also shares your own boosts with opponents. Double-edged strategic tool."
+}
+
+# ID: 585
+ability {
+  id: ABILITY_SUN_BASKING
+  extended_description: "In sun only: blocks all priority moves from opponents (like Queenly Majesty) and reduces physical damage by 50%. Both effects require sun weather to function. Provides excellent physical bulk and priority protection but only on sun teams."
+}
+
+
+# ID: 601
+ability {
+  id: ABILITY_MYTHICAL_ARROWS
+  extended_description: "Arrow moves become special and deal 30% more damage. Affects 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage. Perfect for Aegislash Redux's high Special Attack."
+}
+
+
+# ID: 622
+ability {
+  id: ABILITY_BEAUTIFUL_MUSIC
+  extended_description: "Sound moves gain 50% chance to infatuate targets, ignoring ALL gender restrictions. Works on any Pokemon including genderless. Only ability besides Pure Love that bypasses gender limits for attraction. Turns damaging sound attacks into potential disablers. Infatuated foes have 50% chance to not move."
+}
+
+
+# ID: 644
+ability {
+  id: ABILITY_ICE_COLD_HUNTER
+  extended_description: "Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail."
+}
+
+# Batch 2: User Questions Batch
+
+ability {
+  id: ABILITY_CHEATING_DEATH
+  extended_description: "Negates all damage for the first 2 hits received. Works like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards."
+}
+
+ability {
+  id: ABILITY_GALLANTRY
+  extended_description: "Negates all damage from first hit received. Works like Substitute — moves connect and secondary effects apply, but damage is 0. For multi-hit moves, only the first strike is blocked. Can be suppressed by Mold Breaker. Effect persists through switching."
+}
+
+ability {
+  id: ABILITY_HUNTERS_HORN
+  extended_description: "Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential."
+}
+
+ability {
+  id: ABILITY_PURE_LOVE
+  extended_description: "Infatuates on contact ignoring all gender requirements. Can infatuate genderless, same-gender, or any Pokemon. Deals 25% extra damage to infatuated targets. One of only two abilities (with Beautiful Music) that bypasses gender restrictions for infatuation."
+}
+
+
+# ID: 673
+ability {
+  id: ABILITY_BLOOD_STAIN
+  extended_description: "Always bleeding unless immune (Ghost/Rock types). Takes 1/8 HP damage per turn, can't heal or gain stat buffs. Spreads to opponents on ANY contact (dealing OR receiving). Unsuppressable. Creates an infectious bleeding effect that punishes physical attackers."
+}
+
+
+# ID: 742
+ability {
+  id: ABILITY_MAGICAL_FISTS
+  extended_description: "Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting punching coverage. Grumpig and Darmanitan Redux Aura notably have access to this ability."
+}
+
+
+# ID: 751
+ability {
+  id: ABILITY_ENERGIZED_HORNS
+  extended_description: "Horn moves become special and deal 30% more damage. Converts physical horn attacks (Horn Attack, Megahorn, Smart Strike) to special moves using SpAtk. Creates mixed attacker threats that bypass high Defense with horn-based coverage."
+}
+
+
+# ID: 781
+ability {
+  id: ABILITY_HUNTERS_MARK
+  extended_description: "Combines Ambush (guaranteed crits on first turn) with Deadeye (perfect accuracy for arrow/Mega Launcher moves, crits target lower defense). Despite description, has NO switch-out mechanics or Spirit Shackle effects. Pure offensive ability for arrow users."
+}
+
+# ID: 334
+ability {
+  id: ABILITY_BAD_LUCK
+  extended_description: "Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch chances. Extremely defensive."
+}
+
+# ID: 384
+ability {
+  id: ABILITY_LOW_BLOW
+  extended_description: "Uses 40 BP Feint Attack on switch-in (reduced from 80 BP). Dark-type, never misses, can't KO (falseSwipe). Provides guaranteed chip damage when entering battle. Targets random foe automatically. Good for pivot strategies and entry hazard synergy."
+}
+
+# ID: 428
+ability {
+  id: ABILITY_CHEAP_TACTICS
+  extended_description: "Automatically uses Scratch (40 BP Normal physical) when switching in. Free chip damage on entry, can break Focus Sash/Sturdy. Triggers contact abilities if applicable. Perfect for pivot Pokemon that switch frequently. True to its name - a cheap shot on entry."
+}
+
+# ID: 743
+ability {
+  id: ABILITY_CUTTHROAT
+  extended_description: "First slicing move gets +1 priority, then ability deactivates. Sharpen move uniquely RESETS this ability, allowing repeated priority slicing. Coil does NOT reset it. Works with moves having keen edge flag. Perfect for Sharpen + slicing move combos."
+}
+
+
+# ID: 256
+ability {
+  id: ABILITY_NEUTRALIZING_GAS
+  extended_description: "Fills the area with gas that suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects."
+}
+
+
+# ID: 288
+ability {
+  id: ABILITY_PERFECTIONIST
+  extended_description: "Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Common on Normal-types. Synergizes with Technician for devastating low-power offense."
+}
+
+
+# ID: 302
+ability {
+  id: ABILITY_COIL_UP
+  extended_description: "On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs."
+}
+
+
+# ID: 372
+ability {
+  id: ABILITY_MOMENTUM
+  extended_description: "Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes with Choice Scarf."
+}
+
+
+# ID: 373
+ability {
+  id: ABILITY_GRIP_PINCER
+  extended_description: "Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn (1/6 with Binding Band). Trap lasts 4-5 turns (7 with Grip Claw)."
+}
+
+
+# ID: 551
+ability {
+  id: ABILITY_IMPULSE
+  extended_description: "Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika."
+}
+
+
+# ID: 556
+ability {
+  id: ABILITY_SUBDUE
+  extended_description: "Subdue enhances all stat-lowering moves used by this Pokémon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities."
+}
+
+
+# ID: 715
+ability {
+  id: ABILITY_HOVER
+  extended_description: "Adds Psychic type on entry and grants Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation."
+}
