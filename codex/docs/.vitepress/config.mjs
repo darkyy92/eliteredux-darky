@@ -26,10 +26,29 @@ function getAbilityFiles() {
     }
   }
   
-  return files.sort().map(file => ({
-    text: file.replace('.md', '').replace(/_/g, ' '),
-    link: `/abilities/${file.replace('.md', '')}`
-  }))
+  // Sort files numerically by the ID prefix
+  files.sort((a, b) => {
+    const numA = parseInt(a.split('_')[0])
+    const numB = parseInt(b.split('_')[0])
+    return numA - numB
+  })
+  
+  return files.map(file => {
+    const nameWithoutExt = file.replace('.md', '')
+    const [id, ...nameParts] = nameWithoutExt.split('_')
+    
+    // Title case each word in the ability name
+    const formattedName = nameParts
+      .join(' ')
+      .replace(/\b\w/g, char => char.toUpperCase())
+    
+    const displayText = `${id} ${formattedName}`
+    
+    return {
+      text: displayText,
+      link: `/abilities/${nameWithoutExt}`
+    }
+  })
 }
 
 export default defineConfig({
