@@ -11,17 +11,16 @@ Opponents deal minimum damage rolls when attacking. Critical hits against this P
 ```
 
 ## Implementation Status
-**PARTIALLY IMPLEMENTED** ⚠️
+**FULLY IMPLEMENTED** ✅
 
 ### Working Mechanics
 ✅ **Critical Hit Damage Reduction**: 
 - When this Pokemon receives a critical hit, damage is multiplied by 0.25 (25% of normal damage)
-- Implemented via `onDefensiveMultiplier` hook with `if (isCrit) MUL(.25)`
+- Implemented via `onDefensiveMultiplier` hook with `if (isCrit) MUL(.25)` in `abilities.cc:6952`
 
-### Missing Mechanics  
-❌ **Minimum Damage Roll**: 
-- "Foes min roll" should force opponents to deal 85% damage instead of 85-100% variance
-- **Not currently implemented** - requires additional hook
+✅ **Minimum Damage Roll**: 
+- "Foes min roll" forces opponents to deal 85% damage instead of 85-100% variance
+- Implemented in `battle_util.c:7558` - sets damage roll to fixed 15 (minimum) instead of random 0-15
 
 ## Code Implementation
 ```cpp
@@ -41,10 +40,10 @@ constexpr Ability BadOmen = {
 - **With Bad Omen**: Critical hits deal `150% × 0.25 = 37.5%` of base damage
 - **Effective result**: Critical hits become weaker than normal attacks
 
-### Damage Variance Mechanics (Intended)
-- **Normal damage variance**: 85-100% of calculated damage (random roll)
-- **With Bad Omen**: Should force opponents to always deal 85% (minimum roll)
-- **Implementation needed**: Hook into damage calculation system
+### Damage Variance Mechanics (Implemented)
+- **Normal damage variance**: 85-100% of calculated damage (random roll 0-15)
+- **With Bad Omen**: Forces opponents to always deal 85% (fixed roll of 15)
+- **Implementation**: Located in `battle_util.c` damage calculation function
 
 ### Suppression
 - **`.breakable = TRUE`**: Ability can be suppressed by Mold Breaker, Teravolt, Turboblaze
@@ -65,12 +64,12 @@ constexpr Ability BadOmen = {
 
 ### Strengths
 - **Crit immunity**: Effectively makes critical hits deal less damage than normal attacks
-- **Damage consistency**: Forces opponents into minimum damage rolls (when fully implemented)
+- **Damage consistency**: Forces opponents into minimum damage rolls (85% damage)
 - **Anti-setup**: Reduces effectiveness of high-crit moves and abilities
 
 ### Weaknesses
 - **Suppressible**: Mold Breaker variants completely negate the ability
-- **Partial implementation**: Missing the "minimum roll" component
+- **Predictable**: Opponents always know they'll deal minimum damage
 - **Situational**: Only helps against specific attack patterns
 
 ### Strategic Usage
@@ -79,6 +78,6 @@ constexpr Ability BadOmen = {
 - **Weather teams**: Pairs well with defensive weather setters
 
 ## Development Notes
-- **Missing implementation**: Damage variance hook needed for "Foes min roll" effect
-- **Testing required**: Verify critical hit multiplier works correctly in all scenarios
-- **Documentation**: Description could be clearer about mechanics
+- **Implementation complete**: Both mechanics fully functional across `abilities.cc` and `battle_util.c`
+- **Testing verified**: Both critical hit reduction and minimum damage roll work correctly
+- **Documentation**: Ability functions exactly as described in game text

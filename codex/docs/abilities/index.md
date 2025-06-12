@@ -12,10 +12,6 @@ Welcome to the complete list of Elite Redux abilities. Each ability is documente
 
 Abilities are named using the format: `ID_ability_name.md`
 
-For example:
-- `522_early_grave.md` - Early Grave ability
-- `15_drizzle.md` - Drizzle ability
-
 ## Contributing
 
 If you find any errors or have suggestions for improvements, please contact the Elite Redux development team.

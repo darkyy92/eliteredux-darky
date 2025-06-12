@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 66
+Completed: 87
 In Progress: 0
 
 ## Progress Tracking
@@ -9,38 +9,38 @@ In Progress: 0
 | ID  | Ability Name               | Researched | Written | Reviewed | Character Count |
 |-----|----------------------------|------------|---------|----------|-----------------|
 |   0 | None                       | ❌          | ❌       | ❌        | -               |
-|   1 | Stench                     | ❌          | ❌       | ❌        | -               |
+|   1 | Stench                     | ✅          | ✅       | ❌        | -               |
 |   2 | Drizzle                    | ✅          | ✅       | ❌        | ~300            |
 |   3 | Speed Boost                | ✅          | ✅       | ❌        | ~300            |
-|   4 | Battle Armor               | ❌          | ❌       | ❌        | -               |
-|   5 | Sturdy                     | ❌          | ❌       | ❌        | -               |
-|   6 | Damp                       | ❌          | ❌       | ❌        | -               |
-|   7 | Limber                     | ❌          | ❌       | ❌        | -               |
-|   8 | Sand Veil                  | ❌          | ❌       | ❌        | -               |
-|   9 | Static                     | ❌          | ❌       | ❌        | -               |
-|  10 | Volt Absorb                | ❌          | ❌       | ❌        | -               |
-|  11 | Water Absorb               | ❌          | ❌       | ❌        | -               |
-|  12 | Oblivious                  | ❌          | ❌       | ❌        | -               |
-|  13 | Cloud Nine                 | ❌          | ❌       | ❌        | -               |
-|  14 | Compound Eyes              | ❌          | ❌       | ❌        | -               |
-|  15 | Insomnia                   | ❌          | ❌       | ❌        | -               |
-|  16 | Color Change               | ❌          | ❌       | ❌        | -               |
-|  17 | Immunity                   | ❌          | ❌       | ❌        | -               |
-|  18 | Flash Fire                 | ❌          | ❌       | ❌        | -               |
-|  19 | Shield Dust                | ❌          | ❌       | ❌        | -               |
-|  20 | Own Tempo                  | ❌          | ❌       | ❌        | -               |
-|  21 | Suction Cups               | ❌          | ❌       | ❌        | -               |
+|   4 | Battle Armor               | ✅          | ✅       | ❌        | -               |
+|   5 | Sturdy                     | ✅          | ✅       | ❌        | -               |
+|   6 | Damp                       | ✅          | ✅       | ❌        | -               |
+|   7 | Limber                     | ✅          | ✅       | ❌        | -               |
+|   8 | Sand Veil                  | ✅          | ✅       | ❌        | -               |
+|   9 | Static                     | ✅          | ✅       | ❌        | -               |
+|  10 | Volt Absorb                | ✅          | ✅       | ❌        | -               |
+|  11 | Water Absorb               | ✅          | ✅       | ❌        | -               |
+|  12 | Oblivious                  | ✅          | ✅       | ❌        | -               |
+|  13 | Cloud Nine                 | ✅          | ✅       | ✅        | 297             |
+|  14 | Compound Eyes              | ✅          | ✅       | ✅        | 268             |
+|  15 | Insomnia                   | ✅          | ✅       | ✅        | 254             |
+|  16 | Color Change               | ✅          | ✅       | ✅        | 276             |
+|  17 | Immunity                   | ✅          | ✅       | ✅        | 281             |
+|  18 | Flash Fire                 | ✅          | ✅       | ✅        | 264             |
+|  19 | Shield Dust                | ✅          | ✅       | ✅        | 286             |
+|  20 | Own Tempo                  | ✅          | ✅       | ✅        | 293             |
+|  21 | Suction Cups               | ✅          | ✅       | ✅        | 295             |
 |  22 | Intimidate                 | ✅          | ✅       | ❌        | ~300            |
-|  23 | Shadow Tag                 | ❌          | ❌       | ❌        | -               |
-|  24 | Rough Skin                 | ❌          | ❌       | ❌        | -               |
-|  25 | Wonder Guard               | ❌          | ❌       | ❌        | -               |
+|  23 | Shadow Tag                 | ✅          | ✅       | ✅        | 298             |
+|  24 | Rough Skin                 | ✅          | ✅       | ✅        | 251             |
+|  25 | Wonder Guard               | ✅          | ✅       | ✅        | 280             |
 |  26 | Levitate                   | ✅          | ✅       | ❌        | ~300            |
-|  27 | Effect Spore               | ❌          | ❌       | ❌        | -               |
-|  28 | Synchronize                | ❌          | ❌       | ❌        | -               |
-|  29 | Clear Body                 | ❌          | ❌       | ❌        | -               |
-|  30 | Natural Cure               | ❌          | ❌       | ❌        | -               |
-|  31 | Lightning Rod              | ❌          | ❌       | ❌        | -               |
-|  32 | Serene Grace               | ❌          | ❌       | ❌        | -               |
+|  27 | Effect Spore               | ✅          | ✅       | ✅        | 280             |
+|  28 | Synchronize                | ✅          | ✅       | ✅        | 276             |
+|  29 | Clear Body                 | ✅          | ✅       | ✅        | 268             |
+|  30 | Natural Cure               | ✅          | ✅       | ✅        | 271             |
+|  31 | Lightning Rod              | ✅          | ✅       | ✅        | 279             |
+|  32 | Serene Grace               | ✅          | ✅       | ✅        | 273             |
 |  33 | Swift Swim                 | ❌          | ❌       | ❌        | -               |
 |  34 | Chlorophyll                | ❌          | ❌       | ❌        | -               |
 |  35 | Illuminate                 | ❌          | ❌       | ❌        | -               |
@@ -415,7 +415,7 @@ In Progress: 0
 | 404 | Mineralize                 | ❌          | ❌       | ❌        | -               |
 | 405 | Loose Rocks                | ❌          | ❌       | ❌        | -               |
 | 406 | Spinning Top               | ❌          | ❌       | ❌        | -               |
-| 407 | Retribution Blow           | ❌          | ❌       | ❌        | -               |
+| 407 | Retribution Blow           | ✅         | ✅      | ✅       | ~300            |
 | 408 | Fearmonger                 | ❌          | ❌       | ❌        | -               |
 | 409 | Kings Wrath                | ❌          | ❌       | ❌        | -               |
 | 410 | Queens Mourning            | ❌          | ❌       | ❌        | -               |
@@ -424,7 +424,7 @@ In Progress: 0
 | 413 | Draconize                  | ❌          | ❌       | ❌        | -               |
 | 414 | Pretty Princess            | ❌          | ❌       | ❌        | -               |
 | 415 | Self Repair                | ❌          | ❌       | ❌        | -               |
-| 416 | Atomic Burst               | ❌          | ❌       | ❌        | -               |
+| 416 | Atomic Burst               | ✅         | ✅      | ❌        | 245             |
 | 417 | Hellblaze                  | ❌          | ❌       | ❌        | -               |
 | 418 | Riptide                    | ❌          | ❌       | ❌        | -               |
 | 419 | Forest Rage                | ❌          | ❌       | ❌        | -               |
@@ -435,8 +435,8 @@ In Progress: 0
 | 424 | Equinox                    | ❌          | ❌       | ❌        | -               |
 | 425 | Absorbant                  | ❌          | ❌       | ❌        | -               |
 | 426 | Clueless                   | ❌          | ❌       | ❌        | -               |
-| 427 | Cheating Death             | ✅          | ✅       | ❌        | ~300            |
-| 428 | Cheap Tactics              | ✅          | ✅       | ❌        | ~300            |
+| 427 | Cheating Death             | ✅         | ✅      | ❌        | ~300            |
+| 428 | Cheap Tactics              | ✅         | ✅      | ❌        | ~300            |
 | 429 | Coward                     | ❌          | ❌       | ❌        | -               |
 | 430 | Volt Rush                  | ❌          | ❌       | ❌        | -               |
 | 431 | Dune Terror                | ❌          | ❌       | ❌        | -               |
@@ -463,7 +463,7 @@ In Progress: 0
 | 452 | Fairy Tale                 | ❌          | ❌       | ❌        | -               |
 | 453 | Raging Moth                | ❌          | ❌       | ❌        | -               |
 | 454 | Adrenaline Rush            | ❌          | ❌       | ❌        | -               |
-| 455 | Archmage                   | ✅          | ✅       | ❌        | ~300            |
+| 455 | Archmage                   | ✅         | ✅      | ❌        | ~300            |
 | 456 | Cryomancy                  | ❌          | ❌       | ❌        | -               |
 | 457 | Phantom Pain               | ❌          | ❌       | ❌        | -               |
 | 458 | Purgatory                  | ❌          | ❌       | ❌        | -               |
@@ -472,7 +472,7 @@ In Progress: 0
 | 461 | Monkey Business            | ❌          | ❌       | ❌        | -               |
 | 462 | Combat Specialist          | ❌          | ❌       | ❌        | -               |
 | 463 | Jungles Guard              | ❌          | ❌       | ❌        | -               |
-| 464 | Hunters Horn               | ✅          | ✅       | ❌        | ~300            |
+| 464 | Hunters Horn               | ✅         | ✅      | ❌        | ~300            |
 | 465 | Pixie Power                | ❌          | ❌       | ❌        | -               |
 | 466 | Plasma Lamp                | ❌          | ❌       | ❌        | -               |
 | 467 | Magma Eater                | ❌          | ❌       | ❌        | -               |
@@ -513,24 +513,24 @@ In Progress: 0
 | 502 | Seaborne                   | ❌          | ❌       | ❌        | -               |
 | 503 | High Tide                  | ❌          | ❌       | ❌        | -               |
 | 504 | Change Of Heart            | ❌          | ❌       | ❌        | -               |
-| 505 | Mystic Blades              | ✅          | ✅       | ❌        | ~300            |
+| 505 | Mystic Blades              | ✅         | ✅      | ❌        | ~300            |
 | 506 | Determination              | ❌          | ❌       | ❌        | -               |
 | 507 | Fertilize                  | ❌          | ❌       | ❌        | -               |
-| 508 | Pure Love                  | ✅          | ✅       | ❌        | ~300            |
+| 508 | Pure Love                  | ✅         | ✅      | ❌        | ~300            |
 | 509 | Fighter                    | ❌          | ❌       | ❌        | -               |
 | 510 | Mycelium Might             | ❌          | ❌       | ❌        | -               |
 | 511 | Telekinetic                | ❌          | ❌       | ❌        | -               |
 | 512 | Combustion                 | ❌          | ❌       | ❌        | -               |
 | 513 | Pony Power                 | ❌          | ❌       | ❌        | -               |
 | 514 | Powder Burst               | ❌          | ❌       | ❌        | -               |
-| 515 | Retriever                  | ✅          | ✅       | ❌        | ~300            |
+| 515 | Retriever                  | ✅         | ✅      | ❌        | ~300            |
 | 516 | Monster Mash               | ❌          | ❌       | ❌        | -               |
 | 517 | Two Step                   | ❌          | ❌       | ❌        | -               |
 | 518 | Spiteful                   | ❌          | ❌       | ❌        | -               |
 | 519 | Fortitude                  | ❌          | ❌       | ❌        | -               |
 | 520 | Devourer                   | ❌          | ❌       | ❌        | -               |
 | 521 | Phantom Thief              | ❌          | ❌       | ❌        | -               |
-| 522 | Early Grave                | ✅          | ✅       | ❌        | ~300            |
+| 522 | Early Grave                | ✅         | ✅      | ❌        | ~300            |
 | 523 | Grappler                   | ❌          | ❌       | ❌        | -               |
 | 524 | Bass Boosted               | ❌          | ❌       | ❌        | -               |
 | 525 | Flaming Jaws               | ❌          | ❌       | ❌        | -               |
@@ -542,7 +542,7 @@ In Progress: 0
 | 531 | Snap Trap When Hit         | ❌          | ❌       | ❌        | -               |
 | 532 | Permanence                 | ❌          | ❌       | ❌        | -               |
 | 533 | Hubris                     | ❌          | ❌       | ❌        | -               |
-| 534 | Cosmic Daze                | ✅          | ✅       | ❌        | ~300            |
+| 534 | Cosmic Daze                | ✅         | ✅      | ❌        | ~300            |
 | 535 | Minds Eye                  | ❌          | ❌       | ❌        | -               |
 | 536 | Blood Price                | ❌          | ❌       | ❌        | -               |
 | 537 | Spike Armor                | ❌          | ❌       | ❌        | -               |
@@ -679,7 +679,7 @@ In Progress: 0
 | 668 | No Turning Back            | ❌          | ❌       | ❌        | -               |
 | 669 | Flammable Coat             | ❌          | ❌       | ❌        | -               |
 | 670 | Draco Morale               | ❌          | ❌       | ❌        | -               |
-| 671 | Bad Omen                   | ❌          | ❌       | ❌        | -               |
+| 671 | Bad Omen                   | ✅          | ✅       | ✅        | ~300            |
 | 672 | Mosh Pit                   | ❌          | ❌       | ❌        | -               |
 | 673 | Blood Stain                | ❌          | ❌       | ❌        | -               |
 | 674 | Blood Stigma               | ❌          | ❌       | ❌        | -               |
@@ -781,7 +781,7 @@ In Progress: 0
 | 770 | Gladiator                  | ❌          | ❌       | ❌        | -               |
 | 771 | Forsaken Heart             | ❌          | ❌       | ❌        | -               |
 | 772 | Relentless                 | ❌          | ❌       | ❌        | -               |
-| 773 | Soothsayer                 | ❌          | ❌       | ❌        | -               |
+| 773 | Soothsayer                 | ✅          | ✅       | ✅        | ~300            |
 | 774 | Corrupted Mind             | ❌          | ❌       | ❌        | -               |
 | 775 | Flame Coat                 | ❌          | ❌       | ❌        | -               |
 | 776 | Unown Power                | ❌          | ❌       | ❌        | -               |
@@ -911,7 +911,7 @@ In Progress: 0
 
 ### Batch 4: User Questions Batch 3 (6 abilities)
 - [x] ABILITY_MULTI_HEADED
-- [x] ABILITY_PYRO_SHELLS  
+- [x] ABILITY_PYRO_SHELLS
 - [x] ABILITY_DUNE_TERROR
 - [x] ABILITY_SUN_BASKING
 - [x] ABILITY_BLOOD_STAIN

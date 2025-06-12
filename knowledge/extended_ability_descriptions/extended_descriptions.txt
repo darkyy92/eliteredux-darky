@@ -454,3 +454,228 @@ ability {
   id: ABILITY_HOVER
   extended_description: "Adds Psychic type on entry and grants Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation."
 }
+
+
+# ID: 407
+ability {
+  id: ABILITY_RETRIBUTION_BLOW
+  extended_description: "Automatically uses 150 BP Hyper Beam against any opponent that boosts stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers and stat-boosting strategies with immediate, powerful retaliation. 100% accuracy, Normal-type damage."
+}
+
+
+# ID: 671
+ability {
+  id: ABILITY_BAD_OMEN
+  extended_description: "Opponents deal minimum damage rolls when attacking. Critical hits against this Pokemon deal only 25% of their normal damage instead of 150-200%. This ability can be suppressed by Mold Breaker and similar effects."
+}
+
+
+# ID: 773
+ability {
+  id: ABILITY_SOOTHSAYER
+  extended_description: "First switch-in only: Take 0.5× damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field."
+}
+
+
+# ID: 416
+ability {
+  id: ABILITY_ATOMIC_BURST
+  extended_description: "When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with increased power and grant STAB if the user is Electric-type."
+}
+
+
+# ID: 1
+ability {
+  id: ABILITY_STENCH
+  extended_description: "Moves that can flinch now have an extra 10% chance to make the target unable to move this turn. Outside of battle, wild Pokémon appear half as often when this Pokémon leads the party."
+}
+
+
+# ID: 4
+ability {
+  id: ABILITY_BATTLE_ARMOR
+  extended_description: "This Pokémon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokémon significantly more durable in battle."
+}
+
+
+# ID: 5
+ability {
+  id: ABILITY_STURDY
+  extended_description: "When at full HP, this Pokémon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks."
+}
+
+
+# ID: 6
+ability {
+  id: ABILITY_DAMP
+  extended_description: "Contact moves from or against this Pokémon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances."
+}
+
+
+# ID: 7
+ability {
+  id: ABILITY_LIMBER
+  extended_description: "This Pokémon's flexible body prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage."
+}
+
+
+# ID: 8
+ability {
+  id: ABILITY_SAND_VEIL
+  extended_description: "During sandstorm weather, this Pokémon's evasiveness increases by 25%, making it harder to hit. Additionally, this Pokémon takes no damage from sandstorm's harsh conditions."
+}
+
+
+# ID: 9
+ability {
+  id: ABILITY_STATIC
+  extended_description: "Physical contact with this Pokémon has a 30% chance to cause paralysis. In Elite Redux, this also triggers when this Pokémon makes contact with opponents, doubling its effectiveness."
+}
+
+
+# ID: 10
+ability {
+  id: ABILITY_VOLT_ABSORB
+  extended_description: "This Pokémon absorbs Electric-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Electric damage and effects."
+}
+
+
+# ID: 11
+ability {
+  id: ABILITY_WATER_ABSORB
+  extended_description: "This Pokémon absorbs Water-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Water damage and effects."
+}
+
+
+# ID: 12
+ability {
+  id: ABILITY_OBLIVIOUS
+  extended_description: "This Pokémon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices."
+}
+
+
+# ID: 13
+ability {
+  id: ABILITY_CLOUD_NINE
+  extended_description: "Cloud Nine clears all weather upon switch-in and completely nullifies weather effects while the user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams."
+}
+
+
+# ID: 14
+ability {
+  id: ABILITY_COMPOUND_EYES
+  extended_description: "Compound Eyes grants a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokémon are 4x more likely to hold items when this leads your party."
+}
+
+
+# ID: 15
+ability {
+  id: ABILITY_INSOMNIA
+  extended_description: "Insomnia prevents this Pokémon from falling asleep by any means, including sleep-inducing moves, abilities, and effects. The move Rest will fail completely if used. If this ability is gained while asleep (via Worry Seed), the Pokémon immediately wakes up."
+}
+
+
+# ID: 16
+ability {
+  id: ABILITY_COLOR_CHANGE
+  extended_description: "Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major upgrade from original ability."
+}
+
+
+# ID: 17
+ability {
+  id: ABILITY_IMMUNITY
+  extended_description: "Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker."
+}
+
+
+# ID: 18
+ability {
+  id: ABILITY_FLASH_FIRE
+  extended_description: "Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers."
+}
+
+
+# ID: 19
+ability {
+  id: ABILITY_SHIELD_DUST
+  extended_description: "Shield Dust provides triple protection: blocks all secondary effects from damaging moves (burn, paralysis, stat drops), grants complete immunity to entry hazards (Stealth Rock, Spikes), and nullifies all powder-based moves. Elite Redux significantly expanded this ability's defensive coverage."
+}
+
+
+# ID: 20
+ability {
+  id: ABILITY_OWN_TEMPO
+  extended_description: "Own Tempo maintains perfect composure, granting immunity to confusion from all sources. Also blocks Intimidate's Attack drop and prevents the custom Scared status effect. Works against Swagger, Teeter Dance, and all confusion-inducing moves. Elite Redux expanded immunities beyond confusion."
+}
+
+
+# ID: 21
+ability {
+  id: ABILITY_SUCTION_CUPS
+  extended_description: "Suction Cups anchors the Pokémon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves."
+}
+
+
+# ID: 23
+ability {
+  id: ABILITY_SHADOW_TAG
+  extended_description: "Shadow Tag traps opposing Pokémon, preventing them from switching out through normal means. Ghost-type Pokémon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape."
+}
+
+# ID: 24
+ability {
+  id: ABILITY_ROUGH_SKIN
+  extended_description: "Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance."
+}
+
+
+# ID: 25
+ability {
+  id: ABILITY_WONDER_GUARD
+  extended_description: "Only super-effective moves can damage this Pokémon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense."
+}
+
+
+# ID: 27
+ability {
+  id: ABILITY_EFFECT_SPORE
+  extended_description: "When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status."
+}
+
+
+# ID: 28
+ability {
+  id: ABILITY_SYNCHRONIZE
+  extended_description: "When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokémon have same nature when leading party. Status mirror that punishes status users."
+}
+
+
+# ID: 29
+ability {
+  id: ABILITY_CLEAR_BODY
+  extended_description: "Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam."
+}
+
+
+# ID: 30
+ability {
+  id: ABILITY_NATURAL_CURE
+  extended_description: "Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokémon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum."
+}
+
+
+# ID: 31
+ability {
+  id: ABILITY_LIGHTNING_ROD
+  extended_description: "Draws all Electric-type moves to this Pokémon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter."
+}
+
+
+# ID: 32
+ability {
+  id: ABILITY_SERENE_GRACE
+  extended_description: "Doubles the chance of all secondary effects from this Pokémon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely."
+}
+
+EOF < /dev/null
