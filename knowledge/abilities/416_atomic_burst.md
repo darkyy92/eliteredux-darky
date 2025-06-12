@@ -1,4 +1,4 @@
-# ATOMIC BURST - Ability ID 416
+# Atomic Burst - Ability ID 416
 
 ## In-Game Description
 "Electromorphosis + Galvanize."
