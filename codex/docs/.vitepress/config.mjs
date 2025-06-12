@@ -84,7 +84,10 @@ export default defineConfig({
     // Navigation
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Abilities', link: '/abilities/' }
+      { text: 'Abilities', link: '/abilities/' },
+      { text: 'Discord', link: 'http://discord.elite-redux.com' },
+      { text: 'Pokédex', link: 'http://dex.elite-redux.com' },
+      { text: 'Wiki', link: 'https://wiki.elite-redux.com' }
     ],
     
     // Sidebar with all abilities
@@ -99,9 +102,7 @@ export default defineConfig({
     },
     
     // Social links
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/darkyy92/eliteredux-darky' }
-    ],
+    socialLinks: [],
     
     // Footer
     footer: {
