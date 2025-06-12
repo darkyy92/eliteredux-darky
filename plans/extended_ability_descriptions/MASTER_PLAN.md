@@ -6,7 +6,7 @@
 
 ## Quick Reference
 - **Total abilities**: 867+ (growing daily)
-- **UI constraints**: 11 usable lines, 30 chars/line, 280-300 chars total
+- **UI constraints**: 11 usable lines, 30 chars/line, 280-300 chars total (INCLUDING spaces - GBA hardware requirement)
 - **Text wrapping**: Automatic by codegen (no manual line breaks)
 - **Storage**: `knowledge/extended_ability_descriptions/`
 - **Current status**: Ready to start writing content
@@ -68,7 +68,7 @@ According to Mawootad, three components are needed:
 ## Content Requirements
 
 ### Extended Description Guidelines
-- **Length**: 350-525 characters (10-15 lines at ~32-35 chars/line)
+- **Length**: 280-300 characters INCLUDING spaces (GBA hardware limit: 30 chars/line × 11 lines = 330 max)
 - **Format**: Continuous text, no manual line breaks
 - **Writing style** (from analysis of 867 abilities):
   - 91% active voice (start with verbs)
@@ -167,20 +167,25 @@ According to Mawootad, three components are needed:
 - **Action**: Focus on content creation while UI is being coded
 
 ### ✅ Discovered via UI Screenshots
-- Display shows **10-15 lines available** (huge popup window)
-- ~32-35 chars per line
-- Total capacity: **350-525 characters possible**
-- Can use empty lines for readability
+- Display shows **11 usable lines** (14 total minus 3 blank for readability)
+- **30 chars per line** (GBA hardware limit)
+- Total capacity: **280-300 characters INCLUDING spaces** (aim for this range)
 - Automatic text wrapping (no manual breaks)
 - Access: Press A twice from ability screen
+- **CRITICAL**: All character counts must include spaces - GBA renders spaces as tiles
 
 ### Ready to Start NOW
 - 🟢 **Start writing extended descriptions immediately!**
-- 🟢 10-15 lines available with formatting options
+- 🟢 11 usable lines available (280-300 chars INCLUDING spaces)
 - 🟢 Can use empty lines for better readability
 - 🟢 Proto integration can happen in parallel
 
 ## Immediate Next Steps
+
+0. **Fix Existing Character Counts** 🔧:
+   - Run `python3 scripts/recount_ability_descriptions.py` to fix all existing files
+   - This updates counts to include spaces (GBA hardware requirement)
+   - Review any abilities over 300 chars for shortening
 
 1. **Start Writing Extended Descriptions** ✍️:
    - Begin with weather abilities (high impact)
@@ -195,7 +200,7 @@ According to Mawootad, three components are needed:
 
 3. **Content Creation Workflow**:
    - Use `/project:analyze-ability` for mechanics
-   - Write 350-525 character descriptions
+   - Write 280-300 character descriptions (INCLUDING spaces)
    - Store in `knowledge/extended_ability_descriptions/`
    - Update progress tracker
 

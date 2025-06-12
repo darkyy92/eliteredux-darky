@@ -16,6 +16,8 @@ hero:
 features:
   - title: Complete Documentation
     details: Every ability in Elite Redux is thoroughly documented with detailed explanations of mechanics and effects.
+  - title: Community-Driven
+    details: Help improve the codex! Each ability page has a "Suggest Edit" button for reporting errors or suggesting improvements.
   - title: Searchable
     details: Quickly find any ability using the built-in search. Just press Ctrl+K or Cmd+K to start searching.
   - title: Always Updated
@@ -31,6 +33,15 @@ This comprehensive documentation contains detailed information about every abili
 - **Browse All Abilities**: Use the sidebar or click "Browse Abilities" above
 - **Search**: Press `Ctrl+K` (or `Cmd+K` on Mac) to search for any ability
 - **Navigation**: Use arrow keys to navigate search results
+
+### Help Improve the Codex
+
+Every ability page includes a **"Suggest Edit"** button that allows you to:
+- Report factual errors or unclear descriptions
+- Suggest improvements to ability explanations
+- Help maintain accurate documentation for the community
+
+Your feedback is reviewed by the Elite Redux team and converted into updates automatically. See our [Contributing Guide](/contributing) for more details.
 
 ### About Elite Redux
 

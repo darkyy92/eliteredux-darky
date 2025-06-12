@@ -85,6 +85,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Abilities', link: '/abilities/' },
+      { text: 'Contributing', link: '/contributing' },
       { text: 'Discord', link: 'http://discord.elite-redux.com' },
       { text: 'Pokédex', link: 'http://dex.elite-redux.com' },
       { text: 'Wiki', link: 'https://wiki.elite-redux.com' }

@@ -49,11 +49,34 @@ charmander.
 
 ## Recommendations for Extended Descriptions
 
-- **Target length**: 280-300 characters total
+- **Target length**: 280-300 characters total (INCLUDING spaces - GBA hardware requirement)
 - **Line usage**: 9-11 lines of text (leaving 3 blank for readability)
 - **Style**: Complete sentences, detailed mechanics, but more concise than originally planned
 - **No manual formatting** - Let codegen handle wrapping
-- **Key constraint**: Must fit within GBA UI's physical display limits
+- **Key constraint**: Must fit within GBA UI's physical display limits (spaces count as tiles)
+- **CRITICAL**: Character counting MUST include spaces - GBA renders each space as a fixed 8×8 tile
+
+## Character Counting Requirements
+
+### Why Spaces Must Be Counted
+The Game Boy Advance renders text using a fixed 8×8 tile grid system:
+- **Every character** (letter, number, punctuation, space) occupies one tile
+- **Spaces are visible tiles** - they consume screen real estate
+- **30 characters per line** means 30 tiles, regardless of content
+- **Text overflow** occurs if too many tiles are used, not too many "letters"
+
+### Historical Issue
+Many existing ability files have incorrect character counts that exclude spaces:
+- Example: Simple ability shows "Character count: 299" but is actually 324 with spaces
+- This causes overflow on real GBA hardware
+- **Solution**: Use the recount script to fix all existing files
+
+### Validation Formula
+```
+safe_char_limit = (visible_lines - blank_lines) × max_cols
+                = (14 - 3) × 30  
+                = 330 tiles maximum (aim for ≤300)
+```
 
 ## Notes
 - The UI is already fully implemented and working
