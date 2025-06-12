@@ -113,7 +113,7 @@ export default defineConfig({
   // Markdown configuration
   markdown: {
     theme: {
-      light: 'github-dark',
+      light: 'github-light',
       dark: 'github-dark'
     }
   },

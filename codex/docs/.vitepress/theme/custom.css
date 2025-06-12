@@ -1,5 +1,30 @@
-/* Custom dark theme enhancements */
+/* Theme-neutral variables */
 :root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+  --vp-c-brand-dark: #535bf2;
+  
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #646cff 30%, #747bff);
+}
+
+/* Light theme variables */
+:root:not(.dark) {
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f9f9f9;
+  --vp-c-bg-mute: #f1f1f1;
+  --vp-c-bg-alt: #f6f6f6;
+  
+  --vp-c-divider: #e2e2e3;
+  --vp-c-divider-light: #e2e2e3;
+  
+  --vp-c-text-1: #213547;
+  --vp-c-text-2: #476582;
+  --vp-c-text-3: #7c7c7c;
+}
+
+/* Dark theme variables */
+.dark {
   --vp-c-bg: #0f0f0f;
   --vp-c-bg-soft: #1a1a1a;
   --vp-c-bg-mute: #202020;
@@ -11,13 +36,6 @@
   --vp-c-text-1: #e1e1e1;
   --vp-c-text-2: #b8b8b8;
   --vp-c-text-3: #8e8e8e;
-  
-  --vp-c-brand: #646cff;
-  --vp-c-brand-light: #747bff;
-  --vp-c-brand-dark: #535bf2;
-  
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(120deg, #646cff 30%, #747bff);
 }
 
 /* Better mobile experience */
@@ -31,19 +49,30 @@
   }
 }
 
-/* Search enhancement */
+/* Search enhancement - applies to both themes via CSS variables */
 .VPLocalSearchBox {
   --vp-local-search-bg: var(--vp-c-bg-soft);
   --vp-local-search-result-bg: var(--vp-c-bg-mute);
   --vp-local-search-result-border: var(--vp-c-divider);
 }
 
-/* Code blocks */
-.vp-code-dark {
+/* Code blocks - light theme */
+:root:not(.dark) .vp-code {
+  background-color: #f6f8fa !important;
+}
+
+:root:not(.dark) pre {
+  background-color: #f6f8fa !important;
+  border: 1px solid var(--vp-c-divider);
+}
+
+/* Code blocks - dark theme */
+.dark .vp-code,
+.dark .vp-code-dark {
   background-color: #161616 !important;
 }
 
-pre {
+.dark pre {
   background-color: #161616 !important;
   border: 1px solid var(--vp-c-divider);
 }
