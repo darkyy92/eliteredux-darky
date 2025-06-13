@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices.
+This Pokémon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
 
-*Character count: 186*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

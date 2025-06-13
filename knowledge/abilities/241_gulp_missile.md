@@ -5,7 +5,9 @@
 
 ## Extended In-Game Description (280-300 chars)
 
-When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base form. Gulping form also lowers Defense by 1; Gorging form paralyzes.
+When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
+
+*Character count: 297*
 
 ## Detailed Mechanical Explanation
 

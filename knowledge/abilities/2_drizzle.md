@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (12 with Damp Rock). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder never misses. Activates Swift Swim, Rain Dish, and Dry Skin. Cannot override primal weather conditions.
+Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder and Hurricane never miss. Activates Swift Swim, Rain Dish, and Dry Skin abilities. Cannot override primal weather conditions.
 
-*Character count: 283*
+*Character count: 296*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

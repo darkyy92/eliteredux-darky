@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance.
+Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance. Stacks with Rocky Helmet for 1/6 total damage.
 
-*Character count: 251*
+*Character count: 299*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

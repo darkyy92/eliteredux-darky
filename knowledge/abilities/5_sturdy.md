@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When at full HP, this Pokémon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks.
+When at full HP, this Pokémon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks. Perfect for hazard leads to guarantee Stealth Rock, or Shell Smash users for a safe setup turn at full health.
 
-*Character count: 178*
+*Character count: 282*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

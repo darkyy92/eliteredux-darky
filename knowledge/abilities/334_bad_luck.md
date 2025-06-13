@@ -3,8 +3,10 @@
 ## Description
 "Foes can't crit, deal min damage, and have no effect chance."
 
-## Extended Description  
-"Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch chances. Extremely defensive."
+## Extended In-Game Description (280-300 chars)
+"Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch/stat drop chances. Extremely defensive."
+
+*Character count: 287*
 
 ## Implementation Details
 

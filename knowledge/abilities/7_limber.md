@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon's flexible body prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage.
+This Pokémon's flexible body prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
 
-*Character count: 193*
+*Character count: 294*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

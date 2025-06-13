@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Insomnia prevents this Pokémon from falling asleep by any means, including sleep-inducing moves, abilities, and effects. The move Rest will fail completely if used. If this ability is gained while asleep (via Worry Seed), the Pokémon immediately wakes up.
+Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities.
 
-*Character count: 254*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

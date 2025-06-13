@@ -31,5 +31,7 @@ The ability modifies damage calculation to:
 - The 30% boost stacks with other damage modifiers
 - Particularly effective on Pokemon with high SpA but access to good biting moves
 
-## Extended Description (300 chars)
-"Biting moves use Special Attack and deal 30% more damage. Transforms physical bites like Crunch, Fire Fang into special moves. All FLAG_STRONG_JAW_BOOST moves affected. Creates unique special attacker niche with physical coverage. Stronger boost than Strong Jaw. Works with Fishious Rend, Psychic Fangs."
+## Extended In-Game Description (280-300 chars)
+"Biting moves use Special Attack and deal 30% more damage. Transforms physical bites like Crunch, Fire Fang into special moves. All FLAG_STRONG_JAW_BOOST moves affected. Creates unique special attacker niche with physical coverage. Stronger boost than Strong Jaw."
+
+*Character count: 288*

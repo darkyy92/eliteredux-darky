@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 Upon entry, transmutes opposing Berries into Black Sludge. When any Pokémon loses an item, Power of Alchemy remembers and creates a replacement: regular items are replaced with Black Sludge, or if the target is holding Black Sludge, it's replaced with a Big Nugget.
 
+*Character count: 289*
+
 ## Detailed Mechanical Explanation
 **Power of Alchemy** creates a sophisticated "magical item economy" where the user acts as an alchemist, immediately disrupting opposing Berry strategies and continuously transmuting lost items.
 

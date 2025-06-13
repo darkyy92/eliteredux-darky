@@ -8,7 +8,7 @@
 
 Ghost-type moves gain +1 priority when at full HP. Like Gale Wings for Ghost moves. Allows powerful Ghost attacks like Shadow Ball to strike first. Synergizes with revenge killing and maintaining momentum. Must stay at max HP to keep priority advantage. Rewards careful HP management.
 
-*Character count: 294*
+*Character count: 284*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

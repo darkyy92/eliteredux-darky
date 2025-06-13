@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-During sandstorm weather, this Pokémon's evasiveness increases by 25%, making it harder to hit. Additionally, this Pokémon takes no damage from sandstorm's harsh conditions.
+During sandstorm, this Pokémon gains 25% evasion (foes have 80% accuracy) and immunity to sand damage. Synergizes with Sand Stream setters like Tyranitar. Enables SubVeil strategies with Substitute. Allows non-Rock/Ground/Steel types on sand teams. Bypassed by No Guard/Mold Breaker.
 
-*Character count: 183*
+*Character count: 283*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

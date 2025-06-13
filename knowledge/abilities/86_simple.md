@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Simple doubles all stat stage changes on the Pokémon, whether positive or negative. Boosts from moves like Swords Dance become +4 instead of +2. Stat drops are also doubled. Works perfectly with moves like Stored Power, which gains +40 power per stage instead of +20. Blocked by Clear Body/abilities that prevent stat drops.
+Simple doubles all stat stage changes on user, whether positive or negative. Boosts from moves like Swords Dance become +4 instead of +2. Stat drops are also doubled. Works perfectly with Stored Power, which gains +40 power per stage instead of +20. Blocked by Clear Body/stat drop prevention.
 
-*Character count: 299*
+*Character count: 293*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

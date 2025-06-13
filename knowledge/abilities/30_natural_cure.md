@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokémon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum.
+Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokémon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum. Unlimited healing uses.
 
-*Character count: 271*
+*Character count: 291*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

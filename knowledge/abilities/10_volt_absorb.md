@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon absorbs Electric-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Electric damage and effects.
+This Pokémon absorbs Electric-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Electric damage and effects like paralysis from Thunder Wave. Absolutely perfect for Water/Flying types to remove their 4x Electric weakness.
 
-*Character count: 183*
+*Character count: 289*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

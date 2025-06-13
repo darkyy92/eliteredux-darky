@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affects all foes in doubles. Works every time the user enters battle. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, and Oblivious.
+Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affects all foes in doubles/triples. Works every time user enters battle, making it great for pivoting. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, Oblivious.
 
-*Character count: 284*
+*Character count: 297*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -32,5 +32,7 @@ The AI recognizes this ability and adds a 50% weighted attract score when evalua
 - Synergizes with powerful sound moves like Boomburst
 - Creates setup opportunities with 50% opponent immobilization chance
 
-## Extended Description (298 chars)
-"Sound moves gain 50% chance to infatuate targets, ignoring ALL gender restrictions. Works on any Pokemon including genderless. Only ability besides Pure Love that bypasses gender limits for attraction. Turns damaging sound attacks into potential disablers. Infatuated foes have 50% chance to not move."
+## Extended In-Game Description (280-300 chars)
+"Sound moves gain 50% chance to infatuate targets, ignoring ALL gender restrictions. Works on any Pokemon including genderless. Only ability besides Pure Love that bypasses gender limits for attraction. Turns damaging sound attacks into potential disablers."
+
+*Character count: 282*

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers.
+Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers. Perfect counter to Fire-types.
 
-*Character count: 264*
+*Character count: 296*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

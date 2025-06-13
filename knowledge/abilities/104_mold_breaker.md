@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as "breakable" - does not ignore protective abilities like Magic Guard or unsuppressable abilities.
+Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as "breakable" - does not ignore protective abilities like Magic Guard or unsuppressable abilities. Bypasses all 4 Elite Redux ability slots.
 
-*Character count: 282*
+*Character count: 295*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

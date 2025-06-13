@@ -4,7 +4,9 @@
 "Heavy Rain until switched out. Fire-type moves are unusable."
 
 ## Extended In-Game Description (280-300 chars)
-Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Activates rain-based abilities normally.
+Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Rain abilities activate.
+
+*Character count: 286*
 
 ## Detailed Mechanical Explanation
 **Primordial Sea** creates a special primal weather condition called "Heavy Rain" that provides extreme weather control and Fire-type immunity.

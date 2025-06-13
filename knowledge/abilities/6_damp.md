@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact moves from or against this Pokémon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances.
+Contact moves from or against this Pokémon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances. Works offensively and defensively - even Fake Out can trigger it. Sets up Electric/Grass coverage perfectly.
 
-*Character count: 190*
+*Character count: 294*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

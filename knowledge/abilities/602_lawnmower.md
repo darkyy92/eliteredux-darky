@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. No effect if no terrain is active.
+On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. No effect if no terrain is active. Terrain removal happens before stat boost. Works on extended terrain.
 
-*Character count: 243*
+*Character count: 289*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

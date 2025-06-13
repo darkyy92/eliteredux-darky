@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Horn moves become special and deal 30% more damage. Converts physical horn attacks (Horn Attack, Megahorn, Smart Strike) to special moves using SpAtk. Creates mixed attacker threats that bypass high Defense with horn-based coverage.
+Horn moves become special and deal 30% more damage. Converts physical horn attacks (Horn Attack, Megahorn, Smart Strike) to special moves using SpAtk. Creates mixed attacker threats that bypass high Defense. Megahorn becomes 156 BP special Bug nuke. Horn Leech provides special Grass recovery.
 
-*Character count: 236*
+*Character count: 293*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

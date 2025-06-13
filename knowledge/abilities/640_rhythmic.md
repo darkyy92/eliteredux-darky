@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Each consecutive use of the same move increases damage by 10%. No maximum cap (unlike Metronome item). Turn 1: 100%, Turn 2: 110%, Turn 3: 120%, etc. Resets when switching moves or when moves fail. Stacks with similar effects.
+Each consecutive use of the same move increases damage by 10%. No maximum cap (unlike Metronome item). Turn 1: 100%, Turn 2: 110%, Turn 3: 120%, etc. Resets when switching moves or when moves fail. Stacks with similar effects. By turn 10 reaches 200% damage. Excellent synergy with Choice items.
 
-*Character count: 272*
+*Character count: 295*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

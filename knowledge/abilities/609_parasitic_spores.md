@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, coats the user in parasitic spores. Each turn, affected Pokémon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading.
+On switch-in, coats the user in parasitic spores. Each turn, affected Pokémon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokémon can be infected at once.
 
-*Character count: 260*
+*Character count: 293*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

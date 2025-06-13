@@ -62,8 +62,10 @@ constexpr Ability RetributionBlow = {
 - The lack of recharge means the user can continue normal attacks next turn
 - Forces opponents to be very careful about when they set up
 
-## Extended Description (298 characters)
-"Automatically uses 150 BP Hyper Beam against any opponent that boosts stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers and stat-boosting strategies with immediate, powerful retaliation. 100% accuracy, Normal-type damage."
+## Extended In-Game Description (280-300 chars)
+"Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers with immediate retaliation. 100% accuracy, Normal-type damage with no drawbacks."
+
+*Character count: 287*
 
 ## Detailed Explanation for Discord
 **Retribution Blow** is a reactive ability that automatically triggers a powerful counterattack when opponents attempt to boost their stats. Here's exactly how it works:

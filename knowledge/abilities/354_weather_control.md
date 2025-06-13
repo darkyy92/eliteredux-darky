@@ -3,7 +3,9 @@
 **In-Game Description**: "Negates all weather based moves from enemies."
 
 ## Extended In-Game Description (280-300 chars)
-Grants complete immunity to 18 specific weather-based moves when used by opponents: Bleakwind Storm, Blizzard, Sheer Cold, Thunder, Wildbolt Storm, Hurricane, Sandsear Storm, Springtide Storm, Ominous Wind, Eerie Spell, Solar Beam, Solar Blade, Weather Ball, Revival Blessing, Depletion Beam, Fire/Water/Grass Pledge. Does not block weather-setting moves or weather-boosted moves.
+Grants immunity to 18 specific weather moves including Blizzard, Thunder, Hurricane, Solar Beam, Weather Ball, and Storm moves (Bleakwind, Sandsear, Springtide, Wildbolt). Does not block weather-setting moves or weather-boosted damage. Weather moves fail completely.
+
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 

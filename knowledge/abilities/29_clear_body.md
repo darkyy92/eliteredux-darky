@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam.
+Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam in competitive play.
 
-*Character count: 268*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

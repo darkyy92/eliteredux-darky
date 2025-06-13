@@ -4,7 +4,9 @@
 "Deals 1.5x damage to Dragons. Takes 0.5x damage from Dragons."
 
 ## Extended In-Game Description (280-300 chars)
-Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. This ability is based on the attacker and defender's types, not move types. The defensive bonus reduces damage from any move used by a Dragon-type Pokemon. Can be suppressed by Mold Breaker.
+Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. Reduces damage from any move used by Dragon-types, regardless of move type. Can be suppressed by Mold Breaker.
+
+*Character count: 293*
 
 ## Detailed Mechanical Explanation
 

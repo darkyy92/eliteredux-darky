@@ -3,8 +3,10 @@
 ## Description
 "Attacks with 40BP Scratch on switch-in."
 
-## Extended Description
+## Extended In-Game Description (280-300 chars)
 "Automatically uses Scratch (40 BP Normal physical) when switching in. Free chip damage on entry, can break Focus Sash/Sturdy. Triggers contact abilities if applicable. Perfect for pivot Pokemon that switch frequently. True to its name - a cheap shot on entry."
+
+*Character count: 285*
 
 ## Implementation Details
 

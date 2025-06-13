@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Infatuates on contact ignoring all gender requirements. Can infatuate genderless, same-gender, or any Pokemon. Deals 25% extra damage to infatuated targets. One of only two abilities (with Beautiful Music) that bypasses gender restrictions for infatuation.
+Infatuates on contact ignoring all gender requirements. Can infatuate genderless, same-gender, or any Pokemon unlike regular infatuation. Heals 25% of damage dealt when attacking infatuated targets. One of only two abilities (with Beautiful Music) that bypasses gender restrictions for infatuation.
 
-*Character count: 290*
+*Character count: 298*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

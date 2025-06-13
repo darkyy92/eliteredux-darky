@@ -8,7 +8,7 @@
 
 Shadow Tag traps opposing Pokémon, preventing them from switching out through normal means. Ghost-type Pokémon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape.
 
-*Character count: 298*
+*Character count: 296*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

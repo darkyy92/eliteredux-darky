@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokémon have same nature when leading party. Status mirror that punishes status users.
+When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokémon have same nature when leading party. Status mirror that punishes status users. Deters status strategies.
 
-*Character count: 276*
+*Character count: 295*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

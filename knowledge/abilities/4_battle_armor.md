@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokémon significantly more durable in battle.
+This Pokémon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokémon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
 
-*Character count: 179*
+*Character count: 285*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

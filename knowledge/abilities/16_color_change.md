@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major upgrade from original ability.
+Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major defensive upgrade from original ability.
 
-*Character count: 276*
+*Character count: 287*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

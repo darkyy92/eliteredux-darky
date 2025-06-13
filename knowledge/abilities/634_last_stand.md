@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 × missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously.
+Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 × missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
 
-*Character count: 279*
+*Character count: 295*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

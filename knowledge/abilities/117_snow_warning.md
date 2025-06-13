@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat.
 
+*Character count: 296*
+
 ## Detailed Mechanical Explanation
 **Snow Warning** automatically creates a hailstorm when the Pokémon enters battle, providing the same effect as the move Hail without consuming a turn.
 

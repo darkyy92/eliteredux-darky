@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes with Choice Scarf.
+Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts directly become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes well with Choice Scarf.
 
-*Character count: 277*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers and ignore defensive boosts, while also being unaffected by stat debuffs.
+Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers like Dragon Dance users and ignore defensive boosts, while also being unaffected by opponent stat debuffs.
 
-*Character count: 280*
+*Character count: 300*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

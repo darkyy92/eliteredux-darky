@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contrary reverses all stat changes affecting this Pokémon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat), opponent moves (Intimidate), and abilities (Simple). The reversed stats still respect +6/-6 limits.
+Contrary reverses all stat changes affecting this Pokémon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat, Leaf Storm), opponent moves (Intimidate, Growl), and abilities (Simple). The reversed stats still respect the +6/-6 stage limits.
 
-*Character count: 276*
+*Character count: 292*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

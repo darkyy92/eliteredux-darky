@@ -4,7 +4,9 @@
 "Changes form with the weather. Attacks when setting weather."
 
 ## Extended In-Game Description (280-300 chars)
-Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability.
+Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability that works even under Mold Breaker effects.
+
+*Character count: 286*
 
 ## Detailed Mechanical Explanation
 **Forecast** is Castform's signature ability that combines form transformation with automatic offensive follow-ups.

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Doubles the chance of all secondary effects from this Pokémon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely.
+Doubles the chance of all secondary effects from this Pokémon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely to occur.
 
-*Character count: 273*
+*Character count: 284*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

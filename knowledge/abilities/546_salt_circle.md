@@ -37,5 +37,7 @@ AI_SCORE_TRAP(battlerDef) + AI_SCORE_TRAP(BATTLE_PARTNER(battlerDef))
 - **Catch Rate**: Guarantees wild Pokemon cannot flee
 - **Double Battle Control**: Traps both opponents simultaneously
 
-## Extended Description (300 chars)
-"Prevents all opposing Pokemon from fleeing or switching when user enters battle. Works like automatic Mean Look on all foes. In doubles, traps both opponents. Wild Pokemon cannot run; trainers cannot switch normally. Effect lasts until user leaves field. Forced switches like Roar still work. Switch-in msg."
+## Extended In-Game Description (280-300 chars)
+"Prevents all opposing Pokemon from fleeing or switching when user enters battle. Works like auto Mean Look on all foes. In doubles, traps both opponents. Wild Pokemon cannot run; trainers cannot switch. Effect lasts until user leaves field. Forced switches work."
+
+*Character count: 288*

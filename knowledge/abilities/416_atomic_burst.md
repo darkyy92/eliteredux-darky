@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with increased power and grant STAB if the user is Electric-type.
+When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with 1.2x power boost and grant STAB if the user is Electric-type. Charged status is consumed after one Electric move use.
 
-*Character count: 245*
+*Character count: 283*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 30% chance to add type-based effects: Poison=Toxic, Ice=Frostbite, Water=Confusion, Fire=Burn, Electric/Psychic/Fairy/Grass set terrain, Normal=Encore, Rock=Stealth Rock, Ghost=Disable, Dark=Bleed, Fighting=+SpAtk, Flying=+Speed, Dragon=-Atk, Ground=Trap, Steel=+Def.
 
+*Character count: 291*
+
 ## Detailed Mechanical Explanation
 
 Archmage is one of the most complex abilities in Elite Redux, providing different secondary effects based on the type of move used. It triggers on successful non-status moves with a 30% chance.

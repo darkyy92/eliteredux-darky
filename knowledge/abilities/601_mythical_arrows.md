@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Arrow moves become special and deal 30% more damage. Affects 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage. Perfect for Aegislash Redux's high Special Attack.
+Arrow moves become special and deal 30% more damage. Affects all 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage using Special Attack stat. Perfect for Aegislash Redux's high Special Attack of 140 (200 as Mega).
 
-*Character count: 246*
+*Character count: 297*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

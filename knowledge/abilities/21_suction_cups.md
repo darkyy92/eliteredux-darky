@@ -8,7 +8,7 @@
 
 Suction Cups anchors the Pokémon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.
 
-*Character count: 295*
+*Character count: 291*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

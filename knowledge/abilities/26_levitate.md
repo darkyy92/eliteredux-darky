@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Levitate grants complete immunity to all Ground-type moves and boosts the power of the user's Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down.
+Levitate grants complete immunity to all Ground-type moves and boosts the power of the user's Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down. Avoids Spikes damage.
 
-*Character count: 278*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

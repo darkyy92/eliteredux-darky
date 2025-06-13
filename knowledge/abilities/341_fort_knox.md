@@ -4,7 +4,9 @@
 "Blocks most damage boosting and multihit abilities."
 
 ## Extended In-Game Description (280-300 chars)
-Blocks offensive abilities that boost damage or enable multi-hits when defending. Nullifies ~158 damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond can bypass this defense. Pure defensive ability.
+Blocks offensive abilities that boost damage or enable multi-hits. Nullifies 158+ damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond bypasses this defense.
+
+*Character count: 280*
 
 ## Detailed Mechanical Explanation
 **Fort Knox** is one of the most powerful defensive abilities in Elite Redux, providing comprehensive protection against offensive ability modifiers.

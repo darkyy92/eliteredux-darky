@@ -4,7 +4,9 @@
 "Contact attacks make foes move last for 5 turns."
 
 ## Extended In-Game Description (280-300 chars)
-Contact moves inflict dazed status for 5 turns. Dazed Pokémon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokémon compete normally among themselves. Does not stack.
+Contact moves inflict dazed status for 5 turns. Dazed Pokémon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokémon compete normally among themselves. Status effect does not stack or refresh on already dazed targets.
+
+*Character count: 286*
 
 ## Detailed Mechanical Explanation
 **Know Your Place** is a powerful speed control ability that completely overrides the normal priority system through the "dazed" status effect.

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Regenerator restores 33% of the Pokémon's maximum HP whenever it switches out of battle, provided it's still alive and not at full health. Works with voluntary switches, forced switches from moves like Roar, and U-turn/Volt Switch. Does not activate if KO'd. Essential for defensive pivoting strategies.
+Regenerator restores 33% of user's maximum HP whenever it switches out of battle, provided it's still alive and not at full health. Works with voluntary switches, forced switches from moves like Roar, and U-turn/Volt Switch. Does not activate if KO'd. Essential for defensive pivoting strategies.
 
-*Character count: 294*
+*Character count: 296*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

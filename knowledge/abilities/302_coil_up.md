@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs.
+On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs moves.
 
-*Character count: 278*
+*Character count: 283*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

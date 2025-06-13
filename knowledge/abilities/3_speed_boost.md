@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Speed Boost raises the user's Speed by one stage at the end of each turn they remain on the field. Does not activate on the turn of entry or when switching in. Continues until reaching maximum Speed (+6 stages). Creates powerful momentum in extended battles.
+Speed Boost raises user's Speed by one stage at end of each turn they remain on field. Doesn't activate on entry turn or when switching in. Continues building speed until reaching maximum (+6 stages). Creates powerful momentum and makes user increasingly threatening in extended battles.
 
-*Character count: 284*
+*Character count: 287*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

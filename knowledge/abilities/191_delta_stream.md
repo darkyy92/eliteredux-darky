@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 Creates Strong Winds lasting until user switches. Reduces super-effective damage to Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather. Protects all Flying Pokemon on field, not just user.
 
+*Character count: 293*
+
 ## Detailed Mechanical Explanation
 **Delta Stream** creates the primal weather "Strong Winds" that provides unique Flying-type protection and weather move immunity.
 

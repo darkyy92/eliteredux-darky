@@ -13,7 +13,7 @@
 # ID: 3
 ability {
   id: ABILITY_SPEED_BOOST
-  extended_description: "Speed Boost raises the user's Speed by one stage at the end of each turn they remain on the field. Does not activate on the turn of entry or when switching in. Continues until reaching maximum Speed (+6 stages). Creates powerful momentum in extended battles."
+  extended_description: "Speed Boost generates increasing velocity through battle momentum, raising the user's Speed by one stage at the end of each turn they remain on the field. Does not activate on the turn of entry or when switching in. Continues until reaching maximum Speed (+6 stages). Creates powerful momentum in extended battles through continuous acceleration."
 }
 
 
@@ -27,14 +27,14 @@ ability {
 # ID: 22
 ability {
   id: ABILITY_INTIMIDATE
-  extended_description: "Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affects all foes in doubles. Works every time the user enters battle. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, and Oblivious."
+  extended_description: "Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affects all foes in doubles/triples. Works every time user enters battle, making it great for pivoting. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, Oblivious."
 }
 
 
 # ID: 26
 ability {
   id: ABILITY_LEVITATE
-  extended_description: "Levitate grants complete immunity to all Ground-type moves and boosts the power of the user's Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down."
+  extended_description: "Levitate allows the Pokémon to float above the battlefield, granting complete immunity to all Ground-type moves while boosting Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down, providing consistent aerial advantage."
 }
 
 
@@ -69,7 +69,7 @@ ability {
 # ID: 104
 ability {
   id: ABILITY_MOLD_BREAKER
-  extended_description: "Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as \"breakable\" - does not ignore protective abilities like Magic Guard or unsuppressable abilities."
+  extended_description: "Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as \"breakable\" - does not ignore protective abilities like Magic Guard or unsuppressable abilities. Bypasses all 4 Elite Redux ability slots."
 }
 
 
@@ -166,7 +166,7 @@ ability {
 # ID: 273
 ability {
   id: ABILITY_POWER_FISTS
-  extended_description: "Punching moves gain 30% damage boost and target Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches and fighting moves. Allows physical attackers to exploit low SpDef, creating unique mixed offense threats."
+  extended_description: "Power Fists channels raw force through punching moves, granting 30% damage boost while targeting Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches and fighting moves. Allows physical attackers to exploit low SpDef, creating unique mixed offense threats."
 }
 
 
@@ -254,7 +254,7 @@ ability {
 # ID: 505
 ability {
   id: ABILITY_MYSTIC_BLADES
-  extended_description: "Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers with cutting move access."
+  extended_description: "Mystic Blades enchants keen edge moves with otherworldly power, converting them to special attacks with 30% increased damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers with cutting move access."
 }
 
 
@@ -322,24 +322,24 @@ ability {
 # ID: 644
 ability {
   id: ABILITY_ICE_COLD_HUNTER
-  extended_description: "Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail."
+  extended_description: "Ice Cold Hunter harnesses the fury of winter storms, making Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail."
 }
 
 # Batch 2: User Questions Batch
 
 ability {
   id: ABILITY_CHEATING_DEATH
-  extended_description: "Negates all damage for the first 2 hits received. Works like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards."
+  extended_description: "Cheating Death defies mortality itself, negating all damage for the first 2 hits received. Works like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards."
 }
 
 ability {
   id: ABILITY_GALLANTRY
-  extended_description: "Negates all damage from first hit received. Works like Substitute — moves connect and secondary effects apply, but damage is 0. For multi-hit moves, only the first strike is blocked. Can be suppressed by Mold Breaker. Effect persists through switching."
+  extended_description: "Gallantry embodies noble protection, negating all damage from the first hit received. Works like Substitute - moves connect and secondary effects apply, but damage is reduced to zero. For multi-hit moves, only the first strike is blocked. Can be suppressed by Mold Breaker. Effect persists through switching."
 }
 
 ability {
   id: ABILITY_HUNTERS_HORN
-  extended_description: "Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential."
+  extended_description: "Hunters Horn empowers horn-based moves (Megahorn, Horn Leech, etc.) with 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential through predatory enhancement."
 }
 
 ability {
@@ -358,7 +358,7 @@ ability {
 # ID: 742
 ability {
   id: ABILITY_MAGICAL_FISTS
-  extended_description: "Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting punching coverage. Grumpig and Darmanitan Redux Aura notably have access to this ability."
+  extended_description: "Magical Fists infuses punching moves with mystical energy, converting them to use Special Attack while providing a 30% damage boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting punching coverage. Grumpig and Darmanitan Redux Aura notably benefit from this transformation."
 }
 
 
@@ -403,28 +403,28 @@ ability {
 # ID: 256
 ability {
   id: ABILITY_NEUTRALIZING_GAS
-  extended_description: "Fills the area with gas that suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects."
+  extended_description: "Neutralizing Gas fills the battlefield with ability-suppressing vapors that neutralize all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects."
 }
 
 
 # ID: 288
 ability {
   id: ABILITY_PERFECTIONIST
-  extended_description: "Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Common on Normal-types. Synergizes with Technician for devastating low-power offense."
+  extended_description: "Perfectionist demands flawless execution, granting enhanced critical hit rates for moves with BP ≤50, plus priority for moves with BP ≤25. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Common on Normal-types. Synergizes with Technician for devastating low-power offense."
 }
 
 
 # ID: 302
 ability {
   id: ABILITY_COIL_UP
-  extended_description: "On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs."
+  extended_description: "Coil Up prepares for the perfect strike, granting 'coiled' status on entry that gives +1 priority to the first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs."
 }
 
 
 # ID: 372
 ability {
   id: ABILITY_MOMENTUM
-  extended_description: "Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes with Choice Scarf."
+  extended_description: "Momentum converts kinetic energy into striking power, making contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes with Choice Scarf."
 }
 
 
@@ -438,7 +438,7 @@ ability {
 # ID: 551
 ability {
   id: ABILITY_IMPULSE
-  extended_description: "Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika."
+  extended_description: "Impulse channels electrical energy through speed, making non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika."
 }
 
 
@@ -452,7 +452,7 @@ ability {
 # ID: 715
 ability {
   id: ABILITY_HOVER
-  extended_description: "Adds Psychic type on entry and grants Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation."
+  extended_description: "Hover channels psychic energy to achieve flight, adding Psychic type on entry while granting Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation."
 }
 
 
@@ -480,7 +480,7 @@ ability {
 # ID: 416
 ability {
   id: ABILITY_ATOMIC_BURST
-  extended_description: "When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with increased power and grant STAB if the user is Electric-type."
+  extended_description: "When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with 1.2x power boost and grant STAB if the user is Electric-type. Charged status is consumed after one Electric move use."
 }
 
 
@@ -522,28 +522,28 @@ ability {
 # ID: 8
 ability {
   id: ABILITY_SAND_VEIL
-  extended_description: "During sandstorm weather, this Pokémon's evasiveness increases by 25%, making it harder to hit. Additionally, this Pokémon takes no damage from sandstorm's harsh conditions."
+  extended_description: "During sandstorm weather, this Pokémon's evasiveness increases by 25%, making it harder to hit. Additionally, this Pokémon takes no damage from sandstorm's harsh conditions. The combination of enhanced evasion and weather immunity makes this ability highly valuable for desert-dwelling Pokémon and sandstorm team strategies."
 }
 
 
 # ID: 9
 ability {
   id: ABILITY_STATIC
-  extended_description: "Physical contact with this Pokémon has a 30% chance to cause paralysis. In Elite Redux, this also triggers when this Pokémon makes contact with opponents, doubling its effectiveness."
+  extended_description: "Physical contact with this Pokémon has a 30% chance to cause paralysis. In Elite Redux, this also triggers when this Pokémon makes contact with opponents, doubling its effectiveness. This bidirectional paralysis effect makes Static Pokémon formidable in physical combat, creating risks for both attackers and defenders in close-quarters battle."
 }
 
 
 # ID: 10
 ability {
   id: ABILITY_VOLT_ABSORB
-  extended_description: "This Pokémon absorbs Electric-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Electric damage and effects."
+  extended_description: "Volt Absorb allows this Pokémon to absorb Electric-type moves completely, converting electrical energy into healing power that restores 25% of its maximum HP. Provides complete immunity to Electric damage and effects, turning potential threats into recovery opportunities through electrical absorption."
 }
 
 
 # ID: 11
 ability {
   id: ABILITY_WATER_ABSORB
-  extended_description: "This Pokémon absorbs Water-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Water damage and effects."
+  extended_description: "Water Absorb allows this Pokémon to absorb Water-type moves completely, converting aquatic energy into healing power that restores 25% of its maximum HP. Provides complete immunity to Water damage and effects, turning potential threats into recovery opportunities through hydration."
 }
 
 
@@ -564,35 +564,35 @@ ability {
 # ID: 14
 ability {
   id: ABILITY_COMPOUND_EYES
-  extended_description: "Compound Eyes grants a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokémon are 4x more likely to hold items when this leads your party."
+  extended_description: "Compound Eyes enhances visual acuity through multiple lenses, granting a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokémon are 4x more likely to hold items when this leads your party."
 }
 
 
 # ID: 15
 ability {
   id: ABILITY_INSOMNIA
-  extended_description: "Insomnia prevents this Pokémon from falling asleep by any means, including sleep-inducing moves, abilities, and effects. The move Rest will fail completely if used. If this ability is gained while asleep (via Worry Seed), the Pokémon immediately wakes up."
+  extended_description: "Insomnia grants unwavering alertness, preventing this Pokémon from falling asleep by any means, including sleep-inducing moves, abilities, and effects. The move Rest will fail completely if used. If this ability is gained while asleep (via Worry Seed), the Pokémon immediately wakes up upon acquisition."
 }
 
 
 # ID: 16
 ability {
   id: ABILITY_COLOR_CHANGE
-  extended_description: "Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major upgrade from original ability."
+  extended_description: "Color Change provides adaptive camouflage, analyzing incoming attacks and instantly transforming the user into the optimal defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major upgrade from original ability."
 }
 
 
 # ID: 17
 ability {
   id: ABILITY_IMMUNITY
-  extended_description: "Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker."
+  extended_description: "Immunity provides complete biological defense against all toxins, preventing poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker."
 }
 
 
 # ID: 18
 ability {
   id: ABILITY_FLASH_FIRE
-  extended_description: "Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers."
+  extended_description: "Flash Fire grants complete immunity to Fire-type moves, absorbing flames harmlessly. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers, creating a powerful counter-offensive capability."
 }
 
 
@@ -633,49 +633,90 @@ ability {
 # ID: 25
 ability {
   id: ABILITY_WONDER_GUARD
-  extended_description: "Only super-effective moves can damage this Pokémon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense."
+  extended_description: "Wonder Guard creates a mystical barrier allowing only super-effective moves to damage this Pokémon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense through selective vulnerability."
 }
 
 
 # ID: 27
 ability {
   id: ABILITY_EFFECT_SPORE
-  extended_description: "When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status."
+  extended_description: "Effect Spore releases volatile spores when struck by contact moves, with 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status."
 }
 
 
 # ID: 28
 ability {
   id: ABILITY_SYNCHRONIZE
-  extended_description: "When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokémon have same nature when leading party. Status mirror that punishes status users."
+  extended_description: "Synchronize creates a psychic link that reflects status conditions back to their source. When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokémon have same nature when leading party. Status mirror that punishes status users."
 }
 
 
 # ID: 29
 ability {
   id: ABILITY_CLEAR_BODY
-  extended_description: "Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam."
+  extended_description: "Clear Body maintains perfect physical and mental balance, preventing all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam."
 }
 
 
 # ID: 30
 ability {
   id: ABILITY_NATURAL_CURE
-  extended_description: "Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokémon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum."
+  extended_description: "Natural Cure harnesses the body's healing properties to automatically cure all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokémon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum through natural recovery."
 }
 
 
 # ID: 31
 ability {
   id: ABILITY_LIGHTNING_ROD
-  extended_description: "Draws all Electric-type moves to this Pokémon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter."
+  extended_description: "Lightning Rod acts as a conductor for electrical energy, drawing all Electric-type moves to this Pokémon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter."
 }
 
 
 # ID: 32
 ability {
   id: ABILITY_SERENE_GRACE
-  extended_description: "Doubles the chance of all secondary effects from this Pokémon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely."
+  extended_description: "Serene Grace channels inner tranquility to enhance move effects, doubling the chance of all secondary effects from this Pokémon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely."
+}
+
+
+# ID: 508
+ability {
+  id: ABILITY_PURE_LOVE
+  extended_description: "Infatuates on contact ignoring all gender requirements. Can infatuate genderless, same-gender, or any Pokemon unlike regular infatuation. Heals 25% of damage dealt when attacking infatuated targets. One of only two abilities (with Beautiful Music) that bypasses gender restrictions for infatuation."
+}
+
+
+# ID: 602
+ability {
+  id: ABILITY_LAWNMOWER
+  extended_description: "On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. No effect if no terrain is active. Terrain removal happens before stat boost. Works on extended terrain."
+}
+
+
+# ID: 609
+ability {
+  id: ABILITY_PARASITIC_SPORES
+  extended_description: "On switch-in, coats the user in parasitic spores. Each turn, affected Pokémon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokémon can be infected at once."
+}
+
+
+# ID: 634
+ability {
+  id: ABILITY_LAST_STAND
+  extended_description: "Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 × missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost."
+}
+
+
+# ID: 640
+ability {
+  id: ABILITY_RHYTHMIC
+  extended_description: "Each consecutive use of the same move increases damage by 10%. No maximum cap (unlike Metronome item). Turn 1: 100%, Turn 2: 110%, Turn 3: 120%, etc. Resets when switching moves or when moves fail. Stacks with similar effects. By turn 10 reaches 200% damage. Excellent synergy with Choice items."
+}
+
+# ID: 598
+ability {
+  id: ABILITY_MALICIOUS
+  extended_description: "Malicious intent manifests through contact, with a 50% chance to inflict random status conditions (poison, burn, paralysis, freeze, sleep) when making contact with any move. Status infliction bypasses type immunities and most protective abilities. Creates unpredictable offensive pressure through contact attacks."
 }
 
 EOF < /dev/null

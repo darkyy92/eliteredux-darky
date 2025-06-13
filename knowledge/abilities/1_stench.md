@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Moves that can flinch now have an extra 10% chance to make the target unable to move this turn. Outside of battle, wild Pokémon appear half as often when this Pokémon leads the party.
+Moves that can flinch now have an extra 10% chance to make the target unable to move this turn. Works on both contact and non-contact moves affected by King's Rock. Outside of battle, wild Pokémon appear half as often when this Pokémon leads the party. Stacks with existing flinch chances.
 
-*Character count: 198*
+*Character count: 289*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

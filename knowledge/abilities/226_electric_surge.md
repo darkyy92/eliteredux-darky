@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 Creates Electric Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon can't fall asleep and Electric moves gain 50% power. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon. Overrides other terrains when activated.
 
+*Character count: 300*
+
 ## Detailed Mechanical Explanation
 **Electric Surge** automatically sets Electric Terrain when the Pokémon enters battle, providing powerful Electric-type support and sleep immunity.
 

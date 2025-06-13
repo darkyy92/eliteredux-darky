@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status.
+When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status conditions.
 
-*Character count: 280*
+*Character count: 285*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

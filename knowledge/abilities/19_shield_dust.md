@@ -8,7 +8,7 @@
 
 Shield Dust provides triple protection: blocks all secondary effects from damaging moves (burn, paralysis, stat drops), grants complete immunity to entry hazards (Stealth Rock, Spikes), and nullifies all powder-based moves. Elite Redux significantly expanded this ability's defensive coverage.
 
-*Character count: 286*
+*Character count: 293*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

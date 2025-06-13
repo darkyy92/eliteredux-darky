@@ -8,7 +8,7 @@
 
 Own Tempo maintains perfect composure, granting immunity to confusion from all sources. Also blocks Intimidate's Attack drop and prevents the custom Scared status effect. Works against Swagger, Teeter Dance, and all confusion-inducing moves. Elite Redux expanded immunities beyond confusion.
 
-*Character count: 293*
+*Character count: 291*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

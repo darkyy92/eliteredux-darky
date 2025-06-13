@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted.
+Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost, stacking to 1.69x total. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted.
 
-*Character count: 288*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

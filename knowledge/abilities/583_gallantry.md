@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Negates all damage from first hit received. Works like Substitute — moves connect and secondary effects apply, but damage is 0. For multi-hit moves, only the first strike is blocked. Can be suppressed by Mold Breaker. Effect persists through switching.
+Negates all damage from the first hit received per battle. Moves still connect and secondary effects apply, but damage becomes 0. For multi-hit moves, only first strike is blocked. Protection persists through switching but is consumed permanently once used. Can be suppressed by Mold Breaker.
 
-*Character count: 296*
+*Character count: 292*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

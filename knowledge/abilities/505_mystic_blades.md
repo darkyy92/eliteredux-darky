@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers with cutting move access.
+Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, and Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers bypassing physical walls and gaining diverse coverage.
 
-*Character count: 260*
+*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -5,10 +5,10 @@
 
 ---
 
-## Extended Description (287 characters)
-```
-Opponents deal minimum damage rolls when attacking. Critical hits against this Pokemon deal only 25% of their normal damage instead of 150-200%. This ability can be suppressed by Mold Breaker and similar effects.
-```
+## Extended In-Game Description (280-300 chars)
+"Opponents deal minimum damage rolls when attacking, forcing 85% damage instead of 85-100% variance. Critical hits against this Pokemon deal only 25% of their normal damage instead of 150-200%. This ability can be suppressed by Mold Breaker and similar effects."
+
+*Character count: 286*
 
 ## Implementation Status
 **FULLY IMPLEMENTED** ✅

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Provides resistance to Fire and Ice type attacks, taking only half damage from these types. This dual resistance makes the Pokemon exceptionally durable against temperature-based attacks, offering both offensive counter-play and defensive staying power in battle.
+Provides resistance to Fire and Ice type attacks, taking only half damage from these types. This dual resistance makes the Pokemon exceptionally durable against temperature-based attacks, offering excellent switch-in opportunities and defensive staying power throughout long battles.
 
-*Character count: 272*
+*Character count: 283*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

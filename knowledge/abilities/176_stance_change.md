@@ -8,7 +8,7 @@
 
 Automatically changes Aegislash's form based on moves used. Shield form switches to Blade when using damaging moves. Blade switches to Shield with King's Shield. Redux forms swap between physical/special based on move type. Unsuppressable. Form changes occur before attacks execute.
 
-*Character count: 295*
+*Character count: 282*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

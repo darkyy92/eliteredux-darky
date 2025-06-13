@@ -3,8 +3,10 @@
 ## In-Game Description
 2x damage vs confused. Enemies take 2x confusion damage.
 
-## Extended In-Game Description (280-300 chars max)
-"Cosmic Daze amplifies the disorientation of confused foes. All attacks against confused targets deal double damage, creating devastating combo potential. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion, making confusion status especially punishing."
+## Extended In-Game Description (280-300 chars)
+"Amplifies the disorientation of confused foes. All attacks against confused targets deal double damage, creating devastating combo potential. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion, making confusion punishing."
+
+*Character count: 298*
 
 ## Detailed Mechanical Explanation
 

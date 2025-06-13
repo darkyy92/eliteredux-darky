@@ -4,7 +4,9 @@
 "Blocks most damage boosting and multihit abilities."
 
 ## Extended In-Game Description (280-300 chars)
-Prevents opposing damage-boosting abilities like Hustle and Guts from applying their multipliers. Also blocks multihit abilities like Parental Bond from striking multiple times, forcing them to hit only once.
+Prevents opposing damage-boosting abilities like Hustle and Guts from applying multipliers. Also blocks multihit abilities like Parental Bond from striking multiple times. Provides comprehensive protection against offensive ability strategies and setup sweepers.
+
+*Character count: 286*
 
 ## Detailed Mechanical Explanation
 **Wonder Skin** is functionally **identical** to Fort Knox, providing comprehensive protection against offensive ability modifiers.

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punching moves gain 30% damage boost and target Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches and fighting moves. Allows physical attackers to exploit low SpDef, creating unique mixed offense threats.
+Punching moves gain 30% damage boost and target Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches, fighting moves, and Meteor Mash. Allows physical attackers to exploit low Special Defense walls and completely disrupt traditional defensive cores.
 
-*Character count: 257*
+*Character count: 296*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

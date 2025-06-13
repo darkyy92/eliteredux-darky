@@ -3,8 +3,10 @@
 ## In-Game Description
 "50% chance to trap. Then ignores Defense & accuracy checks."
 
-## Extended In-Game Description
-"Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn (1/6 with Binding Band). Trap lasts 4-5 turns (7 with Grip Claw)."
+## Extended In-Game Description (280-300 chars)
+"Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn. Trap lasts 4-5 turns (7 with Grip Claw)."
+
+*Character count: 297*
 
 ## Detailed Mechanical Explanation
 

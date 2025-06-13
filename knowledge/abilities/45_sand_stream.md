@@ -4,7 +4,9 @@
 "Summons a sandstorm on entry. Lasts 8 turns."
 
 ## Extended In-Game Description (280-300 chars)
-Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush activate. Cannot override primal weather. Multiple weather setters compete by Speed stat.
+Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush work. Cannot override primal weather. Weather setters compete by Speed.
+
+*Character count: 285*
 
 ## Detailed Mechanical Explanation
 **Sand Stream** automatically sets up a sandstorm when the Pokémon enters battle, providing the same effect as the move Sandstorm without using a turn.

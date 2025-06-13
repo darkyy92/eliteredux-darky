@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, lowers all opposing Pokémon's highest offensive stat (Attack or Special Attack, whichever is higher) and highest defensive stat (Defense or Special Defense, whichever is higher) by 1 stage each. Calculates using current stat modifications.
+On switch-in, lowers all opposing Pokémon's highest offensive stat (Attack or Special Attack) and highest defensive stat (Defense or Special Defense) by 1 stage each. More versatile than Intimidate, intelligently adapting to each opponent's current stat distribution including boosts.
 
-*Character count: 273*
+*Character count: 284*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

@@ -8,7 +8,7 @@
 
 Subdue enhances all stat-lowering moves used by this Pokémon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities.
 
-*Character count: 289*
+*Character count: 281*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

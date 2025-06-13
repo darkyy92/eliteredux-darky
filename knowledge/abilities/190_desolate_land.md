@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Thaws frozen Pokemon. Solar moves charge instantly. Synthesis/Morning Sun heal more.
 
+*Character count: 297*
+
 ## Detailed Mechanical Explanation
 **Desolate Land** creates the primal weather "Extremely Harsh Sunlight" that provides ultimate sun control and Water-type immunity.
 

@@ -3,8 +3,10 @@
 ## Description
 "First slicing move gets +1 priority."
 
-## Extended Description
-"First slicing move gets +1 priority, then ability deactivates. Sharpen move uniquely RESETS this ability, allowing repeated priority slicing. Coil does NOT reset it. Works with moves having keen edge flag. Perfect for Sharpen + slicing move combos."
+## Extended In-Game Description (280-300 chars)
+"First slicing move gets +1 priority, then ability deactivates. Sharpen move uniquely RESETS this ability, allowing repeated priority slicing. Coil does NOT reset it. Works with moves having keen edge flag like Sacred Sword. Perfect for Sharpen + slicing combos."
+
+*Character count: 287*
 
 ## Implementation Details
 

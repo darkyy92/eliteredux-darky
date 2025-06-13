@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fills the area with gas that suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects.
+Fills the area with gas that completely suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects.
 
-*Character count: 278*
+*Character count: 288*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

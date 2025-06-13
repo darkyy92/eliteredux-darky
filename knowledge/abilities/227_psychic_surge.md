@@ -4,7 +4,9 @@
 "Casts Psychic Terrain on entry. Lasts 8 turns."
 
 ## Extended In-Game Description (280-300 chars)
-Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides other terrains.
+Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides terrains.
+
+*Character count: 296*
 
 ## Detailed Mechanical Explanation
 **Psychic Surge** automatically establishes Psychic Terrain upon entering battle, providing priority protection and Psychic-type enhancement.

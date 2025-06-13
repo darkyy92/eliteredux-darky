@@ -6,7 +6,7 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-All stat changes are shared between all battlers on the field. Both positive and negative stat changes affect everyone equally. Creates a level playing field where no Pokemon can gain stat advantages. Counters setup sweepers but also shares your own boosts with opponents. Double-edged strategic tool.
+All stat changes are shared between all battlers on the field. Both positive and negative stat changes affect everyone equally. Creates a level playing field where no Pokemon can gain stat advantages. Counters setup sweepers but also shares your own boosts with opponents. Double-edged strategy tool.
 
 *Character count: 300*
 

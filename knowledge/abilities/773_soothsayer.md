@@ -1,7 +1,9 @@
 # Soothsayer (ID: 773)
 
-## Extended Description (299 characters)
-First switch-in only: Take 0.5× damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field.
+## Extended In-Game Description (280-300 chars)
+"First switch-in only: Take 0.5× damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field."
+
+*Character count: 282*
 
 ## Detailed Mechanical Analysis
 

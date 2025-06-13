@@ -34,5 +34,7 @@ The game maintains records of all Pokemon's original items throughout the battle
 - Cannot retrieve if already holding an item
 - Cannot generate new items - only restores battle start items
 
-## Extended Description (294 chars)
-"Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle. Message shows which item was retrieved."
+## Extended In-Game Description (280-300 chars)
+"Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle."
+
+*Character count: 282*

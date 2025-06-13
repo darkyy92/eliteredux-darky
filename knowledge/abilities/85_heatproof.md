@@ -4,7 +4,9 @@
 "Halves damage taken from Fire-type moves. Takes no burn damage."
 
 ## Extended In-Game Description (280-300 chars)
-Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Can still be inflicted with burn status condition but suffers no harmful effects from it.
+Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Can still be inflicted with burn but suffers no harmful effects. Allows burn status for Guts synergy and Facade power boosts while defending against Fire-type attacks.
+
+*Character count: 284*
 
 ## Detailed Mechanical Explanation
 **Heatproof** provides comprehensive protection against Fire-type attacks and burn effects, but with a crucial distinction regarding burn status.

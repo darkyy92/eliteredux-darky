@@ -6,6 +6,8 @@
 ## Extended In-Game Description (280-300 chars)
 Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains.
 
+*Character count: 297*
+
 ## Detailed Mechanical Explanation
 **Grassy Surge** automatically establishes Grassy Terrain when the Pokémon enters battle, providing healing and Grass-type enhancement.
 

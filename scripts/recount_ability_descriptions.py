@@ -12,21 +12,42 @@ import glob
 
 def extract_extended_description(content):
     """Extract the extended description from markdown content."""
-    # Pattern: ## Extended In-Game Description\n*instruction*\n\n(description)\n\n*Character count:*
-    pattern = r'## Extended In-Game Description\s*\n\*.*?\*\s*\n\n(.*?)(?=\n\n\*Character count:|\n\n## |\Z)'
-    match = re.search(pattern, content, re.DOTALL)
+    # Format 1: ## Extended In-Game Description\n*instruction*\n\n(description)\n\n*Character count:*
+    pattern1 = r'## Extended In-Game Description\s*\n\*.*?\*\s*\n\n(.*?)(?=\n\n\*Character count:|\n\n## |\Z)'
+    match1 = re.search(pattern1, content, re.DOTALL)
     
-    if match:
-        description = match.group(1).strip()
+    if match1:
+        description = match1.group(1).strip()
         return description
+    
+    # Format 2: ## Extended In-Game Description (280-300 chars)\n(description)
+    pattern2 = r'## Extended In-Game Description \(280-300 chars\)\s*\n(.*?)(?=\n\n## |\Z)'
+    match2 = re.search(pattern2, content, re.DOTALL)
+    
+    if match2:
+        description = match2.group(1).strip()
+        return description
+        
     return None
 
 def update_character_count(content, new_count):
     """Update the character count line in the markdown."""
-    # Replace *Character count: X* with the new count
+    # Replace *Character count: X* with the new count if it exists
     pattern = r'\*Character count: \d+\*'
-    replacement = f'*Character count: {new_count}*'
-    return re.sub(pattern, replacement, content)
+    if re.search(pattern, content):
+        replacement = f'*Character count: {new_count}*'
+        return re.sub(pattern, replacement, content)
+    
+    # If no character count line exists, add one for Format 2 files
+    # Look for the Format 2 pattern and add count after description
+    format2_pattern = r'(## Extended In-Game Description \(280-300 chars\)\s*\n.*?)(?=\n\n## |\Z)'
+    if re.search(format2_pattern, content, re.DOTALL):
+        def add_count(match):
+            desc_section = match.group(1)
+            return f"{desc_section}\n\n*Character count: {new_count}*"
+        return re.sub(format2_pattern, add_count, content, flags=re.DOTALL)
+    
+    return content
 
 def main():
     # Path to ability files

@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Compound Eyes grants a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokémon are 4x more likely to hold items when this leads your party.
+Compound Eyes grants a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokémon are 4x more likely to hold items when this leads your party. Essential for status users.
 
-*Character count: 268*
+*Character count: 294*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

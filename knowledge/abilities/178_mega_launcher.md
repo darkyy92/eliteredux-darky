@@ -4,7 +4,9 @@
 "Boosts Beam/Pump/Cannon/Shot/ Gun/Pulse, etc. moves by 1.3x."
 
 ## Extended In-Game Description (280-300 chars)
-Powers up pulse, beam, ball, and aura moves by 30%. Also boosts all status moves. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles and energy attacks.
+Powers up pulse, beam, ball, and aura moves by 30%. Also boosts all status moves for enhanced utility. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles, energy attacks, and support moves for versatile offense.
+
+*Character count: 285*
 
 ## Detailed Mechanical Explanation
 **Mega Launcher** provides a significant **1.3x damage multiplier** to an extensive range of moves, plus special interactions with healing moves.

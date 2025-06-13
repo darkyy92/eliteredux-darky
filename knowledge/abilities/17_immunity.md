@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker.
+Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker abilities.
 
-*Character count: 281*
+*Character count: 284*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

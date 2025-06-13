@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika.
+Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - greatly benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika.
 
-*Character count: 280*
+*Character count: 287*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

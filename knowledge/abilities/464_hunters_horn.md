@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential.
+Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential in battle.
 
-*Character count: 299*
+*Character count: 285*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

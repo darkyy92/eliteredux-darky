@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Physical contact with this Pokémon has a 30% chance to cause paralysis. In Elite Redux, this also triggers when this Pokémon makes contact with opponents, doubling its effectiveness.
+30% chance to paralyze on any contact move (both offense and defense in Elite Redux). Halves foe's Speed to 50% with 25% full paralysis chance per turn. Makes Wild Charge/Spark deadly threats. Severely punishes U-turn/Fake Out users. Electric-types and Limber immune. Bypassed by Mold Breaker.
 
-*Character count: 195*
+*Character count: 293*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

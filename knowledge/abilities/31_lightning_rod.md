@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Draws all Electric-type moves to this Pokémon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
+Draws all Electric-type moves to this Pokémon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, fully protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
 
-*Character count: 279*
+*Character count: 285*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -3,8 +3,10 @@
 ## Description
 "Attacks with 40BP Feint Attack on switch-in."
 
-## Extended Description
-"Uses 40 BP Feint Attack on switch-in (reduced from 80 BP). Dark-type, never misses, can't KO (falseSwipe). Provides guaranteed chip damage when entering battle. Targets random foe automatically. Good for pivot strategies and entry hazard synergy."
+## Extended In-Game Description (280-300 chars)
+"Uses 40 BP Feint Attack on switch-in (reduced from 80 BP). Dark-type, never misses, can't KO (falseSwipe). Provides guaranteed chip damage when entering battle. Targets random foe automatically. Excellent for pivot strategies and breaking Focus Sash/Sturdy."
+
+*Character count: 283*
 
 ## Implementation Details
 

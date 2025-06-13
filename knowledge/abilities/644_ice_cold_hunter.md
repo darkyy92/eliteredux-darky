@@ -8,9 +8,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail.
+Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, effectively doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail.
 
-*Character count: 294*
+*Character count: 291*
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

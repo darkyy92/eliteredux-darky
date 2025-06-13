@@ -6,7 +6,7 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Common on Normal-types. Synergizes with Technician for devastating low-power offense.
+Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
 
 *Character count: 282*
 

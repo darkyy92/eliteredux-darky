@@ -4,7 +4,9 @@
 "Summons sun on entry. Lasts 8 turns."
 
 ## Extended In-Game Description (280-300 chars)
-Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane accuracy drops. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine/Air Lock.
+Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane miss more. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine.
+
+*Character count: 292*
 
 ## Detailed Mechanical Explanation
 **Drought** sets up harsh sunlight weather automatically when the Pokémon with this ability enters battle. This weather effect is identical to using the move Sunny Day, but doesn't consume a turn.

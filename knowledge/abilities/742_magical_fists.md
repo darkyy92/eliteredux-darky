@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting punching coverage. Grumpig and Darmanitan Redux Aura notably have access to this ability.
+Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting additional punching coverage types. Grumpig and Darmanitan Redux Aura notably have access to this very powerful ability.
 
-*Character count: 259*
+*Character count: 287*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

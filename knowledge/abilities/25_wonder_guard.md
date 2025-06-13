@@ -6,9 +6,9 @@
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Only super-effective moves can damage this Pokémon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense.
+Only super-effective moves can damage this Pokémon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense. Forces careful teambuilding.
 
-*Character count: 280*
+*Character count: 298*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
