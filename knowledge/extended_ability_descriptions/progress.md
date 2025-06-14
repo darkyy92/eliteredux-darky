@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 138
+Completed: 143
 In Progress: 0
 
 ## Progress Tracking
@@ -95,11 +95,11 @@ In Progress: 0
 |  84 | Unburden                   | ✅          | ✅       | ❌        | 296             |
 |  85 | Heatproof                  | ✅          | ✅       | ❌        | ~300            |
 |  86 | Simple                     | ✅          | ✅       | ❌        | 293             |
-|  87 | Dry Skin                   | ❌          | ❌       | ❌        | -               |
-|  88 | Download                   | ❌          | ❌       | ❌        | -               |
-|  89 | Iron Fist                  | ❌          | ❌       | ❌        | -               |
-|  90 | Poison Heal                | ❌          | ❌       | ❌        | -               |
-|  91 | Adaptability               | ❌          | ❌       | ❌        | -               |
+|  87 | Dry Skin                   | ✅          | ✅       | ❌        | 298             |
+|  88 | Download                   | ✅          | ✅       | ❌        | 298             |
+|  89 | Iron Fist                  | ✅          | ✅       | ❌        | 298             |
+|  90 | Poison Heal                | ✅          | ✅       | ❌        | 283             |
+|  91 | Adaptability               | ✅          | ✅       | ❌        | 293             |
 |  92 | Skill Link                 | ❌          | ❌       | ❌        | -               |
 |  93 | Hydration                  | ❌          | ❌       | ❌        | -               |
 |  94 | Solar Power                | ❌          | ❌       | ❌        | -               |
