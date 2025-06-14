@@ -59,6 +59,69 @@ ability {
 }
 
 
+# ID: 76
+ability {
+  id: ABILITY_AIR_LOCK
+  extended_description: "Air Lock clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams."
+}
+
+
+# ID: 77
+ability {
+  id: ABILITY_TANGLED_FEET
+  extended_description: "Tangled Feet halves opponents' accuracy when this Pokémon is confused. The chaotic, unsteady movements from confusion make the Pokémon harder to hit. Works against all moves targeting this Pokémon, including status moves. Only functions while confused; provides no benefit otherwise."
+}
+
+
+# ID: 78
+ability {
+  id: ABILITY_MOTOR_DRIVE
+  extended_description: "Motor Drive makes the Pokémon immune to Electric-type moves, boosting Speed by 1 stage instead of taking damage. This includes status moves like Thunder Wave. Works against multi-hit Electric moves, boosting Speed for each hit absorbed. Excellent for pivoting into Electric attacks safely."
+}
+
+
+# ID: 79
+ability {
+  id: ABILITY_RIVALRY
+  extended_description: "Rivalry increases damage dealt by 25% to Pokémon of the same gender and reduces damage taken by 25% from Pokémon of the opposite gender. Has no effect against genderless Pokémon. This ability creates dynamic matchups based on gender, making same-gender battles more intense while opposite-gender encounters are milder."
+}
+
+
+# ID: 80
+ability {
+  id: ABILITY_STEADFAST
+  extended_description: "Steadfast boosts Speed by one stage when the Pokémon flinches, turning flinching into a benefit. Works alongside moves like Fake Out and high-flinch chance attacks. The Speed boost occurs immediately after the flinch, potentially allowing faster moves next turn. Combines with Rattled for potential double boosts."
+}
+
+
+# ID: 81
+ability {
+  id: ABILITY_SNOW_CLOAK
+  extended_description: "Snow Cloak reduces opponent accuracy by 20% during hail weather, providing a defensive boost through evasion. The Pokémon is also immune to hail damage. This ability is breakable by moves like Mold Breaker but still grants hail immunity even when suppressed."
+}
+
+
+# ID: 82
+ability {
+  id: ABILITY_GLUTTONY
+  extended_description: "Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. This includes both held berries and berries consumed through moves like Pluck or Natural Gift."
+}
+
+
+# ID: 83
+ability {
+  id: ABILITY_ANGER_POINT
+  extended_description: "Anger Point raises Attack by +1 stage when taking damage from any move. When hit by a critical hit, Attack is maximized to +6 stages instantly. Only triggers if the Pokemon survives the hit and can have its Attack raised. Perfect for turning defensive situations into offensive opportunities."
+}
+
+
+# ID: 84
+ability {
+  id: ABILITY_UNBURDEN
+  extended_description: "Unburden doubles Speed when the Pokémon's held item is consumed or removed. The boost persists until the Pokémon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket."
+}
+
+
 # ID: 86
 ability {
   id: ABILITY_SIMPLE
@@ -262,6 +325,13 @@ ability {
 ability {
   id: ABILITY_RETRIEVER
   extended_description: "Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle. Message shows which item was retrieved."
+}
+
+
+# ID: 516
+ability {
+  id: ABILITY_MONSTER_MASH
+  extended_description: "Automatically casts Trick-or-Treat when entering battle, adding Ghost as a third type to the target Pokemon. This removes Ghost immunity to physical attacks in Fog weather and adds Ghost weaknesses. The effect persists until the target switches out, making it a powerful counter to Fog teams."
 }
 
 
@@ -718,5 +788,287 @@ ability {
   id: ABILITY_MALICIOUS
   extended_description: "Malicious intent manifests through contact, with a 50% chance to inflict random status conditions (poison, burn, paralysis, freeze, sleep) when making contact with any move. Status infliction bypasses type immunities and most protective abilities. Creates unpredictable offensive pressure through contact attacks."
 }
+
+
+# Batch 4: Abilities 33-42
+
+# ID: 33
+ability {
+  id: ABILITY_SWIFT_SWIM
+  extended_description: "Swift Swim boosts the Pokémon's Speed by 50% during rain weather. Works with all forms of rain including regular rain, heavy rain, and Primordial Sea. The speed boost applies immediately when rain is active and disappears when rain ends. Stacks with other speed modifiers for sweeping potential."
+}
+
+
+# ID: 34
+ability {
+  id: ABILITY_CHLOROPHYLL
+  extended_description: "Chlorophyll harnesses solar energy to boost Speed by 50% in harsh sunlight. Works with all sun forms: regular (8 turns), permanent (Drought), and primal (Desolate Land). This ability excels in sun teams, enabling fast Solar Beam sweeps and outpacing threats. Pairs perfectly with Drought setters."
+}
+
+
+# ID: 35
+ability {
+  id: ABILITY_ILLUMINATE
+  extended_description: "Illuminate increases the accuracy of all moves used by the Pokémon by 20% (1.2x multiplier). Additionally, when this Pokémon is in the lead position of your party while exploring, it doubles the wild encounter rate, making it easier to find wild Pokémon in tall grass, caves, and water."
+}
+
+
+# ID: 36
+ability {
+  id: ABILITY_TRACE
+  extended_description: "Trace copies the ability of an opposing Pokémon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, Receiver, or persistent abilities. In doubles, targets the first valid opponent. Does not copy innate abilities. Shows ability popup."
+}
+
+
+# ID: 37
+ability {
+  id: ABILITY_HUGE_POWER
+  extended_description: "Huge Power doubles the Pokémon's Attack stat before stat stage modifiers are applied. This multiplies the effective Attack by 2.0x, making physical moves significantly more powerful. Works with stat stages, items, and other modifiers that are applied after. Identical effect to Pure Power."
+}
+
+
+# ID: 38
+ability {
+  id: ABILITY_POISON_POINT
+  extended_description: "Poison Point has a 30% chance to poison opponents when making or receiving contact moves. Works both defensively when attacked with contact moves and offensively when using contact moves. The poison inflicts 1/8 max HP damage each turn. Bypasses Safeguard protection when triggered by ability."
+}
+
+
+# ID: 39
+ability {
+  id: ABILITY_INNER_FOCUS
+  extended_description: "Inner Focus provides immunity to flinching, Intimidate-like effects (Intimidate, Scare, Fearmonger, etc.), and status conditions from Taunt. Additionally, when this Pokémon uses Focus Blast, it bypasses accuracy checks and always hits the target, improving its battle reliability."
+}
+
+
+# ID: 40
+ability {
+  id: ABILITY_MAGMA_ARMOR
+  extended_description: "Magma Armor grants complete immunity to the frostbite status condition and reduces damage from Water and Ice-type moves by 30%. This defensive ability is particularly effective against Ice-type Pokemon and moves that inflict frostbite. The resistance helps mitigate common weaknesses."
+}
+
+
+# ID: 41
+ability {
+  id: ABILITY_WATER_VEIL
+  extended_description: "Water Veil prevents burn status completely and automatically casts Aqua Ring upon entering battle. The Aqua Ring effect heals 1/16 max HP each turn. Big Root boosts healing by 50%. The healing stacks with other recovery effects and continues until the Pokémon switches out or faints."
+}
+
+
+# ID: 42
+ability {
+  id: ABILITY_MAGNET_PULL
+  extended_description: "Magnet Pull prevents Steel-type Pokémon from switching out. Ghost-types are immune to this effect. Pokémon holding Shed Shell can escape. Does not block Teleport, U-turn, Volt Switch, or Baton Pass. Creates magnetic field that traps Steel Pokemon until the user switches out or faints."
+}
+
+
+# Batch 5: IDs 43-54
+
+# ID: 43
+ability {
+  id: ABILITY_SOUNDPROOF
+  extended_description: "Soundproof grants complete immunity to all sound-based moves, blocking them entirely. Protects against direct damage moves like Boomburst and Hyper Voice, status moves like Sing and Supersonic, and utility moves like Heal Bell and Perish Song. Cannot be broken by Mold Breaker but can be bypassed by moves targeting the user."
+}
+
+
+# ID: 44
+ability {
+  id: ABILITY_RAIN_DISH
+  extended_description: "Rain Dish gradually restores HP when rain weather is active, healing 1/8 of maximum HP at the end of each turn. Works with all rain types including Drizzle and Primordial Sea. Healing is blocked by Heal Block, Bleed status, Blood Stain effect, or opposing Permanence ability. Enhanced by Big Root item."
+}
+
+
+# ID: 46
+ability {
+  id: ABILITY_PRESSURE
+  extended_description: "Pressure doubles PP usage of opposing moves and clears all stat buffs on entry. Pressure bearer keeps their stat drops while removing positive buffs from all opponents. Opposing moves cost 2 PP instead of 1, accelerating resource depletion. Displays "is exerting its pressure!" upon entry."
+}
+
+
+# ID: 48
+ability {
+  id: ABILITY_EARLY_BIRD
+  extended_description: "Early Bird allows the Pokémon to wake up from sleep twice as fast. While normal Pokémon subtract 1 sleep turn per turn, Early Bird users subtract 2 turns per turn, effectively halving sleep duration. Works against all sleep-inducing moves and effects, making the Pokémon much more resistant to sleep strategies."
+}
+
+
+# ID: 49
+ability {
+  id: ABILITY_FLAME_BODY
+  extended_description: "Flame Body has a 30% chance to inflict burn status on any Pokémon that makes contact with attacks, whether attacking or defending. The burned Pokémon takes 1/16 max HP damage each turn and has Attack reduced by 50%. Also doubles egg hatching speed when in party. Fire-types cannot be burned."
+}
+
+
+# ID: 50
+ability {
+  id: ABILITY_RUN_AWAY
+  extended_description: "Run Away guarantees successful escape from wild Pokémon battles regardless of speed differences. Additionally, when any of the user's stats are lowered by an opponent's move or ability, Run Away triggers and raises the user's Speed by 2 stages, providing a defensive counter-stat boost mechanism."
+}
+
+
+# ID: 51
+ability {
+  id: ABILITY_KEEN_EYE
+  extended_description: "Keen Eye prevents accuracy stat reductions from moves like Sand Attack and Smokescreen. Additionally, all moves gain a 1.2x accuracy boost, making normally unreliable moves more consistent. This ability is breakable by Mold Breaker and similar abilities, but provides excellent reliability for accuracy-dependent movesets."
+}
+
+
+# ID: 52
+ability {
+  id: ABILITY_HYPER_CUTTER
+  extended_description: "Hyper Cutter prevents enemies from lowering the user's Attack or Special Attack stats through moves or abilities. Additionally, all contact moves used by this Pokémon have their critical hit rate increased by one stage. Immune to Intimidate, stat-lowering moves like Growl and Tickle affecting Attack/SpAtk stats."
+}
+
+
+# ID: 53
+ability {
+  id: ABILITY_PICKUP
+  extended_description: "Pickup automatically clears all entry hazards from your side of the field when entering battle. Removes Spikes, Toxic Spikes, Stealth Rock, Sticky Web, Hot Coals, and Caltrops. The Pokémon still takes full hazard damage on entry before clearing, but provides immediate field support for the team."
+}
+
+
+# ID: 54
+ability {
+  id: ABILITY_TRUANT
+  extended_description: "Truant prevents the Pokémon from using attacking moves on consecutive turns. After using any physical or special move, the Pokémon must loaf around on the next turn and cannot attack. Status moves are unaffected and can be used freely. This creates a predictable rhythm where attacking turns alternate with loafing turns, severely limiting offensive pressure."
+}
+
+
+# Batch 6: IDs 55-64 (skipping 59 already done)
+
+# ID: 55
+ability {
+  id: ABILITY_HUSTLE
+  extended_description: "Hustle boosts the power of physical moves by 1.4x but reduces their accuracy to 90% of normal. Only affects non-status moves - status moves maintain perfect accuracy. High risk, high reward ability that trades reliability for raw power. Essential for frail attackers needing extra damage."
+}
+
+
+# ID: 56
+ability {
+  id: ABILITY_CUTE_CHARM
+  extended_description: "When making or receiving contact moves, has a 50% chance to infatuate the opponent. Works bidirectionally - triggers whether attacking or defending with contact moves. Infatuated Pokémon have reduced accuracy and may be unable to attack. Does not work on same-gender or genderless Pokémon."
+}
+
+
+# ID: 57
+ability {
+  id: ABILITY_PLUS
+  extended_description: "Plus doubles the Pokémon's offensive power when partnered with an ally that has Plus or Minus abilities. In double battles, this creates a powerful synergy effect that multiplies damage by 2.0x. Only activates when both Pokémon are alive on the field. Pairs excellently with Minus ability."
+}
+
+
+# ID: 58
+ability {
+  id: ABILITY_MINUS
+  extended_description: "Minus doubles damage output when partnered with Plus or Minus ally. Only works in double/triple battles with living partner. Creates powerful synergy enabling devastating combo attacks. Essential for doubles strategies focused on overwhelming offensive pressure through coordinated ability combinations."
+}
+
+
+# ID: 60
+ability {
+  id: ABILITY_STICKY_HOLD
+  extended_description: "Sticky Hold prevents the Pokémon from losing its held item through any means. Blocks Knock Off, Thief, Covet, Trick, Switcheroo, and other item-removing effects. The item remains secure throughout battle, enabling consistent item-dependent strategies and protecting valuable held items from theft."
+}
+
+
+# ID: 61
+ability {
+  id: ABILITY_SHED_SKIN
+  extended_description: "Shed Skin provides a 30% chance each turn to cure any status condition affecting the Pokémon. Works on all major status effects including sleep, poison, burn, paralysis, freeze, frostbite, and bleed. The healing chance activates at the end of each turn, making it excellent for sustained battles."
+}
+
+
+# ID: 62
+ability {
+  id: ABILITY_GUTS
+  extended_description: "Guts boosts Attack by 50% when suffering from any status condition. Only affects physical moves. Additionally, completely negates the Attack drop from burn status while still taking burn damage. Perfect for status-immune strategies and Flame Orb users seeking massive physical power."
+}
+
+
+# ID: 63
+ability {
+  id: ABILITY_MARVEL_SCALE
+  extended_description: "Marvel Scale increases Defense and Special Defense by 50% when afflicted with any status condition. Activates with sleep, poison, burn, paralysis, freeze, frostbite, bleed, and special conditions like Comatose. Excellent for defensive strategies and combines well with status orbs for consistent bulk."
+}
+
+
+# ID: 64
+ability {
+  id: ABILITY_LIQUID_OOZE
+  extended_description: "Liquid Ooze reverses all healing effects from drain moves, causing the attacker to take damage instead. Affects Absorb, Drain Punch, Giga Drain, Leech Life, and similar draining attacks. The damage equals what would have been healed. Perfect counter to healing-based strategies."
+}
+
+
+# Batch 7: IDs 65-69, 71-75
+
+# ID: 65
+ability {
+  id: ABILITY_OVERGROW
+  extended_description: "Overgrow boosts all Grass-type moves by 1.2x power normally, increasing to 1.5x power when the Pokémon's HP drops to 1/3 or below. This ability activates automatically in battle, making it ideal for Grass-type attackers who can capitalize on consistent damage and emergency power."
+}
+
+
+# ID: 66
+ability {
+  id: ABILITY_BLAZE
+  extended_description: "Blaze enhances Fire-type moves with dynamic power boosts. When the Pokémon has more than 1/3 HP, Fire attacks deal 1.2x damage. When critically injured (1/3 HP or less), the boost increases to 1.5x damage. This ability makes Fire-types increasingly dangerous as they take more damage."
+}
+
+
+# ID: 67
+ability {
+  id: ABILITY_TORRENT
+  extended_description: "Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% when the Pokémon's HP drops below 1/3 of its maximum. This ability is signature to most Water-type starter Pokémon, providing consistent offensive pressure with a powerful emergency boost when needed."
+}
+
+
+# ID: 68
+ability {
+  id: ABILITY_SWARM
+  extended_description: "Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pokémon's HP drops to 1/3 or less. The ability activates automatically when health is low, providing a significant damage boost when most needed. Perfect for Bug-type attackers who can capitalize on the enhanced power."
+}
+
+
+# ID: 69
+ability {
+  id: ABILITY_ROCK_HEAD
+  extended_description: "Rock Head prevents all recoil damage from the user's moves, including Take Down, Double-Edge, Flare Blitz, and Head Smash. Also grants immunity to confusion status. However, crash damage from missed Jump Kicks and self-destruction from Explosion/Self-Destruct still occur normally."
+}
+
+
+# ID: 71
+ability {
+  id: ABILITY_ARENA_TRAP
+  extended_description: "Arena Trap prevents grounded enemy Pokémon from fleeing or switching out. Flying-type Pokémon, Pokémon with Levitate, Magnet Rise, Air Balloon, or Telekinesis are immune. Ghost-type Pokémon are also immune. Shed Shell bypasses this trap. Does not work on allies in double battles."
+}
+
+
+# ID: 72
+ability {
+  id: ABILITY_VITAL_SPIRIT
+  extended_description: "Vital Spirit prevents sleep and provides immunity to Taunt. When the Pokémon uses a Fighting-type move, it heals all status conditions (poison, burn, paralysis, freeze, frostbite, bleed, sleep). This ability cannot be suppressed and automatically removes sleep when gained. Very useful."
+}
+
+
+# ID: 73
+ability {
+  id: ABILITY_WHITE_SMOKE
+  extended_description: "White Smoke automatically sets Smokescreen on the user's side when entering battle, lasting 3 turns (5 with Light Clay held). Smokescreen obscures the user's party in smoke, increasing their evasiveness by 25% and making all moves targeting them less accurate. Provides team-wide defensive utility."
+}
+
+
+# ID: 74
+ability {
+  id: ABILITY_PURE_POWER
+  extended_description: "Pure Power doubles the Pokémon's Attack stat directly, not just the base stat. This massive boost applies to all physical moves, making even moderate base Attack stats incredibly threatening. The doubling occurs after all other stat calculations, making it one of the best offensive abilities."
+}
+
+
+# ID: 75
+ability {
+  id: ABILITY_SHELL_ARMOR
+  extended_description: "This Pokémon's shell prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokémon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%."
+}
+
 
 EOF < /dev/null

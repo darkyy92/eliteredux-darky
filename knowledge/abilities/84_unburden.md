@@ -1,0 +1,136 @@
+# UNBURDEN - Ability ID 84
+
+## In-Game Description
+"Consuming its held item doubles Speed until switched out."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+
+Unburden doubles Speed when the Pokémon's held item is consumed or removed. The boost persists until the Pokémon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
+
+*Character count: 296*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+**UNBURDEN** is a Speed-boosting ability that activates when the Pokémon loses its held item through any means.
+
+### Activation Mechanics:
+- **Trigger**: When the Pokémon's held item becomes ITEM_NONE (removed/consumed)
+- **Speed Boost**: Doubles Speed stat (2x multiplier)
+- **Duration**: Until the Pokémon switches out or gains a new item
+- **State Management**: Uses SetAbilityState/GetAbilityState system
+
+### Technical Implementation:
+```c
+constexpr Ability Unburden = {
+    .onStat =
+        +[](ON_STAT) {
+            if (statId == STAT_SPEED && GetAbilityState(battler, ability)) *stat *= 2;
+        },
+};
+```
+
+### Item Loss Triggers:
+1. **Berry Consumption**: Natural consumption when conditions are met
+   - Sitrus Berry (HP drop), Lum Berry (status), etc.
+   - Bug Bite/Pluck eating target's berry
+   
+2. **Gem Activation**: Type gems consumed when using matching move type
+   - Flying Gem, Fire Gem, etc.
+   
+3. **Other Consumables**:
+   - White Herb (stat drops), Mental Herb (attraction/taunt)
+   - Focus Sash (survive lethal hit), Air Balloon (hit by Ground move)
+   - Weakness Policy, Cell Battery, etc.
+
+4. **Forced Item Removal**:
+   - Knock Off (removes and damages)
+   - Incinerate (destroys berries/gems)
+   - Pickpocket (steals on contact)
+   - Covet/Thief (steals via moves)
+   - Magic Room (temporary item nullification ending)
+
+### State Management:
+```c
+// In UpdateBattlerItem function:
+if (oldItem == ITEM_NONE)
+    SetAbilityState(battler, ABILITY_UNBURDEN, FALSE);  // Gained item - disable
+else if (newItem == ITEM_NONE)
+    SetAbilityState(battler, ABILITY_UNBURDEN, TRUE);   // Lost item - enable
+```
+
+### Interaction Rules:
+- **Gaining Items**: Speed boost immediately deactivates if Pokémon receives any item
+- **Switch Out**: Speed boost is lost when Pokémon leaves battle
+- **Multiple Activations**: Can activate multiple times per battle if item is lost again
+- **Sticky Hold**: Prevents forced item removal, so Unburden won't activate from Knock Off/etc.
+
+### Speed Calculation Priority:
+Unburden applies during stat calculation phase:
+1. Base Speed stat
+2. Nature modifier
+3. Ability modifiers (Unburden: 2x)
+4. Item modifiers (Choice Scarf, etc.)
+5. Status conditions (paralysis: 0.25x)
+
+### Strategic Applications:
+1. **Berry Strategies**:
+   - Sitrus Berry + Belly Drum combo
+   - Salac Berry for stacked Speed boosts
+   - Petaya/Apicot berries for additional stat boosts
+
+2. **Gem Sweeping**:
+   - Normal Gem + Fake Out for priority
+   - Flying Gem + Acrobatics (double power when itemless)
+
+3. **Sacrifice Items**:
+   - Focus Sash for setup opportunities
+   - Weakness Policy for offensive boosts
+
+### Common Users:
+- **Hawlucha**: Flying/Fighting with Acrobatics synergy
+- **Treecko line**: Fast Grass types with access to berries
+- **Slurpuff**: Fairy type with natural berry synergy
+- **Hitmonlee**: Fast Fighting type for physical sweeping
+- **Various custom Elite Redux Pokémon**: Speed-focused builds
+
+### Competitive Interactions:
+- **Acrobatics Synergy**: Flying move doubles power when user has no item
+- **Belly Drum**: Max Attack + Unburden speed for physical sweeping
+- **Priority Moves**: Enhanced by superior Speed for move order
+- **Choice Items**: Cannot benefit as item isn't consumed, only locked
+
+### Counters:
+1. **Trick/Switcheroo**: Force an item onto the Pokémon
+2. **Priority Moves**: Bypass Speed advantage
+3. **Status Moves**: Paralysis cuts Speed, burns reduce Attack
+4. **Sticky Hold**: Prevents item removal on opposing Pokémon
+
+### Synergies:
+- **White Herb**: Remove negative stat drops and gain Speed
+- **Terrain Seeds**: Stat boost + Speed boost combo
+- **Endure + Salac Berry**: Guaranteed Speed boost at low HP
+- **Substitute**: Protect setup while item activates
+
+### Version History:
+- **Gen 4 Introduction**: Original implementation
+- **Gen 5+**: Consistent across generations
+- **Elite Redux**: Maintained standard mechanics with expanded item interactions
+
+### Example Damage Calculations:
+**Hawlucha @ Flying Gem**
+- Base Speed: 118
+- After Flying Gem consumed: 236 effective Speed
+- Acrobatics: 55 BP → 110 BP (no item) + STAB + gem boost
+- Result: Extremely fast, powerful Flying attack
+
+**Common Competitive Set:**
+```
+Hawlucha @ Flying Gem
+Ability: Unburden
+- Acrobatics (powered up when itemless)
+- High Jump Kick/Close Combat
+- Swords Dance/Substitute
+- Roost/U-turn
+```

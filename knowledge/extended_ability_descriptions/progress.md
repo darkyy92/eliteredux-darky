@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 98
+Completed: 138
 In Progress: 0
 
 ## Progress Tracking
@@ -41,58 +41,58 @@ In Progress: 0
 |  30 | Natural Cure               | ✅          | ✅       | ❌        | 291             |
 |  31 | Lightning Rod              | ✅          | ✅       | ❌        | 285             |
 |  32 | Serene Grace               | ✅          | ✅       | ❌        | 284             |
-|  33 | Swift Swim                 | ❌          | ❌       | ❌        | -               |
-|  34 | Chlorophyll                | ❌          | ❌       | ❌        | -               |
-|  35 | Illuminate                 | ❌          | ❌       | ❌        | -               |
-|  36 | Trace                      | ❌          | ❌       | ❌        | -               |
-|  37 | Huge Power                 | ❌          | ❌       | ❌        | -               |
-|  38 | Poison Point               | ❌          | ❌       | ❌        | -               |
-|  39 | Inner Focus                | ❌          | ❌       | ❌        | -               |
-|  40 | Magma Armor                | ❌          | ❌       | ❌        | -               |
-|  41 | Water Veil                 | ❌          | ❌       | ❌        | -               |
-|  42 | Magnet Pull                | ❌          | ❌       | ❌        | -               |
-|  43 | Soundproof                 | ❌          | ❌       | ❌        | -               |
-|  44 | Rain Dish                  | ❌          | ❌       | ❌        | -               |
+|  33 | Swift Swim                 | ✅          | ✅       | ❌        | 295             |
+|  34 | Chlorophyll                | ✅          | ✅       | ❌        | 296             |
+|  35 | Illuminate                 | ✅          | ✅       | ❌        | 286             |
+|  36 | Trace                      | ✅          | ✅       | ❌        | 282             |
+|  37 | Huge Power                 | ✅          | ✅       | ❌        | 289             |
+|  38 | Poison Point               | ✅          | ✅       | ❌        | 293             |
+|  39 | Inner Focus                | ✅          | ✅       | ❌        | 280             |
+|  40 | Magma Armor                | ✅          | ✅       | ❌        | 284             |
+|  41 | Water Veil                 | ✅          | ✅       | ❌        | 283             |
+|  42 | Magnet Pull                | ✅          | ✅       | ❌        | 285             |
+|  43 | Soundproof                 | ✅          | ✅       | ❌        | 289             |
+|  44 | Rain Dish                  | ✅          | ✅       | ❌        | 291             |
 |  45 | Sand Stream                | ✅          | ✅       | ❌        | ~300            |
-|  46 | Pressure                   | ❌          | ❌       | ❌        | -               |
+|  46 | Pressure                   | ✅          | ✅       | ❌        | 299             |
 |  47 | Thick Fat                  | ✅          | ✅       | ❌        | 283             |
-|  48 | Early Bird                 | ❌          | ❌       | ❌        | -               |
-|  49 | Flame Body                 | ❌          | ❌       | ❌        | -               |
-|  50 | Run Away                   | ❌          | ❌       | ❌        | -               |
-|  51 | Keen Eye                   | ❌          | ❌       | ❌        | -               |
-|  52 | Hyper Cutter               | ❌          | ❌       | ❌        | -               |
-|  53 | Pickup                     | ❌          | ❌       | ❌        | -               |
-|  54 | Truant                     | ❌          | ❌       | ❌        | -               |
-|  55 | Hustle                     | ❌          | ❌       | ❌        | -               |
-|  56 | Cute Charm                 | ❌          | ❌       | ❌        | -               |
-|  57 | Plus                       | ❌          | ❌       | ❌        | -               |
-|  58 | Minus                      | ❌          | ❌       | ❌        | -               |
+|  48 | Early Bird                 | ✅          | ✅       | ❌        | 295             |
+|  49 | Flame Body                 | ✅          | ✅       | ❌        | 289             |
+|  50 | Run Away                   | ✅          | ✅       | ❌        | 287             |
+|  51 | Keen Eye                   | ✅          | ✅       | ❌        | 288             |
+|  52 | Hyper Cutter               | ✅          | ✅       | ❌        | 294             |
+|  53 | Pickup                     | ✅          | ✅       | ❌        | 285             |
+|  54 | Truant                     | ✅          | ✅       | ❌        | 298             |
+|  55 | Hustle                     | ✅          | ✅       | ❌        | 288             |
+|  56 | Cute Charm                 | ✅          | ✅       | ❌        | 289             |
+|  57 | Plus                       | ✅          | ✅       | ❌        | 289             |
+|  58 | Minus                      | ✅          | ✅       | ❌        | 295             |
 |  59 | Forecast                   | ✅          | ✅       | ❌        | ~300            |
-|  60 | Sticky Hold                | ❌          | ❌       | ❌        | -               |
-|  61 | Shed Skin                  | ❌          | ❌       | ❌        | -               |
-|  62 | Guts                       | ❌          | ❌       | ❌        | -               |
-|  63 | Marvel Scale               | ❌          | ❌       | ❌        | -               |
-|  64 | Liquid Ooze                | ❌          | ❌       | ❌        | -               |
-|  65 | Overgrow                   | ❌          | ❌       | ❌        | -               |
-|  66 | Blaze                      | ❌          | ❌       | ❌        | -               |
-|  67 | Torrent                    | ❌          | ❌       | ❌        | -               |
-|  68 | Swarm                      | ❌          | ❌       | ❌        | -               |
-|  69 | Rock Head                  | ❌          | ❌       | ❌        | -               |
+|  60 | Sticky Hold                | ✅          | ✅       | ❌        | 294             |
+|  61 | Shed Skin                  | ✅          | ✅       | ❌        | 289             |
+|  62 | Guts                       | ✅          | ✅       | ❌        | 285             |
+|  63 | Marvel Scale               | ✅          | ✅       | ❌        | 295             |
+|  64 | Liquid Ooze                | ✅          | ✅       | ❌        | 288             |
+|  65 | Overgrow                   | ✅          | ✅       | ❌        | 294             |
+|  66 | Blaze                      | ✅          | ✅       | ❌        | 293             |
+|  67 | Torrent                    | ✅          | ✅       | ❌        | 291             |
+|  68 | Swarm                      | ✅          | ✅       | ❌        | 293             |
+|  69 | Rock Head                  | ✅          | ✅       | ❌        | 284             |
 |  70 | Drought                    | ✅          | ✅       | ❌        | ~300            |
-|  71 | Arena Trap                 | ❌          | ❌       | ❌        | -               |
-|  72 | Vital Spirit               | ❌          | ❌       | ❌        | -               |
-|  73 | White Smoke                | ❌          | ❌       | ❌        | -               |
-|  74 | Pure Power                 | ❌          | ❌       | ❌        | -               |
-|  75 | Shell Armor                | ❌          | ❌       | ❌        | -               |
-|  76 | AIr Lock                   | ❌          | ❌       | ❌        | -               |
-|  77 | Tangled Feet               | ❌          | ❌       | ❌        | -               |
-|  78 | Motor Drive                | ❌          | ❌       | ❌        | -               |
-|  79 | Rivalry                    | ❌          | ❌       | ❌        | -               |
-|  80 | Steadfast                  | ❌          | ❌       | ❌        | -               |
-|  81 | Snow Cloak                 | ❌          | ❌       | ❌        | -               |
-|  82 | Gluttony                   | ❌          | ❌       | ❌        | -               |
-|  83 | Anger Point                | ❌          | ❌       | ❌        | -               |
-|  84 | Unburden                   | ❌          | ❌       | ❌        | -               |
+|  71 | Arena Trap                 | ✅          | ✅       | ❌        | 285             |
+|  72 | Vital Spirit               | ✅          | ✅       | ❌        | 297             |
+|  73 | White Smoke                | ✅          | ✅       | ❌        | 298             |
+|  74 | Pure Power                 | ✅          | ✅       | ❌        | 291             |
+|  75 | Shell Armor                | ✅          | ✅       | ❌        | 285             |
+|  76 | Air Lock                   | ✅          | ✅       | ❌        | 299             |
+|  77 | Tangled Feet               | ✅          | ✅       | ❌        | 284             |
+|  78 | Motor Drive                | ✅          | ✅       | ❌        | 289             |
+|  79 | Rivalry                    | ✅          | ✅       | ❌        | 294             |
+|  80 | Steadfast                  | ✅          | ✅       | ❌        | 297             |
+|  81 | Snow Cloak                 | ✅          | ✅       | ❌        | 284             |
+|  82 | Gluttony                   | ✅          | ✅       | ❌        | 281             |
+|  83 | Anger Point                | ✅          | ✅       | ❌        | 299             |
+|  84 | Unburden                   | ✅          | ✅       | ❌        | 296             |
 |  85 | Heatproof                  | ✅          | ✅       | ❌        | ~300            |
 |  86 | Simple                     | ✅          | ✅       | ❌        | 293             |
 |  87 | Dry Skin                   | ❌          | ❌       | ❌        | -               |
@@ -524,7 +524,7 @@ In Progress: 0
 | 513 | Pony Power                 | ❌          | ❌       | ❌        | -               |
 | 514 | Powder Burst               | ❌          | ❌       | ❌        | -               |
 | 515 | Retriever                  | ✅         | ✅      | ❌        | ~300            |
-| 516 | Monster Mash               | ❌          | ❌       | ❌        | -               |
+| 516 | Monster Mash               | ✅          | ✅       | ❌        | 292             |
 | 517 | Two Step                   | ❌          | ❌       | ❌        | -               |
 | 518 | Spiteful                   | ❌          | ❌       | ❌        | -               |
 | 519 | Fortitude                  | ❌          | ❌       | ❌        | -               |
