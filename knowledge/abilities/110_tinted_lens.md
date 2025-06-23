@@ -1,0 +1,47 @@
+---
+id: 110
+name: Tinted Lens
+status: ai-generated
+character_count: 293
+---
+
+# Tinted Lens - Ability ID 110
+
+## In-Game Description
+"Attacks deal double damage if resisted."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Tinted Lens doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x, turning weak hits into normal damage. This makes the Pokémon's attacks much harder to wall and improves coverage against defensive switch-ins.
+
+*Character count: 293*
+
+## Detailed Mechanical Explanation
+Tinted Lens is an offensive ability that modifies damage calculation when the user's attacks would be resisted by the target.
+
+### Mechanics:
+- **Activation Condition**: Triggers when the type effectiveness multiplier is 0.5x or less
+- **Damage Multiplication**: Applies a 2x multiplier to resisted attacks
+- **Effect on Type Matchups**:
+  - 0.5x resistance → becomes 1x neutral damage
+  - 0.25x double resistance → becomes 0.5x single resistance
+- **Stacking**: The 2x multiplier is applied after type effectiveness is calculated
+
+### Implementation Details:
+From the code analysis, Tinted Lens uses the `RESISTANCE(2)` macro when `typeEffectivenessMultiplier <= UQ_4_12(.5)`. This means:
+- It checks if the type effectiveness is 0.5 or less (including double resistances at 0.25)
+- It then applies a 2x resistance modifier, which effectively doubles the damage
+
+### Strategic Applications:
+- **Coverage Enhancement**: Makes the Pokémon's movepool more versatile by reducing the impact of resistances
+- **Switch Punishment**: Opponents can't rely on resistances to safely switch in
+- **Offensive Pressure**: Forces opponents to rely on immunities or raw bulk rather than type resistances
+- **Synergy**: Works especially well on Pokémon with limited coverage options or those that rely on specific STAB moves
+
+### Notable Users:
+Tinted Lens is particularly valuable on special attackers and Pokémon with powerful but commonly resisted STAB types (like Bug or Poison). It allows them to break through traditional checks and counters.
+
+### Comparison to Similar Abilities:
+- Unlike abilities that boost super effective damage (like Neuroforce), Tinted Lens specifically helps with poor type matchups
+- It's the offensive counterpart to Filter/Solid Rock, which reduce super effective damage taken

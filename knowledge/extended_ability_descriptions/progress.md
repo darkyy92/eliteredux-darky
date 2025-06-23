@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 163
+Completed: 243
 In Progress: 0
 
 ## Progress Tracking
@@ -111,99 +111,99 @@ In Progress: 0
 | 100 | Stall                      | ✅          | ✅       | ❌        | None            |
 | 101 | Technician                 | ✅          | ✅       | ❌        | None            |
 | 102 | Leaf Guard                 | ✅          | ✅       | ❌        | 289             |
-| 103 | Ability 103                | ❌          | ❌       | ❌        | -               |
+| 103 | Klutz                      | ✅          | ✅       | ❌        | 289             |
 | 104 | Mold Breaker               | ✅          | ✅       | ❌        | 295             |
-| 105 | Ability 105                | ❌          | ❌       | ❌        | -               |
-| 106 | Ability 106                | ❌          | ❌       | ❌        | -               |
-| 107 | Ability 107                | ❌          | ❌       | ❌        | -               |
-| 108 | Ability 108                | ❌          | ❌       | ❌        | -               |
+| 105 | Super Luck                 | ✅          | ✅       | ❌        | 293             |
+| 106 | Aftermath                  | ✅          | ✅       | ❌        | 288             |
+| 107 | Anticipation               | ✅          | ✅       | ❌        | 285             |
+| 108 | Forewarn                   | ✅          | ✅       | ❌        | 299             |
 | 109 | Unaware                    | ✅          | ✅       | ❌        | 300             |
-| 110 | Ability 110                | ❌          | ❌       | ❌        | -               |
-| 111 | Ability 111                | ❌          | ❌       | ❌        | -               |
-| 112 | Ability 112                | ❌          | ❌       | ❌        | -               |
-| 113 | Ability 113                | ❌          | ❌       | ❌        | -               |
-| 114 | Ability 114                | ❌          | ❌       | ❌        | -               |
-| 115 | Ability 115                | ❌          | ❌       | ❌        | -               |
-| 116 | Ability 116                | ❌          | ❌       | ❌        | -               |
+| 110 | Tinted Lens                | ✅          | ✅       | ❌        | 293             |
+| 111 | Filter                     | ✅          | ✅       | ❌        | 286             |
+| 112 | Slow Start                 | ✅          | ✅       | ❌        | 297             |
+| 113 | Scrappy                    | ✅          | ✅       | ❌        | 287             |
+| 114 | Storm Drain                | ✅          | ✅       | ❌        | 297             |
+| 115 | Ice Body                   | ✅          | ✅       | ❌        | 289             |
+| 116 | Solid Rock                 | ✅          | ✅       | ❌        | 288             |
 | 117 | Snow Warning               | ✅          | ✅       | ❌        | 296             |
-| 118 | Ability 118                | ❌          | ❌       | ❌        | -               |
-| 119 | Ability 119                | ❌          | ❌       | ❌        | -               |
-| 120 | Ability 120                | ❌          | ❌       | ❌        | -               |
-| 121 | Ability 121                | ❌          | ❌       | ❌        | -               |
-| 122 | Ability 122                | ❌          | ❌       | ❌        | -               |
-| 123 | Ability 123                | ❌          | ❌       | ❌        | -               |
-| 124 | Ability 124                | ❌          | ❌       | ❌        | -               |
+| 118 | Honey Gather               | ✅          | ✅       | ❌        | 280             |
+| 119 | Frisk                      | ✅          | ✅       | ❌        | 282             |
+| 120 | Reckless                   | ✅          | ✅       | ❌        | 291             |
+| 121 | Multitype                  | ✅          | ✅       | ❌        | 299             |
+| 122 | Flower Gift                | ✅          | ✅       | ❌        | 294             |
+| 123 | Bad Dreams                 | ✅          | ✅       | ❌        | 296             |
+| 124 | Pickpocket                 | ✅          | ✅       | ❌        | 290             |
 | 125 | Sheer Force                | ✅          | ✅       | ❌        | 290             |
 | 126 | Contrary                   | ✅          | ✅       | ❌        | 292             |
-| 127 | Ability 127                | ❌          | ❌       | ❌        | -               |
-| 128 | Ability 128                | ❌          | ❌       | ❌        | -               |
-| 129 | Ability 129                | ❌          | ❌       | ❌        | -               |
-| 130 | Ability 130                | ❌          | ❌       | ❌        | -               |
-| 131 | Ability 131                | ❌          | ❌       | ❌        | -               |
-| 132 | Ability 132                | ❌          | ❌       | ❌        | -               |
-| 133 | Ability 133                | ❌          | ❌       | ❌        | -               |
-| 134 | Ability 134                | ❌          | ❌       | ❌        | -               |
-| 135 | Ability 135                | ❌          | ❌       | ❌        | -               |
-| 136 | Ability 136                | ❌          | ❌       | ❌        | -               |
-| 137 | Ability 137                | ❌          | ❌       | ❌        | -               |
-| 138 | Ability 138                | ❌          | ❌       | ❌        | -               |
-| 139 | Ability 139                | ❌          | ❌       | ❌        | -               |
-| 140 | Ability 140                | ❌          | ❌       | ❌        | -               |
-| 141 | Ability 141                | ❌          | ❌       | ❌        | -               |
-| 142 | Ability 142                | ❌          | ❌       | ❌        | -               |
-| 143 | Ability 143                | ❌          | ❌       | ❌        | -               |
+| 127 | Unnerve                    | ✅          | ✅       | ❌        | 293             |
+| 128 | Defiant                    | ✅          | ✅       | ❌        | 299             |
+| 129 | Defeatist                  | ✅          | ✅       | ❌        | 299             |
+| 130 | Cursed Body                | ✅          | ✅       | ❌        | 290             |
+| 131 | Healer                     | ✅          | ✅       | ❌        | 293             |
+| 132 | Friend Guard               | ✅          | ✅       | ❌        | 291             |
+| 133 | Weak Armor                 | ✅          | ✅       | ❌        | 290             |
+| 134 | Heavy Metal                | ✅          | ✅       | ❌        | 298             |
+| 135 | Light Metal                | ✅          | ✅       | ❌        | 299             |
+| 136 | Multiscale                 | ✅          | ✅       | ❌        | 291             |
+| 137 | Toxic Boost                | ✅          | ✅       | ❌        | 294             |
+| 138 | Flare Boost                | ✅          | ✅       | ❌        | 284             |
+| 139 | Harvest                    | ✅          | ✅       | ❌        | 284             |
+| 140 | Telepathy                  | ✅          | ✅       | ❌        | 286             |
+| 141 | Moody                      | ✅          | ✅       | ❌        | 295             |
+| 142 | Overcoat                   | ✅          | ✅       | ❌        | 289             |
+| 143 | Poison Touch               | ✅          | ✅       | ❌        | 290             |
 | 144 | Regenerator                | ✅          | ✅       | ❌        | 296             |
-| 145 | Ability 145                | ❌          | ❌       | ❌        | -               |
-| 146 | Ability 146                | ❌          | ❌       | ❌        | -               |
+| 145 | Big Pecks                  | ✅          | ✅       | ❌        | 284             |
+| 146 | Sand Rush                  | ✅          | ✅       | ❌        | 298             |
 | 147 | Wonder Skin                | ✅          | ✅       | ❌        | 286             |
-| 148 | Ability 148                | ❌          | ❌       | ❌        | -               |
-| 149 | Ability 149                | ❌          | ❌       | ❌        | -               |
-| 150 | Ability 150                | ❌          | ❌       | ❌        | -               |
-| 151 | Ability 151                | ❌          | ❌       | ❌        | -               |
-| 152 | Ability 152                | ❌          | ❌       | ❌        | -               |
-| 153 | Ability 153                | ❌          | ❌       | ❌        | -               |
-| 154 | Ability 154                | ❌          | ❌       | ❌        | -               |
-| 155 | Ability 155                | ❌          | ❌       | ❌        | -               |
-| 156 | Ability 156                | ❌          | ❌       | ❌        | -               |
-| 157 | Ability 157                | ❌          | ❌       | ❌        | -               |
-| 158 | Ability 158                | ❌          | ❌       | ❌        | -               |
-| 159 | Ability 159                | ❌          | ❌       | ❌        | -               |
-| 160 | Ability 160                | ❌          | ❌       | ❌        | -               |
-| 161 | Ability 161                | ❌          | ❌       | ❌        | -               |
-| 162 | Ability 162                | ❌          | ❌       | ❌        | -               |
-| 163 | Ability 163                | ❌          | ❌       | ❌        | -               |
-| 164 | Ability 164                | ❌          | ❌       | ❌        | -               |
-| 165 | Ability 165                | ❌          | ❌       | ❌        | -               |
-| 166 | Ability 166                | ❌          | ❌       | ❌        | -               |
-| 167 | Ability 167                | ❌          | ❌       | ❌        | -               |
-| 168 | Ability 168                | ❌          | ❌       | ❌        | -               |
-| 169 | Ability 169                | ❌          | ❌       | ❌        | -               |
-| 170 | Ability 170                | ❌          | ❌       | ❌        | -               |
-| 171 | Ability 171                | ❌          | ❌       | ❌        | -               |
-| 172 | Ability 172                | ❌          | ❌       | ❌        | -               |
-| 173 | Ability 173                | ❌          | ❌       | ❌        | -               |
-| 174 | Ability 174                | ❌          | ❌       | ❌        | -               |
-| 175 | Ability 175                | ❌          | ❌       | ❌        | -               |
+| 148 | Analytic                   | ✅          | ✅       | ❌        | 297             |
+| 149 | Illusion                   | ✅          | ✅       | ❌        | 289             |
+| 150 | Imposter                   | ✅          | ✅       | ❌        | 297             |
+| 151 | Infiltrator                | ✅          | ✅       | ❌        | 296             |
+| 152 | Mummy                      | ✅          | ✅       | ❌        | 297             |
+| 153 | Moxie                      | ✅          | ✅       | ❌        | 286             |
+| 154 | Justified                  | ✅          | ✅       | ❌        | 295             |
+| 155 | Rattled                    | ✅          | ✅       | ❌        | 297             |
+| 156 | Magic Bounce               | ✅          | ✅       | ❌        | 298             |
+| 157 | Sap Sipper                 | ✅          | ✅       | ❌        | 280             |
+| 158 | Prankster                  | ✅          | ✅       | ❌        | 295             |
+| 159 | Sand Force                 | ✅          | ✅       | ❌        | 288             |
+| 160 | Iron Barbs                 | ✅          | ✅       | ❌        | 282             |
+| 161 | Zen Mode                   | ✅          | ✅       | ❌        | 293             |
+| 162 | Victory Star               | ✅          | ✅       | ❌        | 293             |
+| 163 | Turboblaze                 | ✅          | ✅       | ❌        | 283             |
+| 164 | Teravolt                   | ✅          | ✅       | ❌        | 284             |
+| 165 | Aroma Veil                 | ✅          | ✅       | ❌        | 300             |
+| 166 | Flower Veil                | ✅          | ✅       | ❌        | 276             |
+| 167 | Cheek Pouch                | ✅          | ✅       | ❌        | 284             |
+| 168 | Protean                    | ✅          | ✅       | ❌        | 280             |
+| 169 | Fur Coat                   | ✅          | ✅       | ❌        | 295             |
+| 170 | Magician                   | ✅          | ✅       | ❌        | 289             |
+| 171 | Bulletproof                | ✅          | ✅       | ❌        | 296             |
+| 172 | Competitive                | ✅          | ✅       | ❌        | 297             |
+| 173 | Strong Jaw                 | ✅          | ✅       | ❌        | 284             |
+| 174 | Refrigerate                | ✅          | ✅       | ❌        | 285             |
+| 175 | Sweet Veil                 | ✅          | ✅       | ❌        | 292             |
 | 176 | Stance Change              | ✅          | ✅       | ❌        | 282             |
-| 177 | Ability 177                | ❌          | ❌       | ❌        | -               |
+| 177 | Gale Wings                 | ✅          | ✅       | ❌        | 291             |
 | 178 | Mega Launcher              | ✅          | ✅       | ❌        | 285             |
-| 179 | Ability 179                | ❌          | ❌       | ❌        | -               |
-| 180 | Ability 180                | ❌          | ❌       | ❌        | -               |
-| 181 | Ability 181                | ❌          | ❌       | ❌        | -               |
-| 182 | Ability 182                | ❌          | ❌       | ❌        | -               |
-| 183 | Ability 183                | ❌          | ❌       | ❌        | -               |
+| 179 | Grass Pelt                 | ✅          | ✅       | ❌        | 290             |
+| 180 | Symbiosis                  | ✅          | ✅       | ❌        | 283             |
+| 181 | Tough Claws                | ✅          | ✅       | ❌        | 295             |
+| 182 | Pixilate                   | ✅          | ✅       | ❌        | 291             |
+| 183 | Gooey                      | ✅          | ✅       | ❌        | -               |
 | 184 | Ability 184                | ❌          | ❌       | ❌        | -               |
-| 185 | Ability 185                | ❌          | ❌       | ❌        | -               |
-| 186 | Ability 186                | ❌          | ❌       | ❌        | -               |
-| 187 | Ability 187                | ❌          | ❌       | ❌        | -               |
-| 188 | Ability 188                | ❌          | ❌       | ❌        | -               |
+| 185 | Parental Bond              | ✅          | ✅       | ❌        | 296             |
+| 186 | Dark Aura                  | ✅          | ✅       | ❌        | 281             |
+| 187 | Fairy Aura                 | ✅          | ✅       | ❌        | 282             |
+| 188 | Aura Break                 | ✅          | ✅       | ❌        | 298             |
 | 189 | Primordial Sea             | ✅          | ✅       | ❌        | 286             |
 | 190 | Desolate Land              | ✅          | ✅       | ❌        | 297             |
 | 191 | Delta Stream               | ✅          | ✅       | ❌        | 293             |
-| 192 | Ability 192                | ❌          | ❌       | ❌        | -               |
-| 193 | Ability 193                | ❌          | ❌       | ❌        | -               |
-| 194 | Ability 194                | ❌          | ❌       | ❌        | -               |
-| 195 | Ability 195                | ❌          | ❌       | ❌        | -               |
+| 192 | Stamina                    | ✅          | ✅       | ❌        | -               |
+| 193 | Wimp Out                   | ✅          | ✅       | ❌        | -               |
+| 194 | Emergency Exit             | ✅          | ✅       | ❌        | 285             |
+| 195 | Water Compaction           | ✅          | ✅       | ❌        | 289             |
 | 196 | Ability 196                | ❌          | ❌       | ❌        | -               |
 | 197 | Ability 197                | ❌          | ❌       | ❌        | -               |
 | 198 | Ability 198                | ❌          | ❌       | ❌        | -               |

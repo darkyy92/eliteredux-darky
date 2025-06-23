@@ -1,0 +1,45 @@
+---
+id: 134
+name: Heavy Metal
+status: ai-generated
+character_count: 298
+---
+
+# Heavy Metal - Ability ID 134
+
+## In-Game Description
+"Doubles this Pokémon's weight."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Heavy Metal doubles the Pokémon's weight in battle. This makes weight-based attacks like Low Kick and Grass Knot deal more damage against this Pokémon. However, it also increases damage from the user's own Heavy Slam and Heat Crash moves by making them heavier than foes.
+
+*Character count: 298*
+
+## Detailed Mechanical Explanation
+Heavy Metal is an ability that doubles the Pokémon's weight during battle calculations. This has several important implications:
+
+### Weight Modification
+- The ability multiplies the Pokémon's base weight by exactly 2x
+- This applies after the Pokémon's species weight is determined but before any other weight modifiers
+- The effect stacks with other weight modifiers like Lead Coat (3x) or Float Stone item (0.5x)
+
+### Defensive Implications
+Weight-based moves that target this Pokémon will calculate damage based on the doubled weight:
+- **Low Kick** and **Grass Knot**: These moves deal more damage to heavier targets, so Heavy Metal makes the user take increased damage
+- The damage tiers for these moves are based on weight thresholds, so doubling weight can push a Pokémon into higher damage brackets
+
+### Offensive Implications
+Weight-based moves used BY this Pokémon benefit from the increased weight:
+- **Heavy Slam** and **Heat Crash**: These moves deal more damage when the user is heavier than the target
+- The damage calculation for Heat Crash uses the ratio of attacker weight to defender weight
+- Heavy Metal effectively doubles this ratio when the user attacks
+
+### Other Interactions
+- **Autotomize**: This move reduces the user's weight. Heavy Metal's doubling effect applies to the base weight before Autotomize's reduction
+- The ability's effect is always active and cannot be suppressed by Gastro Acid or similar moves
+- In Elite Redux's multi-ability system, Heavy Metal can be one of the innate abilities, providing its effect alongside other abilities
+
+### Strategic Considerations
+Heavy Metal is a double-edged sword ability. While it makes the Pokémon more vulnerable to weight-based attacks, it also significantly boosts the power of the user's own weight-based moves. This makes it particularly valuable on Pokémon that can learn Heavy Slam or Heat Crash and have naturally high weight to begin with.

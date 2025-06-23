@@ -18,7 +18,30 @@ def extract_frontmatter(content):
     match = re.search(r'^---\n(.*?)\n---', content, re.DOTALL | re.MULTILINE)
     if match:
         try:
-            return yaml.safe_load(match.group(1))
+            data = yaml.safe_load(match.group(1))
+            if data:
+                # Normalize keys to handle variations
+                normalized = {}
+                
+                # Handle id/ability_id
+                if 'ability_id' in data:
+                    normalized['id'] = data['ability_id']
+                elif 'id' in data:
+                    normalized['id'] = data['id']
+                
+                # Handle name/ability_name
+                if 'ability_name' in data:
+                    normalized['name'] = data['ability_name']
+                elif 'name' in data:
+                    normalized['name'] = data['name']
+                
+                # Copy other fields as-is
+                for key in ['status', 'character_count']:
+                    if key in data:
+                        normalized[key] = data[key]
+                
+                return normalized
+            return data
         except yaml.YAMLError as e:
             print(f"Error parsing YAML: {e}")
             return None

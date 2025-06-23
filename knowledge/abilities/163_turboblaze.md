@@ -1,0 +1,64 @@
+---
+id: 163
+name: Turboblaze
+status: ai-generated
+character_count: 283
+---
+
+# Turboblaze (ID: 163)
+
+## Overview
+Turboblaze is a powerful offensive ability that combines the mold breaker effect with type addition mechanics. It allows the user's moves to bypass defensive abilities while simultaneously adding the Fire type to the Pokemon upon entry.
+
+## Mechanics
+
+### Primary Effects
+1. **Mold Breaker Effect**: All moves used by the Pokemon ignore the target's defensive abilities that would normally block, reduce, or nullify the move's effects. This includes abilities like Levitate, Flash Fire, Water Absorb, and similar defensive abilities.
+
+2. **Fire Type Addition**: Upon entering battle, the Pokemon gains Fire as an additional type (stored in type3 slot), making it effectively gain Fire-type STAB and Fire-type resistances/weaknesses.
+
+### Technical Implementation
+- **Entry Message**: "{Pokemon} is radiating a blazing aura!"
+- **Mold Breaker Flag**: Sets HITMARKER_MOLD_BREAKER when attacking, processed by ShouldSetMoldBreaker() function
+- **Type Addition**: Uses AddBattlerType(battler, TYPE_FIRE) on entry
+- **Battle System**: Checked alongside ABILITY_MOLD_BREAKER and ABILITY_TERAVOLT in ability-ignoring mechanics
+
+## Extended Description
+Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
+
+*Character count: 283*
+
+## Strategic Applications
+
+### Offensive Benefits
+- Bypasses common defensive abilities (Levitate, Flash Fire, Storm Drain, etc.)
+- Ignores Wonder Guard on Shedinja-type Pokemon
+- Fire-type STAB bonus on Fire moves after gaining the typing
+- Crucial for dealing with ability-reliant defensive strategies
+
+### Defensive Considerations  
+- Fire typing addition brings new weaknesses (Water, Ground, Rock)
+- May lose original type advantages depending on base typing
+- Fire resistances to Fire, Grass, Ice, Bug, Steel, and Fairy moves
+
+## Pokemon Distribution
+Turboblaze appears on 15+ Pokemon species, primarily:
+- **Fire-type specialists**: Rapidash variants, Darumaka line
+- **Legendary/Mythical**: Various legendary Pokemon as ability or innate
+- **Dragon hybrids**: Fire/Dragon combinations for offensive coverage
+- **Mixed typings**: Ice/Fire, Psychic/Fire, Fighting/Dragon combinations
+
+Notable users include Rapidash (as selectable ability), legendary Fire-types, and various Fire/Dragon legendary Pokemon.
+
+## Competitive Viability
+**Tier Assessment**: High utility in competitive play
+- Essential for breaking through ability-based defensive cores
+- Fire typing addition provides valuable STAB and resistances
+- Particularly valuable against teams relying on immunity abilities
+- Strong synergy with Fire-type movesets and sun team strategies
+
+## Related Abilities
+- **Teravolt**: Sister ability that adds Electric type instead of Fire
+- **Mold Breaker**: Pure ability-ignoring effect without type addition
+- **Mycelium Might**: Ignores abilities only for status moves
+- **Deadly Precision**: Has mold breaker effect with super-effective moves

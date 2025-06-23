@@ -1,0 +1,99 @@
+---
+ability_id: 183
+ability_name: "Gooey"
+ability_type: "Contact Punishment"
+mechanics_category: "Speed Control"
+trigger_conditions: ["Contact Move Hit"]
+effects: ["Speed -1 Stage"]
+bypass_mechanics: ["Safeguard"]
+thematic_connection: "Sticky substances trap attackers"
+competitive_usage: "Physical attacker deterrent"
+implementation_notes: "Checks Mirror Armor immunity"
+---
+
+# Gooey (Ability ID: 183)
+
+## Short Description
+Lowers Speed of enemies that make contact with this Pokémon.
+
+## Extended Description
+When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This unique ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace, embodying their slimy nature.
+
+## Mechanical Analysis
+
+### Activation Conditions
+- Triggered when the Pokémon with Gooey is hit by a contact move
+- Only activates if the attacking Pokémon's Speed can be lowered (not at -6)
+- Checks for immunity effects like Mirror Armor before applying
+
+### Effects
+- Reduces the attacker's Speed stat by 1 stage (-1)
+- Bypasses Safeguard protection when applying the Speed reduction
+- Does not affect the damage calculation of the triggering move
+
+### Implementation Details
+```cpp
+// From abilities.cc
+constexpr Ability Gooey = {
+    .onDefender = +[](ON_DEFENDER) -> int {
+        CHECK(ShouldApplyOnHitAffect(attacker))
+        CHECK(StatLowerableOrMirrorArmor(attacker, STAT_SPEED))
+        CHECK(IsMoveMakingContact(move, attacker))
+
+        BattleScriptCall(BattleScript_GooeyActivates);
+        gHitMarker |= HITMARKER_IGNORE_SAFEGUARD;
+        return TRUE;
+    },
+};
+```
+
+### Battle Script Mechanics
+- Uses `BattleScript_GooeyActivates` to handle the Speed reduction
+- Swaps attacker/target context for proper stat lowering application
+- Sets `MOVE_EFFECT_SPD_MINUS_1` as the secondary effect
+
+## Strategic Applications
+
+### Defensive Utility
+- **Physical Wall Support**: Punishes contact-based physical attackers by reducing their Speed
+- **Speed Control**: Gradually slows down threatening physical sweepers
+- **Momentum Shift**: Can turn aggressive physical attacks into disadvantageous trades
+
+### Competitive Considerations
+- **Contact Move Deterrent**: Makes opponents think twice about using physical contact moves
+- **Setup Disruption**: Interferes with physical setup sweepers' Speed control
+- **Team Support**: Provides passive Speed control for slower teammates
+
+### Counters and Limitations
+- **Non-Contact Moves**: Physical moves like Earthquake, Rock Slide, etc. don't trigger Gooey
+- **Special Attackers**: Completely bypassed by special moves
+- **Stat Immunity**: Mirror Armor, Clear Body, and similar abilities prevent the Speed drop
+- **Substitute**: Attacking through Substitute doesn't trigger contact abilities
+
+## Thematic Design
+
+### Pokémon Association
+Gooey is commonly found on:
+- **Goodra Line**: The classic gooey dragon Pokémon
+- **Sticky/Slimy Types**: Various Pokémon with viscous or adhesive properties
+- **Defensive Builds**: Often paired with other defensive abilities as innates
+
+### Flavor Connection
+The ability perfectly captures the concept of sticky substances that trap and slow down anything that touches them, translating the real-world physics of viscous materials into a battle mechanic.
+
+## Synergies and Combinations
+
+### Ability Combinations
+- **With Regenerator**: Creates a defensive wall that heals and slows attackers
+- **With Sticky Hold**: Thematic pairing for maximum stickiness
+- **With Liquid Ooze**: Punishes both contact and draining moves
+
+### Move Synergies
+- **Infestation/Wrap**: Combines with trapping moves for enhanced control
+- **Thunder Wave**: Stacks with paralysis for maximum Speed control
+- **Toxic Spikes**: Sets up while slowing physical threats
+
+### Team Role
+- **Defensive Pivot**: Switches into physical attackers and slows them down
+- **Speed Control Support**: Provides passive Speed manipulation for team setup
+- **Physical Check**: Helps check fast physical sweepers through Speed reduction
