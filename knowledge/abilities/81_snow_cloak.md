@@ -1,4 +1,4 @@
-# SNOW CLOAK - Ability ID 81
+# Snow Cloak - Ability ID 81
 
 ## In-Game Description
 "Evasion is boosted by 1.25x under hail."

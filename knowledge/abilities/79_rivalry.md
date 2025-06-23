@@ -1,4 +1,4 @@
-# RIVALRY - Ability ID 79
+# Rivalry - Ability ID 79
 
 ## In-Game Description
 "Deals 1.25x to same gender. Takes .75x from opposite gender."

@@ -39,16 +39,21 @@
         
         <div class="editor-warning">
           <strong>⚠️ Character Limit:</strong> Extended descriptions must be 280-300 characters (GBA hardware limit)
-          <div v-if="extendedDescCharCount > 0" class="char-status">
-            Current: <strong :class="getCharCountClass()">{{ extendedDescCharCount }}</strong> characters
-            <span v-if="extendedDescCharCount < 280" class="char-advice">
-              - Add {{ 280 - extendedDescCharCount }} more characters
+          <div v-if="!loading && editedContent" class="char-status">
+            <span v-if="extendedDescCharCount > 0">
+              Current: <strong :class="getCharCountClass()">{{ extendedDescCharCount }}</strong> characters
+              <span v-if="extendedDescCharCount < 280" class="char-advice">
+                - Add {{ 280 - extendedDescCharCount }} more characters
+              </span>
+              <span v-else-if="extendedDescCharCount > 300" class="char-advice">
+                - Remove {{ extendedDescCharCount - 300 }} characters
+              </span>
+              <span v-else class="char-advice">
+                ✅ Perfect length!
+              </span>
             </span>
-            <span v-else-if="extendedDescCharCount > 300" class="char-advice">
-              - Remove {{ extendedDescCharCount - 300 }} characters
-            </span>
-            <span v-else class="char-advice">
-              ✅ Perfect length!
+            <span v-else class="char-warning">
+              ⚠️ Extended description not found or empty
             </span>
           </div>
         </div>
@@ -96,8 +101,11 @@
           <div class="editor-stats">
             <div class="char-count">
               <span class="stat-label">Extended Description: </span>
-              <span :class="['char-count-value', getCharCountClass()]">
+              <span v-if="!loading && editedContent" :class="['char-count-value', getCharCountClass()]">
                 {{ extendedDescCharCount }} / 300 chars
+              </span>
+              <span v-else class="char-count-value">
+                Loading...
               </span>
             </div>
             <div class="total-changes">
@@ -172,7 +180,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
+import { ref, computed, onMounted, onUnmounted, watch, nextTick } from 'vue'
 import { useData } from 'vitepress'
 import * as Diff from 'diff'
 
@@ -200,6 +208,69 @@ const abilityInfo = ref({
   title: ''
 })
 
+// Helper function to strip frontmatter from content
+function stripFrontmatter(content) {
+  // Check if content starts with frontmatter
+  if (content.startsWith('---\n')) {
+    // Find the closing --- for frontmatter
+    const match = content.match(/^---\n(.*?)\n---\n(.*)$/s)
+    if (match) {
+      // Return only the content after frontmatter
+      return match[2]
+    }
+  }
+  return content
+}
+
+// Improved function to extract extended description
+function extractExtendedDescription(content) {
+  if (!content) return ''
+  
+  // Strip frontmatter first
+  const contentWithoutFm = stripFrontmatter(content)
+  
+  // Find the start of Extended In-Game Description section
+  const startMatch = contentWithoutFm.match(/## Extended In-Game Description.*?\n/)
+  if (!startMatch) return ''
+  
+  const startIndex = startMatch.index + startMatch[0].length
+  let remainingContent = contentWithoutFm.substring(startIndex)
+  
+  // Skip the instruction line if present (with or without asterisks)
+  const instructionMatch = remainingContent.match(/^(?:\*[^\n]*\*|For use in[^\n]*)\n\n/)
+  if (instructionMatch) {
+    remainingContent = remainingContent.substring(instructionMatch[0].length)
+  } else if (remainingContent.startsWith('\n')) {
+    // No instruction line, just skip the blank line
+    remainingContent = remainingContent.substring(1)
+  }
+  
+  // Find where the description ends
+  // Look for: Character count line, next section header, or end of content
+  const endPatterns = [
+    /\n\*?Character count:/,
+    /\n## /,
+    /\n### /,
+    /\n---/
+  ]
+  
+  let endIndex = remainingContent.length
+  for (const pattern of endPatterns) {
+    const match = remainingContent.match(pattern)
+    if (match && match.index < endIndex) {
+      endIndex = match.index
+    }
+  }
+  
+  // Extract the description
+  let description = remainingContent.substring(0, endIndex).trim()
+  
+  // Remove any trailing newlines but preserve internal spacing
+  description = description.replace(/\n+$/, '')
+  
+  return description
+}
+
 // Computed properties
 const hasChanges = computed(() => {
   return originalContent.value !== editedContent.value
@@ -207,19 +278,36 @@ const hasChanges = computed(() => {
 
 const changeCount = computed(() => {
   if (!hasChanges.value) return 0
-  const diff = Diff.diffLines(originalContent.value, editedContent.value)
+  // Strip frontmatter before comparing
+  const originalWithoutFm = stripFrontmatter(originalContent.value)
+  const editedWithoutFm = stripFrontmatter(editedContent.value)
+  const diff = Diff.diffLines(originalWithoutFm, editedWithoutFm)
   return diff.filter(part => part.added || part.removed).length
 })
 
 const extendedDescCharCount = computed(() => {
-  // Extract the extended description section from the edited content
-  // Format: ## Extended In-Game Description\n*instruction line*\n\nActual description\n\n*Character count: X*
-  const extendedMatch = editedContent.value.match(/## Extended In-Game Description\s*\n\*.*?\*\s*\n\n(.*?)(?:\n\n|\*Character count:|$)/s)
-  if (extendedMatch && extendedMatch[1]) {
-    const desc = extendedMatch[1].trim()
-    return desc.length
+  // Don't compute if no content or still loading
+  if (!editedContent.value || loading.value) {
+    return 0
   }
-  return 0
+  
+  try {
+    const description = extractExtendedDescription(editedContent.value)
+    const count = description.length
+    
+    // Only log if we're in development mode
+    if (import.meta.env.DEV) {
+      console.log(`Character count for ${abilityInfo.value.name}: ${count} chars`)
+      if (count > 1000) {
+        console.warn('Suspiciously high character count. Description:', description.substring(0, 100) + '...')
+      }
+    }
+    
+    return count
+  } catch (error) {
+    console.error('Error computing character count:', error)
+    return 0
+  }
 })
 
 const isValidContent = computed(() => {
@@ -229,8 +317,9 @@ const isValidContent = computed(() => {
 
 const previewHtml = computed(() => {
   // Simple markdown to HTML conversion for preview
-  // This is a basic implementation - in production you might want a proper markdown parser
-  return editedContent.value
+  // Strip frontmatter first
+  const contentWithoutFm = stripFrontmatter(editedContent.value)
+  return contentWithoutFm
     .replace(/^# (.*$)/gm, '<h1>$1</h1>')
     .replace(/^## (.*$)/gm, '<h2>$1</h2>')
     .replace(/^### (.*$)/gm, '<h3>$1</h3>')
@@ -242,7 +331,10 @@ const previewHtml = computed(() => {
 const diffSummary = computed(() => {
   if (!hasChanges.value) return []
   
-  const diff = Diff.diffLines(originalContent.value, editedContent.value)
+  // Strip frontmatter before comparing
+  const originalWithoutFm = stripFrontmatter(originalContent.value)
+  const editedWithoutFm = stripFrontmatter(editedContent.value)
+  const diff = Diff.diffLines(originalWithoutFm, editedWithoutFm)
   const summary = []
   
   let additions = 0
@@ -275,7 +367,10 @@ const diffSummary = computed(() => {
 const diffHtml = computed(() => {
   if (!hasChanges.value) return ''
   
-  const diff = Diff.diffLines(originalContent.value, editedContent.value)
+  // Strip frontmatter before comparing
+  const originalWithoutFm = stripFrontmatter(originalContent.value)
+  const editedWithoutFm = stripFrontmatter(editedContent.value)
+  const diff = Diff.diffLines(originalWithoutFm, editedWithoutFm)
   let html = '<div class="diff-lines">'
   
   diff.forEach(part => {
@@ -301,12 +396,12 @@ function getCharCountClass() {
 }
 
 function getOriginalExtendedDescCharCount() {
-  const extendedMatch = originalContent.value.match(/## Extended In-Game Description\s*\n\*.*?\*\s*\n\n(.*?)(?:\n\n|\*Character count:|$)/s)
-  if (extendedMatch && extendedMatch[1]) {
-    const desc = extendedMatch[1].trim()
-    return desc.length
+  try {
+    const description = extractExtendedDescription(originalContent.value)
+    return description.length
+  } catch (error) {
+    return 0
   }
-  return 0
 }
 
 function escapeHtml(text) {
@@ -505,12 +600,18 @@ function handleKeydown(event) {
   }
 }
 
-// Initialize ability info on mount
-onMounted(() => {
-  // Add keyboard event listeners
-  document.addEventListener('keydown', handleKeydown)
+// Function to update ability info from current page
+function updateAbilityInfo() {
   const pageTitle = page.value.title || ''
   const pageUrl = page.value.relativePath || ''
+  
+  // Reset ability info
+  abilityInfo.value = {
+    id: '',
+    name: '',
+    filename: '',
+    title: ''
+  }
   
   // Try to extract from title first (e.g., "Speed Boost - Ability ID 3")
   const titleMatch = pageTitle.match(/^(.+?)\s*-\s*Ability ID\s*(\d+)$/i)
@@ -532,6 +633,34 @@ onMounted(() => {
       abilityInfo.value.name = nameParts.join(' ').replace(/\b\w/g, char => char.toUpperCase())
     }
   }
+}
+
+// Watch for page changes with proper cleanup
+watch(() => page.value.relativePath, async (newPath, oldPath) => {
+  if (isAbilityPage.value && newPath !== oldPath) {
+    // Reset ALL state when navigating
+    isExpanded.value = false
+    activeTab.value = 'edit'
+    error.value = ''
+    originalContent.value = ''
+    editedContent.value = ''
+    loading.value = false
+    
+    // Update ability info for new page
+    await nextTick()
+    updateAbilityInfo()
+    
+    if (import.meta.env.DEV) {
+      console.log(`Navigated from ${oldPath} to ${newPath}`)
+    }
+  }
+})
+
+// Initialize ability info on mount
+onMounted(() => {
+  // Add keyboard event listeners
+  document.addEventListener('keydown', handleKeydown)
+  updateAbilityInfo()
 })
 
 // Cleanup event listeners
@@ -659,6 +788,11 @@ onUnmounted(() => {
 .char-advice {
   margin-left: 0.5rem;
   opacity: 0.9;
+}
+
+.char-warning {
+  color: #ed8936;
+  font-weight: 600;
 }
 
 /* Loading State */

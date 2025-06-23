@@ -1,4 +1,4 @@
-# ANGER POINT - Ability ID 83
+# Anger Point - Ability ID 83
 
 ## In-Game Description
 "Getting hit raises Atk by +1. Critical hits maximize Attack."

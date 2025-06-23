@@ -1,4 +1,4 @@
-# UNBURDEN - Ability ID 84
+# Unburden - Ability ID 84
 
 ## In-Game Description
 "Consuming its held item doubles Speed until switched out."

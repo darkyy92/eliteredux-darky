@@ -1,11 +1,12 @@
 import { defineConfig } from 'vitepress'
-import { readdirSync } from 'fs'
+import { readdirSync, readFileSync } from 'fs'
 import { join, basename } from 'path'
 import { fileURLToPath } from 'url'
+import matter from 'gray-matter'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
-// Function to get all ability files - reads from both locations
+// Function to get all ability files with frontmatter data
 function getAbilityFiles() {
   // Try docs/abilities first (copied files)
   let abilitiesDir = join(__dirname, '../abilities')
@@ -37,12 +38,26 @@ function getAbilityFiles() {
     const nameWithoutExt = file.replace('.md', '')
     const [id, ...nameParts] = nameWithoutExt.split('_')
     
+    // Read file to check frontmatter
+    let isReviewed = false
+    try {
+      const filePath = join(abilitiesDir, file)
+      const content = readFileSync(filePath, 'utf-8')
+      const { data } = matter(content)
+      isReviewed = data.status === 'reviewed'
+    } catch (e) {
+      // If can't read frontmatter, assume not reviewed
+    }
+    
     // Title case each word in the ability name
     const formattedName = nameParts
       .join(' ')
       .replace(/\b\w/g, char => char.toUpperCase())
     
-    const displayText = `${id} ${formattedName}`
+    // Add checkmark if reviewed
+    const displayText = isReviewed 
+      ? `✅ ${id} ${formattedName}`
+      : `${id} ${formattedName}`
     
     return {
       text: displayText,

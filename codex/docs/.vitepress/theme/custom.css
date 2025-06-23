@@ -114,3 +114,22 @@ td {
   border-radius: 8px;
   padding: 16px;
 }
+
+/* Review status indicators in sidebar */
+.VPSidebarItem .text {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+/* Style the checkmark */
+.VPSidebarItem .text:has(✅) {
+  color: var(--vp-c-text-1);
+}
+
+/* Make checkmark green */
+.VPSidebarItem .text::before {
+  content: attr(data-review-status);
+  color: #4CAF50;
+  font-size: 0.9em;
+}

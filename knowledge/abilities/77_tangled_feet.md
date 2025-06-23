@@ -1,4 +1,4 @@
-# TANGLED FEET - Ability ID 77
+# Tangled Feet - Ability ID 77
 
 ## In-Game Description
 "Doubles Evasion when confused."

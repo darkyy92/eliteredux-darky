@@ -1,4 +1,4 @@
-# STEADFAST - Ability ID 80
+# Steadfast - Ability ID 80
 
 ## In-Game Description
 "Raises Speed by one stage if this Pokémon flinches."

@@ -1,4 +1,4 @@
-# AIR LOCK - Ability ID 76
+# Air Lock - Ability ID 76
 
 ## In-Game Description
 "Clears weather and prevents its effects."

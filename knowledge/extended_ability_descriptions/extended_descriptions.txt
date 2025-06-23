@@ -462,6 +462,83 @@ ability {
 }
 
 
+# ID: 92
+ability {
+  id: ABILITY_SKILL_LINK
+  extended_description: "Skill Link guarantees that multi-hit moves always strike the maximum five times, turning unreliable attacks into consistent powerhouses. Each hit calculates damage independently with its own critical hit chance and can trigger contact effects. This transforms weak multi-hit moves into formidable options that effectively have 125+ base power while maintaining utility for breaking substitutes and sashes."
+}
+
+
+# ID: 93
+ability {
+  id: ABILITY_HYDRATION
+  extended_description: "Hydration cures the Pokémon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity."
+}
+
+
+# ID: 94
+ability {
+  id: ABILITY_SOLAR_POWER
+  extended_description: "Solar Power amplifies the user's offensive capabilities in sunny weather by boosting their highest attacking stat by 50%. The ability automatically detects whether Attack or Special Attack is higher and applies the boost to that stat. Works with regular sun, Drought, and Desolate Land conditions. Only affects the Pokémon's attacking power, not their defensive stats or other attributes in battle."
+}
+
+
+# ID: 95
+ability {
+  id: ABILITY_QUICK_FEET
+  extended_description: "Quick Feet boosts Speed by 50% when afflicted with any status condition including burn, poison, paralysis, sleep, freeze, or bleed. Uniquely ignores paralysis speed reduction, turning it into a net speed gain. Popular with Flame/Toxic Orb strategies for reliable activation and Facade synergy."
+}
+
+
+# ID: 96
+ability {
+  id: ABILITY_NORMALIZE
+  extended_description: "Normalize transforms all offensive moves into Normal-type, granting them a 10% power boost. Normal-type moves affected by this ability bypass type resistances, dealing neutral damage to Rock and Steel types that would normally resist them. The ability works on all damaging moves regardless of their original type, making diverse movepools effectively monotype."
+}
+
+
+# ID: 97
+ability {
+  id: ABILITY_SNIPER
+  extended_description: "Sniper amplifies critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. This makes critical hits devastating, turning them into near one-hit KOs on neutral targets. Perfect for crit-focused strategies using high crit-ratio moves or Focus Energy setups. The massive damage spike rewards skillful play and proper setup."
+}
+
+
+# ID: 98
+ability {
+  id: ABILITY_MAGIC_GUARD
+  extended_description: "Magic Guard protects the Pokémon from all forms of indirect damage including entry hazards, weather damage, status conditions, recoil, Life Orb damage, and Curse. The Pokémon can only be damaged by direct attacks from opponents. This makes it ideal for defensive strategies and allows safe use of powerful recoil moves and Life Orb without drawbacks. Perfect for hazard-heavy battles."
+}
+
+
+# ID: 99
+ability {
+  id: ABILITY_NO_GUARD
+  extended_description: "No Guard ensures every attack hits by completely bypassing accuracy checks for both the user and opponents. This high-risk ability makes powerful but inaccurate moves like Dynamic Punch and Focus Blast completely reliable while leaving you vulnerable to status moves and OHKO attacks. Perfect for aggressive strategies that prioritize offense over defense."
+}
+
+
+# ID: 100
+ability {
+  id: ABILITY_STALL
+  extended_description: "Stall provides a 30% damage reduction when the Pokémon hasn't acted yet this turn. This defensive boost triggers when opponents move before the user, rewarding slow Pokémon that naturally move last. Works on all damage types including physical, special, and fixed damage moves. The ability synergizes with negative priority moves and Trick Room strategies."
+}
+
+
+# ID: 101
+ability {
+  id: ABILITY_TECHNICIAN
+  extended_description: "Technician boosts the power of weaker moves by 50%, turning moves with 60 base power or less into viable options. This includes multi-hit moves calculated per hit, priority moves like Bullet Punch and Mach Punch, and utility moves with damage like Rapid Spin. Perfect for sweepers who rely on priority or multi-hit strategies."
+}
+
+
+# ID: 102
+ability {
+  id: ABILITY_LEAF_GUARD
+  extended_description: "Leaf Guard cures the Pokémon's status conditions at the end of each turn during sunny weather. Works with regular sun, harsh sunlight from Drought, and extremely harsh sunlight from Desolate Land. Status healing occurs after damage from burn/poison. Pairs well with sun teams."
+}
+
+
 # ID: 742
 ability {
   id: ABILITY_MAGICAL_FISTS

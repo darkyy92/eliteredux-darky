@@ -1,4 +1,4 @@
-# MONSTER MASH - Ability ID 516
+# Monster Mash - Ability ID 516
 
 ## In-Game Description
 "Casts Trick-or-Treat on entry."

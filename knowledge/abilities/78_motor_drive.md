@@ -1,4 +1,4 @@
-# MOTOR DRIVE - Ability ID 78
+# Motor Drive - Ability ID 78
 
 ## In-Game Description
 "Boosts Speed instead of being hit by Electric-type moves."

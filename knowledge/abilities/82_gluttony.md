@@ -1,4 +1,4 @@
-# GLUTTONY - Ability ID 82
+# Gluttony - Ability ID 82
 
 ## In-Game Description
 "Eats berries early. Berries also restore 1/3 of max HP."
