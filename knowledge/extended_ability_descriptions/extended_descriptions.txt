@@ -36,3 +36,108 @@ Sand Force boosts the Pokémon's highest attacking stat (Attack or Special Attac
 
 # ID: 160
 Iron Barbs deals 1/8 maximum HP damage to attackers using contact moves. Damage is based on the attacker's max HP, not current HP. Magic Guard blocks this retaliation damage. Always deals at least 1 HP damage even if 1/8 calculation rounds to 0. Functions identically to Rough Skin.
+
+# ID: 184
+Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokémon also gains STAB on all Flying-type moves, even those not converted by this ability.
+
+# ID: 196
+Merciless guarantees critical hits against targets with status conditions or speed penalties. Affected targets include poisoned, paralyzed, bleeding foes, Pokemon with lowered Speed stats, or those holding Iron Ball. Absolutely devastating when facing debuffed opponents in battle.
+
+# ID: 197
+Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert back to Meteor Form once transformed during battle.
+
+# ID: 198
+Stakeout doubles damage dealt to Pokemon that just switched in this turn. The ability triggers when the target has isFirstTurn set to 2, indicating a fresh switch-in. Works on all offensive moves and provides significant wallbreaker potential against switching opponents in battle.
+
+# ID: 199
+Water Bubble creates a protective bubble that doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burn status, removing existing burns upon gaining the ability. Elite Redux's multi-ability system.
+
+# ID: 200
+Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves. This unique combination of offensive type conversion and defensive resistances provides exceptional versatility in battle.
+
+# ID: 201
+Berserk activates when the Pokémon drops to half HP or below, boosting its highest attacking stat by one stage. Compares Attack and Special Attack including stat stages to determine which gets boosted. Triggers only once per battle per Pokémon. Works on contact and non-contact moves.
+
+# ID: 202
+Slush Rush boosts the Pokémon's Speed by 50% during hail weather. Works with all forms of hail including regular hail and primordial hail effects. The speed boost applies immediately when hail is active and disappears when hail ends. Also grants immunity to hail damage.
+
+# ID: 203
+Long Reach prevents the Pokémon from making contact with targets when using moves. Additionally, physical non-contact moves receive a 1.2x damage boost. This prevents contact-based abilities like Static or Flame Body from triggering while boosting ranged physical attacks.
+
+# ID: 204
+Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Affects moves like Hyper Voice, Boomburst, Sing, and Growl. Type change occurs before damage calculation for proper STAB and effectiveness. Provides excellent Water coverage while maintaining sound utility.
+
+# ID: 205
+Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing effects.
+
+# ID: 206
+Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokémon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
+
+# ID: 207
+Surge Surfer boosts the Pokémon's Speed by 50% when Electric Terrain is active. Works with any source of Electric Terrain including moves like Electric Terrain, abilities like Electric Surge, and terrain-setting effects. The boost applies immediately and disappears when terrain ends.
+
+# ID: 208
+When at level 20 or above, transforms into School Form with improved stats and abilities. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot transform if already transformed by other effects.
+
+# ID: 209
+Disguise blocks the first damaging move that hits the Pokémon, breaking the disguise and changing its form. Only non-status moves are blocked, and certain moves bypass this protection. In fog weather, the disguise is restored, returning to the original form.
+
+# ID: 210
+Battle Bond triggers form transformation when this Pokémon deals the finishing blow to an opponent. Greninja becomes Ash-Greninja with boosted Attack and Special Attack (+50/+50). Chesnaught becomes Clemont form with enhanced physical bulk. Delphox transforms into enhanced Serena form.
+
+# ID: 211
+Power Construct transforms Zygarde 50% or 10% forms into Complete form when HP drops to 50% or below at the end of any turn. Complete form has massive 216 HP (doubled from 108), making it an extremely bulky tank. The transformation is permanent for the battle and cannot be suppressed.
+
+# ID: 212
+Poison-type moves become super effective against Steel-type Pokemon (2x damage instead of 0.5x). Additionally, this Pokemon can inflict poison status on any type, including Steel and Poison types that are normally immune. Useful for breaking through traditional poison immunities.
+
+# ID: 213
+Comatose keeps the Pokémon in a permanent sleep-like state while remaining fully functional in battle. The Pokémon can use all moves normally despite appearing asleep and gains complete immunity to all status conditions including poison, burn, paralysis, freeze, and sleep itself.
+
+# ID: 214
+Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0. Moves like Quick Attack (+2), Fake Out (+3), Sucker Punch (+1), and Bullet Punch (+1) fail completely. The ability can be bypassed by Mold Breaker effects.
+
+# ID: 215
+Innards Out activates when the Pokémon is knocked out by an opponent's direct attack. It inflicts the exact same amount of damage the fatal attack dealt back to the attacker. Works with physical and special moves but not indirect damage. Cannot affect attackers protected by Magic Guard.
+
+# ID: 216
+When any Pokémon on the field uses a dance move, this Pokémon immediately uses the same move. Dance moves include Swords Dance, Dragon Dance, Quiver Dance, Petal Dance, Feather Dance, Teeter Dance, Lunar Dance, Fiery Dance, Revelation Dance, and Aqua Step. Cannot copy if already moved this turn.
+
+# ID: 217
+Battery provides a 30% power boost to ally Pokémon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
+
+# ID: 218
+Fluffy fur reduces damage from physical contact moves by 50%, making the Pokémon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
+
+# ID: 219
+Dazzling blocks all priority moves from opponents targeting the user or allies. Works against moves with priority +1 or higher like Quick Attack, Extremespeed, and Sucker Punch. Also prevents priority status moves like Thunder Wave and Spore. Essential for protecting frail sweepers and setup Pokemon from revenge killing attempts.
+
+# ID: 220
+Soul-Heart raises Special Attack by one stage when any Pokémon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.
+
+# ID: 221
+When hit by a contact move, the attacker becomes tangled in the user's hair, reducing their Speed by one stage. This sticky hair trap punishes physical contact attackers by slowing them down, making it harder for fast physical sweepers to maintain momentum. Bypasses Safeguard protection.
+
+# ID: 222
+Receiver activates only in Double Battles when an ally faints. It copies the fainted ally's ability, replacing one of Receiver user's current abilities. Cannot copy Wonder Guard, Trace, or another Receiver ability. The copied ability functions normally and persists until switched out.
+
+# ID: 224
+Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing raw stats without current battle modifiers. Works across all battle formats and accumulates multiple boosts per battle. Essential for snowballing momentum.
+
+# ID: 225
+RKS System changes the Pokémon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
+
+# ID: 228
+Misty Surge automatically sets Misty Terrain when the Pokémon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokémon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
+
+# ID: 230
+Full Metal Body provides complete immunity to all stat reductions from enemy moves, abilities, and effects. Unlike Clear Body, it offers unbreakable protection against stat drops including forced reductions, making it ideal for defensive strategies and maintaining stat advantages throughout battle.
+
+# ID: 231
+Shadow Shield reduces all damage by 50% when the Pokémon is at full HP. This defensive barrier deactivates immediately when any damage is taken but can be restored by healing back to maximum HP. Essential for surviving powerful opening attacks and maintaining defensive momentum throughout battle.
+
+# ID: 232
+Prism Armor reduces damage from super effective moves by 35%, calculating as a 0.65x multiplier. This protective ability activates whenever type effectiveness would deal 2x or greater damage. Works against all super effective attacks including those boosted by items or abilities. Provides consistent defensive utility against coverage moves.
+
+# ID: 233
+Neuroforce grants an additional 1.35x boost to super effective moves. This stacks with type effectiveness multipliers, turning 2x damage into 2.7x and 4x damage into 5.4x. Provides significant power increase against weaknesses while maintaining full effectiveness against neutral targets.

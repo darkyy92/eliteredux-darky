@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 243
+Completed: 278
 In Progress: 0
 
 ## Progress Tracking
@@ -192,7 +192,7 @@ In Progress: 0
 | 181 | Tough Claws                | ✅          | ✅       | ❌        | 295             |
 | 182 | Pixilate                   | ✅          | ✅       | ❌        | 291             |
 | 183 | Gooey                      | ✅          | ✅       | ❌        | -               |
-| 184 | Ability 184                | ❌          | ❌       | ❌        | -               |
+| 184 | Aerilate                   | ✅          | ✅       | ❌        | 283             |
 | 185 | Parental Bond              | ✅          | ✅       | ❌        | 296             |
 | 186 | Dark Aura                  | ✅          | ✅       | ❌        | 281             |
 | 187 | Fairy Aura                 | ✅          | ✅       | ❌        | 282             |
@@ -204,44 +204,44 @@ In Progress: 0
 | 193 | Wimp Out                   | ✅          | ✅       | ❌        | -               |
 | 194 | Emergency Exit             | ✅          | ✅       | ❌        | 285             |
 | 195 | Water Compaction           | ✅          | ✅       | ❌        | 289             |
-| 196 | Ability 196                | ❌          | ❌       | ❌        | -               |
-| 197 | Ability 197                | ❌          | ❌       | ❌        | -               |
-| 198 | Ability 198                | ❌          | ❌       | ❌        | -               |
-| 199 | Ability 199                | ❌          | ❌       | ❌        | -               |
-| 200 | Ability 200                | ❌          | ❌       | ❌        | -               |
-| 201 | Ability 201                | ❌          | ❌       | ❌        | -               |
-| 202 | Ability 202                | ❌          | ❌       | ❌        | -               |
-| 203 | Ability 203                | ❌          | ❌       | ❌        | -               |
-| 204 | Ability 204                | ❌          | ❌       | ❌        | -               |
-| 205 | Ability 205                | ❌          | ❌       | ❌        | -               |
-| 206 | Ability 206                | ❌          | ❌       | ❌        | -               |
-| 207 | Ability 207                | ❌          | ❌       | ❌        | -               |
-| 208 | Ability 208                | ❌          | ❌       | ❌        | -               |
-| 209 | Ability 209                | ❌          | ❌       | ❌        | -               |
-| 210 | Ability 210                | ❌          | ❌       | ❌        | -               |
-| 211 | Ability 211                | ❌          | ❌       | ❌        | -               |
-| 212 | Ability 212                | ❌          | ❌       | ❌        | -               |
-| 213 | Ability 213                | ❌          | ❌       | ❌        | -               |
-| 214 | Ability 214                | ❌          | ❌       | ❌        | -               |
-| 215 | Ability 215                | ❌          | ❌       | ❌        | -               |
-| 216 | Ability 216                | ❌          | ❌       | ❌        | -               |
-| 217 | Ability 217                | ❌          | ❌       | ❌        | -               |
-| 218 | Ability 218                | ❌          | ❌       | ❌        | -               |
-| 219 | Ability 219                | ❌          | ❌       | ❌        | -               |
-| 220 | Ability 220                | ❌          | ❌       | ❌        | -               |
-| 221 | Ability 221                | ❌          | ❌       | ❌        | -               |
-| 222 | Ability 222                | ❌          | ❌       | ❌        | -               |
+| 196 | Merciless                  | ✅          | ✅       | ❌        | 281             |
+| 197 | Shields Down               | ✅          | ✅       | ❌        | 289             |
+| 198 | Stakeout                   | ✅          | ✅       | ❌        | 281             |
+| 199 | Water Bubble               | ✅          | ✅       | ❌        | 295             |
+| 200 | Steelworker                | ✅          | ✅       | ❌        | 292             |
+| 201 | Berserk                    | ✅          | ✅       | ❌        | 284             |
+| 202 | Slush Rush                 | ✅          | ✅       | ❌        | 297             |
+| 203 | Long Reach                 | ✅          | ✅       | ❌        | 292             |
+| 204 | Liquid Voice               | ✅          | ✅       | ❌        | 290             |
+| 205 | Triage                     | ✅          | ✅       | ❌        | 295             |
+| 206 | Galvanize                  | ✅          | ✅       | ❌        | 294             |
+| 207 | Surge Surfer               | ✅          | ✅       | ❌        | 284             |
+| 208 | Schooling                  | ✅          | ✅       | ❌        | 295             |
+| 209 | Disguise                   | ✅          | ✅       | ❌        | 283             |
+| 210 | Battle Bond                | ✅          | ✅       | ❌        | 295             |
+| 211 | Power Construct            | ✅          | ✅       | ❌        | 285             |
+| 212 | Corrosion                  | ✅          | ✅       | ❌        | 289             |
+| 213 | Comatose                   | ✅          | ✅       | ❌        | 298             |
+| 214 | Queenly Majesty            | ✅          | ✅       | ❌        | 294             |
+| 215 | Innards Out                | ✅          | ✅       | ❌        | 287             |
+| 216 | Dancer                     | ✅          | ✅       | ❌        | 295             |
+| 217 | Battery                    | ✅          | ✅       | ❌        | 281             |
+| 218 | Fluffy                     | ✅          | ✅       | ❌        | 295             |
+| 219 | Dazzling                   | ✅          | ✅       | ❌        | 299             |
+| 220 | Soul-Heart                 | ✅          | ✅       | ❌        | 288             |
+| 221 | Tangling Hair              | ✅          | ✅       | ❌        | 288             |
+| 222 | Receiver                   | ✅          | ✅       | ❌        | 299             |
 | 223 | Power Of Alchemy           | ✅          | ✅       | ❌        | 289             |
-| 224 | Ability 224                | ❌          | ❌       | ❌        | -               |
-| 225 | Ability 225                | ❌          | ❌       | ❌        | -               |
+| 224 | Beast Boost                | ✅          | ✅       | ❌        | 298             |
+| 225 | RKS System                 | ✅          | ✅       | ❌        | 289             |
 | 226 | Electric Surge             | ✅          | ✅       | ❌        | 300             |
 | 227 | Psychic Surge              | ✅          | ✅       | ❌        | 296             |
-| 228 | Ability 228                | ❌          | ❌       | ❌        | -               |
+| 228 | Misty Surge                | ✅          | ✅       | ❌        | 295             |
 | 229 | Grassy Surge               | ✅          | ✅       | ❌        | 297             |
-| 230 | Ability 230                | ❌          | ❌       | ❌        | -               |
-| 231 | Ability 231                | ❌          | ❌       | ❌        | -               |
-| 232 | Ability 232                | ❌          | ❌       | ❌        | -               |
-| 233 | Ability 233                | ❌          | ❌       | ❌        | -               |
+| 230 | Full Metal Body            | ✅          | ✅       | ❌        | 299             |
+| 231 | Shadow Shield              | ✅          | ✅       | ❌        | 292             |
+| 232 | Prism Armor                | ✅          | ✅       | ❌        | 295             |
+| 233 | Neuroforce                 | ✅          | ✅       | ❌        | 288             |
 | 234 | Ability 234                | ❌          | ❌       | ❌        | -               |
 | 235 | Ability 235                | ❌          | ❌       | ❌        | -               |
 | 236 | Ability 236                | ❌          | ❌       | ❌        | -               |
