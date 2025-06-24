@@ -1,6 +1,6 @@
 # Extended Ability Descriptions Progress
 
-Total Abilities: 869
+Total Abilities: 875
 Completed: 875
 In Progress: 0
 
