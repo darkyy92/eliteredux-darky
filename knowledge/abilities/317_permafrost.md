@@ -1,0 +1,109 @@
+---
+ability_id: 317
+ability_name: "Permafrost"
+ability_enum: "ABILITY_PERMAFROST"
+short_description: "Takes 35% less damage from Super-effective moves."
+character_count: 287
+breakable: true
+category: "Defensive"
+tags: ["damage_reduction", "super_effective", "ice_themed", "defensive_utility"]
+---
+
+# Permafrost (Ability #317)
+
+## Extended Description
+Character count: 287
+
+Permafrost creates a protective icy barrier that reduces damage from super-effective attacks by 35%. This defensive ability activates automatically when the Pokémon is hit by any move with 2.0x or greater type effectiveness. The damage reduction applies after type effectiveness calculation but before other damage modifiers. Cannot be bypassed by moves but can be suppressed by Mold Breaker-type abilities.
+
+## Technical Implementation
+
+### Core Mechanics
+- **Trigger Condition**: `typeEffectivenessModifier >= UQ_4_12(2.0)` (2.0x type effectiveness or higher)
+- **Damage Multiplier**: `MUL(.65)` (65% of original damage, 35% reduction)
+- **Callback Type**: `onDefensiveMultiplier`
+- **Breakable**: `TRUE` (can be suppressed by abilities like Mold Breaker, Teravolt, Turboblaze)
+
+### Code Implementation
+```c
+constexpr Ability Permafrost = {
+    .onDefensiveMultiplier =
+        +[](ON_DEFENSIVE_MULTIPLIER) {
+            if (typeEffectivenessModifier >= UQ_4_12(2.0)) MUL(.65);
+        },
+    .breakable = TRUE,
+};
+```
+
+### Damage Calculation Order
+1. Base damage calculation
+2. Type effectiveness applied (2.0x, 4.0x, etc.)
+3. **Permafrost reduction applied (0.65x multiplier)**
+4. Other defensive modifiers (items, abilities, etc.)
+5. Final damage dealt
+
+## Strategic Analysis
+
+### Strengths
+- **Consistent Protection**: Reduces all super-effective damage by 35%
+- **Type Coverage**: Works against any type matchup that deals super-effective damage
+- **Passive Activation**: No setup or conditions required beyond taking super-effective hits
+- **Stacking Potential**: Can combine with other defensive abilities and items
+
+### Weaknesses
+- **No Neutral/Resisted Protection**: Only affects super-effective moves
+- **Mold Breaker Vulnerability**: Can be completely bypassed by abilities that ignore other abilities
+- **Status Move Immunity**: Doesn't protect against status moves regardless of type effectiveness
+
+### Competitive Viability
+- **Tier**: Mid-tier defensive ability
+- **Best Users**: Pokémon with multiple type weaknesses or frail defensive stats
+- **Synergy**: Pairs well with type-resist berries, Assault Vest, or other defensive items
+
+## Related Abilities
+
+### Similar Abilities
+- **Primal Armor** (Ability #318): Reduces super-effective damage by 50% instead of 35%
+- **Filter/Solid Rock**: Also reduce super-effective damage by 25% in standard games
+- **Permafrost Clone** (Ability #582): Identical implementation using the same callback
+
+### Ability Comparisons
+| Ability | Damage Reduction | Breakable | Additional Effects |
+|---------|------------------|-----------|-------------------|
+| Permafrost | 35% | Yes | None |
+| Primal Armor | 50% | Yes | None |
+| Filter | 25% | Yes | None |
+| Wonder Guard | 100% | Yes | Only allows super-effective damage |
+
+## Pokémon Distribution
+
+### Primary Users (Notable Examples)
+- Ice-type Pokémon and their evolutionary lines
+- Legendary/Mythical Ice-types
+- Fossil Pokémon revived forms
+- Select defensive-oriented Pokémon
+
+### Common Combinations
+- **With Snow Warning**: Ice-types that set up hail/snow
+- **With Ice Body**: Gradual HP recovery in hail
+- **With Thick Fat**: Additional resistance to Fire/Ice moves
+- **With Sturdy**: Protection from OHKO moves combined with super-effective reduction
+
+## Battle Applications
+
+### Defensive Strategies
+1. **Tank Setup**: Use the damage reduction to survive super-effective hits while setting up
+2. **Pivot Play**: Stay in against super-effective moves to maintain momentum
+3. **Endurance**: Extend longevity in matches with common super-effective coverage
+
+### Counterplay
+1. **Mold Breaker Users**: Completely bypasses the ability
+2. **Neutral Damage**: Focus on moves that don't trigger the reduction
+3. **Status Moves**: Use status effects that ignore the damage reduction
+4. **Multi-hit Moves**: Each hit is reduced but total damage can still be significant
+
+## Notes
+- The ability uses the same threshold as Wonder Guard (UQ_4_12(2.0)) to determine super-effectiveness
+- Damage reduction is multiplicative, not additive, with other defensive modifiers
+- The ability is part of Elite Redux's expanded defensive ability pool for balancing offensive power creep
+- Thematically appropriate for Ice-types and cold-weather Pokémon

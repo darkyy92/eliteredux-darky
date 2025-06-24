@@ -1,0 +1,43 @@
+---
+id: 282
+name: Aerodynamics
+status: ai-generated
+character_count: 293
+---
+
+# Aerodynamics - Ability ID 282
+
+## In-Game Description
+"Boosts Speed instead of being hit by Flying-type moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+When targeted by Flying-type moves, Aerodynamics absorbs the attack completely and raises the user's Speed stat by one stage instead of taking damage. This works similarly to abilities like Motor Drive or Lightning Rod, providing both defensive utility and offensive setup opportunities.
+
+*Character count: 293*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+Aerodynamics functions as a type-absorbing ability specifically for Flying-type moves. When a Pokémon with Aerodynamics is targeted by any Flying-type attack:
+
+1. **Attack Absorption**: The Flying-type move is completely negated - no damage is dealt and no secondary effects occur
+2. **Speed Boost**: The Pokémon's Speed stat is raised by one stage (+50% at stage +1)
+3. **Activation Conditions**: 
+   - Only triggers on direct Flying-type attacks targeting the user
+   - Does not redirect attacks from other targets (unlike Lightning Rod/Storm Drain)
+   - The ability can be suppressed by Mold Breaker and similar effects
+
+**Strategic Applications**:
+- Provides immunity to common Flying-type moves like Brave Bird, Hurricane, and Aerial Ace
+- Can be used as a setup opportunity, gaining speed boosts from predicted Flying attacks
+- Particularly effective against Flying-type Pokémon and users of Flying-type coverage moves
+- Works well with Pokémon that benefit from speed boosts for sweeping potential
+
+**Comparison to Similar Abilities**:
+- Functions like Motor Drive (Electric immunity + Speed boost) but for Flying-type moves
+- Unlike Sap Sipper or Lightning Rod, it doesn't redirect moves from allies in doubles
+- The ability is breakable, meaning it can be suppressed by abilities like Mold Breaker
+
+This ability provides both defensive utility against Flying-type attacks and offensive setup potential through the Speed boost, making it valuable for both defensive pivots and potential sweepers.

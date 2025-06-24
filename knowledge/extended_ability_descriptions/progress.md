@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 318
+Completed: 609
 In Progress: 0
 
 ## Progress Tracking
@@ -279,112 +279,112 @@ In Progress: 0
 | 268 | Chloroplast                | ✅          | ✅       | ❌        | 295             |
 | 269 | Whiteout                   | ✅          | ✅       | ❌        | 284             |
 | 270 | Pyromancy                  | ✅          | ✅       | ❌        | 283             |
-| 271 | Ability 271                | ❌          | ❌       | ❌        | -               |
-| 272 | Ability 272                | ❌          | ❌       | ❌        | -               |
+| 271 | Keen Edge                  | ✅          | ✅       | ❌        | 298             |
+| 272 | Prism Scales               | ✅          | ✅       | ❌        | 284             |
 | 273 | Power Fists                | ✅          | ✅       | ❌        | 296             |
-| 274 | Ability 274                | ❌          | ❌       | ❌        | -               |
-| 275 | Ability 275                | ❌          | ❌       | ❌        | -               |
-| 276 | Ability 276                | ❌          | ❌       | ❌        | -               |
-| 277 | Ability 277                | ❌          | ❌       | ❌        | -               |
-| 278 | Ability 278                | ❌          | ❌       | ❌        | -               |
-| 279 | Ability 279                | ❌          | ❌       | ❌        | -               |
-| 280 | Ability 280                | ❌          | ❌       | ❌        | -               |
-| 281 | Ability 281                | ❌          | ❌       | ❌        | -               |
-| 282 | Ability 282                | ❌          | ❌       | ❌        | -               |
-| 283 | Ability 283                | ❌          | ❌       | ❌        | -               |
-| 284 | Ability 284                | ❌          | ❌       | ❌        | -               |
-| 285 | Ability 285                | ❌          | ❌       | ❌        | -               |
-| 286 | Ability 286                | ❌          | ❌       | ❌        | -               |
-| 287 | Ability 287                | ❌          | ❌       | ❌        | -               |
+| 274 | Sand Song                  | ✅          | ✅       | ❌        | 294             |
+| 275 | Rampage                    | ✅          | ✅       | ❌        | 285             |
+| 276 | Vengeance                  | ✅          | ✅       | ❌        | 284             |
+| 277 | Blitz Boxer                | ✅          | ✅       | ❌        | 298             |
+| 278 | Antarctic Bird             | ✅          | ✅       | ❌        | 293             |
+| 279 | Immolate                   | ✅          | ✅       | ❌        | 295             |
+| 280 | Crystallize                | ✅          | ✅       | ❌        | 285             |
+| 281 | Electrocytes               | ✅          | ✅       | ❌        | 294             |
+| 282 | Aerodynamics               | ✅          | ✅       | ❌        | 293             |
+| 283 | Christmas Spirit           | ✅          | ✅       | ❌        | 282             |
+| 284 | Exploit Weakness           | ✅          | ✅       | ❌        | 285             |
+| 285 | Ground Shock               | ✅          | ✅       | ❌        | 295             |
+| 286 | Ancient Idol               | ✅          | ✅       | ❌        | 294             |
+| 287 | Mystic Power               | ✅          | ✅       | ❌        | 284             |
 | 288 | Perfectionist              | ✅          | ✅       | ❌        | 282             |
 | 289 | Growing Tooth              | ✅          | ✅       | ❌        | 284             |
 | 290 | Inflatable                 | ✅          | ✅       | ❌        | 297             |
 | 291 | Aurora Borealis            | ✅          | ✅       | ❌        | 295             |
 | 292 | Avenger                    | ✅          | ✅       | ❌        | 295             |
 | 293 | Let's Roll                 | ✅          | ✅       | ❌        | 287             |
-| 294 | Ability 294                | ❌          | ❌       | ❌        | -               |
-| 295 | Ability 295                | ❌          | ❌       | ❌        | -               |
-| 296 | Ability 296                | ❌          | ❌       | ❌        | -               |
-| 297 | Ability 297                | ❌          | ❌       | ❌        | -               |
-| 298 | Ability 298                | ❌          | ❌       | ❌        | -               |
-| 299 | Ability 299                | ❌          | ❌       | ❌        | -               |
-| 300 | Ability 300                | ❌          | ❌       | ❌        | -               |
-| 301 | Ability 301                | ❌          | ❌       | ❌        | -               |
+| 294 | Aquatic                    | ✅          | ✅       | ❌        | 294             |
+| 295 | Loud Bang                  | ✅          | ✅       | ❌        | 287             |
+| 296 | Lead Coat                  | ✅          | ✅       | ❌        | 289             |
+| 297 | Amphibious                 | ✅          | ✅       | ❌        | 292             |
+| 298 | Grounded                   | ✅          | ✅       | ❌        | 288             |
+| 299 | Earthbound                 | ✅          | ✅       | ❌        | 296             |
+| 300 | Fighting Spirit            | ✅          | ✅       | ❌        | 289             |
+| 301 | Feline Prowess             | ✅          | ✅       | ❌        | 293             |
 | 302 | Coil Up                    | ✅          | ✅       | ❌        | 283             |
-| 303 | Ability 303                | ❌          | ❌       | ❌        | -               |
-| 304 | Ability 304                | ❌          | ❌       | ❌        | -               |
-| 305 | Ability 305                | ❌          | ❌       | ❌        | -               |
-| 306 | Ability 306                | ❌          | ❌       | ❌        | -               |
-| 307 | Ability 307                | ❌          | ❌       | ❌        | -               |
-| 308 | Ability 308                | ❌          | ❌       | ❌        | -               |
-| 309 | Ability 309                | ❌          | ❌       | ❌        | -               |
-| 310 | Ability 310                | ❌          | ❌       | ❌        | -               |
-| 311 | Ability 311                | ❌          | ❌       | ❌        | -               |
-| 312 | Ability 312                | ❌          | ❌       | ❌        | -               |
+| 303 | Fossilized                 | ✅          | ✅       | ❌        | 295             |
+| 304 | Magical Dust               | ✅          | ✅       | ❌        | 281             |
+| 305 | Dreamcatcher               | ✅          | ✅       | ❌        | 291             |
+| 306 | Nocturnal                  | ✅          | ✅       | ❌        | 299             |
+| 307 | Self Sufficient            | ✅          | ✅       | ❌        | 286             |
+| 308 | Tectonize                  | ✅          | ✅       | ❌        | 296             |
+| 309 | Ice Age                    | ✅          | ✅       | ❌        | 280             |
+| 310 | Half Drake                 | ✅          | ✅       | ❌        | 295             |
+| 311 | Liquified                  | ✅          | ✅       | ❌        | 287             |
+| 312 | Dragonfly                  | ✅          | ✅       | ❌        | 295             |
 | 313 | Dragonslayer               | ✅          | ✅       | ❌        | 293             |
-| 314 | Ability 314                | ❌          | ❌       | ❌        | -               |
-| 315 | Ability 315                | ❌          | ❌       | ❌        | -               |
-| 316 | Ability 316                | ❌          | ❌       | ❌        | -               |
-| 317 | Ability 317                | ❌          | ❌       | ❌        | -               |
-| 318 | Ability 318                | ❌          | ❌       | ❌        | -               |
-| 319 | Ability 319                | ❌          | ❌       | ❌        | -               |
-| 320 | Ability 320                | ❌          | ❌       | ❌        | -               |
-| 321 | Ability 321                | ❌          | ❌       | ❌        | -               |
-| 322 | Ability 322                | ❌          | ❌       | ❌        | -               |
-| 323 | Ability 323                | ❌          | ❌       | ❌        | -               |
-| 324 | Ability 324                | ❌          | ❌       | ❌        | -               |
-| 325 | Ability 325                | ❌          | ❌       | ❌        | -               |
-| 326 | Ability 326                | ❌          | ❌       | ❌        | -               |
-| 327 | Ability 327                | ❌          | ❌       | ❌        | -               |
-| 328 | Ability 328                | ❌          | ❌       | ❌        | -               |
-| 329 | Ability 329                | ❌          | ❌       | ❌        | -               |
-| 330 | Ability 330                | ❌          | ❌       | ❌        | -               |
-| 331 | Ability 331                | ❌          | ❌       | ❌        | -               |
-| 332 | Ability 332                | ❌          | ❌       | ❌        | -               |
-| 333 | Ability 333                | ❌          | ❌       | ❌        | -               |
+| 314 | Mountaineer                | ✅          | ✅       | ❌        | 289             |
+| 315 | Hydrate                    | ✅          | ✅       | ❌        | 296             |
+| 316 | Metallic                   | ✅          | ✅       | ❌        | 298             |
+| 317 | Permafrost                 | ✅          | ✅       | ❌        | 287             |
+| 318 | Primal Armor               | ✅          | ✅       | ❌        | 297             |
+| 319 | Raging Boxer               | ✅          | ✅       | ❌        | 280             |
+| 320 | Air Blower                 | ✅          | ✅       | ❌        | 290             |
+| 321 | Juggernaut                 | ✅          | ✅       | ❌        | -               |
+| 322 | Short Circuit              | ✅          | ✅       | ❌        | -               |
+| 323 | Majestic Bird              | ✅          | ✅       | ❌        | -               |
+| 324 | Phantom                    | ✅          | ✅       | ❌        | 287             |
+| 325 | Intoxicate                 | ✅          | ✅       | ❌        | -               |
+| 326 | Impenetrable               | ✅          | ✅       | ❌        | -               |
+| 327 | Hypnotist                  | ✅          | ✅       | ❌        | -               |
+| 328 | Overwhelm                  | ✅          | ✅       | ❌        | -               |
+| 329 | Scare                      | ✅          | ✅       | ❌        | -               |
+| 330 | Majestic Moth              | ✅          | ✅       | ❌        | -               |
+| 331 | Soul Eater                 | ✅          | ✅       | ❌        | -               |
+| 332 | Soul Linker                | ✅          | ✅       | ❌        | -               |
+| 333 | Sweet Dreams               | ✅          | ✅       | ❌        | 282             |
 | 334 | Bad Luck                   | ✅          | ✅       | ❌        | 287             |
-| 335 | Ability 335                | ❌          | ❌       | ❌        | -               |
-| 336 | Ability 336                | ❌          | ❌       | ❌        | -               |
-| 337 | Ability 337                | ❌          | ❌       | ❌        | -               |
-| 338 | Ability 338                | ❌          | ❌       | ❌        | -               |
-| 339 | Ability 339                | ❌          | ❌       | ❌        | -               |
-| 340 | Ability 340                | ❌          | ❌       | ❌        | -               |
-| 341 | Fort Knox                  | ✅          | ✅       | ❌        | 280             |
-| 342 | Ability 342                | ❌          | ❌       | ❌        | -               |
-| 343 | Ability 343                | ❌          | ❌       | ❌        | -               |
-| 344 | Ability 344                | ❌          | ❌       | ❌        | -               |
-| 345 | Ability 345                | ❌          | ❌       | ❌        | -               |
-| 346 | Ability 346                | ❌          | ❌       | ❌        | -               |
-| 347 | Ability 347                | ❌          | ❌       | ❌        | -               |
-| 348 | Ability 348                | ❌          | ❌       | ❌        | -               |
-| 349 | Ability 349                | ❌          | ❌       | ❌        | -               |
-| 350 | Ability 350                | ❌          | ❌       | ❌        | -               |
-| 351 | Ability 351                | ❌          | ❌       | ❌        | -               |
-| 352 | Ability 352                | ❌          | ❌       | ❌        | -               |
-| 353 | Ability 353                | ❌          | ❌       | ❌        | -               |
+| 335 | Haunted Spirit             | ✅          | ✅       | ❌        | -               |
+| 336 | Electric Burst             | ✅          | ✅       | ❌        | None            |
+| 337 | Raw Wood                   | ✅          | ✅       | ❌        | -               |
+| 338 | Solenoglyphs               | ✅          | ✅       | ❌        | -               |
+| 339 | Spider Lair                | ✅          | ✅       | ❌        | -               |
+| 340 | Fatal Precision            | ✅          | ✅       | ❌        | -               |
+| 341 | Fort Knox                  | ✅          | ✅       | ❌        | 299             |
+| 342 | Seaweed                    | ✅          | ✅       | ❌        | -               |
+| 343 | Psychic Mind               | ✅          | ✅       | ❌        | -               |
+| 344 | Poison Absorb              | ✅          | ✅       | ❌        | -               |
+| 345 | Scavenger                  | ✅          | ✅       | ❌        | -               |
+| 346 | Twisted Dimension          | ✅          | ✅       | ❌        | -               |
+| 347 | Multi Headed               | ✅          | ✅       | ❌        | -               |
+| 348 | North Wind                 | ✅          | ✅       | ❌        | None            |
+| 349 | Overcharge                 | ✅          | ✅       | ❌        | -               |
+| 350 | Violent Rush               | ✅          | ✅       | ❌        | -               |
+| 351 | Flaming Soul               | ✅          | ✅       | ❌        | -               |
+| 352 | Sage Power                 | ✅          | ✅       | ❌        | None            |
+| 353 | Bone Zone                  | ✅          | ✅       | ❌        | -               |
 | 354 | Weather Control            | ✅          | ✅       | ❌        | 290             |
-| 355 | Ability 355                | ❌          | ❌       | ❌        | -               |
-| 356 | Ability 356                | ❌          | ❌       | ❌        | -               |
-| 357 | Ability 357                | ❌          | ❌       | ❌        | -               |
-| 358 | Ability 358                | ❌          | ❌       | ❌        | -               |
-| 359 | Ability 359                | ❌          | ❌       | ❌        | -               |
-| 360 | Ability 360                | ❌          | ❌       | ❌        | -               |
-| 361 | Ability 361                | ❌          | ❌       | ❌        | -               |
-| 362 | Ability 362                | ❌          | ❌       | ❌        | -               |
-| 363 | Ability 363                | ❌          | ❌       | ❌        | -               |
-| 364 | Ability 364                | ❌          | ❌       | ❌        | -               |
-| 365 | Ability 365                | ❌          | ❌       | ❌        | -               |
-| 366 | Ability 366                | ❌          | ❌       | ❌        | -               |
-| 367 | Ability 367                | ❌          | ❌       | ❌        | -               |
-| 368 | Ability 368                | ❌          | ❌       | ❌        | -               |
-| 369 | Ability 369                | ❌          | ❌       | ❌        | -               |
-| 370 | Ability 370                | ❌          | ❌       | ❌        | -               |
-| 371 | Ability 371                | ❌          | ❌       | ❌        | -               |
-| 372 | Momentum                   | ✅          | ✅       | ❌        | 290             |
-| 373 | Grip Pincer                | ✅          | ✅       | ❌        | 297             |
-| 374 | Ability 374                | ❌          | ❌       | ❌        | -               |
-| 375 | Ability 375                | ❌          | ❌       | ❌        | -               |
-| 376 | Ability 376                | ❌          | ❌       | ❌        | -               |
+| 355 | Speed Force                | ✅          | ✅       | ❌        | -               |
+| 356 | Sea Guardian               | ✅          | ✅       | ❌        | -               |
+| 357 | Molten Down                | ✅          | ✅       | ❌        | None            |
+| 358 | Hyper Aggressive           | ✅          | ✅       | ❌        | -               |
+| 359 | Flock                      | ✅          | ✅       | ❌        | None            |
+| 360 | Field Explorer             | ✅          | ✅       | ❌        | -               |
+| 361 | Striker                    | ✅          | ✅       | ❌        | -               |
+| 362 | Frozen Soul                | ✅          | ✅       | ❌        | -               |
+| 363 | Predator                   | ✅          | ✅       | ❌        | -               |
+| 364 | Looter                     | ✅          | ✅       | ❌        | -               |
+| 365 | Lunar Eclipse              | ✅          | ✅       | ❌        | -               |
+| 366 | Solar Flare                | ✅          | ✅       | ❌        | 296             |
+| 367 | Power Core                 | ✅          | ✅       | ❌        | -               |
+| 368 | Sighting System            | ✅          | ✅       | ❌        | -               |
+| 369 | Bad Company                | ✅          | ✅       | ❌        | -               |
+| 370 | Opportunist                | ✅          | ✅       | ❌        | -               |
+| 371 | Giant Wings                | ✅          | ✅       | ❌        | -               |
+| 372 | Momentum                   | ✅          | ✅       | ❌        | -               |
+| 373 | Grip Pincer                | ✅          | ✅       | ❌        | -               |
+| 374 | Big Leaves                 | ✅          | ✅       | ❌        | -               |
+| 375 | Precise Fist               | ✅          | ✅       | ❌        | -               |
+| 376 | Deadeye                    | ✅          | ✅       | ❌        | -               |
 | 377 | Ability 377                | ❌          | ❌       | ❌        | -               |
 | 378 | Ability 378                | ❌          | ❌       | ❌        | -               |
 | 379 | Ability 379                | ❌          | ❌       | ❌        | -               |
@@ -408,166 +408,166 @@ In Progress: 0
 | 397 | Ability 397                | ❌          | ❌       | ❌        | -               |
 | 398 | Ability 398                | ❌          | ❌       | ❌        | -               |
 | 399 | Ability 399                | ❌          | ❌       | ❌        | -               |
-| 400 | Ability 400                | ❌          | ❌       | ❌        | -               |
-| 401 | Ability 401                | ❌          | ❌       | ❌        | -               |
-| 402 | Ability 402                | ❌          | ❌       | ❌        | -               |
-| 403 | Ability 403                | ❌          | ❌       | ❌        | -               |
-| 404 | Ability 404                | ❌          | ❌       | ❌        | -               |
-| 405 | Ability 405                | ❌          | ❌       | ❌        | -               |
-| 406 | Ability 406                | ❌          | ❌       | ❌        | -               |
+| 400 | Scrapyard                  | ✅          | ✅       | ❌        | 292             |
+| 401 | Loose Quills               | ✅          | ✅       | ❌        | 282             |
+| 402 | Toxic Debris               | ✅          | ✅       | ❌        | 298             |
+| 403 | Roundhouse                 | ✅          | ✅       | ❌        | 289             |
+| 404 | Mineralize                 | ✅          | ✅       | ❌        | 297             |
+| 405 | Loose Rocks                | ✅          | ✅       | ❌        | 294             |
+| 406 | Spinning Top               | ✅          | ✅       | ❌        | 296             |
 | 407 | Retribution Blow           | ✅          | ✅       | ❌        | 287             |
-| 408 | Ability 408                | ❌          | ❌       | ❌        | -               |
-| 409 | Ability 409                | ❌          | ❌       | ❌        | -               |
-| 410 | Ability 410                | ❌          | ❌       | ❌        | -               |
-| 411 | Ability 411                | ❌          | ❌       | ❌        | -               |
-| 412 | Ability 412                | ❌          | ❌       | ❌        | -               |
-| 413 | Ability 413                | ❌          | ❌       | ❌        | -               |
-| 414 | Ability 414                | ❌          | ❌       | ❌        | -               |
-| 415 | Ability 415                | ❌          | ❌       | ❌        | -               |
+| 408 | Fearmonger                 | ✅          | ✅       | ❌        | 296             |
+| 409 | King's Wrath               | ✅          | ✅       | ❌        | 287             |
+| 410 | Queen's Mourning           | ✅          | ✅       | ❌        | 284             |
+| 411 | Toxic Spill                | ✅          | ✅       | ❌        | 286             |
+| 412 | Desert Cloak               | ✅          | ✅       | ❌        | 295             |
+| 413 | Draconize                  | ✅          | ✅       | ❌        | 295             |
+| 414 | Pretty Princess            | ✅          | ✅       | ❌        | 297             |
+| 415 | Self Repair                | ✅          | ✅       | ❌        | 290             |
 | 416 | Atomic Burst               | ✅          | ✅       | ❌        | 283             |
-| 417 | Ability 417                | ❌          | ❌       | ❌        | -               |
-| 418 | Ability 418                | ❌          | ❌       | ❌        | -               |
-| 419 | Ability 419                | ❌          | ❌       | ❌        | -               |
-| 420 | Ability 420                | ❌          | ❌       | ❌        | -               |
-| 421 | Ability 421                | ❌          | ❌       | ❌        | -               |
-| 422 | Ability 422                | ❌          | ❌       | ❌        | -               |
-| 423 | Ability 423                | ❌          | ❌       | ❌        | -               |
-| 424 | Ability 424                | ❌          | ❌       | ❌        | -               |
-| 425 | Ability 425                | ❌          | ❌       | ❌        | -               |
-| 426 | Ability 426                | ❌          | ❌       | ❌        | -               |
+| 417 | Hellblaze                  | ✅          | ✅       | ❌        | 291             |
+| 418 | Riptide                    | ✅          | ✅       | ❌        | 295             |
+| 419 | Forest Rage                | ✅          | ✅       | ❌        | 295             |
+| 420 | Primal Maw                 | ✅          | ✅       | ❌        | 294             |
+| 421 | Sweeping Edge              | ✅          | ✅       | ❌        | 284             |
+| 422 | Gifted Mind                | ✅          | ✅       | ❌        | 286             |
+| 423 | Hydro Circuit              | ✅          | ✅       | ❌        | 297             |
+| 424 | Equinox                    | ✅          | ✅       | ❌        | 282             |
+| 425 | Absorbant                  | ✅          | ✅       | ❌        | 287             |
+| 426 | Clueless                   | ✅          | ✅       | ❌        | 296             |
 | 427 | Cheating Death             | ✅          | ✅       | ❌        | 286             |
-| 428 | Cheap Tactics              | ✅          | ✅       | ❌        | 285             |
-| 429 | Ability 429                | ❌          | ❌       | ❌        | -               |
-| 430 | Ability 430                | ❌          | ❌       | ❌        | -               |
-| 431 | Ability 431                | ❌          | ❌       | ❌        | -               |
-| 432 | Ability 432                | ❌          | ❌       | ❌        | -               |
-| 433 | Ability 433                | ❌          | ❌       | ❌        | -               |
-| 434 | Ability 434                | ❌          | ❌       | ❌        | -               |
-| 435 | Ability 435                | ❌          | ❌       | ❌        | -               |
-| 436 | Ability 436                | ❌          | ❌       | ❌        | -               |
-| 437 | Ability 437                | ❌          | ❌       | ❌        | -               |
-| 438 | Ability 438                | ❌          | ❌       | ❌        | -               |
-| 439 | Ability 439                | ❌          | ❌       | ❌        | -               |
-| 440 | Ability 440                | ❌          | ❌       | ❌        | -               |
-| 441 | Ability 441                | ❌          | ❌       | ❌        | -               |
-| 442 | Ability 442                | ❌          | ❌       | ❌        | -               |
-| 443 | Ability 443                | ❌          | ❌       | ❌        | -               |
-| 444 | Ability 444                | ❌          | ❌       | ❌        | -               |
-| 445 | Ability 445                | ❌          | ❌       | ❌        | -               |
-| 446 | Ability 446                | ❌          | ❌       | ❌        | -               |
-| 447 | Ability 447                | ❌          | ❌       | ❌        | -               |
-| 448 | Ability 448                | ❌          | ❌       | ❌        | -               |
-| 449 | Ability 449                | ❌          | ❌       | ❌        | -               |
-| 450 | Ability 450                | ❌          | ❌       | ❌        | -               |
-| 451 | Ability 451                | ❌          | ❌       | ❌        | -               |
-| 452 | Ability 452                | ❌          | ❌       | ❌        | -               |
-| 453 | Ability 453                | ❌          | ❌       | ❌        | -               |
-| 454 | Ability 454                | ❌          | ❌       | ❌        | -               |
+| 428 | Cheap Tactics              | ✅          | ✅       | ❌        | 297             |
+| 429 | Coward                     | ✅          | ✅       | ❌        | 280             |
+| 430 | Volt Rush                  | ✅          | ✅       | ❌        | 289             |
+| 431 | Dune Terror                | ✅          | ✅       | ❌        | 295             |
+| 432 | Infernal Rage              | ✅          | ✅       | ❌        | 286             |
+| 433 | Dual Wield                 | ✅          | ✅       | ❌        | 294             |
+| 434 | Elemental Charge           | ✅          | ✅       | ❌        | 293             |
+| 435 | Ambush                     | ✅          | ✅       | ❌        | 298             |
+| 436 | Atlas                      | ✅          | ✅       | ❌        | 295             |
+| 437 | Radiance                   | ✅          | ✅       | ❌        | 297             |
+| 438 | Jaws of Carnage            | ✅          | ✅       | ❌        | 287             |
+| 439 | Angel's Wrath              | ✅          | ✅       | ❌        | 295             |
+| 440 | Prismatic Fur              | ✅          | ✅       | ❌        | 292             |
+| 441 | Shocking Jaws              | ✅          | ✅       | ❌        | 286             |
+| 442 | Fae Hunter                 | ✅          | ✅       | ❌        | 298             |
+| 443 | Gravity Well               | ✅          | ✅       | ❌        | 286             |
+| 444 | Evaporate                  | ✅          | ✅       | ❌        | 297             |
+| 445 | Lumberjack                 | ✅          | ✅       | ❌        | 291             |
+| 446 | Well Baked Body            | ✅          | ✅       | ❌        | 292             |
+| 447 | Furnace                    | ✅          | ✅       | ❌        | 298             |
+| 448 | Electromorphosis           | ✅          | ✅       | ❌        | 284             |
+| 449 | Rocky Payload              | ✅          | ✅       | ❌        | 294             |
+| 450 | Earth Eater                | ✅          | ✅       | ❌        | 289             |
+| 451 | Lingering Aroma            | ✅          | ✅       | ❌        | 292             |
+| 452 | Fairy Tale                 | ✅          | ✅       | ❌        | 283             |
+| 453 | Raging Moth                | ✅          | ✅       | ❌        | 296             |
+| 454 | Adrenaline Rush            | ✅          | ✅       | ❌        | 295             |
 | 455 | Archmage                   | ✅          | ✅       | ❌        | 291             |
-| 456 | Ability 456                | ❌          | ❌       | ❌        | -               |
-| 457 | Ability 457                | ❌          | ❌       | ❌        | -               |
-| 458 | Ability 458                | ❌          | ❌       | ❌        | -               |
-| 459 | Ability 459                | ❌          | ❌       | ❌        | -               |
-| 460 | Ability 460                | ❌          | ❌       | ❌        | -               |
-| 461 | Ability 461                | ❌          | ❌       | ❌        | -               |
-| 462 | Ability 462                | ❌          | ❌       | ❌        | -               |
-| 463 | Ability 463                | ❌          | ❌       | ❌        | -               |
+| 456 | Cryomancy                  | ✅          | ✅       | ❌        | 290             |
+| 457 | Phantom Pain               | ✅          | ✅       | ❌        | 294             |
+| 458 | Purgatory                  | ✅          | ✅       | ❌        | 292             |
+| 459 | Emanate                    | ✅          | ✅       | ❌        | 293             |
+| 460 | Kunoichi's Blade           | ✅          | ✅       | ❌        | 288             |
+| 461 | Monkey Business            | ✅          | ✅       | ❌        | 287             |
+| 462 | Combat Specialist          | ✅          | ✅       | ❌        | 290             |
+| 463 | Jungle's Guard             | ✅          | ✅       | ❌        | 290             |
 | 464 | Hunters Horn               | ✅          | ✅       | ❌        | 285             |
-| 465 | Ability 465                | ❌          | ❌       | ❌        | -               |
-| 466 | Ability 466                | ❌          | ❌       | ❌        | -               |
-| 467 | Ability 467                | ❌          | ❌       | ❌        | -               |
-| 468 | Ability 468                | ❌          | ❌       | ❌        | -               |
-| 469 | Ability 469                | ❌          | ❌       | ❌        | -               |
-| 470 | Ability 470                | ❌          | ❌       | ❌        | -               |
-| 471 | Ability 471                | ❌          | ❌       | ❌        | -               |
-| 472 | Ability 472                | ❌          | ❌       | ❌        | -               |
-| 473 | Ability 473                | ❌          | ❌       | ❌        | -               |
-| 474 | Ability 474                | ❌          | ❌       | ❌        | -               |
-| 475 | Ability 475                | ❌          | ❌       | ❌        | -               |
-| 476 | Ability 476                | ❌          | ❌       | ❌        | -               |
-| 477 | Ability 477                | ❌          | ❌       | ❌        | -               |
-| 478 | Ability 478                | ❌          | ❌       | ❌        | -               |
-| 479 | Ability 479                | ❌          | ❌       | ❌        | -               |
-| 480 | Ability 480                | ❌          | ❌       | ❌        | -               |
-| 481 | Ability 481                | ❌          | ❌       | ❌        | -               |
-| 482 | Ability 482                | ❌          | ❌       | ❌        | -               |
-| 483 | Ability 483                | ❌          | ❌       | ❌        | -               |
-| 484 | Ability 484                | ❌          | ❌       | ❌        | -               |
-| 485 | Ability 485                | ❌          | ❌       | ❌        | -               |
-| 486 | Ability 486                | ❌          | ❌       | ❌        | -               |
-| 487 | Ability 487                | ❌          | ❌       | ❌        | -               |
-| 488 | Ability 488                | ❌          | ❌       | ❌        | -               |
-| 489 | Ability 489                | ❌          | ❌       | ❌        | -               |
-| 490 | Ability 490                | ❌          | ❌       | ❌        | -               |
-| 491 | Ability 491                | ❌          | ❌       | ❌        | -               |
-| 492 | Ability 492                | ❌          | ❌       | ❌        | -               |
-| 493 | Ability 493                | ❌          | ❌       | ❌        | -               |
-| 494 | Ability 494                | ❌          | ❌       | ❌        | -               |
-| 495 | Ability 495                | ❌          | ❌       | ❌        | -               |
-| 496 | Ability 496                | ❌          | ❌       | ❌        | -               |
-| 497 | Ability 497                | ❌          | ❌       | ❌        | -               |
-| 498 | Ability 498                | ❌          | ❌       | ❌        | -               |
-| 499 | Ability 499                | ❌          | ❌       | ❌        | -               |
-| 500 | Ability 500                | ❌          | ❌       | ❌        | -               |
-| 501 | Ability 501                | ❌          | ❌       | ❌        | -               |
-| 502 | Ability 502                | ❌          | ❌       | ❌        | -               |
-| 503 | Ability 503                | ❌          | ❌       | ❌        | -               |
-| 504 | Ability 504                | ❌          | ❌       | ❌        | -               |
+| 465 | Pixie Power                | ✅          | ✅       | ❌        | 280             |
+| 466 | Plasma Lamp                | ✅          | ✅       | ❌        | 293             |
+| 467 | Magma Eater                | ✅          | ✅       | ❌        | 291             |
+| 468 | Super Hot Goo              | ✅          | ✅       | ❌        | 295             |
+| 469 | Nika                       | ✅          | ✅       | ❌        | 295             |
+| 470 | Archer                     | ✅          | ✅       | ❌        | 286             |
+| 471 | Cold Plasma                | ✅          | ✅       | ❌        | 297             |
+| 472 | Super Slammer              | ✅          | ✅       | ❌        | 285             |
+| 473 | Inversion                  | ✅          | ✅       | ❌        | 289             |
+| 474 | Accelerate                 | ✅          | ✅       | ❌        | 299             |
+| 475 | Frost Burn                 | ✅          | ✅       | ❌        | 299             |
+| 476 | Itchy Defense              | ✅          | ✅       | ❌        | 298             |
+| 477 | Generator                  | ✅          | ✅       | ❌        | 292             |
+| 478 | Moon Spirit                | ✅          | ✅       | ❌        | 286             |
+| 479 | Dust Cloud                 | ✅          | ✅       | ❌        | 285             |
+| 480 | Berserker Rage             | ✅          | ✅       | ❌        | 287             |
+| 481 | Trickster                  | ✅          | ✅       | ❌        | 295             |
+| 482 | Sand Guard                 | ✅          | ✅       | ❌        | 291             |
+| 483 | Natural Recovery           | ✅          | ✅       | ❌        | 300             |
+| 484 | Wind Rider                 | ✅          | ✅       | ❌        | 293             |
+| 485 | Soothing Aroma             | ✅          | ✅       | ❌        | 290             |
+| 486 | Prim and Proper            | ✅          | ✅       | ❌        | 285             |
+| 487 | Super Strain               | ✅          | ✅       | ❌        | 287             |
+| 488 | Tipping Point              | ✅          | ✅       | ❌        | 289             |
+| 489 | Enlightened                | ✅          | ✅       | ❌        | 299             |
+| 490 | Peaceful Slumber           | ✅          | ✅       | ❌        | 299             |
+| 491 | Aftershock                 | ✅          | ✅       | ❌        | 285             |
+| 492 | Freezing Point             | ✅          | ✅       | ❌        | 296             |
+| 493 | Cryo Proficiency           | ✅          | ✅       | ❌        | 295             |
+| 494 | Arcane Force               | ✅          | ✅       | ❌        | 289             |
+| 495 | Doombringer                | ✅          | ✅       | ❌        | 299             |
+| 496 | Wishmaker                  | ✅          | ✅       | ❌        | 292             |
+| 497 | Yuki Onna                  | ✅          | ✅       | ❌        | 296             |
+| 498 | Suppress                   | ✅          | ✅       | ❌        | 286             |
+| 499 | Refrigerator               | ✅          | ✅       | ❌        | 281             |
+| 500 | Heaven Asunder             | ✅          | ✅       | ❌        | 295             |
+| 501 | Purifying Waters           | ✅          | ✅       | ❌        | 294             |
+| 502 | Seaborne                   | ✅          | ✅       | ❌        | 295             |
+| 503 | High Tide                  | ✅          | ✅       | ❌        | 295             |
+| 504 | Change of Heart            | ✅          | ✅       | ❌        | 287             |
 | 505 | Mystic Blades              | ✅          | ✅       | ❌        | 290             |
-| 506 | Ability 506                | ❌          | ❌       | ❌        | -               |
-| 507 | Ability 507                | ❌          | ❌       | ❌        | -               |
+| 506 | Determination              | ✅          | ✅       | ❌        | 295             |
+| 507 | Fertilize                  | ✅          | ✅       | ❌        | 295             |
 | 508 | Pure Love                  | ✅          | ✅       | ❌        | 298             |
-| 509 | Ability 509                | ❌          | ❌       | ❌        | -               |
-| 510 | Ability 510                | ❌          | ❌       | ❌        | -               |
-| 511 | Ability 511                | ❌          | ❌       | ❌        | -               |
-| 512 | Ability 512                | ❌          | ❌       | ❌        | -               |
-| 513 | Ability 513                | ❌          | ❌       | ❌        | -               |
-| 514 | Ability 514                | ❌          | ❌       | ❌        | -               |
+| 509 | Fighter                    | ✅          | ✅       | ❌        | 296             |
+| 510 | Mycelium Might             | ✅          | ✅       | ❌        | 290             |
+| 511 | Telekinetic                | ✅          | ✅       | ❌        | 294             |
+| 512 | Combustion                 | ✅          | ✅       | ❌        | 294             |
+| 513 | Pony Power                 | ✅          | ✅       | ❌        | 286             |
+| 514 | Powder Burst               | ✅          | ✅       | ❌        | 296             |
 | 515 | Retriever                  | ✅          | ✅       | ❌        | 282             |
 | 516 | Monster Mash               | ✅          | ✅       | ❌        | 292             |
-| 517 | Ability 517                | ❌          | ❌       | ❌        | -               |
-| 518 | Ability 518                | ❌          | ❌       | ❌        | -               |
-| 519 | Ability 519                | ❌          | ❌       | ❌        | -               |
-| 520 | Ability 520                | ❌          | ❌       | ❌        | -               |
-| 521 | Ability 521                | ❌          | ❌       | ❌        | -               |
+| 517 | Two Step                   | ✅          | ✅       | ❌        | 295             |
+| 518 | Spiteful                   | ✅          | ✅       | ❌        | 295             |
+| 519 | Fortitude                  | ✅          | ✅       | ❌        | 290             |
+| 520 | Devourer                   | ✅          | ✅       | ❌        | 293             |
+| 521 | Phantom Thief              | ✅          | ✅       | ❌        | 295             |
 | 522 | Early Grave                | ✅          | ✅       | ❌        | 284             |
-| 523 | Ability 523                | ❌          | ❌       | ❌        | -               |
-| 524 | Ability 524                | ❌          | ❌       | ❌        | -               |
-| 525 | Ability 525                | ❌          | ❌       | ❌        | -               |
-| 526 | Ability 526                | ❌          | ❌       | ❌        | -               |
-| 527 | Ability 527                | ❌          | ❌       | ❌        | -               |
-| 528 | Ability 528                | ❌          | ❌       | ❌        | -               |
-| 529 | Ability 529                | ❌          | ❌       | ❌        | -               |
-| 530 | Ability 530                | ❌          | ❌       | ❌        | -               |
-| 531 | Ability 531                | ❌          | ❌       | ❌        | -               |
-| 532 | Ability 532                | ❌          | ❌       | ❌        | -               |
-| 533 | Ability 533                | ❌          | ❌       | ❌        | -               |
+| 523 | Grappler                   | ✅          | ✅       | ❌        | 294             |
+| 524 | Bass Boosted               | ✅          | ✅       | ❌        | 299             |
+| 525 | Flaming Jaws               | ✅          | ✅       | ❌        | 284             |
+| 526 | Monster Hunter             | ✅          | ✅       | ❌        | 291             |
+| 527 | Crowned Sword              | ✅          | ✅       | ❌        | 293             |
+| 528 | Crowned Shield             | ✅          | ✅       | ❌        | 299             |
+| 529 | Berserk DNA                | ✅          | ✅       | ❌        | 299             |
+| 530 | Crowned King               | ✅          | ✅       | ❌        | 297             |
+| 531 | Clap Trap                  | ✅          | ✅       | ❌        | 288             |
+| 532 | Permanence                 | ✅          | ✅       | ❌        | 288             |
+| 533 | Hubris                     | ✅          | ✅       | ❌        | 285             |
 | 534 | Cosmic Daze                | ✅          | ✅       | ❌        | 298             |
-| 535 | Ability 535                | ❌          | ❌       | ❌        | -               |
-| 536 | Ability 536                | ❌          | ❌       | ❌        | -               |
-| 537 | Ability 537                | ❌          | ❌       | ❌        | -               |
-| 538 | Ability 538                | ❌          | ❌       | ❌        | -               |
-| 539 | Ability 539                | ❌          | ❌       | ❌        | -               |
-| 540 | Ability 540                | ❌          | ❌       | ❌        | -               |
-| 541 | Ability 541                | ❌          | ❌       | ❌        | -               |
-| 542 | Ability 542                | ❌          | ❌       | ❌        | -               |
-| 543 | Ability 543                | ❌          | ❌       | ❌        | -               |
-| 544 | Ability 544                | ❌          | ❌       | ❌        | -               |
-| 545 | Ability 545                | ❌          | ❌       | ❌        | -               |
+| 535 | Mind's Eye                 | ✅          | ✅       | ❌        | 295             |
+| 536 | Blood Price                | ✅          | ✅       | ❌        | 291             |
+| 537 | Spike Armor                | ✅          | ✅       | ❌        | 290             |
+| 538 | Voodoo Power               | ✅          | ✅       | ❌        | 294             |
+| 539 | Chrome Coat                | ✅          | ✅       | ❌        | 296             |
+| 540 | Banshee                    | ✅          | ✅       | ❌        | 293             |
+| 541 | Web Spinner                | ✅          | ✅       | ❌        | 296             |
+| 542 | Showdown Mode              | ✅          | ✅       | ❌        | 286             |
+| 543 | Seed Sower                 | ✅          | ✅       | ❌        | 295             |
+| 544 | Airborne                   | ✅          | ✅       | ❌        | 283             |
+| 545 | Parroting                  | ✅          | ✅       | ❌        | 294             |
 | 546 | Salt Circle                | ✅          | ✅       | ❌        | 288             |
-| 547 | Ability 547                | ❌          | ❌       | ❌        | -               |
-| 548 | Ability 548                | ❌          | ❌       | ❌        | -               |
-| 549 | Ability 549                | ❌          | ❌       | ❌        | -               |
-| 550 | Ability 550                | ❌          | ❌       | ❌        | -               |
+| 547 | Purifying Salt             | ✅          | ✅       | ❌        | 287             |
+| 548 | Protosynthesis             | ✅          | ✅       | ❌        | 296             |
+| 549 | Quark Drive                | ✅          | ✅       | ❌        | 295             |
+| 550 | Wind Power                 | ✅          | ✅       | ❌        | 298             |
 | 551 | Impulse                    | ✅          | ✅       | ❌        | 287             |
-| 552 | Ability 552                | ❌          | ❌       | ❌        | -               |
-| 553 | Ability 553                | ❌          | ❌       | ❌        | -               |
-| 554 | Ability 554                | ❌          | ❌       | ❌        | -               |
-| 555 | Ability 555                | ❌          | ❌       | ❌        | -               |
+| 552 | Terminal Velocity          | ✅          | ✅       | ❌        | 298             |
+| 553 | Guard Dog                  | ✅          | ✅       | ❌        | 290             |
+| 554 | Anger Shell                | ✅          | ✅       | ❌        | 293             |
+| 555 | Egoist                     | ✅          | ✅       | ❌        | 290             |
 | 556 | Subdue                     | ✅          | ✅       | ❌        | 281             |
-| 557 | Ability 557                | ❌          | ❌       | ❌        | -               |
-| 558 | Ability 558                | ❌          | ❌       | ❌        | -               |
-| 559 | Ability 559                | ❌          | ❌       | ❌        | -               |
+| 557 | Readied Action             | ✅          | ✅       | ❌        | 292             |
+| 558 | Stygian Rush               | ✅          | ✅       | ❌        | 291             |
+| 559 | Guilt Trip                 | ✅          | ✅       | ❌        | 294             |
 | 560 | Ability 560                | ❌          | ❌       | ❌        | -               |
 | 561 | Ability 561                | ❌          | ❌       | ❌        | -               |
 | 562 | Ability 562                | ❌          | ❌       | ❌        | -               |
@@ -577,67 +577,67 @@ In Progress: 0
 | 566 | Ability 566                | ❌          | ❌       | ❌        | -               |
 | 567 | Ability 567                | ❌          | ❌       | ❌        | -               |
 | 568 | Mind Crush                 | ✅          | ✅       | ❌        | 288             |
-| 569 | Ability 569                | ❌          | ❌       | ❌        | -               |
-| 570 | Ability 570                | ❌          | ❌       | ❌        | -               |
-| 571 | Ability 571                | ❌          | ❌       | ❌        | -               |
-| 572 | Ability 572                | ❌          | ❌       | ❌        | -               |
-| 573 | Ability 573                | ❌          | ❌       | ❌        | -               |
-| 574 | Ability 574                | ❌          | ❌       | ❌        | -               |
-| 575 | Ability 575                | ❌          | ❌       | ❌        | -               |
-| 576 | Ability 576                | ❌          | ❌       | ❌        | -               |
+| 569 | Supreme Overlord           | ✅          | ✅       | ❌        | 294             |
+| 570 | Ill Will                   | ✅          | ✅       | ❌        | 295             |
+| 571 | Fire Scales                | ✅          | ✅       | ❌        | 290             |
+| 572 | Watch Your Step            | ✅          | ✅       | ❌        | 296             |
+| 573 | Rapid Response             | ✅          | ✅       | ❌        | 299             |
+| 574 | Sharp Edges                | ✅          | ✅       | ❌        | 297             |
+| 575 | Thermal Exchange           | ✅          | ✅       | ❌        | 282             |
+| 576 | Good As Gold               | ✅          | ✅       | ❌        | 286             |
 | 577 | Sharing Is Caring          | ✅          | ✅       | ❌        | 300             |
-| 578 | Ability 578                | ❌          | ❌       | ❌        | -               |
-| 579 | Ability 579                | ❌          | ❌       | ❌        | -               |
-| 580 | Ability 580                | ❌          | ❌       | ❌        | -               |
-| 581 | Ability 581                | ❌          | ❌       | ❌        | -               |
-| 582 | Ability 582                | ❌          | ❌       | ❌        | -               |
+| 578 | Tablets Of Ruin            | ✅          | ✅       | ❌        | 281             |
+| 579 | Sword Of Ruin              | ✅          | ✅       | ❌        | 293             |
+| 580 | Vessel Of Ruin             | ✅          | ✅       | ❌        | 294             |
+| 581 | Beads Of Ruin              | ✅          | ✅       | ❌        | 296             |
+| 582 | Thick Skin                 | ✅          | ✅       | ❌        | 294             |
 | 583 | Gallantry                  | ✅          | ✅       | ❌        | 292             |
-| 584 | Ability 584                | ❌          | ❌       | ❌        | -               |
-| 585 | Ability 585                | ❌          | ❌       | ❌        | -               |
-| 586 | Ability 586                | ❌          | ❌       | ❌        | -               |
-| 587 | Ability 587                | ❌          | ❌       | ❌        | -               |
-| 588 | Ability 588                | ❌          | ❌       | ❌        | -               |
-| 589 | Ability 589                | ❌          | ❌       | ❌        | -               |
-| 590 | Ability 590                | ❌          | ❌       | ❌        | -               |
-| 591 | Ability 591                | ❌          | ❌       | ❌        | -               |
-| 592 | Ability 592                | ❌          | ❌       | ❌        | -               |
-| 593 | Ability 593                | ❌          | ❌       | ❌        | -               |
-| 594 | Ability 594                | ❌          | ❌       | ❌        | -               |
-| 595 | Ability 595                | ❌          | ❌       | ❌        | -               |
-| 596 | Ability 596                | ❌          | ❌       | ❌        | -               |
-| 597 | Ability 597                | ❌          | ❌       | ❌        | -               |
+| 584 | Orichalcum Pulse           | ✅          | ✅       | ❌        | 292             |
+| 585 | Sun Basking                | ✅          | ✅       | ❌        | 283             |
+| 586 | Winged King                | ✅          | ✅       | ❌        | 293             |
+| 587 | Hadron Engine              | ✅          | ✅       | ❌        | 281             |
+| 588 | Iron Serpent               | ✅          | ✅       | ❌        | 300             |
+| 589 | Weather Double Boost       | ✅          | ✅       | ❌        | 298             |
+| 590 | Sweeping Edge Plus         | ✅          | ✅       | ❌        | 285             |
+| 591 | Celestial Blessing         | ✅          | ✅       | ❌        | 295             |
+| 592 | Minion Control             | ✅          | ✅       | ❌        | 300             |
+| 593 | Molten Blades              | ✅          | ✅       | ❌        | 300             |
+| 594 | Haunting Frenzy            | ✅          | ✅       | ❌        | 293             |
+| 595 | Noise Cancel               | ✅          | ✅       | ❌        | 289             |
+| 596 | Radio Jam                  | ✅          | ✅       | ❌        | 300             |
+| 597 | Ole                        | ✅          | ✅       | ❌        | 299             |
 | 598 | Malicious                  | ✅          | ✅       | ❌        | 284             |
-| 599 | Ability 599                | ❌          | ❌       | ❌        | -               |
-| 600 | Ability 600                | ❌          | ❌       | ❌        | -               |
+| 599 | Dead Power                 | ✅          | ✅       | ❌        | 293             |
+| 600 | Brawling Wyvern            | ✅          | ✅       | ❌        | 280             |
 | 601 | Mythical Arrows            | ✅          | ✅       | ❌        | 297             |
 | 602 | Lawnmower                  | ✅          | ✅       | ❌        | 289             |
-| 603 | Ability 603                | ❌          | ❌       | ❌        | -               |
-| 604 | Ability 604                | ❌          | ❌       | ❌        | -               |
-| 605 | Ability 605                | ❌          | ❌       | ❌        | -               |
-| 606 | Ability 606                | ❌          | ❌       | ❌        | -               |
-| 607 | Ability 607                | ❌          | ❌       | ❌        | -               |
-| 608 | Ability 608                | ❌          | ❌       | ❌        | -               |
+| 603 | Flourish                   | ✅          | ✅       | ❌        | 297             |
+| 604 | Desert Spirit              | ✅          | ✅       | ❌        | 292             |
+| 605 | Contempt                   | ✅          | ✅       | ❌        | 279             |
+| 606 | Aerialist                  | ✅          | ✅       | ❌        | 295             |
+| 607 | Tera Shell                 | ✅          | ✅       | ❌        | 294             |
+| 608 | Toxic Chain                | ✅          | ✅       | ❌        | 287             |
 | 609 | Parasitic Spores           | ✅          | ✅       | ❌        | 293             |
-| 610 | Ability 610                | ❌          | ❌       | ❌        | -               |
-| 611 | Ability 611                | ❌          | ❌       | ❌        | -               |
-| 612 | Ability 612                | ❌          | ❌       | ❌        | -               |
-| 613 | Ability 613                | ❌          | ❌       | ❌        | -               |
-| 614 | Ability 614                | ❌          | ❌       | ❌        | -               |
-| 615 | Ability 615                | ❌          | ❌       | ❌        | -               |
-| 616 | Ability 616                | ❌          | ❌       | ❌        | -               |
-| 617 | Ability 617                | ❌          | ❌       | ❌        | -               |
-| 618 | Ability 618                | ❌          | ❌       | ❌        | -               |
-| 619 | Ability 619                | ❌          | ❌       | ❌        | -               |
-| 620 | Ability 620                | ❌          | ❌       | ❌        | -               |
-| 621 | Ability 621                | ❌          | ❌       | ❌        | -               |
+| 610 | Poison Puppeteer           | ✅          | ✅       | ❌        | 285             |
+| 611 | Entrance                   | ✅          | ✅       | ❌        | 290             |
+| 612 | Rejection                  | ✅          | ✅       | ❌        | 288             |
+| 613 | Apple Enlightenment        | ✅          | ✅       | ❌        | 294             |
+| 614 | Balloon Bomber             | ✅          | ✅       | ❌        | 294             |
+| 615 | Flaming Maw                | ✅          | ✅       | ❌        | 287             |
+| 616 | Demolitionist              | ✅          | ✅       | ❌        | 296             |
+| 617 | Rockhard Will              | ✅          | ✅       | ❌        | 300             |
+| 618 | Fragrant Daze              | ✅          | ✅       | ❌        | 289             |
+| 619 | Low Visibility             | ✅          | ✅       | ❌        | 299             |
+| 620 | Old Mariner                | ✅          | ✅       | ❌        | 284             |
+| 621 | Ectoplasm                  | ✅          | ✅       | ❌        | 281             |
 | 622 | Beautiful Music            | ✅          | ✅       | ❌        | 282             |
-| 623 | Ability 623                | ❌          | ❌       | ❌        | -               |
-| 624 | Ability 624                | ❌          | ❌       | ❌        | -               |
-| 625 | Ability 625                | ❌          | ❌       | ❌        | -               |
-| 626 | Ability 626                | ❌          | ❌       | ❌        | -               |
-| 627 | Ability 627                | ❌          | ❌       | ❌        | -               |
-| 628 | Ability 628                | ❌          | ❌       | ❌        | -               |
-| 629 | Ability 629                | ❌          | ❌       | ❌        | -               |
+| 623 | Surprise                   | ✅          | ✅       | ❌        | 282             |
+| 624 | Snow Song                  | ✅          | ✅       | ❌        | 299             |
+| 625 | Greater Spirit             | ✅          | ✅       | ❌        | 280             |
+| 626 | Resonance                  | ✅          | ✅       | ❌        | 291             |
+| 627 | Ethereal Rush              | ✅          | ✅       | ❌        | 288             |
+| 628 | Cute Antecedence           | ✅          | ✅       | ❌        | 292             |
+| 629 | Recurring Nightmare        | ✅          | ✅       | ❌        | 291             |
 | 630 | Ability 630                | ❌          | ❌       | ❌        | -               |
 | 631 | Ability 631                | ❌          | ❌       | ❌        | -               |
 | 632 | Ability 632                | ❌          | ❌       | ❌        | -               |

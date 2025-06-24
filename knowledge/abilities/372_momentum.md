@@ -1,3 +1,12 @@
+---
+ability_id: 372
+ability_name: "Momentum"
+extended_description: "Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts directly become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes well with Choice Scarf."
+competitive_tier: "High"
+battle_mechanic: "Stat Substitution"
+analysis_date: "2025-06-24"
+---
+
 # Momentum - Ability ID 372
 
 ## In-Game Description
@@ -22,6 +31,7 @@ Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfec
 - **Complete Replacement**: Not additive, full substitution
 
 ### Technical Implementation:
+**Location**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc` (lines 3853-3858)
 ```cpp
 constexpr Ability Momentum = {
     .onChooseOffensiveStat =

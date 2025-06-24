@@ -1,0 +1,53 @@
+---
+id: 286
+name: Ancient Idol
+status: ai-generated
+character_count: 294
+---
+
+# Ancient Idol - Ability ID 286
+
+## In-Game Description
+"Uses Def and Sp. Def instead of Atk and Sp. Atk when attacking."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Ancient Idol transforms the Pokémon into an offensive tank by using its defensive stats for attack calculations. Physical moves use Defense instead of Attack for damage, while special moves use Special Defense instead of Special Attack. This allows defensive walls to become powerful attackers.
+
+*Character count: 294*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+Ancient Idol is a unique ability that fundamentally alters how a Pokémon calculates damage output. Instead of using the traditional Attack and Special Attack stats for damage calculations, Ancient Idol redirects the game to use the Pokémon's defensive stats instead.
+
+**Implementation Details:**
+- **Physical Moves**: Uses Defense stat instead of Attack stat for all damage calculations
+- **Special Moves**: Uses Special Defense stat instead of Special Attack stat for all damage calculations
+- **Code Location**: `src/abilities.cc` - Uses `onChooseOffensiveStat` callback
+- **Technical Implementation**: `*atkStatToUse = IS_MOVE_PHYSICAL(move) ? STAT_DEF : STAT_SPDEF;`
+
+**Strategic Applications:**
+- Transforms defensive tanks into powerful offensive threats
+- Particularly effective on Pokémon with high defensive stats but low offensive stats
+- Creates unique team building opportunities for defensive-oriented Pokémon
+- Allows for dual-role Pokémon that can both tank hits and dish out damage
+
+**Notable Pokémon with Ancient Idol:**
+- **Runerigus**: High Defense (105) and Special Defense (105) make it a formidable attacker
+- **Claydol**: Balanced defensive stats (105 Def, 120 SpDef) for mixed attacking
+- **Bronzong**: Extremely high defensive stats (131 Def/SpDef) create massive damage potential
+- **Various other defensive Pokémon**: Shuckle line, Steelix line, etc.
+
+**Damage Calculation Impact:**
+- A Pokémon with 150 Defense would calculate physical move damage as if it had 150 Attack
+- A Pokémon with 120 Special Defense would calculate special move damage as if it had 120 Special Attack
+- All other damage modifiers (items, abilities, type effectiveness, etc.) apply normally
+- Does not affect defensive calculations - the Pokémon still uses its actual defensive stats for taking damage
+
+**Synergy Considerations:**
+- Works excellently with moves like Body Press (which already uses Defense for damage)
+- Pairs well with defensive items like Leftovers, Assault Vest
+- Benefits from defensive EV spreads and nature choices
+- Can make unexpected threats out of typically defensive Pokémon

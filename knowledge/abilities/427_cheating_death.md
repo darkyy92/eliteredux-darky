@@ -1,37 +1,56 @@
-# Cheating Death
+---
+id: 427
+name: Cheating Death
+status: ai-generated
+character_count: 286
+---
 
-**Ability ID**: 427
-**Type**: Regular Ability
+# Cheating Death - Ability ID 427
 
-**In-Game Description**: "Gets no damage for the first two hits."
+## In-Game Description
+"Gets no damage for the first two hits."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (280-300 chars max)*
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
 Negates all damage for the first 2 hits received. Works exactly like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards.
 
 *Character count: 286*
 
-## Detailed Mechanical Explanation (Discord/Reference)
+## Detailed Mechanical Explanation
+*For Discord/reference use*
 
-**Damage Type: Substitute-style "no damage"**
-- The ability blocks damage completely but does NOT prevent secondary effects
-- It works like a Substitute - the move still "hits" and can trigger secondary effects, but deals 0 damage
-- This is implemented in `Cmd_datahpupdate()` where it checks `RemainingNoDamageHits(gActiveBattler) > 0` and prevents the HP reduction while still allowing the move to connect
+### Core Mechanics
+Cheating Death is a defensive ability that provides complete damage immunity for exactly 2 hits per battle. Unlike immunity abilities, the moves still connect and can trigger secondary effects - only the damage is negated.
 
-**Implementation Details:**
+### Activation Conditions
+- **Hit counter**: Blocks damage for the first 2 hits received in battle
+- **Damage type requirement**: Only blocks direct attack damage
+- **Persistence**: Counter persists across switches (`.persistent = TRUE`)
+- **Per-Pokémon basis**: Each Pokémon has its own 2-hit counter
 
-Counter Management:
+### Technical Implementation
 ```cpp
-// In abilities.cc - CheatingDeath definition
-.noDamageHits = 2,
-.persistent = TRUE,
+// Cheating Death ability definition in abilities.cc
+constexpr Ability CheatingDeath = {
+    .onEntry = +[](ON_ENTRY) -> int {
+        int uses = 2 - GetSingleUseAbilityCounter(battler, ability);
+        CHECK(uses)
 
-// Counter calculation
-int uses = 2 - GetSingleUseAbilityCounter(battler, ability);
+        if (uses == 1)
+            BattleScriptPushCursorAndCallback(BattleScript_BattlerHasASingleNoDamageHit);
+        else if (uses > 1) {
+            ConvertIntToDecimalStringN(gBattleTextBuff4, uses, STR_CONV_MODE_LEFT_ALIGN, 2);
+            BattleScriptPushCursorAndCallback(BattleScript_BattlerHasNoDamageHits);
+        }
+        return TRUE;
+    },
+    .noDamageHits = 2,
+    .persistent = TRUE,
+};
 ```
 
-Damage Blocking Logic:
+### Damage Blocking Logic
 ```cpp
 // In battle_script_commands.c - Cmd_datahpupdate()
 else if (gBattleMoveDamage > 0 && !(gHitMarker & HITMARKER_PASSIVE_DAMAGE) && RemainingNoDamageHits(gActiveBattler) > 0) {
@@ -42,41 +61,69 @@ else if (gBattleMoveDamage > 0 && !(gHitMarker & HITMARKER_PASSIVE_DAMAGE) && Re
 }
 ```
 
-## Trigger Conditions
+### Important Interactions
+- **Move still connects**: Accuracy checks pass, contact effects trigger
+- **Secondary effects can still occur**: Status conditions, stat changes, etc. can still happen
+- **No "immune" message**: Shows hit animation but 0 damage
+- **Works against all physical damage**: Not type-specific like immunities
+- **Cannot be suppressed**: No `.breakable = TRUE` flag
+- **Counter system**: Uses `GetSingleUseAbilityCounter()` for tracking
 
-- Activates when the Pokémon would take damage from an attack
-- Only blocks the first 2 hits received in battle per Pokémon
-- Does not activate on passive damage (poison, burn, etc.)
-- Does not activate on entry hazards
+### What Gets Blocked
+- ✅ **Direct attack damage**: All damaging moves
+- ✅ **Multi-hit moves**: Each hit decrements counter
+- ✅ **Critical hits**: Damage still becomes 0
+- ✅ **STAB/type effectiveness**: Damage modifiers irrelevant
 
-## Numerical Effects
+### What Doesn't Get Blocked
+- ❌ **Passive damage**: Poison, burn, weather damage
+- ❌ **Entry hazards**: Stealth Rock, Spikes, etc.
+- ❌ **Non-damaging moves**: Status moves, stat changes
+- ❌ **Recoil damage**: Self-inflicted damage
+- ❌ **Confusion/attraction damage**: Self-harm
 
-- **Hits Blocked**: Exactly 2 hits per battle
-- **Damage Reduction**: 100% (damage becomes 0)
-- **Counter Storage**: Persistent across switches
+### Entry Messages
+- **When entering with 2 hits remaining**: "X has N no damage hits!" 
+- **When entering with 1 hit remaining**: "X has a single no damage hit!"
+- **When the last hit is used**: "X can no longer endure hits!"
 
-## Interactions
+### Strategic Implications
+- **Guaranteed protection**: Provides 2 turns of damage immunity
+- **Secondary effects vulnerability**: Still susceptible to status, stat drops
+- **Switch value**: Counter persists, making switches tactical
+- **Priority moves**: No special interaction - still blocked if damaging
+- **One-time use**: Once depleted, ability provides no further benefit
 
-**Key Differences from Immunity:**
-1. **Move still connects** - accuracy checks pass, contact effects trigger
-2. **Secondary effects can still occur** - status conditions, stat changes, etc. can still happen
-3. **No "immune" message** - shows hit animation but 0 damage
-4. **Works against all physical damage** - not type-specific like immunities
+### Competitive Usage Notes
+- **Lead potential**: Excellent for setting up or absorbing hits early
+- **Pivot protection**: Safe switching with guaranteed damage absorption
+- **Setup enabler**: Two free turns to boost stats or set up
+- **Endgame insurance**: Can tank crucial hits in close matches
+- **Multi-hit vulnerability**: Abilities like Skill Link can deplete quickly
 
-**With Other Abilities:**
-- Cannot be suppressed by Mold Breaker (no `.breakable = TRUE`)
-- Works with contact-based abilities (move still makes contact)
+### Counters
+- **Status moves**: Inflict conditions without using hit counter
+- **Multi-hit moves**: Deplete counter faster than single hits
+- **Entry hazards**: Bypass the ability entirely
+- **Passive damage**: Weather, abilities don't trigger counter
+- **Non-damaging harassment**: Taunt, disable, etc.
 
-## Special Cases
+### Synergies
+- **Setup moves**: Calm Mind, Dragon Dance, etc.
+- **Recovery moves**: Roost, Recover while protected
+- **Hazard setting**: Stealth Rock, Spikes setup
+- **Status spreading**: Will-O-Wisp, Thunder Wave
+- **Substitute**: Can set up behind guaranteed protection
 
-- **Entry Messages:**
-  - When entering with 2 hits remaining: "X has N no damage hits!" 
-  - When entering with 1 hit remaining: "X has a single no damage hit!"
-  - When the last hit is used: "X can no longer endure hits!"
+### Version History
+- Custom Elite Redux ability (ID 427)
+- Uses modern single-use ability counter system
+- Persistent across switches unlike traditional Endure
+- No vanilla equivalent - unique defensive mechanism
 
-## Notes
-
-- **Does NOT reset on switching** because the ability has `.persistent = TRUE`
-- The counter is stored per Pokemon in the party, not per battle slot
-- Once a Pokemon has used up its 2 hits, it's permanent for that battle
-- This makes Cheating Death a powerful defensive ability that provides guaranteed damage immunity for exactly 2 attacks per battle, while still allowing the opponent's moves to have their secondary effects
+### Technical Notes
+- **Counter storage**: Persistent per Pokémon in party
+- **Battle reset**: Counters reset between battles
+- **Double battles**: Each Pokémon has independent counters
+- **Forme changes**: Counter persists through forme changes
+- **Ability changes**: Losing ability doesn't reset counter
