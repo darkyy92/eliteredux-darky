@@ -1,0 +1,142 @@
+---
+ability_id: 381
+ability_name: "Pollinate"
+extended_description: "Normal-type moves become Bug-type and gain a 1.2x power boost through natural type conversion. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks."
+competitive_tier: "Medium"
+battle_mechanic: "Type Conversion"
+analysis_date: "2025-06-24"
+---
+
+# Pollinate (Ability #381)
+
+## Basic Information
+- **Ability ID**: 381 (ABILITY_POLLINATE)
+- **Name**: Pollinate
+- **Short Description**: "Normal-type moves become Bug and Bug gains STAB."
+- **Type**: Type Conversion Ability (ATE-type)
+- **Generation**: Elite Redux Custom
+
+## Extended Description
+Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks.
+
+## Technical Implementation
+
+### Source Code Location
+- **File**: `src/abilities.cc`
+- **Lines**: 3956-3958
+- **Implementation**: Uses the `ATE_ABILITY(TYPE_BUG)` macro
+
+### ATE_ABILITY Macro Details
+```cpp
+#define ATE_ABILITY(type)                    \
+    .onMoveType = +[](ON_MOVE_TYPE) -> int { \
+        CHECK(moveType == TYPE_NORMAL)       \
+        *ateBoost = TRUE;                    \
+        return type + 1;                     \
+    },                                       \
+    .onStab = +[](ON_STAB) -> int { return moveType == type; }
+```
+
+### Mechanics
+1. **Type Conversion**: All Normal-type moves are converted to Bug-type
+2. **Power Boost**: Converted moves receive a 1.2x damage multiplier (`*ateBoost = TRUE`)
+3. **STAB Application**: Bug-type moves (including converted ones) always receive STAB regardless of the Pokemon's actual typing
+4. **Priority**: Applied before other type-modifying effects
+
+## Strategic Analysis
+
+### Competitive Applications
+- **Tier Rating**: Medium - Solid offensive boost but limited by Bug-type's middling offensive coverage
+- **Primary Use**: Converting Normal-type attackers into Bug-type specialists
+- **Best Movesets**: Pokemon with strong Normal-type movesets benefit most
+
+### Optimal Move Combinations
+**Recommended Normal → Bug Conversions**:
+- **Hyper Beam** → 120 BP Bug-type move with 1.2x boost
+- **Body Slam** → 85 BP Bug-type move with paralysis chance
+- **Double-Edge** → 100 BP Bug-type move with recoil
+- **Return/Frustration** → Variable BP Bug moves
+- **Quick Attack** → Priority Bug-type move
+- **Facade** → Powerful Bug move when statused
+
+### Coverage Considerations
+**Bug-type Effectiveness**:
+- **Super Effective vs**: Dark, Grass, Psychic
+- **Not Very Effective vs**: Fairy, Fighting, Fire, Flying, Ghost, Poison, Steel
+- **Immune**: None
+
+### Synergies
+- **Weather Teams**: Pairs well with abilities that boost Bug moves
+- **Status Strategies**: Facade becomes a powerful Bug-type move when burned/poisoned
+- **Priority Moves**: Quick Attack becomes a Bug-type priority move
+- **Choice Items**: Fixed Bug typing allows for consistent STAB damage
+
+## Related Abilities
+
+### Other ATE Abilities in Elite Redux
+Pollinate is part of a large family of type-conversion abilities:
+
+**Official ATE Abilities**:
+- **Refrigerate** (#174) - Normal → Ice
+- **Pixilate** (#182) - Normal → Fairy  
+- **Aerilate** (#184) - Normal → Flying
+- **Galvanize** (#206) - Normal → Electric
+
+**Elite Redux ATE Abilities**:
+- **Steelworker** (#200) - Normal → Steel
+- **Immolate** (#279) - Normal → Fire
+- **Fighting Spirit** (#300) - Normal → Fighting
+- **Tectonize** (#308) - Normal → Ground
+- **Hydrate** (#315) - Normal → Water
+- **Intoxicate** (#325) - Normal → Poison
+- **Spectralize** (#???) - Normal → Ghost
+- **Mineralize** (#404) - Normal → Rock
+- **Draconize** (#413) - Normal → Dragon
+- **Atomic Burst** (#416) - Normal → Electric (with additional effects)
+- **Emanate** (#459) - Normal → Psychic
+- **Fertilize** (#507) - Normal → Grass
+- **Deviate** (#???) - Normal → Dark
+
+### Comparison with Similar Abilities
+**vs Refrigerate/Pixilate/Aerilate**: 
+- Same 1.2x power boost mechanism
+- Bug-type has worse offensive coverage than Ice/Fairy/Flying
+- More situational than the mainstream ATE abilities
+
+**vs Swarm**:
+- Pollinate affects all moves, not just Bug moves
+- Swarm provides conditional boost, Pollinate provides consistent conversion
+- Can't stack with Swarm (both affect Bug moves)
+
+## Counters and Weaknesses
+
+### Direct Counters
+- **Fire-types**: Resist Bug moves, often have super-effective moves
+- **Flying-types**: Resist Bug moves, immune to Ground coverage
+- **Steel-types**: Resist Bug moves, typically bulky
+- **Poison-types**: Resist Bug moves, can absorb status
+
+### Strategic Limitations
+- **Poor Coverage**: Bug-type doesn't hit many types super-effectively
+- **Common Resists**: Many types resist Bug moves
+- **No Defensive Benefit**: Pure offensive ability with no defensive utility
+- **Move Pool Dependent**: Effectiveness limited by Normal-type moves available
+
+## Recommended Pokemon
+
+### Ideal Candidates
+Pokemon with large Normal-type movepools and good offensive stats:
+- **Normal-types**: Natural synergy with existing movesets
+- **High Attack/Sp.Attack**: Maximize the 1.2x boost
+- **Speed Control**: Fast Pokemon to outspeed and convert
+- **Coverage Moves**: Non-Normal moves for type coverage
+
+### Team Roles
+- **Physical Sweeper**: High Attack with converted Normal moves
+- **Special Attacker**: Special Normal moves become Bug-type
+- **Revenge Killer**: Quick Attack becomes priority Bug move
+- **Wall Breaker**: Powerful converted moves break defensive cores
+
+## Conclusion
+
+Pollinate provides a solid offensive conversion that transforms Normal-type attackers into Bug-type specialists. While Bug-type doesn't offer the best offensive coverage, the guaranteed STAB and 1.2x power boost make it a respectable ability for Pokemon with strong Normal-type movesets. The ability's effectiveness is highly dependent on move pool and team composition, making it a medium-tier competitive option that requires careful planning to maximize its potential.

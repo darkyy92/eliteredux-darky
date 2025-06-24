@@ -1,0 +1,13 @@
+---
+id: 643
+name: Last Stand
+status: ai-generated
+character_count: 291
+---
+
+# Last Stand
+
+**Short Description:** Def and SpDef increase as HP drops. Max 1.6x.
+
+## Extended Description
+Last Stand transforms desperation into defensive prowess. As the Pokémon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.

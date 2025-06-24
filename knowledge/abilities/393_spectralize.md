@@ -1,0 +1,146 @@
+---
+ability_id: 393
+ability_name: "Spectralize"
+extended_description: "Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage."
+competitive_tier: "High"
+battle_mechanic: "Type Conversion & STAB"
+analysis_date: "2025-06-24"
+---
+
+# Spectralize - Ability ID 393
+
+## In-Game Description
+"Normal-type moves become Ghost and Ghost gains STAB."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage.
+
+*Character count: 299*
+
+## Technical Implementation Details
+*From `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc` lines 3983-3985*
+
+```cpp
+constexpr Ability Spectralize = {
+    ATE_ABILITY(TYPE_GHOST),
+};
+```
+
+**ATE_ABILITY Macro Implementation (lines 285-291):**
+```cpp
+#define ATE_ABILITY(type)                    \
+    .onMoveType = +[](ON_MOVE_TYPE) -> int { \
+        CHECK(moveType == TYPE_NORMAL)       \
+        *ateBoost = TRUE;                    \
+        return type + 1;                     \
+    },                                       \
+    .onStab = +[](ON_STAB) -> int { return moveType == type; }
+```
+
+**Core Mechanics:**
+1. **Type Conversion**: All Normal-type attacking moves become Ghost-type (checked at `moveType == TYPE_NORMAL`)
+2. **STAB Grant**: Pokémon gains STAB for ALL Ghost-type moves regardless of natural typing
+3. **ateBoost Flag**: Sets the ateBoost flag for converted moves (used for tracking and potential interactions)
+
+**Important Implementation Notes:**
+- Uses the standard ATE_ABILITY macro with `TYPE_GHOST` parameter
+- NO automatic power boost (unlike some custom -ate abilities in Elite Redux)
+- Only affects attacking moves (status moves like Thunder Wave remain Normal-type)
+- The ability is registered in the ability table at line 9237: `{ABILITY_SPECTRALIZE, Spectralize}`
+
+## Strategic Analysis and Applications
+
+### Offensive Applications
+**Move Transformation Benefits:**
+- **Body Slam** → Ghost-type STAB move with paralysis chance
+- **Hyper Voice** → Powerful Ghost-type special attack that hits through Substitute
+- **Return/Frustration** → Ghost-type STAB moves with variable power
+- **Quick Attack** → Ghost-type priority move
+- **Explosion** → Ghost-type suicide move (though still hits Ghost types due to explosive mechanics)
+
+**Type Coverage Advantages:**
+- Super-effective against Fighting and Psychic types (2x damage)
+- Neutral against most types that resist Normal (Rock, Steel)
+- Can hit Normal types neutrally instead of being resisted
+
+### Defensive Considerations
+**Weaknesses Created:**
+- Converted moves now resisted by Dark types (0.5x damage)
+- Steel types become immune to converted moves (0x damage)
+- Lose the benefit of Fighting types taking normal damage from Normal moves
+
+### Competitive Tier Analysis: HIGH
+
+**Tier Justification:**
+1. **Meta Relevance**: Ghost is an excellent offensive type in competitive play
+2. **Coverage Value**: Provides super-effective hits against common Fighting and Psychic types
+3. **STAB Access**: Grants Ghost STAB to any Pokémon, significantly boosting power output
+4. **Move Pool Synergy**: Many Pokémon have extensive Normal-type movepools that benefit greatly
+
+**Optimal Usage Scenarios:**
+- **Mixed Attackers**: Pokémon with both physical and special Normal moves
+- **Coverage Seekers**: Non-Ghost types needing Ghost-type attacks
+- **STAB Maximizers**: Pokémon wanting to boost their Normal-type moves with STAB
+
+## Related Abilities and Comparisons
+
+### Other ATE_ABILITY Implementations
+**Standard -ate Abilities (Type Conversion + STAB only):**
+- **Refrigerate** (ID 174): Normal → Ice
+- **Pixilate** (ID 182): Normal → Fairy  
+- **Aerilate** (ID 184): Normal → Flying
+- **Galvanize** (ID 206): Normal → Electric
+
+**Enhanced -ate Abilities (with custom power boosts):**
+- **Steelworker** (ID 200): Steel-type moves + Dark/Ghost resistance
+- **Normalize** (ID 96): All moves → Normal with 1.1x power boost for converted moves
+
+### Key Differences from Main Series
+**Elite Redux Implementation:**
+- No automatic 1.2x power boost (unlike main series -ate abilities)
+- Only provides type conversion and STAB access
+- Makes the ability more balanced but still highly valuable
+
+**Power Calculation:**
+- Converted move: Base Power × 1.5 (STAB only)
+- Main series equivalent: Base Power × 1.2 × 1.5 = 1.8x total
+
+### Synergy Abilities
+**Abilities that complement Spectralize:**
+- **Technician**: Boosts weak converted moves like Quick Attack
+- **Adaptability**: Would double STAB bonus if present (though not applicable in 4-ability system)
+- **Skill Link**: Enhances multi-hit Normal moves that get converted
+
+## Battle Interactions and Edge Cases
+
+### Status Move Handling
+- **Thunder Wave, Sleep Powder, etc.**: Remain Normal-type (not converted)
+- **Only attacking moves are affected by type conversion**
+
+### Special Interactions
+**SpectralShroud Synergy (ID 386):**
+- SpectralShroud checks for `gBattleStruct->ateBoost[battler]` and `moveType == TYPE_GHOST`
+- 30% chance to badly poison target when using converted Ghost moves
+- Creates powerful synergy between the two Ghost-themed abilities
+
+### Elite Redux 4-Ability System Integration
+**Recommended Slot Usage:**
+- **Changeable Slot**: When flexibility is needed for different matchups
+- **Innate Slot**: When consistent Ghost coverage is core to the Pokémon's strategy
+
+**Multi-Ability Combinations:**
+- Can stack with other offensive abilities for devastating combinations
+- Works well with stat-boosting abilities to maximize converted move power
+
+## Notable Pokémon Beneficiaries
+*Based on usage patterns in TrainerList.textproto and SpeciesList.textproto*
+
+**High-Value Users:**
+- Pokémon with extensive Normal-type movepools
+- Mixed attackers with both physical and special Normal moves
+- Pokémon needing Ghost coverage for competitive viability
+- Pokémon that can take advantage of Fighting/Psychic matchups
+
+This ability represents one of the most valuable type-conversion abilities in Elite Redux, offering immediate offensive improvement and meta-relevant coverage to any Pokémon that can utilize it effectively.

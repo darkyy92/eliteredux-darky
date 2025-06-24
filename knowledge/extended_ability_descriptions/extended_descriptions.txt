@@ -502,6 +502,75 @@ All punching moves automatically land critical hits and have their secondary eff
 # ID: 376
 Grants perfect accuracy to arrow-based attacks and cannon moves (Mega Launcher boosted moves). Additionally, when landing critical hits, the attack intelligently targets the opponent's weaker defensive stat between Defense and Special Defense for maximum damage.
 
+# ID: 377
+Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Grants perfect accuracy and targeting to pulse, beam, ball, aura, projectile, and status moves. Transforms single-target shots into devastating dual strikes, maximizing battlefield impact and strategic control.
+
+# ID: 378
+Amplifier boosts sound-based moves by 30% damage output. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokémon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams.
+
+# ID: 379
+Ice Dew redirects all Ice-type moves to this Pokemon and raises its highest attacking stat by one stage. The Pokemon absorbs ice attacks harmlessly while gaining offensive momentum. Particularly effective for pivoting into Ice moves and building sweeping potential through stat accumulation.
+
+# ID: 380
+When switching into battle during sunny weather, boosts the highest stat by one stage. The stat boost applies to whichever stat (Attack, Defense, Special Attack, Special Defense, or Speed) has the highest calculated value. Perfect for sun team sweepers needing immediate power.
+
+# ID: 381
+Normal-type moves become Bug-type and gain a 1.2x power boost through natural type conversion. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks.
+
+# ID: 382
+After using any Fire-type move, automatically follows up with a 50 base power Eruption. This secondary attack uses Special Attack stat with HP-scaling damage, potentially dealing massive damage when at full health. Creates powerful combo attacks that can overwhelm defensive walls.
+
+# ID: 383
+When hit by a contact move, this Pokémon immediately retaliates with Icy Wind, dealing Ice-type damage and lowering the attacker's Speed stat. This powerful counter-attack ability punishes opponents for making physical contact, creating space through speed control while dealing respectable damage.
+
+# ID: 384
+Automatically uses Feint Attack with 40 base power when switching into battle. This Dark-type move never misses and makes contact, providing guaranteed chip damage and breaking Focus Sash or Sturdy abilities. Perfect for hit-and-run strategies, entry hazard support teams, and maintaining momentum control.
+
+# ID: 385
+Completely nullifies all weather effects while this Pokémon is on the field. Clears existing weather on entry and prevents weather-dependent moves, abilities, and damage from functioning. Essential counter to weather teams and weather-based strategies throughout the entire battle duration.
+
+# ID: 386
+Converts Normal-type moves to Ghost-type, gaining STAB and enhanced power boost. All Ghost-type moves (including converted ones) have 30% chance to badly poison targets after damage. Combines offensive type conversion with dangerous poison status that escalates each turn.
+
+# ID: 387
+Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion, maintaining tactical control.
+
+# ID: 388
+Triggers a divine judgment from the heavens when using Electric moves. After successfully landing an Electric-type attack, the user calls down Smite at 20% power, dealing additional Electric damage with paralysis chance and Smack Down effect to ground Flying-types and threaten aerial opponents.
+
+# ID: 389
+The apex predator of aquatic ecosystems, this ability grants the user 50% increased damage against Water-type opponents while providing Infiltrator's bypassing capabilities for protective screens and substitutes. Dominates both Water-types and defensive teams with superior offensive presence.
+
+# ID: 390
+Harnesses the primal power of horns and drills to amplify their piercing force. This ability channels ancient energy through horn-based moves, increasing their damage by 30% and enhancing their natural ability to penetrate defenses and strike critical hits with devastating precision.
+
+# ID: 391
+When the Pokemon uses horn-based moves, the protective sheath around the horn toughens and becomes more refined through repetitive use. This process strengthens the attacker's muscle memory and striking power, raising Attack by +1 stage per successful use, building momentum steadily.
+
+# ID: 392
+This Pokemon's thick Arctic fur provides remarkable insulation against all forms of attack. The dense, protective coat reduces damage from both physical and special moves by 35%, creating substantial defensive utility that works against any attack type while maintaining full offensive capabilities.
+
+# ID: 393
+Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage.
+
+# ID: 394
+Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching, requiring team support and patience to utilize.
+
+# ID: 395
+Combines the power of a Mega Launcher with precision targeting systems. All projectile moves gain 30% damage boost plus perfect accuracy, eliminating miss chances. Inaccurate moves (below 80% accuracy) receive -3 priority to compensate for the targeting system's reliability guarantee.
+
+# ID: 396
+Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type through aquatic resonance. This ability enhances vocal attacks by channeling them through liquid medium, making sound-based strategies more versatile and effective in diverse combat situations.
+
+# ID: 397
+When using a Mega Launcher-boosted move, triggers a follow-up 50 BP Outburst attack against the same target. This powerful combo ability effectively adds explosive damage to every beam, pulse, or projectile attack that benefits from Mega Launcher's power enhancement bonus, doubling the impact.
+
+# ID: 398
+When this Pokemon makes physical contact with an opponent, dangerous spores infect the target and begin draining health each turn. The parasitic infection saps 1/8 of the victim's max HP and transfers it to the attacker, creating a constant drain that steadily weakens opposing foes.
+
+# ID: 399
+A masterful defensive technique that turns contact attacks into opportunities. When hit by a physical contact move, the Pokemon immediately retaliates with a lightning-fast Mach Punch counter-attack, while reducing all incoming damage by 20%. Perfect deterrent against physical attackers.
+
 # ID: 271
 Keen Edge enhances all slashing attacks by 30%, significantly boosting moves that involve cutting, slicing, or slashing motions. Works with claws, blades, leaves, wind slashes, and similar cutting attacks. Includes both physical and special moves. Stacks with other damage modifiers.
 
@@ -1152,3 +1221,213 @@ At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them t
 
 # ID: 629
 Persistent revival ability that functions exclusively in fog weather conditions. When the user faints while fog is active, this ability automatically revives them once per battle at exactly 25% of maximum HP. The revival triggers immediately after fainting with strategic comeback potential.
+
+# ID: 630
+This intimidating ability causes fear in opponents through both offensive and defensive contact situations. When the Pokémon makes or receives contact moves, there's a 30% chance to inflict the Fear status condition on the opposing Pokémon, effectively preventing them from switching out.
+
+# ID: 631
+This ability harnesses the power of brilliant electrical energy, enhancing the Pokemon's precision in all combat scenarios. Every attack becomes 20% more accurate through electrified focus, while Thunder attacks achieve perfect targeting with guaranteed hits through divine lightning.
+
+# ID: 632
+Terrify intimidates opposing Pokemon upon switching in, drastically reducing their special attacking capabilities. When the Pokemon with this ability enters battle, all enemies suffer a severe two-stage drop to their Special Attack stat, making their special moves significantly weaker.
+
+# ID: 633
+When hit by a contact move, the Pokemon retaliates with Icicle Crash at 60 base power. This defensive ability punishes physical attackers with an automatic Ice-type counter-attack that can flinch the opponent. The retaliation doesn't consume PP, making it an effective deterrent.
+
+# ID: 635
+Combines volcanic devastation effects. Fire-type moves deal super effective damage to Rock-types, melting their defenses. Poison-type moves deal super effective damage to Steel-types, corroding their metallic bodies. Can poison Steel and Poison-type Pokemon normally immune to poison.
+
+# ID: 800
+Deviate converts all Normal-type moves to Dark-type and provides STAB for Dark-type moves. This transformation affects all Normal-type moves including Tackle, Body Slam, and Hyper Beam. The ability grants immediate Dark-type STAB bonus for Pokemon that wouldn't normally receive it.
+
+# ID: 801
+Sun's Bounty combines two powerful abilities: Leaf Guard heals all status conditions at the end of each turn during harsh sunlight, while Harvest restores consumed berries. In sun, berry restoration is guaranteed; otherwise it's 50%. Perfect for sustainable recovery.
+
+# ID: 802
+Boosts Speed by 50% in sun weather while also increasing the higher attacking stat by 50% in sun. Works with all forms of sun including regular sun, harsh sunlight, and Primal Groudon's weather. Both effects activate simultaneously when sun is present.
+
+# ID: 803
+Headstrong raises the Pokémon's Special Defense by one stage when it switches into battle. This defensive boost activates automatically upon entry and can be prevented by abilities like Mold Breaker. The stat boost is permanent until the Pokémon switches out or faints.
+
+# ID: 804
+Firefighter provides offensive and defensive advantages against Fire-types. When attacking Fire-type Pokemon, damage output is increased by 50%. When receiving Fire-type attacks, incoming damage is reduced by 50%. This dual-purpose ability makes it excellent for countering Fire opponents.
+
+# ID: 636
+Blood Bath provides complete immunity to bleeding while transforming the bearer into a fearsome predator. When inflicting bleeding on opponents that aren't already feared, it automatically triggers the Fear status, creating deadly psychological warfare through bleeding attacks that terrorize foes.
+
+# ID: 637
+Battle Aura creates an intimidating presence that amplifies critical hit chances for all battlers on the field. This powerful aura increases each Pokémon's critical hit stage by +2, making devastating critical strikes significantly more likely and transforming battles into high-stakes encounters.
+
+# ID: 638
+Bloodlust combines Blood Bath and Soul Eater effects into a terrifying predatory ability. Immune to bleeding, it inflicts fear when causing bleeding in opponents. Upon knocking out any Pokémon, Bloodlust restores 25% of maximum HP, creating a deadly cycle of fear, bleeding, and regeneration.
+
+# ID: 639
+Piercing Solo turns the user into a sound-based predator. When any sound move hits an opponent, the intense vibrations pierce through defenses and cause internal bleeding. This transforms utility sound moves into damaging threats over time, making Pokemon with this ability dangerous.
+
+# ID: 641
+This rhythmic ability creates powerful seismic vibrations that shake the battlefield after every sound-based attack. When the Pokemon uses any move with the sound flag, the intense bass frequencies resonate through the ground, triggering a localized earthquake that damages nearby opponents.
+
+# ID: 805
+Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.
+
+# ID: 806
+Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics. Critical hits deal 1.5× extra damage like Sniper. When an opponent switches out, this Pokémon automatically attacks the switching target with its selected move at half power, bypassing turn order.
+
+# ID: 807
+Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokémon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.
+
+# ID: 808
+When hit by a contact move, Malodor suppresses the attacker's ability until they switch out, similar to Gastro Acid. This prevents abilities like Poison Touch, Static, or Flame Body from activating on subsequent turns. The suppression persists even if the Malodor user faints.
+
+# ID: 809
+When hit by contact moves, the Pokémon uses its Speed stat instead of Defense or Special Defense for damage calculations. This makes fast Pokémon extremely tanky against physical attacks like Tackle, Punch moves, and Earthquake while remaining vulnerable to special projectiles.
+
+# ID: 642
+Jackhammer transforms hammer-based moves into devastating double strikes. When using any hammer move, it hits twice in succession. The first hit deals full damage, while the second strike connects for 70% power, creating a reliable combo that breaks through Substitutes and Focus Sash items.
+
+# ID: 643
+Last Stand transforms desperation into defensive prowess. As the Pokémon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.
+
+# ID: 645
+Soul Crusher enhances the wielder's mastery over hammer-based combat techniques. The ability boosts the power of hammer moves like Slam, Crabhammer, and Hammer Arm by 10%, while forcing opponents to use their special defense instead of defense when calculating damage from these devastating attacks.
+
+# ID: 646
+Arc Flash is a versatile dual-trigger ability that can inflict status conditions both offensively and defensively. When the Pokemon attacks, it has a 50% chance to paralyze the target upon contact. When defending and taking damage, it has a 50% chance to burn the attacking Pokemon in retaliation.
+
+# ID: 647
+This mystical ability grants horn-based moves a 30% power boost while converting all Normal-type moves to Fairy-type. The converted moves gain additional power and benefit from STAB if the user is Fairy-type, making unicorn Pokemon fearsome with both physical horn attacks and magical fairy power.
+
+# ID: 648
+On the Prowl enhances battle initiative upon entry. During the first turn after switching in, all moves with priority 0 or higher gain +1 priority, making them faster than usual. Negative priority moves become priority 0, eliminating their speed penalty and allowing normal-speed execution instead.
+
+# ID: 649
+This arrogant ability manifests when the Pokémon defeats an opponent, boosting its critical hit ratio by one stage as a display of superiority. Each knockout makes the Pokémon more likely to land devastating critical hits in subsequent battles, reflecting growing overconfidence and disdain.
+
+# ID: 650
+Venoblaze Pincers boosts all physical moves by 20% damage while adding a menacing 20% chance to inflict Burn or Poison on contact. The razor-sharp, venom-coated pincers deliver devastating strikes that combine immediate power with lingering status effects, making every physical attack dual threat.
+
+# ID: 651
+Eternal Blessing combines the regenerative powers of Celestial Blessing and Regenerator into one divine ability. While under Misty Terrain, the Pokémon recovers 1/12 of its maximum HP at the end of each turn, granting exceptional longevity. When switching out, it regains 1/3 of its maximum HP.
+
+# ID: 652
+Sugar Rush doubles the Pokémon's Speed stat after consuming its held item. When a held item is used up or removed, the ability activates and provides a 2x Speed boost for the rest of the battle. This makes it perfect for setup strategies using consumable items.
+
+# ID: 810
+Elude replaces Defense or Special Defense with Speed when taking damage from non-contact moves. Works with projectiles, special attacks, and ranged moves like Water Gun, Psychic, or Rock Slide. Perfect complement to Blur ability.
+
+# ID: 811
+Doubles damage of not very effective moves like Tinted Lens. When this Pokémon knocks out a foe, it immediately recovers from recharge effects and removes recharge status, allowing consecutive use of powerful moves like Hyper Beam without the mandatory rest turn.
+
+# ID: 812
+Reverbate converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions. Sound moves can target multiple foes with Amplifier or Bass Boosted abilities, but are blocked by Throat Chop for 2 turns.
+
+# ID: 813
+Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, allowing them to benefit from abilities like Iron Fist, Strong Jaw, and similar move-type-based enhancements. This transforms typical Normal attacks into martial arts techniques with increased power and special interactions.
+
+# ID: 814
+Strategic Pause combines patience with precision. When moving after the target, this ability provides a 30% damage boost from Analytic plus raises critical hit rate by 2 stages. The critical hit bonus transforms rare crits into frequent ones, making slow sweepers devastatingly effective.
+
+# ID: 653
+Peaceful Rest grants gradual healing during fog weather. When fog is active, the Pokémon restores 1/8 of its maximum HP at the end of each turn, provided it isn't at full health and can heal. This ability excels in prolonged battles, offering sustained recovery in foggy conditions.
+
+# ID: 654
+White Noise combines Static's paralysis-inducing contact effects with Peaceful Rest's restorative healing properties. When opponents make physical contact, this ability has a 30% chance to paralyze the attacker. Additionally, during fog weather, it heals 1/8 max HP at the end of each turn.
+
+# ID: 655
+This ability grants enhanced evasiveness in foggy conditions. When fog weather is active (permanent or temporary), opponents' accuracy against this Pokemon is reduced by 25%, making it harder to hit. This defensive boost makes the Pokemon particularly effective in fog-based weather teams.
+
+# ID: 656
+Tag makes the Pokemon a persistent hunter that never lets opponents escape. When an enemy attempts to switch out, this ability automatically triggers a pursuit-style attack that strikes the fleeing target with 20 base power, punishing switching strategies and maintaining pressure.
+
+# ID: 657
+Power Metal transforms Normal-type sound moves into Steel-type and boosts all sound-based moves by 20%. This metallic enhancement represents the Pokemon's ability to channel sound waves through steel, creating resonant frequencies that amplify power while hardening sound into metallic vibrations.
+
+# ID: 658
+Power Edge enhances all slashing attacks by 30% while forcing them to target Special Defense instead of Defense. This transforms physical slashing moves into mixed attackers that exploit weaker special bulk. Perfect for breaking through defensive walls.
+
+# ID: 659
+This ability transforms Steel-type attacks into highly conductive Electric-type energy. All Steel-type moves become Electric-type and receive a 10% power boost, creating devastating electrical assaults that bypass Steel resistances while capitalizing on Electric-type advantages.
+
+# ID: 660
+Ultra Instinct grants dual defensive benefits. When hit by contact moves, the Pokemon automatically counters with Vacuum Wave without using a turn. All incoming damage is reduced by 20%, making the user more durable while punishing physical attackers with instant Fighting-type retaliation.
+
+# ID: 661
+This hybrid ability combines Inner Focus precision with Berserk fury. When hit below half HP, raises the highest attacking stat by one stage. Also provides taunt immunity and makes Focus Blast always hit, perfect for Pokemon seeking defensive resilience and offensive precision.
+
+# ID: 662
+Higher Rank grants elite Pokemon authority to make priority moves more devastating. When using moves with increased priority (+1 or higher), attacks receive a 20% damage boost, reflecting superior tactical positioning and refined combat techniques that strike harder during decisive moments.
+
+# ID: 815
+When this Pokémon's moves land critical hits, they completely ignore type resistances and defensive abilities that would normally reduce damage. Super-effective moves stay super-effective, but not-very-effective and immune matchups are treated as neutral damage instead.
+
+# ID: 816
+Mental Pollution renders all opposing Pokémon's abilities completely inactive while they are confused. Only other Pokémon with Mental Pollution remain unaffected. This creates powerful disruption against ability-reliant teams but requires inflicting confusion first to take effect.
+
+# ID: 817
+Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokémon is confused, making it a double-edged defensive tool that trades control for survivability.
+
+# ID: 818
+Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.
+
+# ID: 819
+Serpent Bind gives attacks a 50% chance to trap the target, preventing escape or switching. Once trapped, the victim's speed drops by one stage each turn they remain on the field. The binding effect persists until the user faints or switches out, maintaining constant pressure.
+
+# ID: 663
+White Noise combines Static's paralysis-inducing contact effects with Peaceful Rest's restorative healing properties. When opponents make physical contact, this ability has a 30% chance to paralyze the attacker. Additionally, during fog weather, it heals 1/8 max HP at the end of each turn.
+
+# ID: 664
+This ability grants enhanced evasiveness in foggy conditions. When fog weather is active (permanent or temporary), opponents' accuracy against this Pokemon is reduced by 25%, making it harder to hit. This defensive boost makes the Pokemon particularly effective in fog-based weather teams.
+
+# ID: 665
+Elemental Vortex combines the power of Flash Fire and Water Absorb into one devastating ability. When hit by Fire-type attacks, this Pokémon not only negates all damage but gains a 1.5x boost to its Fire-type moves. Meanwhile, Water-type attacks heal 25% HP instead of dealing damage.
+
+# ID: 666
+Snowy Wrath automatically summons hail upon entry while enhancing Ice-type moves with deadly precision. The summoned hail lasts 5 turns and damages non-Ice types each turn. Ice-type moves gain a massive 5x multiplier to their frostbite chance, creating devastating frozen battlefield conditions.
+
+# ID: 667
+Pattern Change is a versatile hybrid ability that combines the strategic benefits of Protean and Shed Skin. The Pokémon adapts its type to match the move it's about to use (once per turn), gaining STAB bonus, while also having a 30% chance to cure status conditions at turn end.
+
+# ID: 820
+Soul Tap drains 10% of maximum HP from all opposing Pokemon at the end of each turn, but only when fog weather is active. Works with both temporary and permanent fog conditions. The drained HP is restored to the user. Magic Guard prevents Pokemon from taking damage from this ability.
+
+# ID: 821
+Scarecrow intimidates foes on entry, lowering Special Attack by one stage. Also curses opponents with bad luck, preventing critical hits and reducing move effect chances below 100% to 0%. Combines entry control with RNG manipulation for consistent battle advantage.
+
+# ID: 822
+Ominous Shroud grants the Pokémon Ghost typing upon entering battle, even if it wasn't Ghost-type originally. Additionally, when at full HP, the Pokémon takes only 50% damage from all attacking moves. This defensive bonus is lost when the Pokémon's HP drops below maximum.
+
+# ID: 823
+Chilling Presence automatically uses a weakened Icy Wind when the Pokémon enters battle, targeting all opposing Pokémon. The move deals 10 base power Ice-type damage instead of the usual 60, but retains perfect accuracy and guaranteed Speed reduction effects.
+
+# ID: 824
+Frostbind inflicts both Frostbite and Disable when an opponent faints from the Pokémon's attacks. Frostbite deals 1/16 max HP damage per turn and halves special attack. Disable prevents the target's last used move for 4 turns. Creates powerful disruption.
+
+# ID: 668
+When this Pokemon's HP drops to 50% or below for the first time, it triggers an adrenaline rush that prevents retreat. The Pokemon gains +1 to all stats but becomes permanently trapped and cannot switch out or flee, committing fully to battle with enhanced power until victory or defeat.
+
+# ID: 669
+This transformation ability activates when exposed to Fire-type moves. Upon contact with fire, Lumbering Sloth's coat ignites, transforming it into its Engulfed form with Fire/Grass typing. The transformation grants significantly higher Attack and new fire-based abilities for combat dominance.
+
+# ID: 670
+Upon entering battle, this Pokemon automatically uses Dragon Cheer to boost critical hit ratio for all allies. Dragon-type allies receive enhanced benefits with +2 critical hit stages. This inspiring draconic presence significantly increases the team's potential for devastating critical strikes.
+
+# ID: 672
+This ability enhances ally combat effectiveness in close-quarters battle scenarios. Allied Pokemon receive a 25% damage boost to their attacks, increasing to 50% when using moves that cause recoil damage. Perfect for aggressive team strategies prioritizing high-risk, high-reward combat.
+
+# ID: 673
+Blood Stain inflicts a permanent bleeding curse that deals 1/16 max HP damage each turn. The curse spreads to opponents making physical contact and grants immunity to all status conditions. However, the affected Pokemon cannot heal through any means, creating a dangerous trade-off.
+
+# ID: 674
+Blood Stigma provides complete status immunity while dealing devastating 2x damage to bleeding opponents. The Pokemon becomes immune to all status conditions and doubles its damage output against targets afflicted with bleeding or Blood Stain ability, creating powerful predatory combat advantages.
+
+# ID: 675
+Max Acceleration combines Speed Boost with Slipstream for devastating momentum. This Pokemon gains +1 Speed stage at the end of each turn after the first. When calculating attack damage, adds 20% of its Speed stat to Attack or Special Attack, creating exponential offensive growth throughout battle.
+
+# ID: 676
+Sidewinder grants the coiled status upon entry, giving all biting moves +1 priority. After successfully using a biting move to KO an opponent, the Pokemon immediately regains the coiled status. This creates a cycle of priority attacks for aggressive hunters specializing in bite-based combat.
+
+# ID: 677
+Upon entering battle, Petrify intimidates all opposing Pokemon with a terrifying presence that lowers their Attack by one stage while simultaneously clearing all their positive stat boosts. This dual intimidation effect makes it an excellent counter to setup sweepers and offensive threats.
+
+# ID: 678
+Fluffiest provides exceptional defense against contact moves by reducing their damage to just 25% of normal power. However, this fluffy protection comes with a critical weakness - Fire-type attacks deal quadruple damage, making the Pokemon extremely vulnerable to flames and heat-based attacks.

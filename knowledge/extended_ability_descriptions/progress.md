@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 609
+Completed: 746
 In Progress: 0
 
 ## Progress Tracking
@@ -385,29 +385,29 @@ In Progress: 0
 | 374 | Big Leaves                 | ✅          | ✅       | ❌        | -               |
 | 375 | Precise Fist               | ✅          | ✅       | ❌        | -               |
 | 376 | Deadeye                    | ✅          | ✅       | ❌        | -               |
-| 377 | Ability 377                | ❌          | ❌       | ❌        | -               |
-| 378 | Ability 378                | ❌          | ❌       | ❌        | -               |
-| 379 | Ability 379                | ❌          | ❌       | ❌        | -               |
-| 380 | Ability 380                | ❌          | ❌       | ❌        | -               |
-| 381 | Ability 381                | ❌          | ❌       | ❌        | -               |
-| 382 | Ability 382                | ❌          | ❌       | ❌        | -               |
-| 383 | Ability 383                | ❌          | ❌       | ❌        | -               |
-| 384 | Low Blow                   | ✅          | ✅       | ❌        | 283             |
-| 385 | Ability 385                | ❌          | ❌       | ❌        | -               |
-| 386 | Ability 386                | ❌          | ❌       | ❌        | -               |
-| 387 | Ability 387                | ❌          | ❌       | ❌        | -               |
-| 388 | Ability 388                | ❌          | ❌       | ❌        | -               |
-| 389 | Ability 389                | ❌          | ❌       | ❌        | -               |
-| 390 | Ability 390                | ❌          | ❌       | ❌        | -               |
-| 391 | Ability 391                | ❌          | ❌       | ❌        | -               |
-| 392 | Ability 392                | ❌          | ❌       | ❌        | -               |
-| 393 | Ability 393                | ❌          | ❌       | ❌        | -               |
-| 394 | Ability 394                | ❌          | ❌       | ❌        | -               |
-| 395 | Ability 395                | ❌          | ❌       | ❌        | -               |
-| 396 | Ability 396                | ❌          | ❌       | ❌        | -               |
-| 397 | Ability 397                | ❌          | ❌       | ❌        | -               |
-| 398 | Ability 398                | ❌          | ❌       | ❌        | -               |
-| 399 | Ability 399                | ❌          | ❌       | ❌        | -               |
+| 377 | Artillery                  | ✅          | ✅       | ❌        | -               |
+| 378 | Amplifier                  | ✅          | ✅       | ❌        | -               |
+| 379 | Ice Dew                    | ✅          | ✅       | ❌        | -               |
+| 380 | Sun Worship                | ✅          | ✅       | ❌        | -               |
+| 381 | Pollinate                  | ✅          | ✅       | ❌        | -               |
+| 382 | Volcano Rage               | ✅          | ✅       | ❌        | -               |
+| 383 | Cold Rebound               | ✅          | ✅       | ❌        | -               |
+| 384 | Low Blow                   | ✅          | ✅       | ❌        | -               |
+| 385 | Air Lock                   | ✅          | ✅       | ❌        | -               |
+| 386 | Spectral Shroud            | ✅          | ✅       | ❌        | -               |
+| 387 | Discipline                 | ✅          | ✅       | ❌        | -               |
+| 388 | Thundercall                | ✅          | ✅       | ❌        | -               |
+| 389 | Marine Apex                | ✅          | ✅       | ❌        | -               |
+| 390 | Mighty Horn                | ✅          | ✅       | ❌        | -               |
+| 391 | Hardened Sheath            | ✅          | ✅       | ❌        | -               |
+| 392 | Arctic Fur                 | ✅          | ✅       | ❌        | -               |
+| 393 | Spectralize                | ✅          | ✅       | ❌        | -               |
+| 394 | Lethargy                   | ✅          | ✅       | ❌        | -               |
+| 395 | Iron Barrage               | ✅          | ✅       | ❌        | -               |
+| 396 | Liquid Voice               | ✅          | ✅       | ❌        | -               |
+| 397 | Pyro Shells                | ✅          | ✅       | ❌        | -               |
+| 398 | Fungal Infection           | ✅          | ✅       | ❌        | -               |
+| 399 | Parry                      | ✅          | ✅       | ❌        | -               |
 | 400 | Scrapyard                  | ✅          | ✅       | ❌        | 292             |
 | 401 | Loose Quills               | ✅          | ✅       | ❌        | 282             |
 | 402 | Toxic Debris               | ✅          | ✅       | ❌        | 298             |
@@ -638,55 +638,55 @@ In Progress: 0
 | 627 | Ethereal Rush              | ✅          | ✅       | ❌        | 288             |
 | 628 | Cute Antecedence           | ✅          | ✅       | ❌        | 292             |
 | 629 | Recurring Nightmare        | ✅          | ✅       | ❌        | 291             |
-| 630 | Ability 630                | ❌          | ❌       | ❌        | -               |
-| 631 | Ability 631                | ❌          | ❌       | ❌        | -               |
-| 632 | Ability 632                | ❌          | ❌       | ❌        | -               |
-| 633 | Ability 633                | ❌          | ❌       | ❌        | -               |
+| 630 | Menacing Situation         | ✅          | ✅       | ❌        | 291             |
+| 631 | Shiny Lightning            | ✅          | ✅       | ❌        | 284             |
+| 632 | Terrify                    | ✅          | ✅       | ❌        | None            |
+| 633 | Ice Downfall               | ✅          | ✅       | ❌        | 280             |
 | 634 | Last Stand                 | ✅          | ✅       | ❌        | 295             |
-| 635 | Ability 635                | ❌          | ❌       | ❌        | -               |
-| 636 | Ability 636                | ❌          | ❌       | ❌        | -               |
-| 637 | Ability 637                | ❌          | ❌       | ❌        | -               |
-| 638 | Ability 638                | ❌          | ❌       | ❌        | -               |
-| 639 | Ability 639                | ❌          | ❌       | ❌        | -               |
+| 635 | Pyroclastic Flow           | ✅          | ✅       | ❌        | 284             |
+| 636 | Blood Bath                 | ✅          | ✅       | ❌        | 288             |
+| 637 | Battle Aura                | ✅          | ✅       | ❌        | 289             |
+| 638 | Bloodlust                  | ✅          | ✅       | ❌        | 295             |
+| 639 | Piercing Solo              | ✅          | ✅       | ❌        | 284             |
 | 640 | Rhythmic                   | ✅          | ✅       | ❌        | 295             |
-| 641 | Ability 641                | ❌          | ❌       | ❌        | -               |
-| 642 | Ability 642                | ❌          | ❌       | ❌        | -               |
-| 643 | Ability 643                | ❌          | ❌       | ❌        | -               |
+| 641 | Chunky Bass Line           | ✅          | ✅       | ❌        | 291             |
+| 642 | Jackhammer                 | ✅          | ✅       | ❌        | 291             |
+| 643 | Last Stand                 | ✅          | ✅       | ❌        | 291             |
 | 644 | Ice Cold Hunter            | ✅          | ✅       | ❌        | 291             |
-| 645 | Ability 645                | ❌          | ❌       | ❌        | -               |
-| 646 | Ability 646                | ❌          | ❌       | ❌        | -               |
-| 647 | Ability 647                | ❌          | ❌       | ❌        | -               |
-| 648 | Ability 648                | ❌          | ❌       | ❌        | -               |
-| 649 | Ability 649                | ❌          | ❌       | ❌        | -               |
-| 650 | Ability 650                | ❌          | ❌       | ❌        | -               |
-| 651 | Ability 651                | ❌          | ❌       | ❌        | -               |
-| 652 | Ability 652                | ❌          | ❌       | ❌        | -               |
-| 653 | Ability 653                | ❌          | ❌       | ❌        | -               |
-| 654 | Ability 654                | ❌          | ❌       | ❌        | -               |
-| 655 | Ability 655                | ❌          | ❌       | ❌        | -               |
-| 656 | Ability 656                | ❌          | ❌       | ❌        | -               |
-| 657 | Ability 657                | ❌          | ❌       | ❌        | -               |
-| 658 | Ability 658                | ❌          | ❌       | ❌        | -               |
-| 659 | Ability 659                | ❌          | ❌       | ❌        | -               |
-| 660 | Ability 660                | ❌          | ❌       | ❌        | -               |
-| 661 | Ability 661                | ❌          | ❌       | ❌        | -               |
-| 662 | Ability 662                | ❌          | ❌       | ❌        | -               |
-| 663 | Ability 663                | ❌          | ❌       | ❌        | -               |
-| 664 | Ability 664                | ❌          | ❌       | ❌        | -               |
-| 665 | Ability 665                | ❌          | ❌       | ❌        | -               |
-| 666 | Ability 666                | ❌          | ❌       | ❌        | -               |
-| 667 | Ability 667                | ❌          | ❌       | ❌        | -               |
-| 668 | Ability 668                | ❌          | ❌       | ❌        | -               |
-| 669 | Ability 669                | ❌          | ❌       | ❌        | -               |
-| 670 | Ability 670                | ❌          | ❌       | ❌        | -               |
+| 645 | Soul Crusher               | ✅          | ✅       | ❌        | 299             |
+| 646 | Arc Flash                  | ✅          | ✅       | ❌        | 297             |
+| 647 | Unicorn                    | ✅          | ✅       | ❌        | 297             |
+| 648 | On the Prowl               | ✅          | ✅       | ❌        | 299             |
+| 649 | Pretentious                | ✅          | ✅       | ❌        | None            |
+| 650 | Venoblaze Pincers          | ✅          | ✅       | ❌        | 299             |
+| 651 | Eternal Blessing           | ✅          | ✅       | ❌        | 296             |
+| 652 | Sugar Rush                 | ✅          | ✅       | ❌        | 285             |
+| 653 | Peaceful Rest              | ✅          | ✅       | ❌        | 282             |
+| 654 | White Noise                | ✅          | ✅       | ❌        | 291             |
+| 655 | Smokey Maneuvers           | ✅          | ✅       | ❌        | 290             |
+| 656 | Tag                        | ✅          | ✅       | ❌        | 280             |
+| 657 | Power Metal                | ✅          | ✅       | ❌        | 298             |
+| 658 | Power Edge                 | ✅          | ✅       | ❌        | 290             |
+| 659 | Superconductor             | ✅          | ✅       | ❌        | 280             |
+| 660 | Ultra Instinct             | ✅          | ✅       | ❌        | 291             |
+| 661 | Unlocked Potential         | ✅          | ✅       | ❌        | 279             |
+| 662 | Higher Rank                | ✅          | ✅       | ❌        | 292             |
+| 663 | White Noise                | ✅          | ✅       | ❌        | 296             |
+| 664 | Smokey Maneuvers           | ✅          | ✅       | ❌        | 282             |
+| 665 | Elemental Vortex           | ✅          | ✅       | ❌        | 286             |
+| 666 | Snowy Wrath                | ✅          | ✅       | ❌        | 281             |
+| 667 | Pattern Change             | ✅          | ✅       | ❌        | 280             |
+| 668 | No Turning Back            | ✅          | ✅       | ❌        | 285             |
+| 669 | Flammable Coat             | ✅          | ✅       | ❌        | 298             |
+| 670 | Draco Morale               | ✅          | ✅       | ❌        | 298             |
 | 671 | Bad Omen                   | ✅          | ✅       | ❌        | 286             |
-| 672 | Ability 672                | ❌          | ❌       | ❌        | -               |
-| 673 | Ability 673                | ❌          | ❌       | ❌        | -               |
-| 674 | Ability 674                | ❌          | ❌       | ❌        | -               |
-| 675 | Ability 675                | ❌          | ❌       | ❌        | -               |
-| 676 | Ability 676                | ❌          | ❌       | ❌        | -               |
-| 677 | Ability 677                | ❌          | ❌       | ❌        | -               |
-| 678 | Ability 678                | ❌          | ❌       | ❌        | -               |
+| 672 | Mosh Pit                   | ✅          | ✅       | ❌        | 287             |
+| 673 | Blood Stain                | ✅          | ✅       | ❌        | 299             |
+| 674 | Blood Stigma               | ✅          | ✅       | ❌        | 295             |
+| 675 | Max Acceleration           | ✅          | ✅       | ❌        | 300             |
+| 676 | Sidewinder                 | ✅          | ✅       | ❌        | 290             |
+| 677 | Petrify                    | ✅          | ✅       | ❌        | 289             |
+| 678 | Fluffiest                  | ✅          | ✅       | ❌        | 299             |
 | 679 | Ability 679                | ❌          | ❌       | ❌        | -               |
 | 680 | Ability 680                | ❌          | ❌       | ❌        | -               |
 | 681 | Ability 681                | ❌          | ❌       | ❌        | -               |
@@ -808,73 +808,73 @@ In Progress: 0
 | 797 | Ability 797                | ❌          | ❌       | ❌        | -               |
 | 798 | Ability 798                | ❌          | ❌       | ❌        | -               |
 | 799 | Ability 799                | ❌          | ❌       | ❌        | -               |
-| 800 | Ability 800                | ❌          | ❌       | ❌        | -               |
-| 801 | Ability 801                | ❌          | ❌       | ❌        | -               |
-| 802 | Ability 802                | ❌          | ❌       | ❌        | -               |
-| 803 | Ability 803                | ❌          | ❌       | ❌        | -               |
-| 804 | Ability 804                | ❌          | ❌       | ❌        | -               |
-| 805 | Ability 805                | ❌          | ❌       | ❌        | -               |
-| 806 | Ability 806                | ❌          | ❌       | ❌        | -               |
-| 807 | Ability 807                | ❌          | ❌       | ❌        | -               |
-| 808 | Ability 808                | ❌          | ❌       | ❌        | -               |
-| 809 | Ability 809                | ❌          | ❌       | ❌        | -               |
-| 810 | Ability 810                | ❌          | ❌       | ❌        | -               |
-| 811 | Ability 811                | ❌          | ❌       | ❌        | -               |
-| 812 | Ability 812                | ❌          | ❌       | ❌        | -               |
-| 813 | Ability 813                | ❌          | ❌       | ❌        | -               |
-| 814 | Ability 814                | ❌          | ❌       | ❌        | -               |
-| 815 | Ability 815                | ❌          | ❌       | ❌        | -               |
-| 816 | Ability 816                | ❌          | ❌       | ❌        | -               |
-| 817 | Ability 817                | ❌          | ❌       | ❌        | -               |
-| 818 | Ability 818                | ❌          | ❌       | ❌        | -               |
-| 819 | Ability 819                | ❌          | ❌       | ❌        | -               |
-| 820 | Ability 820                | ❌          | ❌       | ❌        | -               |
-| 821 | Ability 821                | ❌          | ❌       | ❌        | -               |
-| 822 | Ability 822                | ❌          | ❌       | ❌        | -               |
-| 823 | Ability 823                | ❌          | ❌       | ❌        | -               |
-| 824 | Ability 824                | ❌          | ❌       | ❌        | -               |
-| 825 | Ability 825                | ❌          | ❌       | ❌        | -               |
-| 826 | Ability 826                | ❌          | ❌       | ❌        | -               |
-| 827 | Ability 827                | ❌          | ❌       | ❌        | -               |
-| 828 | Ability 828                | ❌          | ❌       | ❌        | -               |
-| 829 | Ability 829                | ❌          | ❌       | ❌        | -               |
-| 830 | Ability 830                | ❌          | ❌       | ❌        | -               |
-| 831 | Ability 831                | ❌          | ❌       | ❌        | -               |
-| 832 | Ability 832                | ❌          | ❌       | ❌        | -               |
-| 833 | Ability 833                | ❌          | ❌       | ❌        | -               |
-| 834 | Ability 834                | ❌          | ❌       | ❌        | -               |
-| 835 | Ability 835                | ❌          | ❌       | ❌        | -               |
-| 836 | Ability 836                | ❌          | ❌       | ❌        | -               |
-| 837 | Ability 837                | ❌          | ❌       | ❌        | -               |
-| 838 | Ability 838                | ❌          | ❌       | ❌        | -               |
-| 839 | Ability 839                | ❌          | ❌       | ❌        | -               |
-| 840 | Ability 840                | ❌          | ❌       | ❌        | -               |
-| 841 | Ability 841                | ❌          | ❌       | ❌        | -               |
-| 842 | Ability 842                | ❌          | ❌       | ❌        | -               |
-| 843 | Ability 843                | ❌          | ❌       | ❌        | -               |
-| 844 | Ability 844                | ❌          | ❌       | ❌        | -               |
-| 845 | Ability 845                | ❌          | ❌       | ❌        | -               |
-| 846 | Ability 846                | ❌          | ❌       | ❌        | -               |
-| 847 | Ability 847                | ❌          | ❌       | ❌        | -               |
-| 848 | Ability 848                | ❌          | ❌       | ❌        | -               |
-| 849 | Ability 849                | ❌          | ❌       | ❌        | -               |
-| 850 | Ability 850                | ❌          | ❌       | ❌        | -               |
-| 851 | Ability 851                | ❌          | ❌       | ❌        | -               |
-| 852 | Ability 852                | ❌          | ❌       | ❌        | -               |
-| 853 | Ability 853                | ❌          | ❌       | ❌        | -               |
-| 854 | Ability 854                | ❌          | ❌       | ❌        | -               |
-| 855 | Ability 855                | ❌          | ❌       | ❌        | -               |
-| 856 | Ability 856                | ❌          | ❌       | ❌        | -               |
-| 857 | Ability 857                | ❌          | ❌       | ❌        | -               |
-| 858 | Ability 858                | ❌          | ❌       | ❌        | -               |
-| 859 | Ability 859                | ❌          | ❌       | ❌        | -               |
-| 860 | Ability 860                | ❌          | ❌       | ❌        | -               |
-| 861 | Ability 861                | ❌          | ❌       | ❌        | -               |
-| 862 | Ability 862                | ❌          | ❌       | ❌        | -               |
-| 863 | Ability 863                | ❌          | ❌       | ❌        | -               |
-| 864 | Ability 864                | ❌          | ❌       | ❌        | -               |
-| 865 | Ability 865                | ❌          | ❌       | ❌        | -               |
-| 866 | Ability 866                | ❌          | ❌       | ❌        | -               |
-| 867 | Ability 867                | ❌          | ❌       | ❌        | -               |
-| 868 | Ability 868                | ❌          | ❌       | ❌        | -               |
-| 869 | Ability 869                | ❌          | ❌       | ❌        | -               |
+| 800 | Deviate                    | ✅          | ✅       | ❌        | 293             |
+| 801 | Sun's Bounty               | ✅          | ✅       | ❌        | 295             |
+| 802 | Rite Of Spring             | ✅          | ✅       | ❌        | 295             |
+| 803 | Headstrong                 | ✅          | ✅       | ❌        | 293             |
+| 804 | Firefighter                | ✅          | ✅       | ❌        | 289             |
+| 805 | Sepia Lens                 | ✅          | ✅       | ❌        | 293             |
+| 806 | Super Sniper               | ✅          | ✅       | ❌        | 289             |
+| 807 | Woodland Curse             | ✅          | ✅       | ❌        | 288             |
+| 808 | Malodor                    | ✅          | ✅       | ❌        | 294             |
+| 809 | Blur                       | ✅          | ✅       | ❌        | 290             |
+| 810 | Elude                      | ✅          | ✅       | ❌        | 286             |
+| 811 | Drake Of Rage              | ✅          | ✅       | ❌        | 297             |
+| 812 | Reverbate                  | ✅          | ✅       | ❌        | 284             |
+| 813 | Mixed Martial Arts         | ✅          | ✅       | ❌        | 298             |
+| 814 | Strategic Pause            | ✅          | ✅       | ❌        | 295             |
+| 815 | Overrule                   | ✅          | ✅       | ❌        | 293             |
+| 816 | Mental Pollution (N)       | ✅          | ✅       | ❌        | 297             |
+| 817 | Madness Enhancement (N)    | ✅          | ✅       | ❌        | 295             |
+| 818 | Tentalock (N)              | ✅          | ✅       | ❌        | 289             |
+| 819 | Serpent Bind (N)           | ✅          | ✅       | ❌        | 297             |
+| 820 | Soul Tap                   | ✅          | ✅       | ❌        | 292             |
+| 821 | Scarecrow                  | ✅          | ✅       | ❌        | 295             |
+| 822 | Ominous Shroud             | ✅          | ✅       | ❌        | 295             |
+| 823 | Chilling Presence          | ✅          | ✅       | ❌        | 292             |
+| 824 | Frostbind                  | ✅          | ✅       | ❌        | 295             |
+| 825 | Glacial Ghost              | ✅          | ✅       | ❌        | 296             |
+| 826 | Tender Affection           | ✅          | ✅       | ❌        | 294             |
+| 827 | Wonder Scale               | ✅          | ✅       | ❌        | 293             |
+| 828 | Overzealous (N)            | ✅          | ✅       | ❌        | 285             |
+| 829 | Stainless Steel            | ✅          | ✅       | ❌        | 297             |
+| 830 | Temporal Rupture (N)       | ✅          | ✅       | ❌        | 294             |
+| 831 | Grass Flute                | ✅          | ✅       | ❌        | 288             |
+| 832 | Hemotoxin                  | ✅          | ✅       | ❌        | 289             |
+| 833 | Harukaze (N)               | ✅          | ✅       | ❌        | 282             |
+| 834 | Toxic Surge                | ✅          | ✅       | ❌        | 296             |
+| 835 | Atlantic Ruler             | ✅          | ✅       | ❌        | 290             |
+| 836 | Biofilm                    | ✅          | ✅       | ❌        | 295             |
+| 837 | Chokehold (N)              | ✅          | ✅       | ❌        | 298             |
+| 838 | Guardian Coat              | ✅          | ✅       | ❌        | 294             |
+| 839 | Neutralizing Fog           | ✅          | ✅       | ❌        | 290             |
+| 840 | Poison Quills              | ✅          | ✅       | ❌        | 294             |
+| 841 | Draconic Might             | ✅          | ✅       | ❌        | 285             |
+| 842 | Festivities (N)            | ✅          | ✅       | ❌        | 296             |
+| 843 | Fey Flight                 | ✅          | ✅       | ❌        | 289             |
+| 844 | Best Offense               | ✅          | ✅       | ❌        | 296             |
+| 845 | Impaler                    | ✅          | ✅       | ❌        | 296             |
+| 846 | Magus Blades               | ✅          | ✅       | ❌        | 293             |
+| 847 | Lightning Born             | ✅          | ✅       | ❌        | 293             |
+| 848 | Superheavy (N)             | ✅          | ✅       | ❌        | 286             |
+| 849 | World Serpent              | ✅          | ✅       | ❌        | 284             |
+| 850 | Lucky Wings                | ✅          | ✅       | ❌        | 286             |
+| 851 | Komodo                     | ✅          | ✅       | ❌        | 287             |
+| 852 | Envenom                    | ✅          | ✅       | ❌        | 289             |
+| 853 | Purple Haze                | ✅          | ✅       | ❌        | 290             |
+| 854 | Gnashing Cannon            | ✅          | ✅       | ❌        | 292             |
+| 855 | Hyper Cleanse              | ✅          | ✅       | ❌        | 296             |
+| 856 | Molten Coat                | ✅          | ✅       | ❌        | 295             |
+| 857 | Royal Decree               | ✅          | ✅       | ❌        | 285             |
+| 858 | Breezy Neigh               | ✅          | ✅       | ❌        | 287             |
+| 859 | Dreamscape                 | ✅          | ✅       | ❌        | 298             |
+| 860 | Haste Makes Waste          | ✅          | ✅       | ❌        | 299             |
+| 861 | Hungry Maws                | ✅          | ✅       | ❌        | 295             |
+| 862 | Thermal Slide              | ✅          | ✅       | ❌        | 295             |
+| 863 | Thermomancy                | ✅          | ✅       | ❌        | 287             |
+| 864 | Chuckster (N)              | ✅          | ✅       | ❌        | 291             |
+| 865 | Heat Sink                  | ✅          | ✅       | ❌        | 283             |
+| 866 | Relic Stone                | ✅          | ✅       | ❌        | 295             |
+| 867 | Supercell                  | ✅          | ✅       | ❌        | 294             |
+| 868 | Lightning Aspect           | ✅          | ✅       | ❌        | 280             |
+| 869 | Blistering Sun             | ✅          | ✅       | ❌        | 284             |

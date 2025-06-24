@@ -1,0 +1,38 @@
+---
+id: 836
+name: Biofilm
+status: ai-generated
+character_count: 295
+---
+
+# Biofilm
+
+## Summary
+Biofilm provides a significant defensive boost to the user's Special Defense when Toxic Terrain is active on the battlefield.
+
+## Detailed Mechanics
+
+### Special Defense Boost
+- **Boost Amount**: 50% increase (1.5x multiplier)
+- **Condition**: Must be on Toxic Terrain
+- **Affected by Terrain**: User must be grounded (not Flying-type, Levitating, or holding Air Balloon)
+- **Stat Stage**: This is a direct stat multiplier, not a stat stage change
+- **Stacks**: The multiplier applies to the final Special Defense value after all other modifiers
+
+### Terrain Interaction
+- Only activates when the battlefield has Toxic Terrain active
+- If Toxic Terrain ends or is replaced by another terrain, the boost immediately disappears
+- The ability checks terrain affection status, so Flying-types and Levitate users won't benefit
+
+### Battle Applications
+- Synergizes perfectly with Toxic Surge ability users who set Toxic Terrain on entry
+- Makes the user significantly more resilient to special attacks in poison-themed teams
+- No effect in battles without Toxic Terrain, making it situational but powerful
+
+## Pokemon with Biofilm
+- **Vileplume**: Has Biofilm as one of its innate abilities, complementing its Poison typing
+
+## Extended Description
+"Secretes a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves."
+
+**Character count**: 295
