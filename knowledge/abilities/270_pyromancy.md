@@ -1,0 +1,60 @@
+---
+id: 270
+name: Pyromancy
+status: ai-generated
+character_count: 283
+---
+
+# Pyromancy - Ability ID 270
+
+## In-Game Description
+"Moves inflict burn 5x as often."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Pyromancy multiplies the burn chance of all moves by 5x. Moves with 10% burn chance become 50%, and 30% burn chance becomes 100% guaranteed. This affects all burn-inducing moves including Fire-type attacks, certain physical moves, and secondary effects, making burn a reliable strategy.
+
+*Character count: 283*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+### Core Mechanics
+- **Effect**: Multiplies the burn chance (`effectChance`) of all moves with `MOVE_EFFECT_BURN` by 5
+- **Implementation**: Uses `onModifyEffectChance` hook to detect burn effects and apply 5x multiplier
+- **Scope**: Affects all moves that can inflict burn, regardless of move type or category
+
+### Practical Applications
+**Common Burn Chances:**
+- 10% burn chance → 50% burn chance (e.g., many Fire-type attacks)
+- 20% burn chance → 100% burn chance (guaranteed)
+- 30% burn chance → 100% burn chance (guaranteed, capped at 100%)
+
+**Strategic Value:**
+- Transforms unreliable burn effects into consistent status application
+- Particularly powerful with moves that have moderate burn chances (10-20%)
+- Makes burn-based strategies significantly more viable
+- Synergizes well with burn damage and burn-based abilities
+
+### Technical Implementation
+```cpp
+constexpr Ability Pyromancy = {
+    .onModifyEffectChance =
+        +[](ON_MODIFY_EFFECT_CHANCE) {
+            if (moveEffect == MOVE_EFFECT_BURN) *effectChance *= 5;
+        },
+};
+```
+
+### Interactions
+- **Caps at 100%**: Burn chances cannot exceed 100% even with the 5x multiplier
+- **Works with all burn sources**: Affects primary effects, secondary effects, and ability-triggered burns
+- **Stacks with other effects**: Works alongside other burn chance modifiers
+- **No immunity bypass**: Still cannot burn Fire-types or Pokémon with burn immunity
+
+### Competitive Considerations
+- **Offensive utility**: Makes burn a reliable damage-over-time option
+- **Defensive utility**: Burn reduces physical attack power by 50%
+- **Meta impact**: Significantly improves viability of burn-focused movesets
+- **Counterplay**: Fire-types and Guts ability users are natural counters

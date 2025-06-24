@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 869
-Completed: 278
+Completed: 318
 In Progress: 0
 
 ## Progress Tracking
@@ -242,43 +242,43 @@ In Progress: 0
 | 231 | Shadow Shield              | ✅          | ✅       | ❌        | 292             |
 | 232 | Prism Armor                | ✅          | ✅       | ❌        | 295             |
 | 233 | Neuroforce                 | ✅          | ✅       | ❌        | 288             |
-| 234 | Ability 234                | ❌          | ❌       | ❌        | -               |
-| 235 | Ability 235                | ❌          | ❌       | ❌        | -               |
-| 236 | Ability 236                | ❌          | ❌       | ❌        | -               |
-| 237 | Ability 237                | ❌          | ❌       | ❌        | -               |
-| 238 | Ability 238                | ❌          | ❌       | ❌        | -               |
-| 239 | Ability 239                | ❌          | ❌       | ❌        | -               |
-| 240 | Ability 240                | ❌          | ❌       | ❌        | -               |
+| 234 | Intrepid Sword             | ✅          | ✅       | ❌        | 287             |
+| 235 | Dauntless Shield           | ✅          | ✅       | ❌        | 295             |
+| 236 | Libero                     | ✅          | ✅       | ❌        | 286             |
+| 237 | Ball Fetch                 | ✅          | ✅       | ❌        | 299             |
+| 238 | Cotton Down                | ✅          | ✅       | ❌        | 295             |
+| 239 | Propeller Tail             | ✅          | ✅       | ❌        | 289             |
+| 240 | Mirror Armor               | ✅          | ✅       | ❌        | 289             |
 | 241 | Gulp Missile               | ✅          | ✅       | ❌        | 297             |
-| 242 | Ability 242                | ❌          | ❌       | ❌        | -               |
-| 243 | Ability 243                | ❌          | ❌       | ❌        | -               |
-| 244 | Ability 244                | ❌          | ❌       | ❌        | -               |
-| 245 | Ability 245                | ❌          | ❌       | ❌        | -               |
-| 246 | Ability 246                | ❌          | ❌       | ❌        | -               |
-| 247 | Ability 247                | ❌          | ❌       | ❌        | -               |
-| 248 | Ability 248                | ❌          | ❌       | ❌        | -               |
-| 249 | Ability 249                | ❌          | ❌       | ❌        | -               |
-| 250 | Ability 250                | ❌          | ❌       | ❌        | -               |
-| 251 | Ability 251                | ❌          | ❌       | ❌        | -               |
-| 252 | Ability 252                | ❌          | ❌       | ❌        | -               |
-| 253 | Ability 253                | ❌          | ❌       | ❌        | -               |
-| 254 | Ability 254                | ❌          | ❌       | ❌        | -               |
-| 255 | Ability 255                | ❌          | ❌       | ❌        | -               |
+| 242 | Stalwart                   | ✅          | ✅       | ❌        | 288             |
+| 243 | Steam Engine               | ✅          | ✅       | ❌        | 286             |
+| 244 | Punk Rock                  | ✅          | ✅       | ❌        | 289             |
+| 245 | Sand Spit                  | ✅          | ✅       | ❌        | 289             |
+| 246 | Ice Scales                 | ✅          | ✅       | ❌        | 292             |
+| 247 | Ripen                      | ✅          | ✅       | ❌        | 282             |
+| 248 | Ice Face                   | ✅          | ✅       | ❌        | 293             |
+| 249 | Power Spot                 | ✅          | ✅       | ❌        | 297             |
+| 250 | Mimicry                    | ✅          | ✅       | ❌        | 299             |
+| 251 | Screen Cleaner             | ✅          | ✅       | ❌        | 291             |
+| 252 | Steely Spirit              | ✅          | ✅       | ❌        | 285             |
+| 253 | Perish Body                | ✅          | ✅       | ❌        | 287             |
+| 254 | Wandering Spirit           | ✅          | ✅       | ❌        | 293             |
+| 255 | Gorilla Tactics            | ✅          | ✅       | ❌        | 294             |
 | 256 | Neutralizing Gas           | ✅          | ✅       | ❌        | 288             |
-| 257 | Ability 257                | ❌          | ❌       | ❌        | -               |
-| 258 | Ability 258                | ❌          | ❌       | ❌        | -               |
-| 259 | Ability 259                | ❌          | ❌       | ❌        | -               |
-| 260 | Ability 260                | ❌          | ❌       | ❌        | -               |
-| 261 | Ability 261                | ❌          | ❌       | ❌        | -               |
-| 262 | Ability 262                | ❌          | ❌       | ❌        | -               |
-| 263 | Ability 263                | ❌          | ❌       | ❌        | -               |
-| 264 | Ability 264                | ❌          | ❌       | ❌        | -               |
-| 265 | Ability 265                | ❌          | ❌       | ❌        | -               |
-| 266 | Ability 266                | ❌          | ❌       | ❌        | -               |
-| 267 | Ability 267                | ❌          | ❌       | ❌        | -               |
-| 268 | Ability 268                | ❌          | ❌       | ❌        | -               |
-| 269 | Ability 269                | ❌          | ❌       | ❌        | -               |
-| 270 | Ability 270                | ❌          | ❌       | ❌        | -               |
+| 257 | Pastel Veil                | ✅          | ✅       | ❌        | 287             |
+| 258 | Hunger Switch              | ✅          | ✅       | ❌        | 282             |
+| 259 | Quick Draw                 | ✅          | ✅       | ❌        | 298             |
+| 260 | Unseen Fist                | ✅          | ✅       | ❌        | 299             |
+| 261 | Curious Medicine           | ✅          | ✅       | ❌        | 290             |
+| 262 | Transistor                 | ✅          | ✅       | ❌        | 290             |
+| 263 | Dragons Maw                | ✅          | ✅       | ❌        | 284             |
+| 264 | Chilling Neigh             | ✅          | ✅       | ❌        | 292             |
+| 265 | Grim Neigh                 | ✅          | ✅       | ❌        | 294             |
+| 266 | As One Ice Rider           | ✅          | ✅       | ❌        | 289             |
+| 267 | As One Shadow Rider        | ✅          | ✅       | ❌        | 292             |
+| 268 | Chloroplast                | ✅          | ✅       | ❌        | 295             |
+| 269 | Whiteout                   | ✅          | ✅       | ❌        | 284             |
+| 270 | Pyromancy                  | ✅          | ✅       | ❌        | 283             |
 | 271 | Ability 271                | ❌          | ❌       | ❌        | -               |
 | 272 | Ability 272                | ❌          | ❌       | ❌        | -               |
 | 273 | Power Fists                | ✅          | ✅       | ❌        | 296             |
@@ -297,11 +297,11 @@ In Progress: 0
 | 286 | Ability 286                | ❌          | ❌       | ❌        | -               |
 | 287 | Ability 287                | ❌          | ❌       | ❌        | -               |
 | 288 | Perfectionist              | ✅          | ✅       | ❌        | 282             |
-| 289 | Ability 289                | ❌          | ❌       | ❌        | -               |
-| 290 | Ability 290                | ❌          | ❌       | ❌        | -               |
-| 291 | Ability 291                | ❌          | ❌       | ❌        | -               |
-| 292 | Ability 292                | ❌          | ❌       | ❌        | -               |
-| 293 | Ability 293                | ❌          | ❌       | ❌        | -               |
+| 289 | Growing Tooth              | ✅          | ✅       | ❌        | 284             |
+| 290 | Inflatable                 | ✅          | ✅       | ❌        | 297             |
+| 291 | Aurora Borealis            | ✅          | ✅       | ❌        | 295             |
+| 292 | Avenger                    | ✅          | ✅       | ❌        | 295             |
+| 293 | Let's Roll                 | ✅          | ✅       | ❌        | 287             |
 | 294 | Ability 294                | ❌          | ❌       | ❌        | -               |
 | 295 | Ability 295                | ❌          | ❌       | ❌        | -               |
 | 296 | Ability 296                | ❌          | ❌       | ❌        | -               |

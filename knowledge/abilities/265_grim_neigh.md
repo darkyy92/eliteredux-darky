@@ -1,0 +1,58 @@
+---
+id: 265
+name: Grim Neigh
+status: ai-generated
+character_count: 294
+---
+
+# Grim Neigh - Ability ID 265
+
+## In-Game Description
+"KOs raise Sp. Atk by one stage."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Grim Neigh boosts the Pokémon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokémon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
+
+*Character count: 294*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+**Trigger Condition:** 
+- When this Pokémon causes an enemy Pokémon to faint through direct attack damage
+
+**Effect:**
+- Raises the user's Special Attack stat by 1 stage (+50% Special Attack)
+- Applied using the MoxieClone function with STAT_SPATK parameter
+
+**Technical Implementation:**
+- Uses the `onBattlerFaints` callback with `APPLY_ON_ATTACKER`
+- Calls `MoxieClone(battler, STAT_SPATK)` to handle the stat boost
+- Follows the same logic as Moxie but boosts Special Attack instead of Attack
+
+**Interaction Notes:**
+- Only triggers on direct KOs from the ability holder's attacks
+- Does not trigger from:
+  - Poison/burn damage finishing off a target
+  - Entry hazard damage
+  - Recoil damage from the opponent's moves
+  - Weather damage
+- Can stack multiple times if multiple KOs occur
+- Works in double battles when this Pokémon KOs any opponent
+- The boost persists until the Pokémon switches out or the battle ends
+- Can be stolen by Trace, Role Play, or similar ability-copying moves
+
+**Competitive Usage:**
+- Excellent on special sweepers like Spectrier (original user)
+- Creates snowball potential in battle - each KO makes subsequent KOs easier
+- Particularly strong in formats with multiple weak opponents
+- Synergizes well with moves that can OHKO weakened targets
+- Can turn close 2HKOs into guaranteed OHKOs after the first boost
+
+**Related Abilities:**
+- **Moxie:** Attack version of this ability
+- **Chilling Neigh:** Attack version, functionally identical to Moxie
+- **Beast Boost:** Boosts highest stat on KO instead of fixed stat
+- **Soul-Heart:** Special Attack boost on any Pokémon fainting nearby

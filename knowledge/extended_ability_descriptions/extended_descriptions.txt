@@ -141,3 +141,123 @@ Prism Armor reduces damage from super effective moves by 35%, calculating as a 0
 
 # ID: 233
 Neuroforce grants an additional 1.35x boost to super effective moves. This stacks with type effectiveness multipliers, turning 2x damage into 2.7x and 4x damage into 5.4x. Provides significant power increase against weaknesses while maintaining full effectiveness against neutral targets.
+
+# ID: 234
+Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for physical attackers needing immediate power.
+
+# ID: 235
+Dauntless Shield raises the Pokemon's Defense stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for defensive Pokemon needing immediate bulk.
+
+# ID: 236
+Libero changes the user's type to match the move being used before attacking, but only once per turn. The type change grants STAB bonus to the attack and affects defensive matchups. Cannot activate on Struggle moves. Perfect for unpredictable offensive coverage.
+
+# ID: 237
+Ball Fetch is a utility ability that retrieves the first failed Poké Ball thrown in wild encounters. Completely inactive during trainer battles and provides no combat benefits. Limited to wild battles only, making it purely a quality-of-life feature.
+
+# ID: 238
+Cotton Down triggers when the Pokemon is hit by any damaging move, lowering the Speed of ALL opposing Pokemon by one stage. This affects all enemies on the field in doubles, singles, or multi battles regardless of position. Helpful for speed control support.
+
+# ID: 239
+Propeller Tail boosts the Pokémon's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
+
+# ID: 240
+Mirror Armor reflects all stat-lowering moves and abilities back to the attacker. When an opponent tries to lower this Pokémon's stats, the stat drop affects the attacker instead. Includes moves like Intimidate, Sticky Web, and stat-lowering attacks. The reflection bypasses immunities.
+
+# ID: 242
+Stalwart prevents the Pokémon from being affected by target redirection effects. This includes abilities like Lightning Rod, Storm Drain, and Sap Sipper that draw certain move types, as well as moves like Follow Me and Rage Powder that force attacks to target them instead.
+
+# ID: 243
+Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage, allowing for potential revenge kills or escapes. Works with both direct attacks and indirect damage like entry hazards.
+
+# ID: 244
+Punk Rock amplifies the user's sound-based attacks by 30% while providing exceptional acoustic defense, reducing incoming sound move damage by 50%. This dual nature makes sound specialists both formidable attackers and resilient defenders against sonic warfare.
+
+# ID: 245
+Sand Spit activates when the Pokémon takes damage from any attack. Upon activation, it summons an 8-turn sandstorm that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage and benefits from all sandstorm-based abilities.
+
+# ID: 246
+Ice Scales provides exceptional special defensive utility by halving all incoming special attack damage. Unlike abilities that boost stats, this damage reduction occurs after stat calculations, making it incredibly reliable. Can be suppressed by Mold Breaker-type abilities.
+
+# ID: 247
+Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages instead of 1, resist berries reduce super-effective damage by 75% instead of 50%, and PP-restoring berries restore twice as much PP.
+
+# ID: 248
+Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. Under hail weather, the Pokemon regenerates its Ice Face form, regaining the protective disguise. Only physical attacks trigger the transformation. Special attacks bypass the protection entirely.
+
+# ID: 249
+Power Spot boosts allies' attack power by 30% in double battles. This boost applies to all moves used by partners, including physical, special, and status moves with damage. The user itself receives no boost. Works through screens and substitutes to support teammates consistently.
+
+# ID: 250
+Mimicry changes the Pokémon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokémon switches out, then reverts to original type.
+
+# ID: 251
+Screen Cleaner removes all protective screens from both sides of the battlefield when the Pokémon enters battle. This eliminates Reflect, Light Screen, Aurora Veil, and Smokescreen from both your team and the opponent's team immediately upon switching in.
+
+# ID: 252
+Steely Spirit increases the power of Steel-type moves by 30% for both the user and its allies in battle. This ability supports team coordination by boosting ally Steel attacks, making it valuable in doubles battles and multi-Pokemon encounters for shared offensive power.
+
+# ID: 253
+When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokémon will faint in 3 turns unless they switch out. The defender gains this countdown only if not already affected by Perish Song, providing defensive utility against physical attackers.
+
+# ID: 254
+When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokémon permanently exchange their abilities for the remainder of battle. Cannot affect Pokémon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
+
+# ID: 255
+Gorilla Tactics boosts physical move power by 50% but locks the Pokémon into using the first move selected, preventing other moves until switching out. Similar to Choice Band but as an ability. Forces strategic commitment to one physical attack per battle appearance, rewarding decisive play.
+
+# ID: 257
+Pastel Veil automatically sets up Safeguard for the user's team when the Pokémon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions including burn, freeze, paralysis, poison, and sleep. Does not activate if Safeguard is already active.
+
+# ID: 258
+Automatically switches between Full and Hangry forms at the end of each turn. Morpeko's Full form has different abilities than its Hangry form. This form change cannot be prevented and affects the Pokemon's appearance, typing, and available abilities in battle.
+
+# ID: 259
+Quick Draw gives a 30% chance to move first in any turn, regardless of move priority or Speed stats. When activated, the Pokémon gains priority similar to Quick Claw but as an ability. This priority boost works independently of move selection and can activate on any turn.
+
+# ID: 260
+Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokémon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.
+
+# ID: 261
+Curious Medicine resets all stat changes of the ally when entering in double battles. This clears both positive and negative stat modifications, returning the partner to neutral stat stages. Useful for removing debuffs or resetting setup.
+
+# ID: 262
+Transistor amplifies the power of all Electric-type moves by 50%, making them hit with 1.5x damage. This boost applies to any Electric move the Pokémon uses, including physical moves like Thunder Punch and special moves like Thunderbolt. Stacks multiplicatively with other damage modifiers.
+
+# ID: 263
+Dragon's Maw boosts the power of all Dragon-type moves by 50%. Works with physical and special Dragon attacks including Dragon Pulse, Draco Meteor, Outrage, Dragon Rush, and Dragon Claw. The boost stacks multiplicatively with STAB, weather, and items for devastating Dragon offense.
+
+# ID: 264
+When this Pokémon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
+
+# ID: 265
+Grim Neigh boosts the Pokémon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokémon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
+
+# ID: 266
+As One combines two abilities into one powerful signature move. Unnerve prevents all opposing Pokémon from consuming held items like berries and Focus Sash. Chilling Neigh raises Attack by one stage when this Pokémon knocks out an opponent, stacking for multiple KOs.
+
+# ID: 267
+Combines Unnerve and Grim Neigh effects. The Pokémon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokémon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
+
+# ID: 268
+Chloroplast lets Weather Ball, Solar Beam, Solar Blade, and Growth act as if used in harsh sunlight. Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages each instead of 1.
+
+# ID: 269
+Whiteout boosts the Pokémon's highest attacking stat by 50% during hail weather. The boost applies to either Attack or Special Attack, whichever is higher. Also grants immunity to hail damage. Ideal for mixed attackers in hail teams.
+
+# ID: 270
+Pyromancy multiplies the burn chance of all moves by 5x. Moves with 10% burn chance become 50%, and 30% burn chance becomes 100% guaranteed. This affects all burn-inducing moves including Fire-type attacks, certain physical moves, and secondary effects, making burn a reliable strategy.
+
+# ID: 289
+Growing Tooth boosts the user's Attack by one stage whenever they successfully use a biting move. This includes all fang attacks like Thunder Fang and Ice Fang, plus bite attacks like Crunch and Hyper Fang. The boost activates after damage calculation, building momentum for future attacks.
+
+# ID: 290
+When hit by Fire or Flying-type moves, this Pokémon inflates like a balloon, boosting both Defense and Special Defense by one stage each. The defensive boost applies immediately after taking damage, making the Pokémon more resilient to follow-up attacks. Perfect for bulky Pokémon that can capitalize on the stat increases.
+
+# ID: 291
+Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokémon's actual typing. Additionally, the Pokémon is treated as if it's always in hail weather for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
+
+# ID: 292
+Avenger boosts the power of all moves by 50% for one turn after any party Pokémon faints. The damage boost applies to any move used while the retaliation timer is active. This revenge-based ability helps teams recover momentum after losing a teammate, making it excellent for comeback scenarios.
+
+# ID: 293
+Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle. The Defense Curl effect doubles the power of Rollout and Ice Ball moves. This provides immediate bulk and enables powerful rolling move strategies for defensive Pokemon builds.
