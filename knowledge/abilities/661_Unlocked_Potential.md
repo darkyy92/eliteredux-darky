@@ -10,7 +10,8 @@ character_count: 279
 **Type:** Combined Ability  
 **Effect:** Inner Focus + Berserk  
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 This hybrid ability combines Inner Focus precision with Berserk fury. When hit below half HP, raises the highest attacking stat by one stage. Also provides taunt immunity and makes Focus Blast always hit, perfect for Pokemon seeking defensive resilience and offensive precision.
 
 ## Technical Implementation

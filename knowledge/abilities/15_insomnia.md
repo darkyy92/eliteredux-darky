@@ -1,3 +1,10 @@
+---
+id: 15
+name: Insomnia
+status: ai-generated
+character_count: 290
+---
+
 # Insomnia - Ability ID 15
 
 ## In-Game Description

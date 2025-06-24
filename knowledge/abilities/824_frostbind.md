@@ -1,13 +1,14 @@
 ---
-ability_id: 824
-ability_name: "Frostbind"
-game_description: "Inflicting Frostbite also inflicts Disable."
+id: 824
+name: Frostbind
+status: ai-generated
 character_count: 295
 ---
 
 # Frostbind (Ability #824)
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Inflicting Frostbite also inflicts Disable."
 
 ## Extended In-Game Description

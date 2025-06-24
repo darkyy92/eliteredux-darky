@@ -1,3 +1,10 @@
+---
+id: 2
+name: Drizzle
+status: ai-generated
+character_count: 296
+---
+
 # Drizzle - Ability ID 2
 
 ## In-Game Description

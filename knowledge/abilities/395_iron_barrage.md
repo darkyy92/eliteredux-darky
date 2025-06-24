@@ -1,10 +1,8 @@
 ---
-ability_id: 395
-ability_name: "Iron Barrage"
-extended_description: "Combines the power of a Mega Launcher with precision targeting systems. All projectile moves gain 30% damage boost plus perfect accuracy, eliminating miss chances. Inaccurate moves (below 80% accuracy) receive -3 priority to compensate for the targeting system's reliability guarantee."
-competitive_tier: "High"
-battle_mechanic: "Steel Enhancement"
-analysis_date: "2025-06-24"
+id: 395
+name: Iron Barrage
+status: ai-generated
+character_count: 0
 ---
 
 # Iron Barrage (Ability #395)

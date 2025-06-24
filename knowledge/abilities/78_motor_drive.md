@@ -1,3 +1,10 @@
+---
+id: 78
+name: Motor Drive
+status: ai-generated
+character_count: 289
+---
+
 # Motor Drive - Ability ID 78
 
 ## In-Game Description

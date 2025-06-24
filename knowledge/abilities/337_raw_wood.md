@@ -1,14 +1,8 @@
 ---
-ability_id: 337
-ability_name: "Raw Wood"
-short_description: "Halves dmg taken by Grass moves. Boosts own Grass moves by 1.2x."
-extended_description: "Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. This dual effect creates excellent synergy for Grass-type Pokemon, providing both offensive prowess and crucial defensive utility against opposing Grass attacks and walls."
-type_interaction: "Grass"
-defensive_multiplier: 0.5
-offensive_multiplier: 1.2
-breakable: true
-implementation_file: "src/abilities.cc"
-implementation_line: 3563
+id: 337
+name: Raw Wood
+status: ai-generated
+character_count: 267
 ---
 
 # Raw Wood - Ability ID 337

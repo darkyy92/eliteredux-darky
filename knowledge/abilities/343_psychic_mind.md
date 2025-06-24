@@ -1,16 +1,8 @@
 ---
-ability_id: 343
-ability_name: "Psychic Mind"
-short_description: "Boosts Psychic-type moves by 1.2x, or 1.5x when under 1/3 HP."
-extended_description: "Powers up Psychic-type moves when weakened. At full strength, Psychic moves deal 20% more damage. When the user's HP drops below one-third, this mental focus intensifies dramatically, boosting Psychic moves by 50% instead—turning desperate circumstances into devastating psychic power."
-mechanic_type: "offensive_multiplier"
-activation_condition: "hp_threshold"
-base_multiplier: 1.2
-boosted_multiplier: 1.5
-hp_threshold: "1/3"
-affected_move_type: "psychic"
-category: "type_boost"
-similar_abilities: ["Swarm", "Blaze", "Torrent", "Overgrow"]
+id: 343
+name: Psychic Mind
+status: ai-generated
+character_count: 0
 ---
 
 # Psychic Mind

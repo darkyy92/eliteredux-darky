@@ -1,3 +1,10 @@
+---
+id: 68
+name: Swarm
+status: ai-generated
+character_count: 295
+---
+
 # Swarm - Ability ID 68
 
 ## In-Game Description

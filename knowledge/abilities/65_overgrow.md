@@ -1,3 +1,10 @@
+---
+id: 65
+name: Overgrow
+status: ai-generated
+character_count: 280
+---
+
 # Overgrow - Ability ID 65
 
 ## In-Game Description

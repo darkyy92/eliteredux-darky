@@ -1,26 +1,8 @@
 ---
-ability_id: 385
-ability_name: "Air Lock"
-extended_description: "Completely nullifies all weather effects while this Pokémon is on the field. Clears existing weather on entry and prevents weather-dependent moves, abilities, and damage from functioning. Essential counter to weather teams and weather-based strategies throughout the entire battle duration."
-competitive_tier: "High"
-battle_mechanic: "Weather Control"
-analysis_date: "2025-06-24"
-enables_strategies: Anti-Weather, Balanced Teams
-pokemon_with_ability:
-  - name: "Rayquaza"
-    slot: "Innate"
-    notes: "Primary weather control legendary"
-related_abilities:
-  - name: "Cloud Nine"
-    id: 13
-    relationship: "Identical Effect"
-  - name: "Clueless" 
-    id: 426
-    relationship: "Enhanced Version"
-synergies:
-  - "Stealth Rock"
-  - "Mixed Attackers"
-  - "Anti-Weather Teams"
+id: 385
+name: Air Lock
+status: ai-generated
+character_count: 443
 ---
 
 # Air Lock - Ability ID 385
@@ -34,7 +16,7 @@ synergies:
 ## In-Game Description
 "Clears weather and prevents its effects."
 
-## Extended Description
+## Extended In-Game Description
 Air Lock clears all weather conditions upon switch-in and completely nullifies weather effects while the user remains active. Weather may still be set by other Pokemon, but provides no gameplay benefits - no damage modifications, speed changes, accuracy boosts, or ability activations. Works against all weather types including primal conditions. Essential defensive tool against weather-based strategies and enables neutral battle conditions.
 
 *Character count: 294*

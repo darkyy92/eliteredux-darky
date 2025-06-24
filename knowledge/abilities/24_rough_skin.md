@@ -1,3 +1,10 @@
+---
+id: 24
+name: Rough Skin
+status: ai-generated
+character_count: 299
+---
+
 # Rough Skin - Ability ID 24
 
 ## In-Game Description

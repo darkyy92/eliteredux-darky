@@ -10,7 +10,7 @@ character_count: 286
 ## Short Description
 Steadfast + blocks phasing moves.
 
-## Extended Description
+## Extended In-Game Description
 This innate ability combines two powerful defensive effects. When flinched, the Pokémon's Speed stat increases by one stage, helping it act faster on subsequent turns. Additionally, the Pokémon's immense weight prevents forced switching from moves like Roar, Whirlwind, Circle Throw, and Dragon Tail, maintaining field control even against disruption tactics.
 
 ## Key Mechanics

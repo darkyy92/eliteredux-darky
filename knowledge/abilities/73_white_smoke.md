@@ -1,3 +1,10 @@
+---
+id: 73
+name: White Smoke
+status: ai-generated
+character_count: 298
+---
+
 # White Smoke - Ability ID 73
 
 ## In-Game Description

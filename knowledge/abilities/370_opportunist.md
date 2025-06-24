@@ -1,10 +1,8 @@
 ---
-ability_id: 370
-ability_name: "Opportunist"
-extended_description: "This Pokemon gains +1 priority on all moves when attacking Pokemon with less than 50% HP remaining. This priority boost allows quick finishers against weakened foes, making the user excellent at securing knockouts before opponents can retaliate. Turns any Pokemon into a revenge killer."
-competitive_tier: "Medium"
-battle_mechanic: "Priority Manipulation"
-analysis_date: "2025-06-24"
+id: 370
+name: Opportunist
+status: ai-generated
+character_count: 0
 ---
 
 # Opportunist (Ability #370)

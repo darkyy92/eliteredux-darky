@@ -10,8 +10,7 @@ character_count: 285
 **ID**: 841  
 **Description**: Draconize + Half Drake.
 
-## Extended Description
-
+## Extended In-Game Description
 Transforms the Pokémon into a mighty dragon warrior by adding Dragon as a third type and converting all Normal-type moves to Dragon-type. Normal moves become Dragon attacks that gain STAB (1.5x damage) from the added Dragon typing, turning basic attacks into powerful draconic strikes.
 
 ## Mechanics

@@ -1,15 +1,8 @@
 ---
-ability_id: 364
-ability_name: Looter
-ability_description: "Dealing a KO heals 1/4 of this Pokémon's max HP."
-extended_description: "When this Pokémon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokémon to sustain itself through consecutive victories and become increasingly formidable in prolonged battles."
-extended_description_length: 294
-trigger_conditions:
-  - "onBattlerFaints with APPLY_ON_ATTACKER"
-healing_amount: "25% of maximum HP"
-battle_script: "BattleScript_HandleSoulEaterEffect"
-shared_implementation: "Uses same code as Soul Eater, Predator, and Scavenger"
-analysis_date: "2025-06-24"
+id: 364
+name: Looter
+status: ai-generated
+character_count: 287
 ---
 
 # Looter (Ability #364)
@@ -19,7 +12,8 @@ analysis_date: "2025-06-24"
 - **ID**: 364 (ABILITY_LOOTER)
 - **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
 
-## Extended Description (294 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokémon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokémon to sustain itself through consecutive victories and become increasingly formidable in prolonged battles.
 
 ## Mechanical Analysis

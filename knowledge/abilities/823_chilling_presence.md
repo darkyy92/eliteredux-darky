@@ -1,7 +1,7 @@
 ---
-ability_id: 823
-ability_name: "Chilling Presence"
-short_description: "10BP Icy Wind on entry."
+id: 823
+name: Chilling Presence
+status: ai-generated
 character_count: 292
 ---
 
@@ -10,7 +10,7 @@ character_count: 292
 ## Short Description
 10BP Icy Wind on entry.
 
-## Extended Description
+## Extended In-Game Description
 Chilling Presence automatically uses a weakened Icy Wind when the Pokémon enters battle, targeting all opposing Pokémon. The move deals 10 base power Ice-type damage instead of the usual 60, but retains perfect accuracy and guaranteed Speed reduction effects. Useful for slowing fast threats.
 
 Character count: 292

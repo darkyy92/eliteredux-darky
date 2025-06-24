@@ -1,3 +1,10 @@
+---
+id: 256
+name: Neutralizing Gas
+status: ai-generated
+character_count: 288
+---
+
 # Neutralizing Gas - Ability ID 256
 
 ## In-Game Description

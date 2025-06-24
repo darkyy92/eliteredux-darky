@@ -10,8 +10,8 @@ character_count: 295
 **Type:** Offensive Enhancement
 **Introduced:** Elite Redux
 
-## Description
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Blood Stigma doubles the power of all moves when attacking a target that is bleeding or affected by Blood Stain. This ability grants complete immunity to all major status conditions and is unsuppressable, making it a formidable offensive tool against bleeding foes while offering defensive utility.
 
 ## Mechanics

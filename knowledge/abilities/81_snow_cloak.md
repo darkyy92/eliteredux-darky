@@ -1,3 +1,10 @@
+---
+id: 81
+name: Snow Cloak
+status: ai-generated
+character_count: 258
+---
+
 # Snow Cloak - Ability ID 81
 
 ## In-Game Description

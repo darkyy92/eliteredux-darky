@@ -1,3 +1,10 @@
+---
+id: 508
+name: Pure Love
+status: ai-generated
+character_count: 298
+---
+
 # Pure Love
 
 **Ability ID**: 508

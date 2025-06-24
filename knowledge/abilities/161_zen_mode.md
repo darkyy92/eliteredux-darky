@@ -13,7 +13,7 @@ character_count: 293
 - **Enum**: ABILITY_ZEN_MODE
 - **Description**: "Transforms into Zen Mode on entry until end of battle."
 
-## Extended Description
+## Extended In-Game Description
 Zen Mode triggers permanent form change upon battle entry. Unlike HP-based transformations, this activates unconditionally when entering battle. The transformation lasts the entire battle and cannot be reversed. Works with Darmanitan forms, changing stats, typing, and movepool.
 
 **Character count: 293**

@@ -1,3 +1,10 @@
+---
+id: 92
+name: Skill Link
+status: ai-generated
+character_count: 426
+---
+
 # Skill Link
 
 ## Basic Information
@@ -65,7 +72,7 @@ All multi-hit moves that normally hit 2-5 times:
 - **Life Orb**: Applies recoil after all hits complete
 - **King's Rock/Razor Fang**: Each hit has an independent flinch chance
 
-## Extended Description
+## Extended In-Game Description
 Skill Link guarantees that multi-hit moves always strike the maximum five times, turning unreliable attacks into consistent powerhouses. Each hit calculates damage independently with its own critical hit chance and can trigger contact effects. This transforms weak multi-hit moves into formidable options that effectively have 125+ base power while maintaining utility for breaking substitutes and sashes.
 
 Character count: 293

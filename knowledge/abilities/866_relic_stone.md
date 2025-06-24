@@ -7,7 +7,8 @@ character_count: 295
 
 # Relic Stone Analysis
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Other battlers don't benefit from STAB."
 
 ## Extended Description (295 characters)

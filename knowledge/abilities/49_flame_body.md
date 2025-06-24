@@ -1,3 +1,10 @@
+---
+id: 49
+name: Flame Body
+status: ai-generated
+character_count: 289
+---
+
 # Flame Body - Ability ID 49
 
 ## In-Game Description

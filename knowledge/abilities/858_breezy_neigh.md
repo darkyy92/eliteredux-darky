@@ -10,7 +10,7 @@ character_count: 287
 ## Short Description
 "KOs raise Speed by one stage."
 
-## Extended Description
+## Extended In-Game Description
 When this Pokémon knocks out an opponent with a direct attack, its Speed stat increases by one stage. This boost occurs immediately after the target faints, potentially allowing the user to outspeed previously faster opponents. The effect activates only when the Pokémon with this ability directly causes a knockout through damage.
 
 ## Technical Implementation

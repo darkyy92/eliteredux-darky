@@ -1,3 +1,10 @@
+---
+id: 31
+name: Lightning Rod
+status: ai-generated
+character_count: 285
+---
+
 # Lightning Rod - Ability ID 31
 
 ## In-Game Description

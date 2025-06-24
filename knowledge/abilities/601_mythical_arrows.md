@@ -1,3 +1,10 @@
+---
+id: 601
+name: Mythical Arrows
+status: ai-generated
+character_count: 297
+---
+
 # Mythical Arrows - Ability ID 601
 
 ## In-Game Description

@@ -1,10 +1,8 @@
 ---
-ability_id: 388
-ability_name: "Thundercall"
-extended_description: "Triggers a divine judgment from the heavens when using Electric moves. After successfully landing an Electric-type attack, the user calls down Smite at 20% power, dealing additional Electric damage with paralysis chance and Smack Down effect to ground Flying-types and threaten aerial opponents."
-competitive_tier: "Medium"
-battle_mechanic: "Electric Follow-up"
-analysis_date: "2025-06-24"
+id: 388
+name: Thundercall
+status: ai-generated
+character_count: 0
 ---
 
 # Thundercall (Ability #388)

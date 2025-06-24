@@ -1,3 +1,10 @@
+---
+id: 4
+name: Battle Armor
+status: ai-generated
+character_count: 285
+---
+
 # Battle Armor - Ability ID 4
 
 ## In-Game Description

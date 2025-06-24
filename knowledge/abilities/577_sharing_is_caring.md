@@ -1,3 +1,10 @@
+---
+id: 577
+name: Sharing Is Caring
+status: ai-generated
+character_count: 300
+---
+
 # Sharing Is Caring - Ability ID 577
 
 ## In-Game Description

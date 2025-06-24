@@ -1,3 +1,10 @@
+---
+id: 96
+name: "Ability: Normalize"
+status: ai-generated
+character_count: 382
+---
+
 # Ability: Normalize
 
 ## Basic Information
@@ -5,7 +12,7 @@
 - **Name**: Normalize
 - **Description**: Its moves become Normal-type, get 1.1x boost, ignore resists.
 
-## Extended Description
+## Extended In-Game Description
 Normalize transforms all offensive moves into Normal-type, granting them a 10% power boost. Normal-type moves affected by this ability bypass type resistances, dealing neutral damage to Rock and Steel types that would normally resist them. The ability works on all damaging moves regardless of their original type, making diverse movepools effectively monotype.
 
 Character count: 287

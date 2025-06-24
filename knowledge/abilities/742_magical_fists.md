@@ -1,3 +1,10 @@
+---
+id: 742
+name: Magical Fists
+status: ai-generated
+character_count: 287
+---
+
 # Magical Fists - Ability ID 742
 
 ## In-Game Description

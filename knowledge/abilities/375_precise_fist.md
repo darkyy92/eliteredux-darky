@@ -1,10 +1,8 @@
 ---
-ability_id: 375
-ability_name: "Precise Fist"
-extended_description: "Punching moves land guaranteed critical hits and have 5x their normal secondary effect chance. Works with all Iron Fist-boosted moves including elemental punches, priority punches, and Fighting-type attacks. The critical hit boost stacks with abilities like Sniper for devastating damage output."
-competitive_tier: "High"
-battle_mechanic: "Punch Enhancement + Critical Hit Guarantee + Effect Amplification"
-analysis_date: "2025-06-24"
+id: 375
+name: Precise Fist
+status: ai-generated
+character_count: 295
 ---
 
 # Precise Fist - Ability ID 375

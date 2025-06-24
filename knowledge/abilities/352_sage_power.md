@@ -1,15 +1,11 @@
-# Sage Power (Ability #352)
+---
+id: 352
+name: Sage Power
+status: ai-generated
+character_count: 280
+---
 
----
-ability_id: 352
-ability_name: "Sage Power"
-short_description: "Ups Special Attack by 50% and locks move."
-extended_description: "Boosts Special Attack by 50% but restricts the user to only one move per battle entry, similar to Choice Specs. The user becomes locked into the first move selected and cannot switch to different moves until they leave and re-enter battle or the battle ends. Perfect for special sweepers."
-type: "Choice Effect"
-generation: "Elite Redux"
-mechanic_category: "Stat Boost + Move Restriction"
-competitive_tier: "High"
----
+# Sage Power (Ability #352)
 
 ## Overview
 

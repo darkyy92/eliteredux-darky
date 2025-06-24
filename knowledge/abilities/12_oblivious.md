@@ -1,3 +1,10 @@
+---
+id: 12
+name: Oblivious
+status: ai-generated
+character_count: 290
+---
+
 # Oblivious - Ability ID 12
 
 ## In-Game Description

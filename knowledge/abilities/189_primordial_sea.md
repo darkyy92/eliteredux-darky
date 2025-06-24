@@ -1,3 +1,10 @@
+---
+id: 189
+name: "Primordial Sea (Ability ID: 189)"
+status: ai-generated
+character_count: 262
+---
+
 # Primordial Sea (Ability ID: 189)
 
 ## In-Game Description

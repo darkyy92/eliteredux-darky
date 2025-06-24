@@ -1,14 +1,8 @@
 ---
-ability_id: 331
-ability_name: Soul Eater
-ability_description: "Dealing a KO heals 1/4 of this Pokémon's max HP."
-extended_description: "When this Pokémon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, making the Pokémon increasingly difficult to defeat in prolonged battles as it sustains itself through consecutive victories."
-extended_description_length: 287
-trigger_conditions:
-  - "onBattlerFaints with APPLY_ON_ATTACKER"
-healing_amount: "25% of maximum HP"
-battle_script: "BattleScript_HandleSoulEaterEffect"
-analysis_date: "2025-06-24"
+id: 331
+name: Soul Eater
+status: ai-generated
+character_count: 287
 ---
 
 # Soul Eater (Ability #331)
@@ -18,7 +12,8 @@ analysis_date: "2025-06-24"
 - **ID**: 331 (ABILITY_SOUL_EATER)
 - **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
 
-## Extended Description (287 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokémon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, making the Pokémon increasingly difficult to defeat in prolonged battles as it sustains itself through consecutive victories.
 
 ## Mechanical Analysis

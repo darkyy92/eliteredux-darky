@@ -1,3 +1,10 @@
+---
+id: 87
+name: Dry Skin
+status: ai-generated
+character_count: 294
+---
+
 # Dry Skin - Ability ID 87
 
 ## In-Game Description

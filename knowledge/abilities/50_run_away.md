@@ -1,3 +1,10 @@
+---
+id: 50
+name: Run Away
+status: ai-generated
+character_count: 287
+---
+
 # Run Away - Ability ID 50
 
 ## In-Game Description

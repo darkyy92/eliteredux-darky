@@ -1,3 +1,10 @@
+---
+id: 98
+name: Magic Guard
+status: ai-generated
+character_count: 405
+---
+
 # Magic Guard
 
 ## Basic Information
@@ -9,7 +16,7 @@
 ## In-Game Description
 "Only damaged by attacks."
 
-## Extended Description
+## Extended In-Game Description
 Magic Guard protects the Pokémon from all forms of indirect damage including entry hazards, weather damage, status conditions, recoil, Life Orb damage, and Curse. The Pokémon can only be damaged by direct attacks from opponents. This makes it ideal for defensive strategies and allows safe use of powerful recoil moves and Life Orb without drawbacks. Perfect for hazard-heavy battles.
 Character count: 290
 

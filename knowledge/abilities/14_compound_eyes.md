@@ -1,3 +1,10 @@
+---
+id: 14
+name: Compound Eyes
+status: ai-generated
+character_count: 294
+---
+
 # Compound Eyes - Ability ID 14
 
 ## In-Game Description

@@ -1,11 +1,8 @@
 ---
-ability_id: 321
-ability_name: "Juggernaut"
-category: "Contact Enhancement"
-implemented: true
-breakable: true
-status_immunity: ["paralysis"]
-removes_status_on_immunity: true
+id: 321
+name: Juggernaut
+status: ai-generated
+character_count: 287
 ---
 
 # Juggernaut (Ability #321)
@@ -20,7 +17,8 @@ removes_status_on_immunity: true
 ## Short Description
 Contact moves add 20% Def to attack. Paralysis-immune.
 
-## Extended Description (295 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Juggernaut enhances contact moves by adding 20% of the user's Defense stat to attack calculations, making bulky Pokemon surprisingly powerful. Also provides complete immunity to paralysis status and automatically removes paralysis if inflicted by unblockable abilities like Mold Breaker.
 
 ## Mechanics Analysis

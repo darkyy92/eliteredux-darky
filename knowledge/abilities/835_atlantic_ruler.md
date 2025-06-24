@@ -10,7 +10,7 @@ character_count: 290
 ## Short Description
 Aquatic Dweller + Swift Swim.
 
-## Extended Description
+## Extended In-Game Description
 Empowers the user with mastery over aquatic environments. Water-type moves gain a 1.5x power boost, allowing for devastating oceanic attacks. During rain, the user's Speed is multiplied by 1.5x, enabling swift underwater maneuvers. This dual enhancement makes the bearer a true ruler of the seas.
 
 ## Mechanics

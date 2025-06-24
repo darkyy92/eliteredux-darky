@@ -1,17 +1,13 @@
 ---
-ability_id: 317
-ability_name: "Permafrost"
-ability_enum: "ABILITY_PERMAFROST"
-short_description: "Takes 35% less damage from Super-effective moves."
+id: 317
+name: Permafrost
+status: ai-generated
 character_count: 287
-breakable: true
-category: "Defensive"
-tags: ["damage_reduction", "super_effective", "ice_themed", "defensive_utility"]
 ---
 
 # Permafrost (Ability #317)
 
-## Extended Description
+## Extended In-Game Description
 Character count: 287
 
 Permafrost creates a protective icy barrier that reduces damage from super-effective attacks by 35%. This defensive ability activates automatically when the Pokémon is hit by any move with 2.0x or greater type effectiveness. The damage reduction applies after type effectiveness calculation but before other damage modifiers. Cannot be bypassed by moves but can be suppressed by Mold Breaker-type abilities.

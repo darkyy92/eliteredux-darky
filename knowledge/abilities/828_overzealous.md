@@ -1,6 +1,7 @@
 ---
-ability_id: 828
-ability_name: Overzealous (N)
+id: 828
+name: Overzealous (N)
+status: ai-generated
 character_count: 285
 ---
 
@@ -13,7 +14,7 @@ character_count: 285
 ## Short Description
 User's super-effective moves have +1 prio.
 
-## Extended Description
+## Extended In-Game Description
 Overzealous grants +1 priority to any move that would deal super-effective damage against the target. This priority boost applies after type effectiveness is calculated but before the move executes. Works with all damaging moves regardless of their base priority. The ability helps offensive Pokémon strike first when exploiting type advantages, turning super-effective coverage into priority attacks for guaranteed first strikes.
 
 **Character count**: 285

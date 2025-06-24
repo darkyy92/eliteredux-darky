@@ -1,15 +1,8 @@
 ---
-ability_id: 356
-ability_name: "Sea Guardian"
-short_description: "Ups highest stat by +1 on entry when it rains."
-extended_description: "Sea Guardian triggers when entering battle during rain weather, immediately boosting the Pokémon's highest stat by one stage. Calculates the highest stat including current stat changes for optimal strategic advantage. Works with any rain type including permanent and primordial rain effects."
-category: "Entry"
-activation_condition: "Rain weather + Entry"
-stat_boost: "+1 stage to highest stat"
-weather_requirement: "Any rain type"
-generation: "Elite Redux"
-competitive_tier: "High"
-pokemon_count: 16
+id: 356
+name: Sea Guardian
+status: ai-generated
+character_count: 0
 ---
 
 # Sea Guardian (Ability #356)

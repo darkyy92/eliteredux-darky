@@ -1,3 +1,10 @@
+---
+id: 26
+name: Levitate
+status: ai-generated
+character_count: 290
+---
+
 # Levitate - Ability ID 26
 
 ## In-Game Description

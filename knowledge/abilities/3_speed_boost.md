@@ -1,3 +1,10 @@
+---
+id: 3
+name: Speed Boost
+status: ai-generated
+character_count: 287
+---
+
 # Speed Boost - Ability ID 3
 
 ## In-Game Description

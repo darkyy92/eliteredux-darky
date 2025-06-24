@@ -1,3 +1,10 @@
+---
+id: 556
+name: Subdue
+status: ai-generated
+character_count: 281
+---
+
 # Subdue - Ability ID 556
 
 ## In-Game Description

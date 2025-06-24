@@ -1,3 +1,10 @@
+---
+id: 515
+name: "Retriever (ID: 515)"
+status: ai-generated
+character_count: 258
+---
+
 # Retriever (ID: 515)
 
 ## Summary

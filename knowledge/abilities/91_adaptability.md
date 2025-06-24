@@ -1,3 +1,10 @@
+---
+id: 91
+name: Adaptability
+status: ai-generated
+character_count: 295
+---
+
 # Adaptability - Ability ID 91
 
 ## In-Game Description

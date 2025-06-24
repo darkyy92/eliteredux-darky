@@ -1,13 +1,8 @@
 ---
-ability_id: 324
-ability_name: Phantom
-ability_constant: ABILITY_PHANTOM
-description: "Adds Ghost type to itself."
-extended_description: "Phantom adds Ghost-type as a third type upon entering battle. The Pokemon gains all benefits of Ghost-typing including immunity to Normal and Fighting attacks, while retaining its original typing and STAB. Creates triple-typing combinations for strategic advantages and coverage options."
+id: 324
+name: Phantom
+status: ai-generated
 character_count: 287
-implementation_file: src/abilities.cc
-line_number: 3447-3449
-created_date: 2025-06-24
 ---
 
 # Phantom (Ability #324)
@@ -18,7 +13,8 @@ created_date: 2025-06-24
 - **Name**: Phantom
 - **Short Description**: "Adds Ghost type to itself."
 
-## Extended Description (287 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Phantom adds Ghost-type as a third type upon entering battle. The Pokemon gains all benefits of Ghost-typing including immunity to Normal and Fighting attacks, while retaining its original typing and STAB. Creates triple-typing combinations for strategic advantages and coverage options.
 
 ## Mechanics

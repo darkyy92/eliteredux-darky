@@ -1,3 +1,10 @@
+---
+id: 43
+name: Soundproof
+status: ai-generated
+character_count: 325
+---
+
 # Soundproof - Ability ID 43
 
 ## In-Game Description

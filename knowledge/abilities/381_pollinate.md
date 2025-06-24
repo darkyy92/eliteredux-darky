@@ -1,10 +1,8 @@
 ---
-ability_id: 381
-ability_name: "Pollinate"
-extended_description: "Normal-type moves become Bug-type and gain a 1.2x power boost through natural type conversion. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks."
-competitive_tier: "Medium"
-battle_mechanic: "Type Conversion"
-analysis_date: "2025-06-24"
+id: 381
+name: Pollinate
+status: ai-generated
+character_count: 263
 ---
 
 # Pollinate (Ability #381)
@@ -16,7 +14,7 @@ analysis_date: "2025-06-24"
 - **Type**: Type Conversion Ability (ATE-type)
 - **Generation**: Elite Redux Custom
 
-## Extended Description
+## Extended In-Game Description
 Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks.
 
 ## Technical Implementation

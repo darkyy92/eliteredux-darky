@@ -1,10 +1,8 @@
 ---
-ability_id: 367
-ability_name: "Power Core"
-extended_description: "Adds 20% of Defense to physical attacks and 20% of Special Defense to special attacks when calculating damage. This defensive stat bonus is applied after all other modifiers, effectively making attacks stronger based on your defensive bulk. Works with all offensive moves for power scaling."
-competitive_tier: "Medium"
-battle_mechanic: "Stat Boost"
-analysis_date: "2025-06-24"
+id: 367
+name: Power Core
+status: ai-generated
+character_count: 272
 ---
 
 # Power Core - Ability ID 367

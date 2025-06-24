@@ -1,3 +1,10 @@
+---
+id: 63
+name: Marvel Scale
+status: ai-generated
+character_count: 301
+---
+
 # Marvel Scale - Ability ID 63
 
 ## In-Game Description

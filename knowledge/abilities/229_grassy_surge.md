@@ -1,3 +1,10 @@
+---
+id: 229
+name: "Grassy Surge (Ability ID: 229)"
+status: ai-generated
+character_count: 273
+---
+
 # Grassy Surge (Ability ID: 229)
 
 ## In-Game Description

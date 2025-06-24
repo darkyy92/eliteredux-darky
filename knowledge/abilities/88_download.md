@@ -1,3 +1,10 @@
+---
+id: 88
+name: Download
+status: ai-generated
+character_count: 302
+---
+
 # Download - Ability ID 88
 
 ## In-Game Description

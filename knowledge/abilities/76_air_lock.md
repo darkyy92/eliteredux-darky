@@ -1,3 +1,10 @@
+---
+id: 76
+name: Air Lock
+status: ai-generated
+character_count: 297
+---
+
 # Air Lock - Ability ID 76
 
 ## In-Game Description

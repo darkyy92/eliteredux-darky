@@ -1,3 +1,10 @@
+---
+id: 11
+name: Water Absorb
+status: ai-generated
+character_count: 285
+---
+
 # Water Absorb - Ability ID 11
 
 ## In-Game Description

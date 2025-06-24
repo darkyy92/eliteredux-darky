@@ -1,3 +1,10 @@
+---
+id: 583
+name: Gallantry
+status: ai-generated
+character_count: 292
+---
+
 # Gallantry
 
 **Ability ID**: 583

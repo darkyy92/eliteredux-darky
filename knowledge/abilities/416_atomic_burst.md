@@ -1,3 +1,10 @@
+---
+id: 416
+name: Atomic Burst
+status: ai-generated
+character_count: 283
+---
+
 # Atomic Burst - Ability ID 416
 
 ## In-Game Description

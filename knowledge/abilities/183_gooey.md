@@ -1,14 +1,8 @@
 ---
-ability_id: 183
-ability_name: "Gooey"
-ability_type: "Contact Punishment"
-mechanics_category: "Speed Control"
-trigger_conditions: ["Contact Move Hit"]
-effects: ["Speed -1 Stage"]
-bypass_mechanics: ["Safeguard"]
-thematic_connection: "Sticky substances trap attackers"
-competitive_usage: "Physical attacker deterrent"
-implementation_notes: "Checks Mirror Armor immunity"
+id: 183
+name: Gooey
+status: ai-generated
+character_count: 301
 ---
 
 # Gooey (Ability ID: 183)
@@ -16,7 +10,7 @@ implementation_notes: "Checks Mirror Armor immunity"
 ## Short Description
 Lowers Speed of enemies that make contact with this Pokémon.
 
-## Extended Description
+## Extended In-Game Description
 When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This unique ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace, embodying their slimy nature.
 
 ## Mechanical Analysis

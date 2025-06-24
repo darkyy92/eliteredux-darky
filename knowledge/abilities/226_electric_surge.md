@@ -1,3 +1,10 @@
+---
+id: 226
+name: Electric Surge
+status: ai-generated
+character_count: 300
+---
+
 # Electric Surge (Ability ID: 226)
 
 ## In-Game Description

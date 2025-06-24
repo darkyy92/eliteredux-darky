@@ -1,3 +1,10 @@
+---
+id: 10
+name: Volt Absorb
+status: ai-generated
+character_count: 289
+---
+
 # Volt Absorb - Ability ID 10
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 55
+name: Hustle
+status: ai-generated
+character_count: 288
+---
+
 # Hustle - Ability ID 55
 
 ## In-Game Description

@@ -14,7 +14,7 @@ character_count: 299
 ## Short Description
 Quarters contact damage taken. 4x weak to fire.
 
-## Extended Description
+## Extended In-Game Description
 This ability makes the Pokemon extremely fluffy and soft, providing exceptional protection against physical contact moves by reducing contact damage by 75%. However, this incredible fluffiness comes with a significant drawback - the Pokemon becomes vulnerable to fire attacks, taking double damage.
 
 ## Technical Implementation

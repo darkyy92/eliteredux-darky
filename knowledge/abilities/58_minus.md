@@ -1,3 +1,10 @@
+---
+id: 58
+name: Minus
+status: ai-generated
+character_count: 303
+---
+
 # Minus - Ability ID 58
 
 ## In-Game Description

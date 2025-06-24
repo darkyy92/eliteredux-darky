@@ -7,7 +7,8 @@ character_count: 295
 
 # Hungry Maws Analysis
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "This Pokémon's bite and jaw moves are boosted by 30%. When KOing opponents with these moves, it heals 50% of its max HP, but only 25% when using other moves."
 
 **Character count: 295**

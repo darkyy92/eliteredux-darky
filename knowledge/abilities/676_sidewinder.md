@@ -10,8 +10,7 @@ character_count: 290
 **ID:** 676  
 **Short Description:** First biting move each entry gets +1 priority. Resets on KO.
 
-## Extended Description
-
+## Extended In-Game Description
 Sidewinder grants the Pokemon a "coiled" status upon entry. While coiled, the first biting move used gains +1 priority. After using a biting move, the coiled status is consumed. If Sidewinder KOs an opponent with a biting move, the coiled status is immediately restored for the next battle.
 
 ## Technical Implementation

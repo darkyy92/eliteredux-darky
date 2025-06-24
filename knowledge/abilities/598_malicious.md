@@ -1,3 +1,10 @@
+---
+id: 598
+name: Malicious
+status: ai-generated
+character_count: 284
+---
+
 # Malicious
 
 **Ability ID**: 598

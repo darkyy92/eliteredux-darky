@@ -1,3 +1,10 @@
+---
+id: 99
+name: No Guard
+status: ai-generated
+character_count: 285
+---
+
 # Ability Analysis: No Guard
 
 ## Basic Information
@@ -70,7 +77,7 @@ While specific Pokémon weren't identified in the search, No Guard is traditiona
 - Ghost types (immune to Dynamic Punch)
 - Status conditions that prevent attacking (paralysis, sleep)
 
-## Extended Description
+## Extended In-Game Description
 No Guard ensures every attack hits by completely bypassing accuracy checks for both the user and opponents. This high-risk ability makes powerful but inaccurate moves like Dynamic Punch and Focus Blast completely reliable while leaving you vulnerable to status moves and OHKO attacks. Perfect for aggressive strategies that prioritize offense over defense.
 
 Character count: 297

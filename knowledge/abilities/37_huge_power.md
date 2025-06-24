@@ -1,3 +1,10 @@
+---
+id: 37
+name: Huge Power
+status: ai-generated
+character_count: 289
+---
+
 # Huge Power - Ability ID 37
 
 ## In-Game Description

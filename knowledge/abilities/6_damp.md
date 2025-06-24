@@ -1,3 +1,10 @@
+---
+id: 6
+name: Damp
+status: ai-generated
+character_count: 294
+---
+
 # Damp - Ability ID 6
 
 ## In-Game Description

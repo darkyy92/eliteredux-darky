@@ -10,8 +10,7 @@ character_count: 291
 **ID:** 654
 **Description:** Static + Rest in Peace.
 
-## Extended Description
-
+## Extended In-Game Description
 White Noise combines Static's paralysis-inducing contact effects with Peaceful Rest's restorative healing properties. When opponents make physical contact, this ability has a 30% chance to paralyze the attacker. Additionally, during fog weather, it heals 1/8 max HP at the end of each turn.
 
 ## Implementation Details

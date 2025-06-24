@@ -1,3 +1,10 @@
+---
+id: 190
+name: "Desolate Land (Ability ID: 190)"
+status: ai-generated
+character_count: 273
+---
+
 # Desolate Land (Ability ID: 190)
 
 ## In-Game Description

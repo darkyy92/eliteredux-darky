@@ -7,7 +7,7 @@ character_count: 299
 
 # Low Visibility (Ability #619)
 
-## Extended Description
+## Extended In-Game Description
 Automatically summons Eerie Fog weather upon entry, lasting 8 turns. This supernatural mist drains stat boosts from non-Ghost and non-Psychic Pokémon each turn while reducing damage taken by Ghost types by 20%. Also weakens Solar Beam and enables synergies with fog-boosted abilities like Ectoplasm.
 
 ## Core Mechanics

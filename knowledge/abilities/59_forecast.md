@@ -1,3 +1,10 @@
+---
+id: 59
+name: "Forecast (Ability ID: 59)"
+status: ai-generated
+character_count: 262
+---
+
 # Forecast (Ability ID: 59)
 
 ## In-Game Description

@@ -1,6 +1,14 @@
+---
+id: 334
+name: "Bad Luck (ID: 334)"
+status: ai-generated
+character_count: 263
+---
+
 # Bad Luck (ID: 334)
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Foes can't crit, deal min damage, and have no effect chance."
 
 ## Extended In-Game Description (280-300 chars)

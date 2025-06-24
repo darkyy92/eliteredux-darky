@@ -1,10 +1,8 @@
 ---
-ability_id: 377
-ability_name: "Artillery"
-extended_description: "Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Grants perfect accuracy and targeting to pulse, beam, ball, aura, projectile, and status moves. Transforms single-target shots into devastating dual strikes, maximizing battlefield impact and strategic control."
-competitive_tier: "High"
-battle_mechanic: "Perfect Accuracy + Multi-Target"
-analysis_date: "2025-06-24"
+id: 377
+name: Artillery
+status: ai-generated
+character_count: 268
 ---
 
 # Artillery (Ability ID: 377)

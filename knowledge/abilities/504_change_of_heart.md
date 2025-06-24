@@ -64,7 +64,7 @@ constexpr Ability ChangeOfHeart = {
 - **Substitute**: Blocks the Heart Swap effect
 - **Taunt**: Prevents setup moves that create stat changes to swap
 
-## Extended Description
+## Extended In-Game Description
 *Character count: 287*
 
 Change of Heart activates the moment its user switches into battle, automatically swapping all stat stage modifications with the target opponent. This includes boosts and drops to Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, and Evasion. Perfect for disrupting setup sweepers.

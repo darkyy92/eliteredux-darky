@@ -1,3 +1,10 @@
+---
+id: 522
+name: Early Grave
+status: ai-generated
+character_count: 284
+---
+
 # Early Grave - Ability ID 522
 
 ## In-Game Description

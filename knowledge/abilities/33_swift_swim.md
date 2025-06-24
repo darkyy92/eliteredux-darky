@@ -1,3 +1,10 @@
+---
+id: 33
+name: Swift Swim
+status: ai-generated
+character_count: 295
+---
+
 # Swift Swim - Ability ID 33
 
 ## In-Game Description

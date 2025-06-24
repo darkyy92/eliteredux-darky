@@ -1,16 +1,8 @@
 ---
-ability_id: 193
-ability_name: "Wimp Out"
-game_description: "At 1/2 of max HP or below, instantly switches out."
-extended_description: "When the Pokemon takes damage and its HP drops to 50% or below for the first time in battle, it automatically switches out. Only works in trainer battles with available party members. Blocked by Sheer Force moves and Arena Trap-style effects."
-tier: 3
-category: "Defensive Utility"
-triggers: ["on_hp_threshold"]
-pokemon_with_ability:
-  - "Happiny Redux"
-  - "Wimpod" 
-  - "Wiglett"
-ai_rating: 3
+id: 193
+name: Wimp Out
+status: ai-generated
+character_count: 242
 ---
 
 # Wimp Out (Ability #193)
@@ -21,7 +13,8 @@ Wimp Out is a defensive ability that forces the Pokemon to automatically switch 
 ## Game Description
 "At 1/2 of max HP or below, instantly switches out."
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When the Pokemon takes damage and its HP drops to 50% or below for the first time in battle, it automatically switches out. Only works in trainer battles with available party members. Blocked by Sheer Force moves and Arena Trap-style effects.
 
 **Character count: 285 characters** ✓

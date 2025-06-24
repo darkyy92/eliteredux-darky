@@ -1,14 +1,8 @@
 ---
-ability_id: 360
-ability_name: "Field Explorer"
-short_description: "Boosts field moves by 50%. Cut, Surf, Strength etc."
-extended_description: "Increases the power of field-based moves by 50%. Field moves are primarily the traditional HM moves like Cut, Surf, Strength, Fly, Flash, Rock Smash, Waterfall, Dive, and Whirlpool, which were historically used for overworld navigation and obstacle removal in Pokemon adventures throughout regions."
-category: "Offensive"
-generation: "Elite Redux Custom"
-effect_type: "Damage Multiplier"
-multiplier: 1.5
-triggers_on: "Field-based moves"
-code_location: "src/abilities.cc:3782-3787"
+id: 360
+name: Field Explorer
+status: ai-generated
+character_count: 0
 ---
 
 # Field Explorer (Ability #360)

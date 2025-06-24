@@ -10,7 +10,7 @@ character_count: 285
 ## Base Description
 "Queenly Majesty + Glare on entry once per battle."
 
-## Extended Description
+## Extended In-Game Description
 "Automatically uses Glare on entry once per battle, paralyzing a random opponent. Additionally, provides royal protection that blocks all enemy priority moves targeting this Pokémon or its allies, similar to Queenly Majesty's regal authority over the battlefield."
 
 Character count: 285

@@ -87,7 +87,7 @@ When Protean activates, the message displayed is:
 - **Multi-Hit Moves**: Only changes type once per turn, not per hit
 - **Switch Out**: Type reverts to base type when switching out
 
-## Extended Description
+## Extended In-Game Description
 "Changes the user's type to match the type of the move being used before attacking, granting Same Type Attack Bonus (STAB) to all moves. This ability only activates once per turn and will not trigger if the user is already the same type as the move being used, except for Struggle."
 
 *Character count: 290 characters*

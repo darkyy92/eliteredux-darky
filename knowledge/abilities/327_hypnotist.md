@@ -1,11 +1,8 @@
 ---
-ability_id: 327
-ability_name: "Hypnotist"
-category: "Accuracy Enhancement"
-target: "Self"
-generation: "Elite Redux Custom"
-competitive_tier: "Situational/Niche"
-related_moves: ["Hypnosis"]
+id: 327
+name: Hypnotist
+status: ai-generated
+character_count: 284
 ---
 
 # Ability #327: Hypnotist
@@ -15,7 +12,7 @@ related_moves: ["Hypnosis"]
 - **Name**: Hypnotist
 - **Original Description**: "Hypnosis accuracy is 90% when used by this Pokémon."
 
-## Extended Description
+## Extended In-Game Description
 Transforms Hypnosis from an unreliable 60% accuracy sleep move into a consistent 90% accuracy threat. This ability multiplies Hypnosis accuracy by 1.5x, making sleep-inducing strategies significantly more viable. The boost only applies to Hypnosis specifically, not other sleep moves.
 
 **Character count**: 285 characters (including spaces)

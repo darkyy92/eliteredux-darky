@@ -1,3 +1,10 @@
+---
+id: 19
+name: Shield Dust
+status: ai-generated
+character_count: 293
+---
+
 # Shield Dust - Ability ID 19
 
 ## In-Game Description

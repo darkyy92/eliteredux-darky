@@ -1,3 +1,10 @@
+---
+id: 38
+name: Poison Point
+status: ai-generated
+character_count: 293
+---
+
 # Poison Point - Ability ID 38
 
 ## In-Game Description

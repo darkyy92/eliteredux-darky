@@ -1,3 +1,10 @@
+---
+id: 61
+name: Shed Skin
+status: ai-generated
+character_count: 294
+---
+
 # Shed Skin - Ability ID 61
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 56
+name: Cute Charm
+status: ai-generated
+character_count: 289
+---
+
 # Cute Charm - Ability ID 56
 
 ## In-Game Description

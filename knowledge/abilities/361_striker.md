@@ -1,15 +1,8 @@
 ---
-ability_id: 361
-ability_name: "Striker"
-generation: "Elite Redux"
-extended_description: "Boosts the power of kicking moves by 30%. Works with all moves that have kicking motions: Double Kick, Mega Kick, Jump Kick, High Jump Kick, Rolling Kick, Low Kick, Stomp, Triple Kick, Blaze Kick, High Horsepower, Trop Kick, Pyro Ball, Triple Axel, Thunderous Kick, and more modern kicks."
-short_description: "Boosts the power of kicking moves by 1.3x."
-type: "Offensive"
-category: "Move Enhancement"
-multiplier: 1.3
-move_flags: ["FLAG_STRIKER_BOOST"]
-related_abilities: ["Iron Fist", "Combat Specialist", "Roundhouse"]
-code_location: "src/abilities.cc:3789-3794"
+id: 361
+name: Striker
+status: ai-generated
+character_count: 0
 ---
 
 # Striker (Ability #361)

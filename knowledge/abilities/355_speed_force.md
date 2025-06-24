@@ -1,17 +1,8 @@
 ---
-ability_id: 355
-ability_name: "Speed Force"
-short_description: "Contact moves use 20% of its Speed stat additionally."
-extended_description: "Contact moves harness the bearer's incredible velocity to amplify damage. Each physical contact attack adds 20% of the Pokémon's Speed stat to its offensive power, making swift attackers devastatingly effective at close range. High Speed stats become both defensive and offensive assets."
-type: "offensive"
-category: "stat_boost"
-generation: "elite_redux"
-breakable: false
-negated_by_moldbreaker: false
-activation_trigger: "contact_move"
-code_location: "src/abilities.cc:3746-3751"
-similar_abilities: ["Juggernaut", "Striker", "Momentum"]
-competitive_tier: "A"
+id: 355
+name: Speed Force
+status: ai-generated
+character_count: 0
 ---
 
 # Speed Force (Ability #355)

@@ -1,3 +1,10 @@
+---
+id: 313
+name: "Dragonslayer (ID: 313)"
+status: ai-generated
+character_count: 269
+---
+
 # Dragonslayer (ID: 313)
 
 ## In-Game Description

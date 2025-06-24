@@ -1,3 +1,10 @@
+---
+id: 735
+name: Know Your Place
+status: ai-generated
+character_count: 286
+---
+
 # Know Your Place (Ability ID: 735)
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 288
+name: Perfectionist
+status: ai-generated
+character_count: 282
+---
+
 # Perfectionist - Ability ID 288
 
 ## In-Game Description

@@ -67,6 +67,5 @@ constexpr Ability Entrance = {
 - Countered by same-gender teams
 - Effectiveness reduced by Mental Herb/status immunity
 
-## Extended Description
-
+## Extended In-Game Description
 When this Pokémon confuses an opponent, it simultaneously infatuates all eligible opposing Pokémon of the opposite gender. The infatuation effect only applies to targets that aren't already infatuated or protected by immunity. This creates devastating dual status combinations in battle.

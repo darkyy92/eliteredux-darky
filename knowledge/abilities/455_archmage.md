@@ -1,3 +1,10 @@
+---
+id: 455
+name: "Archmage (Ability ID: 455)"
+status: ai-generated
+character_count: 267
+---
+
 # Archmage (Ability ID: 455)
 
 ## In-Game Description

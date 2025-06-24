@@ -1,3 +1,10 @@
+---
+id: 609
+name: Parasitic Spores
+status: ai-generated
+character_count: 293
+---
+
 # Parasitic Spores
 
 **Ability ID**: 609

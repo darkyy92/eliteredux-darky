@@ -1,3 +1,10 @@
+---
+id: 82
+name: Gluttony
+status: ai-generated
+character_count: 255
+---
+
 # Gluttony - Ability ID 82
 
 ## In-Game Description

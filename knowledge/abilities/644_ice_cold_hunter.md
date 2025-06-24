@@ -1,3 +1,10 @@
+---
+id: 644
+name: Ice Cold Hunter
+status: ai-generated
+character_count: 291
+---
+
 # Ice Cold Hunter
 
 **Ability ID**: 644

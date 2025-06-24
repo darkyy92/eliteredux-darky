@@ -1,17 +1,8 @@
 ---
-ability_id: 347
-ability_name: "Multi Headed"
-short_description: "Hits as many times, as it has heads."
-extended_description: "Enables multi-hit attacks based on the Pokemon's anatomical head count. Two-headed Pokemon strike twice per attack, while three-headed Pokemon unleash triple strikes. Each successive hit maintains full damage, making this ability incredibly powerful for breaking through defenses."
-pokemon_with_ability: ["Dugtrio", "Magneton", "Doduo", "Dodrio", "Weezing", "Girafarig", "Deino", "Zweilous", "Binacle", "Klink", "Various Multi-headed Forms"]
-competitive_tier: "S-Tier"
-type_synergy: ["Physical", "Special", "All Move Types"]
-countered_by: ["Rocky Helmet", "Rough Skin", "Iron Barbs", "Aftermath"]
-bypasses: ["Fort Knox"]
-related_abilities: ["Parental Bond", "Skill Link"]
-implementation_file: "src/abilities.cc"
-implementation_line: 3669
-battle_mechanics: ["Parental Bond System", "Multi-hit Calculation"]
+id: 347
+name: Multi Headed
+status: ai-generated
+character_count: 0
 ---
 
 # Multi Headed (Ability #347)

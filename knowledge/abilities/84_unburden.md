@@ -1,3 +1,10 @@
+---
+id: 84
+name: Unburden
+status: ai-generated
+character_count: 277
+---
+
 # Unburden - Ability ID 84
 
 ## In-Game Description

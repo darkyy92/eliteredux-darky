@@ -7,7 +7,8 @@ character_count: 280
 
 # Lightning Aspect Analysis
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Absorbs electric moves then ups highest stat by +1."
 
 ## Extended Description (280 characters)

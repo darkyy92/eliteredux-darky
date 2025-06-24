@@ -1,10 +1,8 @@
 ---
-ability_id: 368
-ability_name: "Sighting System"
-extended_description: "Advanced targeting system ensures all moves hit with perfect accuracy, eliminating miss chances entirely. However, imprecise moves with less than 80% base accuracy suffer targeting delays, causing them to move last in battle with -3 priority penalty to compensate for guaranteed hits."
-competitive_tier: "Medium"
-battle_mechanic: "Accuracy/Priority"
-analysis_date: "2025-06-24"
+id: 368
+name: Sighting System
+status: ai-generated
+character_count: 0
 ---
 
 # Sighting System (Ability #368)

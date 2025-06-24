@@ -1,15 +1,8 @@
 ---
-ability_id: 345
-ability_name: Scavenger
-ability_description: "Dealing a KO heals 1/4 of this Pokémon's max HP."
-extended_description: "When this Pokémon defeats an opponent with any damaging attack, it immediately regains 25% of its maximum HP. This scavenging instinct allows it to sustain itself through multiple battles by feeding off fallen foes, making it increasingly formidable as consecutive victories accumulate."
-extended_description_length: 289
-trigger_conditions:
-  - "onBattlerFaints with APPLY_ON_ATTACKER"
-healing_amount: "25% of maximum HP"
-battle_script: "BattleScript_HandleSoulEaterEffect"
-shared_implementation: "SoulEater.onBattlerFaints"
-analysis_date: "2025-06-24"
+id: 345
+name: Scavenger
+status: ai-generated
+character_count: 265
 ---
 
 # Scavenger (Ability #345)
@@ -19,7 +12,8 @@ analysis_date: "2025-06-24"
 - **ID**: 345 (ABILITY_SCAVENGER)
 - **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
 
-## Extended Description (289 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokémon defeats an opponent with any attack, it immediately regains 25% of its maximum HP. This scavenging instinct allows it to sustain itself through multiple battles by feeding off fallen foes, making it increasingly formidable as victories accumulate.
 
 ## Mechanical Analysis

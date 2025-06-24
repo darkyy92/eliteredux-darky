@@ -12,7 +12,7 @@ character_count: 296
 - **Name**: Bad Dreams
 - **Original Description**: Sleeping Pokémon lose 1/4 of max HP at the end of each turn.
 
-## Extended Description
+## Extended In-Game Description
 Bad Dreams inflicts nightmare damage on all sleeping opponents, dealing 25% of their maximum HP at the end of each turn they remain asleep. The damage occurs during the end phase and bypasses Substitute. Multiple sleeping foes take damage simultaneously. Works with any sleep status including Rest sleep cycles.
 
 Character count: 296

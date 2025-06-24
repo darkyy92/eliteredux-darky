@@ -1,17 +1,8 @@
 ---
-ability_id: 344
-ability_name: "Poison Absorb"
-short_description: "Heals 25% of max HP when hit by a Poison-type move."
-extended_description: "Provides complete immunity to Poison-type moves, instead healing 25% of max HP when targeted by any Poison-type attack. Also grants passive 12.5% HP recovery per turn while on Toxic Terrain. In double battles, redirects opposing Poison-type moves to this Pokémon for beneficial healing."
-type_immunity: "TYPE_POISON"
-healing_amount: "25%"
-terrain_healing: "12.5%"
-redirect_type: "TYPE_POISON"
-breakable: true
-implementation_file: "src/abilities.cc"
-implementation_line: 3631
-proto_file: "proto/AbilityList.textproto"
-proto_line: 1725
+id: 344
+name: Poison Absorb
+status: ai-generated
+character_count: 0
 ---
 
 # Poison Absorb

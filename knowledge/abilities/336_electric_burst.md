@@ -1,18 +1,11 @@
-# Electric Burst
+---
+id: 336
+name: Electric Burst
+status: ai-generated
+character_count: 280
+---
 
----
-ability_id: 336
-ability_name: "Electric Burst"
-short_description: "Electric-type moves deal 1.35x damage but have 10% recoil."
-extended_description: "This ability supercharges Electric-type moves with a 35% power boost, but the intense electrical discharge causes the user to take 10% recoil damage from the move's damage output. Strategic timing is required to maximize offensive power while carefully managing self-inflicted damage."
-type_synergy: "Electric"
-activation_trigger: "Using Electric-type moves"
-competitive_tier: "B+"
-strategic_complexity: "Medium"
-risk_reward_ratio: "High Risk, High Reward"
-pokemon_count: 21
-code_location: "src/abilities.cc:3551-3561"
----
+# Electric Burst
 
 ## Overview
 

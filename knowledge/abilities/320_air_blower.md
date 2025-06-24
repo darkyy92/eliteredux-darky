@@ -1,26 +1,8 @@
 ---
-ability_id: 320
-ability_name: Air Blower
-ability_constant: ABILITY_AIR_BLOWER
-short_description: "Casts a 3-turn Tailwind on entry."
-extended_description: "Air Blower automatically sets up a 3-turn Tailwind upon entering battle, doubling the Speed of all Pokemon on the user's side. Cannot stack if Tailwind is already active. Synergizes with Wind Rider teammates by triggering their Attack boost upon activation. Perfect for speed control teams."
+id: 320
+name: Air Blower
+status: ai-generated
 character_count: 290
-generation: Elite Redux
-type_effectiveness: All types
-battle_mechanics:
-  - Speed Control
-  - Team Support
-  - Weather/Field Setup
-synergies:
-  - Wind Rider
-  - Wind Power
-counters:
-  - Switching out removes Tailwind
-  - Cannot override existing Tailwind
-implementation_file: src/abilities.cc
-battle_script: BattleScript_AirBlowerActivated
-created: 2025-01-24
-updated: 2025-01-24
 ---
 
 # Air Blower (Ability #320)
@@ -31,7 +13,8 @@ Air Blower is a team support ability that automatically establishes favorable sp
 ## Short Description
 **"Casts a 3-turn Tailwind on entry."**
 
-## Extended Description (290 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 **"Air Blower automatically sets up a 3-turn Tailwind upon entering battle, doubling the Speed of all Pokemon on the user's side. Cannot stack if Tailwind is already active. Synergizes with Wind Rider teammates by triggering their Attack boost upon activation. Perfect for speed control teams."**
 
 ## Mechanical Details

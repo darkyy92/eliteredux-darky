@@ -1,17 +1,8 @@
 ---
-ability_id: 362
-ability_name: "Frozen Soul"
-ability_type: "Priority Control"
-battle_mechanic: "Move Priority"
-extended_description: "When this Pokémon is at maximum HP, all Ice-type moves it uses gain +1 priority. This allows faster Ice attacks to outspeed opponents but only while completely healthy, creating strategic pressure around HP management and positioning. Similar to Gale Wings but for Ice-type moves exclusively."
-short_description: "Ice-type moves get +1 priority at max HP."
-activation_condition: "Max HP + Ice-type move"
-priority_boost: "+1"
-type_restriction: "Ice-type moves only"
-hp_requirement: "Must be at maximum HP"
-tags: ["priority", "conditional", "ice-type", "gale-wings-variant"]
-competitive_tier: "High"
-strategic_value: "Excellent"
+id: 362
+name: Frozen Soul
+status: ai-generated
+character_count: 0
 ---
 
 # Frozen Soul (Ability #362)

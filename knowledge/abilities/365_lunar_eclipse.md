@@ -1,12 +1,8 @@
 ---
-ability_id: 365
-ability_name: "Lunar Eclipse"
-short_description: "Fairy & Dark gains STAB. Hypnosis has 1.5x accuracy."
-extended_description: "Grants STAB to Fairy and Dark-type moves regardless of actual typing, allowing non-Fairy/Dark types to gain 1.5x damage. Additionally, Hypnosis gains 1.5x accuracy, making it 97.5% accurate instead of 60%. Perfect for dual-type offensive strategies with reliable sleep support abilities."
-category: "Offensive/Utility"
-generation: "Elite Redux"
-pokemon_with_ability: ["Lunatone", "Lunala", "Necrozma (Dawn Wings)", "Lycanroc (Eclipse)", "Minior (All Core Forms)"]
-related_abilities: ["Solar Flare", "Hypnotist", "Adaptability"]
+id: 365
+name: Lunar Eclipse
+status: ai-generated
+character_count: 0
 ---
 
 # Lunar Eclipse

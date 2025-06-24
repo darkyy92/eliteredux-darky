@@ -1,10 +1,8 @@
 ---
-ability_id: 325
-ability_name: "Intoxicate"
-ability_type: "Offensive"
-generation: "Elite Redux Custom"
-description: "Normal-type moves become Poison and Poison gains STAB."
-extended_description: "Transforms all Normal-type moves into Poison-type and provides STAB damage boost. The Pokémon gains Same Type Attack Bonus on all Poison moves, including the converted Normal moves. Functions identically to abilities like Pixilate or Aerilate but specifically for Poison-type conversion."
+id: 325
+name: Intoxicate
+status: ai-generated
+character_count: 0
 ---
 
 # Intoxicate (Ability #325)
@@ -15,7 +13,8 @@ extended_description: "Transforms all Normal-type moves into Poison-type and pro
 - **Type**: Offensive Enhancement
 - **Generation**: Elite Redux Custom
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 **Short**: Normal-type moves become Poison and Poison gains STAB.
 
 **Extended (292 characters)**: Transforms all Normal-type moves into Poison-type and provides STAB damage boost. The Pokémon gains Same Type Attack Bonus on all Poison moves, including the converted Normal moves. Functions identically to abilities like Pixilate or Aerilate but specifically for Poison-type conversion.

@@ -1,18 +1,8 @@
 ---
-ability_id: 353
-ability_name: "Bone Zone"
-extended_description: "The Pokémon's mastery over bone-based attacks allows them to pierce through all defenses. Bone moves ignore type immunities completely and deal double damage when they would normally be not very effective, turning weaknesses into strengths and making Cubone line extremely versatile."
-short_description: "Bone moves ignore immunities and deal 2x on not very effective."
-game_version: "Elite Redux"
-mechanic_type: "Type Effectiveness Modifier"
-applies_to: "Bone-type moves only"
-implementation_file: "src/abilities.cc"
-implementation_line: 3727
-proto_file: "proto/AbilityList.textproto"
-proto_line: 1770
-category: "Offensive Enhancement"
-rarity: "Innate Ability"
-competitive_tier: "High"
+id: 353
+name: Bone Zone
+status: ai-generated
+character_count: 0
 ---
 
 # Bone Zone

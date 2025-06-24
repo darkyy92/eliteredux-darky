@@ -1,3 +1,10 @@
+---
+id: 715
+name: Hover
+status: ai-generated
+character_count: 289
+---
+
 # Hover - Ability ID 715
 
 ## In-Game Description

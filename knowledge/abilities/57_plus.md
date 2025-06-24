@@ -1,3 +1,10 @@
+---
+id: 57
+name: Plus
+status: ai-generated
+character_count: 289
+---
+
 # Plus - Ability ID 57
 
 ## In-Game Description

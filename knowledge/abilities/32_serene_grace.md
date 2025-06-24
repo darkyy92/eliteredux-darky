@@ -1,3 +1,10 @@
+---
+id: 32
+name: Serene Grace
+status: ai-generated
+character_count: 284
+---
+
 # Serene Grace - Ability ID 32
 
 ## In-Game Description

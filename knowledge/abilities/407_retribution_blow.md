@@ -1,3 +1,10 @@
+---
+id: 407
+name: Retribution Blow
+status: ai-generated
+character_count: 285
+---
+
 # Retribution Blow Analysis
 
 **ID:** 407  

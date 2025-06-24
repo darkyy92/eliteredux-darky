@@ -1,10 +1,8 @@
 ---
-ability_id: 399
-ability_name: "Parry"
-extended_description: "A masterful defensive technique that turns contact attacks into opportunities. When hit by a physical contact move, the Pokemon immediately retaliates with a lightning-fast Mach Punch counter-attack, while reducing all incoming damage by 20%. Perfect deterrent against physical attackers."
-competitive_tier: "High"
-battle_mechanic: "Counter Attack"
-analysis_date: "2025-06-24"
+id: 399
+name: Parry
+status: ai-generated
+character_count: 0
 ---
 
 # Parry (Ability #399)

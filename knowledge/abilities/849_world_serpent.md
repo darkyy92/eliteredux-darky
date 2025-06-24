@@ -7,8 +7,7 @@ character_count: 284
 
 # World Serpent
 
-## Extended Description
-
+## Extended In-Game Description
 Physical non-contact moves deal 20% more damage. Contact moves have a 50% chance to trap the target (Bind effect) for 4-5 turns, or 7 turns with Grip Claw. Trapped foes cannot miss with their moves against the user. Combines the binding coils of mythical serpents.
 
 ## Mechanics

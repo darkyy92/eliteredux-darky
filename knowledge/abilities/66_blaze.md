@@ -1,3 +1,10 @@
+---
+id: 66
+name: Blaze
+status: ai-generated
+character_count: 284
+---
+
 # Blaze - Ability ID 66
 
 ## In-Game Description

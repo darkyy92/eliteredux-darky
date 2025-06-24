@@ -1,3 +1,10 @@
+---
+id: 41
+name: Water Veil
+status: ai-generated
+character_count: 283
+---
+
 # Water Veil - Ability ID 41
 
 ## In-Game Description

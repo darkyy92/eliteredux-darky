@@ -1,3 +1,10 @@
+---
+id: 71
+name: Arena Trap
+status: ai-generated
+character_count: 280
+---
+
 # Arena Trap - Ability ID 71
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 48
+name: Early Bird
+status: ai-generated
+character_count: 311
+---
+
 # Early Bird - Ability ID 48
 
 ## In-Game Description

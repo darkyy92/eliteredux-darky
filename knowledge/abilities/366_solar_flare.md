@@ -1,13 +1,7 @@
 ---
-ability_id: 366
-ability_name: "Solar Flare"
-extended_description: "Solar Flare converts Normal-type moves to Fire-type with boosted power while providing Fire-type STAB. Additionally grants Chloroplast effects: Weather Ball, Solar Beam/Blade, and Growth act as if used in harsh sunlight, regardless of actual weather conditions."
-short_description: "Chloroplast + Immolate. Fire moves gain STAB."
-category: "Combination Ability"
-type_boost: "Fire"
-weather_interaction: "Sun-based effects"
-competitive_tier: "High"
-status: "documented"
+id: 366
+name: Solar Flare
+status: ai-generated
 character_count: 296
 ---
 

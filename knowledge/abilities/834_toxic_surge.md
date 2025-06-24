@@ -12,7 +12,7 @@ character_count: 296
 - **Name**: Toxic Surge
 - **Basic Description**: sets Toxic Terrain on entry.
 
-## Extended Description
+## Extended In-Game Description
 Toxic Surge automatically sets Toxic Terrain when the Pokémon enters battle. The toxic sludge covers the battlefield for 5 turns (8 with Terrain Extender). Each turn, grounded Pokémon that aren't Poison or Steel-type take damage equal to 1/16 of their max HP. Flying-types and Levitate users avoid damage unless grounded.
 
 ## Detailed Mechanics

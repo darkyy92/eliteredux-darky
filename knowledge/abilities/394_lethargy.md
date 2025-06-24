@@ -1,10 +1,8 @@
 ---
-ability_id: 394
-ability_name: "Lethargy"
-extended_description: "Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching, requiring team support and patience to utilize."
-competitive_tier: "Low"
-battle_mechanic: "Gradual Power Recovery"
-analysis_date: "2025-06-24"
+id: 394
+name: Lethargy
+status: ai-generated
+character_count: 234
 ---
 
 # Lethargy - Ability ID 394

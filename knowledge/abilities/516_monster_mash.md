@@ -1,3 +1,10 @@
+---
+id: 516
+name: Monster Mash
+status: ai-generated
+character_count: 292
+---
+
 # Monster Mash - Ability ID 516
 
 ## In-Game Description

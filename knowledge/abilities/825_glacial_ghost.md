@@ -1,7 +1,7 @@
 ---
-ability_id: 825
-ability_name: Glacial Ghost
-description: "Slush Rush + Snow Cloak."
+id: 825
+name: Glacial Ghost
+status: ai-generated
 character_count: 296
 ---
 

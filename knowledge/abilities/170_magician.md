@@ -10,10 +10,13 @@ character_count: 289
 ## Summary
 Magician is a non-contact move-triggered ability that allows the holder to steal the opponent's held item when using non-contact moves. This theft mechanic provides strategic item disruption and acquisition, making it particularly valuable for special attackers and status move users.
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 **In-game description:** "Steals the foe's held item after using a non-contact move."
 
-**Extended description (289 chars):**
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
 Magician activates when the holder uses a non-contact move that damages the target, automatically stealing the target's held item if possible. The stolen item immediately benefits the thief. Fails if the holder already has an item, the target has Sticky Hold, or the item cannot be stolen.
 
 **Character count:** 289

@@ -1,3 +1,10 @@
+---
+id: 77
+name: Tangled Feet
+status: ai-generated
+character_count: 283
+---
+
 # Tangled Feet - Ability ID 77
 
 ## In-Game Description

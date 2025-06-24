@@ -1,3 +1,10 @@
+---
+id: 100
+name: "Ability Analysis: Stall"
+status: ai-generated
+character_count: 377
+---
+
 # Ability Analysis: Stall
 
 ## Basic Information
@@ -9,7 +16,8 @@
 ## In-Game Description
 "Takes 30% less damage if it hasn't moved yet."
 
-## Extended Description (295 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Stall provides a 30% damage reduction when the Pokémon hasn't acted yet this turn. This defensive boost triggers when opponents move before the user, rewarding slow Pokémon that naturally move last. Works on all damage types including physical, special, and fixed damage moves. The ability synergizes with negative priority moves and Trick Room strategies.
 
 Character count: 295

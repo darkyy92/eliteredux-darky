@@ -1,10 +1,8 @@
 ---
-ability_id: 379
-ability_name: "Ice Dew"
-extended_description: "Redirects all incoming Ice-type moves to this Pokémon, completely nullifying their damage and raising the user's highest attacking stat by one stage. The boost is guaranteed upon absorbing any Ice move, making this a reliable defensive option against Ice-type teams and strategies."
-competitive_tier: "Medium"
-battle_mechanic: "Move Redirection and Stat Boost"
-analysis_date: "2025-06-24"
+id: 379
+name: Ice Dew
+status: ai-generated
+character_count: 0
 ---
 
 # Ice Dew (Ability #379)

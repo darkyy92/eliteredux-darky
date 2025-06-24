@@ -1,3 +1,10 @@
+---
+id: 42
+name: Magnet Pull
+status: ai-generated
+character_count: 285
+---
+
 # Magnet Pull - Ability ID 42
 
 ## In-Game Description

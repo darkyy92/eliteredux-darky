@@ -1,3 +1,10 @@
+---
+id: 72
+name: Vital Spirit
+status: ai-generated
+character_count: 286
+---
+
 # Vital Spirit - Ability ID 72
 
 ## In-Game Description

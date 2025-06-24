@@ -1,10 +1,8 @@
 ---
-ability_id: 386
-ability_name: "Spectral Shroud"
-extended_description: "Converts Normal-type moves to Ghost-type, gaining STAB and enhanced power boost. All Ghost-type moves (including converted ones) have 30% chance to badly poison targets after dealing damage. Combines offensive type conversion with dangerous poison status pressure that escalates over time."
-competitive_tier: "High"
-battle_mechanic: "Type Conversion + Status Infliction"
-analysis_date: "2025-06-24"
+id: 386
+name: Spectral Shroud
+status: ai-generated
+character_count: 289
 ---
 
 # Spectral Shroud - Ability ID 386

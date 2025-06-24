@@ -10,7 +10,7 @@ character_count: 299
 ## Short Description
 "Stall + Analytic."
 
-## Extended Description
+## Extended In-Game Description
 This Pokemon combines the defensive timing of Stall with the offensive patience of Analytic. When moving after the opponent, it takes 30% less damage from their attacks while dealing 30% more damage with its own moves. Rewards tactical waiting over hasty action.
 
 ## Mechanical Implementation

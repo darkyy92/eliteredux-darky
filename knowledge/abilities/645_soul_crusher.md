@@ -7,8 +7,7 @@ character_count: 299
 
 # Soul Crusher
 
-## Extended Description
-
+## Extended In-Game Description
 Soul Crusher enhances the wielder's mastery over hammer-based combat techniques. The ability boosts the power of hammer moves like Slam, Crabhammer, and Hammer Arm by 10%, while forcing opponents to use their special defense instead of defense when calculating damage from these devastating attacks.
 
 ## Technical Implementation

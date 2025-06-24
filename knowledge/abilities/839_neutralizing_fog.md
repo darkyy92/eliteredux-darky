@@ -7,7 +7,8 @@ character_count: 290
 
 # Neutralizing Fog
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Uses Defog on entry.
 
 ## Detailed Description

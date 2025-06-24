@@ -1,3 +1,10 @@
+---
+id: 83
+name: Anger Point
+status: ai-generated
+character_count: 292
+---
+
 # Anger Point - Ability ID 83
 
 ## In-Game Description

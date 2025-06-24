@@ -1,14 +1,8 @@
 ---
-ability_id: 330
-ability_name: "Majestic Moth"
-ability_description: "On entry, raises highest calculated stat by one stage."
-extended_description: "Upon entering battle, boosts the highest calculated stat by one stage. This ability analyzes all five battle stats (Attack, Defense, Special Attack, Special Defense, Speed) including any current stat stage modifiers, then raises whichever stat has the highest total value after calculations."
-implementation_file: "src/abilities.cc"
-category: "Entry"
-trigger: "On Entry"
-effect_type: "Stat Boost"
-competitive_tier: "High"
-analysis_date: "2025-06-24"
+id: 330
+name: Majestic Moth
+status: ai-generated
+character_count: 0
 ---
 
 # Majestic Moth (Ability #330)

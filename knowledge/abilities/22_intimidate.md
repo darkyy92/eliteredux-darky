@@ -1,3 +1,10 @@
+---
+id: 22
+name: Intimidate
+status: ai-generated
+character_count: 297
+---
+
 # Intimidate - Ability ID 22
 
 ## In-Game Description

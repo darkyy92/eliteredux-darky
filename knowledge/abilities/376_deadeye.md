@@ -1,10 +1,8 @@
 ---
-ability_id: 376
-ability_name: "Deadeye"
-extended_description: "Grants perfect accuracy to arrow-based attacks and cannon moves (Mega Launcher boosted moves). Additionally, when landing critical hits, the attack intelligently targets the opponent's weaker defensive stat between Defense and Special Defense for maximum damage."
-competitive_tier: "Medium"
-battle_mechanic: "Accuracy, Critical Hit"
-analysis_date: "2025-06-24"
+id: 376
+name: Deadeye
+status: ai-generated
+character_count: 262
 ---
 
 # Deadeye (Ability #376)
@@ -12,7 +10,7 @@ analysis_date: "2025-06-24"
 ## Official Description
 "Arrow & cannon moves never miss. Crits hit weakest defense."
 
-## Extended Description
+## Extended In-Game Description
 Grants perfect accuracy to arrow-based attacks and cannon moves (Mega Launcher boosted moves). Additionally, when landing critical hits, the attack intelligently targets the opponent's weaker defensive stat between Defense and Special Defense for maximum damage.
 
 ## Technical Implementation

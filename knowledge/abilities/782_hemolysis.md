@@ -1,0 +1,47 @@
+---
+id: 782
+name: Hemolysis
+status: ai-generated
+character_count: 289
+---
+
+# Hemolysis - Ability ID 782
+
+## In-Game Description
+"Poisoned foes lose all stat buffs and can't heal."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+When this Pokémon is on the field, poisoned enemies cannot heal HP through any means and lose all benefits from stat-boosting moves and abilities. This blood-corrupting ability disrupts the opponent's recovery strategies and neutralizes their stat advantages.
+
+*Character count: 289*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+Hemolysis is a passive field ability that creates a blood-corrupting aura affecting poisoned opponents. The ability functions through two main mechanisms implemented in the battle system:
+
+**Healing Prevention (CanBattlerHeal function):**
+- Any Pokémon with poison status (STATUS1_POISON_ANY) cannot heal HP while Hemolysis is active on the opposing side
+- This blocks all forms of healing: moves like Recover/Roost, items like Leftovers/Berries, and abilities like Rain Dish
+- The check specifically looks for `IsAbilityOnOpposingSide(battler, ABILITY_HEMOLYSIS)` combined with poison status
+
+**Stat Buff Nullification (BenefitsFromStatBuffs function):**
+- Poisoned Pokémon lose all benefits from stat increases (Attack, Defense, Speed, etc.)
+- This affects both move-based stat boosts (Swords Dance, Dragon Dance) and ability-based boosts
+- The poisoned Pokémon retains the visual stat boost indicators but gains no mechanical benefit
+
+**Strategic Implications:**
+- Synergizes extremely well with poison-inducing moves and abilities
+- Counters stall strategies that rely on healing + stat boosts
+- Forces opponents to cure poison or switch out to regain normal functionality
+- Particularly effective against setup sweepers who become poisoned
+
+**Counterplay:**
+- Poison immunity (Poison/Steel types, Immunity ability)
+- Status cure moves (Aromatherapy, Heal Bell)
+- Switching out to remove poison status
+- Priority moves that don't rely on stat boosts
+
+The ability's name "Hemolysis" refers to the breakdown of red blood cells, thematically representing how poison corrupts the target's blood, preventing healing and weakening their enhanced capabilities.

@@ -1,3 +1,10 @@
+---
+id: 28
+name: Synchronize
+status: ai-generated
+character_count: 295
+---
+
 # Synchronize - Ability ID 28
 
 ## In-Game Description

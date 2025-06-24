@@ -1,3 +1,10 @@
+---
+id: 34
+name: Chlorophyll
+status: ai-generated
+character_count: 296
+---
+
 # Chlorophyll - Ability ID 34
 
 ## In-Game Description

@@ -1,13 +1,11 @@
-# Flock (Ability #359)
-
 ---
-ability_id: 359
-ability_name: "Flock"
-extended_description: "A swarm-style ability that enhances Flying-type moves. When healthy, all Flying-type attacks receive a 1.2x power boost. When the Pokémon's HP drops to 1/3 or below, this boost increases to 1.5x, representing desperate flocking behavior when threatened by predators and dangerous situations."
-short_description: "Boosts Flying-type moves by 1.2x, or 1.5x when below 1/3 HP."
-generation: Elite Redux
-type_boost: Flying
-multiplier_normal: 1.2
+id: 359
+name: Flock
+status: ai-generated
+character_count: 280
+---
+
+# Flock (Ability #359)
 multiplier_low_hp: 1.5
 hp_threshold: "1/3 HP"
 ability_category: "Offensive Boost"

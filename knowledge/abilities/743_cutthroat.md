@@ -1,6 +1,14 @@
+---
+id: 743
+name: "Cutthroat (ID: 743)"
+status: ai-generated
+character_count: 263
+---
+
 # Cutthroat (ID: 743)
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "First slicing move gets +1 priority."
 
 ## Extended In-Game Description (280-300 chars)

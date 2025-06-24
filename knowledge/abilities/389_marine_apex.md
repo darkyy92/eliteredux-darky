@@ -1,10 +1,8 @@
 ---
-ability_id: 389
-ability_name: "Marine Apex"
-extended_description: "The apex predator of aquatic ecosystems, this ability grants the user 50% increased damage against Water-type opponents while providing Infiltrator's bypassing capabilities for protective screens and substitutes. Dominates both Water-types and defensive teams with superior offensive presence."
-competitive_tier: "Medium"
-battle_mechanic: "Offensive Enhancement + Infiltrator"
-analysis_date: "2025-06-24"
+id: 389
+name: Marine Apex
+status: ai-generated
+character_count: 0
 ---
 
 # Marine Apex (Ability #389)

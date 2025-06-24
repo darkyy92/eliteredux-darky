@@ -1,3 +1,10 @@
+---
+id: 9
+name: Static
+status: ai-generated
+character_count: 293
+---
+
 # Static - Ability ID 9
 
 ## In-Game Description

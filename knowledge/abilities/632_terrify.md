@@ -1,5 +1,3 @@
-# Terrify
-
 ---
 id: 632
 name: Terrify
@@ -7,8 +5,9 @@ status: ai-generated
 character_count: 295
 ---
 
-## Extended Description
+# Terrify
 
+## Extended In-Game Description
 Terrify intimidates opposing Pokemon upon switching in, drastically reducing their special attacking capabilities. When the Pokemon with this ability enters battle, all enemies suffer a severe two-stage drop to their Special Attack stat, making their special moves significantly weaker.
 
 ## Original Description

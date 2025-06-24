@@ -10,10 +10,13 @@ character_count: 290
 ## Summary
 Pickpocket is a contact-triggered ability that allows the holder to steal the opponent's held item when hit by a contact move. This theft mechanic provides strategic item disruption and potential item gain, making it particularly valuable against item-dependent strategies.
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 **In-game description:** "Steals the foe's held item on contact."
 
-**Extended description (290 chars):**
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
 Pickpocket activates when the holder is hit by a contact move, automatically stealing the attacker's held item if possible. The stolen item immediately benefits the thief. Fails if the holder already has an item, the target has Sticky Hold/Supersweet Syrup, or the item cannot be removed. Works even through substitute.
 
 **Character count:** 290

@@ -1,10 +1,8 @@
 ---
-ability_id: 397
-ability_name: "Pyro Shells"
-extended_description: "When using a Mega Launcher-boosted move, triggers a follow-up 50 BP Outburst attack against the same target. This powerful combo ability effectively adds explosive damage to every beam, pulse, or projectile attack that benefits from Mega Launcher's power enhancement bonus, doubling the impact."
-competitive_tier: "Medium"
-battle_mechanic: "Follow-up Attack"
-analysis_date: "2025-06-24"
+id: 397
+name: Pyro Shells
+status: ai-generated
+character_count: 0
 ---
 
 # Pyro Shells (Ability #397)

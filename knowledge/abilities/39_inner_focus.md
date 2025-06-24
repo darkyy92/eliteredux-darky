@@ -1,3 +1,10 @@
+---
+id: 39
+name: Inner Focus
+status: ai-generated
+character_count: 280
+---
+
 # Inner Focus - Ability ID 39
 
 ## In-Game Description

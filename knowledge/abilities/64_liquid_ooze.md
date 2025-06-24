@@ -1,3 +1,10 @@
+---
+id: 64
+name: Liquid Ooze
+status: ai-generated
+character_count: 278
+---
+
 # Liquid Ooze - Ability ID 64
 
 ## In-Game Description

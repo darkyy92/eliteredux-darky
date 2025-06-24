@@ -1,3 +1,10 @@
+---
+id: 62
+name: Guts
+status: ai-generated
+character_count: 283
+---
+
 # Guts - Ability ID 62
 
 ## In-Game Description

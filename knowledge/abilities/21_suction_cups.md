@@ -1,3 +1,10 @@
+---
+id: 21
+name: Suction Cups
+status: ai-generated
+character_count: 291
+---
+
 # Suction Cups - Ability ID 21
 
 ## In-Game Description

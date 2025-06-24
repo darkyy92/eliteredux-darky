@@ -1,3 +1,10 @@
+---
+id: 54
+name: Truant
+status: ai-generated
+character_count: 359
+---
+
 # Truant - Ability ID 54
 
 ## In-Game Description

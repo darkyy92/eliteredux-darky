@@ -1,3 +1,10 @@
+---
+id: 16
+name: Color Change
+status: ai-generated
+character_count: 287
+---
+
 # Color Change - Ability ID 16
 
 ## In-Game Description

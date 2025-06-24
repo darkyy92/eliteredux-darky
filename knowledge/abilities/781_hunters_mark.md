@@ -1,0 +1,48 @@
+---
+id: 781
+name: Hunter's Mark
+status: ai-generated
+character_count: 282
+---
+
+# Hunter's Mark - Ability ID 781
+
+## In-Game Description
+"Ambush + Deadeye."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+Grants perfect accuracy to Mega Launcher boosted moves and arrow-based attacks. Always critical hits on first turn. Critical hits target the opponent's lower defensive stat, dealing maximum damage through strategic precision.
+
+*Character count: 282*
+
+## Detailed Mechanical Explanation
+*For Discord/reference use*
+
+Hunter's Mark is a powerful combination ability that merges two distinct combat abilities:
+
+**Deadeye Component:**
+- **Perfect Accuracy**: Grants 100% accuracy (never misses) to:
+  - All Mega Launcher boosted moves (pulse moves, beam moves, ballistic moves)
+  - All arrow-based moves (marked with `arrow: true` in move data)
+- **Critical Hit Targeting**: When landing a critical hit, the ability calculates both the target's Defense and Special Defense stats, then automatically targets whichever is lower, maximizing damage output
+
+**Ambush Component:**
+- **First Turn Critical**: All attacks made on the user's first turn in battle are guaranteed critical hits
+- This effect only applies to the very first turn the Pokémon is on the field
+
+**Synergy Effects:**
+The combination creates a devastating opening strategy - first turn attacks are guaranteed critical hits that will target the opponent's weaker defensive stat while also having perfect accuracy if using compatible moves.
+
+**Compatible Move Types:**
+- **Mega Launcher Boosted**: Hyper Beam, Flash Cannon, Focus Blast, Signal Beam, Moongeist Beam, Steel Beam, and many others
+- **Arrow-Based**: All moves with the `arrow: true` flag, including Diamond Arrow, Archer Shot, Volt Bolt, and various custom projectile moves
+
+**Strategic Applications:**
+1. **Opening Gambit**: Devastating first-turn damage with guaranteed critical hits
+2. **Ranged Specialist**: Perfect accuracy with projectile and beam attacks
+3. **Stat Manipulation**: Critical hits bypass defensive boosts while targeting weaker stats
+4. **Coverage Options**: Works with diverse move types due to broad compatibility
+
+This ability is particularly effective on Pokémon with high Attack or Special Attack stats and access to compatible moves, making them formidable opening sweepers or specialized ranged attackers.

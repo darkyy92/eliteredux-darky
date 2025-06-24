@@ -1,3 +1,10 @@
+---
+id: 464
+name: Hunter's Horn
+status: ai-generated
+character_count: 285
+---
+
 # Hunter's Horn
 
 **Ability ID**: 464

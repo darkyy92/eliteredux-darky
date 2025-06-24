@@ -1,3 +1,10 @@
+---
+id: 47
+name: Thick Fat
+status: ai-generated
+character_count: 283
+---
+
 # Thick Fat - Ability ID 47
 
 ## In-Game Description

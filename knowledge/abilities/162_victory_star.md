@@ -42,8 +42,7 @@ Victory Star appears as both a regular ability and innate ability on several Pok
 - **Starmie**: Has Victory Star as an innate ability (alongside Natural Cure and Mystic Power)
 - Multiple other Pokemon have it as either regular or innate abilities
 
-## Extended Description
-
+## Extended In-Game Description
 Victory Star provides a consistent 20% accuracy boost to all moves used by the Pokemon and its allies in multi battles. This multiplicative boost stacks with other accuracy modifiers and is always active, making unreliable moves like Focus Blast and Thunder more dependable in crucial battles.
 
 **Character count: 293**

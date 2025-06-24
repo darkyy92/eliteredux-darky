@@ -1,17 +1,11 @@
-# North Wind - Ability #348
+---
+id: 348
+name: North Wind
+status: ai-generated
+character_count: 285
+---
 
-```yaml
-ability_id: 348
-ability_name: "North Wind"
-extended_description: "Summons a protective Aurora Veil for 3 turns upon entering battle, reducing damage from both physical and special attacks by 50%. The wielder is completely immune to Hail damage and weather effects. This ability provides immediate team-wide defensive support without requiring turn investment."
-short_description: "3 turns Aurora Veil on entry. Immune to Hail damage."
-type: "Defensive"
-activation: "On Switch-In"
-weather_immunity: "Hail"
-side_effect: "Aurora Veil (3 turns base, 5 turns with Light Clay)"
-competitive_tier: "A"
-strategic_value: "High"
-```
+# North Wind - Ability #348
 
 ## Overview
 

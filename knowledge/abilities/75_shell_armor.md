@@ -1,3 +1,10 @@
+---
+id: 75
+name: Shell Armor
+status: ai-generated
+character_count: 285
+---
+
 # Shell Armor - Ability ID 75
 
 ## In-Game Description

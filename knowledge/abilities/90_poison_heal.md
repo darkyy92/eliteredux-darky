@@ -1,3 +1,10 @@
+---
+id: 90
+name: Poison Heal
+status: ai-generated
+character_count: 285
+---
+
 # Poison Heal - Ability ID 90
 
 ## In-Game Description

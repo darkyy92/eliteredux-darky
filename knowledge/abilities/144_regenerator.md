@@ -1,3 +1,10 @@
+---
+id: 144
+name: Regenerator
+status: ai-generated
+character_count: 296
+---
+
 # Regenerator - Ability ID 144
 
 ## In-Game Description

@@ -7,10 +7,11 @@ character_count: 298
 
 # Draco Morale
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Uses Dragon Cheer on switch-in.
 
-## Extended Description
+## Extended In-Game Description
 Upon entering battle, automatically uses Dragon Cheer, boosting critical hit rate by one stage. Dragon-type Pokémon receive two stages instead. This draconic inspiration immediately prepares the user for more accurate strikes, making it especially powerful for Dragons who gain enhanced benefits.
 
 ## Mechanical Details

@@ -1,3 +1,10 @@
+---
+id: 505
+name: Mystic Blades
+status: ai-generated
+character_count: 290
+---
+
 # Mystic Blades - Ability ID 505
 
 ## In-Game Description

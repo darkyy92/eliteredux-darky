@@ -1,26 +1,8 @@
 ---
-ability_id: 350
-ability_name: "Violent Rush"
-extended_description: "Grants explosive first-turn performance with 50% Speed boost and 20% Attack increase, allowing the Pokémon to outpace opponents and hit harder immediately after switching in. The stat boosts only last for one turn, making precise timing absolutely crucial for maximum effectiveness."
-short_description: "Boosts Speed by 50% + Attack by 20% on first turn."
-game_description: "The Pokémon charges onto the battlefield with increased Speed and Attack for one turn."
-internal_name: "ABILITY_VIOLENT_RUSH"
-generation: "Elite Redux"
-category: "First Turn Boost"
-strategic_value: "High"
-competitive_viability: "Very High"
-pokemon_count: 52
-mechanic_type: "stat_boost"
-timing: "on_entry"
-duration: "one_turn"
-related_abilities: ["Showdown Mode", "Rapid Response", "Readied Action", "Ambush"]
-stat_changes:
-  - stat: "Speed"
-    multiplier: 1.5
-    percentage: 50
-  - stat: "Attack"
-    multiplier: 1.2
-    percentage: 20
+id: 350
+name: Violent Rush
+status: ai-generated
+character_count: 0
 ---
 
 # Violent Rush (Ability #350)

@@ -1,3 +1,10 @@
+---
+id: 568
+name: "Mind Crush (ID: 568)"
+status: ai-generated
+character_count: 264
+---
+
 # Mind Crush (ID: 568)
 
 ## Summary

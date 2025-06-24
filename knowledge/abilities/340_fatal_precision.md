@@ -1,31 +1,8 @@
 ---
-ability_id: 340
-ability_name: "Fatal Precision"
-short_description: "Super-effective moves never miss and always crit."
-extended_description: "When this Pokémon uses a move that would be super-effective against the target, the move automatically hits regardless of accuracy checks and always lands a critical hit for devastating damage. This ability only affects offensive damaging moves and never triggers on status moves."
-category: "Offensive Utility"
-introduced_generation: "Elite Redux"
-battle_mechanics:
-  - "Accuracy bypass for super-effective moves"
-  - "Guaranteed critical hits on super-effective moves"
-  - "Only affects damaging moves (not status moves)"
-code_references:
-  - "src/abilities.cc:3599-3609 (FatalPrecision definition)"
-  - "src/abilities.cc:9185 (Ability registration)"
-  - "src/abilities.cc:7122-7124 (Final Blow ability uses same mechanics)"
-strategic_applications:
-  - "Excellent for type-coverage focused builds"
-  - "Synergizes well with diverse movesets"
-  - "Particularly powerful on Pokémon with access to many different move types"
-competitive_viability: "High"
-notable_interactions:
-  - "Works with any damaging move that achieves super-effective typing"
-  - "Critical hit multiplier stacks with other crit-boosting effects"
-  - "Bypasses accuracy-lowering moves and abilities when conditions are met"
-related_abilities:
-  - "Final Blow (ABILITY_FINAL_BLOW) - Contains Fatal Precision's effects plus Unseen Fist"
-  - "Sniper (ABILITY_SNIPER) - Boosts critical hit damage"
-  - "Super Luck (ABILITY_SUPER_LUCK) - Increases critical hit chance"
+id: 340
+name: Fatal Precision
+status: ai-generated
+character_count: 0
 ---
 
 # Fatal Precision (Ability #340)

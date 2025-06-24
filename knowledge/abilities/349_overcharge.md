@@ -1,14 +1,8 @@
 ---
-ability_id: 349
-ability_name: "Overcharge"
-extended_description: "Makes Electric-type moves super effective against Electric-type Pokémon and allows paralysis of Electric-types. This ability disrupts the typical resistance Electric-types have to their own type, creating new strategic opportunities in battle and breaking traditional type interaction rules."
-short_description: "Electric is super effective vs Electric. Can paralyze Electric."
-category: "Type Effectiveness"
-generation: "Elite Redux Custom"
-battle_mechanics: ["type_effectiveness", "status_immunity_bypass"]
-affected_types: ["Electric"]
-strategic_value: "High"
-competitive_tier: "A-Tier"
+id: 349
+name: Overcharge
+status: ai-generated
+character_count: 0
 ---
 
 # Overcharge (Ability #349)

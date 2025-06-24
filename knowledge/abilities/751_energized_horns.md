@@ -1,3 +1,10 @@
+---
+id: 751
+name: Energized Horns
+status: ai-generated
+character_count: 293
+---
+
 # Energized Horns - Ability ID 751
 
 ## In-Game Description

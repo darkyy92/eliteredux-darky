@@ -1,3 +1,10 @@
+---
+id: 27
+name: Effect Spore
+status: ai-generated
+character_count: 285
+---
+
 # Effect Spore - Ability ID 27
 
 ## In-Game Description

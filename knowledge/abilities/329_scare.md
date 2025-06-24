@@ -1,14 +1,8 @@
 ---
-ability_id: 329
-ability_name: Scare
-short_description: "Lowers foes' Sp. Atk by one stage on entry."
-category: intimidate_clone
-type: debuff
-targets: both_opponents
-stat_affected: special_attack
-stat_change: -1
-immunity_list: ["Oblivious", "Own Tempo", "Inner Focus", "Scrappy"]
-related_abilities: ["Intimidate", "Fearmonger", "Terrify", "Yuki-Onna", "Malicious", "Petrify", "Scarecrow"]
+id: 329
+name: Scare
+status: ai-generated
+character_count: 295
 ---
 
 # Scare (Ability #329)
@@ -22,7 +16,7 @@ Scare is an intimidation-based ability that lowers the Special Attack of opposin
 - **Effect**: Lowers Special Attack by 1 stage (-1)
 - **Immunity**: Blocked by abilities like Oblivious, Own Tempo, Inner Focus, and Scrappy
 
-## Extended Description
+## Extended In-Game Description
 Upon entering battle, this Pokemon's intimidating presence strikes fear into opposing Pokemon, causing them to lose confidence in their special attacks. The psychological effect reduces their Special Attack stat by one stage, making their special moves considerably weaker throughout the battle.
 
 ## Technical Implementation

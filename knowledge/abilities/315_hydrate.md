@@ -1,8 +1,7 @@
 ---
-ability_id: 315
-ability_name: "Hydrate"
-ability_type: "ATE Ability"
-implementation_status: "Implemented"
+id: 315
+name: Hydrate
+status: ai-generated
 character_count: 296
 ---
 
@@ -18,7 +17,7 @@ character_count: 296
 ## In-Game Description
 "Normal-type moves become Water and Water gains STAB."
 
-## Extended Description
+## Extended In-Game Description
 Hydrate transforms all Normal-type moves used by the Pokémon into Water-type attacks, gaining a 20% power boost and STAB benefits. This includes physical moves like Tackle and Body Slam, special moves like Swift and Hyper Beam, and status moves. Water-type moves are boosted by rain weather and resisted by Grass/Dragon types. Perfect for versatile Water attackers.
 
 Character count: 296

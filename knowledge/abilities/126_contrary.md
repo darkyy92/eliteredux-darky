@@ -1,3 +1,10 @@
+---
+id: 126
+name: Contrary
+status: ai-generated
+character_count: 292
+---
+
 # Contrary - Ability ID 126
 
 ## In-Game Description

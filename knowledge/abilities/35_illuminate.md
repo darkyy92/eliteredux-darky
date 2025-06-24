@@ -1,3 +1,10 @@
+---
+id: 35
+name: Illuminate
+status: ai-generated
+character_count: 286
+---
+
 # Illuminate - Ability ID 35
 
 ## In-Game Description

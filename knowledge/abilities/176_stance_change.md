@@ -1,3 +1,10 @@
+---
+id: 176
+name: Stance Change
+status: ai-generated
+character_count: 282
+---
+
 # Stance Change - Ability ID 176
 
 ## In-Game Description

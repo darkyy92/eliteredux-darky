@@ -1,23 +1,15 @@
 ---
-ability_id: 822
-ability_name: "Ominous Shroud"
-short_description: "Phantom + Shadow Shield."
+id: 822
+name: Ominous Shroud
+status: ai-generated
 character_count: 295
-combination_abilities:
-  - phantom
-  - shadow_shield
-type_addition: ghost
-damage_reduction: 50%
-damage_reduction_condition: "at full HP only"
-breakable: true
 ---
 
 # Ominous Shroud (Ability ID: 822)
 
 **Short Description:** Phantom + Shadow Shield.
 
-## Extended Description
-
+## Extended In-Game Description
 Ominous Shroud grants the Pokémon Ghost typing upon entering battle, even if it wasn't Ghost-type originally. Additionally, when at full HP, the Pokémon takes only 50% damage from all attacking moves. This defensive bonus is lost when the Pokémon's HP drops below maximum, but the Ghost typing remains permanent throughout battle.
 
 **Character count: 295**

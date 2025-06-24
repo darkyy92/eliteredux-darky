@@ -1,3 +1,10 @@
+---
+id: 30
+name: Natural Cure
+status: ai-generated
+character_count: 291
+---
+
 # Natural Cure - Ability ID 30
 
 ## In-Game Description

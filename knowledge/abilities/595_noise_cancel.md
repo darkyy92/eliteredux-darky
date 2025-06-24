@@ -11,8 +11,8 @@ character_count: 289
 **Type:** Defensive Ability  
 **Breakable:** Yes  
 
-## Description
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Provides sound-based move immunity to the user and allies on the same side. Functions identically to Soundproof but extends protection to team members, making it invaluable in doubles battles. Blocks all moves with the FLAG_SOUND property, including Hyper Voice, Boomburst, and Bug Buzz.
 
 ## Extended Description (289 characters)

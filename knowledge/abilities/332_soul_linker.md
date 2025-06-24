@@ -1,9 +1,8 @@
 ---
-ability_id: 332
-ability_name: Soul Linker
-type: Defensive/Retaliation
-category: Damage Reflection
-generation: Elite Redux
+id: 332
+name: Soul Linker
+status: ai-generated
+character_count: 283
 ---
 
 # Soul Linker (Ability #332)
@@ -17,7 +16,8 @@ generation: Elite Redux
 ## In-Game Description
 "Enemies take all the damage they deal, same for this Pokémon."
 
-## Extended Description (289 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Soul Linker creates a mystical bond between battlers, causing all damage dealt to be perfectly mirrored back to the attacker. When this Pokémon takes damage, the opponent suffers identical harm. Conversely, when attacking, this Pokémon also endures the exact same damage it inflicts.
 
 ## Mechanics

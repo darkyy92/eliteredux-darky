@@ -1,3 +1,10 @@
+---
+id: 69
+name: Rock Head
+status: ai-generated
+character_count: 281
+---
+
 # Rock Head - Ability ID 69
 
 ## In-Game Description

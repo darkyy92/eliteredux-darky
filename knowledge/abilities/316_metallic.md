@@ -1,13 +1,8 @@
 ---
-ability_id: 316
-ability_name: "Metallic"
-short_description: "Adds Steel type to itself."
-extended_description: "Metallic adds Steel as a third type upon entry, granting Steel resistances and immunities while preserving original typing. Provides defensive utility without losing STAB. Particularly effective for frail Pokemon seeking defensive coverage while maintaining offensive versatility and type matchups."
+id: 316
+name: Metallic
+status: ai-generated
 character_count: 298
-implementation_file: "src/abilities.cc"
-trigger: "onEntry"
-category: "Type Addition"
-breakable: false
 ---
 
 # Metallic (Ability #316)
@@ -23,7 +18,7 @@ Metallic is a defensive utility ability that grants the holder an additional Ste
 - **Breakable**: No
 - **Trigger**: On Entry (when Pokémon switches in)
 
-## Extended Description
+## Extended In-Game Description
 Metallic adds Steel as a third type upon entry, granting Steel resistances and immunities while preserving original typing. Provides defensive utility without losing STAB. Particularly effective for frail Pokemon seeking defensive coverage while maintaining offensive versatility and type matchups.
 
 **Character count: 298**

@@ -1,3 +1,10 @@
+---
+id: 89
+name: Iron Fist
+status: ai-generated
+character_count: 306
+---
+
 # Iron Fist - Ability ID 89
 
 ## In-Game Description

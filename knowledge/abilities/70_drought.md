@@ -1,3 +1,10 @@
+---
+id: 70
+name: "Drought (Ability ID: 70)"
+status: ai-generated
+character_count: 268
+---
+
 # Drought (Ability ID: 70)
 
 ## In-Game Description

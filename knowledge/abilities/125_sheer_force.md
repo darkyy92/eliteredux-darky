@@ -1,3 +1,10 @@
+---
+id: 125
+name: Sheer Force
+status: ai-generated
+character_count: 290
+---
+
 # Sheer Force - Ability ID 125
 
 ## In-Game Description

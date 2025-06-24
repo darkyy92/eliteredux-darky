@@ -1,3 +1,10 @@
+---
+id: 101
+name: "Ability: Technician"
+status: ai-generated
+character_count: 347
+---
+
 # Ability: Technician
 
 ## Basic Information
@@ -8,7 +15,7 @@
 ## In-Game Description
 "Moves with 60 BP or less get a 1.5x boost."
 
-## Extended Description
+## Extended In-Game Description
 Technician boosts the power of weaker moves by 50%, turning moves with 60 base power or less into viable options. This includes multi-hit moves calculated per hit, priority moves like Bullet Punch and Mach Punch, and utility moves with damage like Rapid Spin. Perfect for sweepers who rely on priority or multi-hit strategies.
 
 Character count: 299

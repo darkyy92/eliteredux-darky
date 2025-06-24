@@ -1,3 +1,10 @@
+---
+id: 97
+name: Sniper (Ability #97)
+status: ai-generated
+character_count: 364
+---
+
 # Sniper (Ability #97)
 
 ## Basic Information
@@ -69,7 +76,7 @@ constexpr Ability Sniper = {
 - **Abilities that boost accuracy**: Ensures crit-focused moves connect
 - **Speed control**: Allows getting off multiple attacks for more crit chances
 
-## Extended Description
+## Extended In-Game Description
 Sniper amplifies critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. This makes critical hits devastating, turning them into near one-hit KOs on neutral targets. Perfect for crit-focused strategies using high crit-ratio moves or Focus Energy setups. The massive damage spike rewards skillful play and proper setup.
 
 Character count: 299

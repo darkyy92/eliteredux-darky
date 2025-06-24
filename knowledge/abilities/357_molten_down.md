@@ -1,16 +1,11 @@
-# Molten Down (Ability #357)
+---
+id: 357
+name: Molten Down
+status: ai-generated
+character_count: 285
+---
 
----
-ability_id: 357
-ability_name: "Molten Down"
-extended_description: "This ability fundamentally alters type matchups by making Fire-type moves super effective against Rock-type Pokemon, dealing double damage where they would normally be resisted. This creates new strategic possibilities for Fire-types and completely changes traditional battle dynamics."
-short_description: "Fire-type is super effective against Rock-type."
-pokemon_with_ability: ["Charizard variants", "Magmar line", "Heatran variants", "Slugma line", "Larvesta line", "Various Fire-type legendaries"]
-type_interaction: "Fire -> Rock (0.5x becomes 2.0x)"
-battle_impact: "High - Changes fundamental type matchups"
-strategic_value: "Very High - Enables new team compositions"
-competitive_tier: "S-Tier"
----
+# Molten Down (Ability #357)
 
 ## Overview
 

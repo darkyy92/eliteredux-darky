@@ -1,3 +1,10 @@
+---
+id: 20
+name: Own Tempo
+status: ai-generated
+character_count: 291
+---
+
 # Own Tempo - Ability ID 20
 
 ## In-Game Description

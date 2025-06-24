@@ -1,3 +1,10 @@
+---
+id: 44
+name: Rain Dish
+status: ai-generated
+character_count: 302
+---
+
 # Rain Dish - Ability ID 44
 
 ## In-Game Description

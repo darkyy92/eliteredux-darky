@@ -62,7 +62,7 @@ Multitype is an exclusive ability that allows the holder to change their type ba
 ## Known Users
 - Arceus (all forms)
 
-## Extended Description
+## Extended In-Game Description
 Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.
 
 Character count: 299

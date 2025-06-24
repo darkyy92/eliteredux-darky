@@ -1,3 +1,10 @@
+---
+id: 46
+name: Pressure
+status: ai-generated
+character_count: 289
+---
+
 # Pressure - Ability ID 46
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 17
+name: Immunity
+status: ai-generated
+character_count: 284
+---
+
 # Immunity - Ability ID 17
 
 ## In-Game Description

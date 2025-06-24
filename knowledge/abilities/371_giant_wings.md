@@ -1,10 +1,8 @@
 ---
-ability_id: 371
-ability_name: "Giant Wings"
-extended_description: "This Pokemon's immense wings generate powerful air currents that enhance all wind, wing, and air-based attacks by 30%. The massive wingspan creates devastating gusts that amplify moves like Hurricane, Wing Attack, and Tailwind with tremendous force, making aerial combat exceptionally potent."
-competitive_tier: "Medium"
-battle_mechanic: "Flying Enhancement"
-analysis_date: "2025-06-24"
+id: 371
+name: Giant Wings
+status: ai-generated
+character_count: 0
 ---
 
 # Giant Wings (Ability #371)

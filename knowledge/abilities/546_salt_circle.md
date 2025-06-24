@@ -1,3 +1,10 @@
+---
+id: 546
+name: "Salt Circle (ID: 546)"
+status: ai-generated
+character_count: 264
+---
+
 # Salt Circle (ID: 546)
 
 ## Summary

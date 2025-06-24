@@ -1,3 +1,10 @@
+---
+id: 60
+name: Sticky Hold
+status: ai-generated
+character_count: 288
+---
+
 # Sticky Hold - Ability ID 60
 
 ## In-Game Description

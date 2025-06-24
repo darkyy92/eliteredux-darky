@@ -10,7 +10,7 @@ character_count: 294
 ## Short Description
 Blocks weather dmg and powders. Takes -20% physical damage.
 
-## Extended Description
+## Extended In-Game Description
 Guardian Coat provides triple protection: complete immunity to weather damage from sandstorm and hail, total immunity to all powder-based moves like Sleep Powder and Spore, and reduces all physical damage taken by 20%. This defensive ability can be suppressed by Mold Breaker-type abilities.
 
 ## Implementation Details

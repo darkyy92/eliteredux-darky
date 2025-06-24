@@ -1,3 +1,10 @@
+---
+id: 93
+name: Hydration - Ability #93
+status: ai-generated
+character_count: 314
+---
+
 # Hydration - Ability #93
 
 ## Basic Information
@@ -26,7 +33,8 @@
   - Primal Rain
 - Does NOT activate if rain is blocked by abilities like Air Lock or Cloud Nine
 
-## Extended Description (293 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Hydration cures the Pokémon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity.
 
 Character count: 293

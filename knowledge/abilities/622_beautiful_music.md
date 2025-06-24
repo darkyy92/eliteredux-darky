@@ -1,3 +1,10 @@
+---
+id: 622
+name: "Beautiful Music (ID: 622)"
+status: ai-generated
+character_count: 258
+---
+
 # Beautiful Music (ID: 622)
 
 ## Summary

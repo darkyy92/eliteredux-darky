@@ -1,14 +1,8 @@
 ---
-ability_id: 342
-ability_name: "Seaweed"
-extended_description: "Seaweed provides dual fire-grass interaction benefits. When the user is a Grass-type, it takes only half damage from Fire-type attacks. When the user attacks Fire-types with Grass moves, damage is doubled, creating powerful offensive and defensive synergy for aquatic plant Pokemon."
-short_description: "Takes 1/2 dmg from Fire if Grass. Grass deals x2 dmg to Fire."
-type_interactions: ["grass", "fire"]
-effect_type: "defensive_resistance_offensive_boost"
-breakable: true
-pokemon_with_ability: ["Tangela", "Lotad", "Lombre", "Ludicolo", "Lileep", "Cradily", "Tangrowth", "Dhelmise"]
-competitive_tier: "situational"
-strategic_value: "high"
+id: 342
+name: Seaweed
+status: ai-generated
+character_count: 0
 ---
 
 # Seaweed (Ability #342)

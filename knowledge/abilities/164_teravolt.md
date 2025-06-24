@@ -76,7 +76,7 @@ int ShouldSetMoldBreaker(int battler, MoveEnum move) {
 }
 ```
 
-## Extended Description
+## Extended In-Game Description
 Teravolt charges the Pokemon with bursting electrical energy that allows moves to penetrate all defensive abilities while adding Electric typing. Bypasses Wonder Guard, Levitate, and other protective traits while granting Electric STAB and resistances for maximum battlefield control.
 
 **Character count: 284**

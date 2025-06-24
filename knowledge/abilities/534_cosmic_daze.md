@@ -1,3 +1,10 @@
+---
+id: 534
+name: Cosmic Daze
+status: ai-generated
+character_count: 274
+---
+
 # Cosmic Daze
 
 ## In-Game Description

@@ -1,11 +1,8 @@
 ---
-ability_id: 318
-ability_name: "Primal Armor"
-ability_description: "Takes 50% less damage from Super-effective moves."
+id: 318
+name: Primal Armor
+status: ai-generated
 character_count: 297
-tags: ["defensive", "damage_reduction", "super_effective", "breakable"]
-similar_abilities: ["Filter", "Solid Rock", "Prism Armor"]
-affected_pokemon: ["Aggron-Mega", "Bastiodon", "Steelix-Mega", "Regigigas", "Kyogre-Primal", "Dialga", "Zygarde", "Palkia"]
 ---
 
 # Primal Armor (Ability #318)
@@ -16,7 +13,7 @@ affected_pokemon: ["Aggron-Mega", "Bastiodon", "Steelix-Mega", "Regigigas", "Kyo
 - **Short Description**: Takes 50% less damage from Super-effective moves.
 - **Character count**: 297
 
-## Extended Description
+## Extended In-Game Description
 Primal Armor reduces damage from super-effective moves by 50%. Activates when moves have 2x or higher type effectiveness, cutting damage to manageable levels. Works against all super-effective attacks regardless of type. Stacks with other damage reduction effects like berries for incredible bulk.
 
 ## Technical Implementation

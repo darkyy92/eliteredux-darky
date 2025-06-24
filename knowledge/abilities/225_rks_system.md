@@ -2,7 +2,7 @@
 id: 225
 name: RKS System
 status: ai-generated
-character_count: 289
+character_count: 266
 ---
 
 # RKS System - Ability ID 225
@@ -15,7 +15,7 @@ character_count: 289
 
 RKS System changes the Pokémon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
 
-*Character count: 289*
+*Character count: 266*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

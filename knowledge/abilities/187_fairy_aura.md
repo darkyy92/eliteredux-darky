@@ -27,7 +27,7 @@ When Aura Break is present on the field:
 - **Application**: `APPLY_ON_ANY` - Affects all Pokemon's moves, not just the ability holder
 - **Entry Message**: Displays switch-in announcement (B_MSG_SWITCHIN_FAIRYAURA)
 
-## Extended Description
+## Extended In-Game Description
 Fairy Aura radiates mystical energy that empowers all Fairy-type moves on the battlefield by 33%, affecting both allies and opponents equally. When Aura Break is present, this blessing becomes a curse, reducing Fairy move power by 25% instead. Creates significant field-wide impact.
 
 ## Technical Notes

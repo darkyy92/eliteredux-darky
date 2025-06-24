@@ -1,10 +1,8 @@
 ---
-ability_id: 821
-ability_name: "Scarecrow"
-short_description: "Scare + Bad Luck."
+id: 821
+name: Scarecrow
+status: ai-generated
 character_count: 295
-category: "Combination Ability"
-combination_of: ["Scare", "Bad Luck"]
 ---
 
 # Scarecrow (Ability #821)
@@ -59,8 +57,7 @@ constexpr Ability Scarecrow = {
 }
 ```
 
-## Extended Description
-
+## Extended In-Game Description
 **Character count: 295**
 
 Scarecrow combines Scare and Bad Luck abilities into one powerful entry hazard. Upon switching in, it intimidates opposing Pokémon by lowering their Special Attack by one stage, affecting both foes in double battles. Additionally, it cursed opponents with extremely bad luck throughout battle, completely preventing them from landing critical hits and reducing any move effect chances below 100% to 0%. This combination makes Scarecrow excellent for neutering special attackers while providing consistent battle control through RNG manipulation.

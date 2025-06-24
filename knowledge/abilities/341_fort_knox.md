@@ -1,27 +1,8 @@
 ---
-ability_id: 341
-ability_name: "Fort Knox"
-short_description: "Blocks most damage boosting and multihit abilities."
-extended_description: "Neutralizes offensive abilities that boost damage or enable multi-hits. Blocks 158+ damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond and Multi Headed bypass this defensive fortress protection."
+id: 341
+name: Fort Knox
+status: ai-generated
 character_count: 299
-category: "Defensive"
-type_effectiveness: null
-battle_mechanics:
-  - "Ability Blocking"
-  - "Damage Reduction"
-  - "Multi-hit Prevention"
-implementation_files:
-  - "src/abilities.cc:3611-3613"
-  - "src/battle_util.c:6825-6849" 
-  - "src/battle_script_commands.c:970-984"
-blocked_abilities_count: "158+"
-bypass_abilities:
-  - "Parental Bond (resistsFortKnox = TRUE)"
-  - "Multi Headed (resistsFortKnox = TRUE)"
-code_references:
-  - "HasFortKnox() function in battle_script_commands.c:981"
-  - "CalculateAbilityMultipliers() in battle_util.c:6828"
-  - "GetParentalBondType() check in battle_script_commands.c:974"
 ---
 
 # Fort Knox (Ability ID: 341)

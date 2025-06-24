@@ -1,11 +1,8 @@
 ---
-ability_id: 335
-ability_name: "Haunted Spirit"
-short_description: "When this Pokémon is KO'd, casts a Curse on the attacker."
-extended_description: "When this Pokémon is knocked out by a contact move from a non-Ghost type attacker, the attacker becomes cursed with vengeful energy. Cursed Pokémon lose 1/4 of their maximum HP at the end of each turn as spiritual damage. This posthumous revenge effect persists until switched out or fainted."
-category: "Defensive/Retaliation"
-type_synergy: "Ghost-type"
-competitive_viability: "B-tier"
+id: 335
+name: Haunted Spirit
+status: ai-generated
+character_count: 0
 ---
 
 # Haunted Spirit (Ability #335)

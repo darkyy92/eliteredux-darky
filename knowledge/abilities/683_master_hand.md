@@ -10,7 +10,8 @@ character_count: 286
 **Type:** Combination Ability  
 **ID:** 683
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Master Hand merges Mega Launcher and Rampage abilities. Aura and pulse moves gain 30% power while status moves become enhanced. After defeating opponents, recharge status immediately ends, enabling continuous offensive chains through boosted projectile attacks and relentless momentum.
 
 ## Effects

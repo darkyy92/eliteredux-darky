@@ -1,16 +1,8 @@
 ---
-ability_id: 339
-ability_name: "Spider Lair"
-short_description: "Casts Sticky Web on entry. Lasts 5 turns."
-extended_description: "Upon entering battle, automatically sets up Sticky Web on the opponent's side for exactly 5 turns. This hazard lowers the Speed stat of any enemy Pokemon that switches in by one stage, providing guaranteed entry control without turn investment until the webs naturally expire from the field."
-generation: "Elite Redux"
-type: "Entry Hazard"
-competitive_tier: "High"
-pokemon_count: 15
-upgrade_available: true
-upgrade_id: 752
-upgrade_name: "Spider Lair Upgrade"
-upgrade_duration: 7
+id: 339
+name: Spider Lair
+status: ai-generated
+character_count: 0
 ---
 
 # Spider Lair (Ability #339)

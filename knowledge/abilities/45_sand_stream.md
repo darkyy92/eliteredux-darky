@@ -1,3 +1,10 @@
+---
+id: 45
+name: "Sand Stream (Ability ID: 45)"
+status: ai-generated
+character_count: 261
+---
+
 # Sand Stream (Ability ID: 45)
 
 ## In-Game Description

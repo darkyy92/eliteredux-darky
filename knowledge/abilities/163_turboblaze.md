@@ -23,7 +23,7 @@ Turboblaze is a powerful offensive ability that combines the mold breaker effect
 - **Type Addition**: Uses AddBattlerType(battler, TYPE_FIRE) on entry
 - **Battle System**: Checked alongside ABILITY_MOLD_BREAKER and ABILITY_TERAVOLT in ability-ignoring mechanics
 
-## Extended Description
+## Extended In-Game Description
 Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
 
 *Character count: 283*

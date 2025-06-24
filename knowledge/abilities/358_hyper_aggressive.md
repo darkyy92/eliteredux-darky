@@ -1,13 +1,8 @@
 ---
-ability_id: 358
-ability_name: "Hyper Aggressive"
-short_description: "Moves hit twice. Second hit does 25% damage."
-extended_description: "Makes all moves hit twice in succession. The first hit deals normal damage, while the second hit deals 25% of the original damage. This ability affects all damaging moves regardless of type or category, providing significant damage output increases at the cost of increased predictability."
-implementation_type: "parental_bond"
-category: "offensive"
-blocks_fort_knox: true
-related_abilities: ["Parental Bond", "Multi Headed", "Primal Maw", "Dual Wield"]
-pokemon_count: 79
+id: 358
+name: Hyper Aggressive
+status: ai-generated
+character_count: 279
 ---
 
 # Hyper Aggressive (Ability ID: 358)

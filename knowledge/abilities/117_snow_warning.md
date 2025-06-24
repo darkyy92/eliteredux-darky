@@ -1,3 +1,10 @@
+---
+id: 117
+name: "Snow Warning (Ability ID: 117)"
+status: ai-generated
+character_count: 272
+---
+
 # Snow Warning (Ability ID: 117)
 
 ## In-Game Description

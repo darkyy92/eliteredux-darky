@@ -1,10 +1,8 @@
 ---
-ability_id: 396
-ability_name: "Liquid Voice"
-extended_description: "Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type through aquatic resonance. This ability enhances vocal attacks by channeling them through liquid medium, making sound-based strategies more versatile and effective in diverse combat situations."
-competitive_tier: "Medium"
-battle_mechanic: "Sound/Water Enhancement"
-analysis_date: "2025-06-24"
+id: 396
+name: Liquid Voice
+status: ai-generated
+character_count: 0
 ---
 
 # Liquid Voice (Ability #396)
@@ -15,7 +13,8 @@ analysis_date: "2025-06-24"
 - **Type**: Sound/Water Enhancement
 - **Introduced**: Generation VII equivalent
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 **Game Description**: "Sound moves get a 1.2x boost and become Water if Normal."
 
 **Extended Description**: Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type. This ability enhances vocal attacks through aquatic resonance, making sound-based strategies more versatile and effective in combat.

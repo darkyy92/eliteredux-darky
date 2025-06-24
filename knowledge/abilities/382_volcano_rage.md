@@ -1,10 +1,8 @@
 ---
-ability_id: 382
-ability_name: "Volcano Rage"
-extended_description: "After using any Fire-type move, this Pokémon automatically follows up with a 50 BP Eruption attack. The volcanic fury unleashed creates devastating follow-up damage, making every Fire-type attack a potential double-hit combo that scales with the user's remaining HP for maximum explosive impact."
-competitive_tier: "High"
-battle_mechanic: "Followup Move"
-analysis_date: "2025-06-24"
+id: 382
+name: Volcano Rage
+status: ai-generated
+character_count: 0
 ---
 
 # Volcano Rage (Ability #382)

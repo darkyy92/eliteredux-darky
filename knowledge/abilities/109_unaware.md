@@ -1,3 +1,10 @@
+---
+id: 109
+name: Unaware
+status: ai-generated
+character_count: 300
+---
+
 # Unaware - Ability ID 109
 
 ## In-Game Description

@@ -92,7 +92,7 @@ When Cursed Body activates:
 ## Notable Pokémon
 Pokémon that typically have access to Cursed Body often include Ghost-types and defensive Pokémon that benefit from move disruption.
 
-## Extended Description
+## Extended In-Game Description
 Character count: 290
 
 "Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by a contact move. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokémon that can survive multiple hits."

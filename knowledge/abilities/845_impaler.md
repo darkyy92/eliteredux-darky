@@ -34,6 +34,5 @@ Bleed is a primary status condition that:
 - Rock and Ghost types are immune to Bleed
 - Unlike other status conditions, Bleed's specific damage mechanics vary by implementation
 
-## Extended Description
-
+## Extended In-Game Description
 Mighty Horn's 30% damage boost to horn moves combines with a 30% chance to inflict Bleed status. Rock/Ghost types immune. Bleed prevents other status conditions. Stacks multiplicatively with other modifiers.

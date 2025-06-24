@@ -1,3 +1,10 @@
+---
+id: 53
+name: Pickup
+status: ai-generated
+character_count: 296
+---
+
 # Pickup - Ability ID 53
 
 ## In-Game Description

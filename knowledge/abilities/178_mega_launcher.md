@@ -1,3 +1,10 @@
+---
+id: 178
+name: "Mega Launcher (Ability ID: 178)"
+status: ai-generated
+character_count: 261
+---
+
 # Mega Launcher (Ability ID: 178)
 
 ## In-Game Description

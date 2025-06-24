@@ -1,21 +1,8 @@
 ---
-ability_id: 326
-ability_name: "Impenetrable"
-ability_enum: "ABILITY_IMPENETRABLE"
-short_description: "Only damaged by attacks."
-category: "Defensive"
-generation_introduced: "Elite Redux"
-related_abilities:
-  - "Magic Guard (ABILITY_MAGIC_GUARD)"
-implementation_notes:
-  - "Uses magicGuard = TRUE flag"
-  - "Identical to Magic Guard in functionality"
-pokemon_with_ability: []
-tags:
-  - "indirect_damage_immunity"
-  - "hazard_immunity" 
-  - "weather_immunity"
-  - "recoil_immunity"
+id: 326
+name: Impenetrable
+status: ai-generated
+character_count: 838
 ---
 
 # Impenetrable (Ability #326)
@@ -44,7 +31,7 @@ Impenetrable protects against all non-attack damage sources:
 - Self-inflicted damage from moves like Belly Drum
 - Struggle damage (when no PP remains)
 
-## Extended Description
+## Extended In-Game Description
 **Character Count Check**: Let me count the extended description characters:
 
 "Provides complete immunity to all forms of indirect damage including entry hazards like Spikes and Stealth Rock, weather effects such as Sandstorm and Hail, status condition damage from Poison and Burn, recoil damage from high-power moves, and various other sources."

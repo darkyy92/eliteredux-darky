@@ -1,3 +1,10 @@
+---
+id: 23
+name: Shadow Tag
+status: ai-generated
+character_count: 296
+---
+
 # Shadow Tag - Ability ID 23
 
 ## In-Game Description

@@ -1,10 +1,8 @@
 ---
-ability_id: 372
-ability_name: "Momentum"
-extended_description: "Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts directly become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes well with Choice Scarf."
-competitive_tier: "High"
-battle_mechanic: "Stat Substitution"
-analysis_date: "2025-06-24"
+id: 372
+name: Momentum
+status: ai-generated
+character_count: 290
 ---
 
 # Momentum - Ability ID 372

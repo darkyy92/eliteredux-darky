@@ -1,17 +1,8 @@
 ---
-ability_id: 351
-ability_name: "Flaming Soul"
-ability_type: "Priority Control"
-battle_mechanic: "Move Priority"
-extended_description: "When this Pokémon is at maximum HP, all Fire-type moves it uses gain +1 priority. This allows faster Fire attacks to outspeed opponents but only while completely healthy, creating strategic pressure around HP management and positioning. Similar to Gale Wings but for Fire-type moves exclusively."
-short_description: "Fire-type moves get +1 priority at max HP."
-activation_condition: "Max HP + Fire-type move"
-priority_boost: "+1"
-type_restriction: "Fire-type moves only"
-hp_requirement: "Must be at maximum HP"
-tags: ["priority", "conditional", "fire-type", "gale-wings-variant"]
-competitive_tier: "High"
-strategic_value: "Excellent"
+id: 351
+name: Flaming Soul
+status: ai-generated
+character_count: 0
 ---
 
 # Flaming Soul (Ability #351)

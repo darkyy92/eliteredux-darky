@@ -1,3 +1,10 @@
+---
+id: 36
+name: Trace
+status: ai-generated
+character_count: 282
+---
+
 # Trace - Ability ID 36
 
 ## In-Game Description

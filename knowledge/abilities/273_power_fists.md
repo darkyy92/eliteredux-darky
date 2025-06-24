@@ -1,3 +1,10 @@
+---
+id: 273
+name: Power Fists
+status: ai-generated
+character_count: 296
+---
+
 # Power Fists - Ability ID 273
 
 ## In-Game Description

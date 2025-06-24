@@ -1,3 +1,10 @@
+---
+id: 302
+name: Coil Up
+status: ai-generated
+character_count: 283
+---
+
 # Coil Up - Ability ID 302
 
 ## In-Game Description

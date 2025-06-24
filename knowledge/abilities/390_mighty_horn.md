@@ -1,10 +1,8 @@
 ---
-ability_id: 390
-ability_name: "Mighty Horn"
-extended_description: "Harnesses the primal power of horns and drills to amplify their piercing force. This ability channels ancient energy through horn-based moves, increasing their damage by 30% and enhancing their natural ability to penetrate defenses and strike critical hits with devastating precision."
-competitive_tier: "Medium"
-battle_mechanic: "Horn Enhancement"
-analysis_date: "2025-06-24"
+id: 390
+name: Mighty Horn
+status: ai-generated
+character_count: 0
 ---
 
 # Mighty Horn (Ability #390)

@@ -1,3 +1,10 @@
+---
+id: 52
+name: Hyper Cutter
+status: ai-generated
+character_count: 313
+---
+
 # Hyper Cutter - Ability ID 52
 
 ## In-Game Description

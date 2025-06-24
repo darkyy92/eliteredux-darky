@@ -1,30 +1,7 @@
 ---
-ability_id: 354
-ability_name: "Weather Control"
-extended_description: "Grants immunity to 18 specific weather moves including Blizzard, Thunder, Hurricane, Solar Beam, Weather Ball, and Storm moves (Bleakwind, Sandsear, Springtide, Wildbolt). Does not block weather-setting moves or weather-boosted damage. Weather moves fail completely against this defensive ability."
-short_description: "Negates all weather based moves from enemies."
-category: "Defensive Immunity"
-mechanic_type: "Move Immunity"
-affected_moves: ["Blizzard", "Solar Beam", "Thunder", "Weather Ball", "Hurricane", "Ominous Wind", "Fire Pledge", "Water Pledge", "Grass Pledge", "Bleakwind Storm", "Sandsear Storm", "Springtide Storm", "Wildbolt Storm", "Sheer Cold", "Solar Blade", "Revival Blessing", "Depletion Beam", "Eerie Spell"]
-related_abilities: ["Delta Stream", "Soundproof", "Bulletproof"]
-code_references:
-  - file: "src/abilities.cc"
-    line: 3741
-    function: "WeatherControl"
-  - file: "src/abilities.cc"
-    line: 2043
-    function: "DeltaStream.onImmune"
-pokemon_with_ability:
-  - "Psyduck"
-  - "Golduck" 
-  - "Castform (all forms)"
-  - "Dragonite"
-  - "Tornadus"
-  - "Thundurus"
-  - "Landorus"
-  - "Rayquaza"
-  - "Enamorus"
-competitive_tier: 4-5
+id: 354
+name: Weather Control
+status: ai-generated
 character_count: 290
 ---
 

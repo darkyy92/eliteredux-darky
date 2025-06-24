@@ -1,3 +1,10 @@
+---
+id: 7
+name: Limber
+status: ai-generated
+character_count: 294
+---
+
 # Limber - Ability ID 7
 
 ## In-Game Description

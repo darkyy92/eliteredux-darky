@@ -1,3 +1,10 @@
+---
+id: 67
+name: Torrent
+status: ai-generated
+character_count: 280
+---
+
 # Torrent - Ability ID 67
 
 ## In-Game Description

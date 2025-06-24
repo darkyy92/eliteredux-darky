@@ -1,13 +1,8 @@
 ---
-ability_id: 323
-ability_name: "Majestic Bird"
-type: "Stat Boost"
-stat_affected: "Special Attack"
-multiplier: "1.5x"
-conditions: "Unconditional"
-pokemon_with_ability: ["Pidgey", "Pidgeotto", "Mega Pidgeot (innate)", "Articuno-Ex (innate)", "Noctowl (innate)", "Lugia (innate)", "Oricorio (innate)", "Delcatty", "Pecharunt (innate)", "Cresselia (innate)", "Moltres-Ex (innate)", "Articuno-Redux (innate)"]
-related_abilities: ["Auroras Gale (uses same stat boost)", "Marvel Scale", "Solar Power", "Sand Force"]
-implementation_file: "src/abilities.cc"
+id: 323
+name: Majestic Bird
+status: ai-generated
+character_count: 288
 ---
 
 # Ability #323: Majestic Bird
@@ -18,7 +13,8 @@ implementation_file: "src/abilities.cc"
 - **Type**: Stat Boost Ability
 - **Description**: "Boosts own Sp. Atk by 1.5x. Boosts raw stat, not base stat."
 
-## Extended Description (288 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Majestic Bird boosts Special Attack by 50% unconditionally. This multiplies the calculated stat after all modifiers, not the base stat. The boost is permanent and active immediately upon entering battle, making it extremely reliable for special sweepers and consistent offensive pressure.
 
 ## Mechanics Analysis

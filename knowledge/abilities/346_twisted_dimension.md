@@ -1,15 +1,8 @@
 ---
-ability_id: 346
-ability_name: "Twisted Dimension"
-short_description: "Sets up Trick Room on entry, lasts 3 turns."
-extended_description: "Upon entering battle, this Pokémon's distorted perspective warps the dimensions of the battlefield, automatically setting up Trick Room for exactly 3 turns. The slowest Pokémon will move first during this time, making bulky attackers incredibly dangerous threats that can outpace fast sweepers."
-type: "Field Effect"
-category: "Entry"
-generation: "Elite Redux"
-competitive_tier: "High"
-strategic_value: "Auto-setup"
-synergy_rating: 9
-counterplay_difficulty: 7
+id: 346
+name: Twisted Dimension
+status: ai-generated
+character_count: 0
 ---
 
 # Twisted Dimension

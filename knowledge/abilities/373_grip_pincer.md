@@ -1,10 +1,8 @@
 ---
-ability_id: 373
-ability_name: "Grip Pincer"
-extended_description: "Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn. Trap lasts 4-5 turns (7 with Grip Claw)."
-competitive_tier: "High"
-battle_mechanic: "Contact Trapping"
-analysis_date: "2025-06-24"
+id: 373
+name: Grip Pincer
+status: ai-generated
+character_count: 271
 ---
 
 # Grip Pincer - Ability ID 373

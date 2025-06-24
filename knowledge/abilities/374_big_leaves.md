@@ -1,10 +1,8 @@
 ---
-ability_id: 374
-ability_name: "Big Leaves"
-extended_description: "A powerhouse fusion of five grass-type abilities. Combines Harvest's berry restoration, Leaf Guard's sun healing, Solar Power's special attack boost, Chlorophyll's speed boost, and grants Weather Ball double power while nullifying Solar Beam's power reduction in bad weather."
-competitive_tier: "High"
-battle_mechanic: "Multi-Ability Fusion, Sun Synergy"
-analysis_date: "2025-06-24"
+id: 374
+name: Big Leaves
+status: ai-generated
+character_count: 275
 ---
 
 # Big Leaves (Ability #374)
@@ -15,7 +13,7 @@ analysis_date: "2025-06-24"
 - **Type**: Multi-Ability Fusion
 - **Description**: "Chloroplast + Chlorophyll + Leaf Guard + Harvest + Solar Power."
 
-## Extended Description
+## Extended In-Game Description
 A powerhouse fusion of five grass-type abilities. Combines Harvest's berry restoration, Leaf Guard's sun healing, Solar Power's special attack boost, Chlorophyll's speed boost, and grants Weather Ball double power while nullifying Solar Beam's power reduction in bad weather.
 
 ## Technical Implementation

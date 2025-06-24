@@ -1,10 +1,8 @@
 ---
-ability_id: 378
-ability_name: "Amplifier"
-extended_description: "Amplifier boosts sound-based moves by 30% damage output. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokémon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams."
-competitive_tier: "Medium"
-battle_mechanic: "Sound Boost + Spread Targeting"
-analysis_date: "2025-06-24"
+id: 378
+name: Amplifier
+status: ai-generated
+character_count: 275
 ---
 
 # Amplifier - Ability ID 378

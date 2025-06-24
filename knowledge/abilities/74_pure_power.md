@@ -1,3 +1,10 @@
+---
+id: 74
+name: Pure Power
+status: ai-generated
+character_count: 293
+---
+
 # Pure Power - Ability ID 74
 
 ## In-Game Description

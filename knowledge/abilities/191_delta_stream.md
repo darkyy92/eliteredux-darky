@@ -1,3 +1,10 @@
+---
+id: 191
+name: "Delta Stream (Ability ID: 191)"
+status: ai-generated
+character_count: 269
+---
+
 # Delta Stream (Ability ID: 191)
 
 ## In-Game Description

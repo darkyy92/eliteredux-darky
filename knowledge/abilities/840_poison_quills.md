@@ -10,7 +10,7 @@ character_count: 294
 ## Short Description
 Rough Skin + Poison Point.
 
-## Extended Description
+## Extended In-Game Description
 Sharp, venomous barbs cover the user's body, punishing physical contact. When struck by a contact move, the attacker takes damage equal to 1/8 of their maximum HP from the rough quills. Additionally, contact moves have a 30% chance to poison the attacker. This dual defense makes physical attackers think twice before engaging.
 
 ## Mechanics

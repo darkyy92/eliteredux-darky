@@ -1,10 +1,8 @@
 ---
-ability_id: 383
-ability_name: "Cold Rebound"
-extended_description: "When hit by a contact move, this Pokémon immediately retaliates with Icy Wind, dealing Ice-type damage and lowering the attacker's Speed stat. This powerful counter-attack ability punishes opponents for making physical contact, creating space through speed control while dealing respectable damage."
-competitive_tier: "High"
-battle_mechanic: "Contact Counter-Attack"
-analysis_date: "2025-06-24"
+id: 383
+name: Cold Rebound
+status: ai-generated
+character_count: 0
 ---
 
 # Cold Rebound (Ability #383)

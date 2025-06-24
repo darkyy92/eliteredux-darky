@@ -1,3 +1,10 @@
+---
+id: 80
+name: Steadfast
+status: ai-generated
+character_count: 313
+---
+
 # Steadfast - Ability ID 80
 
 ## In-Game Description

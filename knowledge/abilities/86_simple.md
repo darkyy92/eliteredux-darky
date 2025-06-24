@@ -1,3 +1,10 @@
+---
+id: 86
+name: Simple
+status: ai-generated
+character_count: 293
+---
+
 # Simple - Ability ID 86
 
 ## In-Game Description

@@ -1,10 +1,8 @@
 ---
-ability_id: 391
-ability_name: "Hardened Sheath"
-extended_description: "When the Pokemon uses horn-based moves, the protective sheath around the horn toughens and becomes more refined through repetitive use. This process strengthens the attacker's muscle memory and striking power, raising Attack by +1 stage per successful use, building momentum steadily."
-competitive_tier: "Medium"
-battle_mechanic: "Attack Enhancement"
-analysis_date: "2025-06-24"
+id: 391
+name: Hardened Sheath
+status: ai-generated
+character_count: 0
 ---
 
 # Hardened Sheath (Ability #391)

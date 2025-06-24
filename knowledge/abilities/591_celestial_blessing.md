@@ -7,7 +7,8 @@ character_count: 295
 
 # Celestial Blessing (ID: 591)
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Recovers 1/12 of its health each turn under Misty Terrain.
 
 ## Extended Description (295 characters)

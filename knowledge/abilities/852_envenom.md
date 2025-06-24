@@ -7,10 +7,11 @@ character_count: 289
 
 # Envenom Analysis
 
-## Basic Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Moves have a 30% chance to poison the target."
 
-## Extended Description
+## Extended In-Game Description
 When this Pokémon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.
 
 ## Implementation Details

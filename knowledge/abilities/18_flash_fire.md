@@ -1,3 +1,10 @@
+---
+id: 18
+name: Flash Fire
+status: ai-generated
+character_count: 296
+---
+
 # Flash Fire - Ability ID 18
 
 ## In-Game Description

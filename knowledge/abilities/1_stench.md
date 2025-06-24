@@ -1,3 +1,10 @@
+---
+id: 1
+name: Stench
+status: ai-generated
+character_count: 289
+---
+
 # Stench - Ability ID 1
 
 ## In-Game Description

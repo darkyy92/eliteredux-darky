@@ -1,3 +1,10 @@
+---
+id: 85
+name: "Heatproof (Ability ID: 85)"
+status: ai-generated
+character_count: 260
+---
+
 # Heatproof (Ability ID: 85)
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 104
+name: Mold Breaker
+status: ai-generated
+character_count: 295
+---
+
 # Mold Breaker - Ability ID 104
 
 ## In-Game Description

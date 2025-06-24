@@ -1,10 +1,8 @@
 ---
-ability_id: 380
-ability_name: "Sun Worship"
-extended_description: "Sun Worship triggers when entering battle during sunny weather, immediately boosting the Pokémon's highest stat by one stage. Calculates the highest stat including current stat changes for optimal strategic advantage, working with any sun type including permanent weather effects."
-competitive_tier: "High"
-battle_mechanic: "Sun Enhancement"
-analysis_date: "2025-06-24"
+id: 380
+name: Sun Worship
+status: ai-generated
+character_count: 0
 ---
 
 # Sun Worship (Ability #380)

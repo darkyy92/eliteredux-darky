@@ -1,10 +1,8 @@
 ---
-ability_id: 333
-ability_name: "Sweet Dreams"
-ability_description: "Heals 1/8 of max HP every turn if asleep. Immune to Bad Dreams."
-extended_description: "Sweet Dreams provides restorative healing while sleeping, regenerating exactly 1/8 of maximum HP at the end of each turn when the Pokémon is asleep or has the Comatose ability. Additionally, it grants complete immunity to Bad Dreams damage, making this a powerful defensive ability."
+id: 333
+name: Sweet Dreams
+status: ai-generated
 character_count: 282
-analyzed_date: "2025-06-24"
 ---
 
 # Sweet Dreams (Ability #333)
@@ -14,7 +12,8 @@ analyzed_date: "2025-06-24"
 - **Name**: Sweet Dreams
 - **Short Description**: Heals 1/8 of max HP every turn if asleep. Immune to Bad Dreams.
 
-## Extended Description (282 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Sweet Dreams provides restorative healing while sleeping, regenerating exactly 1/8 of maximum HP at the end of each turn when the Pokémon is asleep or has the Comatose ability. Additionally, it grants complete immunity to Bad Dreams damage, making this a powerful defensive ability.
 
 ## Detailed Mechanics

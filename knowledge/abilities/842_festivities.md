@@ -9,8 +9,7 @@ character_count: 296
 
 **Effect:** Sound moves become dance moves and vice versa.
 
-## Extended Description
-
+## Extended In-Game Description
 This innate ability swaps sound and dance move properties. Sound moves like Hyper Voice and Boomburst function as dance moves, while dance moves like Dragon Dance and Quiver Dance act as sound moves. This affects interactions with abilities like Soundproof and Dancer, creating unique strategies.
 
 ## Detailed Mechanics

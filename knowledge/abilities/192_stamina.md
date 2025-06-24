@@ -89,8 +89,7 @@ Enables aggressive defensive setups:
 - **Hariyama**: With Skill Link, can potentially bait criticals for massive boosts
 - **Swampert**: Defensive Mega evolution becomes even more formidable
 
-## Extended Description
-
+## Extended In-Game Description
 **Character Count Verification**: 
 "Stamina transforms each hit taken into defensive strength. Normal attacks raise Defense by one stage, turning continuous damage into progressive fortification. Critical hits trigger an exceptional response, instantly maximizing Defense to +600%. This creates a risk-reward dynamic."
 

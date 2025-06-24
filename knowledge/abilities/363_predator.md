@@ -1,20 +1,8 @@
 ---
-ability_id: 363
-ability_name: "Predator"
-ability_description: "Dealing a KO heals 1/4 of this Pokémon's max HP."
-extended_description: "When this Pokémon delivers the final blow to knock out an opponent, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokémon to sustain itself through consecutive battles and maintain momentum in prolonged fights."
-extended_description_length: 287
-trigger_conditions:
-  - "onBattlerFaints with APPLY_ON_ATTACKER"
-healing_amount: "25% of maximum HP"
-battle_script: "BattleScript_HandleSoulEaterEffect"
-related_abilities:
-  - "Soul Eater (331)"
-  - "Looter (365)"
-  - "Jaws of Carnage (438)"
-  - "Apex Predator (486)"
-  - "Magma Eater (467)"
-analysis_date: "2025-06-24"
+id: 363
+name: Predator
+status: ai-generated
+character_count: 274
 ---
 
 # Predator (Ability #363)
@@ -24,7 +12,8 @@ analysis_date: "2025-06-24"
 - **ID**: 363 (ABILITY_PREDATOR)
 - **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
 
-## Extended Description (287 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokémon delivers the final blow to knock out an opponent, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokémon to sustain itself through consecutive battles and maintain momentum in prolonged fights.
 
 ## Mechanical Analysis

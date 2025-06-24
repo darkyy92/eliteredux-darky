@@ -1,10 +1,8 @@
 ---
-ability_id: 393
-ability_name: "Spectralize"
-extended_description: "Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage."
-competitive_tier: "High"
-battle_mechanic: "Type Conversion & STAB"
-analysis_date: "2025-06-24"
+id: 393
+name: Spectralize
+status: ai-generated
+character_count: 289
 ---
 
 # Spectralize - Ability ID 393

@@ -1,3 +1,10 @@
+---
+id: 25
+name: Wonder Guard
+status: ai-generated
+character_count: 298
+---
+
 # Wonder Guard - Ability ID 25
 
 ## In-Game Description

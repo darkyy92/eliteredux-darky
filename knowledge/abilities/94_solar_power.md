@@ -1,9 +1,17 @@
+---
+id: 94
+name: Solar Power (94)
+status: ai-generated
+character_count: 419
+---
+
 # Solar Power (94)
 
-## Description
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Ups highest attacking stat by 1.5x in sun.
 
-## Extended Description
+## Extended In-Game Description
 Solar Power amplifies the user's offensive capabilities in sunny weather by boosting their highest attacking stat by 50%. The ability automatically detects whether Attack or Special Attack is higher and applies the boost to that stat. Works with regular sun, Drought, and Desolate Land conditions. Only affects the Pokémon's attacking power, not their defensive stats or other attributes in battle.
 
 Character count: 295

@@ -1,17 +1,8 @@
 ---
-ability_id: 338
-ability_name: "Solenoglyphs"
-short_description: "Biting moves have a 50% chance to badly poison the target."
-extended_description: "The Pokémon's fangs bear intricate venom channels that deliver potent toxins through specialized grooves. When using biting moves, there's a 50% chance the target becomes badly poisoned, taking increasing damage each turn as the deadly venom spreads through their system and bloodstream."
-generation: "Elite Redux"
-category: "Offensive"
-type_interaction: "Poison-based"
-competitive_tier: "B+"
-strategic_role: "Status Infliction"
-pokemon_count: 6
-related_abilities: ["Poison Point", "Poison Touch", "Merciless"]
-countered_by: ["Poison-type immunity", "Poison Heal", "Guts"]
-synergizes_with: ["Strong Jaw", "Merciless", "Poison moves"]
+id: 338
+name: Solenoglyphs
+status: ai-generated
+character_count: 0
 ---
 
 # Solenoglyphs (Ability #338)

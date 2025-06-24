@@ -1,3 +1,10 @@
+---
+id: 8
+name: Sand Veil
+status: ai-generated
+character_count: 283
+---
+
 # Sand Veil - Ability ID 8
 
 ## In-Game Description

@@ -1,3 +1,10 @@
+---
+id: 640
+name: Rhythmic
+status: ai-generated
+character_count: 295
+---
+
 # Rhythmic
 
 **Ability ID**: 640

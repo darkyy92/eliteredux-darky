@@ -1,3 +1,10 @@
+---
+id: 29
+name: Clear Body
+status: ai-generated
+character_count: 290
+---
+
 # Clear Body - Ability ID 29
 
 ## In-Game Description

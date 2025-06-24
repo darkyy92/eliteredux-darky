@@ -1,3 +1,10 @@
+---
+id: 773
+name: "Soothsayer (ID: 773)"
+status: ai-generated
+character_count: 258
+---
+
 # Soothsayer (ID: 773)
 
 ## Extended In-Game Description (280-300 chars)

@@ -1,10 +1,8 @@
 ---
-ability_id: 384
-ability_name: "Low Blow"
-extended_description: "Automatically uses Feint Attack with 40 base power when switching into battle. This Dark-type move never misses and makes contact, providing guaranteed chip damage and breaking Focus Sash or Sturdy abilities. Perfect for hit-and-run strategies, entry hazard support teams, and maintaining momentum control."
-competitive_tier: "Medium"
-battle_mechanic: "Entry Attack"
-analysis_date: "2025-06-24"
+id: 384
+name: Low Blow
+status: ai-generated
+character_count: 271
 ---
 
 # Low Blow - Ability ID 384

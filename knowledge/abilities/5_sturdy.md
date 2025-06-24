@@ -1,3 +1,10 @@
+---
+id: 5
+name: Sturdy
+status: ai-generated
+character_count: 282
+---
+
 # Sturdy - Ability ID 5
 
 ## In-Game Description

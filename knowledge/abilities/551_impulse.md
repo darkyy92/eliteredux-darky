@@ -1,3 +1,10 @@
+---
+id: 551
+name: Impulse
+status: ai-generated
+character_count: 287
+---
+
 # Impulse - Ability ID 551
 
 ## In-Game Description

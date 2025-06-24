@@ -1,3 +1,10 @@
+---
+id: 79
+name: Rivalry
+status: ai-generated
+character_count: 318
+---
+
 # Rivalry - Ability ID 79
 
 ## In-Game Description

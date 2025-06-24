@@ -1,3 +1,10 @@
+---
+id: 602
+name: Lawnmower
+status: ai-generated
+character_count: 289
+---
+
 # Lawnmower
 
 **Ability ID**: 602

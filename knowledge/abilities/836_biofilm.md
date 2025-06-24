@@ -32,7 +32,7 @@ Biofilm provides a significant defensive boost to the user's Special Defense whe
 ## Pokemon with Biofilm
 - **Vileplume**: Has Biofilm as one of its innate abilities, complementing its Poison typing
 
-## Extended Description
+## Extended In-Game Description
 "Secretes a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves."
 
 **Character count**: 295

@@ -1,9 +1,8 @@
 ---
-ability_id: 319
-ability_name: "Raging Boxer"
-short_description: "Punching moves hit twice. 1st hit at 100% power, 2nd hit at 40%."
+id: 319
+name: Raging Boxer
+status: ai-generated
 character_count: 280
-tags: ["parental_bond", "iron_fist", "punching", "multihit", "fighting"]
 ---
 
 # Raging Boxer (Ability #319)
@@ -13,7 +12,7 @@ tags: ["parental_bond", "iron_fist", "punching", "multihit", "fighting"]
 - **Name**: Raging Boxer
 - **Short Description**: "Punching moves hit twice. 1st hit at 100% power, 2nd hit at 40%."
 
-## Extended Description
+## Extended In-Game Description
 Raging Boxer causes punching moves to hit twice like Parental Bond, with the first hit at 100% power and second hit at 40% power. Affects all Iron Fist boosted moves including Bullet Punch, Fire Punch, Ice Punch, and similar moves. Particularly powerful for Fighting-type Pokemon.
 
 **Character count: 280**

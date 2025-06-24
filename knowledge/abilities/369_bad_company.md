@@ -1,10 +1,8 @@
 ---
-ability_id: 369
-ability_name: "Bad Company"
-extended_description: "Prevents losing Defense and Special Defense stats when using moves with recoil effects on defensive stats. Works on moves like Close Combat and Dragon Ascent, allowing the user to maintain full defensive capabilities while using powerful attacking moves that normally reduce bulk."
-competitive_tier: "Medium"
-battle_mechanic: "Stat Protection"
-analysis_date: "2025-06-24"
+id: 369
+name: Bad Company
+status: ai-generated
+character_count: 0
 ---
 
 # Bad Company - Ability #369

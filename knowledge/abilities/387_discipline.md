@@ -1,10 +1,8 @@
 ---
-ability_id: 387
-ability_name: "Discipline"
-extended_description: "Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion, maintaining tactical control."
-competitive_tier: "Medium"
-battle_mechanic: "Status Control"
-analysis_date: "2025-06-24"
+id: 387
+name: Discipline
+status: ai-generated
+character_count: 265
 ---
 
 # Discipline - Ability ID 387
