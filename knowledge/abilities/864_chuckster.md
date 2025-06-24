@@ -11,7 +11,8 @@ character_count: 291
 **Type:** Innate Ability (N)  
 **Original Description:** "Once per entry, take 1/2 damage and force-switch the target."
 
-## Extended Description (291 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokémon first takes damage after entering battle, it reduces that damage by half and forces the attacking opponent to switch out immediately. This protective effect only activates once per battle entry, making it a powerful one-time defensive tool against physical and special attacks alike.
 
 ## Implementation Details

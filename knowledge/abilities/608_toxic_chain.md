@@ -49,7 +49,8 @@ constexpr Ability ToxicChain = {
 - **Substitute**: May be blocked if target is behind substitute
 - **Secondary Effect**: Only triggers on moves that successfully deal damage
 
-## Extended Description (287 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Toxic Chain inflicts badly poison on contact with foes. Each attacking move has a 30% chance to apply the devastating status condition. Unlike regular poison, badly poison damage escalates each turn, starting at 1/16 HP and increasing progressively, making it lethal over extended battles."
 
 ## Comparison to Similar Abilities

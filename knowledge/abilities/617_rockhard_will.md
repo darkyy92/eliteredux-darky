@@ -61,6 +61,6 @@ Rock-type moves that benefit most from Rockhard Will:
 - Less impactful on Pokemon with poor Rock-type move pools
 - Predictable activation threshold can be played around
 
-## Extended Description (300 characters)
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Rockhard Will demonstrates unwavering determination through type-focused damage scaling. The ability grants Rock-type moves a 1.2x damage boost normally, increasing to 1.5x when HP falls to 1/3 or below. This creates strategic depth, rewarding both aggressive early pressure and clutch endgame play.

@@ -63,7 +63,8 @@ Based on the code analysis, this ability appears on:
 - **Frozen Soul**: Ice-type equivalent
 - **Volt Rush**: Electric-type equivalent
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them to outspeed most attacks. The effect is lost if HP drops below 100%, making HP management crucial. Particularly effective for revenge killing or preventing enemy setup with priority Moonblast or Play Rough.
 
 **Character count: 292**

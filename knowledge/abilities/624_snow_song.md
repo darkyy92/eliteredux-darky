@@ -34,6 +34,6 @@ Snow Song is implemented in `src/abilities.cc` as a dual-effect ability that com
 - Compatible with other sound-based abilities and items
 - Affected by Soundproof and similar sound-blocking abilities
 
-## Extended Description (299 characters)
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Harmonizes battle prowess with icy melodies. Sound-based moves receive a powerful 1.2x damage boost, while Normal-type sound moves are converted to Ice-type, allowing for strategic type coverage. Perfect for Pokémon that rely on vocal attacks to freeze out the competition with enhanced precision.

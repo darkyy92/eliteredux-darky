@@ -41,6 +41,6 @@ The Quash field effect fundamentally alters turn order and priority mechanics:
 - Works in conjunction with other field effects
 - Not prevented by abilities like Magic Bounce or Clear Body
 
-## Extended Description (288 characters)
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Upon switch-in, creates a temporal distortion field lasting 5 turns that reduces all move priorities to -4, effectively neutralizing speed-based strategies and priority moves. This battlefield-wide effect forces predictable turn order and counters rush tactics, making battles methodical.

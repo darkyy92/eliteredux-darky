@@ -10,7 +10,8 @@ character_count: 286
 ## Short Description
 "Serene Grace + Giant Wings."
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Lucky Wings combines two powerful effects: doubles the chance of moves' secondary effects activating (Serene Grace), and boosts the power of all airborne moves by 30% (Giant Wings). This creates a potent synergy for flying attackers with high-utility moves that can overwhelm opponents.
 
 ## Implementation Analysis

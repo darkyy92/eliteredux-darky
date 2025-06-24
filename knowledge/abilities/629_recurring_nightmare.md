@@ -7,7 +7,8 @@ character_count: 291
 
 # Recurring Nightmare (Shallow Grave)
 
-## Extended Description (291 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Persistent revival ability that functions exclusively in fog weather conditions. When the user faints while fog is active, this ability automatically revives them once per battle at exactly 25% of maximum HP. The revival triggers immediately after fainting with strategic comeback potential.
 
 ## Core Mechanics

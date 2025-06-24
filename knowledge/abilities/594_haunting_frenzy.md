@@ -82,5 +82,6 @@ constexpr Ability HauntingFrenzy = {
 };
 ```
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Haunting Frenzy grants attacks a 20% chance to flinch opponents, applying to all moves affected by King's Rock. Upon defeating an enemy, the user gains +1 Speed stage. This dual effect creates offensive momentum through flinch pressure and speed control, excelling at sweeping weakened teams.

@@ -10,7 +10,8 @@ character_count: 294
 ## Short Description
 "Drizzle + Electro Surge."
 
-## Extended Description (294 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Summons rain that boosts Water moves by 20% and weakens Fire moves by 50%, plus creates Electric Terrain that boosts Electric moves by 30% and prevents sleep. Both weather and terrain activate simultaneously on switch-in. Electric Terrain affects airborne Pokemon with this ability.
 
 ## Implementation Analysis

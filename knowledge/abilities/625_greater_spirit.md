@@ -7,7 +7,8 @@ character_count: 280
 
 # Greater Spirit (ID: 625)
 
-## Extended Description (280 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Upon entry in fog weather, Greater Spirit automatically identifies the holder's highest base stat and raises it by one stage. This weather-conditional ability strategically enhances the Pokemon's strongest attribute, making it valuable for specialized battle roles and fog teams.
 
 ## Core Mechanics

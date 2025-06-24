@@ -10,7 +10,8 @@ character_count: 287
 ## Base Description
 "Adds Dragon-type + moves have 30% Bad Poison chance."
 
-## Extended Description (287 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Grants the Dragon type as an additional typing upon switching in, allowing dual/triple-type combinations. All offensive moves have a 30% chance to inflict bad poison (toxic) on the target. Bad poison damage increases each turn, starting at 1/16 max HP and doubling each turn.
 
 ## Mechanical Implementation

@@ -69,6 +69,6 @@ Sound moves include moves with the `FLAG_SOUND` flag such as:
 - Substitute blocks the disable effect
 - Pokemon with diverse movepools are less affected
 
-## Extended Description (280-300 characters)
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokemon hits opponents with sound-based moves, there's a 20% chance to disable their last used move. This electromagnetic interference disrupts the target's ability to repeat their previous attack, making it excellent for disrupting setup sweepers and forcing switches in competitive play.

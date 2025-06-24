@@ -13,7 +13,8 @@ Flower Veil is a protective ability that shields Grass-type allies from harmful 
 ## Current Description
 **Short:** "Protects Grass-type allies from status and stat drops."
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "Surrounds Grass-type allies with a protective veil of petals, preventing all status conditions including poison, burn, paralysis, sleep, and freeze. Also blocks all stat reductions from enemy moves, abilities, and effects. Does not protect the user if they are not Grass-type."
 
 **Character count:** 295 characters

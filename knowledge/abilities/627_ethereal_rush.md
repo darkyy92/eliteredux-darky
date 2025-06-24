@@ -28,5 +28,6 @@ The ability modifies the Speed stat directly through the `onStat` callback when:
 2. The battler is affected by any fog weather condition
 3. Applies a 1.5x multiplier to the base speed calculation
 
-## Extended Description (287 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Ethereal Rush grants a potent 1.5x Speed boost in fog weather, enabling swift tactical dominance. This weather-dependent ability transforms slower Pokemon into speed demons, perfect for offensive strategies requiring priority control or sweeping potential in misty battlefield conditions.

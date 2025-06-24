@@ -10,7 +10,8 @@ character_count: 285
 ## Current Description
 "At 1/2 of max HP or below, instantly switches out."
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokémon's HP drops to half or below from an attack, it automatically switches out at the end of the turn in trainer battles only. Requires usable party members and cannot be prevented by trapping effects. The switching occurs after all move effects resolve completely safely.
 
 **Character count: 291**

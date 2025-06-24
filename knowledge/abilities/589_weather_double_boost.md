@@ -13,7 +13,8 @@ character_count: 298
 - **Display Name**: Catastrophe
 - **Short Description**: "Sun boosts Water. Rain boosts Fire."
 
-## Extended Description (296 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Catastrophe reverses weather's typical effects on Fire and Water moves. In Sun, Water moves gain a 20% boost (permanent) or 50% boost (temporary) instead of the usual reduction. In Rain, Fire moves receive a 20% boost (permanent) or 50% boost (temporary) instead of being weakened by precipitation.
 
 ## Mechanics Analysis

@@ -12,7 +12,8 @@ character_count: 282
 - **Type**: Innate Ability (N)
 - **Description**: Setting Grassy Terrain sets Tailwind an vice versa.
 
-## Extended Description (282 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokemon or an ally sets Grassy Terrain, your team automatically gains Tailwind for the same duration. Conversely, when your team gains Tailwind, Grassy Terrain is automatically set. This bidirectional synergy creates a powerful field control combination, boosting both offense and defense.
 
 ## Detailed Mechanics

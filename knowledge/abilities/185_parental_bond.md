@@ -16,7 +16,8 @@ character_count: 296
 ## Current Description
 **In-game**: "Moves hit twice. 1st hit at 100% power, 2nd hit at 25%."
 
-## Extended Description (280-300 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
 
 Character count: 283

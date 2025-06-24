@@ -25,5 +25,6 @@ Desert Spirit (ID 604) is implemented in `src/abilities.cc` at line 6370 with th
 - `sandImmune = TRUE` - immune to sandstorm damage
 - No other special properties or modifiers
 
-## Extended Description (292 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Desert Spirit summons sandstorm on entry, lasting 8 turns. During sandstorm, Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage. Creates strategic pressure by forcing grounded interactions and enhancing Ground-type coverage.

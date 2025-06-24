@@ -12,7 +12,8 @@ character_count: 295
 - **ID:** 862
 - **Short Description:** "Ups speed by 50% in sun or hail."
 
-## Extended Description (295 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Thermal Slide increases the bearer's Speed by 50% when the weather is sunny or hailing. This boost applies to all forms of sun (temporary, permanent, and primal) and hail (temporary and permanent). The speed boost is applied during stat calculations, making it effective immediately when the weather changes.
 
 ## Mechanical Implementation

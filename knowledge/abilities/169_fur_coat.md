@@ -36,7 +36,8 @@ constexpr Ability FurCoat = {
 ## Current Description
 "Halves damage taken by Physical moves. Does NOT double Defense."
 
-## Extended Description (299 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 "This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection."
 
 ## Battle AI Rating

@@ -46,7 +46,8 @@ The AI recognizes Unnerve's effect on Focus Sash and factors this into damage ca
 - Consider pivoting strategies differently when facing Unnerve users
 - Recognize that Unnerve negates Focus Sash's protective effect at full HP
 
-## Extended Description (293 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Unnerve prevents all opposing Pokémon from consuming their held items during battle. This powerful disruption ability blocks berries, herbs, seeds, and other consumable items from activating, including crucial defensive tools like Focus Sash and Sitrus Berry. Works in both single and double battles.
 
 ## Known Pokémon

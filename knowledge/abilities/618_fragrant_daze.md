@@ -10,7 +10,8 @@ character_count: 289
 ## Current Description
 "30% chance to confuse on contact."
 
-## Extended Description (289 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When hit by a contact move, has a 30% chance to inflict confusion on the attacker. The ability activates during physical attacks that make direct contact with the user. Only affects opponents that can be confused, making it ineffective against certain types or abilities.
 
 ## Implementation Analysis

@@ -10,7 +10,8 @@ character_count: 299
 ## Short Description
 Raises Attack by two stages if stats are lowered by an enemy.
 
-## Extended Description (299 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Defiant triggers when any of the Pokémon's stats are lowered by an opponent, immediately boosting Attack by two stages in retaliation. Activates from direct stat drops, moves like Intimidate, and stat-lowering secondary effects. Cannot activate if Attack is already at maximum. Stacks with other boosts.
 
 Character count: 299

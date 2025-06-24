@@ -16,7 +16,8 @@ character_count: 281
 ## Current Description
 "Boosts Dark moves by 1.33x for all while this Pokémon is out."
 
-## Extended Description (288 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Dark Aura radiates malevolent energy that empowers all Dark-type moves on the battlefield. When this Pokémon enters battle, it announces its presence with a chilling aura that boosts Dark moves by 33% for every Pokémon. Can be reversed by Aura Break, reducing power to 75% instead.
 
 ## Mechanics Analysis

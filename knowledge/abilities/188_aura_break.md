@@ -10,7 +10,8 @@ character_count: 298
 ## Current Description
 "Cancels aura abilities and makes them 25% weaker instead."
 
-## Extended Description (285 characters)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Reverses aura abilities' effects, causing Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%. Only affects Dark-type and Fairy-type move power boosts. Battle Aura and other aura-named abilities remain unaffected by this field-wide reversal effect.
 
 **Character count: 288** ✓

@@ -14,8 +14,8 @@ character_count: 282
 
 In fog weather, when an opponent uses a move targeting multiple battlers or allies, this ability triggers an automatic Astonish attack (40 power, Ghost-type, 100% accuracy) against them before their move executes. The Astonish has a high flinch chance, potentially preventing the opponent's move entirely.
 
-## Extended Description (282 characters)
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 In fog weather conditions, this ability detects opponents using moves that target multiple battlers or allies. Upon detection, the user immediately counters with Astonish, a 40-power Ghost-type attack that has a high flinch chance, potentially disrupting the opponent's strategies.
 
 ## Strategic Applications

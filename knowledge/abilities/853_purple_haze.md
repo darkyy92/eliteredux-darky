@@ -32,6 +32,6 @@ Purple Haze (ID: 853) is a follow-up move ability that triggers after the user s
 
 Purple Haze provides consistent chip damage and poison pressure after every move. The 20% poison chance on the follow-up Poison Gas can accumulate significant passive damage over time. The ability is particularly strong on Pokémon that use non-damaging moves frequently, as it provides offensive presence regardless of the original move's damage output.
 
-## Extended Description (280-300 characters)
-
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 After using any move, this Pokémon automatically follows up with a weakened Poison Gas attack that deals 20 base power damage. The poisonous gas has a 20% chance to inflict poison status and is super effective against Flying-types, providing consistent chip damage and battlefield pressure.
