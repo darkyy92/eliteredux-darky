@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Energized charges up the Pokémon on entry or when Electric Terrain is active, like Generator. Additionally charges up when knocking out an opponent with an Electric-type move. Charged status doubles the power of all Electric-type moves until used.
-
-*Character count: 284*
+Energized charges up the Pokemon on entry or when Electric Terrain is active, like Generator. Additionally charges up when knocking out an opponent with an Electric-type move. Charged status doubles the power of all Electric-type moves until used.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -51,7 +49,7 @@ Energized is a hybrid ability that combines the functionality of Generator with 
 ### Charged Up Status Effects
 - **Electric move boost**: Doubles the power of all Electric-type moves (2.0x multiplier)
 - **Consumption**: Status is consumed after using any Electric-type move
-- **Visual indicator**: "Pokémon is charging power!" message appears
+- **Visual indicator**: "Pokemon is charging power!" message appears
 - **Status3 flag**: Uses STATUS3_CHARGED_UP internal flag
 
 ### Important Interactions
@@ -76,7 +74,7 @@ Energized is a hybrid ability that combines the functionality of Generator with 
 
 ### Counters
 - **Priority moves**: Can be revenge killed before using charged moves
-- **Non-Electric coverage**: Pokémon may be forced to use non-Electric moves
+- **Non-Electric coverage**: Pokemon may be forced to use non-Electric moves
 - **Status moves**: Sleep/paralysis can waste charged turns
 - **Terrain override**: Changing terrain prevents terrain-based charging
 - **Mold Breaker**: Suppresses the ability entirely
@@ -89,7 +87,7 @@ Energized is a hybrid ability that combines the functionality of Generator with 
 - **Choice items**: Maximize damage output of charged moves
 
 ### Notable Users
-Pokémon with Energized typically have:
+Pokemon with Energized typically have:
 - Strong Electric-type movepools
 - Mixed offensive capabilities
 - Good Speed stats for sweeping

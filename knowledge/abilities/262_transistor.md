@@ -13,14 +13,12 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Transistor amplifies the power of all Electric-type moves by 50%, making them hit with 1.5x damage. This boost applies to any Electric move the Pokémon uses, including physical moves like Thunder Punch and special moves like Thunderbolt. Stacks multiplicatively with other damage modifiers.
-
-*Character count: 290*
+Transistor amplifies the power of all Electric-type moves by 50%, making them hit with 1.5x damage. This boost applies to any Electric move the Pokemon uses, including physical moves like Thunder Punch and special moves like Thunderbolt. Stacks multiplicatively with other damage modifiers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Transistor is a straightforward damage-boosting ability that provides a consistent 1.5x power multiplier to all Electric-type moves used by the Pokémon that has this ability.
+Transistor is a straightforward damage-boosting ability that provides a consistent 1.5x power multiplier to all Electric-type moves used by the Pokemon that has this ability.
 
 **Key Mechanics:**
 - **Type-Specific Boost**: Only affects Electric-type moves, regardless of move category (physical, special, or status moves that deal damage)
@@ -37,7 +35,7 @@ Transistor is a straightforward damage-boosting ability that provides a consiste
 - The boost is applied even if the move is resisted or not very effective
 
 **Competitive Usage:**
-Transistor is essentially the Electric-type equivalent of abilities like Blaze, Torrent, and Overgrow, but provides a constant boost rather than an emergency boost at low HP. This makes it particularly valuable for Electric-type Pokémon that want consistent damage output throughout the battle.
+Transistor is essentially the Electric-type equivalent of abilities like Blaze, Torrent, and Overgrow, but provides a constant boost rather than an emergency boost at low HP. This makes it particularly valuable for Electric-type Pokemon that want consistent damage output throughout the battle.
 
 **Similar Abilities:**
 - Dragon's Maw (Dragon-type moves)

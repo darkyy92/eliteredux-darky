@@ -2,18 +2,22 @@
 id: 654
 name: White Noise
 status: ai-generated
-character_count: 291
+character_count: 296
 ---
 
-# White Noise
+# White Noise - Ability ID 654
 
-**ID:** 654
-**Description:** Static + Rest in Peace.
+## In-Game Description
+Static + Peaceful Rest.
 
 ## Extended In-Game Description
-White Noise combines Static's paralysis-inducing contact effects with Peaceful Rest's restorative healing properties. When opponents make physical contact, this ability has a 30% chance to paralyze the attacker. Additionally, during fog weather, it heals 1/8 max HP at the end of each turn.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Implementation Details
+White Noise combines the effects of Static and Peaceful Rest. This Pokemon has a 30% chance to paralyze opponents that make contact with physical attacks, utilizing electrical discharge as a defensive mechanism. Additionally, it heals 1/8 of its maximum HP at the end of each turn during foggy weather conditions, recovering naturally in misty environments.
+
+## Detailed Mechanical Explanation
+
+### Implementation Details
 
 White Noise is implemented as a composite ability that inherits:
 - `onAttacker` and `onDefender` from Static ability
@@ -28,6 +32,6 @@ White Noise is implemented as a composite ability that inherits:
 ### Peaceful Rest Component  
 - Activates during fog weather conditions
 - Heals 1/8 of maximum HP at the end of each turn
-- Requires the Pokémon to not be at full HP
+- Requires the Pokemon to not be at full HP
 - Must be able to heal (not blocked by Heal Block, etc.)
 - Does not activate on the first turn after switching in

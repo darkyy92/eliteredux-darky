@@ -1,27 +1,27 @@
 ---
 id: 455
-name: "Archmage (Ability ID: 455)"
+name: Archmage
 status: ai-generated
-character_count: 267
+character_count: 290
 ---
 
-# Archmage (Ability ID: 455)
+# Archmage - Ability ID 455
 
 ## In-Game Description
 "30% chance of adding a type related effect to each move."
 
-## Extended In-Game Description (280-300 chars)
-30% chance to add type-based effects: Poison=Toxic, Ice=Frostbite, Water=Confusion, Fire=Burn, Electric/Psychic/Fairy/Grass set terrain, Normal=Encore, Rock=Stealth Rock, Ghost=Disable, Dark=Bleed, Fighting=+SpAtk, Flying=+Speed, Dragon=-Atk, Ground=Trap, Steel=+Def.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 291*
+30% chance to add type-based effects: Poison=Toxic, Ice=Frostbite, Water=Confusion, Fire=Burn, Electric/Psychic/Fairy/Grass set terrain, Normal=Encore, Rock=Stealth Rock, Ghost=Disable, Dark=Bleed, Fighting=+SpAtk, Flying=+Speed, Dragon=-Atk, Ground=Trap, Steel=+Def.
 
 ## Detailed Mechanical Explanation
 
 Archmage is one of the most complex abilities in Elite Redux, providing different secondary effects based on the type of move used. It triggers on successful non-status moves with a 30% chance.
 
 ### Core Mechanics
-- **Hook**: `onAttacker` - triggers when the Pokémon with this ability uses a move
-- **Activation conditions**: 
+- **Hook**: `onAttacker` - triggers when the Pokemon with this ability uses a move
+- **Activation conditions**:
   - Move must hit the target (`DidMoveHit()`)
   - Move cannot be a status move (`IS_MOVE_STATUS(move)`)
   - 30% random chance (`Random() % 100 < 30`)
@@ -33,7 +33,7 @@ When Archmage triggers, it applies different effects based on the move type:
 
 #### Status Infliction Effects
 - **Poison-type moves**: Inflicts Toxic poison on target
-- **Ice-type moves**: Inflicts Frostbite on target  
+- **Ice-type moves**: Inflicts Frostbite on target
 - **Water-type moves**: Inflicts Confusion on target
 - **Fire-type moves**: Inflicts Burn on target
 - **Ghost-type moves**: Inflicts Disable on target
@@ -71,7 +71,7 @@ When Archmage triggers, it applies different effects based on the move type:
 
 ### Strategic Value
 
-Archmage provides incredible versatility, allowing a Pokémon to adapt its strategy based on its moveset. The 30% activation rate makes it reliable enough to influence battle tactics while not being overpowered. The variety of effects means it can:
+Archmage provides incredible versatility, allowing a Pokemon to adapt its strategy based on its moveset. The 30% activation rate makes it reliable enough to influence battle tactics while not being overpowered. The variety of effects means it can:
 - Apply status conditions for DoT or debuff
 - Set beneficial terrain for team support
 - Boost own stats for setup

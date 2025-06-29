@@ -13,9 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
-
-*Character count: 290*
+This Pokemon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -84,15 +82,15 @@ From battle code analysis:
 ### Battle Scenarios
 
 **vs Taunt Lead**: 
-- Opponent uses Taunt → Fails
+- Opponent uses Taunt to Fails
 - Can still use Stealth Rock, Recover, etc.
 
 **vs Encore Trap**:
-- Uses Protect → Opponent uses Encore → Fails
+- Uses Protect to Opponent uses Encore to Fails
 - Not locked into Protect
 
 **vs Disable**:
-- Uses Hydro Pump → Opponent uses Disable → Fails
+- Uses Hydro Pump to Opponent uses Disable to Fails
 - Can continue using Hydro Pump
 
 ### Common Oblivious Users
@@ -100,11 +98,11 @@ From battle code analysis:
 - **Swinub line**: Physical attackers
 - **Wailord**: Special tank
 - **Barboach/Whiscash**: Ground/Water types
-- Various Pokémon as ability option
+- Various Pokemon as ability option
 
 ### Competitive Usage Notes
 - B-tier utility ability
-- Excellent on defensive Pokémon
+- Excellent on defensive Pokemon
 - Valuable for setup sweepers
 - Counters common disruption strategies
 - AI rates it relatively low (2/10)
@@ -137,7 +135,7 @@ From battle code analysis:
 - Various abilities providing specific immunities
 
 ### Practical Applications
-**Lead Pokémon**: Set hazards despite Taunt
+**Lead Pokemon**: Set hazards despite Taunt
 **Defensive Walls**: Use recovery freely
 **Setup Sweepers**: Boost without disruption
 **Choice Users**: Switch moves despite Encore

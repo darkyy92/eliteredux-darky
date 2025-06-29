@@ -5,18 +5,15 @@ status: ai-generated
 character_count: 289
 ---
 
-# Ability #328: Overwhelm
+# Overwhelm - Ability ID 328
 
-## Basic Information
-- **ID**: 328
-- **Name**: Overwhelm
-- **Short Description**: "Hits Fairies with Dragon moves. Immune to Intimidate and Scare."
+## In-Game Description
+"Hits Fairies with Dragon moves. Immune to Intimidate and Scare."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-This ability allows Dragon-type moves to hit Fairy-type Pokémon for normal damage instead of having no effect whatsoever. Additionally, the Pokémon is completely immune to stat-lowering entry abilities like Intimidate and Scare, making it highly resilient against common battle strategies.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-**Character Count**: 288 characters (including spaces)
+This ability allows Dragon-type moves to hit Fairy-type Pokemon for normal damage instead of having no effect whatsoever. Additionally, the Pokemon is completely immune to stat-lowering entry abilities like Intimidate and Scare, making it highly resilient against common battle strategies.
 
 ## Mechanical Analysis
 
@@ -80,7 +77,7 @@ constexpr Ability Overwhelm = {
 - **Turboblaze/Teravolt**: Ignore all abilities (broader scope)
 - **Inner Focus**: Immunity to flinching (similar mental resistance theme)
 
-## Pokémon That Learn This Ability
+## Pokemon That Learn This Ability
 *Note: Check SpeciesList.textproto for current distribution*
 
 ## Battle AI Considerations

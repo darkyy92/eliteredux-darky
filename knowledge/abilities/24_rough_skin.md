@@ -15,8 +15,6 @@ character_count: 299
 
 Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance. Stacks with Rocky Helmet for 1/6 total damage.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -67,8 +65,8 @@ constexpr Ability RoughSkin = {
 
 ### Common Users
 - Galarian Meowth (changeable ability option)
-- Various shark and rough-skinned Pokémon
-- Often found on defensive Pokémon as innate ability
+- Various shark and rough-skinned Pokemon
+- Often found on defensive Pokemon as innate ability
 
 ### Synergies
 - **Rocky Helmet**: Stacks for 1/6 total damage (18.75%)
@@ -84,7 +82,7 @@ constexpr Ability RoughSkin = {
 - Non-contact physical moves (Earthquake, Rock Slide)
 
 ### Competitive Usage Notes
-Rough Skin excels on bulky physical walls that can take multiple hits. The guaranteed damage adds up quickly, especially against Pokémon that rely on weaker multi-hit moves or U-turn for momentum. It's particularly effective in formats where physical attackers are common.
+Rough Skin excels on bulky physical walls that can take multiple hits. The guaranteed damage adds up quickly, especially against Pokemon that rely on weaker multi-hit moves or U-turn for momentum. It's particularly effective in formats where physical attackers are common.
 
 ### Version History
 Rough Skin has maintained consistent mechanics since its introduction, always dealing 1/8 max HP damage to contact move users. The addition of items and abilities that interact with contact moves has created more counterplay options over time.

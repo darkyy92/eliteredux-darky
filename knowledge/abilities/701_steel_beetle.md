@@ -15,8 +15,6 @@ character_count: 295
 
 Steel Beetle combines Raging Boxer and Pollinate effects. Punching moves hit twice with first hit at 100% power and second at 40%. Normal-type moves become Bug-type with 1.2x power boost. Bug-type moves always receive STAB regardless of Pokemon's actual typing.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -55,11 +53,11 @@ constexpr Ability SteelBeetle = {
 - Any move with `FLAG_IRON_FIST_BOOST`
 
 **Normal-type Moves (Pollinate component)**:
-- Hyper Beam → Bug-type with 1.2x boost
-- Body Slam → Bug-type with 1.2x boost  
-- Return/Frustration → Bug-type with 1.2x boost
-- Quick Attack → Priority Bug-type move
-- Facade → Powerful Bug move when statused
+- Hyper Beam to Bug-type with 1.2x boost
+- Body Slam to Bug-type with 1.2x boost  
+- Return/Frustration to Bug-type with 1.2x boost
+- Quick Attack to Priority Bug-type move
+- Facade to Powerful Bug move when statused
 
 ### Interaction Between Components
 **Non-overlapping Effects**: The two abilities target different move types:
@@ -73,7 +71,7 @@ constexpr Ability SteelBeetle = {
 
 ### Offensive Power
 - **Punching Moves**: 1.4x total damage (100% + 40% hits)
-- **Normal → Bug Moves**: 1.2x power boost plus guaranteed STAB
+- **Normal to Bug Moves**: 1.2x power boost plus guaranteed STAB
 - **Type Coverage**: Access to both physical punching combos and special Bug-type attacks
 - **Priority Options**: Bug-type Quick Attack and priority punching moves
 

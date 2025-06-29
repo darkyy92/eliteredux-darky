@@ -5,17 +5,19 @@ status: ai-generated
 character_count: 299
 ---
 
-# Fort Knox (Ability ID: 341)
+# Fort Knox - Ability ID 341
 
 ## In-Game Description
 "Blocks most damage boosting and multihit abilities."
 
-## Extended In-Game Description (280-300 chars)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Neutralizes offensive abilities that boost damage or enable multi-hits. Blocks 158+ damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond and Multi Headed bypass.
 
-*Character count: 299*
+## Detailed Mechanical Explanation
 
-## Code Implementation
+### Code Implementation
 
 ### Primary Definition
 **File:** `src/abilities.cc` (lines 3611-3613)
@@ -76,7 +78,7 @@ MultihitType GetParentalBondType(int battler, MoveEnum move, int moveType) {
 
 ### Core Mechanics
 Fort Knox operates by intercepting ability calculations during damage resolution:
-1. When a Pokémon with Fort Knox is defending, it prevents the attacker's offensive abilities from applying
+1. When a Pokemon with Fort Knox is defending, it prevents the attacker's offensive abilities from applying
 2. The ability specifically targets two hooks: `onOffensiveMultiplier` and `onParentalBond`
 3. Implementation is remarkably simple: just `.fortKnox = TRUE` in the ability struct
 
@@ -167,7 +169,7 @@ Several abilities also have the `fortKnox = TRUE` flag, making them Fort Knox va
 - Priority modifications
 - Critical hit ratio changes
 
-### Pokémon With Fort Knox
+### Pokemon With Fort Knox
 
 Based on `proto/SpeciesList.textproto`, Fort Knox appears on:
 - **Geodude line** (Geodude, Graveler, Golem) - as regular ability
@@ -197,7 +199,7 @@ Fort Knox essentially neutralizes most offensive ability strategies:
 - Makes the defender rely purely on base stats and moves
 - Forces attackers to use raw power or status moves
 
-This makes Fort Knox Pokémon excellent defensive pivots and walls, particularly against ability-reliant offensive threats. The very limited exceptions (only Parental Bond and Multi Headed) provide the primary reliable methods to break through with ability-enhanced attacks.
+This makes Fort Knox Pokemon excellent defensive pivots and walls, particularly against ability-reliant offensive threats. The very limited exceptions (only Parental Bond and Multi Headed) provide the primary reliable methods to break through with ability-enhanced attacks.
 
 ### Competitive Analysis
 
@@ -206,6 +208,6 @@ Fort Knox represents one of the strongest defensive tools in Elite Redux:
 - **Counters the meta** - Many powerful sweepers rely on damage-boosting abilities
 - **Forces strategic adaptation** - Opponents must rely on base power or status effects
 - **Balanced by exceptions** - Parental Bond and Multi Headed provide counterplay
-- **Synergizes with defensive stats** - Best on naturally bulky Pokémon
+- **Synergizes with defensive stats** - Best on naturally bulky Pokemon
 
 The ability essentially creates a "pure stats" battle environment where abilities don't determine damage output, making it incredibly valuable for defensive team compositions.

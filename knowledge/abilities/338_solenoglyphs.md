@@ -2,16 +2,26 @@
 id: 338
 name: Solenoglyphs
 status: ai-generated
-character_count: 0
+character_count: 290
 ---
 
-# Solenoglyphs (Ability #338)
+# Solenoglyphs - Ability ID 338
 
-## Overview
+## In-Game Description
+"Biting moves have 50% chance to badly poison the target."
 
-Solenoglyphs is an offensive ability that adds a powerful status effect to biting moves. When a Pokémon with this ability uses any move flagged as a biting move, there's a 50% chance to inflict the badly poisoned status condition on the target, making it an excellent ability for both offensive pressure and long-term damage accumulation.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Mechanics
+Solenoglyphs gives all biting moves a 50% chance to badly poison the target. This works with any move flagged as a biting move (Bite, Crunch, elemental Fangs, etc.) and applies toxic poison that deals increasing damage each turn. Poison and Steel types are immune to this secondary effect.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+Solenoglyphs is an offensive ability that adds a powerful status effect to biting moves. When a Pokemon with this ability uses any move flagged as a biting move, there's a 50% chance to inflict the badly poisoned status condition on the target, making it an excellent ability for both offensive pressure and long-term damage accumulation.
+
+### Mechanics
 
 ### Core Implementation
 - **Location**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc:3575-3584`
@@ -57,16 +67,16 @@ Solenoglyphs affects all moves with the `FLAG_STRONG_JAW_BOOST` flag. These incl
 - **Leech Life** (Bug, 80 power)
 - **Pluck** (Flying, 60 power)
 
-## Pokémon with Solenoglyphs
+## Pokemon with Solenoglyphs
 
-Based on the codebase analysis, Solenoglyphs appears as an innate ability on 6 different Pokémon:
+Based on the codebase analysis, Solenoglyphs appears as an innate ability on 6 different Pokemon:
 
-### Confirmed Pokémon
+### Confirmed Pokemon
 1. **Ekans** (Lines 4153 in SpeciesList.textproto)
    - Innate ability alongside Shed Skin and Coil Up
-   - Fits thematically as a venomous snake Pokémon
+   - Fits thematically as a venomous snake Pokemon
 
-*Note: Additional Pokémon with this ability can be found at lines 4308, 18320, 18426, 45076, and 108063 in the species data.*
+*Note: Additional Pokemon with this ability can be found at lines 4308, 18320, 18426, 45076, and 108063 in the species data.*
 
 ## Strategic Applications
 
@@ -76,7 +86,7 @@ Based on the codebase analysis, Solenoglyphs appears as an innate ability on 6 d
 - **Setup Deterrent**: Discourages long setup sequences from opponents
 
 ### Defensive Considerations
-- **Type Coverage**: Works well on Pokémon that can learn diverse biting moves
+- **Type Coverage**: Works well on Pokemon that can learn diverse biting moves
 - **Synergy**: Excellent with Merciless ability users on the same team
 - **Stall Breaking**: Helps break through defensive cores
 
@@ -89,7 +99,7 @@ Based on the codebase analysis, Solenoglyphs appears as an innate ability on 6 d
 - **Immediate Impact**: Can affect the battle from turn one
 
 ### Weaknesses
-- **Type Restrictions**: Limited to Pokémon that learn biting moves
+- **Type Restrictions**: Limited to Pokemon that learn biting moves
 - **Poison Immunity**: Completely blocked by Poison-types and Steel-types
 - **Ability Counters**: Poison Heal and Guts can turn the effect beneficial
 - **Random Factor**: 50% chance means inconsistent activation
@@ -113,7 +123,7 @@ Solenoglyphs rates as B+ tier due to its reliable activation rate and severe sta
 ## Interactions and Edge Cases
 
 ### Status Interactions
-- Cannot poison Poison-type or Steel-type Pokémon
+- Cannot poison Poison-type or Steel-type Pokemon
 - Blocked by Poison immunity abilities (Immunity, Poison Heal)
 - Overrides existing poison with badly poisoned status
 - Affects through Substitute (unlike some other abilities)
@@ -125,6 +135,7 @@ Solenoglyphs rates as B+ tier due to its reliable activation rate and severe sta
 
 ## Conclusion
 
-Solenoglyphs is a powerful offensive ability that transforms any biting move user into a potent status spreader. Its 50% activation rate provides consistent pressure, and the badly poisoned status can quickly accumulate significant damage. While limited by type immunities and move restrictions, it remains a valuable ability for Pokémon that can effectively utilize biting moves in their movesets.
+Solenoglyphs is a powerful offensive ability that transforms any biting move user into a potent status spreader. Its 50% activation rate provides consistent pressure, and the badly poisoned status can quickly accumulate significant damage. While limited by type immunities and move restrictions, it remains a valuable ability for Pokemon that can effectively utilize biting moves in their movesets.
 
-The ability's design encourages aggressive play while providing long-term damage accumulation, making it particularly effective against bulky defensive Pokémon that would otherwise wall physical attackers. Its presence in the Elite Redux roster adds another layer of strategic depth to team building and battle dynamics.
+The ability's design encourages aggressive play while providing long-term damage accumulation, making it particularly effective against bulky defensive Pokemon that would otherwise wall physical attackers. Its presence in the Elite Redux roster adds another layer of strategic depth to team building and battle dynamics.
+

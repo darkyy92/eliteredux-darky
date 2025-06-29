@@ -1,22 +1,26 @@
 ---
 id: 93
-name: Hydration - Ability #93
+name: Hydration
 status: ai-generated
-character_count: 314
+character_count: 293
 ---
 
-# Hydration - Ability #93
+# Hydration - Ability ID 93
 
-## Basic Information
-- **Name**: Hydration
-- **Ability Number**: 93
-- **Description**: Cures own status at the end of every turn in rain.
-- **Mechanical Type**: Status-Recovery
+## In-Game Description
+Cures own status at the end of every turn in rain.
 
-## In-Game Effects
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Hydration cures the Pokemon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity.
+
+## Detailed Mechanical Explanation
+
+### In-Game Effects
 
 ### Primary Effect
-- At the end of each turn, if the Pokémon is affected by rain weather, it automatically cures any status condition
+- At the end of each turn, if the Pokemon is affected by rain weather, it automatically cures any status condition
 - Status conditions cured include:
   - Sleep
   - Poison (regular and toxic)
@@ -33,11 +37,6 @@ character_count: 314
   - Primal Rain
 - Does NOT activate if rain is blocked by abilities like Air Lock or Cloud Nine
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Hydration cures the Pokémon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity.
-
-Character count: 293
 
 ## Strategic Applications
 
@@ -65,7 +64,7 @@ Character count: 293
 - Vulnerable to weather changes
 - Still takes status damage before cure
 
-## Pokémon with This Ability
+## Pokemon with This Ability
 Common Hydration users include:
 - Vaporeon (water-type synergy)
 - Lapras (bulky water tank)

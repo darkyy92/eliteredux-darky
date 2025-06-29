@@ -15,8 +15,6 @@ character_count: 296
 
 Contact with this Pokemon has a 30% chance to inflict frostbite. Frostbitten Pokemon lose 1/8 HP each turn and have their Special Attack halved. Fire-type moves that thaw can cure frostbite. The frostbite effect is similar to burn but affects Special Attack instead of Attack.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Contact with this Pokemon has a 30% chance to inflict frostbite. Frostbitten Pok
 Freezing Point inflicts frostbite status on contact, creating a defensive ability that punishes physical attackers with a debilitating ice-based status condition.
 
 ### Activation Conditions
-- **Trigger**: When opponent makes contact with this Pokémon
+- **Trigger**: When opponent makes contact with this Pokemon
 - **Chance**: 30% probability per contact move
 - **Contact requirement**: Move must have the contact flag
 - **Target eligibility**: Opponent must be able to receive frostbite status
@@ -48,7 +46,7 @@ constexpr Ability FreezingPoint = {
 - **HP damage**: 1/8 maximum HP lost per turn at end of turn
 - **Special Attack reduction**: Special Attack halved during damage calculation
 - **Duration**: Permanent until cured or switched out
-- **Visual indicator**: Frostbitten Pokémon show ice crystals/blue tint
+- **Visual indicator**: Frostbitten Pokemon show ice crystals/blue tint
 - **Type interaction**: Ice-type status effect with specific curing methods
 
 ### Curing Methods
@@ -87,10 +85,10 @@ constexpr Ability FreezingPoint = {
 - **Substitute**: Blocks contact and prevents frostbite
 
 ### Competitive Usage
-- **Defensive tanks**: Excellent on bulky Pokémon that can survive contact
+- **Defensive tanks**: Excellent on bulky Pokemon that can survive contact
 - **Status spreaders**: Complements other status-inflicting strategies
 - **Special walls**: Particularly effective against mixed attackers
-- **Pivot Pokémon**: Good on defensive pivots that take hits
+- **Pivot Pokemon**: Good on defensive pivots that take hits
 - **Stall teams**: Provides passive damage and debuffing
 
 ### Frostbite vs Burn Comparison

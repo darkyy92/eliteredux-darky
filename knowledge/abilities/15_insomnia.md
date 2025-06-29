@@ -15,8 +15,6 @@ character_count: 290
 
 Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -37,17 +35,17 @@ constexpr Ability Insomnia = {
 ### Key Features
 
 1. **Sleep Immunity**: 
-   - Prevents the Pokémon from being put to sleep by any means
+   - Prevents the Pokemon from being put to sleep by any means
    - Uses the `CHECK_SLEEP` flag in the `onStatusImmune` callback
    - Returns `TRUE` when any sleep-inducing effect is attempted
 
 2. **Rest Prevention**:
-   - The move Rest will fail completely if used by a Pokémon with Insomnia
+   - The move Rest will fail completely if used by a Pokemon with Insomnia
    - This is handled in the battle script system
    - Prevents self-induced sleep for recovery
 
 3. **Wake-Up Effect**:
-   - `removesStatusOnImmunity = TRUE` means if a sleeping Pokémon gains Insomnia, it immediately wakes up
+   - `removesStatusOnImmunity = TRUE` means if a sleeping Pokemon gains Insomnia, it immediately wakes up
    - This can occur through moves like Worry Seed that change abilities
 
 ### Ability Properties
@@ -66,7 +64,7 @@ constexpr Ability Insomnia = {
 
 1. **With Worry Seed**:
    - Worry Seed changes the target's ability to Insomnia
-   - Cannot be used on Pokémon that already have Insomnia
+   - Cannot be used on Pokemon that already have Insomnia
    - Protected by Ability Shield
 
 2. **With Other Sleep Immunity Abilities**:
@@ -77,7 +75,7 @@ constexpr Ability Insomnia = {
 
 3. **With Ability-Ignoring Effects**:
    - Can be bypassed by Mold Breaker and similar abilities
-   - Sleep-inducing moves from Pokémon with Mold Breaker will work
+   - Sleep-inducing moves from Pokemon with Mold Breaker will work
 
 ### Technical Details
 The ability check happens at multiple points:
@@ -93,11 +91,11 @@ The ability check happens at multiple points:
 - **Lead Potential**: Good for leads that fear sleep leads like Butterfree
 
 ### Common Users
-Typically found on Pokémon that are naturally alert or restless, often including nocturnal Pokémon or those with high energy levels.
+Typically found on Pokemon that are naturally alert or restless, often including nocturnal Pokemon or those with high energy levels.
 
 ### Competitive Usage Notes
 - Excellent on setup sweepers that fear sleep
-- Valuable on defensive Pokémon that can't afford sleep turns
+- Valuable on defensive Pokemon that can't afford sleep turns
 - Trade-off: loses Rest as a recovery option
 - Can enable safer switches into known sleep users
 
@@ -105,12 +103,12 @@ Typically found on Pokémon that are naturally alert or restless, often includin
 - Direct damage (no defensive benefits beyond sleep immunity)
 - Other status conditions still work normally
 - Mold Breaker bypasses the immunity
-- Pokémon with Insomnia often lack recovery without Rest
+- Pokemon with Insomnia often lack recovery without Rest
 
 ### Synergies
-- Pivot Pokémon that can absorb sleep moves
+- Pivot Pokemon that can absorb sleep moves
 - Setup sweepers that need uninterrupted setup
-- Pokémon with other recovery options (Roost, Recover, etc.)
+- Pokemon with other recovery options (Roost, Recover, etc.)
 - Teams weak to sleep-based strategies
 
 ### Version History

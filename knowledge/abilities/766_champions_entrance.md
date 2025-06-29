@@ -15,8 +15,6 @@ character_count: 299
 
 Upon entering battle, this Pokemon makes a dramatic champions entrance that intimidates all opposing Pokemon, lowering their Attack stat by one stage. Simultaneously, it enters an aggressive violent rush state that significantly boosts its own Speed by 50% and Attack by 20% for the first turn only.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

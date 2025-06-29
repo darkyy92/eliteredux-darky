@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon is on the field, poisoned enemies cannot heal HP through any means and lose all benefits from stat-boosting moves and abilities. This blood-corrupting ability disrupts the opponent's recovery strategies and neutralizes their stat advantages.
-
-*Character count: 289*
+When this Pokemon is on the field, poisoned enemies cannot heal HP through any means and lose all benefits from stat-boosting moves and abilities. This blood-corrupting ability disrupts the opponent's recovery strategies and neutralizes their stat advantages.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,14 +21,14 @@ When this Pokémon is on the field, poisoned enemies cannot heal HP through any 
 Hemolysis is a passive field ability that creates a blood-corrupting aura affecting poisoned opponents. The ability functions through two main mechanisms implemented in the battle system:
 
 **Healing Prevention (CanBattlerHeal function):**
-- Any Pokémon with poison status (STATUS1_POISON_ANY) cannot heal HP while Hemolysis is active on the opposing side
+- Any Pokemon with poison status (STATUS1_POISON_ANY) cannot heal HP while Hemolysis is active on the opposing side
 - This blocks all forms of healing: moves like Recover/Roost, items like Leftovers/Berries, and abilities like Rain Dish
 - The check specifically looks for `IsAbilityOnOpposingSide(battler, ABILITY_HEMOLYSIS)` combined with poison status
 
 **Stat Buff Nullification (BenefitsFromStatBuffs function):**
-- Poisoned Pokémon lose all benefits from stat increases (Attack, Defense, Speed, etc.)
+- Poisoned Pokemon lose all benefits from stat increases (Attack, Defense, Speed, etc.)
 - This affects both move-based stat boosts (Swords Dance, Dragon Dance) and ability-based boosts
-- The poisoned Pokémon retains the visual stat boost indicators but gains no mechanical benefit
+- The poisoned Pokemon retains the visual stat boost indicators but gains no mechanical benefit
 
 **Strategic Implications:**
 - Synergizes extremely well with poison-inducing moves and abilities

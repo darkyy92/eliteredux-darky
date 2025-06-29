@@ -2,19 +2,17 @@
 id: 381
 name: Pollinate
 status: ai-generated
-character_count: 263
+character_count: 292
 ---
 
-# Pollinate (Ability #381)
+# Pollinate - Ability ID 381
 
-## Basic Information
-- **Ability ID**: 381 (ABILITY_POLLINATE)
-- **Name**: Pollinate
-- **Short Description**: "Normal-type moves become Bug and Bug gains STAB."
-- **Type**: Type Conversion Ability (ATE-type)
-- **Generation**: Elite Redux Custom
+## In-Game Description
+"Normal-type moves become Bug and Bug gains STAB."
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks.
 
 ## Technical Implementation
@@ -49,13 +47,13 @@ Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves re
 - **Best Movesets**: Pokemon with strong Normal-type movesets benefit most
 
 ### Optimal Move Combinations
-**Recommended Normal → Bug Conversions**:
-- **Hyper Beam** → 120 BP Bug-type move with 1.2x boost
-- **Body Slam** → 85 BP Bug-type move with paralysis chance
-- **Double-Edge** → 100 BP Bug-type move with recoil
-- **Return/Frustration** → Variable BP Bug moves
-- **Quick Attack** → Priority Bug-type move
-- **Facade** → Powerful Bug move when statused
+**Recommended Normal to Bug Conversions**:
+- **Hyper Beam** to 120 BP Bug-type move with 1.2x boost
+- **Body Slam** to 85 BP Bug-type move with paralysis chance
+- **Double-Edge** to 100 BP Bug-type move with recoil
+- **Return/Frustration** to Variable BP Bug moves
+- **Quick Attack** to Priority Bug-type move
+- **Facade** to Powerful Bug move when statused
 
 ### Coverage Considerations
 **Bug-type Effectiveness**:
@@ -75,25 +73,25 @@ Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves re
 Pollinate is part of a large family of type-conversion abilities:
 
 **Official ATE Abilities**:
-- **Refrigerate** (#174) - Normal → Ice
-- **Pixilate** (#182) - Normal → Fairy  
-- **Aerilate** (#184) - Normal → Flying
-- **Galvanize** (#206) - Normal → Electric
+- **Refrigerate** (#174) - Normal to Ice
+- **Pixilate** (#182) - Normal to Fairy  
+- **Aerilate** (#184) - Normal to Flying
+- **Galvanize** (#206) - Normal to Electric
 
 **Elite Redux ATE Abilities**:
-- **Steelworker** (#200) - Normal → Steel
-- **Immolate** (#279) - Normal → Fire
-- **Fighting Spirit** (#300) - Normal → Fighting
-- **Tectonize** (#308) - Normal → Ground
-- **Hydrate** (#315) - Normal → Water
-- **Intoxicate** (#325) - Normal → Poison
-- **Spectralize** (#???) - Normal → Ghost
-- **Mineralize** (#404) - Normal → Rock
-- **Draconize** (#413) - Normal → Dragon
-- **Atomic Burst** (#416) - Normal → Electric (with additional effects)
-- **Emanate** (#459) - Normal → Psychic
-- **Fertilize** (#507) - Normal → Grass
-- **Deviate** (#???) - Normal → Dark
+- **Steelworker** (#200) - Normal to Steel
+- **Immolate** (#279) - Normal to Fire
+- **Fighting Spirit** (#300) - Normal to Fighting
+- **Tectonize** (#308) - Normal to Ground
+- **Hydrate** (#315) - Normal to Water
+- **Intoxicate** (#325) - Normal to Poison
+- **Spectralize** (#???) - Normal to Ghost
+- **Mineralize** (#404) - Normal to Rock
+- **Draconize** (#413) - Normal to Dragon
+- **Atomic Burst** (#416) - Normal to Electric (with additional effects)
+- **Emanate** (#459) - Normal to Psychic
+- **Fertilize** (#507) - Normal to Grass
+- **Deviate** (#???) - Normal to Dark
 
 ### Comparison with Similar Abilities
 **vs Refrigerate/Pixilate/Aerilate**: 

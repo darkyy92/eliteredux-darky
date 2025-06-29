@@ -5,13 +5,19 @@ status: ai-generated
 character_count: 280
 ---
 
-## Brawling Wyvern (Ability ID: 600)
+# Brawling Wyvern - Ability ID 600
 
-### Core Mechanics
-Brawling Wyvern combines No Guard's perfect accuracy with Dragon-type move enhancement. All moves used by and against this Pokémon will never miss, ignoring accuracy and evasion modifiers. Dragon-type moves gain Iron Fist treatment, boosting power by 30% and enabling interactions with punching-move mechanics like Punching Glove's contact negation.
+## In-Game Description
+"Perfect accuracy for all moves. Dragon moves gain 30% power and punch interactions."
 
-### Extended Description (280 characters)
-Guarantees perfect accuracy for all moves used by and against this Pokémon. Dragon-type moves are treated as punching moves, gaining 30% power boost and punch-item interactions. This transforms Dragon moves into powerful offensive options while maintaining tactical reliability.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Guarantees perfect accuracy for all moves used by and against this Pokemon. Dragon-type moves are treated as punching moves, gaining 30% power boost and punch-item interactions. This transforms Dragon moves into powerful offensive options while maintaining tactical reliability.
+
+## Detailed Mechanical Explanation
+
+Brawling Wyvern combines No Guard's perfect accuracy with Dragon-type move enhancement. All moves used by and against this Pokemon will never miss, ignoring accuracy and evasion modifiers. Dragon-type moves gain Iron Fist treatment, boosting power by 30% and enabling interactions with punching-move mechanics like Punching Glove's contact negation.
 
 ### Strategic Applications
 - **Offensive Enhancement**: Dragon-type moves receive significant power boost

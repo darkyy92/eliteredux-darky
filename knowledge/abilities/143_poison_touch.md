@@ -13,9 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon makes physical contact, either by using contact moves or being hit by them, there's a 30% chance the opposing Pokémon becomes poisoned. This ability functions both offensively and defensively during battle, but cannot poison targets already poisoned or immune to poison.
-
-*Character count: 290*
+When this Pokemon makes physical contact, either by using contact moves or being hit by them, there's a 30% chance the opposing Pokemon becomes poisoned. This ability functions both offensively and defensively during battle, but cannot poison targets already poisoned or immune to poison.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -41,6 +39,6 @@ Poison Touch is a contact-based ability that activates in two scenarios:
 
 ### Strategic Applications
 - Excellent for tanks and walls that can survive contact moves and potentially cripple attackers
-- Useful on offensive Pokémon to weaken defensive walls over time
+- Useful on offensive Pokemon to weaken defensive walls over time
 - Particularly effective in longer battles where poison damage accumulates
 - Strong deterrent against physical contact-based attackers

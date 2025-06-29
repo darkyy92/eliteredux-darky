@@ -15,13 +15,11 @@ character_count: 286
 
 Archer boosts the power of arrow-based moves by 30%. Affects moves like Thousand Arrows, Spirit Shackle, Diamond Arrow, Blazing Arrow, and Triple Arrows. The power boost applies to both physical and special arrow moves, making precision-based attackers significantly more threatening.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Archer is an offensive ability that provides a 30% power boost to all moves flagged as "arrow-based" in the game data. This ability enhances the precision and power of ranged attacks, making it ideal for Pokémon with archer-like themes.
+Archer is an offensive ability that provides a 30% power boost to all moves flagged as "arrow-based" in the game data. This ability enhances the precision and power of ranged attacks, making it ideal for Pokemon with archer-like themes.
 
 ### Activation Conditions
 - **Move requirement**: The move must have the `arrowBased` flag set to true
@@ -30,9 +28,9 @@ Archer is an offensive ability that provides a 30% power boost to all moves flag
 - **Target**: Affects single-target and multi-target arrow moves
 
 ### Arrow-Based Moves Enhanced
-- **Thousand Arrows** (Ground-type, 90 BP → 117 BP)
-- **Spirit Shackle** (Ghost-type, 85 BP → 110.5 BP)
-- **Diamond Arrow** (Rock-type, 85 BP → 110.5 BP)
+- **Thousand Arrows** (Ground-type, 90 BP to 117 BP)
+- **Spirit Shackle** (Ghost-type, 85 BP to 110.5 BP)
+- **Diamond Arrow** (Rock-type, 85 BP to 110.5 BP)
 - **Blazing Arrow** (Fire-type)
 - **Triple Arrows** (Fighting-type)
 - Many custom Elite Redux arrow moves
@@ -60,14 +58,14 @@ constexpr Ability Archer = {
 - **Sniper**: Common pairing for critical hit arrow moves
 
 ### Strategic Implications
-- **Archer role-play**: Thematically fits Decidueye and similar Pokémon
+- **Archer role-play**: Thematically fits Decidueye and similar Pokemon
 - **Precision offense**: Makes arrow moves reliable damage dealers
 - **Coverage enhancement**: Boosts unique moves not typically powered up
 - **Niche movepool**: Limited to arrow-flagged moves only
 - **Type diversity**: Arrow moves span multiple types
 
 ### Common Users
-**Known Pokémon with Archer:**
+**Known Pokemon with Archer:**
 - **Decidueye** (including Hisuian forme)
 - **Decidueye Mega**
 - **Ribombee Redux** (as innate ability)
@@ -103,9 +101,9 @@ constexpr Ability Archer = {
 
 ### Version History
 - Custom Elite Redux ability (ID 470)
-- Designed to enhance archer-themed Pokémon
+- Designed to enhance archer-themed Pokemon
 - Part of the enhanced Decidueye line abilities
 - Integrated with arrow move flagging system
 
 ### Design Philosophy
-Archer represents the precision and power of skilled marksmen in Pokémon form. The ability emphasizes accuracy-based offensive gameplay while providing meaningful boosts to otherwise niche moves, creating a distinct offensive archetype focused on ranged combat excellence.
+Archer represents the precision and power of skilled marksmen in Pokemon form. The ability emphasizes accuracy-based offensive gameplay while providing meaningful boosts to otherwise niche moves, creating a distinct offensive archetype focused on ranged combat excellence.

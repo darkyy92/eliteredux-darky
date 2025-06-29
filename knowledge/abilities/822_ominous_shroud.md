@@ -5,36 +5,39 @@ status: ai-generated
 character_count: 295
 ---
 
-# Ominous Shroud (Ability ID: 822)
+# Ominous Shroud - Ability ID 822
 
-**Short Description:** Phantom + Shadow Shield.
+## In-Game Description
+Phantom + Shadow Shield.
 
 ## Extended In-Game Description
-Ominous Shroud grants the Pokémon Ghost typing upon entering battle, even if it wasn't Ghost-type originally. Additionally, when at full HP, the Pokémon takes only 50% damage from all attacking moves. This defensive bonus is lost when the Pokémon's HP drops below maximum, but the Ghost typing remains permanent throughout battle.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-**Character count: 295**
+Ominous Shroud grants the Pokemon Ghost typing upon entering battle, even if it wasn't Ghost-type originally. Additionally, when at full HP, the Pokemon takes only 50% damage from all attacking moves. This defensive bonus is lost when the Pokemon's HP drops below maximum, but the Ghost typing remains permanent throughout battle.
 
-## Mechanical Implementation
+## Detailed Mechanical Explanation
+
+### Mechanical Implementation
 
 Ominous Shroud is a combination ability that merges two distinct effects:
 
 ### Phantom Component (onEntry)
-- **Function:** Adds Ghost type to the Pokémon upon entering battle
+- **Function:** Adds Ghost type to the Pokemon upon entering battle
 - **Implementation:** `AddBattlerType(battler, TYPE_GHOST)`
-- **Effect:** The Pokémon gains Ghost typing as a third type (stored in `type3` slot)
+- **Effect:** The Pokemon gains Ghost typing as a third type (stored in `type3` slot)
 - **Persistence:** Remains active throughout the entire battle
-- **Interaction:** Only adds Ghost type if the Pokémon doesn't already have it
+- **Interaction:** Only adds Ghost type if the Pokemon doesn't already have it
 
 ### Shadow Shield Component (onDefensiveMultiplier)
 - **Function:** Reduces incoming damage by 50% when at full HP
 - **Implementation:** `if (BATTLER_MAX_HP(battler)) MUL(.5)`
-- **Condition:** Only active when the Pokémon is at maximum HP
+- **Condition:** Only active when the Pokemon is at maximum HP
 - **Breakable:** Yes - this defensive bonus can be negated by Mold Breaker-like abilities
 
 ## Battle Interactions
 
 ### Type Addition Mechanics
-1. **Ghost Type Addition:** Immediately upon entering battle, the Pokémon gains Ghost typing
+1. **Ghost Type Addition:** Immediately upon entering battle, the Pokemon gains Ghost typing
 2. **Type Immunities:** Gains immunity to Normal and Fighting moves (standard Ghost-type immunity)
 3. **Type Weaknesses:** Becomes weak to Ghost and Dark moves
 4. **STAB Bonus:** Can now receive STAB on Ghost-type moves if learned
@@ -48,7 +51,7 @@ Ominous Shroud is a combination ability that merges two distinct effects:
 ## Strategic Applications
 
 ### Offensive Benefits
-- **STAB Ghost Moves:** Enhanced Ghost-type move damage if the Pokémon learns them
+- **STAB Ghost Moves:** Enhanced Ghost-type move damage if the Pokemon learns them
 - **Type Coverage:** Access to Ghost-type immunities and resistances
 
 ### Defensive Benefits
@@ -69,6 +72,6 @@ Ominous Shroud is a combination ability that merges two distinct effects:
 - **Multiscale:** Similar damage reduction mechanic (Shadow Shield is based on Multiscale)
 - **Disguise:** Another defensive ability that prevents damage, but works differently
 
-## Pokémon Distribution
+## Pokemon Distribution
 
-This ability is designed for Pokémon that benefit from both defensive bulk and Ghost-type properties, typically used on bulky setup sweepers or defensive pivots that can leverage the temporary damage reduction.
+This ability is designed for Pokemon that benefit from both defensive bulk and Ghost-type properties, typically used on bulky setup sweepers or defensive pivots that can leverage the temporary damage reduction.

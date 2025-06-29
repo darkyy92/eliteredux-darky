@@ -15,17 +15,15 @@ character_count: 280
 
 Sap Sipper provides immunity to Grass-type moves and boosts the highest attacking stat by one stage when hit. Also redirects single-target Grass moves in doubles. The boost applies to Attack or Special Attack, whichever is higher. Great defensive utility with offensive potential.
 
-*Character count: 280*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Sap Sipper is a dual-purpose ability that provides both defensive immunity and offensive enhancement when facing Grass-type moves. When a Pokémon with Sap Sipper is targeted by a Grass-type move:
+Sap Sipper is a dual-purpose ability that provides both defensive immunity and offensive enhancement when facing Grass-type moves. When a Pokemon with Sap Sipper is targeted by a Grass-type move:
 
 1. **Move Absorption**: The Grass-type move is completely negated - it deals no damage and has no effect
-2. **Stat Boost**: The Pokémon's highest attacking stat (Attack or Special Attack) is raised by one stage (+50% increase)
-3. **Move Redirection**: In double battles, single-target Grass moves are redirected to the Sap Sipper Pokémon
+2. **Stat Boost**: The Pokemon's highest attacking stat (Attack or Special Attack) is raised by one stage (+50% increase)
+3. **Move Redirection**: In double battles, single-target Grass moves are redirected to the Sap Sipper Pokemon
 
 ### Technical Implementation
 ```cpp
@@ -49,7 +47,7 @@ All Grass-type moves are absorbed by Sap Sipper, including but not limited to:
 ### Activation Conditions
 - Must be hit by a Grass-type move (direct or indirect)
 - Works on both damaging and non-damaging Grass moves
-- Triggers even if the move would normally have no effect (e.g., Spore on already sleeping Pokémon)
+- Triggers even if the move would normally have no effect (e.g., Spore on already sleeping Pokemon)
 - Does not activate on self-inflicted Grass moves
 
 ### Stat Boost Logic
@@ -63,7 +61,7 @@ The ability uses `GetHighestAttackingStatId(battler, TRUE)` to determine which s
 - **Mold Breaker**: Can bypass Sap Sipper's immunity and redirection
 - **Telepathy**: Does not prevent Sap Sipper from absorbing ally Grass moves in doubles
 - **Magic Guard**: Sap Sipper's immunity takes precedence over Magic Guard
-- **Substitute**: Sap Sipper works even if the Pokémon is behind a substitute
+- **Substitute**: Sap Sipper works even if the Pokemon is behind a substitute
 - **Wonder Guard**: Sap Sipper immunity overrides Wonder Guard's type effectiveness rules
 
 ### Strategic Applications
@@ -88,11 +86,11 @@ Before Sap Sipper activation:
 - After +1 boost: 225 Attack stat (50% increase)
 
 Practical impact:
-- Aqua Jet damage: 40 BP × 225 Attack = significantly higher damage output
+- Aqua Jet damage: 40 BP x 225 Attack = significantly higher damage output
 - Belly Drum becomes even more threatening with the extra boost
 
 ### Common Users
-Notable Pokémon with Sap Sipper include:
+Notable Pokemon with Sap Sipper include:
 - **Azumarill**: Synergizes with Huge Power for massive physical offense
 - **Bouffalant**: Becomes an even more dangerous physical attacker
 - **Mamoswine**: Covers its Grass weakness while boosting Attack
@@ -100,7 +98,7 @@ Notable Pokémon with Sap Sipper include:
 
 ### Competitive Usage Notes
 **Tier Assessment**: Highly valuable in formats with common Grass-type moves
-**Usage Rate**: Moderate to high on Pokémon that can effectively use both attacking stats
+**Usage Rate**: Moderate to high on Pokemon that can effectively use both attacking stats
 **Niche Applications**: 
 - Grass-type immunity in Grass-heavy metas
 - Setup sweeper enabler after absorbing Grass moves
@@ -114,7 +112,7 @@ Notable Pokémon with Sap Sipper include:
 
 **Limitations**:
 - Only works against Grass-type moves
-- Stat boost may not always be useful if the Pokémon uses the non-boosted attacking stat
+- Stat boost may not always be useful if the Pokemon uses the non-boosted attacking stat
 - Redirection only works on single-target moves in doubles
 
 ### Synergies

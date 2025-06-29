@@ -13,9 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Subdue enhances all stat-lowering moves used by this Pokémon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities.
-
-*Character count: 281*
+Subdue enhances all stat-lowering moves used by this Pokemon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,25 +22,25 @@ Subdue enhances all stat-lowering moves used by this Pokémon, doubling their ef
 
 ### Core Mechanics:
 - **Effect**: Doubles all negative stat stage changes inflicted on opponents
-- **Scope**: Only affects moves used by the Pokémon with Subdue
-- **Target**: Only affects stat drops on opposing Pokémon
+- **Scope**: Only affects moves used by the Pokemon with Subdue
+- **Target**: Only affects stat drops on opposing Pokemon
 - **Stacking**: Does not stack with Simple (opponent's Simple is calculated separately)
 
 ### Stat Drop Multiplication:
-1. **Single Stage Drops → Double**:
-   - Growl (-1 Attack) → -2 Attack
-   - Leer (-1 Defense) → -2 Defense
-   - String Shot (-1 Speed) → -2 Speed
+1. **Single Stage Drops to Double**:
+   - Growl (-1 Attack) to -2 Attack
+   - Leer (-1 Defense) to -2 Defense
+   - String Shot (-1 Speed) to -2 Speed
    
-2. **Double Stage Drops → Quadruple**:
-   - Screech (-2 Defense) → -4 Defense
-   - Fake Tears (-2 Sp. Def) → -4 Sp. Def
-   - Scary Face (-2 Speed) → -4 Speed
+2. **Double Stage Drops to Quadruple**:
+   - Screech (-2 Defense) to -4 Defense
+   - Fake Tears (-2 Sp. Def) to -4 Sp. Def
+   - Scary Face (-2 Speed) to -4 Speed
 
 3. **Multi-Stat Moves**:
    - Intimidate-like effects: Each stat doubled independently
-   - Memento (-2 Atk/Sp.Atk) → -4 Atk/Sp.Atk
-   - Parting Shot (-1 Atk/Sp.Atk) → -2 Atk/Sp.Atk
+   - Memento (-2 Atk/Sp.Atk) to -4 Atk/Sp.Atk
+   - Parting Shot (-1 Atk/Sp.Atk) to -2 Atk/Sp.Atk
 
 ### Important Interactions:
 - **Does NOT affect**:

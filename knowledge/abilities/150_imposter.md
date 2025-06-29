@@ -13,15 +13,13 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Imposter transforms the Pokémon into the opponent upon switching in. Copies their appearance, stats, types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
-
-*Character count: 297*
+Imposter transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats, types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Imposter activates automatically when the Pokémon enters battle (switch-in or battle start). It copies the target's complete battle data using the same transformation mechanics as the move Transform.
+Imposter activates automatically when the Pokemon enters battle (switch-in or battle start). It copies the target's complete battle data using the same transformation mechanics as the move Transform.
 
 ### Target Selection Priority
 1. **Primary Target**: Direct opponent (opposite battler)
@@ -54,7 +52,7 @@ Imposter **CANNOT** transform if the target:
 - Has STATUS3_SEMI_INVULNERABLE (using moves like Fly, Dig, Dive)
 
 ### Battle Message
-Upon successful transformation: "*{Pokémon} transformed into {Target} using Imposter!*"
+Upon successful transformation: "*{Pokemon} transformed into {Target} using Imposter!*"
 
 ### Interaction with Elite Redux Multi-Ability System
 In Elite Redux's 4-ability system, Imposter copies:
@@ -78,13 +76,13 @@ In Elite Redux's 4-ability system, Imposter copies:
 ### Common Users in Elite Redux
 - **Ditto**: Primary Imposter user with supporting innate abilities
 - **Mew**: Alternative Imposter user with enhanced versatility
-- **Other species**: Various Pokémon may have Imposter as an ability option
+- **Other species**: Various Pokemon may have Imposter as an ability option
 
 ### Counters and Limitations
 1. **Substitute**: Blocks transformation entirely
-2. **Illusion**: Prevents targeting the real Pokémon
-3. **Semi-invulnerable states**: Flying, underground, or underwater Pokémon cannot be copied
-4. **Pre-transformation**: Already transformed Pokémon cannot be targeted
+2. **Illusion**: Prevents targeting the real Pokemon
+3. **Semi-invulnerable states**: Flying, underground, or underwater Pokemon cannot be copied
+4. **Pre-transformation**: Already transformed Pokemon cannot be targeted
 5. **Low PP**: Copied moves only have 5 PP maximum
 
 ### Example Scenarios
@@ -96,12 +94,12 @@ In Elite Redux's 4-ability system, Imposter copies:
 **Scenario 2 - Stat Boost Inheritance**:
 - Target Dragonite has +2 Attack from Dragon Dance
 - Imposter copies Dragonite including the +2 Attack boost
-- Transformed Pokémon starts with boosted stats
+- Transformed Pokemon starts with boosted stats
 
 **Scenario 3 - Blocked by Substitute**:
-- Target Pokémon is behind Substitute
+- Target Pokemon is behind Substitute
 - Imposter fails to activate
-- Original Pokémon remains unchanged
+- Original Pokemon remains unchanged
 
 ### Damage Calculations
 Imposter doesn't directly affect damage calculations but provides access to the target's full combat potential, including their base stats, STAB bonuses, and ability effects.

@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Dragonfly grants the Dragon type to the Pokémon on switch-in, creating dual or triple typing. The ability also provides complete immunity to Ground-type moves through levitation, making the Pokémon unaffected by moves like Earthquake and Spikes.
-
-*Character count: 295*
+Dragonfly grants the Dragon type to the Pokemon on switch-in, creating dual or triple typing. The ability also provides complete immunity to Ground-type moves through levitation, making the Pokemon unaffected by moves like Earthquake and Spikes.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Dragonfly grants the Dragon type to the Pokémon on switch-in, creating dual or 
 ### Core Mechanics
 Dragonfly is a dual-function ability that combines type addition with Ground immunity:
 
-1. **Type Addition**: On entry, adds Dragon type to the Pokémon using the same mechanism as Half Drake ability
+1. **Type Addition**: On entry, adds Dragon type to the Pokemon using the same mechanism as Half Drake ability
 2. **Levitation**: Provides complete immunity to Ground-type moves and hazards
 
 ### Activation Conditions
@@ -47,14 +45,14 @@ constexpr Ability Dragonfly = {
 ### Ground-Type Immunity Coverage
 - **Moves**: All Ground-type attacks (Earthquake, Earth Power, Bulldoze, etc.)
 - **Entry hazards**: Spikes damage
-- **Arena effects**: Arena Trap cannot trap levitating Pokémon
+- **Arena effects**: Arena Trap cannot trap levitating Pokemon
 - **Interactions**: Overridden by Gravity, Iron Ball, and Ingrain effects
 
 ### Type Addition Mechanics
 - Adds Dragon type as an additional type (does not replace existing types)
-- Creates dual typing for single-type Pokémon
-- Creates triple typing for dual-type Pokémon (rare mechanic)
-- Dragon typing persists until the Pokémon switches out or the ability is suppressed
+- Creates dual typing for single-type Pokemon
+- Creates triple typing for dual-type Pokemon (rare mechanic)
+- Dragon typing persists until the Pokemon switches out or the ability is suppressed
 
 ### Strategic Implications
 **Offensive Benefits:**
@@ -71,8 +69,8 @@ constexpr Ability Dragonfly = {
 - Triple typing can create complex type interactions
 
 ### Common Users
-- **Vibrava**: Ground/Bug → Ground/Bug/Dragon with Ground immunity
-- **Flygon**: Ground/Dragon → Already Dragon type, gains Ground immunity
+- **Vibrava**: Ground/Bug to Ground/Bug/Dragon with Ground immunity
+- **Flygon**: Ground/Dragon to Already Dragon type, gains Ground immunity
 
 ### Competitive Usage Notes
 - Excellent for pivoting against Ground-type attacks
@@ -82,7 +80,7 @@ constexpr Ability Dragonfly = {
 
 ### Counters
 - **Ability Suppression**: Mold Breaker, Teravolt, Turboblaze ignore the Ground immunity
-- **Status Effects**: Gravity grounds the Pokémon, removing Ground immunity
+- **Status Effects**: Gravity grounds the Pokemon, removing Ground immunity
 - **Items**: Iron Ball grounds the holder
 - **Moves**: Ingrain removes levitation effect
 - **Type Disadvantages**: Ice, Dragon, and Fairy moves become super effective

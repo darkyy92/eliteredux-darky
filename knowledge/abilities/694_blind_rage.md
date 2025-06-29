@@ -5,16 +5,19 @@ status: ai-generated
 character_count: 295
 ---
 
-# Blind Rage
+# Blind Rage - Ability ID 694
 
-**ID**: 694  
-**Type**: Offensive Utility Ability  
-**Activation**: Passive + On Entry  
+## In-Game Description
+Scrappy + Mold Breaker effects.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This Pokemon's overwhelming fury breaks through all defensive barriers and type immunities. Upon entering battle, it announces its presence with menacing force. Normal and Fighting moves can now hit Ghost types effectively, while all abilities that would hinder attacks are completely bypassed.
 
-## Technical Details
+## Detailed Mechanical Explanation
+
+### Technical Details
 
 - **Effect Combination**: Scrappy + Mold Breaker
 - **Type Effectiveness**: Normal/Fighting moves hit Ghost types for neutral damage
@@ -22,7 +25,7 @@ This Pokemon's overwhelming fury breaks through all defensive barriers and type 
 - **Entry Message**: Displays Mold Breaker announcement
 - **Taunt Immunity**: Cannot be taunted due to Scrappy component
 
-## Competitive Analysis
+### Competitive Analysis
 
 Blind Rage provides excellent offensive utility by combining two powerful effects. The ability to hit Ghost types with Normal/Fighting moves while ignoring defensive abilities makes it valuable against common defensive strategies.
 
@@ -36,7 +39,7 @@ Blind Rage provides excellent offensive utility by combining two powerful effect
 - Status moves and debuffs
 - Priority moves from faster opponents
 
-## Related Abilities
+### Related Abilities
 
 - **Scrappy** (ID 113): Allows Normal/Fighting moves to hit Ghost types
 - **Mold Breaker** (ID 104): Ignores abilities that would hinder attacks

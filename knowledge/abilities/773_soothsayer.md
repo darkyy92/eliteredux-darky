@@ -1,18 +1,21 @@
 ---
 id: 773
-name: "Soothsayer (ID: 773)"
+name: Soothsayer
 status: ai-generated
-character_count: 258
+character_count: 282
 ---
 
-# Soothsayer (ID: 773)
+# Soothsayer - Ability ID 773
 
-## Extended In-Game Description (280-300 chars)
-"First switch-in only: Take 0.5× damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field."
+## In-Game Description
+Resists all attacks for three turns on first entry.
 
-*Character count: 282*
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Detailed Mechanical Analysis
+First switch-in only: Take 0.5x damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field.
+
+## Detailed Mechanical Explanation
 
 ### Basic Mechanics
 - **Ability ID**: 773
@@ -58,8 +61,8 @@ Here's exactly how it works:
 4. **No Reset on Re-entry**: Subsequent switch-ins do nothing because the single-use counter is already set
 
 ### Damage Reduction Mechanics
-- **Type Effectiveness Check**: Only affects moves with >= 1.0× effectiveness
-- **Damage Reduction**: All qualifying attacks become 0.5× damage (equivalent to "not very effective")
+- **Type Effectiveness Check**: Only affects moves with >= 1.0x effectiveness
+- **Damage Reduction**: All qualifying attacks become 0.5x damage (equivalent to "not very effective")
 - **Move Types Affected**: All move types that would normally do neutral or super-effective damage
 - **Breakable**: Can be suppressed by Mold Breaker, Teravolt, Turboblaze
 

@@ -15,8 +15,6 @@ character_count: 292
 
 Grants STAB to all Water-type moves regardless of the user's typing, multiplying their power by 1.5x. Also provides immunity to being drenched by Venom Drench, preventing the Attack, Special Attack, and Speed reductions that occur when poisoned Pokemon are hit by that move.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -76,15 +74,15 @@ constexpr Ability Amphibious = {
 
 ### Damage Calculations
 ```
-Base Water Move Power × 1.5 (STAB) × Other Modifiers = Final Power
+Base Water Move Power x 1.5 (STAB) x Other Modifiers = Final Power
 
 Example: Hydro Pump (110 BP)
 - Without Amphibious: 110 BP
-- With Amphibious: 110 × 1.5 = 165 BP effective power
+- With Amphibious: 110 x 1.5 = 165 BP effective power
 ```
 
 ### Interactions
-- **Other STAB**: Stacks with natural STAB if Pokemon is already Water-type (1.5x × 1.5x = 2.25x total)
+- **Other STAB**: Stacks with natural STAB if Pokemon is already Water-type (1.5x x 1.5x = 2.25x total)
 - **Abilities**: Works with other damage-boosting abilities (Tough Claws, Sheer Force, etc.)
 - **Items**: Stacks with type-boosting items like Mystic Water
 - **Weather**: Combines with Rain's Water move boost for massive damage

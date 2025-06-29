@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Combines Striker and Pixilate effects. Boosts the power of kicking moves by 30% and converts all Normal-type moves to Fairy-type with a 20% power boost. This dual enhancement makes the Pokémon excel at both physical kicking attacks and special Fairy-type moves.
-
-*Character count: 289*
+Combines Striker and Pixilate effects. Boosts the power of kicking moves by 30% and converts all Normal-type moves to Fairy-type with a 20% power boost. This dual enhancement makes the Pokemon excel at both physical kicking attacks and special Fairy-type moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -69,26 +67,26 @@ Moves with `FLAG_STRIKER_BOOST` include:
 ### Type Conversion (Pixilate Component)
 - All Normal-type moves become Fairy-type
 - Converted moves receive the "ate boost" (typically 1.2x multiplier)
-- Pokémon gains STAB on all Fairy-type moves (including converted ones)
+- Pokemon gains STAB on all Fairy-type moves (including converted ones)
 
 ### Damage Calculation Examples
 1. **Normal Kicking Move (e.g., if Mega Kick was Normal-type)**:
    - Base Power: 120
-   - Striker boost: 120 × 1.3 = 156
-   - Pixilate conversion: Normal → Fairy
-   - Pixilate boost: 156 × 1.2 = 187.2
-   - STAB (if applicable): 187.2 × 1.5 = 280.8
+   - Striker boost: 120 x 1.3 = 156
+   - Pixilate conversion: Normal to Fairy
+   - Pixilate boost: 156 x 1.2 = 187.2
+   - STAB (if applicable): 187.2 x 1.5 = 280.8
 
 2. **Fairy Kicking Move**:
    - Base Power: 120  
-   - Striker boost: 120 × 1.3 = 156
-   - STAB: 156 × 1.5 = 234
+   - Striker boost: 120 x 1.3 = 156
+   - STAB: 156 x 1.5 = 234
 
 3. **Normal Non-Kicking Move**:
    - Base Power: 80
-   - Pixilate conversion: Normal → Fairy
-   - Pixilate boost: 80 × 1.2 = 96
-   - STAB: 96 × 1.5 = 144
+   - Pixilate conversion: Normal to Fairy
+   - Pixilate boost: 80 x 1.2 = 96
+   - STAB: 96 x 1.5 = 144
 
 ### Interactions and Synergies
 - **Life Orb**: Stacks multiplicatively with both effects
@@ -98,13 +96,13 @@ Moves with `FLAG_STRIKER_BOOST` include:
 - **Normalize**: Would conflict with Pixilate conversion
 
 ### Strategic Applications
-- **Mixed Attacker**: Can use both physical kicking moves and special Normal→Fairy moves
+- **Mixed Attacker**: Can use both physical kicking moves and special NormaltoFairy moves
 - **Type Coverage**: Fairy typing provides good neutral coverage
 - **STAB Abuse**: Every Normal move becomes a STAB Fairy move
 - **Power Stacking**: Dual boosts make both move categories very powerful
 
 ### Common Users
-This ability would be ideal for Pokémon that:
+This ability would be ideal for Pokemon that:
 - Have access to both kicking moves and Normal-type moves
 - Can utilize mixed offensive stats
 - Benefit from Fairy typing (counters Dark, Fighting, Dragon)
@@ -121,8 +119,8 @@ This ability would be ideal for Pokémon that:
 - Limited move pool dependency (needs kicking moves for full benefit)
 
 **Counters**:
-- Steel-type Pokémon (resist Fairy)
-- Poison-type Pokémon (resist Fairy)  
+- Steel-type Pokemon (resist Fairy)
+- Poison-type Pokemon (resist Fairy)  
 - Heatran (Steel/Fire resists Fairy)
 - Abilities like Flash Fire, Motor Drive (if Fairy moves become other types through items)
 

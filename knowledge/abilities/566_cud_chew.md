@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon consumes a berry, it stores the berry and re-consumes it at the end of the following turn. The berry must be naturally consumed during battle through HP thresholds, status conditions, or berry-triggering moves. Only one berry can be stored at a time.
-
-*Character count: 289*
+When this Pokemon consumes a berry, it stores the berry and re-consumes it at the end of the following turn. The berry must be naturally consumed during battle through HP thresholds, status conditions, or berry-triggering moves. Only one berry can be stored at a time.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ When this Pokémon consumes a berry, it stores the berry and re-consumes it at t
 Cud Chew is a complex berry re-consumption ability that operates through a sophisticated state management system:
 
 ### Core Mechanics
-- **Berry Storage**: When a Pokémon with Cud Chew consumes any berry naturally, the ability stores the berry's ID
+- **Berry Storage**: When a Pokemon with Cud Chew consumes any berry naturally, the ability stores the berry's ID
 - **Turn Delay**: The stored berry is re-consumed at the end of the **next** turn (not the same turn)
 - **Single Berry Limit**: Only one berry can be stored at a time; consuming additional berries overwrites the stored one
 - **Natural Consumption Only**: Only works with berries consumed through normal battle mechanics (HP triggers, status healing, etc.)
@@ -48,7 +46,7 @@ typedef struct {
    - Keeps `itemId` stored for next turn
 
 3. **End of Next Turn**: The `onEndTurn` handler processes stored `itemId`:
-   - Temporarily restores the berry to the Pokémon's item slot
+   - Temporarily restores the berry to the Pokemon's item slot
    - Sets `activating = TRUE` to prevent infinite loops
    - Calls `BattleScript_CudChew` to trigger consumption
    - Uses `sBERRY_OVERRIDE = TRUE` to bypass normal berry requirements

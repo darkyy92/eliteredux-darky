@@ -15,8 +15,6 @@ character_count: 287
 
 Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. The ability activates on physical contact moves like Tackle, Punch moves, and Bite, but not on ranged moves like Thunderbolt or Flamethrower. This creates a unique risk-reward dynamic.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -80,9 +78,9 @@ The ability uses `IsMoveMakingContact(move, attacker)` which checks:
 
 ### Example Damage Calculations
 Assuming base 100 damage:
-- **Contact move**: 100 → 50 damage (50% reduction)
-- **Water move**: 100 → 200 damage (100% increase)
-- **Water contact move**: 100 → 200 damage (Water weakness overrides contact resistance)
+- **Contact move**: 100 to 50 damage (50% reduction)
+- **Water move**: 100 to 200 damage (100% increase)
+- **Water contact move**: 100 to 200 damage (Water weakness overrides contact resistance)
 
 ### Common Users
 Based on SpeciesList analysis:

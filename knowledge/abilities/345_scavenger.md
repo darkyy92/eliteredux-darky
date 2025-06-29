@@ -2,25 +2,30 @@
 id: 345
 name: Scavenger
 status: ai-generated
-character_count: 265
+character_count: 291
 ---
 
-# Scavenger (Ability #345)
+# Scavenger - Ability ID 345
 
-## Basic Information
-- **Name**: Scavenger
-- **ID**: 345 (ABILITY_SCAVENGER)
-- **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
+## In-Game Description
+"Dealing a KO heals 1/4 of this Pokemon's max HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-When this Pokémon defeats an opponent with any attack, it immediately regains 25% of its maximum HP. This scavenging instinct allows it to sustain itself through multiple battles by feeding off fallen foes, making it increasingly formidable as victories accumulate.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Mechanical Analysis
+When this Pokemon defeats an opponent with any attack, it immediately regains 25% of its maximum HP. This scavenging instinct allows it to sustain itself through multiple battles by feeding off fallen foes, making it increasingly formidable as victories accumulate throughout the encounter.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
+- **Name**: Scavenger
+- **ID**: 345 (ABILITY_SCAVENGER)
+
+### Mechanical Analysis
 
 ### Implementation Details
 - **Trigger**: `onBattlerFaints` with `APPLY_ON_ATTACKER`
-- **Condition**: Activates when the Pokémon with Scavenger knocks out an opponent
+- **Condition**: Activates when the Pokemon with Scavenger knocks out an opponent
 - **Effect**: Heals 25% of the user's maximum HP
 - **Battle Script**: `BattleScript_HandleSoulEaterEffect`
 - **Shared Implementation**: Uses `SoulEater.onBattlerFaints`
@@ -66,7 +71,7 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 ## Strategic Analysis
 
 ### Strengths
-- **Sustainable Sweeping**: Provides excellent longevity for offensive Pokémon
+- **Sustainable Sweeping**: Provides excellent longevity for offensive Pokemon
 - **Momentum Building**: Each victory makes subsequent battles easier
 - **Reliable Trigger**: Activates on any knockout, regardless of move type
 - **Significant Recovery**: 25% HP healing is substantial and often decisive
@@ -79,14 +84,14 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 - **Single Battle Limitation**: Less valuable in 1v1 scenarios
 
 ### Tactical Applications
-- **Offensive Sweepers**: Ideal for fast, powerful Pokémon designed to eliminate multiple opponents
+- **Offensive Sweepers**: Ideal for fast, powerful Pokemon designed to eliminate multiple opponents
 - **Late-Game Dominance**: Becomes increasingly powerful as battles progress
 - **Endurance Strategies**: Excellent for prolonged battles and battle facilities
 - **Multi-Battle Formats**: Particularly effective in Double, Triple, and Rotation battles
 - **Revenge Killing**: Helps secure follow-up KOs after trading with an opponent
 
-## Pokémon with Scavenger
-Based on the codebase analysis, Scavenger appears as both a regular ability and an innate ability on various Pokémon. The ability is distributed across different species, often fitting thematically with scavenging or predatory Pokémon.
+## Pokemon with Scavenger
+Based on the codebase analysis, Scavenger appears as both a regular ability and an innate ability on various Pokemon. The ability is distributed across different species, often fitting thematically with scavenging or predatory Pokemon.
 
 ## Related Abilities
 Scavenger shares its implementation with several other healing-on-KO abilities:
@@ -104,7 +109,7 @@ Scavenger shares its implementation with several other healing-on-KO abilities:
 ## Competitive Analysis
 
 ### Tier Placement
-Scavenger is a **high-tier** ability for offensive Pokémon, particularly those with:
+Scavenger is a **high-tier** ability for offensive Pokemon, particularly those with:
 - High offensive stats
 - Good Speed or priority moves
 - Adequate bulk to survive hits
@@ -118,7 +123,7 @@ Scavenger is a **high-tier** ability for offensive Pokémon, particularly those 
 
 ### Counters and Limitations
 - **Sturdy/Focus Sash**: Prevents KOs and denies healing
-- **Revenge Killers**: Fast Pokémon that can KO before Scavenger can heal
+- **Revenge Killers**: Fast Pokemon that can KO before Scavenger can heal
 - **Priority Moves**: Bypass Speed advantage and potentially KO
 - **Residual Damage**: Sandstorm, Spikes, etc. can wear down despite healing
 
@@ -126,9 +131,9 @@ Scavenger is a **high-tier** ability for offensive Pokémon, particularly those 
 - The ability uses `tryhealpercenthealth` with a 25% value in battle scripts
 - Healing is subject to standard battle conditions (CanBattlerHeal check)
 - The effect bypasses Substitute due to `HITMARKER_IGNORE_SUBSTITUTE`
-- Displays the standard "Pokémon regained health!" message after healing
+- Displays the standard "Pokemon regained health!" message after healing
 - Shared implementation means any changes to Soul Eater also affect Scavenger
 - The ability is properly registered in the ability lookup table at line 9190 of abilities.cc
 
 ## Conclusion
-Scavenger is a powerful sustain ability that rewards aggressive play and successful KOs. Its ability to maintain health through consecutive victories makes it particularly valuable for sweeping strategies and extended battles. The shared implementation with Soul Eater ensures consistent behavior across similar abilities, while the thematic name fits well with scavenging or predatory Pokémon that benefit from defeating their prey.
+Scavenger is a powerful sustain ability that rewards aggressive play and successful KOs. Its ability to maintain health through consecutive victories makes it particularly valuable for sweeping strategies and extended battles. The shared implementation with Soul Eater ensures consistent behavior across similar abilities, while the thematic name fits well with scavenging or predatory Pokemon that benefit from defeating their prey.

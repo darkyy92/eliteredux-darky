@@ -15,8 +15,6 @@ character_count: 293
 
 Elemental Charge gives attacking moves a 20% chance to inflict status conditions based on move type: Electric moves cause paralysis, Fire moves cause burn, and Ice moves cause frostbite. Only affects moves that deal damage to the target. Works with any damaging move of the three types.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -76,10 +74,10 @@ constexpr Ability ElementalCharge = {
 - **Frostbite**: Elite Redux's version of freeze with gradual damage
 
 ### Strategic Implications
-- **Mixed attackers**: Benefits Pokémon with diverse move pools across the three types
+- **Mixed attackers**: Benefits Pokemon with diverse move pools across the three types
 - **Status spreading**: Can cripple multiple opponents in doubles/triples
 - **Revenge killer disruption**: Status effects can slow down or weaken threats
-- **Type coverage synergy**: Natural fit for Pokémon with Electric/Fire/Ice coverage
+- **Type coverage synergy**: Natural fit for Pokemon with Electric/Fire/Ice coverage
 - **Reliability**: 20% is significant but not overwhelming for balance
 
 ### Move Type Synergies
@@ -96,7 +94,7 @@ constexpr Ability ElementalCharge = {
 - **Already statused**: Can't inflict status on already statused targets
 
 ### Common Users
-Typically found on Pokémon with:
+Typically found on Pokemon with:
 - Mixed offensive stats and diverse move pools
 - Electric/Fire/Ice type coverage moves
 - Roles as wallbreakers or revenge killers

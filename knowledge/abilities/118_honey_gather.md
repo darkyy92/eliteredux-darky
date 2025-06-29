@@ -13,9 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Honey Gather gives a 50% chance to find a Honey item at the end of each turn, but only if the Pokémon is not already holding an item. Honey restores 20 HP when consumed and can be sold for 100 Poké Dollars. Excellent for resource gathering and emergency healing in longer battles.
-
-*Character count: 280*
+Honey Gather gives a 50% chance to find a Honey item at the end of each turn, but only if the Pokemon is not already holding an item. Honey restores 20 HP when consumed and can be sold for 100 Poké Dollars. Excellent for resource gathering and emergency healing in longer battles.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,15 +23,15 @@ Honey Gather gives a 50% chance to find a Honey item at the end of each turn, bu
 ### Core Mechanics:
 - **Trigger**: End of each turn
 - **Activation Rate**: 50% chance per turn
-- **Requirement**: Pokémon must not be holding an item
+- **Requirement**: Pokemon must not be holding an item
 - **Item Generated**: Honey (ITEM_HONEY)
 - **Honey Properties**: Restores 20 HP when consumed, sells for 100 Poké Dollars
 
 ### Activation Conditions:
 1. **Turn End Trigger**: Activates during the end-of-turn phase
-2. **No Item Requirement**: Pokémon must have an empty item slot
+2. **No Item Requirement**: Pokemon must have an empty item slot
 3. **Random Check**: 50% probability using the game's random number generator
-4. **Success**: Pokémon receives a Honey item that can be used immediately
+4. **Success**: Pokemon receives a Honey item that can be used immediately
 
 ### Item Details - Honey:
 - **Healing**: Restores 20 HP when consumed
@@ -45,18 +43,18 @@ Honey Gather gives a 50% chance to find a Honey item at the end of each turn, bu
 **Resource Generation**:
 - Consistent income source through Honey sales
 - Emergency healing item for extended battles
-- Useful for Pokémon without reliable recovery moves
+- Useful for Pokemon without reliable recovery moves
 
 **Synergies**:
 - Pairs well with item-consuming moves or abilities
-- Benefits Pokémon that frequently use their held items
-- Good on defensive Pokémon that can survive to generate multiple items
+- Benefits Pokemon that frequently use their held items
+- Good on defensive Pokemon that can survive to generate multiple items
 
 **Limitations**:
 - Requires empty item slot to activate
 - 50% chance means inconsistent activation
 - Honey provides modest healing compared to other items
-- No benefit if Pokémon already holds a better item
+- No benefit if Pokemon already holds a better item
 
 ### Technical Implementation:
 ```c
@@ -86,10 +84,10 @@ constexpr Ability HoneyGather = {
 - Competes with more powerful abilities
 
 ### Optimal Users:
-- Defensive Pokémon that can survive multiple turns
-- Pokémon without access to reliable recovery moves
+- Defensive Pokemon that can survive multiple turns
+- Pokemon without access to reliable recovery moves
 - Team members used primarily for utility rather than combat
-- Pokémon in casual play where resource management matters
+- Pokemon in casual play where resource management matters
 
 ### Comparison to Similar Abilities:
 - **Pickup**: Activates after battle, can find various items

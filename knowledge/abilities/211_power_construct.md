@@ -15,8 +15,6 @@ character_count: 285
 
 Power Construct transforms Zygarde 50% or 10% forms into Complete form when HP drops to 50% or below at the end of any turn. Complete form has massive 216 HP (doubled from 108), making it an extremely bulky tank. The transformation is permanent for the battle and cannot be suppressed.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -51,20 +49,20 @@ constexpr Ability PowerConstruct = {
 
 ### Stat Changes Upon Transformation
 **Base Zygarde 50% Form:**
-- HP: 108 → **216** (+108, exactly doubled)
+- HP: 108 to **216** (+108, exactly doubled)
 - Attack: 100 (unchanged)
 - Defense: 121 (unchanged)
-- Sp. Attack: 81 → **91** (+10)
+- Sp. Attack: 81 to **91** (+10)
 - Sp. Defense: 95 (unchanged)
-- Speed: 95 → **85** (-10)
+- Speed: 95 to **85** (-10)
 
 **Zygarde 10% Form:**
-- HP: Unknown base → **216** 
+- HP: Unknown base to **216** 
 - Gains massive bulk upon transformation
 
 ### Numerical Values
 - Activation threshold: ≤50% of maximum HP
-- HP increase: 108 → 216 (100% increase)
+- HP increase: 108 to 216 (100% increase)
 - Sp. Attack boost: +10 points
 - Speed reduction: -10 points
 - Timing: End of turn
@@ -78,7 +76,7 @@ constexpr Ability PowerConstruct = {
 
 ### Strategic Implications
 - **Defensive pivot**: Transforms a moderate tank into an extreme wall
-- **HP preservation**: Doubling HP effectively heals the Pokémon
+- **HP preservation**: Doubling HP effectively heals the Pokemon
 - **Speed trade-off**: Loses 10 Speed points, becoming slower but bulkier
 - **Late-game power**: Most effective when activated strategically
 - **Setup opportunities**: Extra bulk allows for more setup moves
@@ -95,7 +93,7 @@ If Zygarde starts with 108 HP and takes 54+ damage (50% threshold):
 - **Zygarde Complete**: Final form, cannot use Power Construct
 
 ### Competitive Usage Notes
-- **Tier placement**: Legendary tier Pokémon
+- **Tier placement**: Legendary tier Pokemon
 - **Role compression**: Acts as both offensive threat and defensive wall
 - **Prediction factor**: Opponents must account for potential transformation
 - **Resource management**: Best used when opponent cannot immediately KO

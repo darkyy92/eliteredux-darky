@@ -13,9 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Embody Aspect raises a stat by 1 stage upon entering battle. Base form boosts Speed, Hearthflame boosts Attack, Cornerstone boosts Defense, and Wellspring boosts Special Defense. Activates every time the Pokémon switches in, including from revival. The boost persists until switching out or fainting.
-
-*Character count: 300*
+Embody Aspect raises a stat by 1 stage upon entering battle. Base form boosts Speed, Hearthflame boosts Attack, Cornerstone boosts Defense, and Wellspring boosts Special Defense. Activates every time the Pokemon switches in, including from revival. The boost persists until switching out or fainting.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -29,7 +27,7 @@ Embody Aspect is a form-dependent ability exclusive to Mega Ogerpon forms in Eli
 - **Embody Aspect Wellspring (ID 798)**: +1 Special Defense stage
 
 ### Activation Conditions
-- Triggers automatically when the Pokémon switches into battle
+- Triggers automatically when the Pokemon switches into battle
 - Activates on first entry, switching in from the bench, and revival from fainting
 - Does not activate if the stat is already at maximum (+6 stages)
 - Bypassed by abilities like Clear Body or effects that prevent stat changes

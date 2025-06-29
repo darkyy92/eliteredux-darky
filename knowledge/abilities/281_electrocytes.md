@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Electrocytes enhances the Pokémon's Electric-type moves by 25% damage. This ability activates for all Electric-type attacks regardless of physical or special classification. Works consistently in all battle conditions and weather. Stacks multiplicatively with items and other damage modifiers for enhanced electrical power.
-
-*Character count: 294*
+Electrocytes enhances the Pokemon's Electric-type moves by 25% damage. This ability activates for all Electric-type attacks regardless of physical or special classification. Works consistently in all battle conditions and weather. Stacks multiplicatively with items and other damage modifiers for enhanced electrical power.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -37,14 +35,14 @@ constexpr Ability Electrocytes = {
 ```
 
 ### Activation Conditions
-- Any Electric-type move used by the Pokémon with this ability
+- Any Electric-type move used by the Pokemon with this ability
 - No weather, terrain, or battle condition requirements
 - Works in single, double, and multi battles
 - Functions regardless of target's type or abilities
 
 ### Numerical Values
 - **Base Multiplier**: 1.25x (25% increase)
-- **Calculation**: Final damage = Base damage × 1.25 × other modifiers
+- **Calculation**: Final damage = Base damage x 1.25 x other modifiers
 - **Stacking**: Multiplicative with other damage boosts (items, weather, etc.)
 
 ### Complete List of Affected Moves
@@ -78,14 +76,14 @@ All Electric-type moves benefit from this ability, including but not limited to:
 ### Example Damage Calculations
 **Base Scenario**: Pikachu using Thunderbolt (90 BP) against neutral target
 - Without Electrocytes: 90 base power
-- With Electrocytes: 90 × 1.25 = 112.5 effective base power
+- With Electrocytes: 90 x 1.25 = 112.5 effective base power
 
 **With Electric Terrain**: 
-- Transistor + Terrain: 90 × 1.5 × 1.5 = 202.5 effective BP
-- Electrocytes + Terrain: 90 × 1.25 × 1.5 = 168.75 effective BP
+- Transistor + Terrain: 90 x 1.5 x 1.5 = 202.5 effective BP
+- Electrocytes + Terrain: 90 x 1.25 x 1.5 = 168.75 effective BP
 
 ### Common Users
-Based on the species data, notable Pokémon with Electrocytes include:
+Based on the species data, notable Pokemon with Electrocytes include:
 - **Pichu**: As a regular ability option
 - **Partner Pikachu forms**: As an innate ability
 - **Eevee evolutions**: Various forms have it as a regular ability

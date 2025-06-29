@@ -15,13 +15,11 @@ character_count: 287
 
 King's Wrath triggers when any ally on the same side has their stats lowered, immediately boosting the user's Attack and Defense by one stage each. Works in both singles and doubles battles. Activates from enemy stat-lowering moves, abilities, or items affecting any teammate.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-King's Wrath is a reactive ability that converts ally stat reduction into personal stat boosts. When any Pokémon on the user's side (including partners in doubles) has their stats lowered, the King's Wrath user immediately gains +1 Attack and +1 Defense.
+King's Wrath is a reactive ability that converts ally stat reduction into personal stat boosts. When any Pokemon on the user's side (including partners in doubles) has their stats lowered, the King's Wrath user immediately gains +1 Attack and +1 Defense.
 
 ### Activation Conditions
 - **Trigger**: Any stat reduction on the user's side of the field
@@ -106,7 +104,7 @@ BattleScript_KingsWrathActivated::
 - **Queen's Mourning**: Sister ability that boosts Sp.Attack and Sp.Defense instead
 
 ### Synergies
-- **Doubles partners**: Works well with Pokémon that commonly face stat drops
+- **Doubles partners**: Works well with Pokemon that commonly face stat drops
 - **Physical attackers**: The Attack boost enhances offensive presence
 - **Bulky setups**: Defense boost helps with survivability
 - **Anti-Intimidate cores**: Essential for physical attackers in Intimidate metas

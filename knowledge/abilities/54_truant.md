@@ -2,7 +2,7 @@
 id: 54
 name: Truant
 status: ai-generated
-character_count: 359
+character_count: 297
 ---
 
 # Truant - Ability ID 54
@@ -13,9 +13,7 @@ character_count: 359
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Truant prevents the Pokémon from using attacking moves on consecutive turns. After using any physical or special move, the Pokémon must loaf around on the next turn and cannot attack. Status moves are unaffected and can be used freely. This creates a predictable rhythm where attacking turns alternate with loafing turns, severely limiting offensive pressure.
-
-*Character count: 298*
+Truant prevents consecutive attacking moves. After using any physical or special move, the Pokemon must loaf around next turn and cannot attack. Status moves remain unaffected. This creates a predictable pattern where attacking turns alternate with forced loafing turns, severely limiting offense.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,9 +22,9 @@ Truant prevents the Pokémon from using attacking moves on consecutive turns. Af
 
 ### Activation Mechanics:
 - **Trigger**: onEndTurn hook tracks move usage
-- **State Tracking**: Uses ability state system to remember if Pokémon attacked last turn
+- **State Tracking**: Uses ability state system to remember if Pokemon attacked last turn
 - **Move Classification**: Only affects physical and special moves (not status moves)
-- **Script**: Shows "Pokémon is loafing around!" message when forced to rest
+- **Script**: Shows "Pokemon is loafing around!" message when forced to rest
 
 ### Core Mechanics:
 1. **Move Restriction**:
@@ -45,9 +43,9 @@ Truant prevents the Pokémon from using attacking moves on consecutive turns. Af
 - **Special Cases**: Moves like Transform and Sketch follow normal status move rules
 
 ### Battle Flow:
-1. **Turn 1**: Pokémon uses attacking move → Ability state set to TRUE
-2. **Turn 2**: Pokémon tries to use attacking move → Blocked by Truant → Forced to loaf
-3. **Turn 3**: Ability state reset to FALSE → Can use attacking moves again
+1. **Turn 1**: Pokemon uses attacking move to Ability state set to TRUE
+2. **Turn 2**: Pokemon tries to use attacking move to Blocked by Truant to Forced to loaf
+3. **Turn 3**: Ability state reset to FALSE to Can use attacking moves again
 4. **Repeat**: Cycle continues indefinitely
 
 ### Technical Implementation:

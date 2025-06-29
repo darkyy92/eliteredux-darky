@@ -15,8 +15,6 @@ character_count: 295
 
 Zero To Hero triggers Palafin's heroic transformation after being switched out and back in. Upon re-entry, Palafin transforms from its Zero Form to its mighty Hero Form, gaining massive stat boosts to Attack, Defense, Special Attack, and Special Defense while keeping the same HP and Speed stats.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -68,7 +66,7 @@ constexpr Ability ZeroToHero = {
 
 **Competitive Applications:**
 - Enables pivot strategy: switch out to reset transformation capability
-- Massive Attack boost (70 → 160) makes Hero Form a powerful physical sweeper
+- Massive Attack boost (70 to 160) makes Hero Form a powerful physical sweeper
 - Defensive improvements help survive hits better than base form
 - Single-use restriction prevents easy spam but rewards strategic switching
 - Works well with U-turn/Volt Switch team compositions

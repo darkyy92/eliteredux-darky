@@ -15,13 +15,11 @@ character_count: 290
 
 Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves that can cause it. Frostbite is a status condition that deals 1/16 max HP damage per turn and halves special attack power like burn affects physical attacks. Works with moves like Ice Fang and Bitter Malice.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Cryomancy is an offensive ability that dramatically increases the likelihood of inflicting the frostbite status condition. When a Pokémon with Cryomancy uses a move that has a chance to cause frostbite, that chance is multiplied by 5.
+Cryomancy is an offensive ability that dramatically increases the likelihood of inflicting the frostbite status condition. When a Pokemon with Cryomancy uses a move that has a chance to cause frostbite, that chance is multiplied by 5.
 
 ### Activation Conditions
 - **Move requirement**: Must use a move that can inflict frostbite
@@ -72,7 +70,7 @@ constexpr Ability Cryomancy = {
 
 ### Competitive Viability
 - **Niche but powerful**: High status infliction rate makes it valuable
-- **Ice-type synergy**: Works well with Ice-type moves and Pokémon
+- **Ice-type synergy**: Works well with Ice-type moves and Pokemon
 - **Limited move pool**: Only two moves can currently inflict frostbite
 - **Status immunity**: Stopped by status immunity abilities or items
 

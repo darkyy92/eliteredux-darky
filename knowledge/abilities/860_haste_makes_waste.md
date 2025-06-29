@@ -5,15 +5,19 @@ status: ai-generated
 character_count: 299
 ---
 
-# Haste Makes Waste (Ability ID: 860)
+# Haste Makes Waste - Ability ID 860
 
-## Short Description
+## In-Game Description
 "Stall + Analytic."
 
 ## Extended In-Game Description
-This Pokemon combines the defensive timing of Stall with the offensive patience of Analytic. When moving after the opponent, it takes 30% less damage from their attacks while dealing 30% more damage with its own moves. Rewards tactical waiting over hasty action.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Mechanical Implementation
+Combines Stall and Analytic. When moving after the opponent, takes 30% less damage from their attacks while dealing 30% more damage with own moves. Rewards tactical waiting over hasty action, providing both defensive and offensive benefits when slower.
+
+## Detailed Mechanical Explanation
+
+### Mechanical Implementation
 
 **Source Code Location:** `src/abilities.cc` (lines 8740-8744)
 

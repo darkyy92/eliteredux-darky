@@ -13,19 +13,17 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Grounded adds Ground type to the Pokémon upon entry, creating dual or triple typing. Provides Electric immunity and Ground STAB. Exceptional on Flying types like Dodrio, negating their Electric weakness while keeping aerial advantages. Synergizes with Earthbound for boosted Ground moves.
-
-*Character count: 288*
+Grounded adds Ground type to the Pokemon upon entry, creating dual or triple typing. Provides Electric immunity and Ground STAB. Exceptional on Flying types like Dodrio, negating their Electric weakness while keeping aerial advantages. Synergizes with Earthbound for boosted Ground moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Grounded is a type-addition ability that triggers upon the Pokémon entering battle. It adds Ground type to the battler's type combination using the game's third type slot (`type3`).
+Grounded is a type-addition ability that triggers upon the Pokemon entering battle. It adds Ground type to the battler's type combination using the game's third type slot (`type3`).
 
 ### Activation Conditions
-- Triggers automatically when the Pokémon enters battle
-- Only activates if the Pokémon doesn't already have Ground typing
+- Triggers automatically when the Pokemon enters battle
+- Only activates if the Pokemon doesn't already have Ground typing
 - Cannot be suppressed or negated by most ability-suppressing effects
 
 ### Technical Implementation
@@ -60,21 +58,21 @@ The ability uses the game's third type slot (`type3`) to add Ground typing. The 
 - Ice-type moves (2x damage)
 
 ### STAB Bonus
-Grounded Pokémon gain Same Type Attack Bonus (STAB) on Ground-type moves:
+Grounded Pokemon gain Same Type Attack Bonus (STAB) on Ground-type moves:
 - Ground moves receive 1.5x damage multiplier
 - Applies to both physical and special Ground moves
 
 ### Battle Message
-When activated, displays: "[Pokémon] added the [Ground] type!"
+When activated, displays: "[Pokemon] added the [Ground] type!"
 
-### Affected Pokémon
+### Affected Pokemon
 **Primary Users (Main Ability):**
-- Turtwig line (Turtwig, Grotle) - Grass → Grass/Ground
-- Skorupi - Poison/Bug → Poison/Bug/Ground
+- Turtwig line (Turtwig, Grotle) - Grass to Grass/Ground
+- Skorupi - Poison/Bug to Poison/Bug/Ground
 
 **Secondary Users (Innate Ability):**
-- Dodrio line - Normal/Flying → Normal/Flying/Ground
-- Archeops - Rock/Flying → Rock/Flying/Ground
+- Dodrio line - Normal/Flying to Normal/Flying/Ground
+- Archeops - Rock/Flying to Rock/Flying/Ground
 - Various Steel-types in legendary forms
 
 ### Strategic Implications
@@ -97,14 +95,14 @@ When activated, displays: "[Pokémon] added the [Ground] type!"
 ### Interactions with Other Mechanics
 
 **Ability Interactions:**
-- **Levitate**: Grounded Pokémon with Levitate maintain Ground immunity despite being Ground-type
+- **Levitate**: Grounded Pokemon with Levitate maintain Ground immunity despite being Ground-type
 - **Air Balloon**: Can still be held to provide Ground immunity
 - **Magnet Rise**: Can still be used to gain temporary Ground immunity
 
 **Move Interactions:**
-- **Earthquake/Magnitude**: Grounded Pokémon take damage from these moves unless they have Levitate or are airborne
-- **Spikes**: Grounded Pokémon are affected by entry hazards on the ground
-- **Arena Trap**: Can trap Grounded Pokémon that don't have Flying type or Levitate
+- **Earthquake/Magnitude**: Grounded Pokemon take damage from these moves unless they have Levitate or are airborne
+- **Spikes**: Grounded Pokemon are affected by entry hazards on the ground
+- **Arena Trap**: Can trap Grounded Pokemon that don't have Flying type or Levitate
 
 ### Counters and Limitations
 
@@ -126,7 +124,7 @@ When activated, displays: "[Pokémon] added the [Ground] type!"
 ### Competitive Usage Notes
 **Tier Rankings:**
 - Most effective on Flying-types that lose Electric weakness
-- Moderate effectiveness on single-typed Pokémon gaining coverage
+- Moderate effectiveness on single-typed Pokemon gaining coverage
 - Situational on dual-types that may gain unwanted weaknesses
 
 **Common Team Roles:**

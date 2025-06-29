@@ -15,8 +15,6 @@ character_count: 284
 
 Dragon's Maw boosts the power of all Dragon-type moves by 50%. Works with physical and special Dragon attacks including Dragon Pulse, Draco Meteor, Outrage, Dragon Rush, and Dragon Claw. The boost stacks multiplicatively with STAB, weather, and items for devastating Dragon offense.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -55,10 +53,10 @@ The 1.5x multiplier is applied during damage calculation and stacks multiplicati
 - **Other abilities**: Sheer Force (if Dragon move has secondary effect)
 
 ### Calculation Examples:
-- Base 100 BP Dragon Pulse → 150 BP with Dragon's Maw
-- STAB Dragon Pulse on Dragon-type (150 BP) → 225 BP with Dragon's Maw
-- Dragon Claw with Choice Band, STAB, and Dragon's Maw → 337.5 BP
-- Draco Meteor with Life Orb, STAB, and Dragon's Maw → 292.5 BP
+- Base 100 BP Dragon Pulse to 150 BP with Dragon's Maw
+- STAB Dragon Pulse on Dragon-type (150 BP) to 225 BP with Dragon's Maw
+- Dragon Claw with Choice Band, STAB, and Dragon's Maw to 337.5 BP
+- Draco Meteor with Life Orb, STAB, and Dragon's Maw to 292.5 BP
 
 ### Special Interactions:
 1. **Dragon Fang Item**: Additional 1.2x boost to Dragon moves (1.8x total with Dragon's Maw)

@@ -15,13 +15,11 @@ character_count: 297
 
 Mineralize converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type attacks. This -ate ability provides a 1.2x damage boost to converted moves. All Normal moves become Rock moves before type effectiveness, gaining super-effective damage against Bug, Fire, Flying, and Ice.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Mineralize is a type-changing ability that belongs to the "-ate" family of abilities. It fundamentally alters the Pokémon's movepool by converting all Normal-type moves into Rock-type moves while providing Same Type Attack Bonus (STAB) for Rock-type moves.
+Mineralize is a type-changing ability that belongs to the "-ate" family of abilities. It fundamentally alters the Pokemon's movepool by converting all Normal-type moves into Rock-type moves while providing Same Type Attack Bonus (STAB) for Rock-type moves.
 
 ### Activation Conditions
 - **Move type requirement**: Only affects Normal-type moves
@@ -52,7 +50,7 @@ constexpr Ability Mineralize = {
 3. **STAB bonus**: 1.5x multiplier for Rock-type moves
 4. **-ate boost**: Additional 1.2x multiplier for converted moves
 5. **Type effectiveness**: Rock-type effectiveness applies
-6. **Final multiplier**: 1.5 × 1.2 = 1.8x total boost to converted Normal moves
+6. **Final multiplier**: 1.5 x 1.2 = 1.8x total boost to converted Normal moves
 
 ### Important Interactions
 - **Type effectiveness**: Converted moves use Rock-type effectiveness chart
@@ -66,18 +64,18 @@ constexpr Ability Mineralize = {
 
 ### Strategic Implications
 - **Movepool expansion**: Converts utility Normal moves into offensive Rock moves
-- **STAB access**: Provides Rock STAB to non-Rock-type Pokémon
+- **STAB access**: Provides Rock STAB to non-Rock-type Pokemon
 - **Type coverage**: Adds Rock-type offensive coverage
 - **Damage boost**: Significant damage increase to former Normal moves
 - **Neutral coverage**: Rock hits most types neutrally
 
 ### Common Converted Moves
-- **Hyper Beam** → Rock-type Hyper Beam (150 BP + 1.8x multiplier)
-- **Body Slam** → Rock-type Body Slam (85 BP + 1.8x multiplier)
-- **Double-Edge** → Rock-type Double-Edge (120 BP + 1.8x multiplier)
-- **Quick Attack** → Rock-type Quick Attack (40 BP + 1.8x multiplier + priority)
-- **Extreme Speed** → Rock-type Extreme Speed (80 BP + 1.8x multiplier + +2 priority)
-- **Facade** → Rock-type Facade (up to 140 BP + 1.8x multiplier when statused)
+- **Hyper Beam** to Rock-type Hyper Beam (150 BP + 1.8x multiplier)
+- **Body Slam** to Rock-type Body Slam (85 BP + 1.8x multiplier)
+- **Double-Edge** to Rock-type Double-Edge (120 BP + 1.8x multiplier)
+- **Quick Attack** to Rock-type Quick Attack (40 BP + 1.8x multiplier + priority)
+- **Extreme Speed** to Rock-type Extreme Speed (80 BP + 1.8x multiplier + +2 priority)
+- **Facade** to Rock-type Facade (up to 140 BP + 1.8x multiplier when statused)
 
 ### Competitive Usage Notes
 - **Physical attackers**: Best on physical attackers with Normal move access
@@ -87,7 +85,7 @@ constexpr Ability Mineralize = {
 - **Breaking strategies**: Rock-type moves can break through certain defensive types
 
 ### Synergies
-- **Physical attacks**: Best with high Attack stat Pokémon
+- **Physical attacks**: Best with high Attack stat Pokemon
 - **Rock-type moves**: Natural synergy with existing Rock moves
 - **Coverage moves**: Pairs well with Fighting/Ground moves for type coverage
 - **Priority moves**: Enhanced priority Normal moves become powerful Rock priority
@@ -101,12 +99,12 @@ constexpr Ability Mineralize = {
 - **Rock-immune abilities**: None exist, but Filter/Solid Rock reduce damage
 - **Burn status**: Reduces physical damage from converted moves
 
-### Pokémon That Would Benefit
-- **High Attack stat**: Pokémon with strong physical stats
-- **Normal move access**: Pokémon that naturally learn many Normal moves
-- **Non-Rock types**: Pokémon that want Rock-type coverage
-- **Priority users**: Pokémon that rely on Quick Attack or Extreme Speed
-- **Coverage seekers**: Pokémon needing super-effective hits on Fire/Flying/Bug/Ice
+### Pokemon That Would Benefit
+- **High Attack stat**: Pokemon with strong physical stats
+- **Normal move access**: Pokemon that naturally learn many Normal moves
+- **Non-Rock types**: Pokemon that want Rock-type coverage
+- **Priority users**: Pokemon that rely on Quick Attack or Extreme Speed
+- **Coverage seekers**: Pokemon needing super-effective hits on Fire/Flying/Bug/Ice
 
 ### Version History
 - New ability in Elite Redux

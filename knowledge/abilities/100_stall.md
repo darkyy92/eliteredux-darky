@@ -1,28 +1,21 @@
 ---
 id: 100
-name: "Ability Analysis: Stall"
+name: Stall
 status: ai-generated
-character_count: 377
+character_count: 296
 ---
 
-# Ability Analysis: Stall
-
-## Basic Information
-- **Ability ID**: ABILITY_STALL
-- **Name**: Stall
-- **Category**: Defensive Priority Manipulation
-- **Introduced**: Generation IV
+# Stall - Ability ID 100
 
 ## In-Game Description
 "Takes 30% less damage if it hasn't moved yet."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Stall provides a 30% damage reduction when the Pokémon hasn't acted yet this turn. This defensive boost triggers when opponents move before the user, rewarding slow Pokémon that naturally move last. Works on all damage types including physical, special, and fixed damage moves. The ability synergizes with negative priority moves and Trick Room strategies.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Character count: 295
+Takes 30% less damage when attacked before moving this turn. Activates when opponents act first due to higher speed or priority moves. Works on physical, special and fixed damage. Benefits slow Pokemon and Trick Room teams. Damage reduction applies to all attacks received before the user's turn.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Core Functionality
 - **Damage Reduction**: 30% (0.7x multiplier)
@@ -52,7 +45,7 @@ The ability checks if the current turn action number is less than the defender's
 3. Does not activate if the user has already moved
 
 ### Strategic Implications
-- **Trick Room Synergy**: Naturally slow Pokémon benefit most
+- **Trick Room Synergy**: Naturally slow Pokemon benefit most
 - **Priority Move Protection**: Reduces damage from priority attacks
 - **Switch-In Safety**: Provides protection on the turn switched in
 - **Late-Game Advantage**: More likely to activate when slower than opponents
@@ -72,14 +65,14 @@ The ability checks if the current turn action number is less than the defender's
 
 ### Counters and Limitations
 - **Mold Breaker**: Ignores Stall's damage reduction
-- **Faster Pokémon**: No benefit when moving first
+- **Faster Pokemon**: No benefit when moving first
 - **Status Moves**: Doesn't reduce status move effects
 - **Hazard Damage**: Doesn't affect entry hazards or weather
 
 ## Competitive Analysis
 
 ### Strengths
-- Consistent damage reduction for slow Pokémon
+- Consistent damage reduction for slow Pokemon
 - No setup required
 - Works on all damage types
 - Excellent for defensive pivots
@@ -87,15 +80,15 @@ The ability checks if the current turn action number is less than the defender's
 ### Weaknesses
 - No benefit when moving first
 - Breakable by Mold Breaker variants
-- Less useful on fast Pokémon
+- Less useful on fast Pokemon
 - Doesn't help with status conditions
 
 ### Optimal Users
 Stall is most effective on:
-- Naturally slow, bulky Pokémon
+- Naturally slow, bulky Pokemon
 - Trick Room sweepers
 - Defensive walls and pivots
-- Pokémon with negative priority moves
+- Pokemon with negative priority moves
 
 ## Dual Ability Combinations
 
@@ -119,4 +112,4 @@ Stall is most effective on:
 
 ## Conclusion
 
-Stall is a reliable defensive ability that rewards patient, defensive play. While simple in concept, it provides consistent value for slow Pokémon and creates unique strategic opportunities when combined with moves and abilities that benefit from moving last. Its inclusion in dual abilities like Breakwater and Haste Makes Waste demonstrates its versatility in creating balanced offensive-defensive combinations.
+Stall is a reliable defensive ability that rewards patient, defensive play. While simple in concept, it provides consistent value for slow Pokemon and creates unique strategic opportunities when combined with moves and abilities that benefit from moving last. Its inclusion in dual abilities like Breakwater and Haste Makes Waste demonstrates its versatility in creating balanced offensive-defensive combinations.

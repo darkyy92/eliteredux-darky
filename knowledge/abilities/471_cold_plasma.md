@@ -15,13 +15,11 @@ character_count: 297
 
 Cold Plasma converts Electric-type moves to inflict burn status instead of paralysis. This includes all Electric moves with paralysis chances like Thunderbolt, Discharge, and Thunder Wave. The burn applies the same probability as the original paralysis effect. Great for disrupting bulky foes.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Cold Plasma is a status conversion ability that modifies the secondary effects of Electric-type moves. When a Pokémon with Cold Plasma uses an Electric-type move that would normally have a chance to inflict paralysis, it instead has the same chance to inflict burn status.
+Cold Plasma is a status conversion ability that modifies the secondary effects of Electric-type moves. When a Pokemon with Cold Plasma uses an Electric-type move that would normally have a chance to inflict paralysis, it instead has the same chance to inflict burn status.
 
 ### Activation Conditions
 - **Move type requirement**: Only affects Electric-type moves
@@ -31,14 +29,14 @@ Cold Plasma is a status conversion ability that modifies the secondary effects o
 
 ### Affected Moves
 Electric-type moves that normally inflict paralysis:
-- **Thunderbolt** (10% paralysis → 10% burn)
-- **Thunder** (30% paralysis → 30% burn)
-- **Discharge** (30% paralysis → 30% burn)
-- **Thunder Wave** (100% paralysis → 100% burn)
-- **Spark** (30% paralysis → 30% burn)
-- **Thunder Punch** (10% paralysis → 10% burn)
-- **Thundershock** (10% paralysis → 10% burn)
-- **Bolt Strike** (20% paralysis → 20% burn)
+- **Thunderbolt** (10% paralysis to 10% burn)
+- **Thunder** (30% paralysis to 30% burn)
+- **Discharge** (30% paralysis to 30% burn)
+- **Thunder Wave** (100% paralysis to 100% burn)
+- **Spark** (30% paralysis to 30% burn)
+- **Thunder Punch** (10% paralysis to 10% burn)
+- **Thundershock** (10% paralysis to 10% burn)
+- **Bolt Strike** (20% paralysis to 20% burn)
 
 ### Technical Implementation
 **Status:** This ability appears to be defined in the proto files but not yet implemented in the core battle engine. The implementation would likely involve:
@@ -59,16 +57,16 @@ constexpr Ability ColdPlasma = {
 
 ### Important Interactions
 - **Type effectiveness**: Electric moves still follow normal type effectiveness
-- **Immunities**: Fire types and Pokémon with Water Veil are immune to burn
-- **Existing status**: Cannot burn already statused Pokémon
-- **Limber immunity**: Limber Pokémon are not affected by this ability change
+- **Immunities**: Fire types and Pokemon with Water Veil are immune to burn
+- **Existing status**: Cannot burn already statused Pokemon
+- **Limber immunity**: Limber Pokemon are not affected by this ability change
 - **Status move conversion**: Thunder Wave becomes a 100% burn move
 
 ### Strategic Implications
 - **Offensive utility**: Burn reduces Attack stat, helping against physical attackers
 - **Damage over time**: Burn deals consistent damage unlike paralysis
 - **Speed control**: Loses speed reduction effect of paralysis
-- **Wall breaking**: More effective against defensive Pokémon than paralysis
+- **Wall breaking**: More effective against defensive Pokemon than paralysis
 - **Type synergy**: Works well with Fire-type coverage moves
 
 ### Burn vs Paralysis Comparison
@@ -86,10 +84,10 @@ constexpr Ability ColdPlasma = {
 
 ### Potential Users
 This ability would be ideal for:
-- Electric-type Pokémon with mixed offensive stats
-- Pokémon that want to pressure physical attackers
+- Electric-type Pokemon with mixed offensive stats
+- Pokemon that want to pressure physical attackers
 - Team builds focusing on residual damage
-- Pokémon with Fire-type coverage moves
+- Pokemon with Fire-type coverage moves
 
 ### Competitive Considerations
 - **Anti-physical**: Excellent against physical attackers
@@ -113,7 +111,7 @@ This ability would be ideal for:
 - **Facade**: Boosts opposing Facade users' power
 
 ### Counters
-- **Fire-type Pokémon**: Immune to burn status
+- **Fire-type Pokemon**: Immune to burn status
 - **Water Veil**: Ability prevents burn
 - **Aromatherapy/Heal Bell**: Removes burn status
 - **Lum Berry**: Cures burn status once

@@ -15,8 +15,6 @@ character_count: 291
 
 Punching and kicking moves gain each other's properties. Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities. This dual classification enables powerful synergies.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,11 +22,11 @@ Junshi Sanda is a unique ability that creates a dual classification system for p
 
 ### Core Mechanics:
 
-**Punching → Kicking Conversion:**
+**Punching to Kicking Conversion:**
 - When a battler has Junshi Sanda, moves with `FLAG_IRON_FIST_BOOST` (punching moves) also return true for `IsStrikerBoosted`
 - This means punching moves like Mach Punch, Thunder Punch, and Ice Punch gain all benefits that normally only apply to kicking moves
 
-**Kicking → Punching Conversion:**
+**Kicking to Punching Conversion:**
 - When a battler has Junshi Sanda, moves with `FLAG_STRIKER_BOOST` (kicking moves) also return true for `IsIronFistBoosted`
 - This means kicking moves like High Jump Kick, Jump Kick, and Low Kick gain all benefits that normally only apply to punching moves
 

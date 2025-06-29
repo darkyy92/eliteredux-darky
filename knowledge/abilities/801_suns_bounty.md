@@ -15,8 +15,6 @@ character_count: 295
 
 Sun's Bounty combines two powerful abilities: Leaf Guard heals all status conditions at the end of each turn during harsh sunlight, while Harvest restores consumed berries. In sun, berry restoration is guaranteed; otherwise it's 50%. Perfect for sustainable recovery.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,13 +22,13 @@ Sun's Bounty combines two powerful abilities: Leaf Guard heals all status condit
 Sun's Bounty is a combination ability that provides both the effects of Leaf Guard and Harvest simultaneously.
 
 **Leaf Guard Component:**
-- At the end of each turn, if harsh sunlight is active, the Pokémon is automatically cured of all status conditions
+- At the end of each turn, if harsh sunlight is active, the Pokemon is automatically cured of all status conditions
 - Heals: Poison, Badly Poisoned, Sleep, Paralysis, Burn, Freeze, Frostbite, and Bleed
 - Also removes Nightmare condition
 - Only activates during any form of harsh sunlight (temporary, permanent, or Primal)
 
 **Harvest Component:**  
-- At the end of each turn, if the Pokémon has no held item but previously consumed a berry, it may restore that berry
+- At the end of each turn, if the Pokemon has no held item but previously consumed a berry, it may restore that berry
 - Restoration rate: 100% chance in harsh sunlight, 50% chance in other weather conditions
 - Only works with items from the Berry pocket (all berries)
 - Tracks the last consumed berry via `gBattleStruct->usedHeldItems`
@@ -63,13 +61,13 @@ The ability calls both component abilities' `onEndTurn` functions and combines t
 - Synergizes perfectly with Chlorophyll users and other sun-dependent strategies
 
 **Competitive Usage:**
-- Primarily seen on bulky sun sweepers or support Pokémon
+- Primarily seen on bulky sun sweepers or support Pokemon
 - Popular berry choices: Sitrus Berry (HP recovery), Lum Berry (status cure backup), Weakness Policy (stat boost)
 - Pairs well with: Drought users, Heat Rock holders, other sun-dependent abilities
 
 **Common Users:**
-- Found on various Grass-type Pokémon in Elite Redux
-- Particularly effective on Pokémon with good bulk and sun synergy
+- Found on various Grass-type Pokemon in Elite Redux
+- Particularly effective on Pokemon with good bulk and sun synergy
 - Often paired with moves like Synthesis or Morning Sun for additional recovery
 
 **Counters:**

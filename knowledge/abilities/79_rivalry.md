@@ -2,7 +2,7 @@
 id: 79
 name: Rivalry
 status: ai-generated
-character_count: 318
+character_count: 288
 ---
 
 # Rivalry - Ability ID 79
@@ -13,9 +13,7 @@ character_count: 318
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (exactly 280-300 chars)*
 
-Rivalry increases damage dealt by 25% to Pokémon of the same gender and reduces damage taken by 25% from Pokémon of the opposite gender. Has no effect against genderless Pokémon. This ability creates dynamic matchups based on gender, making same-gender battles more intense while opposite-gender encounters are milder.
-
-*Character count: 294*
+Rivalry boosts damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon. Creates strategic matchups where same-gender battles favor offense while opposite-gender encounters improve defense for tactical play.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,9 +21,9 @@ Rivalry increases damage dealt by 25% to Pokémon of the same gender and reduces
 **RIVALRY** is a gender-based damage modifier ability that affects both offensive and defensive calculations based on the gender matchup between battler and target.
 
 ### Activation Mechanics:
-- **Trigger**: Every move used by or against the Pokémon
+- **Trigger**: Every move used by or against the Pokemon
 - **Gender Check**: Compares attacker and defender genders
-- **Genderless Override**: No effect if either Pokémon is genderless
+- **Genderless Override**: No effect if either Pokemon is genderless
 
 ### Damage Calculations:
 
@@ -80,7 +78,7 @@ constexpr Ability Rivalry = {
 
 **Innate Ability Users:**
 - Nidoran♀ line (includes Nidorina, Nidoqueen)
-- Various Elite Redux custom Pokémon
+- Various Elite Redux custom Pokemon
 
 ### Strategic Implications:
 1. **Team Building**: Consider gender ratios when building teams
@@ -95,7 +93,7 @@ constexpr Ability Rivalry = {
 - **Gender-changing moves**: Would affect future Rivalry calculations if such moves existed
 
 ### Counters:
-- Genderless Pokémon (no effect either way)
+- Genderless Pokemon (no effect either way)
 - Mold Breaker users (ignore the ability entirely)
 - Opposite-gender teams (reduce offensive power)
 

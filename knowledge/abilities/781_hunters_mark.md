@@ -15,8 +15,6 @@ character_count: 282
 
 Grants perfect accuracy to Mega Launcher boosted moves and arrow-based attacks. Always critical hits on first turn. Critical hits target the opponent's lower defensive stat, dealing maximum damage through strategic precision.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -30,7 +28,7 @@ Hunter's Mark is a powerful combination ability that merges two distinct combat 
 
 **Ambush Component:**
 - **First Turn Critical**: All attacks made on the user's first turn in battle are guaranteed critical hits
-- This effect only applies to the very first turn the Pokémon is on the field
+- This effect only applies to the very first turn the Pokemon is on the field
 
 **Synergy Effects:**
 The combination creates a devastating opening strategy - first turn attacks are guaranteed critical hits that will target the opponent's weaker defensive stat while also having perfect accuracy if using compatible moves.
@@ -45,4 +43,4 @@ The combination creates a devastating opening strategy - first turn attacks are 
 3. **Stat Manipulation**: Critical hits bypass defensive boosts while targeting weaker stats
 4. **Coverage Options**: Works with diverse move types due to broad compatibility
 
-This ability is particularly effective on Pokémon with high Attack or Special Attack stats and access to compatible moves, making them formidable opening sweepers or specialized ranged attackers.
+This ability is particularly effective on Pokemon with high Attack or Special Attack stats and access to compatible moves, making them formidable opening sweepers or specialized ranged attackers.

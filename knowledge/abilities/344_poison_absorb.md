@@ -2,16 +2,27 @@
 id: 344
 name: Poison Absorb
 status: ai-generated
-character_count: 0
+character_count: 297
 ---
 
-# Poison Absorb
+# Poison Absorb - Ability ID 344
 
-**Ability ID:** 344  
-**Type:** Absorption/Healing  
-**Breakable:** Yes  
+## In-Game Description
+"Absorbs Poison-type moves to heal 25% max HP."
 
-## Overview
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Absorbs Poison-type moves to heal 25% max HP instead of taking damage. Redirects single-target Poison moves to this Pokemon in doubles. On Toxic Terrain, heals 12.5% HP per turn. Grants complete immunity to all Poison-type moves including Toxic. Can be bypassed by Mold Breaker.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
+- **Ability ID:** 344  
+- **Type:** Absorption/Healing  
+- **Breakable:** Yes
+
+### Overview
 
 Poison Absorb is a defensive ability that turns Poison-type moves into a healing opportunity. When the user would be hit by a Poison-type move, they instead take no damage and recover 25% of their maximum HP. This ability also provides passive healing benefits on Toxic Terrain.
 
@@ -34,7 +45,7 @@ Poison Absorb is a defensive ability that turns Poison-type moves into a healing
   - Standing on Toxic Terrain
 
 ### Redirection in Double Battles
-- **Effect:** Redirects Poison-type moves to this Pokémon
+- **Effect:** Redirects Poison-type moves to this Pokemon
 - **Type:** `TYPE_POISON`
 - **Note:** Similar to Lightning Rod but for Poison-type moves
 
@@ -81,7 +92,7 @@ if (effect & ABSORB_RESULT_HEAL && !BATTLER_MAX_HP(battler) && CanBattlerHeal(ba
 ## Strategic Applications
 
 ### Offensive Strategy
-- **Move Redirection:** In double battles, forces opponent's Poison-type moves to target this Pokémon
+- **Move Redirection:** In double battles, forces opponent's Poison-type moves to target this Pokemon
 - **Toxic Terrain Synergy:** Pairs well with Toxic Terrain setters for passive healing
 - **Switch-In Opportunities:** Can safely switch into predicted Poison-type moves
 
@@ -110,12 +121,12 @@ if (effect & ABSORB_RESULT_HEAL && !BATTLER_MAX_HP(battler) && CanBattlerHeal(ba
 - **Non-Poison attackers:** Ability provides no benefit against other types
 - **Gastro Acid:** Suppresses the ability entirely
 
-## Pokémon with Poison Absorb
+## Pokemon with Poison Absorb
 
-Based on the codebase analysis, Poison Absorb appears on various Pokémon as both a regular ability and innate ability:
+Based on the codebase analysis, Poison Absorb appears on various Pokemon as both a regular ability and innate ability:
 
 ### As Regular Ability
-- Multiple Grass/Poison type Pokémon (including Oddish line based on code context)
+- Multiple Grass/Poison type Pokemon (including Oddish line based on code context)
 - Various other species with poison resistance themes
 
 ### As Innate Ability  

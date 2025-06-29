@@ -15,13 +15,11 @@ character_count: 296
 
 Clueless negates all weather, terrain, and room effects while active on the field. Blocks sun, rain, sandstorm, hail, and all terrain types. Prevents Trick Room, Wonder Room, Magic Room, Inverse Room, and Gravity. Provides complete immunity to field-altering effects and environmental conditions.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Clueless is a powerful field control ability that completely nullifies weather, terrain, and room effects while the Pokémon is on the battlefield. It functions similarly to Cloud Nine and Air Lock but with expanded coverage to include terrain and room effects.
+Clueless is a powerful field control ability that completely nullifies weather, terrain, and room effects while the Pokemon is on the battlefield. It functions similarly to Cloud Nine and Air Lock but with expanded coverage to include terrain and room effects.
 
 ### Effects Negated
 - **Weather Effects**: All weather conditions are negated
@@ -69,8 +67,8 @@ bool8 IsTrickRoomActive(void) {
 ### Activation Conditions
 - **Presence-based**: Simply being on the field is enough
 - **Field-wide**: Affects the entire battlefield, not just the user
-- **Immediate**: Takes effect as soon as the Pokémon enters battle
-- **Continuous**: Remains active while the Pokémon is on the field
+- **Immediate**: Takes effect as soon as the Pokemon enters battle
+- **Continuous**: Remains active while the Pokemon is on the field
 - **Unsuppressable**: Cannot be suppressed by abilities like Mold Breaker
 
 ### Strategic Implications
@@ -95,7 +93,7 @@ bool8 IsTrickRoomActive(void) {
 - **Versatile counter**: Single ability counters multiple strategies
 
 ### Synergies
-- **Raw power**: Pairs well with Pokémon that don't rely on field effects
+- **Raw power**: Pairs well with Pokemon that don't rely on field effects
 - **Speed control**: Natural speed becomes more important without Trick Room
 - **Stat boosting**: Moves like Swords Dance become more valuable
 - **Coverage moves**: Diverse movesets become more important
@@ -109,10 +107,10 @@ bool8 IsTrickRoomActive(void) {
 - **Status moves**: Status conditions still work normally
 
 ### Common Users
-- Pokémon that benefit from neutral battlefield conditions
+- Pokemon that benefit from neutral battlefield conditions
 - Anti-meta picks against weather/terrain teams
-- Bulky Pokémon that can afford the utility slot
-- Pokémon with strong natural stats that don't need field boosts
+- Bulky Pokemon that can afford the utility slot
+- Pokemon with strong natural stats that don't need field boosts
 
 ### Version History
 - Elite Redux exclusive ability

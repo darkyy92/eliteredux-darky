@@ -15,8 +15,6 @@ character_count: 285
 
 Psychic-type moves bypass all type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%, making status infliction more reliable.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

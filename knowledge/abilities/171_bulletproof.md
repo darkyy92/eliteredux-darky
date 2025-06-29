@@ -15,13 +15,11 @@ character_count: 296
 
 Provides complete immunity to ball, bomb, and projectile moves. Blocks Shadow Ball, Focus Blast, Aura Sphere, Sludge Bomb, Energy Ball, Bullet Seed, and similar ballistic attacks. The immunity prevents all damage and effects from these moves, working against both physical and special variants.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Bulletproof provides complete immunity to moves with the `FLAG_BALLISTIC` flag. When a ballistic move targets a Pokémon with Bulletproof, the move fails entirely before any damage calculation or effect application.
+Bulletproof provides complete immunity to moves with the `FLAG_BALLISTIC` flag. When a ballistic move targets a Pokemon with Bulletproof, the move fails entirely before any damage calculation or effect application.
 
 ### Implementation Details
 ```cpp
@@ -104,7 +102,7 @@ constexpr Ability Bulletproof = {
 - Can be suppressed by Gastro Acid or similar effects
 
 ### Common Users
-In Elite Redux, Bulletproof appears as both a regular ability and innate ability on various Pokémon. Common examples include Pokémon with defensive or tanky builds that benefit from selective immunity.
+In Elite Redux, Bulletproof appears as both a regular ability and innate ability on various Pokemon. Common examples include Pokemon with defensive or tanky builds that benefit from selective immunity.
 
 ### Competitive Usage
 - Excellent in formats with heavy special attack usage
@@ -125,4 +123,4 @@ In Elite Redux, Bulletproof appears as both a regular ability and innate ability
 - Synergizes with abilities that benefit from taking less damage
 
 ### Version History
-Bulletproof was introduced in Generation VI and has remained largely unchanged in its core functionality. In Elite Redux, it maintains its original mechanics while being available as both a regular and innate ability on various Pokémon.
+Bulletproof was introduced in Generation VI and has remained largely unchanged in its core functionality. In Elite Redux, it maintains its original mechanics while being available as both a regular and innate ability on various Pokemon.

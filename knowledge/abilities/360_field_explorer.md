@@ -2,12 +2,22 @@
 id: 360
 name: Field Explorer
 status: ai-generated
-character_count: 0
+character_count: 281
 ---
 
-# Field Explorer (Ability #360)
+# Field Explorer - Ability ID 360
 
-## Overview
+## In-Game Description
+"Boosts the power of field-based moves by 50%."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Field Explorer boosts the power of field-based moves like Cut, Surf, Fly, and Strength by 50%. This ability transforms traditional HM moves into viable combat options, allowing exploration utility moves to serve dual purposes. Works with approximately 16 moves flagged as field-based.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 Field Explorer is a custom ability in Elite Redux that provides a significant power boost to field-based moves. This ability increases the damage of moves flagged with `FLAG_FIELD_BASED` by 50% (1.5x multiplier), making traditionally utility-focused moves more viable in combat scenarios.
 
@@ -66,7 +76,7 @@ The codebase indicates approximately 16 moves total have the field flag, though 
 ## Strategic Applications
 
 ### Offensive Utility
-- **HM Slave Viability**: Makes Pokémon carrying field moves more combat-capable
+- **HM Slave Viability**: Makes Pokemon carrying field moves more combat-capable
 - **Dual Purpose**: Allows team members to serve both utility and battle roles
 - **Coverage Options**: Provides access to diverse move types (Steel, Water, Rock, Fighting, Flying)
 
@@ -77,17 +87,17 @@ The codebase indicates approximately 16 moves total have the field flag, though 
 
 ### Move Power Calculations
 With Field Explorer active:
-- Cut: 60 → 90 base power
-- Surf: 90 → 135 base power  
-- Strength: 110 → 165 base power
-- Rock Smash: 40 → 60 base power
-- Waterfall: 80 → 120 base power
+- Cut: 60 to 90 base power
+- Surf: 90 to 135 base power  
+- Strength: 110 to 165 base power
+- Rock Smash: 40 to 60 base power
+- Waterfall: 80 to 120 base power
 
-## Pokémon Distribution
+## Pokemon Distribution
 
-Field Explorer appears on numerous Pokémon in Elite Redux, available as both a regular ability slot and as an innate ability. The ability is distributed across various species that thematically relate to exploration, navigation, or utility functions.
+Field Explorer appears on numerous Pokemon in Elite Redux, available as both a regular ability slot and as an innate ability. The ability is distributed across various species that thematically relate to exploration, navigation, or utility functions.
 
-**Availability**: Found on 31+ different Pokémon entries in the species list, appearing as both regular abilities and innate abilities.
+**Availability**: Found on 31+ different Pokemon entries in the species list, appearing as both regular abilities and innate abilities.
 
 ## Related Abilities
 
@@ -125,3 +135,4 @@ Field Explorer is unique in that it specifically targets utility moves rather th
 ## Version History
 
 Field Explorer is a custom ability created specifically for Elite Redux, designed to address the traditional weakness of field/HM moves in competitive play while maintaining their utility functions.
+

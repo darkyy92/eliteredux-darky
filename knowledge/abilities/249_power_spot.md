@@ -15,8 +15,6 @@ character_count: 297
 
 Power Spot boosts allies' attack power by 30% in double battles. This boost applies to all moves used by partners, including physical, special, and status moves with damage. The user itself receives no boost. Works through screens and substitutes to support teammates consistently.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

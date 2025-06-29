@@ -2,25 +2,24 @@
 id: 331
 name: Soul Eater
 status: ai-generated
-character_count: 287
+character_count: 288
 ---
 
-# Soul Eater (Ability #331)
+# Soul Eater - Ability ID 331
 
-## Basic Information
-- **Name**: Soul Eater
-- **ID**: 331 (ABILITY_SOUL_EATER)
-- **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
+## In-Game Description
+"Dealing a KO heals 1/4 of this Pokemon's max HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-When this Pokémon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, making the Pokémon increasingly difficult to defeat in prolonged battles as it sustains itself through consecutive victories.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Mechanical Analysis
+When this Pokemon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, making the Pokemon increasingly difficult to defeat in prolonged battles as it sustains itself through consecutive victories.
+
+## Detailed Mechanical Explanation
 
 ### Implementation Details
 - **Trigger**: `onBattlerFaints` with `APPLY_ON_ATTACKER`
-- **Condition**: Activates when the Pokémon with Soul Eater knocks out an opponent
+- **Condition**: Activates when the Pokemon with Soul Eater knocks out an opponent
 - **Effect**: Heals 25% of the user's maximum HP
 - **Battle Script**: `BattleScript_HandleSoulEaterEffect`
 
@@ -54,17 +53,17 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 
 ### Strengths
 - **Sustain**: Provides excellent longevity in battles through healing
-- **Snowball Effect**: Each victory makes the Pokémon harder to defeat
+- **Snowball Effect**: Each victory makes the Pokemon harder to defeat
 - **Reliable Activation**: Triggers on any knockout, not just specific move types
 - **Substantial Healing**: 25% HP recovery is significant
 
 ### Limitations
-- **Requires Knockouts**: No benefit if the Pokémon can't secure KOs
+- **Requires Knockouts**: No benefit if the Pokemon can't secure KOs
 - **No Effect at Full HP**: Cannot heal beyond maximum HP
 - **Single Battle Focus**: Most effective in battles with multiple opponents
 
 ### Tactical Applications
-- **Sweeper Role**: Ideal for Pokémon designed to sweep through multiple opponents
+- **Sweeper Role**: Ideal for Pokemon designed to sweep through multiple opponents
 - **Late Game Power**: Becomes increasingly valuable as battles progress
 - **Endurance Battles**: Excellent for longer, drawn-out fights
 - **Double/Triple Battles**: More opportunities for knockouts and healing

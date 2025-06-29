@@ -15,8 +15,6 @@ character_count: 295
 
 Each turn, 30% chance to heal status conditions of self or partner (prioritizing partner). Additionally reduces damage dealt to the partner by 50%. A protective ability perfect for double battles, combining healing support with defensive coverage.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

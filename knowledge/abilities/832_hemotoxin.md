@@ -15,17 +15,15 @@ character_count: 289
 
 Hemotoxin seeps into poisoned foes, temporarily neutralizing their abilities while they suffer from poison status. The toxic compounds disrupt the target's natural powers, leaving them unable to utilize their ability effects until the poison is cured or they switch out.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Hemotoxin suppresses the abilities of any opposing Pokémon that has a poison status condition, effectively nullifying their ability effects while they remain poisoned.
+Hemotoxin suppresses the abilities of any opposing Pokemon that has a poison status condition, effectively nullifying their ability effects while they remain poisoned.
 
 ### Activation Conditions
 - **Trigger**: Passive effect active at all times
-- **Target**: All poisoned opposing Pokémon
+- **Target**: All poisoned opposing Pokemon
 - **Status required**: Regular poison or toxic poison
 - **Effect**: Complete ability suppression
 - **Duration**: Lasts as long as target remains poisoned
@@ -73,7 +71,7 @@ Hemotoxin suppresses the abilities of any opposing Pokémon that has a poison st
 
 **Less effective against:**
 - Poison-immune types (Steel, Poison)
-- Pokémon with Immunity ability (until poisoned)
+- Pokemon with Immunity ability (until poisoned)
 - Magic Bounce users (reflects poison attempts)
 - Substitute users (blocks poison application)
 
@@ -123,7 +121,7 @@ Hemotoxin suppresses the abilities of any opposing Pokémon that has a poison st
 - Lum Berry: Full status cure
 - Switching out: Removes poison pressure
 - Safeguard: Prevents poison application
-- Misty Terrain: Grounded Pokémon poison immunity
+- Misty Terrain: Grounded Pokemon poison immunity
 
 ### Ability Suppression Details
 **Timing:**

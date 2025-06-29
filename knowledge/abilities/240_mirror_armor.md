@@ -13,14 +13,12 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Mirror Armor reflects all stat-lowering moves and abilities back to the attacker. When an opponent tries to lower this Pokémon's stats, the stat drop affects the attacker instead. Includes moves like Intimidate, Sticky Web, and stat-lowering attacks. The reflection bypasses immunities.
-
-*Character count: 289*
+Mirror Armor reflects all stat-lowering moves and abilities back to the attacker. When an opponent tries to lower this Pokemon's stats, the stat drop affects the attacker instead. Includes moves like Intimidate, Sticky Web, and stat-lowering attacks. The reflection bypasses immunities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Mirror Armor is a defensive ability that completely reverses stat-lowering effects against the user. When any move, ability, or entry hazard attempts to lower one or more of the Pokémon's stats, Mirror Armor activates and instead applies that stat reduction to the attacker.
+Mirror Armor is a defensive ability that completely reverses stat-lowering effects against the user. When any move, ability, or entry hazard attempts to lower one or more of the Pokemon's stats, Mirror Armor activates and instead applies that stat reduction to the attacker.
 
 ### Key Mechanics:
 
@@ -42,7 +40,7 @@ The ability is implemented through the `StatLowerableOrMirrorArmor()` function i
 
 ### Special Interactions:
 
-- **Self-Targeting Moves**: Does not reflect stat drops from moves that the Pokémon uses on itself
+- **Self-Targeting Moves**: Does not reflect stat drops from moves that the Pokemon uses on itself
 - **Multi-Target Moves**: In multi-battles, reflects each stat drop individually
 - **Sticky Web**: Has special handling to properly redirect Sticky Web's Speed drop to the original user when Mirror Armor activates on switch-in
 - **Breakable**: The ability can be suppressed by Mold Breaker and similar effects

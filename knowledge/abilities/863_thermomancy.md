@@ -15,13 +15,11 @@ character_count: 287
 
 Thermomancy combines Pyromancy and Cryomancy, multiplying burn and frostbite chances by 5x. Moves with 10% burn chance become 50%, 30% frostbite chance becomes guaranteed. Dominates temperature control on the battlefield with reliable dual status infliction.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Thermomancy is a combination ability that grants both Pyromancy and Cryomancy effects simultaneously. When a Pokémon with Thermomancy uses a move that can inflict burn or frostbite, the respective status chance is multiplied by 5.
+Thermomancy is a combination ability that grants both Pyromancy and Cryomancy effects simultaneously. When a Pokemon with Thermomancy uses a move that can inflict burn or frostbite, the respective status chance is multiplied by 5.
 
 ### Implementation Details
 ```cpp
@@ -40,14 +38,14 @@ The ability directly delegates to both Cryomancy and Pyromancy's `onModifyEffect
 
 **Burn Enhancement (Pyromancy component):**
 - Multiplies burn chance by 5x for all moves with `MOVE_EFFECT_BURN`
-- 10% burn chance → 50% burn chance
-- 20% burn chance → 100% burn chance (guaranteed)
+- 10% burn chance to 50% burn chance
+- 20% burn chance to 100% burn chance (guaranteed)
 - Affects physical attack power (halves it when burned)
 
 **Frostbite Enhancement (Cryomancy component):**
 - Multiplies frostbite chance by 5x for all moves with `MOVE_EFFECT_FROSTBITE`
-- 10% frostbite chance → 50% frostbite chance  
-- 30% frostbite chance → 100% frostbite chance (guaranteed)
+- 10% frostbite chance to 50% frostbite chance  
+- 30% frostbite chance to 100% frostbite chance (guaranteed)
 - Affects special attack power (halves it when frostbitten)
 
 ### Status Condition Details
@@ -113,9 +111,9 @@ The ability directly delegates to both Cryomancy and Pyromancy's `onModifyEffect
 - Entry hazard support amplifies pressure
 
 **Strategic Partners:**
-- Pokémon that can cure ally status conditions
+- Pokemon that can cure ally status conditions
 - Pressure/status spreading teammates
-- Pokémon that benefit from opponent stat reductions
+- Pokemon that benefit from opponent stat reductions
 
 ### Rarity and Balance
-Thermomancy represents one of the most powerful combination abilities in Elite Redux, effectively granting two separate abilities in one slot. This makes it highly valuable for Pokémon that can learn moves with both burn and frostbite chances, creating unprecedented status control on the battlefield.
+Thermomancy represents one of the most powerful combination abilities in Elite Redux, effectively granting two separate abilities in one slot. This makes it highly valuable for Pokemon that can learn moves with both burn and frostbite chances, creating unprecedented status control on the battlefield.

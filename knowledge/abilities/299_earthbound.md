@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokémon is endangered. Ideal for Ground specialists and desperate counterattacks.
-
-*Character count: 296*
+Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokemon is endangered. Ideal for Ground specialists and desperate counterattacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -50,21 +48,21 @@ constexpr Ability Earthbound = {
 
 ### Affected Moves (Examples)
 Ground-type moves that benefit from Earthbound include:
-- **Earthquake** (100 BP) → 120 BP normal / 150 BP low HP
-- **Dig** (110 BP) → 132 BP normal / 165 BP low HP  
-- **Bone Club** (80 BP) → 96 BP normal / 120 BP low HP
-- **Bonemerang** (45 BP) → 54 BP normal / 67.5 BP low HP
-- **Magnitude** (variable) → Enhanced based on rolled power
-- **Fissure** (OHKO) → Damage boost irrelevant for OHKO moves
+- **Earthquake** (100 BP) to 120 BP normal / 150 BP low HP
+- **Dig** (110 BP) to 132 BP normal / 165 BP low HP  
+- **Bone Club** (80 BP) to 96 BP normal / 120 BP low HP
+- **Bonemerang** (45 BP) to 54 BP normal / 67.5 BP low HP
+- **Magnitude** (variable) to Enhanced based on rolled power
+- **Fissure** (OHKO) to Damage boost irrelevant for OHKO moves
 
 ### Damage Calculations
-For a Pokémon with 300 max HP using Earthquake (100 BP):
-- **At 101+ HP**: 100 × 1.2 = 120 effective base power
-- **At 100 HP or less**: 100 × 1.5 = 150 effective base power
+For a Pokemon with 300 max HP using Earthquake (100 BP):
+- **At 101+ HP**: 100 x 1.2 = 120 effective base power
+- **At 100 HP or less**: 100 x 1.5 = 150 effective base power
 - **Breakpoint**: Exactly 100 HP (300 ÷ 3 = 100)
 
 ### Interactions with Other Mechanics
-- **STAB**: Stacks multiplicatively (1.5 × 1.2/1.5 = 1.8/2.25 total)
+- **STAB**: Stacks multiplicatively (1.5 x 1.2/1.5 = 1.8/2.25 total)
 - **Type Effectiveness**: Applied after Earthbound's multiplier
 - **Item Boosts**: Stacks with items like Soft Sand or Earth Plate
 - **Weather**: No direct interaction with weather effects
@@ -78,12 +76,12 @@ For a Pokémon with 300 max HP using Earthquake (100 BP):
 - Excellent with bulky Ground-types that can survive to low HP
 
 **Defensive Considerations:**
-- Makes the Pokémon more dangerous as it gets weaker
+- Makes the Pokemon more dangerous as it gets weaker
 - Opponents may prioritize finishing off Earthbound users quickly
 - Can discourage opponents from leaving the user at low HP
 
 ### Common Users
-Notable Pokémon with Earthbound include:
+Notable Pokemon with Earthbound include:
 - **Sandslash variants** - Natural Ground-type attackers
 - **Dugtrio variants** - Speed + Ground STAB synergy
 - **Marowak variants** - Bone-based Ground attacks
@@ -135,6 +133,6 @@ Notable Pokémon with Earthbound include:
 ### Usage Tips
 1. **HP Management**: Use entry hazards or sandstorm to safely reach low HP
 2. **Move Selection**: Prioritize high-power Ground moves for maximum benefit
-3. **Team Building**: Pair with Pokémon that can set up favorable conditions
+3. **Team Building**: Pair with Pokemon that can set up favorable conditions
 4. **Timing**: Save powerful Ground moves for when the boost is most needed
 5. **Coverage**: Include non-Ground moves for type coverage when boost isn't applicable

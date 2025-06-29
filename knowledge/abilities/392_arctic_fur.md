@@ -2,12 +2,22 @@
 id: 392
 name: Arctic Fur
 status: ai-generated
-character_count: 284
+character_count: 290
 ---
 
-# Arctic Fur (Ability #392)
+# Arctic Fur - Ability ID 392
 
-## Overview
+## In-Game Description
+"Weakens incoming physical and special moves by 35%."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+This Pokemon's dense, cold-resistant fur provides exceptional protection against all incoming attacks. The Arctic Fur's natural insulation and thick density reduces both physical and special damage by 35%, making it one of the most effective universal defensive abilities available.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Arctic Fur is a powerful universal defensive ability that reduces damage from all incoming attacks by 35%. Unlike abilities that only protect against physical or special moves, Arctic Fur provides comprehensive protection against both attack types, making it one of the most valuable defensive abilities in Elite Redux.
 
 ## Current Implementation
@@ -33,12 +43,6 @@ constexpr Ability ArcticFur = {
 - Can be suppressed by abilities like Mold Breaker, Turboblaze, Teravolt
 - Triggers on every damage-dealing move regardless of type or category
 
-## Current In-Game Description
-"Weakens incoming physical and special moves by 35%."
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"This Pokemon's dense, cold-resistant fur provides exceptional protection against all incoming attacks. The Arctic Fur's natural insulation and thick density reduces both physical and special damage by 35%, making it one of the most effective universal defensive abilities available."
 
 ## Battle AI Rating
 **Rating**: 9/10 - Considered an exceptionally strong defensive ability by the battle AI due to its universal damage reduction.

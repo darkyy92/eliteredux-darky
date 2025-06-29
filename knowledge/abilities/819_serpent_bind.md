@@ -15,8 +15,6 @@ character_count: 297
 
 Serpent Bind gives attacks a 50% chance to trap the target, preventing escape or switching. Once trapped, the victim's speed drops by one stage each turn they remain on the field. The binding effect persists until the user faints or switches out, maintaining constant pressure.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

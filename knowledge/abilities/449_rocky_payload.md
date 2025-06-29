@@ -15,8 +15,6 @@ character_count: 294
 
 Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Seismic Toss, Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Sky Drop, Grav Apple, and Astral Barrage. Provides consistent offensive boost across diverse move types for versatile coverage.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -57,10 +55,10 @@ constexpr Ability RockyPayload = {
 
 ### Double Boost Interaction
 Some moves receive the Rocky Payload boost twice:
-- **Rock Slide**: Rock-type AND throwing-based → 1.5x boost (not 2.25x)
-- **Rock Tomb**: Rock-type AND throwing-based → 1.5x boost (not 2.25x)
-- **Rock Throw**: Rock-type AND throwing-based → 1.5x boost (not 2.25x)
-- **Rock Wrecker**: Rock-type AND throwing-based → 1.5x boost (not 2.25x)
+- **Rock Slide**: Rock-type AND throwing-based to 1.5x boost (not 2.25x)
+- **Rock Tomb**: Rock-type AND throwing-based to 1.5x boost (not 2.25x)
+- **Rock Throw**: Rock-type AND throwing-based to 1.5x boost (not 2.25x)
+- **Rock Wrecker**: Rock-type AND throwing-based to 1.5x boost (not 2.25x)
 
 The ability applies a single 1.5x multiplier even if a move qualifies for both categories.
 
@@ -87,10 +85,10 @@ The ability applies a single 1.5x multiplier even if a move qualifies for both c
 - **Item dependence**: Fling requires held items to be effective
 
 ### Competitive Usage Notes
-- **Physical attackers**: Best suited for physically-oriented Pokémon
+- **Physical attackers**: Best suited for physically-oriented Pokemon
 - **Coverage moves**: Throwing moves provide unique type coverage
 - **Item strategies**: Fling becomes a viable coverage option
-- **Rock-type STAB**: Excellent for Rock-type Pokémon seeking additional coverage
+- **Rock-type STAB**: Excellent for Rock-type Pokemon seeking additional coverage
 - **Niche applications**: Sky Drop and Seismic Toss gain unexpected power
 
 ### Synergies
@@ -111,9 +109,9 @@ The ability applies a single 1.5x multiplier even if a move qualifies for both c
 ### Notable Users
 This ability would be particularly effective on:
 - Rock-type physical attackers with diverse movepools
-- Pokémon with access to both Rock moves and unique throwing moves
+- Pokemon with access to both Rock moves and unique throwing moves
 - Mixed attackers that can utilize both categories effectively
-- Pokémon with Fling strategies and item manipulation
+- Pokemon with Fling strategies and item manipulation
 
 ### Version History
 - Custom Elite Redux ability (ID 449)

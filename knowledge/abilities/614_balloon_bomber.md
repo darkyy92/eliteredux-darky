@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokémon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.
-
-*Character count: 294*
+When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokemon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -34,7 +32,7 @@ Balloon Bomber is a hybrid ability that combines two distinct effects:
 - **Conditions**: Must not be blocked by Substitute; at least one defensive stat must be below +6
 
 #### Aftermath Effect  
-- **Trigger**: Pokémon faints from a contact move
+- **Trigger**: Pokemon faints from a contact move
 - **Effect**: Deals damage equal to 25% of attacker's max HP (minimum 1 HP)
 - **Conditions**: Attacker must not have Magic Guard; move must make contact; must actually faint
 
@@ -69,7 +67,7 @@ The ability uses a logical OR to check both component abilities, meaning either 
 - Threaten revenge damage if opponent uses contact moves to finish
 
 #### Explosion Deterrent
-- Opponents must consider using non-contact moves to finish off the Pokémon
+- Opponents must consider using non-contact moves to finish off the Pokemon
 - Creates mind games around finishing moves
 - Particularly effective against physical attackers who rely on contact moves
 
@@ -96,7 +94,7 @@ The ability uses a logical OR to check both component abilities, meaning either 
 
 #### Best Users
 - **Mega Wigglytuff**: Currently the only known user in Elite Redux
-- **Ideal for**: Bulky Pokémon that can survive initial hits and capitalize on boosts
+- **Ideal for**: Bulky Pokemon that can survive initial hits and capitalize on boosts
 
 #### Team Synergy
 - **Entry hazard support**: Inflatable boosts help survive longer to set hazards

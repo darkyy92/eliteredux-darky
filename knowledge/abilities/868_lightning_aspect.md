@@ -5,16 +5,17 @@ status: ai-generated
 character_count: 280
 ---
 
-# Lightning Aspect Analysis
+# Lightning Aspect - Ability ID 868
+
+## In-Game Description
+Absorbs electric moves then ups highest stat by +1.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"Absorbs electric moves then ups highest stat by +1."
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Extended Description (280 characters)
-When hit by Electric-type moves, this Pokémon becomes immune to damage and absorbs the electrical energy. The absorbed power enhances offensive capabilities by raising either Attack or Special Attack by one stage, whichever is currently higher including active stat modifications.
+Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains.
 
-## Mechanical Analysis
+## Detailed Mechanical Explanation
 
 ### Implementation Details
 - **File**: `src/abilities.cc` lines 8790-8797
@@ -22,7 +23,7 @@ When hit by Electric-type moves, this Pokémon becomes immune to damage and abso
 - **Breakable**: Yes (affected by Mold Breaker and similar abilities)
 
 ### How It Works
-1. **Trigger Condition**: Pokémon is targeted by an Electric-type move
+1. **Trigger Condition**: Pokemon is targeted by an Electric-type move
 2. **Absorption**: The move deals no damage (complete immunity)
 3. **Stat Selection**: Uses `GetHighestAttackingStatId(battler, TRUE)` to determine which attacking stat is higher:
    - Compares Attack vs Special Attack only
@@ -38,7 +39,7 @@ When hit by Electric-type moves, this Pokémon becomes immune to damage and abso
 
 ### Strategic Applications
 - **Doubles/Multi-battles**: Can redirect Electric moves from allies
-- **Stat Optimization**: Particularly valuable for mixed attackers or Pokémon with similar Attack/Special Attack
+- **Stat Optimization**: Particularly valuable for mixed attackers or Pokemon with similar Attack/Special Attack
 - **Counterplay**: Setup opportunity against Electric-type moves
 
 ### Technical Notes

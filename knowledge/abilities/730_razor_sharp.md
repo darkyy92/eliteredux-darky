@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Razor Sharp inflicts bleeding status on opponents when the Pokémon lands a critical hit. Bleeding deals 1/16 max HP damage per turn and prevents healing until cured. Only affects Pokémon that can normally be afflicted with status conditions. Rock and Ghost types are immune to bleeding effects.
-
-*Character count: 294*
+Razor Sharp inflicts bleeding status on opponents when the Pokemon lands a critical hit. Bleeding deals 1/16 max HP damage per turn and prevents healing until cured. Only affects Pokemon that can normally be afflicted with status conditions. Rock and Ghost types are immune to bleeding effects.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -78,10 +76,10 @@ constexpr Ability RazorSharp = {
 - **Anti-recovery**: Shuts down healing strategies effectively
 
 ### Common Users
-- Pokémon with naturally high critical hit ratios
+- Pokemon with naturally high critical hit ratios
 - Physical attackers with access to high-crit moves
-- Pokémon with Super Luck or similar abilities
-- Fast Pokémon that can apply pressure quickly
+- Pokemon with Super Luck or similar abilities
+- Fast Pokemon that can apply pressure quickly
 
 ### Competitive Usage Notes
 - **Crit rate importance**: Ability effectiveness scales with critical hit frequency
@@ -93,7 +91,7 @@ constexpr Ability RazorSharp = {
 ### Counters
 - **Type immunities**: Rock and Ghost types completely immune
 - **Status immunity**: Abilities like Limber, Water Veil (if they block bleeding)
-- **Clerics**: Pokémon with Aromatherapy/Heal Bell
+- **Clerics**: Pokemon with Aromatherapy/Heal Bell
 - **Natural Cure**: Ability that removes status on switch
 - **Lum Berry**: Auto-cures bleeding status
 - **Magic Guard**: Prevents bleeding damage

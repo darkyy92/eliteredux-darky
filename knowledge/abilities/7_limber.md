@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon's flexible body prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
-
-*Character count: 294*
+This Pokemon's flexible body prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -56,7 +54,7 @@ constexpr Ability Limber = {
 - **Half Recoil Flag**: Reduces all forms of recoil by 50%
 
 ### Recoil Calculation Examples
-For a Pokémon using Brave Bird (120 BP, 33% recoil):
+For a Pokemon using Brave Bird (120 BP, 33% recoil):
 - Normal: Deals 120 damage, takes 40 recoil
 - With Limber: Deals 120 damage, takes **20 recoil**
 

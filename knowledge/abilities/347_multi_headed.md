@@ -2,12 +2,22 @@
 id: 347
 name: Multi Headed
 status: ai-generated
-character_count: 0
+character_count: 292
 ---
 
-# Multi Headed (Ability #347)
+# Multi Headed - Ability ID 347
 
-## Overview
+## In-Game Description
+"Pokemon with multiple heads attack 2-3 times per move."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Pokemon with multiple heads attack 2-3 times per move based on their anatomy. Two-headed Pokemon strike twice, three-headed hit thrice. Each hit deals full damage. This assault breaks through Substitute, Focus Sash, and even Fort Knox defenses. Contact moves trigger defensive abilities each hit.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 Multi Headed is an Elite Redux exclusive ability that grants Pokemon the power to attack multiple times based on their anatomical structure. This ability transforms any attacking move into a multi-hit assault, with the number of strikes determined by the Pokemon's head count.
 
@@ -135,6 +145,7 @@ The ability leverages the existing Parental Bond mechanics:
 ### Battle Integration
 - **Parental Bond System**: `src/battle_util.c` lines 7330-7334
 - **Hit Count Calculation**: `GetParentalBondCount` function
+
 
 ## Conclusion
 

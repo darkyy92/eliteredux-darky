@@ -1,19 +1,19 @@
 ---
 id: 85
-name: "Heatproof (Ability ID: 85)"
+name: Heatproof
 status: ai-generated
 character_count: 260
 ---
 
-# Heatproof (Ability ID: 85)
+# Heatproof - Ability ID 85
 
 ## In-Game Description
-"Halves damage taken from Fire-type moves. Takes no burn damage."
+Halves damage taken from Fire-type moves. Takes no burn damage.
 
-## Extended In-Game Description (280-300 chars)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Can still be inflicted with burn but suffers no harmful effects. Allows burn status for Guts synergy and Facade power boosts while defending against Fire-type attacks.
-
-*Character count: 284*
 
 ## Detailed Mechanical Explanation
 **Heatproof** provides comprehensive protection against Fire-type attacks and burn effects, but with a crucial distinction regarding burn status.
@@ -35,7 +35,7 @@ Halves damage from Fire-type moves. Immune to burn damage and Attack drops from 
 #### Comparison with True Burn-Immune Abilities
 Abilities that actually prevent burn status:
 - **Water Veil**: Has `onStatusImmune` with `CHECK(status & CHECK_BURN)`
-- **Water Bubble**: Has `onStatusImmune` with `CHECK(status & CHECK_BURN)`  
+- **Water Bubble**: Has `onStatusImmune` with `CHECK(status & CHECK_BURN)`
 - **Thermal Exchange**: Has `onStatusImmune` with `CHECK(status & CHECK_BURN)`
 
 #### Heatproof Implementation

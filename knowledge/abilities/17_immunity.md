@@ -15,8 +15,6 @@ character_count: 284
 
 Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker abilities.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -73,11 +71,11 @@ Against a super effective Poison-type move (e.g., vs Grass):
 Stacking with Steel-type (0.5x from type + 0.5x from ability):
 - Steel with Immunity: 0.25x damage from Poison moves
 
-### Pokémon with Immunity
+### Pokemon with Immunity
 Some examples include:
 - **Frillish** (Water/Ghost): Has Immunity as a changeable ability option
   - Other options: Low Visibility, Clear Body
-- Various other Pokémon have it as either changeable or innate ability
+- Various other Pokemon have it as either changeable or innate ability
 
 ### Strategic Implications
 
@@ -96,7 +94,7 @@ Some examples include:
 
 1. **With Mold Breaker**:
    - Both poison immunity and damage reduction are suppressed
-   - Pokémon with Mold Breaker can poison and deal full damage
+   - Pokemon with Mold Breaker can poison and deal full damage
 
 2. **With Corrosion**:
    - Corrosion does NOT bypass Immunity
@@ -119,7 +117,7 @@ Some examples include:
 - Ability suppression (Gastro Acid, etc.)
 
 ### Synergies
-- Pokémon weak to Poison appreciate the damage reduction
+- Pokemon weak to Poison appreciate the damage reduction
 - Defensive cores benefit from Toxic immunity
 - Setup sweepers can boost without poison chip
 - Pairs well with Heal Bell/Aromatherapy support

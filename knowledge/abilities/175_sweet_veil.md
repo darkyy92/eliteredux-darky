@@ -8,14 +8,12 @@ character_count: 292
 # Sweet Veil - Ability ID 175
 
 ## In-Game Description
-"This Pokémon and its ally are immune to sleep."
+"This Pokemon and its ally are immune to sleep."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
 Sweet Veil provides sleep immunity to both the user and their ally in doubles battles. This ability prevents Sleep status from moves like Sleep Powder, Hypnosis, and Spore. The protection extends to the ally even if they don't have Sweet Veil themselves. Cannot be suppressed but can be broken.
-
-*Character count: 292*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Sweet Veil is a sleep immunity ability that works for both the user and their al
 
 ### Core Functionality
 - **Status Immunity**: Provides immunity to all sleep-inducing effects (CHECK_SLEEP status flag)
-- **Ally Protection**: Uses `.onStatusImmuneFor = APPLY_ON_ALLY` to extend protection to allied Pokémon
+- **Ally Protection**: Uses `.onStatusImmuneFor = APPLY_ON_ALLY` to extend protection to allied Pokemon
 - **Breakable**: Can be disabled by abilities like Mold Breaker, Turboblaze, or Teravolt
 - **No Status Removal**: Unlike some immunity abilities, it doesn't automatically cure existing sleep
 
@@ -49,7 +47,7 @@ constexpr Ability SweetVeil = {
 ### Battle Format Differences
 - **Singles**: Only protects the user
 - **Doubles/Multi**: Protects both the user and their ally
-- **Ally dies**: Protection is lost for remaining Pokémon if Sweet Veil user faints
+- **Ally dies**: Protection is lost for remaining Pokemon if Sweet Veil user faints
 
 ### Interaction Notes
 - Does not prevent self-induced sleep (Rest)

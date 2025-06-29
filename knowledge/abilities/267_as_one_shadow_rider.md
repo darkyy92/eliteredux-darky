@@ -13,9 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Combines Unnerve and Grim Neigh effects. The Pokémon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokémon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
-
-*Character count: 292*
+Combines Unnerve and Grim Neigh effects. The Pokemon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokemon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,14 +21,14 @@ Combines Unnerve and Grim Neigh effects. The Pokémon makes opponents too nervou
 As One Shadow Rider is a signature ability that combines two distinct abilities into one powerful effect:
 
 ### Unnerve Component
-- **Effect**: Prevents opposing Pokémon from using their held berries
-- **Activation**: Passive effect while the Pokémon is on the field
+- **Effect**: Prevents opposing Pokemon from using their held berries
+- **Activation**: Passive effect while the Pokemon is on the field
 - **Switch-in Message**: Displays "As One" message (B_MSG_SWITCHIN_ASONE)
 - **Technical Details**: Sets the `.unnerve = TRUE` flag
 
 ### Grim Neigh Component  
 - **Effect**: Boosts Special Attack by 1 stage when knocking out an opponent
-- **Activation**: Triggers when this Pokémon directly causes an opponent to faint
+- **Activation**: Triggers when this Pokemon directly causes an opponent to faint
 - **Damage Sources**: Any attacking move that results in a KO
 - **Message**: Shows "Grim Neigh" in the ability popup when activated
 - **Technical Details**: Uses `MoxieClone(battler, STAT_SPATK)` for the stat boost
@@ -41,7 +39,7 @@ As One Shadow Rider is a signature ability that combines two distinct abilities 
 - **Shared Switch-in**: Uses the same entry message as As One Ice Rider
 
 ### Battle Mechanics
-1. **Berry Prevention**: All opposing Pokémon cannot consume berries while this Pokémon is active
+1. **Berry Prevention**: All opposing Pokemon cannot consume berries while this Pokemon is active
 2. **Stat Boost Timing**: Special Attack boost occurs immediately after the KO, before checking for additional effects
 3. **Stacking**: The stat boost stacks with other Special Attack boosts and can be further enhanced by items
 4. **Interaction**: Works with multi-hit moves - only needs the final hit to cause the KO
@@ -51,13 +49,13 @@ As One Shadow Rider is a signature ability that combines two distinct abilities 
 - **Shadow Rider**: Combines Unnerve + Grim Neigh (Special Attack boost on KO)
 - Both share the same entry animation and unsuppressable properties
 
-### Pokémon Usage
-This ability is designed for special attacking Pokémon that benefit from both utility (berry prevention) and offensive momentum (Special Attack boosts). The Unnerve component provides consistent team support while Grim Neigh rewards aggressive play.
+### Pokemon Usage
+This ability is designed for special attacking Pokemon that benefit from both utility (berry prevention) and offensive momentum (Special Attack boosts). The Unnerve component provides consistent team support while Grim Neigh rewards aggressive play.
 
 ### Counterplay
 - **Indirect KOs**: Abilities like Aftermath or Rocky Helmet damage won't trigger Grim Neigh
 - **Status Effects**: Poison, burn, or other status conditions that cause fainting don't activate the boost
-- **Switching**: The berry prevention only applies while the Pokémon is on the field
+- **Switching**: The berry prevention only applies while the Pokemon is on the field
 - **Ability Suppression**: Despite being unsuppressable, certain game mechanics may still interfere
 
 ### Code Implementation

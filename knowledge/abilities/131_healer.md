@@ -15,8 +15,6 @@ character_count: 293
 
 Healer gives a 30% chance to cure status conditions at the end of each turn. In single battles, it only cures the user. In double battles, it can cure either the user or their ally partner. The ability checks for both Pokemon separately and can potentially cure both in the same turn if lucky.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 Healer is a supportive ability that provides passive status condition removal at the end of each turn. Here's how it works in detail:
 
@@ -30,7 +28,7 @@ Healer is a supportive ability that provides passive status condition removal at
 According to `BattleScript_HealerActivates` in the battle scripts:
 1. The ability attempts to cure the partner's status first (`BS_ABILITY_PARTNER`)
 2. Then attempts to cure the user's status (`BS_ABILITY_BATTLER`)
-3. Updates status icons for any cured Pokémon
+3. Updates status icons for any cured Pokemon
 4. Displays the healing message
 
 ### Status Conditions Affected
@@ -42,15 +40,15 @@ Healer can cure all standard status conditions:
 - Freeze
 
 ### Important Notes
-- The 30% chance is rolled once per turn, not per affected Pokémon
+- The 30% chance is rolled once per turn, not per affected Pokemon
 - In doubles, both the user and ally could potentially be cured in the same turn if both have status conditions
 - Does not prevent status conditions, only cures existing ones
-- Activates even if the Pokémon with Healer is not statused itself
+- Activates even if the Pokemon with Healer is not statused itself
 - Works through Substitute
 
 ### Strategic Considerations
 - Particularly valuable in double battles where it can support allies
-- Synergizes well with bulky Pokémon that can survive multiple turns
+- Synergizes well with bulky Pokemon that can survive multiple turns
 - Can help teammates that use Rest by potentially waking them early
 - Less reliable than active status healing moves but provides passive support
 - Combines well with the Caretaker ability (Healer + Friend Guard fusion)

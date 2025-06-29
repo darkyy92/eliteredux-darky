@@ -15,8 +15,6 @@ character_count: 294
 
 When hit by Water-type moves, immediately boosts Attack by 1 stage and triggers an additional Defense boost at the end of turn. When hit by Ice-type moves, immediately raises both Attack and Defense by 1 stage each. Creates excellent synergy with defensive Ice-types seeking offensive presence.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

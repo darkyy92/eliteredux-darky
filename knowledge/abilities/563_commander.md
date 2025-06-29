@@ -15,8 +15,6 @@ character_count: 287
 
 Commander allows Tatsugiri to enter an allied Dondozo and become untargetable. When activated, the Dondozo receives +2 to all stats and Tatsugiri becomes semi-invulnerable. If Dondozo faints, Tatsugiri reappears and can act normally again.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

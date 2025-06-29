@@ -15,8 +15,6 @@ character_count: 295
 
 Fossilized grants dual Rock-type synergy, reducing incoming Rock-type damage by 50% while boosting the power of the user's Rock-type moves by 20%. This ancient adaptation reflects millions of years of geological pressure and crystallization, providing both defensive resilience and offensive enhancement to fossil Pokemon.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -61,13 +59,13 @@ Rock-type moves that receive the 1.2x boost include:
 
 ### Damage Calculations
 **Offensive Boost Example:**
-- Base Stone Edge (100 power) → 120 effective power
-- With STAB (Same Type Attack Bonus): 100 × 1.5 (STAB) × 1.2 (Fossilized) = 180 effective power
+- Base Stone Edge (100 power) to 120 effective power
+- With STAB (Same Type Attack Bonus): 100 x 1.5 (STAB) x 1.2 (Fossilized) = 180 effective power
 - Critical hit potential makes this extremely dangerous
 
 **Defensive Resistance Example:**
-- Incoming Rock Slide (75 power) → 37.5 effective power against Fossilized Pokemon
-- Super effective Rock moves against Flying-types: 2x × 0.5 = 1x neutral damage
+- Incoming Rock Slide (75 power) to 37.5 effective power against Fossilized Pokemon
+- Super effective Rock moves against Flying-types: 2x x 0.5 = 1x neutral damage
 
 ### Interactions with Other Abilities/Mechanics
 - **Stacks with**: STAB, items (Hard Stone, Rock Gem), Weather effects, terrain effects
@@ -120,7 +118,7 @@ Fossilized is primarily found on fossil Pokemon as an innate ability:
 
 ### Synergies
 **Item Synergies:**
-- **Hard Stone**: Stacks with offensive boost (1.2 × 1.2 = 1.44x total)
+- **Hard Stone**: Stacks with offensive boost (1.2 x 1.2 = 1.44x total)
 - **Rock Gem**: One-time 1.3x boost stacks multiplicatively
 - **Choice items**: Enhanced Rock-type moves become extremely powerful
 

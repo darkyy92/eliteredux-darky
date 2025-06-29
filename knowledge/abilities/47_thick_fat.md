@@ -15,8 +15,6 @@ character_count: 283
 
 Provides resistance to Fire and Ice type attacks, taking only half damage from these types. This dual resistance makes the Pokemon exceptionally durable against temperature-based attacks, offering excellent switch-in opportunities and defensive staying power throughout long battles.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -59,12 +57,12 @@ The `RESISTANCE(.5)` macro applies both resistance and modifier values, effectiv
 
 ### Damage Calculation Examples
 **Without Thick Fat:**
-- 100 BP Fire move → 100% damage
-- 120 BP Ice move → 100% damage
+- 100 BP Fire move to 100% damage
+- 120 BP Ice move to 100% damage
 
 **With Thick Fat:**
-- 100 BP Fire move → 50% damage
-- 120 BP Ice move → 50% damage
+- 100 BP Fire move to 50% damage
+- 120 BP Ice move to 50% damage
 
 ### Interactions with Other Mechanics
 

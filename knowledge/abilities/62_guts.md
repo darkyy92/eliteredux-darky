@@ -15,8 +15,6 @@ character_count: 283
 
 Guts boosts Attack by 50% when suffering from any status condition. Only affects physical moves. Additionally, completely negates the Attack drop from burn status while still taking burn damage. Perfect for status-immune strategies and Flame Orb users seeking massive physical power.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

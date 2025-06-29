@@ -5,11 +5,13 @@ status: ai-generated
 character_count: 284
 ---
 
-# Blistering Sun
+# Blistering Sun - Ability ID 869
 
-**Type:** Ultimate Weather Combination Ability  
-**ID:** 869  
-**Description:** "Desolate Land + Air Blower."
+## In-Game Description
+Desolate Land + Air Blower.
 
 ## Extended In-Game Description
 Creates scorching primal sunlight that completely evaporates all Water-type moves, making them fail entirely. Fire-type moves gain a powerful 50% damage boost from the intense heat. Additionally, whips up strong winds on entry, doubling the Speed of all team allies for exactly 3 turns.
+
+## Detailed Mechanical Explanation
+Ultimate Weather Combination Ability that creates scorching primal sunlight that completely evaporates all Water-type moves, making them fail entirely. Fire-type moves gain a powerful 50% damage boost from the intense heat. Additionally, whips up strong winds on entry, doubling the Speed of all team allies for exactly 3 turns.

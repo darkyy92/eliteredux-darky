@@ -15,8 +15,6 @@ character_count: 286
 
 Upon entering the battlefield, automatically uses Torment on the opponent, preventing them from using the same move consecutively. This Dark-type status move forces the enemy to alternate between different attacks, disrupting repetitive strategies.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Suppress automatically inflicts the Torment status condition upon entry, forcing
 
 ### Activation Conditions
 - **Trigger**: Activates immediately when switching into battle
-- **Target**: Automatically targets an opposing Pokémon
+- **Target**: Automatically targets an opposing Pokemon
 - **Move used**: Torment (Dark-type status move)
 - **Effect**: Inflicts torment status condition
 - **Guarantee**: Cannot miss when used by this ability
@@ -70,11 +68,11 @@ constexpr Ability Suppress = {
 - Choice item users (Specs, Band, Scarf)
 - Single-move spammers (Earthquake, Boomburst)
 - Setup sweepers (repeated Calm Mind, Swords Dance)
-- STAB abusers (Pokémon relying on one powerful move)
+- STAB abusers (Pokemon relying on one powerful move)
 
 **Less effective against:**
 - Mixed attackers (multiple viable moves)
-- Support Pokémon (various utility moves)
+- Support Pokemon (various utility moves)
 - Status spreaders (multiple different status moves)
 - Diverse movesets (many attack options)
 
@@ -86,8 +84,8 @@ constexpr Ability Suppress = {
 - **Refresh**: Self-cure move
 
 ### Double Battle Applications
-- **Single target**: Only affects one opposing Pokémon
-- **Partner protection**: Doesn't affect ally Pokémon
+- **Single target**: Only affects one opposing Pokemon
+- **Partner protection**: Doesn't affect ally Pokemon
 - **Strategic targeting**: Choose which opponent to torment
 - **Field control**: Reduces one opponent's offensive options
 

@@ -1,27 +1,25 @@
 ---
 id: 833
-name: Harukaze (N)
+name: Harukaze
 status: ai-generated
 character_count: 282
 ---
 
-# Harukaze (N) - Ability ID 833
+# Harukaze - Ability ID 833
 
-## Basic Information
-- **Name**: Harukaze (N)
-- **Type**: Innate Ability (N)
-- **Description**: Setting Grassy Terrain sets Tailwind an vice versa.
+## In-Game Description
+Setting Grassy Terrain sets Tailwind and vice versa.
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 When this Pokemon or an ally sets Grassy Terrain, your team automatically gains Tailwind for the same duration. Conversely, when your team gains Tailwind, Grassy Terrain is automatically set. This bidirectional synergy creates a powerful field control combination, boosting both offense and defense.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Core Functionality
 Harukaze creates a bidirectional link between two beneficial field effects:
-- **Grassy Terrain → Tailwind**: When Grassy Terrain is set by any means (move, ability, or item), Tailwind is automatically applied to the user's team
-- **Tailwind → Grassy Terrain**: When Tailwind is set for the user's team, Grassy Terrain is automatically established
+- **Grassy Terrain to Tailwind**: When Grassy Terrain is set by any means (move, ability, or item), Tailwind is automatically applied to the user's team
+- **Tailwind to Grassy Terrain**: When Tailwind is set for the user's team, Grassy Terrain is automatically established
 
 ### Trigger Conditions
 The ability activates when:
@@ -83,7 +81,7 @@ constexpr Ability Harukaze = {
 
 The actual linking mechanism is likely implemented at a lower level in the battle engine's terrain and tailwind setting functions, automatically checking for this ability when either effect is applied.
 
-## Competitive Analysis
+### Competitive Analysis
 
 ### Strengths
 - Provides two premium field effects for the price of one

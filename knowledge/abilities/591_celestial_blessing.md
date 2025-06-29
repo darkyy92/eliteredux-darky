@@ -5,16 +5,17 @@ status: ai-generated
 character_count: 295
 ---
 
-# Celestial Blessing (ID: 591)
+# Celestial Blessing - Ability ID 591
+
+## In-Game Description
+"Recovers 1/12 of its health each turn under Misty Terrain."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Recovers 1/12 of its health each turn under Misty Terrain.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Extended Description (295 characters)
 Celestial Blessing activates during the end turn phase, restoring 1/12 of the Pokemon's maximum HP each turn, but only while the Pokemon is on the field under Misty Terrain. This recovery is blocked by Heal Block and similar effects. The ability provides consistent healing for Fairy-type teams.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Activation Conditions
 - **Turn Phase**: End of turn

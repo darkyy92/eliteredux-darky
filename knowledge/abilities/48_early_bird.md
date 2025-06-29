@@ -2,7 +2,7 @@
 id: 48
 name: Early Bird
 status: ai-generated
-character_count: 311
+character_count: 297
 ---
 
 # Early Bird - Ability ID 48
@@ -13,14 +13,12 @@ character_count: 311
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Early Bird allows the Pokémon to wake up from sleep twice as fast. While normal Pokémon subtract 1 sleep turn per turn, Early Bird users subtract 2 turns per turn, effectively halving sleep duration. Works against all sleep-inducing moves and effects, making the Pokémon much more resistant to sleep strategies.
-
-*Character count: 295*
+Early Bird allows the Pokemon to wake up from sleep twice as fast. While normal Pokemon subtract 1 sleep turn per turn, Early Bird users subtract 2 turns, effectively halving sleep duration. Works against all sleep-inducing moves and effects, making the Pokemon more resistant to sleep strategies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**EARLY_BIRD** is a status condition protection ability that reduces the duration of sleep by making the Pokémon wake up twice as fast.
+**EARLY_BIRD** is a status condition protection ability that reduces the duration of sleep by making the Pokemon wake up twice as fast.
 
 ### Sleep Mechanics Overview:
 - **Sleep Status**: Uses first 3 bits of status1 (STATUS1_SLEEP = bits 0-2)
@@ -29,7 +27,7 @@ Early Bird allows the Pokémon to wake up from sleep twice as fast. While normal
 - **Wake-up Check**: Occurs at start of each turn before move selection
 
 ### Early Bird Activation:
-- **Trigger**: Every turn while the Pokémon has sleep status
+- **Trigger**: Every turn while the Pokemon has sleep status
 - **Effect**: Subtracts 2 from sleep counter instead of 1
 - **Location**: Implemented in both `battle_util.c` and `battle_util2.c`
 - **No Message**: No special text displayed when Early Bird activates
@@ -59,26 +57,26 @@ else
 ```
 
 ### Sleep Duration Examples:
-1. **Normal Pokémon**:
-   - Turn 1: Sleep 3 → Sleep 2 (can't act)
-   - Turn 2: Sleep 2 → Sleep 1 (can't act)  
-   - Turn 3: Sleep 1 → Awake (can act)
+1. **Normal Pokemon**:
+   - Turn 1: Sleep 3 to Sleep 2 (can't act)
+   - Turn 2: Sleep 2 to Sleep 1 (can't act)  
+   - Turn 3: Sleep 1 to Awake (can act)
    - **Total**: 2 turns asleep
 
-2. **Early Bird Pokémon**:
-   - Turn 1: Sleep 3 → Sleep 1 (can't act)
-   - Turn 2: Sleep 1 → Awake (can act)
+2. **Early Bird Pokemon**:
+   - Turn 1: Sleep 3 to Sleep 1 (can't act)
+   - Turn 2: Sleep 1 to Awake (can act)
    - **Total**: 1 turn asleep
 
 3. **Edge Cases**:
-   - Sleep 1 → Always wakes up immediately (both normal and Early Bird)
-   - Sleep 2 → Normal: 1 turn asleep, Early Bird: wakes immediately
+   - Sleep 1 to Always wakes up immediately (both normal and Early Bird)
+   - Sleep 2 to Normal: 1 turn asleep, Early Bird: wakes immediately
 
 ### Interaction Rules:
 - **Works Against**: All sleep-inducing moves (Sleep Powder, Spore, Hypnosis, etc.)
 - **Works Against**: Sleep from abilities (Effect Spore when it triggers sleep)
 - **Works Against**: Sleep from items or other effects
-- **Does NOT Work**: Against Pokémon already asleep when switching in (doesn't cure existing sleep faster)
+- **Does NOT Work**: Against Pokemon already asleep when switching in (doesn't cure existing sleep faster)
 - **Stackable**: If sleep counter is set to maximum (7), still reduces by 2 per turn
 
 ### Move Interactions:
@@ -100,8 +98,8 @@ else
 - Cannot prevent initial sleep, only reduces duration
 
 **Synergies:**
-- Rest users (particularly bulky Pokémon)
-- Pokémon vulnerable to sleep moves in their meta
+- Rest users (particularly bulky Pokemon)
+- Pokemon vulnerable to sleep moves in their meta
 - Sleep Talk users (wake up to use regular moves sooner)
 
 **Counters:**
@@ -110,7 +108,7 @@ else
 - Moves with secondary effects rather than sleep focus
 
 ### Notable Users:
-Early Bird is naturally found on several Normal-type and bird Pokémon species, making it thematically appropriate for early-rising creatures.
+Early Bird is naturally found on several Normal-type and bird Pokemon species, making it thematically appropriate for early-rising creatures.
 
 ### Version History:
 - Consistent behavior since Gen 3

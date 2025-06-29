@@ -13,14 +13,12 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
-
-*Character count: 292*
+When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Chilling Neigh is a signature ability that triggers whenever the Pokémon with this ability defeats an opponent through direct attack damage. Here are the complete mechanics:
+Chilling Neigh is a signature ability that triggers whenever the Pokemon with this ability defeats an opponent through direct attack damage. Here are the complete mechanics:
 
 ### Core Mechanics
 - **Trigger Condition**: Must directly knock out an opponent with an attacking move
@@ -31,7 +29,7 @@ Chilling Neigh is a signature ability that triggers whenever the Pokémon with t
 ### Implementation Details
 - Uses the same core function as Moxie but targets Attack stat specifically (STAT_ATK = 1)
 - Implemented via `MoxieClone(battler, STAT_ATK)` function
-- Requires `HasAttackerFaintedTarget()` check to verify the KO was from this Pokémon's attack
+- Requires `HasAttackerFaintedTarget()` check to verify the KO was from this Pokemon's attack
 - Uses `ChangeStatBuffs()` with MOVE_EFFECT_AFFECTS_USER flag
 
 ### Important Interactions
@@ -42,13 +40,13 @@ Chilling Neigh is a signature ability that triggers whenever the Pokémon with t
 - **Multi-hit Moves**: Only needs the final hit to cause the KO
 
 ### Comparison with Related Abilities
-- **Moxie**: Identical mechanics, but Chilling Neigh is typically associated with Ice-type legendary Pokémon
+- **Moxie**: Identical mechanics, but Chilling Neigh is typically associated with Ice-type legendary Pokemon
 - **Grim Neigh**: Sister ability that raises Special Attack instead of Attack
 - **Beast Boost**: Raises the highest stat instead of specifically Attack
 
 ### Competitive Applications
 - Excellent for physical sweepers that can secure KOs
-- Particularly powerful in formats with weaker defensive Pokémon
+- Particularly powerful in formats with weaker defensive Pokemon
 - Pairs well with Choice items or Life Orb for initial KO power
 - Strong in late-game cleanup scenarios
 

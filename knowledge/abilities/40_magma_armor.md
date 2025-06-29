@@ -15,8 +15,6 @@ character_count: 289
 
 Magma Armor grants complete immunity to the frostbite status condition and reduces damage from Water and Ice-type moves by 30%. This defensive ability is particularly effective against Ice-type Pokemon and moves that inflict frostbite. The resistance helps mitigate common weaknesses.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

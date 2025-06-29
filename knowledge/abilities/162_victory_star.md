@@ -2,23 +2,22 @@
 id: 162
 name: Victory Star
 status: ai-generated
-character_count: 293
+character_count: 294
 ---
 
-# Victory Star (Ability ID: 162)
+# Victory Star - Ability ID 162
 
-## Basic Information
-- **Name**: Victory Star
-- **ID**: 162
-- **Description**: "Gives 1.2x accuracy boost to its own and its allies' moves."
+## In-Game Description
+"Gives 1.2x accuracy boost to its own and its allies' moves."
 
-## Implementation Details
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-### Code Location
-- **File**: `src/abilities.cc`
-- **Function**: `VictoryStar` (lines 1815-1821)
+Victory Star provides a consistent 20% accuracy boost to all moves used by the Pokemon and its allies in multi battles. This multiplicative boost stacks with other accuracy modifiers and is always active, making unreliable moves like Focus Blast and Thunder more dependable in crucial battles.
 
-### Mechanics
+## Detailed Mechanical Explanation
+
+### Implementation Details
 ```cpp
 constexpr Ability VictoryStar = {
     .onAccuracy = +[](ON_ACCURACY) -> AccuracyPriority {
@@ -42,11 +41,6 @@ Victory Star appears as both a regular ability and innate ability on several Pok
 - **Starmie**: Has Victory Star as an innate ability (alongside Natural Cure and Mystic Power)
 - Multiple other Pokemon have it as either regular or innate abilities
 
-## Extended In-Game Description
-Victory Star provides a consistent 20% accuracy boost to all moves used by the Pokemon and its allies in multi battles. This multiplicative boost stacks with other accuracy modifiers and is always active, making unreliable moves like Focus Blast and Thunder more dependable in crucial battles.
-
-**Character count: 293**
-
 ## Comparison with Other Accuracy Abilities
 
 | Ability | Accuracy Boost | Scope | Conditions |
@@ -66,11 +60,11 @@ Victory Star provides a consistent 20% accuracy boost to all moves used by the P
 - **Stacks multiplicatively**: Combines well with other accuracy boosts
 
 ### Best Move Synergies
-- **Focus Blast**: 70% → 84% accuracy
-- **Hydro Pump**: 80% → 96% accuracy  
-- **Fire Blast**: Usually 85% → effectively 100% (capped)
-- **Thunder**: 70% → 84% accuracy
-- **Blizzard**: 70% → 84% accuracy (outside hail)
+- **Focus Blast**: 70% to 84% accuracy
+- **Hydro Pump**: 80% to 96% accuracy  
+- **Fire Blast**: Usually 85% to effectively 100% (capped)
+- **Thunder**: 70% to 84% accuracy
+- **Blizzard**: 70% to 84% accuracy (outside hail)
 
 ### Team Building
 - Excellent on pivot Pokemon that can switch in allies
@@ -80,7 +74,7 @@ Victory Star provides a consistent 20% accuracy boost to all moves used by the P
 
 ## Technical Notes
 
-- **Calculation**: Final accuracy = Move accuracy × 1.2 × other modifiers
+- **Calculation**: Final accuracy = Move accuracy x 1.2 x other modifiers
 - **Rounding**: Uses standard Pokemon accuracy calculation (out of 100)
 - **Weather interaction**: Stacks with weather effects (Thunder in rain, Blizzard in hail)
 - **Ability interaction**: Can be suppressed but not broken by moves like Brick Break

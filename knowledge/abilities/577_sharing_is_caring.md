@@ -15,8 +15,6 @@ character_count: 300
 
 All stat changes are shared between all battlers on the field. Both positive and negative stat changes affect everyone equally. Creates a level playing field where no Pokemon can gain stat advantages. Counters setup sweepers but also shares your own boosts with opponents. Double-edged strategy tool.
 
-*Character count: 300*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -64,7 +62,7 @@ constexpr Ability SharingIsCaring = {
 };
 ```
 
-### Pokémon with Sharing is Caring:
+### Pokemon with Sharing is Caring:
 1. **Fidough (Partner form)** - Changeable ability option
    - Support-oriented variant
    - Creates chaotic stat environments
@@ -89,16 +87,16 @@ constexpr Ability SharingIsCaring = {
 
 ### Competitive Notes:
 - **Anti-Meta**: Hard counters stat-boosting strategies
-- **Base Stats Focus**: Pokémon with naturally high stats excel
+- **Base Stats Focus**: Pokemon with naturally high stats excel
 - **Item Reliance**: Choice items become more valuable
 - **Ability Synergy**: Unaware teammates ignore shared boosts
 - **Move Selection**: Prioritize attacks over setup moves
 
 ### Interaction Examples:
-- Dragon Dance: All Pokémon get +1 Atk/Spe
-- Intimidate: All Pokémon get -1 Atk (including Intimidator's team)
-- Close Combat: All Pokémon get -1 Def/SpD
-- Sticky Web: All grounded Pokémon get -1 Spe on entry
+- Dragon Dance: All Pokemon get +1 Atk/Spe
+- Intimidate: All Pokemon get -1 Atk (including Intimidator's team)
+- Close Combat: All Pokemon get -1 Def/SpD
+- Sticky Web: All grounded Pokemon get -1 Spe on entry
 
 ### Similar Abilities:
 - **Egoist**: Copies positive stat changes from opponents

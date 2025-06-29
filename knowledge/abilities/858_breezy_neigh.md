@@ -5,15 +5,17 @@ status: ai-generated
 character_count: 287
 ---
 
-# Breezy Neigh (ID: 858)
+# Breezy Neigh - Ability ID 858
 
-## Short Description
-"KOs raise Speed by one stage."
+## In-Game Description
+KOs raise Speed by one stage.
 
 ## Extended In-Game Description
-When this Pokémon knocks out an opponent with a direct attack, its Speed stat increases by one stage. This boost occurs immediately after the target faints, potentially allowing the user to outspeed previously faster opponents. The effect activates only when the Pokémon with this ability directly causes a knockout through damage.
+When this Pokemon knocks out an opponent with a direct attack, its Speed stat increases by one stage. This boost occurs immediately after the target faints, potentially allowing the user to outspeed previously faster opponents. The effect activates only when the Pokemon with this ability directly causes a knockout through damage.
 
-## Technical Implementation
+## Detailed Mechanical Explanation
+
+### Technical Implementation
 
 **File**: `src/abilities.cc`
 **Mechanism**: Uses the `MoxieClone` function with `STAT_SPEED` parameter
@@ -33,7 +35,7 @@ constexpr Ability AdrenalineRush = {
 
 ## Key Mechanics
 
-1. **Activation Condition**: Only activates when the Pokémon with Breezy Neigh directly causes a knockout
+1. **Activation Condition**: Only activates when the Pokemon with Breezy Neigh directly causes a knockout
 2. **Stat Boost**: Raises Speed by exactly one stage (+50% of base Speed stat)
 3. **Timing**: Speed boost occurs immediately after the target faints
 4. **Stacking**: Multiple knockouts result in multiple Speed boosts (up to +6 stages maximum)
@@ -48,5 +50,5 @@ constexpr Ability AdrenalineRush = {
 ## Battle Applications
 - Excellent for sweeping teams after securing the first knockout
 - Synergizes well with Choice Scarf or other speed-boosting items
-- Particularly effective on Pokémon with good offensive stats but moderate base Speed
+- Particularly effective on Pokemon with good offensive stats but moderate base Speed
 - Can turn slow, powerful attackers into late-game threats

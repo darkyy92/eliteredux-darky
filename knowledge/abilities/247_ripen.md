@@ -15,8 +15,6 @@ character_count: 282
 
 Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages instead of 1, resist berries reduce super-effective damage by 75% instead of 50%, and PP-restoring berries restore twice as much PP.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -36,7 +34,7 @@ Ripen is a comprehensive berry-enhancing ability that affects all types of benef
    - Also affects stat boosts from Kee Berry (Defense when hit by physical) and Maranga Berry (Sp. Defense when hit by special)
 
 3. **Resist Berries**: Type-resist berries provide enhanced damage reduction
-   - Normal effectiveness: 50% damage reduction → 75% damage reduction (0.25x modifier)
+   - Normal effectiveness: 50% damage reduction to 75% damage reduction (0.25x modifier)
    - Only triggers on super-effective moves or Normal-type moves
    - Includes berries like Occa Berry (Fire), Yache Berry (Ice), Chople Berry (Fighting), etc.
 
@@ -61,4 +59,4 @@ Ripen is a comprehensive berry-enhancing ability that affects all types of benef
 - Particularly effective with Sitrus Berry for enhanced recovery
 - Combines well with stat-boosting berries for setup sweepers
 - Resist berries become extremely powerful defensive tools (75% damage reduction)
-- Most beneficial on Pokémon that can reliably trigger berry consumption through self-damage or low HP thresholds
+- Most beneficial on Pokemon that can reliably trigger berry consumption through self-damage or low HP thresholds

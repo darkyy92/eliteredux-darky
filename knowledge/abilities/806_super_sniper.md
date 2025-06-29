@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics. Critical hits deal 1.5× extra damage like Sniper. When an opponent switches out, this Pokémon automatically attacks the switching target with its selected move at half power, bypassing turn order.
-
-*Character count: 289*
+Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics. Critical hits deal 1.5x extra damage like Sniper. When an opponent switches out, this Pokemon automatically attacks the switching target with its selected move at half power, bypassing turn order.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics.
 ### Core Mechanics
 Super Sniper is a combination ability that merges two distinct effects:
 
-1. **Sniper Component**: Increases critical hit damage multiplier from the standard 1.5× to 2.25× (1.5 × 1.5)
+1. **Sniper Component**: Increases critical hit damage multiplier from the standard 1.5x to 2.25x (1.5 x 1.5)
 2. **Pursuit Component**: Automatically attacks switching opponents with reduced power
 
 ### Implementation Details
@@ -34,7 +32,7 @@ constexpr Ability SuperSniper = {
         +[](ON_OFFENSIVE_MULTIPLIER) {
             // Inherit Sniper's crit damage boost
             Sniper.onOffensiveMultiplier(DELEGATE_OFFENSIVE_MULTIPLIER);
-            // Apply 0.5× damage for pursuit attacks
+            // Apply 0.5x damage for pursuit attacks
             if (gProcessingExtraAttacks && gQueuedExtraAttackData[0].ability == ability) {
                 MUL(0.5);
             }
@@ -52,15 +50,15 @@ constexpr Ability SuperSniper = {
 ### Activation Conditions
 
 **Sniper Component:**
-- Activates whenever the Pokémon lands a critical hit
+- Activates whenever the Pokemon lands a critical hit
 - Works with all damaging moves that can critically hit
-- Damage calculation: Base damage × Critical modifier (1.5×) × Super Sniper bonus (1.5×) = 2.25× total
+- Damage calculation: Base damage x Critical modifier (1.5x) x Super Sniper bonus (1.5x) = 2.25x total
 
 **Pursuit Component:**
 - Triggers when an opponent attempts to switch out
-- Only works if the Super Sniper user has selected a damaging move that can target the switching Pokémon
+- Only works if the Super Sniper user has selected a damaging move that can target the switching Pokemon
 - Move targeting must be compatible (Selected, Both, Foes and Ally targets work; Random targets do not)
-- The selected move is executed immediately at 0.5× power before the switch completes
+- The selected move is executed immediately at 0.5x power before the switch completes
 
 ### Affected Moves
 - **All damaging moves** for the critical hit component
@@ -71,7 +69,7 @@ constexpr Ability SuperSniper = {
 
 **Offensive Usage:**
 - Excellent for eliminating weakened opponents trying to escape
-- High critical hit rate moves become extremely threatening (2.25× damage on crits)
+- High critical hit rate moves become extremely threatening (2.25x damage on crits)
 - Pairs well with moves like Slash, Razor Leaf, or Stone Edge
 - Forces opponents to stay in battle rather than switch freely
 
@@ -84,9 +82,9 @@ constexpr Ability SuperSniper = {
 
 Base scenario: 100 Base Power move, no other modifiers
 - Normal hit: 100 damage
-- Critical hit with Super Sniper: 225 damage (100 × 1.5 crit × 1.5 Super Sniper)
-- Pursuit attack on switch: 50 damage (100 × 0.5 pursuit penalty)
-- Critical pursuit attack: 112.5 damage (100 × 1.5 crit × 1.5 Super Sniper × 0.5 pursuit)
+- Critical hit with Super Sniper: 225 damage (100 x 1.5 crit x 1.5 Super Sniper)
+- Pursuit attack on switch: 50 damage (100 x 0.5 pursuit penalty)
+- Critical pursuit attack: 112.5 damage (100 x 1.5 crit x 1.5 Super Sniper x 0.5 pursuit)
 
 ### Common Users
 - **Decidueye** (Mega form): Primary known user with ABILITY_SUPER_SNIPER as an innate ability
@@ -95,7 +93,7 @@ Base scenario: 100 Base Power move, no other modifiers
 ### Competitive Usage Notes
 - Creates a "damned if you do, damned if you don't" scenario for opponents
 - Staying in risks massive critical hit damage
-- Switching out guarantees chip damage and potential KO on weakened Pokémon
+- Switching out guarantees chip damage and potential KO on weakened Pokemon
 - Excellent for late-game cleanup and pressure
 
 ### Counters

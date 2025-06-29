@@ -5,15 +5,18 @@ status: ai-generated
 character_count: 285
 ---
 
-# Draconic Might
+# Draconic Might - Ability ID 841
 
-**ID**: 841  
-**Description**: Draconize + Half Drake.
+## In-Game Description
+Draconize + Half Drake.
 
 ## Extended In-Game Description
-Transforms the Pokémon into a mighty dragon warrior by adding Dragon as a third type and converting all Normal-type moves to Dragon-type. Normal moves become Dragon attacks that gain STAB (1.5x damage) from the added Dragon typing, turning basic attacks into powerful draconic strikes.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+Transforms the Pokemon into a mighty dragon warrior by adding Dragon as a third type and converting all Normal-type moves to Dragon-type. Normal moves become Dragon attacks that gain STAB (1.5x damage) from the added Dragon typing, turning basic attacks into powerful draconic strikes.
 
-## Mechanics
+## Detailed Mechanical Explanation
+
+### Mechanics
 
 ### Type Addition (Half Drake Component)
 - Adds Dragon as a third type upon entering battle
@@ -27,16 +30,16 @@ Transforms the Pokémon into a mighty dragon warrior by adding Dragon as a third
 - Does not affect status moves
 
 ### Damage Calculation
-- Normal-type moves → Dragon-type moves
+- Normal-type moves to Dragon-type moves
 - Dragon-type moves get 1.5x STAB multiplier
 - Combined effect: Normal moves deal 1.5x damage as Dragon-type
 - Stacks with Adaptability for 2.0x STAB if present
 
 ## In-Game Appearance
 
-When a Pokémon with Draconic Might enters battle:
-1. "**[Pokémon] added the Dragon type!**" message appears
-2. The Pokémon gains Dragon as a third type
+When a Pokemon with Draconic Might enters battle:
+1. "**[Pokemon] added the Dragon type!**" message appears
+2. The Pokemon gains Dragon as a third type
 3. All Normal-type attacks will hit as Dragon-type moves
 
 ## Competitive Analysis
@@ -45,7 +48,7 @@ When a Pokémon with Draconic Might enters battle:
 - Transforms weak Normal moves into powerful Dragon attacks
 - Provides excellent neutral coverage with Dragon-type
 - Synergizes with high base power Normal moves (Return, Hyper Beam, etc.)
-- Dragon STAB on a non-Dragon Pokémon can catch opponents off-guard
+- Dragon STAB on a non-Dragon Pokemon can catch opponents off-guard
 
 ### Disadvantages
 - Adds Dragon's weaknesses (Ice, Dragon, Fairy)
@@ -68,10 +71,10 @@ When a Pokémon with Draconic Might enters battle:
 
 ## Example Scenario
 
-A Pokémon with Draconic Might uses Return:
-- Return (Normal, 102 BP) → Dragon-type Return
+A Pokemon with Draconic Might uses Return:
+- Return (Normal, 102 BP) to Dragon-type Return
 - Gains STAB from added Dragon typing
-- Final damage: 102 × 1.5 = 153 effective base power
+- Final damage: 102 x 1.5 = 153 effective base power
 - Hits as Dragon-type for type effectiveness
 
 This ability essentially creates a pseudo-Dragon type that can utilize Normal-type movepool as Dragon STAB, offering unique offensive opportunities.

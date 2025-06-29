@@ -15,8 +15,6 @@ character_count: 290
 
 Jungle's Guard shields Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun. Combines Flower Veil protection with Leaf Guard healing. Ideal for sun teams needing comprehensive status and stat protection for Grass allies.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

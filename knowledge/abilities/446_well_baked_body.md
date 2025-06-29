@@ -15,8 +15,6 @@ character_count: 292
 
 Well Baked Body grants immunity to Fire-type moves while boosting Defense by 2 stages when hit by Fire attacks. The ability completely negates Fire damage and provides immediate +50% defense boost. Excellent for pivoting into Fire moves and building defensive momentum against opposing teams.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -62,18 +60,18 @@ constexpr Ability WellBakedBody = {
 - **Fire immunity**: Complete protection against Fire-type attacks
 - **Defensive setup**: Builds defensive bulk while being attacked
 - **Pivot utility**: Safe switch-in against Fire-type moves
-- **Wall building**: Allows defensive Pokémon to become increasingly bulky
+- **Wall building**: Allows defensive Pokemon to become increasingly bulky
 - **Team support**: Can absorb Fire moves intended for teammates in doubles
 
 ### Stat Boost Mechanics
 - **+2 stages**: Equivalent to a "sharp" increase, boosting Defense by 50%
 - **Stack potential**: Multiple Fire attacks can stack up to +6 Defense maximum
 - **Immediate effect**: Stat boost applies immediately when hit
-- **Persistent**: Stat boosts remain until the Pokémon switches out or uses moves like Haze
+- **Persistent**: Stat boosts remain until the Pokemon switches out or uses moves like Haze
 
 ### Common Usage Patterns
-- **Defensive walls**: Pokémon that want to tank physical attacks
-- **Setup sweepers**: Pokémon that can use the Defense boost to set up other moves
+- **Defensive walls**: Pokemon that want to tank physical attacks
+- **Setup sweepers**: Pokemon that can use the Defense boost to set up other moves
 - **Fire-type counters**: Dedicated answers to Fire-type attackers
 - **Pivot points**: Safe switching options against Fire teams
 
@@ -109,4 +107,4 @@ constexpr Ability WellBakedBody = {
 - **Balanced design**: Provides strong defensive utility without being overpowered
 
 ### Pokemon That Learn This Ability
-Well Baked Body is a custom Elite Redux ability that can be found on select Pokémon, typically those with defensive stats or thematic connections to baking/cooking. The ability is designed to provide a unique defensive option for handling Fire-type attacks while building momentum.
+Well Baked Body is a custom Elite Redux ability that can be found on select Pokemon, typically those with defensive stats or thematic connections to baking/cooking. The ability is designed to provide a unique defensive option for handling Fire-type attacks while building momentum.

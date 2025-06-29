@@ -15,8 +15,6 @@ character_count: 289
 
 Grants STAB to all moves (Mystic Power effect) and makes Hidden Power and Secret Power deal super-effective damage against all targets regardless of type matchups. This ability transforms these variable-type moves into universally effective attacks while providing STAB on every move used.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Unown Power is a hybrid ability that combines two distinct effects:
 ### Mystic Power Component (STAB on All Moves)
 - **Effect**: Grants Same Type Attack Bonus (STAB) to ALL moves, regardless of type matching
 - **Implementation**: Uses `.onStab = +[](ON_STAB) -> int { return TRUE; }` which always returns TRUE for STAB calculation
-- **Benefit**: Every move gets a 1.5x damage multiplier, making the Pokémon extremely versatile offensively
+- **Benefit**: Every move gets a 1.5x damage multiplier, making the Pokemon extremely versatile offensively
 
 ### Super-Effective Hidden/Secret Power Component
 - **Effect**: Forces Hidden Power and Secret Power to deal super-effective (2x) damage against all targets
@@ -42,13 +40,13 @@ Unown Power is a hybrid ability that combines two distinct effects:
 - **All Other Moves**: Get STAB (1.5x) regardless of type
 - **Strategic Value**: Transforms Unown into a versatile attacker with guaranteed effectiveness on signature moves
 
-### Pokémon with This Ability
+### Pokemon with This Ability
 - **Unown (Revelation Form)**: A legendary variant with enhanced stats (138 Attack/Special Attack, 133 Defense/Special Defense)
 - **Ability Slot**: Innate ability (always active alongside other abilities)
-- **Tier**: Tier 1 legendary Pokémon
+- **Tier**: Tier 1 legendary Pokemon
 
 ### Restrictions
-- **Randomizer Banned**: This ability is marked as `randomizerBanned = TRUE`, preventing it from appearing on random Pokémon during randomizer runs
+- **Randomizer Banned**: This ability is marked as `randomizerBanned = TRUE`, preventing it from appearing on random Pokemon during randomizer runs
 - **Form-Specific**: Only available on the special Revelation form of Unown, not regular Unown forms
 
 This ability effectively makes Unown Revelation a formidable special attacker with guaranteed super-effective coverage through Hidden Power and Secret Power, while maintaining offensive presence with STAB on all other moves.

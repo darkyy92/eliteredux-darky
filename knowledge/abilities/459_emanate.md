@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Emanate converts all Normal-type moves to Psychic-type with a 1.2x power boost. The Pokémon also gains STAB on all Psychic-type moves, including converted ones. This transforms weak Normal moves into powerful Psychic attacks while enhancing existing Psychic moves through STAB bonus.
-
-*Character count: 293*
+Emanate converts all Normal-type moves to Psychic-type with a 1.2x power boost. The Pokemon also gains STAB on all Psychic-type moves, including converted ones. This transforms weak Normal moves into powerful Psychic attacks while enhancing existing Psychic moves through STAB bonus.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -54,17 +52,17 @@ constexpr Ability Emanate = {
 ```
 
 ### Damage Calculation
-- **Converted Normal moves**: Base power × 1.2 (ATE boost) × 1.5 (STAB) = 1.8x total
-- **Natural Psychic moves**: Base power × 1.5 (STAB only)
+- **Converted Normal moves**: Base power x 1.2 (ATE boost) x 1.5 (STAB) = 1.8x total
+- **Natural Psychic moves**: Base power x 1.5 (STAB only)
 - **Other move types**: No modification
 
 ### Move Interactions
 **Powerful Normal moves that become Psychic:**
-- **Hyper Beam** → Psychic Hyper Beam (150 → 180 BP + STAB)
-- **Double-Edge** → Psychic Double-Edge (120 → 144 BP + STAB) 
-- **Return/Frustration** → Psychic Return/Frustration (variable power + boost)
-- **Boomburst** → Psychic Boomburst (140 → 168 BP + STAB)
-- **Extreme Speed** → Psychic Extreme Speed (80 → 96 BP + STAB + priority)
+- **Hyper Beam** to Psychic Hyper Beam (150 to 180 BP + STAB)
+- **Double-Edge** to Psychic Double-Edge (120 to 144 BP + STAB) 
+- **Return/Frustration** to Psychic Return/Frustration (variable power + boost)
+- **Boomburst** to Psychic Boomburst (140 to 168 BP + STAB)
+- **Extreme Speed** to Psychic Extreme Speed (80 to 96 BP + STAB + priority)
 
 **Natural Psychic moves enhanced:**
 - All existing Psychic moves gain STAB bonus
@@ -74,13 +72,13 @@ constexpr Ability Emanate = {
 After conversion, moves hit based on Psychic-type effectiveness:
 - **Super Effective**: Fighting, Poison (2x damage)
 - **Not Very Effective**: Steel, Psychic (0.5x damage)
-- **No Effect**: Dark-type Pokémon (0x damage)
+- **No Effect**: Dark-type Pokemon (0x damage)
 
 ### Important Interactions
 - **Wonder Guard**: Converted moves can hit Wonder Guard if Psychic is super effective
 - **Abilities**: Affects interactions with Psychic-immune abilities
 - **Items**: Benefits from Psychic-boosting items (Twisted Spoon, Psychium Z)
-- **Terrain**: Affected by Psychic Terrain when used on grounded Pokémon
+- **Terrain**: Affected by Psychic Terrain when used on grounded Pokemon
 - **Weather**: No direct weather interactions
 
 ### Strategic Applications
@@ -97,12 +95,12 @@ After conversion, moves hit based on Psychic-type effectiveness:
 **Team Synergy:**
 - Works well with Psychic Terrain support
 - Benefits from Choice items and life orb
-- Pairs with Pokémon that can handle Dark-types
+- Pairs with Pokemon that can handle Dark-types
 
 ### Counters and Limitations
 **Hard Counters:**
-- Dark-type Pokémon (complete immunity to converted moves)
-- Pokémon with Psychic-type resistances (Steel, Psychic)
+- Dark-type Pokemon (complete immunity to converted moves)
+- Pokemon with Psychic-type resistances (Steel, Psychic)
 
 **Ability Counters:**
 - **Mold Breaker**: Ignores the ability entirely
@@ -115,7 +113,7 @@ After conversion, moves hit based on Psychic-type effectiveness:
 - Priority moves that outspeed converted Extreme Speed
 
 ### Optimal Users
-**Ideal Pokémon characteristics:**
+**Ideal Pokemon characteristics:**
 - High Attack or Special Attack stats
 - Access to powerful Normal moves
 - Natural Psychic STAB moves

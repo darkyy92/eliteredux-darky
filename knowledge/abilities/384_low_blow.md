@@ -2,7 +2,7 @@
 id: 384
 name: Low Blow
 status: ai-generated
-character_count: 271
+character_count: 285
 ---
 
 # Low Blow - Ability ID 384
@@ -11,17 +11,16 @@ character_count: 271
 "Attacks with 40BP Feint Attack on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
 
 Low Blow automatically uses a 40 BP Feint Attack when switching in, targeting a random opponent. Dark-type physical attack that never misses and cannot be avoided by evasion boosts. Reduced from the move's normal 80 BP. Excellent for breaking Focus Sash items and Sturdy.
-
-*Character count: 285*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Low Blow is an aggressive entry ability that automatically uses a modified version of Feint Attack when the Pokémon switches into battle, forcing immediate offensive pressure with guaranteed chip damage.
+Low Blow is an aggressive entry ability that automatically uses a modified version of Feint Attack when the Pokemon switches into battle, forcing immediate offensive pressure with guaranteed chip damage.
 
 ### Activation Conditions
 - **Trigger**: Activates immediately upon switching into battle
@@ -74,10 +73,10 @@ Based on the move's implementation:
 
 ### Common Users
 Based on the ability implementation, this is typically found on:
-- Dark-type Pokémon with sneaky or underhanded themes
-- Pokémon with decent Attack stats to maximize damage potential
-- Pivot Pokémon designed to switch in and out frequently
-- Pokémon built for disrupting opponent's strategies
+- Dark-type Pokemon with sneaky or underhanded themes
+- Pokemon with decent Attack stats to maximize damage potential
+- Pivot Pokemon designed to switch in and out frequently
+- Pokemon built for disrupting opponent's strategies
 
 ### Competitive Usage Notes
 - **Chip damage tool**: Provides consistent damage output on switches
@@ -88,7 +87,7 @@ Based on the ability implementation, this is typically found on:
 - **Double battles**: Random targeting can disrupt opponent positioning
 
 ### Synergies
-- **Life Orb**: Boosts the entry move damage significantly (40 BP → 52 BP)
+- **Life Orb**: Boosts the entry move damage significantly (40 BP to 52 BP)
 - **Choice Band**: Increases damage output with Attack boost
 - **Entry hazards**: Stealth Rock + Low Blow creates immediate pressure
 - **Pivot moves**: U-turn/Volt Switch after dealing entry damage
@@ -98,7 +97,7 @@ Based on the ability implementation, this is typically found on:
 ### Counters
 - **Type resistance**: Fighting/Dark/Fairy types take reduced damage
 - **Protective moves**: Protect, Detect, Spiky Shield block the move
-- **High Defense**: Physically defensive Pokémon minimize damage
+- **High Defense**: Physically defensive Pokemon minimize damage
 - **Contact punishment**: Static, Flame Body, Effect Spore abilities
 - **Aftermath**: Can KO the user if Low Blow brings opponent to 1 HP
 - **Rocky Helmet/Rough Skin**: Punishes contact with recoil damage
@@ -113,7 +112,7 @@ Based on the ability implementation, this is typically found on:
 **Tier: B+**
 - Reliable and consistent effect that always provides value
 - Good utility for breaking defensive items and abilities
-- Excellent on pivot Pokémon and offensive teams
+- Excellent on pivot Pokemon and offensive teams
 - Not overpowered due to moderate damage and resistances
 - Solid choice for aggressive team compositions
 

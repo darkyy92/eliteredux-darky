@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder and Hurricane never miss. Activates Swift Swim, Rain Dish, and Dry Skin abilities. Cannot override primal weather conditions.
-
-*Character count: 296*
+Drizzle summons rain weather when the Pokemon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder and Hurricane never miss. Activates Swift Swim, Rain Dish, and Dry Skin abilities. Cannot override primal weather conditions.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,7 +24,7 @@ Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (1
 - **Trigger**: Immediately upon entering battle (onEntry hook)
 - **Duration**: 8 turns standard, 12 turns with Damp Rock
 - **Weather Type**: Regular rain (not heavy rain)
-- **Script**: Displays "{Pokémon} made it rain!" with rain animation
+- **Script**: Displays "{Pokemon} made it rain!" with rain animation
 
 ### Rain Weather Effects:
 1. **Type Modifications**:
@@ -47,7 +45,7 @@ Drizzle summons rain weather when the Pokémon enters battle, lasting 8 turns (1
 ### Interaction Rules:
 - **vs Primal Weather**: Cannot override Desolate Land, Primordial Sea, or Delta Stream. Shows "The extremely harsh sunlight was not lessened at all!" or similar message
 - **vs Other Weather**: Overrides sun, sandstorm, hail, and fog
-- **Multiple Drizzle**: If multiple Pokémon with Drizzle enter simultaneously, speed determines order but only one rain activation occurs
+- **Multiple Drizzle**: If multiple Pokemon with Drizzle enter simultaneously, speed determines order but only one rain activation occurs
 
 ### Technical Implementation:
 ```c

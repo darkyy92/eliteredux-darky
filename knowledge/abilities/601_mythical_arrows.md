@@ -15,8 +15,6 @@ character_count: 297
 
 Arrow moves become special and deal 30% more damage. Affects all 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage using Special Attack stat. Perfect for Aegislash Redux's high Special Attack of 140 (200 as Mega).
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -78,9 +76,9 @@ constexpr Ability MythicalArrows = {
 
 ### Damage Calculations:
 **Mega Aegislash Redux Examples** (200 Special Attack):
-- Blazing Arrow: 120 BP → 156 BP special Fire + 50% burn
-- Venom Bolt: 130 BP → 169 BP special Poison + toxic
-- Lightning Strike: 130 BP → 169 BP special Electric + 30% paralysis
+- Blazing Arrow: 120 BP to 156 BP special Fire + 50% burn
+- Venom Bolt: 130 BP to 169 BP special Poison + toxic
+- Lightning Strike: 130 BP to 169 BP special Electric + 30% paralysis
 
 ### Unique Interactions:
 - **Triple Arrows**: Becomes a special Fighting move with multiple effects

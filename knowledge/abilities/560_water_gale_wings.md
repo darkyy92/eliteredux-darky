@@ -13,9 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Tidal Rush grants Water-type moves +1 priority when the Pokémon is at maximum HP. This powerful offensive ability allows Water-type attackers to strike first with moves like Hydro Pump, Surf, and Aqua Jet. The priority boost disappears once HP drops below maximum, encouraging aggressive play.
-
-*Character count: 299*
+Tidal Rush grants Water-type moves +1 priority when the Pokemon is at maximum HP. This powerful offensive ability allows Water-type attackers to strike first with moves like Hydro Pump, Surf, and Aqua Jet. The priority boost disappears once HP drops below maximum, encouraging aggressive play.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Tidal Rush grants Water-type moves +1 priority when the Pokémon is at maximum H
 Water Gale Wings (displayed as "Tidal Rush" in-game) is a clone of the Gale Wings ability that specifically affects Water-type moves instead of Flying-type moves. The ability implementation uses the `GALE_WINGS_CLONE(TYPE_WATER)` macro.
 
 ### Activation Conditions
-- The Pokémon must be at maximum HP (`BATTLER_MAX_HP(battler)` returns true)
+- The Pokemon must be at maximum HP (`BATTLER_MAX_HP(battler)` returns true)
 - The move being used must be Water-type (checked via `GetTypeBeforeUsingMove(move, battler) == TYPE_WATER`)
 - When both conditions are met, the move receives +1 priority
 

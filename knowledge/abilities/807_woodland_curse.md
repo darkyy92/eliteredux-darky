@@ -13,9 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokémon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.
-
-*Character count: 288*
+Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokemon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Upon entering battle, automatically uses Forest's Curse on a random opponent, ad
 ### Core Mechanics
 Woodland Curse is a dual-trigger ability that operates on two distinct conditions:
 
-1. **Entry Effect**: Automatically uses Forest's Curse (move ID 571) when the Pokémon enters battle
+1. **Entry Effect**: Automatically uses Forest's Curse (move ID 571) when the Pokemon enters battle
 2. **Contact Effect**: Adds Grass typing to opponents that make physical contact
 
 ### Technical Implementation
@@ -58,7 +56,7 @@ ON_EITHER(WoodlandCurse) {
 ### Activation Conditions
 
 #### Entry Effect
-- Activates immediately when Pokémon switches in or battle begins
+- Activates immediately when Pokemon switches in or battle begins
 - No conditions other than successful entry
 
 #### Contact Effect
@@ -70,7 +68,7 @@ ON_EITHER(WoodlandCurse) {
 
 #### Third Type Addition
 - Uses the `type3` field in the battle data structure
-- Pokémon can have up to 3 types simultaneously (type1, type2, type3)
+- Pokemon can have up to 3 types simultaneously (type1, type2, type3)
 - Grass type is added as the third type, not replacing existing types
 - If target already has Grass typing (any of type1, type2, or type3), the effect fails
 
@@ -119,7 +117,7 @@ All moves flagged with `FLAG_CONTACT` trigger the contact effect, including:
 #### Entry Effect
 ```
 Turn 1: Opponent's Swampert (Water/Ground) is on field
-Player sends out Pokémon with Woodland Curse
+Player sends out Pokemon with Woodland Curse
 -> Forest's Curse automatically targets Swampert
 -> Swampert becomes Water/Ground/Grass type
 -> Now weak to Grass moves (4x), Ice moves (4x), Bug moves (2x)
@@ -146,12 +144,12 @@ This is a custom Elite Redux ability, so users depend on the specific ROM hack's
 ### Competitive Usage Notes
 - High-impact entry ability that immediately affects type matchups
 - Contact punishment creates additional pressure on physical attackers  
-- Most effective against defensive Pokémon that rely on type resistances
-- Can backfire if opponent switches to a Pokémon that benefits from Grass typing
+- Most effective against defensive Pokemon that rely on type resistances
+- Can backfire if opponent switches to a Pokemon that benefits from Grass typing
 
 ### Counters
 - Non-contact moves completely avoid the contact effect
-- Grass-type Pokémon are immune to both effects
+- Grass-type Pokemon are immune to both effects
 - Abilities like Long Reach, items like Protective Pads
 - Rapid switching to remove type changes
 - Ability suppression moves (Gastro Acid, etc.)

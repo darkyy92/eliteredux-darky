@@ -5,13 +5,17 @@ status: ai-generated
 character_count: 295
 ---
 
-# Molten Coat (Ability #856)
+# Molten Coat - Ability ID 856
 
-**Short Description:** "Mineralize + Rock moves have 50% burn chance."
+## In-Game Description
+Mineralize + Rock moves have 50% burn chance.
 
-**Extended Description:** This powerful combination ability grants all the effects of Mineralize while adding a dangerous burning effect. Normal-type moves are converted to Rock-type and receive STAB. Additionally, whenever this Pokemon uses any Rock-type move that successfully hits an opponent, there's a 50% chance to inflict a burn on the target. This makes every Rock attack potentially devastating, as opponents must worry about both the immediate damage and the lingering burn effect that reduces their Attack stat and deals chip damage each turn.
+## Extended In-Game Description
+This powerful combination ability grants all the effects of Mineralize while adding a dangerous burning effect. Normal-type moves are converted to Rock-type and receive STAB. Additionally, whenever this Pokemon uses any Rock-type move that successfully hits an opponent, there's a 50% chance to inflict a burn on the target.
 
-## Mechanical Analysis
+## Detailed Mechanical Explanation
+
+### Mechanical Analysis
 
 ### Core Components
 
@@ -47,7 +51,7 @@ constexpr Ability MoltenCoat = {
 
 **Move Conversion:**
 - Normal-type moves become Rock-type and gain STAB
-- Examples: Tackle → Rock-type Tackle, Body Slam → Rock-type Body Slam
+- Examples: Tackle to Rock-type Tackle, Body Slam to Rock-type Body Slam
 - Converted moves maintain their original power and effects
 
 **Burn Application:**
@@ -64,9 +68,9 @@ constexpr Ability MoltenCoat = {
 ### Counterplay
 
 **Type Resistances:**
-- Steel-types resist Rock moves (½× damage)
+- Steel-types resist Rock moves (½x damage)
 - Fire-types resist Rock moves and are immune to burn
-- Flying-types are weak to Rock moves (2× damage)
+- Flying-types are weak to Rock moves (2x damage)
 
 **Status Immunity:**
 - Fire-types cannot be burned

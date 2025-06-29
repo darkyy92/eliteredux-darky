@@ -1,22 +1,21 @@
 ---
 id: 94
-name: Solar Power (94)
+name: Solar Power
 status: ai-generated
-character_count: 419
+character_count: 290
 ---
 
-# Solar Power (94)
+# Solar Power - Ability ID 94
+
+## In-Game Description
+Boosts highest attacking stat by 50% in sun.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Ups highest attacking stat by 1.5x in sun.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Extended In-Game Description
-Solar Power amplifies the user's offensive capabilities in sunny weather by boosting their highest attacking stat by 50%. The ability automatically detects whether Attack or Special Attack is higher and applies the boost to that stat. Works with regular sun, Drought, and Desolate Land conditions. Only affects the Pokémon's attacking power, not their defensive stats or other attributes in battle.
+Boosts highest attacking stat by 50% in sun. Compares Attack vs Special Attack including stat stages and applies 1.5x multiplier to the higher stat. Works with regular sun, Drought, and Desolate Land weather conditions. No HP loss unlike main series. Pure offensive boost with no drawbacks.
 
-Character count: 295
-
-## Effect Summary
+## Detailed Mechanical Explanation
 - Boosts the highest attacking stat (Attack or Special Attack) by 50% in sun
 - Works with all sun conditions (regular, Drought, Desolate Land)
 - No HP loss damage (unlike the main series games)
@@ -73,7 +72,7 @@ constexpr Ability SolarPower = {
 ## Usage Tips
 - Excellent on mixed attackers who can utilize either stat
 - Pairs well with sun setters or teams built around sun
-- Consider Pokémon with naturally high offensive stats to maximize the boost
+- Consider Pokemon with naturally high offensive stats to maximize the boost
 - Works great with weather-based strategies
 
 ## Synergies
@@ -88,8 +87,8 @@ constexpr Ability SolarPower = {
 - Faster attackers to KO before Solar Power user moves
 - Defensive walls that can tank boosted hits
 
-## Example Pokémon
-Solar Power is particularly effective on Pokémon with:
+## Example Pokemon
+Solar Power is particularly effective on Pokemon with:
 - High offensive stats to maximize the percentage boost
 - Good coverage moves to abuse the boost
 - Decent speed to not require priority

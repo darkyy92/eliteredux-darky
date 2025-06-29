@@ -1,25 +1,25 @@
 ---
 id: 189
-name: "Primordial Sea (Ability ID: 189)"
+name: Primordial Sea
 status: ai-generated
-character_count: 262
+character_count: 263
 ---
 
-# Primordial Sea (Ability ID: 189)
+# Primordial Sea - Ability ID 189
 
 ## In-Game Description
 "Heavy Rain until switched out. Fire-type moves are unusable."
 
-## Extended In-Game Description (280-300 chars)
-Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Rain abilities activate.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 286*
+Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Rain abilities activate.
 
 ## Detailed Mechanical Explanation
 **Primordial Sea** creates a special primal weather condition called "Heavy Rain" that provides extreme weather control and Fire-type immunity.
 
 ### Trigger Conditions
-- Activates immediately when the Pokémon enters battle
+- Activates immediately when the Pokemon enters battle
 - Uses `onEntry` hook to set `ENUM_WEATHER_RAIN_PRIMAL` (weather ID 6)
 - Always succeeds unless another primal weather is active
 

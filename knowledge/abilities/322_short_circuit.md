@@ -5,19 +5,13 @@ status: ai-generated
 character_count: 295
 ---
 
-# Short Circuit (Ability #322)
+# Short Circuit - Ability ID 322
 
-## Basic Information
-- **Ability ID**: 322
-- **Name**: Short Circuit
-- **Type**: Offensive Power Boost
-- **Mechanic**: Swarm-type ability for Electric moves
-
-## Current Description
+## In-Game Description
 "Boosts Elec.-type moves by 1.2x, or 1.5x when below 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 Short Circuit functions as a type-specific swarm ability for Electric-type moves. When the Pokemon's HP is above 1/3 of its maximum HP, Electric-type moves receive a 1.2x power boost. When HP drops to 1/3 or below, the boost increases to 1.5x, providing extra power when the Pokemon is weakened.
 
 ## Implementation Details

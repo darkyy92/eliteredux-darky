@@ -13,9 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Grants Flying-type moves +1 priority when the Pokémon is at full HP. Works with any move that becomes Flying-type including ones changed by abilities like Aerilate. Priority boost disappears if HP drops below maximum, even by 1 point. Essential for fast offensive Flying-types.
-
-*Character count: 291*
+Grants Flying-type moves +1 priority when the Pokemon is at full HP. Works with any move that becomes Flying-type including ones changed by abilities like Aerilate. Priority boost disappears if HP drops below maximum, even by 1 point. Essential for fast offensive Flying-types.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Gale Wings is implemented using the GALE_WINGS_CLONE macro with TYPE_FLYING. The
 
 **Conditions for activation:**
 1. The move being used must be Flying-type (checked via GetTypeBeforeUsingMove)
-2. The Pokémon must be at exactly full HP (checked via BATTLER_MAX_HP macro)
+2. The Pokemon must be at exactly full HP (checked via BATTLER_MAX_HP macro)
 
 **Technical details:**
 - GetTypeBeforeUsingMove accounts for type changes from abilities like Aerilate, Pixilate, etc.

@@ -13,14 +13,12 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Pastel Veil automatically sets up Safeguard for the user's team when the Pokémon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions including burn, freeze, paralysis, poison, and sleep. Does not activate if Safeguard is already active.
-
-*Character count: 287*
+Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions including burn, freeze, paralysis, poison, and sleep. Does not activate if Safeguard is already active.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Pastel Veil is an entry ability that automatically activates Safeguard for the user's team when the Pokémon enters battle. The ability implementation:
+Pastel Veil is an entry ability that automatically activates Safeguard for the user's team when the Pokemon enters battle. The ability implementation:
 
 ### Core Mechanics
 1. **Activation Trigger**: Activates on entry (switch-in or battle start)
@@ -36,22 +34,22 @@ Safeguard provides the following protections:
   - Paralysis
   - Poison (including badly poisoned)
   - Sleep
-- **Coverage**: Protects all Pokémon on the user's side of the field
+- **Coverage**: Protects all Pokemon on the user's side of the field
 - **Duration**: Lasts for 5 turns after activation
 - **Interaction**: Does not stack with existing Safeguard
 
 ### Technical Implementation
 - **Function**: `PastelVeil` with `onEntry` trigger
 - **Battle Script**: Uses `BattleScript_PastelVeilActivated`
-- **Message**: "{Pokémon}'s Pastel Veil set up Safeguard!"
+- **Message**: "{Pokemon}'s Pastel Veil set up Safeguard!"
 - **AI Scoring**: Treated as `AI_SCORE_SAFEGUARD` by battle AI
 
 ### Usage Notes
-- Excellent for lead Pokémon to provide team-wide status protection
+- Excellent for lead Pokemon to provide team-wide status protection
 - Particularly valuable against status-heavy teams
 - Can be used strategically to protect setup sweepers
-- Multiple Pokémon with Pastel Veil won't stack the effect
+- Multiple Pokemon with Pastel Veil won't stack the effect
 - Works well with other entry abilities for comprehensive team support
 
-### Pokémon Distribution
-Available as both a regular ability and innate ability on various Pokémon throughout Elite Redux, often found on Fairy-type and support-oriented Pokémon.
+### Pokemon Distribution
+Available as both a regular ability and innate ability on various Pokemon throughout Elite Redux, often found on Fairy-type and support-oriented Pokemon.

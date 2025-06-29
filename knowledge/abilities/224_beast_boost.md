@@ -15,8 +15,6 @@ character_count: 298
 
 Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing raw stats without current battle modifiers. Works across all battle formats and accumulates multiple boosts per battle. Essential for snowballing momentum.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -47,10 +45,10 @@ The ability uses `GetHighestStatId(battler, FALSE)` where `FALSE` means it doesn
 HP is excluded from consideration. The stat with the highest raw value gets boosted by one stage.
 
 ### Stat Priority Examples
-- **Physical Attacker**: If Attack is highest → Attack +1 stage
-- **Fast Sweeper**: If Speed is highest → Speed +1 stage  
-- **Mixed Attacker**: If Special Attack is highest → Special Attack +1 stage
-- **Defensive Wall**: If Defense/Special Defense is highest → that defensive stat +1 stage
+- **Physical Attacker**: If Attack is highest to Attack +1 stage
+- **Fast Sweeper**: If Speed is highest to Speed +1 stage  
+- **Mixed Attacker**: If Special Attack is highest to Special Attack +1 stage
+- **Defensive Wall**: If Defense/Special Defense is highest to that defensive stat +1 stage
 
 ### Accumulation
 - Multiple KOs = multiple boosts
@@ -65,8 +63,8 @@ HP is excluded from consideration. The stat with the highest raw value gets boos
 - **Stakataka** - Often boosts Defense or Attack
 
 **Other Notable Users**:
-- Some Elite Redux modified Pokémon with Beast Boost as hidden/innate ability
-- Various legendary and pseudo-legendary Pokémon in trainer teams
+- Some Elite Redux modified Pokemon with Beast Boost as hidden/innate ability
+- Various legendary and pseudo-legendary Pokemon in trainer teams
 
 ### Strategic Applications
 1. **Late-Game Sweeping**: Accumulate boosts by KOing weaker opponents first
@@ -96,16 +94,16 @@ HP is excluded from consideration. The stat with the highest raw value gets boos
 ### Version History
 - Originally from Generation VII (Sun/Moon) as Ultra Beast signature ability
 - Elite Redux implementation maintains core mechanics while expanding distribution
-- Enhanced with 4-ability system compatibility as innate ability on some Pokémon
+- Enhanced with 4-ability system compatibility as innate ability on some Pokemon
 
 ### Damage Calculation Examples
-**Base Attack 130 Pokémon:**
+**Base Attack 130 Pokemon:**
 - No boosts: 130 Attack
 - +1 Beast Boost: 195 Attack (50% increase)  
 - +2 Beast Boost: 260 Attack (100% increase)
 - +3 Beast Boost: 325 Attack (150% increase)
 
-**Base Speed 110 Pokémon:**
+**Base Speed 110 Pokemon:**
 - No boosts: 110 Speed
 - +1 Beast Boost: 165 Speed
 - +2 Beast Boost: 220 Speed  

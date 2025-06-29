@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Crust Coat provides comprehensive defensive protection by making the Pokémon immune to critical hits and reducing all incoming damage by 20%. This dual defense mechanism is particularly effective against high-critical-hit-ratio moves and strong attackers, making it excellent for tanky builds.
-
-*Character count: 293*
+Crust Coat provides comprehensive defensive protection by making the Pokemon immune to critical hits and reducing all incoming damage by 20%. This dual defense mechanism is particularly effective against high-critical-hit-ratio moves and strong attackers, making it excellent for tanky builds.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -43,7 +41,7 @@ constexpr Ability CrustCoat = {
 
 ### Damage Calculation Example
 - **Base Damage**: 100 HP
-- **With Crust Coat**: 100 × 0.8 = 80 HP (20% reduction)
+- **With Crust Coat**: 100 x 0.8 = 80 HP (20% reduction)
 - **Potential Critical Hit**: Blocked entirely, no additional damage
 
 ### Interactions with Other Mechanics
@@ -70,7 +68,7 @@ constexpr Ability CrustCoat = {
 ### Strategic Implications
 
 #### Defensive Applications
-- **Tank Builds**: Excellent for bulky Pokémon focused on stalling and support
+- **Tank Builds**: Excellent for bulky Pokemon focused on stalling and support
 - **Critical Hit Meta Counter**: Directly counters teams relying on critical hit strategies
 - **Consistent Damage Calculation**: Eliminates critical hit variance for reliable HP calculations
 - **Entry Hazard Resistance**: Reduces Stealth Rock and spike damage by 20%
@@ -81,7 +79,7 @@ constexpr Ability CrustCoat = {
 - **Anti-Sweep Protection**: Makes it harder for setup sweepers to break through
 
 ### Common Users
-Based on the codebase analysis, Crust Coat appears as an innate ability on certain Pokémon, suggesting it's used on defensive-oriented species that benefit from both critical hit immunity and damage reduction.
+Based on the codebase analysis, Crust Coat appears as an innate ability on certain Pokemon, suggesting it's used on defensive-oriented species that benefit from both critical hit immunity and damage reduction.
 
 ### Counters and Limitations
 

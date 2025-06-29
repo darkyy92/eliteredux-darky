@@ -15,8 +15,6 @@ character_count: 289
 
 Pressure doubles PP usage of opposing moves and clears all stat buffs on entry. Pressure bearer keeps their stat drops while removing positive buffs from all opponents. Opposing moves cost 2 PP instead of 1, accelerating resource depletion. Displays "is exerting its pressure!" upon entry.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -100,13 +98,13 @@ if (!BATTLER_HAS_ABILITY(attacker, ABILITY_PRESSURE) &&
 - **Choice Items**: Pressure bearers can force opponents to struggle faster
 
 ### Notable Users:
-- Many legendary Pokémon have Pressure as their signature ability
-- Commonly appears on defensive walls and stall Pokémon
-- Particularly effective on Pokémon with access to recovery moves
+- Many legendary Pokemon have Pressure as their signature ability
+- Commonly appears on defensive walls and stall Pokemon
+- Particularly effective on Pokemon with access to recovery moves
 
 ### Calculations:
-- **Standard Move (24 PP)**: Lasts 24 turns → 12 turns vs Pressure
-- **Low PP Move (8 PP)**: Lasts 8 turns → 4 turns vs Pressure  
+- **Standard Move (24 PP)**: Lasts 24 turns to 12 turns vs Pressure
+- **Low PP Move (8 PP)**: Lasts 8 turns to 4 turns vs Pressure  
 - **Two Pressure Users**: Opponent moves cost 3 PP each (1 base + 2 pressure)
 
 ### Version History:

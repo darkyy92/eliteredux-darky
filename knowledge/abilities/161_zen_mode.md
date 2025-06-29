@@ -2,23 +2,20 @@
 id: 161
 name: Zen Mode
 status: ai-generated
-character_count: 293
+character_count: 285
 ---
 
-# Zen Mode (ID: 161)
+# Zen Mode - Ability ID 161
 
-## Basic Info
-- **Name**: Zen Mode
-- **ID**: 161  
-- **Enum**: ABILITY_ZEN_MODE
-- **Description**: "Transforms into Zen Mode on entry until end of battle."
+## In-Game Description
+"Transforms into Zen Mode on entry until end of battle."
 
 ## Extended In-Game Description
-Zen Mode triggers permanent form change upon battle entry. Unlike HP-based transformations, this activates unconditionally when entering battle. The transformation lasts the entire battle and cannot be reversed. Works with Darmanitan forms, changing stats, typing, and movepool.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-**Character count: 293**
+Zen Mode triggers permanent form change upon battle entry. Unlike HP-based transformations, this activates unconditionally when entering battle. The transformation lasts the entire battle and cannot be reversed. Works with Darmanitan forms, changing stats, typing, and complete movepool access.
 
-## Implementation Analysis
+## Detailed Mechanical Explanation
 
 ### Core Mechanics
 ```cpp
@@ -60,16 +57,16 @@ if (species == SPECIES_DARMANITAN_GALARIAN && (BattlerHasAbility(battler, ABILIT
 ```
 
 ### Supported Transformations
-1. **SPECIES_DARMANITAN** → **SPECIES_DARMANITAN_ZEN_MODE**
-   - Type: Fire → Fire/Psychic
-   - Stats: Physical attacker → Special attacker
-   - Attack: 140 → 35, Special Attack: 50 → 140
+1. **SPECIES_DARMANITAN** to **SPECIES_DARMANITAN_ZEN_MODE**
+   - Type: Fire to Fire/Psychic
+   - Stats: Physical attacker to Special attacker
+   - Attack: 140 to 35, Special Attack: 50 to 140
    - Different ability set and movepool
 
-2. **SPECIES_DARMANITAN_GALARIAN** → **SPECIES_DARMANITAN_ZEN_MODE_GALARIAN**
-   - Type: Ice → Ice/Fire  
-   - Stats: Balanced → Speed-focused
-   - Speed: 95 → 140, Attack: 140 → 120
+2. **SPECIES_DARMANITAN_GALARIAN** to **SPECIES_DARMANITAN_ZEN_MODE_GALARIAN**
+   - Type: Ice to Ice/Fire  
+   - Stats: Balanced to Speed-focused
+   - Speed: 95 to 140, Attack: 140 to 120
    - Different ability set and movepool
 
 ## Usage Patterns
@@ -106,23 +103,23 @@ if (species == SPECIES_DARMANITAN_GALARIAN && (BattlerHasAbility(battler, ABILIT
 - **vs Shields Down**: Zen Mode isn't HP-based, triggers unconditionally
 
 ### Form Differences
-**Regular Darmanitan → Zen Mode:**
-- HP: 105 → 105 (unchanged)
-- Attack: 140 → 35 (-105)
-- Defense: 65 → 95 (+30)
-- Sp. Attack: 50 → 140 (+90)
-- Sp. Defense: 65 → 95 (+30)
-- Speed: 95 → 50 (-45)
-- Typing: Fire → Fire/Psychic
+**Regular Darmanitan to Zen Mode:**
+- HP: 105 to 105 (unchanged)
+- Attack: 140 to 35 (-105)
+- Defense: 65 to 95 (+30)
+- Sp. Attack: 50 to 140 (+90)
+- Sp. Defense: 65 to 95 (+30)
+- Speed: 95 to 50 (-45)
+- Typing: Fire to Fire/Psychic
 
-**Galarian Darmanitan → Zen Mode:**
-- HP: 105 → 105 (unchanged)
-- Attack: 140 → 120 (-20)
-- Defense: 65 → 60 (-5)
-- Sp. Attack: 50 → 35 (-15)
-- Sp. Defense: 65 → 60 (-5)
-- Speed: 95 → 140 (+45)
-- Typing: Ice → Ice/Fire
+**Galarian Darmanitan to Zen Mode:**
+- HP: 105 to 105 (unchanged)
+- Attack: 140 to 120 (-20)
+- Defense: 65 to 60 (-5)
+- Sp. Attack: 50 to 35 (-15)
+- Sp. Defense: 65 to 60 (-5)
+- Speed: 95 to 140 (+45)
+- Typing: Ice to Ice/Fire
 
 ## Integration Notes
 

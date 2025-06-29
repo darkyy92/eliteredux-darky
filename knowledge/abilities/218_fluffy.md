@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fluffy fur reduces damage from physical contact moves by 50%, making the Pokémon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
-
-*Character count: 295*
+Fluffy fur reduces damage from physical contact moves by 50%, making the Pokemon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,7 +24,7 @@ Fluffy fur reduces damage from physical contact moves by 50%, making the Pokémo
 - **Breakable**: Can be suppressed by abilities like Mold Breaker, Teravolt, Turboblaze
 
 ### Activation Conditions
-- Contact move reduction triggers when the Pokémon is hit by any move with the contact flag
+- Contact move reduction triggers when the Pokemon is hit by any move with the contact flag
 - Fire vulnerability applies to all Fire-type moves regardless of contact status
 - Both effects are passive and automatic
 
@@ -74,16 +72,16 @@ constexpr Ability Fluffy = {
 - Ability suppression removes all benefits while keeping Fire weakness
 
 ### Example Damage Calculations
-Against a Pokémon with Fluffy:
-- **Tackle (contact)**: 100 base damage → 50 damage (50% reduction)
-- **Flamethrower (Fire, non-contact)**: 90 base damage → 180 damage (2x Fire weakness)
-- **Fire Punch (Fire + contact)**: 75 base damage → 150 damage (Fire weakness applied, contact reduction ignored for Fire moves)
-- **Earthquake (non-contact)**: 100 base damage → 100 damage (no modifier)
+Against a Pokemon with Fluffy:
+- **Tackle (contact)**: 100 base damage to 50 damage (50% reduction)
+- **Flamethrower (Fire, non-contact)**: 90 base damage to 180 damage (2x Fire weakness)
+- **Fire Punch (Fire + contact)**: 75 base damage to 150 damage (Fire weakness applied, contact reduction ignored for Fire moves)
+- **Earthquake (non-contact)**: 100 base damage to 100 damage (no modifier)
 
 ### Common Users
 - **Stufful line**: Stufful and Bewear are the primary users in mainline games
-- **Defensive Pokémon**: Works best on bulky Pokémon that can capitalize on the contact reduction
-- **Mixed walls**: Particularly effective on Pokémon with good special bulk to compensate for Fire weakness
+- **Defensive Pokemon**: Works best on bulky Pokemon that can capitalize on the contact reduction
+- **Mixed walls**: Particularly effective on Pokemon with good special bulk to compensate for Fire weakness
 
 ### Competitive Usage Notes
 - **Team building**: Requires Fire-type switch-ins or resists

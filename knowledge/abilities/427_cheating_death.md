@@ -15,8 +15,6 @@ character_count: 286
 
 Negates all damage for the first 2 hits received. Works exactly like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -27,7 +25,7 @@ Cheating Death is a defensive ability that provides complete damage immunity for
 - **Hit counter**: Blocks damage for the first 2 hits received in battle
 - **Damage type requirement**: Only blocks direct attack damage
 - **Persistence**: Counter persists across switches (`.persistent = TRUE`)
-- **Per-Pokémon basis**: Each Pokémon has its own 2-hit counter
+- **Per-Pokemon basis**: Each Pokemon has its own 2-hit counter
 
 ### Technical Implementation
 ```cpp
@@ -122,8 +120,8 @@ else if (gBattleMoveDamage > 0 && !(gHitMarker & HITMARKER_PASSIVE_DAMAGE) && Re
 - No vanilla equivalent - unique defensive mechanism
 
 ### Technical Notes
-- **Counter storage**: Persistent per Pokémon in party
+- **Counter storage**: Persistent per Pokemon in party
 - **Battle reset**: Counters reset between battles
-- **Double battles**: Each Pokémon has independent counters
+- **Double battles**: Each Pokemon has independent counters
 - **Forme changes**: Counter persists through forme changes
 - **Ability changes**: Losing ability doesn't reset counter

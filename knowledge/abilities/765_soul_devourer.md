@@ -13,9 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokémon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokémon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
-
-*Character count: 287*
+Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokemon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokemon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,15 +23,15 @@ Soul Devourer is a hybrid ability that grants two distinct effects by combining 
 ### Core Mechanics
 
 **Soul Eater Component:**
-- **Healing Effect**: When this Pokémon knocks out an opponent with any damaging move, it recovers 25% of its maximum HP
+- **Healing Effect**: When this Pokemon knocks out an opponent with any damaging move, it recovers 25% of its maximum HP
 - **Trigger Condition**: Must directly cause the opponent to faint with an attack
 - **Healing Requirements**: Must not be at full HP and must be able to heal (not affected by Heal Block)
 - **Battle Script**: Uses `BattleScript_HandleSoulEaterEffect` which calls `tryhealpercenthealth BS_STACK_1, 25`
 
 **Phantom Pain Component:**
-- **Type Effectiveness Modification**: Ghost-type moves can hit Normal-type Pokémon
+- **Type Effectiveness Modification**: Ghost-type moves can hit Normal-type Pokemon
 - **Effectiveness Value**: Changes Ghost vs Normal from 0x (no effect) to 1x (normal effectiveness)
-- **Scope**: Only affects Ghost-type moves against Normal-type Pokémon
+- **Scope**: Only affects Ghost-type moves against Normal-type Pokemon
 
 ### Technical Implementation
 
@@ -93,11 +91,11 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 - Cannot be at maximum HP
 - Must not be affected by Heal Block
 - Works with any damaging move type
-- Applies to the attacking Pokémon only
+- Applies to the attacking Pokemon only
 
 **Type Effectiveness Trigger:**
 - Only affects Ghost-type moves
-- Only modifies effectiveness against Normal-type Pokémon
+- Only modifies effectiveness against Normal-type Pokemon
 - Changes 0x effectiveness to 1x effectiveness
 - Does not affect other type matchups
 
@@ -110,13 +108,13 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 ### Strategic Implications
 
 **Offensive Advantages:**
-- Enables Ghost-type moves to hit Normal-type Pokémon, removing a key immunity
+- Enables Ghost-type moves to hit Normal-type Pokemon, removing a key immunity
 - Provides sustain for sweep scenarios through healing on KO
 - Excellent for prolonged battles and consecutive matchups
-- Allows Ghost-type Pokémon to threaten Normal-types directly
+- Allows Ghost-type Pokemon to threaten Normal-types directly
 
 **Competitive Usage:**
-- Ideal for bulky offensive Pokémon that can secure KOs
+- Ideal for bulky offensive Pokemon that can secure KOs
 - Synergizes well with multi-target moves in doubles
 - Provides both offensive utility and defensive sustain
 - Particularly valuable against Normal-type walls
@@ -150,19 +148,19 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 - Keeping the user at full HP negates healing trigger
 
 **Type Effectiveness Counters:**
-- Dark-type Pokémon resist Ghost moves regardless
-- Steel-type Pokémon resist Ghost moves
-- Other Ghost-type Pokémon are immune to Ghost moves (unaffected by Phantom Pain)
+- Dark-type Pokemon resist Ghost moves regardless
+- Steel-type Pokemon resist Ghost moves
+- Other Ghost-type Pokemon are immune to Ghost moves (unaffected by Phantom Pain)
 
 ### Example Damage Calculations
 
 **Ghost vs Normal with Soul Devourer:**
-- Base damage × 1.0 (instead of × 0.0)
+- Base damage x 1.0 (instead of x 0.0)
 - Example: Shadow Ball vs Blissey becomes neutral damage instead of no effect
-- Allows Ghost-type Pokémon to threaten Normal-type walls
+- Allows Ghost-type Pokemon to threaten Normal-type walls
 
 **Healing Calculation:**
-- Example: Pokémon with 400 max HP recovers 100 HP on each KO
+- Example: Pokemon with 400 max HP recovers 100 HP on each KO
 - Minimum healing: 1 HP (if max HP ≤ 4)
 - Maximum healing: 25% of max HP up to practical HP limits
 

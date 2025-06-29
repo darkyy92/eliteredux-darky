@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Chrome Coat provides substantial special defensive bulk by reducing all incoming special attack damage by 40%. This reflective metallic coating comes at the cost of mobility, decreasing the Pokémon's Speed stat by 10%. Perfect for defensive tanks that need to wall special attackers consistently.
-
-*Character count: 296*
+Chrome Coat provides substantial special defensive bulk by reducing all incoming special attack damage by 40%. This reflective metallic coating comes at the cost of mobility, decreasing the Pokemon's Speed stat by 10%. Perfect for defensive tanks that need to wall special attackers consistently.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,12 +22,12 @@ Chrome Coat is a defensive ability that provides significant protection against 
 
 ### Core Mechanics
 - **Special Damage Reduction**: Reduces all incoming special attack damage by 40% (multiplies damage by 0.6)
-- **Speed Penalty**: Reduces the Pokémon's Speed stat by 10% (multiplies by 0.9)
+- **Speed Penalty**: Reduces the Pokemon's Speed stat by 10% (multiplies by 0.9)
 - **Breakable**: Can be suppressed by Mold Breaker, Teravolt, Turboblaze, and similar abilities
 
 ### Activation Conditions
-- Special damage reduction applies to ALL special moves that target the Pokémon
-- Speed reduction is a permanent stat modification while the Pokémon has this ability
+- Special damage reduction applies to ALL special moves that target the Pokemon
+- Speed reduction is a permanent stat modification while the Pokemon has this ability
 - Both effects are active simultaneously
 
 ### Technical Implementation
@@ -53,18 +51,18 @@ All special moves are affected by the damage reduction, including:
 ### Interactions with Other Abilities/Mechanics
 - **Stacks multiplicatively** with other damage reduction effects (Multiscale, Filter, Solid Rock)
 - Speed reduction stacks with other speed modifiers (paralysis, Choice Scarf, etc.)
-- Can be suppressed by Mold Breaker variants, making the Pokémon lose both benefits and drawbacks
+- Can be suppressed by Mold Breaker variants, making the Pokemon lose both benefits and drawbacks
 - Works with Assault Vest for maximum special bulk
 - Speed reduction affects turn order calculations
 
 ### Strategic Implications
 **Advantages:**
 - Exceptional special wall capabilities
-- Allows frail Pokémon to survive powerful special attacks
+- Allows frail Pokemon to survive powerful special attacks
 - Great for pivoting and absorbing hits
 
 **Disadvantages:**
-- Speed reduction makes the Pokémon slower and more vulnerable to being outsped
+- Speed reduction makes the Pokemon slower and more vulnerable to being outsped
 - No protection against physical attacks
 - The speed penalty can prevent effective revenge killing
 
@@ -76,8 +74,8 @@ Against a 252 SpA Modest Charizard Solar Beam (120 BP) on a 252 HP/252 SpD Bold 
 ### Common Users
 Chrome Coat is typically found on:
 - Defensive Steel-types that can afford the speed loss
-- Bulky support Pokémon that prioritize survivability
-- Pokémon designed for Trick Room teams where speed reduction is beneficial
+- Bulky support Pokemon that prioritize survivability
+- Pokemon designed for Trick Room teams where speed reduction is beneficial
 
 ### Competitive Usage Notes
 - **Best suited for**: Defensive/support roles, Trick Room teams

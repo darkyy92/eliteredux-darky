@@ -15,13 +15,11 @@ character_count: 286
 
 Elude replaces Defense or Special Defense with Speed when taking damage from non-contact moves. Works with projectiles, special attacks, and ranged moves like Water Gun, Psychic, or Rock Slide. Perfect complement to Blur ability.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Defensive Stat Substitution**: When the Pokémon with Elude is hit by a non-contact move, the game uses its Speed stat instead of Defense or Special Defense for damage calculation
+- **Defensive Stat Substitution**: When the Pokemon with Elude is hit by a non-contact move, the game uses its Speed stat instead of Defense or Special Defense for damage calculation
 - **Non-Contact Move Detection**: Uses the `IsMoveMakingContact()` function with `CHECK_NOT()` logic - only activates when `gBattleMoves[move].contact = FALSE`
 - **Stat Application**: Returns `STAT_SPEED` from the `onChooseDefensiveStat` callback when conditions are met
 
@@ -62,8 +60,8 @@ constexpr Ability Elude = {
 ### Moves That DON'T Trigger Elude
 - All contact moves (Tackle, Punch moves, Bite, etc.)
 - Moves affected by Long Reach ability
-- Moves used by Pokémon with Protective Pads item
-- Punching moves used by Pokémon with Punching Glove item
+- Moves used by Pokemon with Protective Pads item
+- Punching moves used by Pokemon with Punching Glove item
 
 ### Interactions with Other Abilities/Mechanics
 - **Blur Ability (ID 809)**: Perfect complement - Blur uses Speed for contact moves, Elude for non-contact
@@ -73,13 +71,13 @@ constexpr Ability Elude = {
 - **Stat Modifications**: Uses current Speed stat including all modifications (boosts, items, etc.)
 
 ### Strategic Implications
-- **Defensive Versatility**: Allows fast Pokémon to tank both contact and non-contact moves effectively
+- **Defensive Versatility**: Allows fast Pokemon to tank both contact and non-contact moves effectively
 - **Speed Investment**: Makes Speed EV investment serve dual purpose (offense and defense)
 - **Synergy Potential**: Can be paired with Blur for complete defensive coverage
 - **Setup Sweeper Support**: Protects fragile but fast setup sweepers from special attacks
 
 ### Damage Calculation Examples
-**Example Pokémon with Elude:**
+**Example Pokemon with Elude:**
 - Speed: 120
 - Defense: 70  
 - Special Defense: 80
@@ -92,13 +90,13 @@ constexpr Ability Elude = {
 - Uses normal Defense (70) - Elude doesn't activate
 
 ### Common Users
-Based on the codebase, Elude appears on several Pokémon as both regular and innate abilities, typically on fast but fragile Pokémon that benefit from using their high Speed for defense.
+Based on the codebase, Elude appears on several Pokemon as both regular and innate abilities, typically on fast but fragile Pokemon that benefit from using their high Speed for defense.
 
 ### Competitive Usage Notes
-- **Role Compression**: Allows offensive Pokémon to be surprisingly bulky
+- **Role Compression**: Allows offensive Pokemon to be surprisingly bulky
 - **Prediction Dependent**: Opponent must choose between contact and non-contact moves carefully
 - **Item Synergy**: Works well with Choice items, Focus Sash, or Life Orb on fast attackers
-- **Team Building**: Pairs excellently with Pokémon that have complementary defensive abilities
+- **Team Building**: Pairs excellently with Pokemon that have complementary defensive abilities
 
 ### Counters
 - **Mixed Attackers**: Use both contact and non-contact moves to exploit whichever defensive stat is lower

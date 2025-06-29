@@ -13,15 +13,13 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When hit by Fire or Flying-type moves, this Pokémon inflates like a balloon, boosting both Defense and Special Defense by one stage each. The defensive boost applies immediately after taking damage, making the Pokémon more resilient to follow-up attacks. Perfect for bulky Pokémon that can capitalize on the stat increases.
-
-*Character count: 297*
+When hit by Fire or Flying-type moves, this Pokemon inflates like a balloon, boosting both Defense and Special Defense by one stage each. The defensive boost applies immediately after taking damage, making the Pokemon more resilient to follow-up attacks. Perfect for bulky Pokemon that can capitalize on the stat increases.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Trigger**: Activates when the Pokémon is hit by any Fire-type or Flying-type move
+- **Trigger**: Activates when the Pokemon is hit by any Fire-type or Flying-type move
 - **Effect**: Raises both Defense and Special Defense by +1 stage each
 - **Timing**: Activates after damage calculation but before the move's secondary effects
 
@@ -68,7 +66,7 @@ constexpr Ability Inflatable = {
 - **Multi-hit moves**: Activates only once per turn, not per hit
 
 ### Strategic Implications
-- **Defensive Pivoting**: Excellent for bulky Pokémon that can switch into Fire/Flying attacks
+- **Defensive Pivoting**: Excellent for bulky Pokemon that can switch into Fire/Flying attacks
 - **Setup Opportunities**: Creates immediate defensive bulk for further setup
 - **Counter Strategy**: Works well against common offensive types
 - **Momentum Shifts**: Can turn predicted Fire/Flying attacks into advantageous situations
@@ -87,7 +85,7 @@ After Inflatable activation (+1 Def):
 - **Munchlax Redux**: Water-type tank with Soundproof alternative
 
 ### Competitive Usage Notes
-- **Best on**: Bulky Pokémon that can survive the initial hit and capitalize on boosts
+- **Best on**: Bulky Pokemon that can survive the initial hit and capitalize on boosts
 - **Synergizes with**: Recovery moves, Stored Power, other stat-boosting abilities
 - **Timing**: Most effective when opponent is locked into Fire/Flying moves
 - **Prediction**: Rewards good prediction and switching skills
@@ -102,7 +100,7 @@ After Inflatable activation (+1 Def):
 - **Stored Power**: Benefits from the defensive stat boosts
 - **Body Press**: Defense boosts increase offensive power
 - **Recovery moves**: Defensive bulk helps with healing strategies
-- **Eviolite**: Stacks with natural defensive boosts on NFE Pokémon
+- **Eviolite**: Stacks with natural defensive boosts on NFE Pokemon
 
 ### Version History
 - Introduced in Elite Redux as a defensive reaction ability

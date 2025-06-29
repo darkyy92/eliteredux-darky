@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Volt Rush grants +1 priority to all Electric-type moves when the Pokémon is at full HP. Works with all Electric moves including special and physical attacks. Priority is lost immediately when HP drops below maximum. Returns when HP is restored to full through healing moves or items.
-
-*Character count: 289*
+Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP. Works with all Electric moves including special and physical attacks. Priority is lost immediately when HP drops below maximum. Returns when HP is restored to full through healing moves or items.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Volt Rush grants +1 priority to all Electric-type moves when the Pokémon is at 
 Volt Rush is a priority-boosting ability that functions identically to Gale Wings but specifically for Electric-type moves. It provides a significant speed advantage by allowing Electric moves to strike first, but only when the user maintains perfect health.
 
 ### Activation Conditions
-- **HP requirement**: Pokémon must be at exactly full HP (100% of max HP)
+- **HP requirement**: Pokemon must be at exactly full HP (100% of max HP)
 - **Move type**: Only affects Electric-type moves
 - **Priority boost**: Adds exactly +1 to move priority
 - **Immediate loss**: Priority bonus is lost the instant HP drops below maximum
@@ -56,9 +54,9 @@ constexpr Ability VoltRush = {
 - **Status conditions**: Burn, poison, and other damage-over-time effects disable priority
 
 ### Priority System Integration
-- **Normal moves**: 0 priority → Electric moves get +1 priority at full HP
-- **Quick Attack**: +1 priority → Electric moves match this speed tier
-- **Extreme Speed**: +2 priority → Still faster than Volt Rush Electric moves
+- **Normal moves**: 0 priority to Electric moves get +1 priority at full HP
+- **Quick Attack**: +1 priority to Electric moves match this speed tier
+- **Extreme Speed**: +2 priority to Still faster than Volt Rush Electric moves
 - **Within same priority**: Speed stats determine order as normal
 
 ### HP Management Considerations
@@ -76,7 +74,7 @@ constexpr Ability VoltRush = {
 - **Team support**: Benefits from hazard control and healing support
 
 ### Common Users
-Electric-type Pokémon that want to leverage priority for:
+Electric-type Pokemon that want to leverage priority for:
 - **Revenge killing**: Finishing off weakened opponents
 - **Speed control**: Outpacing naturally faster threats
 - **First-turn advantage**: Getting crucial moves off before taking damage
@@ -86,7 +84,7 @@ Electric-type Pokémon that want to leverage priority for:
 - **Hazard weakness**: Stealth Rock severely limits switch-in opportunities
 - **One-time use**: Often only effective once per battle due to HP requirement
 - **Type coverage**: Limited to Electric moves reduces coverage options
-- **Speed tier relevance**: Most valuable on naturally slower Pokémon
+- **Speed tier relevance**: Most valuable on naturally slower Pokemon
 - **Item synergy**: Focus Sash can preserve HP for one crucial turn
 
 ### Counters

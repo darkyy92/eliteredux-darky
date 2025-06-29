@@ -15,8 +15,6 @@ character_count: 286
 
 Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage, allowing for potential revenge kills or escapes. Works with both direct attacks and indirect damage like entry hazards.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

@@ -15,8 +15,6 @@ character_count: 296
 
 Puffy reduces damage from contact moves by 50%, providing excellent protection against physical attackers. However, Fire-type moves deal double damage to Puffy users, creating a significant vulnerability. The contact protection works against all physical contact moves.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -75,7 +73,7 @@ Uses `IsMoveMakingContact(move, attacker)` which checks:
 
 **Type Effectiveness Stacking:**
 - Fire vulnerability stacks with type effectiveness
-- Fire vs Grass (Popcorm): 2x (type) × 2x (Puffy) = 4x total damage
+- Fire vs Grass (Popcorm): 2x (type) x 2x (Puffy) = 4x total damage
 - Contact reduction applies after type effectiveness calculation
 
 ### Damage Calculation Example

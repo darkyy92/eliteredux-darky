@@ -1,22 +1,23 @@
 ---
 id: 334
-name: "Bad Luck (ID: 334)"
+name: Bad Luck
 status: ai-generated
-character_count: 263
+character_count: 283
 ---
 
-# Bad Luck (ID: 334)
+# Bad Luck - Ability ID 334
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+## In-Game Description
 "Foes can't crit, deal min damage, and have no effect chance."
 
-## Extended In-Game Description (280-300 chars)
-"Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch/stat drop chances. Extremely defensive."
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 287*
+Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch/stat drop chances. Makes incoming damage highly predictable.
 
-## Implementation Details
+## Detailed Mechanical Explanation
+
+### Implementation Details
 
 ### Mechanics
 1. **Prevents Critical Hits**: Opponents cannot land critical hits at all
@@ -39,7 +40,6 @@ character_count: 263
 - Abra Redux line (as innate)
 - Various other Pokemon with defensive builds
 
-### Character Count: 251
 
 ## Notes
 - One of the most powerful defensive abilities in the game

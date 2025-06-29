@@ -2,21 +2,20 @@
 id: 128
 name: Defiant
 status: ai-generated
-character_count: 299
+character_count: 300
 ---
 
-# Defiant (Ability #128)
+# Defiant - Ability ID 128
 
-## Short Description
-Raises Attack by two stages if stats are lowered by an enemy.
+## In-Game Description
+"Raises Attack by two stages if stats are lowered by an enemy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Defiant triggers when any of the Pokémon's stats are lowered by an opponent, immediately boosting Attack by two stages in retaliation. Activates from direct stat drops, moves like Intimidate, and stat-lowering secondary effects. Cannot activate if Attack is already at maximum. Stacks with other boosts.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Character count: 299
+Defiant triggers when any of the Pokemon's stats are lowered by an opponent, immediately boosting Attack by two stages in retaliation. Activates from direct stat drops, Intimidate, and stat-lowering secondary effects. Cannot activate if Attack is at maximum. Stacks with other boosts.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Trigger Conditions
 - **Stat Drop Source**: Only triggers when stats are lowered by an opponent (not self-inflicted)

@@ -15,8 +15,6 @@ character_count: 289
 
 Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When the Pokemon drops below 1/3 of its maximum HP, the boost increases to 1.8x damage. This works with any Rock-type move regardless of category. The ability activates automatically based on current HP percentage.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -79,12 +77,12 @@ All Rock-type moves benefit from this ability, including but not limited to:
 
 ### Example Damage Calculations
 **Stone Edge (Base Power 100) vs neutral target:**
-- Normal HP: 100 × 1.3 = 130 effective base power
-- Below 1/3 HP: 100 × 1.8 = 180 effective base power
+- Normal HP: 100 x 1.3 = 130 effective base power
+- Below 1/3 HP: 100 x 1.8 = 180 effective base power
 
 **With STAB (Rock-type user):**
-- Normal HP: 100 × 1.5 × 1.3 = 195 effective base power
-- Below 1/3 HP: 100 × 1.5 × 1.8 = 270 effective base power
+- Normal HP: 100 x 1.5 x 1.3 = 195 effective base power
+- Below 1/3 HP: 100 x 1.5 x 1.8 = 270 effective base power
 
 ### Common Users
 - **Ogerpon Cornerstone Mega**: The primary user as an innate ability

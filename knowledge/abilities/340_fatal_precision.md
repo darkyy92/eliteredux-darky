@@ -2,14 +2,24 @@
 id: 340
 name: Fatal Precision
 status: ai-generated
-character_count: 0
+character_count: 295
 ---
 
-# Fatal Precision (Ability #340)
+# Fatal Precision - Ability ID 340
 
-## Overview
+## In-Game Description
+"Super-effective moves never miss and always crit."
 
-Fatal Precision is an Elite Redux-exclusive ability that ensures super-effective damaging moves never miss and always score critical hits. This ability transforms Pokémon with diverse move coverage into highly reliable offensive threats, eliminating the risk-reward balance typically associated with powerful but less accurate moves.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Super-effective damaging moves never miss and always land critical hits. Only triggers on moves that deal at least 2x type effectiveness damage against the target. Does not affect status moves or neutral damage. Transforms coverage moves into guaranteed knockout threats against weak opponents.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+Fatal Precision is an Elite Redux-exclusive ability that ensures super-effective damaging moves never miss and always score critical hits. This ability transforms Pokemon with diverse move coverage into highly reliable offensive threats, eliminating the risk-reward balance typically associated with powerful but less accurate moves.
 
 ## Mechanics
 
@@ -54,9 +64,9 @@ The ability uses `CalcTypeEffectivenessMultiplier()` to determine if a move is s
 ## Strategic Applications
 
 ### Offensive Versatility
-Fatal Precision rewards Pokémon with diverse move coverage, making them extremely reliable against their intended targets. This is particularly valuable for:
-- **Mixed Attackers**: Pokémon that can threaten both physical and special walls
-- **Coverage Specialists**: Pokémon with moves covering many different types
+Fatal Precision rewards Pokemon with diverse move coverage, making them extremely reliable against their intended targets. This is particularly valuable for:
+- **Mixed Attackers**: Pokemon that can threaten both physical and special walls
+- **Coverage Specialists**: Pokemon with moves covering many different types
 - **Revenge Killers**: Ensuring key KOs against faster threats
 
 ### Synergy Opportunities
@@ -71,15 +81,15 @@ In competitive play, Fatal Precision provides:
 - **Pressure**: Forces opponents to avoid type disadvantages entirely
 - **Breaking Power**: Critical hits help break through defensive investment
 
-## Pokémon with Fatal Precision
+## Pokemon with Fatal Precision
 
-Based on the species data, Fatal Precision appears on a diverse range of Pokémon, including:
+Based on the species data, Fatal Precision appears on a diverse range of Pokemon, including:
 
 ### Notable Users
 - **Genesect Forms**: Multiple Genesect variants have this as a regular ability
 - **Fighting-type Specialists**: Several Fighting-types use this for coverage moves
-- **Mixed Attackers**: Various dual-typed Pokémon that benefit from coverage reliability
-- **Legendary/Mythical Pokémon**: Some powerful Pokémon have this as an innate ability
+- **Mixed Attackers**: Various dual-typed Pokemon that benefit from coverage reliability
+- **Legendary/Mythical Pokemon**: Some powerful Pokemon have this as an innate ability
 
 ### Distribution Pattern
 The ability appears both as:
@@ -89,7 +99,7 @@ The ability appears both as:
 ## Interactions and Edge Cases
 
 ### Multi-Type Effectiveness
-For moves that hit multiple types (such as against dual-typed Pokémon), the ability triggers if the combined effectiveness reaches 2.0x or higher.
+For moves that hit multiple types (such as against dual-typed Pokemon), the ability triggers if the combined effectiveness reaches 2.0x or higher.
 
 ### Ability Suppression
 Fatal Precision can be suppressed by abilities like:
@@ -120,7 +130,7 @@ constexpr Ability FinalBlow = {
 ## Competitive Impact
 
 ### Tier Considerations
-Fatal Precision significantly raises the competitive viability of Pokémon that possess it, particularly those with:
+Fatal Precision significantly raises the competitive viability of Pokemon that possess it, particularly those with:
 - Good offensive stats
 - Access to diverse move coverage
 - Strategic positioning in team compositions
@@ -128,7 +138,7 @@ Fatal Precision significantly raises the competitive viability of Pokémon that 
 ### Counterplay
 Opponents facing Fatal Precision users must:
 - Avoid unfavorable type matchups entirely
-- Use Pokémon that resist the user's coverage moves
+- Use Pokemon that resist the user's coverage moves
 - Employ priority moves or speed control
 - Consider abilities that can suppress or bypass Fatal Precision
 
@@ -136,4 +146,4 @@ Opponents facing Fatal Precision users must:
 
 Fatal Precision represents a powerful offensive ability that rewards strategic team building and move selection. By guaranteeing both accuracy and critical hits on super-effective moves, it transforms reliable coverage into devastating offensive pressure. The ability's implementation in Elite Redux showcases sophisticated battle mechanics that maintain competitive depth while providing exciting new tactical options.
 
-The ability's code implementation is clean and efficient, with clear checks for move type and effectiveness that ensure it only activates under the intended conditions. Its distribution across various Pokémon types and roles makes it a versatile tool in both casual and competitive play.
+The ability's code implementation is clean and efficient, with clear checks for move type and effectiveness that ensure it only activates under the intended conditions. Its distribution across various Pokemon types and roles makes it a versatile tool in both casual and competitive play.

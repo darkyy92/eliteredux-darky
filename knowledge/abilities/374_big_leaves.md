@@ -2,18 +2,17 @@
 id: 374
 name: Big Leaves
 status: ai-generated
-character_count: 275
+character_count: 291
 ---
 
-# Big Leaves (Ability #374)
+# Big Leaves - Ability ID 374
 
-## Basic Information
-- **ID**: 374
-- **Name**: Big Leaves
-- **Type**: Multi-Ability Fusion
-- **Description**: "Chloroplast + Chlorophyll + Leaf Guard + Harvest + Solar Power."
+## In-Game Description
+"Chloroplast + Chlorophyll + Leaf Guard + Harvest + Solar Power."
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 A powerhouse fusion of five grass-type abilities. Combines Harvest's berry restoration, Leaf Guard's sun healing, Solar Power's special attack boost, Chlorophyll's speed boost, and grants Weather Ball double power while nullifying Solar Beam's power reduction in bad weather.
 
 ## Technical Implementation
@@ -26,7 +25,7 @@ Big Leaves is implemented as a combination of five separate abilities:
 - **Function**: Restores consumed berries at the end of turn
 - **Mechanics**: 
   - 100% chance in sun, 50% chance otherwise
-  - Only works if the Pokémon has no held item
+  - Only works if the Pokemon has no held item
   - Only restores berries (pocket check: `POCKET_BERRIES`)
 
 #### 2. Leaf Guard Component
@@ -70,7 +69,7 @@ constexpr Ability BigLeaves = {
 
 ### Weather Ball Enhancement
 - **Function**: `battle_util.c` line 6607
-- **Effect**: Weather Ball receives 2x power when used by Pokémon with chloroplast property
+- **Effect**: Weather Ball receives 2x power when used by Pokemon with chloroplast property
 - **Priority**: Applied before weather-based Weather Ball effects
 
 ### Solar Beam Protection
@@ -109,7 +108,7 @@ constexpr Ability BigLeaves = {
 4. **Berry Cycling**: Utilize Harvest for repeated berry activation
 
 ### Damage Calculations
-- **Weather Ball**: 50 base power → 100 base power (2x from chloroplast) → 150 base power in sun
+- **Weather Ball**: 50 base power to 100 base power (2x from chloroplast) to 150 base power in sun
 - **Solar Beam**: 120 base power maintained in all weather conditions
 - **Special Attacks**: 1.5x damage boost in sun from Solar Power component
 

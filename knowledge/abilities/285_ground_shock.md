@@ -15,8 +15,6 @@ character_count: 295
 
 Ground Shock allows Electric moves to hit Ground-type Pokemon for 0.5x damage instead of immunity. Electric attacks like Thunder and Thunderbolt become super effective against Ground types but deal reduced damage. This removes the traditional Electric immunity while providing damage resistance.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

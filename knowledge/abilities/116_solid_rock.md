@@ -15,8 +15,6 @@ character_count: 288
 
 Solid Rock reduces damage from super-effective moves by 35%, providing excellent defensive utility against type disadvantages. This breakable ability helps survival against 2x or higher effectiveness attacks, making it essential for defensive builds requiring endurance and survivability.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -33,8 +31,8 @@ Solid Rock reduces damage from super-effective moves by 35%, providing excellent
 - Activation occurs automatically when hit by super-effective moves
 
 **Strategic Applications:**
-- Essential for defensive Pokémon weak to common offensive types
-- Particularly valuable on Pokémon with multiple type weaknesses
+- Essential for defensive Pokemon weak to common offensive types
+- Particularly valuable on Pokemon with multiple type weaknesses
 - Helps tanks survive powerful super-effective attacks
 - Synergizes well with recovery moves and defensive stat investments
 - Can turn 2HKOs into 3HKOs against super-effective attacks
@@ -45,7 +43,7 @@ Solid Rock reduces damage from super-effective moves by 35%, providing excellent
 - Can be role-played, skill-swapped, or otherwise manipulated
 - Suppressed by Gastro Acid or similar ability-suppressing effects
 
-**Pokémon Commonly Associated:**
-- Typically found on Rock, Ground, and Steel-type defensive Pokémon
+**Pokemon Commonly Associated:**
+- Typically found on Rock, Ground, and Steel-type defensive Pokemon
 - Rhyperior, Aggron, and similar bulky defenders benefit greatly
 - Complements high HP and Defense stats for maximum survivability

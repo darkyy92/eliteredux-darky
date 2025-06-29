@@ -5,16 +5,17 @@ status: ai-generated
 character_count: 287
 ---
 
-# Komodo (Ability ID: 851)
+# Komodo - Ability ID 851
 
-## Base Description
+## In-Game Description
 "Adds Dragon-type + moves have 30% Bad Poison chance."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Grants the Dragon type as an additional typing upon switching in, allowing dual/triple-type combinations. All offensive moves have a 30% chance to inflict bad poison (toxic) on the target. Bad poison damage increases each turn, starting at 1/16 max HP and doubling each turn.
 
-## Mechanical Implementation
+## Detailed Mechanical Explanation
 
 ### Component Abilities
 Komodo combines two existing ability effects:

@@ -13,21 +13,19 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Innards Out activates when the Pokémon is knocked out by an opponent's direct attack. It inflicts the exact same amount of damage the fatal attack dealt back to the attacker. Works with physical and special moves but not indirect damage. Cannot affect attackers protected by Magic Guard.
-
-*Character count: 287*
+Innards Out activates when the Pokemon is knocked out by an opponent's direct attack. It inflicts the exact same amount of damage the fatal attack dealt back to the attacker. Works with physical and special moves but not indirect damage. Cannot affect attackers protected by Magic Guard.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Innards Out is a passive ability that triggers when the Pokémon with this ability is KO'd by a direct attack from an opponent. When activated, it deals damage equal to the exact amount of damage the fatal attack inflicted.
+Innards Out is a passive ability that triggers when the Pokemon with this ability is KO'd by a direct attack from an opponent. When activated, it deals damage equal to the exact amount of damage the fatal attack inflicted.
 
 ### Activation Conditions
-- The Pokémon must be knocked out (HP reduced to 0) by a direct attack
+- The Pokemon must be knocked out (HP reduced to 0) by a direct attack
 - The attack must come from an opponent (not self-inflicted or ally damage)
 - The ability user must not be alive after the attack (`CHECK_NOT(IsBattlerAlive(battler))`)
-- The attacking Pokémon must not be protected by Magic Guard (`CHECK_NOT(IsMagicGuardProtected(attacker))`)
+- The attacking Pokemon must not be protected by Magic Guard (`CHECK_NOT(IsMagicGuardProtected(attacker))`)
 
 ### Technical Implementation
 ```cpp
@@ -71,15 +69,15 @@ constexpr Ability InnardsOut = {
 - **Sash breaking**: Can break Focus Sash/Sturdy on the attacker if they're at full HP
 
 ### Example Damage Calculations
-- **Scenario 1**: Innards Out user has 50 HP remaining, takes 80 damage → Dies, deals 80 damage back
-- **Scenario 2**: Innards Out user has 200 HP remaining, takes 250 damage → Dies, deals 250 damage back
-- **Scenario 3**: Multi-hit move deals 30+30+40 damage (final hit KOs) → Deals 40 damage back (only final hit)
+- **Scenario 1**: Innards Out user has 50 HP remaining, takes 80 damage to Dies, deals 80 damage back
+- **Scenario 2**: Innards Out user has 200 HP remaining, takes 250 damage to Dies, deals 250 damage back
+- **Scenario 3**: Multi-hit move deals 30+30+40 damage (final hit KOs) to Deals 40 damage back (only final hit)
 
 ### Common Users
 In Elite Redux, Innards Out is typically found on:
-- Defensive Pokémon that can take hits and guarantee damage on KO
-- Pokémon with high HP stats to maximize potential retaliation damage
-- Support Pokémon that can threaten revenge KOs
+- Defensive Pokemon that can take hits and guarantee damage on KO
+- Pokemon with high HP stats to maximize potential retaliation damage
+- Support Pokemon that can threaten revenge KOs
 
 ### Competitive Usage Notes
 - **Doubles/Triples**: Can punish spread moves by retaliating against the user

@@ -13,15 +13,13 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokémon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum. Unlimited healing uses.
-
-*Character count: 291*
+Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokemon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum. Unlimited healing uses.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Natural Cure removes all major status conditions when the Pokémon switches out through any means except fainting. The ability provides a reliable way to cure status without using items or moves.
+Natural Cure removes all major status conditions when the Pokemon switches out through any means except fainting. The ability provides a reliable way to cure status without using items or moves.
 
 ### Technical Implementation
 From `/src/abilities.cc`:
@@ -63,7 +61,7 @@ The ability:
 Special AI logic in `battle_ai_switch_items.c`:
 - Function `ShouldSwitchIfNaturalCure()` evaluates switching
 - AI more likely to switch if:
-  - Pokémon is asleep
+  - Pokemon is asleep
   - Has Natural Cure or related abilities
   - Random chance favors switching
 
@@ -74,14 +72,14 @@ Natural Cure is a component of:
 
 These combination abilities provide both status healing and HP recovery.
 
-### Pokémon with Natural Cure
+### Pokemon with Natural Cure
 Common users include:
 - Oddish line (innate ability)
 - Staryu/Starmie
 - Chansey/Blissey
 - Roselia/Roserade
 - Swablu/Altaria
-- Various other Pokémon in Elite Redux
+- Various other Pokemon in Elite Redux
 
 ### Strategic Applications
 
@@ -97,7 +95,7 @@ Common users include:
 
 **Status absorber:**
 - Dedicated team member for status moves
-- Prevents status from crippling key Pokémon
+- Prevents status from crippling key Pokemon
 - Forces opponent to reconsider status moves
 
 ### Synergies
@@ -128,7 +126,7 @@ Common users include:
 - Entry hazards (punish repeated switches)
 
 ### Competitive Usage Notes
-Natural Cure excels on Pokémon that naturally switch frequently. It's particularly valuable on defensive pivots that can absorb status for the team. The ability creates favorable risk-reward scenarios where opponents must decide whether inflicting status is worth giving a free cure. Best utilized on Pokémon with good defensive stats and access to pivoting moves.
+Natural Cure excels on Pokemon that naturally switch frequently. It's particularly valuable on defensive pivots that can absorb status for the team. The ability creates favorable risk-reward scenarios where opponents must decide whether inflicting status is worth giving a free cure. Best utilized on Pokemon with good defensive stats and access to pivoting moves.
 
 ### Team Building Considerations
 - Pairs well with offensive teams needing status absorption

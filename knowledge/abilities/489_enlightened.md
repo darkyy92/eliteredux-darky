@@ -15,13 +15,11 @@ character_count: 299
 
 This Pokemon has achieved mental clarity that transcends normal limitations. Normal-type moves become Psychic-type and gain STAB. Focus Blast never misses due to perfect concentration. The Pokemon cannot be taunted and maintains composure under pressure, though this focus can be broken.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Enlightened is a composite ability that combines two existing abilities: Emanate and Inner Focus, representing a Pokémon that has achieved mental enlightenment and perfect psychic focus.
+Enlightened is a composite ability that combines two existing abilities: Emanate and Inner Focus, representing a Pokemon that has achieved mental enlightenment and perfect psychic focus.
 
 ### Emanate Component
 - **Type conversion**: All Normal-type moves become Psychic-type

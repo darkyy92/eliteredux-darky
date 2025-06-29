@@ -15,8 +15,6 @@ character_count: 293
 
 Boosts the Pokemon's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves like Gust, Hurricane, or Tailwind, absorbs the attack completely and raises the highest attacking stat by one stage instead of taking damage.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

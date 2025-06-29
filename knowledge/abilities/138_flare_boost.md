@@ -13,29 +13,27 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Flare Boost raises the Pokémon's Special Attack by 50% when burned instead of reducing Attack. Negates burn damage completely. Additionally, when entering battle or when fog weather activates, automatically inflicts burn status on self. Perfect for special attackers who can exploit burn immunity.
-
-*Character count: 284*
+Flare Boost raises the Pokemon's Special Attack by 50% when burned instead of reducing Attack. Negates burn damage completely. Additionally, when entering battle or when fog weather activates, automatically inflicts burn status on self. Perfect for special attackers who can exploit burn immunity.
 
 ## Detailed Mechanical Explanation
 
 Flare Boost is a powerful ability designed for special attackers that turns the normally detrimental burn status into an offensive advantage:
 
 ### Primary Effects:
-1. **Special Attack Boost**: When burned, the Pokémon's Special Attack is multiplied by 1.5x (50% increase)
-2. **Burn Damage Immunity**: The Pokémon takes no damage from burn status at the end of each turn
+1. **Special Attack Boost**: When burned, the Pokemon's Special Attack is multiplied by 1.5x (50% increase)
+2. **Burn Damage Immunity**: The Pokemon takes no damage from burn status at the end of each turn
 3. **Attack Reduction**: The normal burn effect of halving physical Attack still applies (though this typically doesn't matter for special attackers)
 
 ### Auto-Burn Mechanics:
-1. **On Entry**: When the Pokémon enters battle, it automatically burns itself (if it can be burned)
-2. **Fog Activation**: When fog weather begins while the Pokémon is on the field, it automatically burns itself
-3. **Burn Check**: The auto-burn only triggers if the Pokémon can actually be burned (not already burned, not Fire-type)
+1. **On Entry**: When the Pokemon enters battle, it automatically burns itself (if it can be burned)
+2. **Fog Activation**: When fog weather begins while the Pokemon is on the field, it automatically burns itself
+3. **Burn Check**: The auto-burn only triggers if the Pokemon can actually be burned (not already burned, not Fire-type)
 
 ### Technical Details:
-- The ability uses a handler function that checks if the Pokémon can be burned and if it's affected by fog weather
+- The ability uses a handler function that checks if the Pokemon can be burned and if it's affected by fog weather
 - The Special Attack boost is applied through the onStat callback, specifically checking for STAT_SPATK
 - The burn damage immunity is implemented through a check in the end-turn effects that skips burn damage for Flare Boost users
-- Fire Sea terrain damage still affects the Pokémon normally (only burn status damage is negated)
+- Fire Sea terrain damage still affects the Pokemon normally (only burn status damage is negated)
 
 ### Strategic Considerations:
 - Excellent for special attackers who don't rely on physical moves

@@ -1,19 +1,19 @@
 ---
 id: 313
-name: "Dragonslayer (ID: 313)"
+name: Dragonslayer
 status: ai-generated
-character_count: 269
+character_count: 270
 ---
 
-# Dragonslayer (ID: 313)
+# Dragonslayer - Ability ID 313
 
 ## In-Game Description
 "Deals 1.5x damage to Dragons. Takes 0.5x damage from Dragons."
 
-## Extended In-Game Description (280-300 chars)
-Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. Reduces damage from any move used by Dragon-types, regardless of move type. Can be suppressed by Mold Breaker.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 293*
+Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. Reduces damage from any move used by Dragon-types, regardless of move type. Can be suppressed by Mold Breaker.
 
 ## Detailed Mechanical Explanation
 

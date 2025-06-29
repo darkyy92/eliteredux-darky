@@ -13,9 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (exactly 280-300 chars)*
 
-Snow Cloak reduces opponent accuracy by 20% during hail weather, providing a defensive boost through evasion. The Pokémon is also immune to hail damage. This ability is breakable by moves like Mold Breaker but still grants hail immunity even when suppressed.
-
-*Character count: 284*
+Snow Cloak reduces opponent accuracy by 20% during hail weather, providing a defensive boost through evasion. The Pokemon is also immune to hail damage. This ability is breakable by moves like Mold Breaker but still grants hail immunity even when suppressed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

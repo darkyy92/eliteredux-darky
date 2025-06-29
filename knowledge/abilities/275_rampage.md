@@ -15,8 +15,6 @@ character_count: 285
 
 Rampage eliminates the recharge turn required after using powerful moves like Hyper Beam and Giga Impact, but only when the user successfully KOs an opponent. This allows for devastating sweep potential with high-power moves that normally leave the user vulnerable.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Rampage eliminates the recharge turn required after using powerful moves like Hy
 Rampage is a powerful ability that removes the recharge limitation from moves with the `EFFECT_RECHARGE` mechanic when the user successfully KOs an opponent.
 
 ### Activation Conditions
-- The Pokémon with Rampage must use a move that normally requires recharge (Hyper Beam, Giga Impact)
+- The Pokemon with Rampage must use a move that normally requires recharge (Hyper Beam, Giga Impact)
 - The move must successfully KO the target
 - When both conditions are met, the recharge requirement is completely removed
 
@@ -66,8 +64,8 @@ Without Rampage, recharge moves work as follows:
 - **Team positioning**: Works best when opponents are already in KO range
 
 ### Example Scenarios
-1. **Successful KO**: Dragonite uses Hyper Beam → KOs opponent → Can act immediately next turn
-2. **Failed KO**: Dragonite uses Hyper Beam → Opponent survives → Must recharge next turn
+1. **Successful KO**: Dragonite uses Hyper Beam to KOs opponent to Can act immediately next turn
+2. **Failed KO**: Dragonite uses Hyper Beam to Opponent survives to Must recharge next turn
 3. **Multi-KO potential**: With proper setup, can chain multiple Hyper Beams without recharge
 
 ### Interactions with Other Mechanics
@@ -77,7 +75,7 @@ Without Rampage, recharge moves work as follows:
 - **Substitute**: Does not interfere with Rampage activation
 
 ### Common Users in Elite Redux
-Notable Pokémon that can have Rampage:
+Notable Pokemon that can have Rampage:
 - **Nidoking**: Physical/Special mixed attacker with Sheer Force synergy
 - **Aerodactyl**: High-speed physical sweeper with Rock Head
 - **Gyarados**: Intimidate support with late-game sweep potential
@@ -87,10 +85,10 @@ Notable Pokémon that can have Rampage:
 - **Blissey**: Unexpected special tank with Pixilate and Magic Bounce
 
 ### Competitive Usage Notes
-- **Tier placement**: Primarily found on Tier 2-3 Pokémon for balance
+- **Tier placement**: Primarily found on Tier 2-3 Pokemon for balance
 - **Role compression**: Allows bulky attackers to also serve as late-game cleaners
 - **Meta positioning**: Counters defensive stall strategies
-- **Speed requirements**: Most effective on naturally fast Pokémon or with speed control
+- **Speed requirements**: Most effective on naturally fast Pokemon or with speed control
 
 ### Counters and Counterplay
 - **Residual damage**: Sandstorm, Toxic, etc. can prevent clean KOs
@@ -109,5 +107,5 @@ Notable Pokémon that can have Rampage:
 ### Version History
 - Added in Elite Redux as part of the expanded ability system
 - Designed to make recharge moves more viable in competitive play
-- Currently paired with various legendary and pseudo-legendary Pokémon
-- Balanced by limiting to specific Pokémon rather than reducing the effect
+- Currently paired with various legendary and pseudo-legendary Pokemon
+- Balanced by limiting to specific Pokemon rather than reducing the effect

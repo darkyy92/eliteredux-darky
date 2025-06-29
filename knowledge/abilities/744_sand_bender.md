@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sand Bender combines Sand Stream and Sand Force effects. Automatically summons an 8-turn sandstorm on entry, then boosts the Pokémon's highest attacking stat by 50% while in sandstorm weather. The user is immune to sandstorm damage. Perfect for offensive sand sweepers and setters.
-
-*Character count: 298*
+Sand Bender combines Sand Stream and Sand Force effects. Automatically summons an 8-turn sandstorm on entry, then boosts the Pokemon's highest attacking stat by 50% while in sandstorm weather. The user is immune to sandstorm damage. Perfect for offensive sand sweepers and setters.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -27,7 +25,7 @@ Sand Bender is a powerful combination ability that merges the effects of two com
 3. **Sand immunity**: User takes no damage from sandstorm weather
 
 ### Activation Conditions
-- **Entry effect**: Sandstorm is summoned immediately when the Pokémon switches in
+- **Entry effect**: Sandstorm is summoned immediately when the Pokemon switches in
 - **Stat boost**: Active whenever sandstorm weather is present (regardless of source)
 - **Duration**: Sandstorm lasts 8 turns in Elite Redux (extended from vanilla 5 turns)
 - **Stat selection**: Boosts whichever attacking stat (Attack or Special Attack) is higher
@@ -73,10 +71,10 @@ The ability directly inherits the Sand Stream entry effect and Sand Force stat b
 
 ### Common Users
 Sand Bender is typically found on:
-- Ground-type offensive Pokémon
+- Ground-type offensive Pokemon
 - Rock-type sweepers and wallbreakers
 - Steel-type attackers immune to sandstorm
-- Pokémon with high Attack or Special Attack stats
+- Pokemon with high Attack or Special Attack stats
 - Sand team cores that need both setting and sweeping capability
 
 ### Competitive Applications
@@ -99,7 +97,7 @@ Sand Bender is typically found on:
 - **Ability suppression**: Mold Breaker/Neutralizing Gas disable both effects
 - **Cloud Nine/Air Lock**: Negates weather-based stat boost
 - **Mixed attackers**: Only boosts one attacking stat, not both
-- **Weather-immune targets**: Some Pokémon resist sandstorm effects
+- **Weather-immune targets**: Some Pokemon resist sandstorm effects
 
 ### Important Interactions
 - **Stat boost timing**: Applied before damage calculation each turn

@@ -5,16 +5,17 @@ status: ai-generated
 character_count: 295
 ---
 
-# Relic Stone Analysis
+# Relic Stone - Ability ID 866
+
+## In-Game Description
+Other battlers don't benefit from STAB.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"Other battlers don't benefit from STAB."
-
-## Extended Description (295 characters)
 While this ability is active on the field, all other battlers lose their Same Type Attack Bonus, dealing normal damage instead of 1.5x with type matching moves. Even battlers with Adaptability cannot achieve 2x STAB. Only affects opponents - the user retains their own STAB bonus. Suppressed by Mold Breaker abilities.
 
-## Technical Implementation
+## Detailed Mechanical Explanation
+
+### Technical Implementation
 - **Function**: Modifies `StabMultiplierInHalves()` in `src/battle_util.c`
 - **Mechanism**: When any battler except the attacker has Relic Stone, the function returns 2 (1.0x multiplier) instead of normal STAB values
 - **Scope**: Field-wide effect that impacts all other battlers

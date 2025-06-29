@@ -15,8 +15,6 @@ character_count: 292
 
 Prismatic Fur combines four abilities: changes type to resist attacks (Color Change), changes type to match moves (Protean), halves physical damage (Fur Coat), and halves special damage (Ice Scales). Creates ultimate defensive versatility with type adaptation.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,14 +24,14 @@ Prismatic Fur is an extremely powerful hybrid ability that combines the effects 
 ### Component Abilities Analysis
 
 #### 1. Color Change Component
-- **Trigger**: When the Pokémon is targeted by an attack
-- **Effect**: Changes the Pokémon's type to the one that resists the incoming move most effectively
+- **Trigger**: When the Pokemon is targeted by an attack
+- **Effect**: Changes the Pokemon's type to the one that resists the incoming move most effectively
 - **Timing**: Before the attack hits
 - **Limitation**: Once per turn activation
 
 #### 2. Protean Component  
-- **Trigger**: When the Pokémon uses an attack
-- **Effect**: Changes the Pokémon's type to match the move being used
+- **Trigger**: When the Pokemon uses an attack
+- **Effect**: Changes the Pokemon's type to match the move being used
 - **Timing**: Before the attack is executed
 - **Limitation**: Once per turn activation
 - **Benefit**: Provides STAB (Same Type Attack Bonus) on all moves
@@ -69,7 +67,7 @@ constexpr Ability PrismaticFur = {
 ### Activation Priority
 1. **Defensive multiplier**: Always applies first (0.5x damage)
 2. **Type changes**: Processed before damage calculation
-3. **Protean**: Takes priority when the Pokémon is attacking
+3. **Protean**: Takes priority when the Pokemon is attacking
 4. **Color Change**: Activates when being targeted
 
 ### Mathematical Damage Reduction
@@ -121,10 +119,10 @@ With the 0.5x multiplier from both physical and special defense:
 #### Tier Assessment
 - **Extremely high**: One of the most powerful defensive abilities
 - **Format defining**: Likely to be banned in many competitive formats
-- **Versatility**: Works on any Pokémon regardless of base stats
+- **Versatility**: Works on any Pokemon regardless of base stats
 
 #### Team Synergy
-- **Pivot Pokémon**: Excellent for switching into threats
+- **Pivot Pokemon**: Excellent for switching into threats
 - **Defensive core**: Provides unparalleled mixed bulk
 - **Stall teams**: Nearly unbreakable defensive presence
 - **Balance teams**: Provides both offensive and defensive utility
@@ -133,7 +131,7 @@ With the 0.5x multiplier from both physical and special defense:
 - **Physical walls**: Enhanced by Ice Scales coverage
 - **Special walls**: Enhanced by Fur Coat coverage  
 - **Mixed walls**: Covers both attack types perfectly
-- **Utility Pokémon**: Can adapt to any role needed
+- **Utility Pokemon**: Can adapt to any role needed
 
 ### Notable Interactions
 
@@ -171,7 +169,7 @@ With the 0.5x multiplier from both physical and special defense:
 
 ### Usage Recommendations
 
-#### Pokémon Selection
+#### Pokemon Selection
 - **High HP**: Maximizes effective bulk from damage reduction
 - **Balanced stats**: Benefits from both physical and special reduction
 - **Good movepool**: Takes advantage of Protean STAB on all moves
@@ -190,7 +188,7 @@ With the 0.5x multiplier from both physical and special defense:
 - **Heavy-Duty Boots**: Prevents entry hazard damage
 
 ### Version History
-- **Elite Redux exclusive**: Not present in official Pokémon games
+- **Elite Redux exclusive**: Not present in official Pokemon games
 - **Hybrid ability**: Represents pinnacle of ability combination design
 - **Balance consideration**: May require restriction in competitive play
 - **Implementation**: Uses advanced ability delegation system

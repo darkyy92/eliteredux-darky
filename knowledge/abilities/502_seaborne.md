@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Seaborne combines Drizzle and Swift Swim effects. Upon entry, sets rain weather for 8 turns. During any rain weather, the Pokémon's Speed is boosted by 50%. Works with regular rain, heavy rain, and Primordial Sea. Perfect for Water-type sweepers needing both setup and speed.
-
-*Character count: 295*
+Seaborne combines Drizzle and Swift Swim effects. Upon entry, sets rain weather for 8 turns. During any rain weather, the Pokemon's Speed is boosted by 50%. Works with regular rain, heavy rain, and Primordial Sea. Perfect for Water-type sweepers needing both setup and speed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,11 +23,11 @@ Seaborne is a powerful combination ability that merges two distinct weather-rela
 1. **Drizzle component**: Automatically sets rain weather upon entering battle
 2. **Swift Swim component**: Provides 50% Speed boost during any rain weather
 
-The ability essentially makes the Pokémon both a weather setter and a weather abuser simultaneously.
+The ability essentially makes the Pokemon both a weather setter and a weather abuser simultaneously.
 
 ### Activation Conditions
 **Drizzle Component:**
-- **Entry trigger**: Activates automatically when the Pokémon enters battle
+- **Entry trigger**: Activates automatically when the Pokemon enters battle
 - **Weather setting**: Sets rain weather for 8 turns (Elite Redux extended duration)
 - **Priority**: Cannot override Primal weather (Desolate Land/Primordial Sea)
 - **Failure cases**: Shows "blocked by primal weather" message if primal weather is active
@@ -179,4 +177,4 @@ case ABILITY_DRIZZLE:
 - **Legendary exclusive**: Currently only available to Manaphy
 
 ### Design Philosophy
-Seaborne represents the ultimate rain ability, combining weather control with immediate offensive presence. It eliminates the traditional setup requirement of rain teams by providing both the weather condition and the Speed boost in a single ability slot, making it exceptionally powerful for legendary Pokémon like Manaphy.
+Seaborne represents the ultimate rain ability, combining weather control with immediate offensive presence. It eliminates the traditional setup requirement of rain teams by providing both the weather condition and the Speed boost in a single ability slot, making it exceptionally powerful for legendary Pokemon like Manaphy.

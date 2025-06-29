@@ -2,7 +2,7 @@
 id: 89
 name: Iron Fist
 status: ai-generated
-character_count: 306
+character_count: 296
 ---
 
 # Iron Fist - Ability ID 89
@@ -13,9 +13,7 @@ character_count: 306
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Fist boosts the power of all punching moves by 30%. Affects moves like Fire Punch, Ice Punch, Thunder Punch, Mach Punch, Bullet Punch, and Hammer Arm. The boost stacks multiplicatively with other damage modifiers like STAB and weather. Essential for physical fighters specializing in punching attacks.
-
-*Character count: 298*
+Iron Fist boosts the power of all punching moves by 30%. Affects moves like Fire Punch, Ice Punch, Thunder Punch, Mach Punch, Bullet Punch, and Hammer Arm. The boost stacks multiplicatively with other damage modifiers like STAB and weather. Essential for physical fighters using punching attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -54,9 +52,9 @@ The 1.3x multiplier is applied during damage calculation and stacks multiplicati
 - **Other abilities**: Sheer Force (if move has secondary effect)
 
 ### Calculation Examples:
-- Base 100 BP Fire Punch → 130 BP with Iron Fist
-- STAB Fire Punch (150 BP) → 195 BP with Iron Fist
-- Fire Punch in sun with STAB and Iron Fist → 292.5 BP
+- Base 100 BP Fire Punch to 130 BP with Iron Fist
+- STAB Fire Punch (150 BP) to 195 BP with Iron Fist
+- Fire Punch in sun with STAB and Iron Fist to 292.5 BP
 
 ### Special Interactions:
 1. **Punching Glove Item**: When holding Punching Glove, Iron Fist-boosted moves get an additional 1.1x multiplier

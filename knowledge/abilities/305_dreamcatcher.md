@@ -13,9 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Dreamcatcher doubles the power of all moves when any Pokémon on the battlefield is asleep. This includes the user, allies, and opponents. Works with natural sleep, Sleep Powder, Rest, and Comatose. The boost applies to all move types and stacks with other damage modifiers for devastating combinations.
-
-*Character count: 291*
+Dreamcatcher doubles the power of all moves when any Pokemon on the battlefield is asleep. This includes the user, allies, and opponents. Works with natural sleep, Sleep Powder, Rest, and Comatose. The boost applies to all move types and stacks with other damage modifiers for devastating combinations.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,7 +24,7 @@ Dreamcatcher doubles the power of all moves when any Pokémon on the battlefield
 - **Scope**: Global battlefield check - affects user's moves regardless of who is asleep
 
 ### Activation Conditions
-- Any Pokémon on the battlefield must have `STATUS1_SLEEP` status
+- Any Pokemon on the battlefield must have `STATUS1_SLEEP` status
 - Includes natural sleep from moves like Sleep Powder, Spore, Sing
 - Includes self-induced sleep from Rest
 - Works with Comatose ability (permanent sleep-like status)
@@ -70,8 +68,8 @@ constexpr Ability Dreamcatcher = {
 Base 100 power move with Dreamcatcher active:
 - Normal: 100 power
 - With Dreamcatcher: 200 power
-- With Dreamcatcher + Life Orb: 200 × 1.3 = 260 power
-- With Dreamcatcher + STAB: 200 × 1.5 = 300 power
+- With Dreamcatcher + Life Orb: 200 x 1.3 = 260 power
+- With Dreamcatcher + STAB: 200 x 1.5 = 300 power
 
 ### Common Users
 **Primary Ability Holders:**
@@ -83,7 +81,7 @@ Base 100 power move with Dreamcatcher active:
 
 **Innate Ability (Fixed):**
 - **Darkrai**: Has Dreamcatcher as innate alongside Bad Dreams
-- **Cresselia**: Powerful defensive Pokémon with reliable activation
+- **Cresselia**: Powerful defensive Pokemon with reliable activation
 - Various other Psychic-types as innate ability
 
 ### Competitive Usage Notes
@@ -133,7 +131,7 @@ Base 100 power move with Dreamcatcher active:
 ### Advanced Strategies
 1. **Rest + Sleep Talk**: Put yourself to sleep, use random boosted moves
 2. **Doubles Sleep Support**: Partner uses Spore while user attacks with doubled power
-3. **Comatose Synergy**: Permanent activation on Pokémon with both abilities
+3. **Comatose Synergy**: Permanent activation on Pokemon with both abilities
 4. **Revenge Sleep**: Punish opponents who Rest by immediately attacking with 2x power
 5. **Status Spreading**: Use Synchronize to potentially put opponents to sleep via contact
 

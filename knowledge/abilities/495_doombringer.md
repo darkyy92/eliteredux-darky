@@ -15,8 +15,6 @@ character_count: 299
 
 Upon entering battle, automatically uses Doom Desire against an opponent. This Steel-type delayed attack has 140 base power and strikes the target exactly two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Doombringer automatically initiates a devastating delayed attack when entering b
 
 ### Activation Conditions
 - **Trigger**: Activates immediately upon switching into battle
-- **Target**: Automatically targets the first available opposing Pokémon
+- **Target**: Automatically targets the first available opposing Pokemon
 - **Move used**: Doom Desire (Steel-type, 140 base power)
 - **Delay**: Attack lands exactly 2 turns after activation
 - **Guarantee**: Cannot miss once the countdown begins
@@ -70,7 +68,7 @@ constexpr Ability Doombringer = {
 - Type immunity (Steel-type interactions still apply)
 
 **Can be avoided by:**
-- Switching the targeted Pokémon out (if done before attack lands)
+- Switching the targeted Pokemon out (if done before attack lands)
 - Wonder Guard (if Steel isn't super-effective)
 - Magic Guard (prevents Future Sight damage)
 
@@ -108,7 +106,7 @@ constexpr Ability Doombringer = {
 
 ### Counters
 - **Fast KO**: Eliminate user before they can switch
-- **Strategic switching**: Move targeted Pokémon to safety
+- **Strategic switching**: Move targeted Pokemon to safety
 - **Magic Guard**: Prevents Future Sight damage entirely
 - **Wonder Guard**: If Steel isn't super-effective
 - **Pressure**: Quickly eliminate to prevent follow-up
@@ -118,7 +116,7 @@ constexpr Ability Doombringer = {
 - **Delayed damage**: No immediate impact
 - **Switch dependency**: Opponent can avoid by switching
 - **Predictable**: Opponent knows doom is coming
-- **Position-based**: Targets battlefield position, not specific Pokémon
+- **Position-based**: Targets battlefield position, not specific Pokemon
 
 ### Version History
 - Elite Redux custom ability for delayed battlefield control

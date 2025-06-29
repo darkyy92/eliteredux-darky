@@ -5,12 +5,21 @@ status: ai-generated
 character_count: 287
 ---
 
-# Change of Heart (Ability ID 504)
+# Change of Heart - Ability ID 504
 
-## Summary
+## In-Game Description
+"Automatically uses Heart Swap upon switching into battle."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Change of Heart activates the moment its user switches into battle, automatically swapping all stat stage modifications with the target opponent. This includes boosts and drops to Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, and Evasion. Perfect for disrupting setup sweepers.
+
+## Detailed Mechanical Explanation
+
 Change of Heart automatically uses Heart Swap upon switching into battle, swapping all stat stage changes between the user and the target opponent.
 
-## Technical Implementation
+### Technical Implementation
 
 ### Code Location
 - **File**: `src/abilities.cc`
@@ -36,17 +45,17 @@ constexpr Ability ChangeOfHeart = {
 - Affects Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, and Evasion stages
 - Does not affect base stats, only the temporary stage changes
 
-## Pokémon with This Ability
+### Pokemon with This Ability
 
 ### Manaphy
-- **Dex #490** - Seafaring Pokémon
+- **Dex #490** - Seafaring Pokemon
 - **Type**: Water
 - **Ability Slot**: Innate (always active)
 - **Other Abilities**: Seaborne, Power Spot, Healer (changeable)
 - **Other Innates**: Parental Bond, High Tide
 - **Signature Move**: Learns Heart Swap at level 1
 
-## Strategic Analysis
+### Strategic Analysis
 
 ### Competitive Use
 - **Entry Hazard**: Automatically disrupts opponent's setup attempts
@@ -64,12 +73,7 @@ constexpr Ability ChangeOfHeart = {
 - **Substitute**: Blocks the Heart Swap effect
 - **Taunt**: Prevents setup moves that create stat changes to swap
 
-## Extended In-Game Description
-*Character count: 287*
-
-Change of Heart activates the moment its user switches into battle, automatically swapping all stat stage modifications with the target opponent. This includes boosts and drops to Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, and Evasion. Perfect for disrupting setup sweepers.
-
-## Notes
+### Notes
 - Triggers on every switch-in, not just the first entry
 - Cannot be suppressed by abilities like Damp or Queenly Majesty
 - Bypasses Substitute when used as an entry ability

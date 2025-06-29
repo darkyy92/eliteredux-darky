@@ -15,8 +15,6 @@ character_count: 284
 
 Daybreak guarantees burn on all contact moves, both offensive and defensive. Unlike Flame Body's 30% chance, this ability burns attackers 100% of the time when they use contact moves. Also burns defenders when the Daybreak user attacks with contact moves.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -65,7 +63,7 @@ ON_EITHER(Daybreak) {
 - **Stacking**: Cannot stack with other major status conditions
 
 ### Important Interactions
-- **Fire-type immunity**: Fire-type Pokémon cannot be burned
+- **Fire-type immunity**: Fire-type Pokemon cannot be burned
 - **Guts ability**: Opponent gains Attack boost if they have Guts
 - **Magic Guard**: Prevents burn damage but not the Attack reduction
 - **Heatproof**: Reduces burn damage from 1/16 to 1/32 HP per turn
@@ -89,20 +87,20 @@ ON_EITHER(Daybreak) {
 - Creates passive damage through burn
 
 **Team synergy:**
-- Pairs well with Pokémon that can capitalize on burned opponents
+- Pairs well with Pokemon that can capitalize on burned opponents
 - Excellent for stall teams that benefit from residual damage
 - Strong deterrent against physical setup sweepers
 
 ### Competitive Usage Notes
-- **Physical walls**: Excellent on bulky Pokémon that can survive contact hits
+- **Physical walls**: Excellent on bulky Pokemon that can survive contact hits
 - **Revenge killers**: Can guarantee burn when revenge killing with contact moves
 - **Entry hazard synergy**: Burn + Stealth Rock creates significant residual pressure
 - **Wallbreaking**: Contact attackers become incredibly dangerous with guaranteed burn
 
 ### Counters
-- **Fire-type Pokémon**: Immune to burn entirely
+- **Fire-type Pokemon**: Immune to burn entirely
 - **Non-contact moves**: Special attacks and non-contact physical moves avoid trigger
-- **Remote attackers**: Pokémon with strong special movesets
+- **Remote attackers**: Pokemon with strong special movesets
 - **Ability suppression**: Mold Breaker family abilities
 - **Status condition prevention**: Aromaveil, Misty Terrain protection
 - **Substitute**: Blocks direct contact with the ability user

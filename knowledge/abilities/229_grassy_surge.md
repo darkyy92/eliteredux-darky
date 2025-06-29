@@ -1,22 +1,22 @@
 ---
 id: 229
-name: "Grassy Surge (Ability ID: 229)"
+name: Grassy Surge
 status: ai-generated
-character_count: 273
+character_count: 274
 ---
 
-# Grassy Surge (Ability ID: 229)
+# Grassy Surge - Ability ID 229
 
 ## In-Game Description
 "Casts Grassy Terrain on entry. Lasts 8 turns."
 
-## Extended In-Game Description (280-300 chars)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
-**Grassy Surge** automatically establishes Grassy Terrain when the Pokémon enters battle, providing healing and Grass-type enhancement.
+**Grassy Surge** automatically establishes Grassy Terrain when the Pokemon enters battle, providing healing and Grass-type enhancement.
 
 ### Trigger Conditions
 - Activates on battle entry via `onEntry` hook
@@ -31,13 +31,13 @@ Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded
 
 ### Grassy Terrain Effects
 1. **Passive Healing**:
-   - Grounded Pokémon restore 1/16 max HP per turn
+   - Grounded Pokemon restore 1/16 max HP per turn
    - Healing occurs at turn end after status damage
-   - Does not heal Pokémon at full HP
-   - Cannot revive fainted Pokémon
+   - Does not heal Pokemon at full HP
+   - Cannot revive fainted Pokemon
 
 2. **Grass-type Power Boost**:
-   - Grass moves from grounded Pokémon: 1.5x power (50% boost)
+   - Grass moves from grounded Pokemon: 1.5x power (50% boost)
    - Note: Config may reduce to 1.3x in Gen 8+ mechanics
    - Only affects grounded attackers
 
@@ -58,7 +58,7 @@ Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded
    - Grassy Surge users always count as grounded
    - Quark Drive: Can activate stat boosts
 
-### Grounded Pokémon Definition
+### Grounded Pokemon Definition
 **Affected by terrain**:
 - Non-Flying types
 - No Levitate ability

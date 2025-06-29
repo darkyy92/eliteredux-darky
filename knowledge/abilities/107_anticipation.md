@@ -13,16 +13,14 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Anticipation alerts the Pokémon when facing opponents with super-effective moves on switch-in. This heightened awareness grants the ability to automatically dodge the first super-effective hit received in battle. After dodging once, the effect is used up. Works against all damage types.
-
-*Character count: 285*
+Anticipation alerts the Pokemon when facing opponents with super-effective moves on switch-in. This heightened awareness grants the ability to automatically dodge the first super-effective hit received in battle. After dodging once, the effect is used up. Works against all damage types.
 
 ## Detailed Mechanical Explanation
 
 Anticipation functions as both a detection and defensive ability in Elite Redux:
 
 ### Detection Phase (On Entry)
-- When the Pokémon enters battle, it scans all opposing Pokémon's movesets
+- When the Pokemon enters battle, it scans all opposing Pokemon's movesets
 - Checks each move for type effectiveness against the user
 - If any opponent has a move that would deal 2x or greater damage, triggers an alert
 - The alert is displayed as a switch-in message to inform the player
@@ -43,6 +41,6 @@ Anticipation functions as both a detection and defensive ability in Elite Redux:
 ### Strategic Implications
 - Provides valuable scouting information about opponent movesets
 - Offers a safety net against one super-effective hit
-- Particularly useful for Pokémon with multiple weaknesses
+- Particularly useful for Pokemon with multiple weaknesses
 - The dodge mechanic makes it a hybrid informational/defensive ability
-- Unlike vanilla Pokémon's version, Elite Redux's Anticipation provides actual battle protection
+- Unlike vanilla Pokemon's version, Elite Redux's Anticipation provides actual battle protection

@@ -13,9 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Showdown Mode combines the devastating effects of Ambush and Violent Rush on the first turn after switching in. The Pokémon gains guaranteed critical hits on all attacks plus boosts Attack by 20% and Speed by 50% for explosive opening turns that can catch opponents off guard.
-
-*Character count: 286*
+Showdown Mode combines the devastating effects of Ambush and Violent Rush on the first turn after switching in. The Pokemon gains guaranteed critical hits on all attacks plus boosts Attack by 20% and Speed by 50% for explosive opening turns that can catch opponents off guard.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -87,7 +85,7 @@ CLEAR_ONE_TURN(violentRush)
 
 ### Interactions with Other Abilities/Mechanics
 - **Stacks with other stat boosts:** The 20% Attack boost applies before other multipliers
-- **Speed boost affects turn order:** Can allow slower Pokémon to outspeed opponents
+- **Speed boost affects turn order:** Can allow slower Pokemon to outspeed opponents
 - **Critical hits bypass defensive boosts:** Ignores opponent's Defense/Special Defense stat increases
 - **Works with held items:** Scope Lens, Lucky Punch, etc. are redundant for crit rate but may still provide other benefits
 - **Compatible with move effects:** Works with high-crit moves, but they're already guaranteed to crit
@@ -99,7 +97,7 @@ CLEAR_ONE_TURN(violentRush)
 - **Momentum Control:** Can break through defensive cores with guaranteed critical damage
 
 ### Example Damage Calculations
-**Scenario:** Level 50 Pokémon with 252 Attack EVs using a 100 Base Power move
+**Scenario:** Level 50 Pokemon with 252 Attack EVs using a 100 Base Power move
 
 **Without Showdown Mode:**
 - Base Attack: ~200
@@ -107,13 +105,13 @@ CLEAR_ONE_TURN(violentRush)
 - Damage: ~Normal damage calculation
 
 **With Showdown Mode:**
-- Base Attack: ~240 (200 × 1.2)
+- Base Attack: ~240 (200 x 1.2)
 - Move Power: 100
 - Critical Hit: 1.5x damage multiplier
-- **Total effective multiplier:** 1.8x normal damage (1.2 × 1.5)
+- **Total effective multiplier:** 1.8x normal damage (1.2 x 1.5)
 
 ### Common Users
-Pokémon that benefit most from Showdown Mode typically:
+Pokemon that benefit most from Showdown Mode typically:
 - Have high base Attack stats to maximize the boost
 - Appreciate the speed control for revenge killing
 - Want to break through defensive teams quickly
@@ -141,4 +139,4 @@ Pokémon that benefit most from Showdown Mode typically:
 ### Version History
 - Introduced as a combination ability merging Ambush (guaranteed first-turn crits) and Violent Rush (first-turn Attack/Speed boosts)
 - Part of Elite Redux's expanded ability system
-- Designed to create explosive opening turns for offensive Pokémon
+- Designed to create explosive opening turns for offensive Pokemon

@@ -15,8 +15,6 @@ character_count: 298
 
 Wind Rage automatically uses Defog when switching into battle, clearing all entry hazards and screens. Additionally, all air-based moves receive a 1.3x damage boost. Air-based moves include Flying-type attacks and moves with the air-based flag. Great for hazard control and boosting aerial attacks.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Wind Rage automatically uses Defog when switching into battle, clearing all entr
 Wind Rage is a dual-purpose ability that combines hazard control with offensive enhancement. It provides automatic Defog usage upon entry and boosts air-based moves by 30%.
 
 ### Entry Effect - Automatic Defog
-- **Timing**: Activates immediately when the Pokémon switches into battle
+- **Timing**: Activates immediately when the Pokemon switches into battle
 - **Effect**: Automatically uses Defog with 0 BP (non-damaging version)
 - **Targets cleared**:
   - All entry hazards on both sides (Spikes, Toxic Spikes, Stealth Rock, Sticky Web)
@@ -79,7 +77,7 @@ Wind Rage boosts any move flagged as air-based in the battle engine:
 ### Strategic Applications
 
 #### Hazard Control
-- **Lead utility**: Excellent lead Pokémon for hazard-heavy metas
+- **Lead utility**: Excellent lead Pokemon for hazard-heavy metas
 - **Pivot support**: Safe switching while clearing hazards
 - **Anti-setup**: Removes screens that protect setup sweepers
 - **Entry advantage**: Ensures clean entry for teammates
@@ -91,10 +89,10 @@ Wind Rage boosts any move flagged as air-based in the battle engine:
 - **Priority moves**: Boosts priority air-based attacks
 
 ### Common Users
-- Flying-type Pokémon with diverse movepools
-- Pokémon with access to Hurricane, Air Slash, or Brave Bird
-- Lead Pokémon on teams vulnerable to hazards
-- Pivot Pokémon that need hazard control utility
+- Flying-type Pokemon with diverse movepools
+- Pokemon with access to Hurricane, Air Slash, or Brave Bird
+- Lead Pokemon on teams vulnerable to hazards
+- Pivot Pokemon that need hazard control utility
 
 ### Competitive Usage Notes
 - **Entry timing**: Best used early in battle for maximum hazard control
@@ -105,7 +103,7 @@ Wind Rage boosts any move flagged as air-based in the battle engine:
 
 ### Counters
 - **Rapid Spin/Defog users**: Can reset hazards after Wind Rage clears them
-- **Hazard immunity**: Pokémon immune to hazards reduce entry value
+- **Hazard immunity**: Pokemon immune to hazards reduce entry value
 - **Non-air movesets**: Ability provides no boost to non-air attacks
 - **Priority moves**: Fast attacks before Wind Rage user can utilize boosts
 - **Status moves**: Entry Defog doesn't prevent status infliction
@@ -118,7 +116,7 @@ Wind Rage boosts any move flagged as air-based in the battle engine:
 - **Weather support**: Hurricane accuracy in rain, Solar Beam charge reduction
 
 ### Team Building Considerations
-- **Hazard weak teammates**: Protects Pokémon vulnerable to Stealth Rock
+- **Hazard weak teammates**: Protects Pokemon vulnerable to Stealth Rock
 - **Screen reliant opponents**: Disrupts defensive setups
 - **Air move coverage**: Build around boosted air-based attacks
 - **Entry timing**: Plan switches to maximize hazard clearing value

@@ -13,19 +13,17 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Hubris boosts the Pokémon's Special Attack by one stage each time it knocks out an opponent with a damaging move. The boost only occurs when the Pokémon with Hubris directly causes the KO through damage, not through status effects, entry hazards, or weather damage. Multiple KOs stack.
-
-*Character count: 285*
+Hubris boosts the Pokemon's Special Attack by one stage each time it knocks out an opponent with a damaging move. The boost only occurs when the Pokemon with Hubris directly causes the KO through damage, not through status effects, entry hazards, or weather damage. Multiple KOs stack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Hubris is the Special Attack equivalent of Moxie, triggering when the Pokémon with this ability knocks out an opponent through direct damage.
+Hubris is the Special Attack equivalent of Moxie, triggering when the Pokemon with this ability knocks out an opponent through direct damage.
 
 ### Activation Conditions
 - Must directly KO an opponent with a damaging move (power > 0)
-- The Pokémon with Hubris must be the attacker that deals the finishing blow
+- The Pokemon with Hubris must be the attacker that deals the finishing blow
 - Only triggers when using the selected move during the turn
 - Does not activate from:
   - Status moves
@@ -74,7 +72,7 @@ static int MoxieClone(int battler, int stat) {
 - **Risk/reward**: Requires aggressive positioning to secure KOs
 
 ### Example Damage Calculations
-Base 100 Special Attack Pokémon at level 50:
+Base 100 Special Attack Pokemon at level 50:
 - **+0 stages**: 100 Special Attack
 - **+1 stage (1 KO)**: 150 Special Attack (+50%)
 - **+2 stages (2 KOs)**: 200 Special Attack (+100%)
@@ -82,7 +80,7 @@ Base 100 Special Attack Pokémon at level 50:
 - **+6 stages (6 KOs)**: 400 Special Attack (+300%)
 
 ### Common Users in Elite Redux
-Based on game data, Hubris appears on various special attacking Pokémon, typically those with:
+Based on game data, Hubris appears on various special attacking Pokemon, typically those with:
 - High base Special Attack stats
 - Good offensive movepools
 - Solid Speed or bulk to survive initial exchanges

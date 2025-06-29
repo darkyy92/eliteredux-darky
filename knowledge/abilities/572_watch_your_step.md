@@ -13,17 +13,15 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Upon switching in, the Pokémon scatters sharp spikes across the opponent's battlefield, creating two layers of Spikes that damage grounded enemies who switch in. Each layer increases the damage dealt by enemy hazards.
-
-*Character count: 296*
+Upon switching in, the Pokemon scatters sharp spikes across the opponent's battlefield, creating two layers of Spikes that damage grounded enemies who switch in. Each layer increases the damage dealt by enemy hazards.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**Watch Your Step** is a switch-in ability that automatically spreads two layers of Spikes on the opponent's side of the field when the Pokémon enters battle.
+**Watch Your Step** is a switch-in ability that automatically spreads two layers of Spikes on the opponent's side of the field when the Pokemon enters battle.
 
 ### Core Mechanics
-- **Activation**: Triggers automatically when the Pokémon switches into battle
+- **Activation**: Triggers automatically when the Pokemon switches into battle
 - **Effect**: Adds 2 layers of Spikes to the opponent's side of the field
 - **Maximum Layers**: Cannot exceed 3 total layers of Spikes
 - **Stacking**: If opponent already has 1 layer, adds 1 more (capping at 3)
@@ -56,9 +54,9 @@ constexpr Ability WatchYourStep = {
 ```
 
 ### Affected Conditions
-- **Grounded Pokémon**: Only affects Pokémon that make contact with the ground
+- **Grounded Pokemon**: Only affects Pokemon that make contact with the ground
 - **Immune**: Flying-types, Levitate users, Air Balloon holders, Magnet Rise users
-- **Magic Guard**: Pokémon with Magic Guard are immune to Spikes damage
+- **Magic Guard**: Pokemon with Magic Guard are immune to Spikes damage
 - **Removal**: Cleared by Defog, Rapid Spin, Court Change, or switching abilities like Pickup
 
 ### Interactions with Other Abilities/Mechanics
@@ -75,7 +73,7 @@ constexpr Ability WatchYourStep = {
 - **Entry Control**: Discourages frequent switching by opponent
 
 ### Example Damage Calculations
-For a 300 HP Pokémon:
+For a 300 HP Pokemon:
 - **After Watch Your Step**: 2 layers = 300 ÷ 6 = 50 HP damage per switch-in
 - **With 1 existing layer**: 3 layers = 300 ÷ 4 = 75 HP damage per switch-in
 - **No existing layers**: 2 layers = 300 ÷ 6 = 50 HP damage per switch-in
@@ -83,10 +81,10 @@ For a 300 HP Pokémon:
 ### Common Users
 - **Mega Garbodor**: Has Watch Your Step as an innate ability
 - **Iron Treads**: Can have Watch Your Step as a regular ability option
-- **Defensive Pokémon**: Typically found on bulky Pokémon that can afford to set hazards
+- **Defensive Pokemon**: Typically found on bulky Pokemon that can afford to set hazards
 
 ### Competitive Usage Notes
-- **Lead Potential**: Excellent for lead Pokémon to establish immediate field control
+- **Lead Potential**: Excellent for lead Pokemon to establish immediate field control
 - **Defensive Cores**: Fits well in defensive teams that focus on hazard stacking
 - **Switchin Punishment**: Heavily punishes opponents who rely on frequent switching
 - **Hazard Support**: Reduces need for manual Spikes setting
@@ -108,4 +106,4 @@ For a 300 HP Pokémon:
 ### Version History
 - **Elite Redux**: Introduced as ID 572
 - **Current Status**: Active ability in the current meta
-- **Rarity**: Uncommon ability, found on select defensive Pokémon
+- **Rarity**: Uncommon ability, found on select defensive Pokemon

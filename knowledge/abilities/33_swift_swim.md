@@ -8,14 +8,12 @@ character_count: 295
 # Swift Swim - Ability ID 33
 
 ## In-Game Description
-"This Pokémon's Speed gets a 1.5x boost if rain is active."
+"This Pokemon's Speed gets a 1.5x boost if rain is active."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Swift Swim boosts the Pokémon's Speed by 50% during rain weather. Works with all forms of rain including regular rain, heavy rain, and Primordial Sea. The speed boost applies immediately when rain is active and disappears when rain ends. Stacks with other speed modifiers for sweeping potential.
-
-*Character count: 295*
+Swift Swim boosts the Pokemon's Speed by 50% during rain weather. Works with all forms of rain including regular rain, heavy rain, and Primordial Sea. The speed boost applies immediately when rain is active and disappears when rain ends. Stacks with other speed modifiers for sweeping potential.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -47,14 +45,14 @@ constexpr Ability SwiftSwim = {
 
 ### Interaction Rules:
 - **Stacking**: Multiplicative with other speed modifiers (Choice Scarf, paralysis, etc.)
-- **Weather Immunity**: Does NOT activate if the Pokémon is immune to weather effects
+- **Weather Immunity**: Does NOT activate if the Pokemon is immune to weather effects
 - **Turn Order**: Speed boost applies during stat calculation, affecting turn order immediately
 - **Switch In**: Takes effect immediately upon entering battle if rain is already active
 
 ### Calculation Examples:
-- Base 100 Speed → 150 Speed in rain
-- Base 100 Speed + Choice Scarf (1.5x) in rain → 225 Speed (100 × 1.5 × 1.5)
-- Base 100 Speed paralyzed (0.25x) in rain → 37.5 Speed (100 × 0.25 × 1.5)
+- Base 100 Speed to 150 Speed in rain
+- Base 100 Speed + Choice Scarf (1.5x) in rain to 225 Speed (100 x 1.5 x 1.5)
+- Base 100 Speed paralyzed (0.25x) in rain to 37.5 Speed (100 x 0.25 x 1.5)
 
 ### Synergistic Abilities and Effects:
 - **Rain Setters**: Drizzle, Primordial Sea
@@ -62,7 +60,7 @@ constexpr Ability SwiftSwim = {
 - **Rain Support**: Rain Dish (healing), Hydration (status cure), Thunder (100% accuracy)
 
 ### Strategic Applications:
-1. **Rain Sweeper**: High-powered offensive Pokémon using the speed boost to outpace threats
+1. **Rain Sweeper**: High-powered offensive Pokemon using the speed boost to outpace threats
 2. **Rain Support**: Fast pivoting and utility moves in rain teams
 3. **Choice Item Synergy**: Scarf users become nearly unstoppable under rain
 4. **Priority Bypass**: Outspeeding priority move users with the speed boost
@@ -76,7 +74,7 @@ constexpr Ability SwiftSwim = {
 
 ### Canonical Swift Swim Users:
 - Water-types traditionally: Kingdra, Ludicolo, Kabutops, Seismitoad
-- In Elite Redux: Various Pokémon including hybrid abilities that incorporate Swift Swim
+- In Elite Redux: Various Pokemon including hybrid abilities that incorporate Swift Swim
 
 ### Version History:
 - Gen 3+: Consistent 1.5x speed boost in rain

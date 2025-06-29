@@ -5,9 +5,17 @@ status: ai-generated
 character_count: 299
 ---
 
-# Snow Song (Ability #624)
+# Snow Song - Ability ID 624
 
-## Implementation Analysis
+## In-Game Description
+"Sound moves receive 1.2x damage boost and Normal sound moves become Ice-type."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Harmonizes battle prowess with icy melodies. Sound-based moves receive a powerful 1.2x damage boost, while Normal-type sound moves are converted to Ice-type, allowing for strategic type coverage. Perfect for Pokemon that rely on vocal attacks to freeze out the competition with enhanced precision.
+
+## Detailed Mechanical Explanation
 
 Snow Song is implemented in `src/abilities.cc` as a dual-effect ability that combines sound move enhancement with type conversion mechanics. The ability inherits its offensive multiplier from Liquid Voice while implementing its own type conversion logic.
 
@@ -26,7 +34,7 @@ Snow Song is implemented in `src/abilities.cc` as a dual-effect ability that com
 - Enhances Normal-type sound moves like Hyper Voice, Boomburst, and Round
 - Provides Ice typing for STAB or coverage against Grass, Ground, Flying, and Dragon types
 - Works synergistically with Refrigerate-like effects but specifically for sound moves
-- Particularly effective on Pokémon with natural sound move access
+- Particularly effective on Pokemon with natural sound move access
 
 ### Battle Interactions
 - Sound moves gain both damage boost and type advantage opportunities
@@ -34,6 +42,3 @@ Snow Song is implemented in `src/abilities.cc` as a dual-effect ability that com
 - Compatible with other sound-based abilities and items
 - Affected by Soundproof and similar sound-blocking abilities
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Harmonizes battle prowess with icy melodies. Sound-based moves receive a powerful 1.2x damage boost, while Normal-type sound moves are converted to Ice-type, allowing for strategic type coverage. Perfect for Pokémon that rely on vocal attacks to freeze out the competition with enhanced precision.

@@ -15,19 +15,17 @@ character_count: 295
 
 Half Drake adds Dragon typing as a third type upon entering battle. This grants STAB to Dragon moves and changes type matchups, adding weaknesses to Ice, Dragon, and Fairy while gaining resistances to Fire, Water, Electric, and Grass. The additional typing persists throughout the entire battle.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Half Drake is a type-adding ability that grants the Pokémon an additional Dragon typing upon entering battle. This is implemented through the `AddBattlerType` function, which assigns Dragon-type to the Pokémon's `type3` slot.
+Half Drake is a type-adding ability that grants the Pokemon an additional Dragon typing upon entering battle. This is implemented through the `AddBattlerType` function, which assigns Dragon-type to the Pokemon's `type3` slot.
 
 ### Activation Conditions
-- Triggers automatically when the Pokémon enters battle
-- Only activates if the Pokémon doesn't already have Dragon typing
+- Triggers automatically when the Pokemon enters battle
+- Only activates if the Pokemon doesn't already have Dragon typing
 - Cannot be suppressed by abilities like Mold Breaker
-- Persists for the entire duration the Pokémon remains in battle
+- Persists for the entire duration the Pokemon remains in battle
 
 ### Technical Implementation
 ```c
@@ -84,21 +82,21 @@ The ability uses the `IS_BATTLER_OF_TYPE` macro which checks all three type slot
 
 ### Example Damage Calculations
 **STAB Dragon Move:**
-- Base 90 Dragon Pulse: 90 × 1.5 = 135 effective power
-- Base 130 Draco Meteor: 130 × 1.5 = 195 effective power
+- Base 90 Dragon Pulse: 90 x 1.5 = 135 effective power
+- Base 130 Draco Meteor: 130 x 1.5 = 195 effective power
 
 **Defensive Multipliers:**
-- Fire-type move dealing 100 damage → 50 damage taken
-- Ice-type move dealing 100 damage → 200 damage taken
+- Fire-type move dealing 100 damage to 50 damage taken
+- Ice-type move dealing 100 damage to 200 damage taken
 
 ### Common Users
-Notable Pokémon with Half Drake ability:
+Notable Pokemon with Half Drake ability:
 - **Charizard line** (changeable ability)
 - **Hydreigon line** (innate ability)
 - **Aurorus** (innate ability)
 - **Tyrantrum** (innate ability) 
 - **Absol line** (changeable ability)
-- Various other Dragon and non-Dragon Pokémon
+- Various other Dragon and non-Dragon Pokemon
 
 ### Competitive Usage Notes
 **Team Synergy:**
@@ -113,8 +111,8 @@ Notable Pokémon with Half Drake ability:
 
 ### Counters
 **Direct Counters:**
-- Steel-type Pokémon (resist Dragon moves)
-- Fairy-type Pokémon (immune to Dragon, super effective back)
+- Steel-type Pokemon (resist Dragon moves)
+- Fairy-type Pokemon (immune to Dragon, super effective back)
 - Ice-type priority moves (exploit new weakness)
 - Dedicated Dragon-type walls
 

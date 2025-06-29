@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Pretty Princess increases the Pokémon's attack power by 50% against targets with any stat stage below zero. Triggers against debuffed opponents from moves like Intimidate, Growl, or self-inflicted stat drops. Works with all attack types and stacks with other damage modifiers.
-
-*Character count: 297*
+Pretty Princess increases the Pokemon's attack power by 50% against targets with any stat stage below zero. Triggers against debuffed opponents from moves like Intimidate, Growl, or self-inflicted stat drops. Works with all attack types and stacks with other damage modifiers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -114,7 +112,7 @@ bool8 HasAnyLoweredStat(u8 battler) {
 - **Intimidate support**: Team with Intimidate users to guarantee triggers
 - **Pivot synergy**: Works well with slow pivots that get Intimidated
 - **Late-game sweeper**: Excellent on revenge killers and cleanup sweepers
-- **Anti-setup role**: Put on Pokémon that check setup sweepers
+- **Anti-setup role**: Put on Pokemon that check setup sweepers
 
 ### Version History
 - Elite Redux exclusive ability

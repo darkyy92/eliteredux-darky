@@ -2,30 +2,24 @@
 id: 124
 name: Pickpocket
 status: ai-generated
-character_count: 290
+character_count: 293
 ---
 
-# Pickpocket
+# Pickpocket - Ability ID 124
 
-## Summary
-Pickpocket is a contact-triggered ability that allows the holder to steal the opponent's held item when hit by a contact move. This theft mechanic provides strategic item disruption and potential item gain, making it particularly valuable against item-dependent strategies.
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-**In-game description:** "Steals the foe's held item on contact."
+## In-Game Description
+"Steals the foe's held item on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pickpocket activates when the holder is hit by a contact move, automatically stealing the attacker's held item if possible. The stolen item immediately benefits the thief. Fails if the holder already has an item, the target has Sticky Hold/Supersweet Syrup, or the item cannot be removed. Works even through substitute.
+Pickpocket activates when hit by contact moves, automatically stealing the attacker's held item if the holder has no item. Stolen items benefit the thief immediately. Fails if target has Sticky Hold or Supersweet Syrup abilities, or holds unstealable items. Works through Substitute.
 
-**Character count:** 290
-
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Activation Conditions
-- Triggers when the Pokémon with Pickpocket is hit by a **contact move**
-- The Pokémon must take damage from the attack
+- Triggers when the Pokemon with Pickpocket is hit by a **contact move**
+- The Pokemon must take damage from the attack
 - The move must not have "no effect" (type immunity, etc.)
 - Activates during the MOVEEND phase after damage calculation
 
@@ -39,7 +33,7 @@ Pickpocket activates when the holder is hit by a contact move, automatically ste
 
 ### Special Interactions
 - **Works through Substitute** - Unlike many abilities, Pickpocket bypasses substitutes
-- **Priority System** - If multiple Pokémon could trigger Pickpocket, one is randomly selected
+- **Priority System** - If multiple Pokemon could trigger Pickpocket, one is randomly selected
 - **Immediate Effect** - Stolen items take effect immediately (e.g., Choice items, Leftovers)
 - **Ability Popup** - Shows ability activation animation when successful
 - **Sheer Force** - Does not activate if attacker has Sheer Force and uses a boosted move
@@ -69,13 +63,13 @@ Pickpocket activates when the holder is hit by a contact move, automatically ste
 ### Strategy Tips
 - **Lead Position** - Effective on leads to disrupt opponent's initial strategy
 - **Knock Off Synergy** - Pair with Knock Off users to create item-stealing opportunities
-- **Defensive Builds** - Works well on bulky Pokémon that can take multiple hits
+- **Defensive Builds** - Works well on bulky Pokemon that can take multiple hits
 - **Anti-Choice** - Particularly effective against Choice item users who get locked into contact moves
 
-## Known Pokémon with Pickpocket
-Several Pokémon lines have access to Pickpocket, often as a secondary ability option:
-- Dark-type trickster Pokémon (fitting the thief theme)
-- Pokémon with deceptive or mischievous characteristics
+## Known Pokemon with Pickpocket
+Several Pokemon lines have access to Pickpocket, often as a secondary ability option:
+- Dark-type trickster Pokemon (fitting the thief theme)
+- Pokemon with deceptive or mischievous characteristics
 - Often paired with other disruption-based abilities
 
 ## History and Trivia

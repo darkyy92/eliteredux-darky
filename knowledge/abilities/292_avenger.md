@@ -8,24 +8,22 @@ character_count: 295
 # Avenger - Ability ID 292
 
 ## In-Game Description
-"If a party Pokémon fainted last turn, next move gets 1.5x boost."
+"If a party Pokemon fainted last turn, next move gets 1.5x boost."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Avenger boosts the power of all moves by 50% for one turn after any party Pokémon faints. The damage boost applies to any move used while the retaliation timer is active. This revenge-based ability helps teams recover momentum after losing a teammate, making it excellent for comeback scenarios.
-
-*Character count: 295*
+Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. The damage boost applies to any move used while the retaliation timer is active. This revenge-based ability helps teams recover momentum after losing a teammate, making it excellent for comeback scenarios.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Avenger is a revenge-based ability that provides a significant offensive boost following the loss of a party member. The ability functions through a side-timer system that tracks when a Pokémon has fainted.
+Avenger is a revenge-based ability that provides a significant offensive boost following the loss of a party member. The ability functions through a side-timer system that tracks when a Pokemon has fainted.
 
 ### Activation Conditions
-- Triggers when any Pokémon on the same side faints
-- The retaliation timer is set to 2 when a Pokémon faints
+- Triggers when any Pokemon on the same side faints
+- The retaliation timer is set to 2 when a Pokemon faints
 - The ability provides the damage boost when `retaliateTimer > 0`
 - Timer decrements by 1 at the end of each turn
 
@@ -44,11 +42,11 @@ constexpr Ability Avenger = {
 };
 ```
 
-The timer is set when a Pokémon faints:
+The timer is set when a Pokemon faints:
 ```cpp
-// When player Pokémon faints
+// When player Pokemon faints
 gSideTimers[0].retaliateTimer = 2;
-// When opponent Pokémon faints  
+// When opponent Pokemon faints  
 gSideTimers[1].retaliateTimer = 2;
 ```
 
@@ -71,7 +69,7 @@ if (gSideTimers[B_SIDE_OPPONENT].retaliateTimer > 0)
 - **Works alongside** Choice items, Life Orb, and other damage-boosting items
 - **Compatible with** weather effects and terrain boosts
 - **Functions in** both singles and doubles battles
-- **Side-based effect**: Only applies to the side that lost a Pokémon
+- **Side-based effect**: Only applies to the side that lost a Pokemon
 
 ### Strategic Implications
 - **Comeback Potential**: Excellent for turning the tide after losing a key team member
@@ -81,22 +79,22 @@ if (gSideTimers[B_SIDE_OPPONENT].retaliateTimer > 0)
 
 ### Example Damage Calculations
 Assuming a base 100 power move with STAB:
-- **Normal**: 100 × 1.5 (STAB) = 150 power
-- **With Avenger**: 100 × 1.5 (STAB) × 1.5 (Avenger) = 225 power
+- **Normal**: 100 x 1.5 (STAB) = 150 power
+- **With Avenger**: 100 x 1.5 (STAB) x 1.5 (Avenger) = 225 power
 - **Effective boost**: 50% increase over normal STAB damage
 
 ### Common Users
 Avenger is typically found on:
 - **Revenge sweepers** that come in after a teammate falls
 - **Late-game cleaners** that capitalize on weakened opposing teams  
-- **Support Pokémon** that can deal significant damage when needed
-- **Pokémon with wide movepools** to threaten multiple types
+- **Support Pokemon** that can deal significant damage when needed
+- **Pokemon with wide movepools** to threaten multiple types
 
 ### Competitive Usage Notes
-- **Team positioning**: Best on Pokémon that can switch in safely after a KO
+- **Team positioning**: Best on Pokemon that can switch in safely after a KO
 - **Move selection**: Pairs well with high base power moves
 - **Timing critical**: The one-turn window requires careful prediction
-- **Risk vs Reward**: Losing a Pokémon is costly, but the power boost can be game-changing
+- **Risk vs Reward**: Losing a Pokemon is costly, but the power boost can be game-changing
 
 ### Counters
 - **Priority moves**: Can revenge kill before Avenger activates

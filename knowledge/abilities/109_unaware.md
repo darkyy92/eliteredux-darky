@@ -15,8 +15,6 @@ character_count: 300
 
 Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers like Dragon Dance users and ignore defensive boosts, while also being unaffected by opponent stat debuffs.
 
-*Character count: 300*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

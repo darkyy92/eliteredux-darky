@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-This Pokémon combines devastating tactics: deals 25% more damage to status-afflicted targets, uses their weaker defensive stat, and automatically lands critical hits on poisoned, paralyzed, bleeding, or speed-reduced foes. A true predator's instinct.
-
-*Character count: 289*
+This Pokemon combines devastating tactics: deals 25% more damage to status-afflicted targets, uses their weaker defensive stat, and automatically lands critical hits on poisoned, paralyzed, bleeding, or speed-reduced foes. A true predator's instinct.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ This Pokémon combines devastating tactics: deals 25% more damage to status-affl
 Relentless is a powerful hybrid ability that combines two distinct offensive abilities:
 
 ### Exploit Weakness Component:
-- **Damage Boost**: Deals 25% more damage (1.25× multiplier) to targets with any status condition
+- **Damage Boost**: Deals 25% more damage (1.25x multiplier) to targets with any status condition
 - **Stat Targeting**: Automatically targets the opponent's weaker defensive stat (Defense vs Special Defense) when they have a status condition
 - **Status Detection**: Triggers on any status condition or ability-induced state that qualifies as "HasAnyStatusOrAbility"
 

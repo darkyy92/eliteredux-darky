@@ -2,21 +2,20 @@
 id: 194
 name: Emergency Exit
 status: ai-generated
-character_count: 285
+character_count: 286
 ---
 
-# Emergency Exit (ID: 194)
+# Emergency Exit - Ability ID 194
 
-## Current Description
+## In-Game Description
 "At 1/2 of max HP or below, instantly switches out."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-When this Pokémon's HP drops to half or below from an attack, it automatically switches out at the end of the turn in trainer battles only. Requires usable party members and cannot be prevented by trapping effects. The switching occurs after all move effects resolve completely safely.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-**Character count: 291**
+When this Pokemon's HP drops to half or below from an attack, it automatically switches out at the end of the turn in trainer battles only. Requires usable party members and cannot be prevented by trapping effects. The switching occurs after all move effects resolve completely safely.
 
-## Technical Analysis
+## Detailed Mechanical Explanation
 
 ### Implementation Details
 Emergency Exit is implemented identically to Wimp Out - they share the same `onDefender` function that:
@@ -38,7 +37,7 @@ Emergency Exit is implemented identically to Wimp Out - they share the same `onD
 - **HP Threshold**: Exactly 50% max HP or below
 - **Damage Source**: Must be from an opponent's attack
 - **Battle Type**: Trainer battles only (not wild battles)
-- **Party Status**: Must have switchable Pokémon available
+- **Party Status**: Must have switchable Pokemon available
 - **Timing**: Only on the final hit of multi-hit moves
 - **Status**: Cannot be prevented by trapping moves/abilities
 
@@ -68,20 +67,20 @@ Emergency Exit is implemented identically to Wimp Out - they share the same `onD
 - **Focus Sash**: Survive to exactly 1 HP and trigger
 - **Healing Items**: Sitrus Berry can interfere with timing
 
-### Pokémon Distribution
-Found on several Pokémon as both regular and innate abilities:
-- Speed-oriented Pokémon (Deoxys forms)
-- Defensive support Pokémon (Audino variants)
+### Pokemon Distribution
+Found on several Pokemon as both regular and innate abilities:
+- Speed-oriented Pokemon (Deoxys forms)
+- Defensive support Pokemon (Audino variants)
 - Mixed offensive/defensive roles
 
 ### Battle Scenarios
 
 **Scenario 1: Damage Threshold**
-- Pokémon at 60% HP takes 25% damage → Triggers (now at 35%)
-- Pokémon at 45% HP takes damage → Does not trigger (already below threshold)
+- Pokemon at 60% HP takes 25% damage to Triggers (now at 35%)
+- Pokemon at 45% HP takes damage to Does not trigger (already below threshold)
 
 **Scenario 2: Multi-hit Moves**
-- Double Kick: First hit brings to 45%, second hit to 20% → Triggers after second hit
+- Double Kick: First hit brings to 45%, second hit to 20% to Triggers after second hit
 - Triple Kick: Only checks after final hit regardless of intermediate HP
 
 **Scenario 3: Battle Format**

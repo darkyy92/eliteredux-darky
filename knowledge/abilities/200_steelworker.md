@@ -15,8 +15,6 @@ character_count: 292
 
 Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves. This unique combination of offensive type conversion and defensive resistances provides exceptional versatility in battle.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,8 +22,8 @@ Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel m
 Steelworker is a hybrid ability that combines the ATE (type-conversion) family mechanics with unique defensive properties. It serves dual purposes as both an offensive type converter and a defensive resistance provider.
 
 ### Type Conversion Component (ATE_ABILITY)
-- **Normal-to-Steel conversion**: All Normal-type moves used by the Pokémon become Steel-type
-- **STAB access**: The Pokémon gains STAB (1.5x damage) for ALL Steel-type moves, regardless of original typing
+- **Normal-to-Steel conversion**: All Normal-type moves used by the Pokemon become Steel-type
+- **STAB access**: The Pokemon gains STAB (1.5x damage) for ALL Steel-type moves, regardless of original typing
 - **Pre-damage conversion**: Type conversion occurs before damage calculation and type effectiveness
 - **Elite Redux difference**: Unlike main series, no additional 1.2x power boost to converted moves
 
@@ -37,7 +35,7 @@ Steelworker is a hybrid ability that combines the ATE (type-conversion) family m
 ### Technical Implementation
 ```c
 constexpr Ability Steelworker = {
-    ATE_ABILITY(TYPE_STEEL),  // Normal→Steel conversion + Steel STAB
+    ATE_ABILITY(TYPE_STEEL),  // NormaltoSteel conversion + Steel STAB
     .onAfterTypeEffectiveness =
         +[](ON_AFTER_TYPE_EFFECTIVENESS) {
             if (moveType == TYPE_DARK || moveType == TYPE_GHOST) *mod /= 2;
@@ -52,18 +50,18 @@ constexpr Ability Steelworker = {
 **Offensive Benefits:**
 - Converts Normal moves like Body Slam, Return, Hyper Voice to Steel-type with STAB
 - Grants Steel STAB to non-Steel types, allowing super-effective hits on Rock, Ice, Fairy
-- Excellent for Pokémon with expansive Normal movepools
+- Excellent for Pokemon with expansive Normal movepools
 - Steel typing provides neutral coverage against most types
 
 **Defensive Benefits:**
 - Half damage from Dark moves (counters Knock Off, Crunch, Dark Pulse)
 - Half damage from Ghost moves (counters Shadow Ball, Shadow Claw, Hex)
-- Provides defensive utility typically unavailable to most Pokémon
+- Provides defensive utility typically unavailable to most Pokemon
 - Creates favorable matchups against Dark and Ghost-type specialists
 
 **Unique Positioning:**
 - Only ability that combines type conversion with specific type resistances
-- Allows offensive Pokémon to have defensive utility against common attacking types
+- Allows offensive Pokemon to have defensive utility against common attacking types
 - Particularly valuable in Elite Redux's multi-ability system as innate ability
 
 ### Common Users and Synergies
@@ -71,7 +69,7 @@ Based on species data analysis:
 - **Magnezone line**: Natural Steel typing benefits from enhanced STAB coverage
 - **Durant**: Bug/Steel with access to powerful Normal moves to convert
 - **Dialga variants**: Legendary with Steel typing gains additional defensive utility
-- **Custom Elite Redux Pokémon**: Various fan-made species utilize this unique combination
+- **Custom Elite Redux Pokemon**: Various fan-made species utilize this unique combination
 
 ### Competitive Usage Notes
 - **Team role flexibility**: Can function as both offensive converter and defensive pivot
@@ -92,8 +90,8 @@ Based on species data analysis:
 - Electric types (0.5x damage)
 
 **Defensive resistances provided:**
-- Dark moves → 0.5x damage taken
-- Ghost moves → 0.5x damage taken
+- Dark moves to 0.5x damage taken
+- Ghost moves to 0.5x damage taken
 
 ### Counters and Limitations
 **Ability Suppression:**

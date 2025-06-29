@@ -8,24 +8,22 @@ character_count: 280
 # Arena Trap - Ability ID 71
 
 ## In-Game Description
-"Enemies can't flee. Ghosts and ungrounded Pokémon are immune."
+"Enemies can't flee. Ghosts and ungrounded Pokemon are immune."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Arena Trap prevents grounded enemy Pokémon from fleeing or switching out. Flying-type Pokémon, Pokémon with Levitate, Magnet Rise, Air Balloon, or Telekinesis are immune. Ghost-type Pokémon are also immune. Shed Shell bypasses this trap. Does not work on allies in double battles.
-
-*Character count: 285*
+Arena Trap prevents grounded enemy Pokemon from fleeing or switching out. Flying-type Pokemon, Pokemon with Levitate, Magnet Rise, Air Balloon, or Telekinesis are immune. Ghost-type Pokemon are also immune. Shed Shell bypasses this trap. Does not work on allies in double battles.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**ARENA TRAP** is a trapping ability that prevents certain opposing Pokémon from fleeing or switching out voluntarily.
+**ARENA TRAP** is a trapping ability that prevents certain opposing Pokemon from fleeing or switching out voluntarily.
 
 ### Activation Mechanics:
-- **Trigger**: Passive effect while the Pokémon is on the battlefield
-- **Target**: Grounded opposing Pokémon only
-- **Function**: onTrap hook that checks if the switching Pokémon is grounded
+- **Trigger**: Passive effect while the Pokemon is on the battlefield
+- **Target**: Grounded opposing Pokemon only
+- **Function**: onTrap hook that checks if the switching Pokemon is grounded
 
 ### Trapping Conditions:
 Arena Trap prevents escape if ALL of the following are true:
@@ -35,20 +33,20 @@ Arena Trap prevents escape if ALL of the following are true:
 4. **Target doesn't have Shed Shell**: Shed Shell bypasses all trapping effects
 
 ### Immunity Conditions:
-The following Pokémon are **immune** to Arena Trap:
-- **Flying-type Pokémon**: Always immune due to not being grounded
-- **Pokémon with Levitate**: Ability makes them ungrounded
-- **Pokémon affected by Magnet Rise**: Temporary levitation
-- **Pokémon holding Air Balloon**: Item-based levitation
-- **Pokémon affected by Telekinesis**: Move-based levitation
-- **Ghost-type Pokémon**: Type-based immunity (Gen 6+ rule)
-- **Pokémon with Shed Shell**: Item bypasses all trapping
+The following Pokemon are **immune** to Arena Trap:
+- **Flying-type Pokemon**: Always immune due to not being grounded
+- **Pokemon with Levitate**: Ability makes them ungrounded
+- **Pokemon affected by Magnet Rise**: Temporary levitation
+- **Pokemon holding Air Balloon**: Item-based levitation
+- **Pokemon affected by Telekinesis**: Move-based levitation
+- **Ghost-type Pokemon**: Type-based immunity (Gen 6+ rule)
+- **Pokemon with Shed Shell**: Item bypasses all trapping
 
 ### Interaction Rules:
-- **vs Double Battles**: Only affects opposing Pokémon, not allies
+- **vs Double Battles**: Only affects opposing Pokemon, not allies
 - **vs Grounding Effects**: Iron Ball, Gravity, Ingrain, etc. can make Flying-types vulnerable
 - **vs Run Away**: Shed Shell and Ghost-type immunity override Run Away ability
-- **vs Wild Battles**: Prevents fleeing from wild Pokémon battles
+- **vs Wild Battles**: Prevents fleeing from wild Pokemon battles
 
 ### Technical Implementation:
 ```c
@@ -59,21 +57,21 @@ constexpr Ability ArenaTrap = {
 };
 ```
 
-The ability simply checks if the Pokémon trying to switch is grounded. All other immunity checks (Ghost-type, Shed Shell, etc.) are handled by the battle system's escape logic.
+The ability simply checks if the Pokemon trying to switch is grounded. All other immunity checks (Ghost-type, Shed Shell, etc.) are handled by the battle system's escape logic.
 
 ### Competitive Notes:
 - Extremely powerful for revenge killing and trapping setup sweepers
-- Pairs well with fast attackers that can KO trapped Pokémon
+- Pairs well with fast attackers that can KO trapped Pokemon
 - Countered by switching to Ghost-types or Flying-types
 - Air Balloon is a common item specifically to counter trapping abilities
 - Shed Shell is the universal counter to all trapping abilities
 
 ### Related Abilities:
-- **Shadow Tag**: Traps all Pokémon except those with Shadow Tag
-- **Magnet Pull**: Traps Steel-type Pokémon specifically
+- **Shadow Tag**: Traps all Pokemon except those with Shadow Tag
+- **Magnet Pull**: Traps Steel-type Pokemon specifically
 - **Mean Look/Block**: Move-based trapping with different rules
 
 ### Version History:
-- Gen 3-5: Worked on all non-Flying, non-Levitate Pokémon
+- Gen 3-5: Worked on all non-Flying, non-Levitate Pokemon
 - Gen 6+: Ghost-types became immune (Elite Redux follows this rule)
 - Elite Redux: Full Gen 6+ implementation with Ghost immunity

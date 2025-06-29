@@ -15,19 +15,17 @@ character_count: 294
 
 Tar Toss automatically uses Tar Shot when switching into battle. The tar covers opponents, lowering their Speed by one stage and making them take double damage from Fire-type moves. Only works once per target per battle. Excellent for setting up Fire-type teammates or sweepers.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Tar Toss is an entry ability that automatically uses the move Tar Shot against opponents when the Pokémon switches into battle. This creates immediate battlefield control through both speed reduction and Fire-type vulnerability.
+Tar Toss is an entry ability that automatically uses the move Tar Shot against opponents when the Pokemon switches into battle. This creates immediate battlefield control through both speed reduction and Fire-type vulnerability.
 
 ### Activation Conditions
 - **Trigger**: Activates automatically on switch-in
-- **Targeting**: Targets opposing Pokémon present on the field
+- **Targeting**: Targets opposing Pokemon present on the field
 - **Usage**: Functions exactly like using the move Tar Shot with 100% accuracy
-- **Priority**: Executes as soon as the Pokémon enters battle
+- **Priority**: Executes as soon as the Pokemon enters battle
 
 ### Tar Shot Effects Applied
 1. **Speed Reduction**: Lowers target's Speed by one stage (same as -1 Speed)
@@ -63,13 +61,13 @@ if (moveType == TYPE_FIRE && gVolatileStructs[battlerDef].tarShot)
 
 ### Important Interactions
 - **Speed Stages**: Will fail speed reduction if target is already at -6 Speed
-- **Fire Immunity**: Fire-immune Pokémon still get speed reduction but no Fire weakness
-- **Status Persistence**: Tar effect lasts until the affected Pokémon switches out
+- **Fire Immunity**: Fire-immune Pokemon still get speed reduction but no Fire weakness
+- **Status Persistence**: Tar effect lasts until the affected Pokemon switches out
 - **Battle Reset**: Each new battle allows tar to be applied again to same species
 - **Multi-Target**: In doubles, can potentially affect multiple opponents
 
 ### Failure Conditions
-- **Already Tarred**: Cannot tar the same Pokémon twice in one battle
+- **Already Tarred**: Cannot tar the same Pokemon twice in one battle
 - **Magic Coat/Bounce**: Reflected back to user
 - **Speed at Minimum**: Speed reduction fails if target at -6 Speed (but Fire weakness still applies)
 - **Substitute**: Blocked by Substitute

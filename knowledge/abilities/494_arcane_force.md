@@ -15,8 +15,6 @@ character_count: 289
 
 Arcane Force grants all moves STAB (Same Type Attack Bonus), regardless of type matching. This mystical power also amplifies super-effective attacks by 10%, making hits that would normally deal 2x damage or more even stronger. A perfect fusion of versatility and power.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -68,7 +66,7 @@ constexpr Ability ArcaneForce = {
 
 ### Strategic Applications
 - **Universal coverage**: Every move becomes a STAB move
-- **Type flexibility**: No need to match move types to Pokémon types
+- **Type flexibility**: No need to match move types to Pokemon types
 - **Super-effective punishment**: Extra damage against weaknesses
 - **Coverage moves**: Status moves, Hidden Power, etc. all get STAB
 - **Consistent power**: Reliable damage across all moves

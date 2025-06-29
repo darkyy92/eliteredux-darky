@@ -15,13 +15,11 @@ character_count: 298
 
 Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Rock-type Stealth Rock present. The boost activates on damage from Rock moves or entry hazards. Turns Rock weakness into Speed advantage for sweeping potential with doubled speed.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Furnace is a reactive ability that converts Rock-type damage into Speed boosts. It provides immediate Speed increases through two distinct triggers, making it a powerful momentum ability for Pokémon that can survive Rock-type attacks.
+Furnace is a reactive ability that converts Rock-type damage into Speed boosts. It provides immediate Speed increases through two distinct triggers, making it a powerful momentum ability for Pokemon that can survive Rock-type attacks.
 
 ### Activation Conditions
 The ability has two separate activation mechanisms:
@@ -79,7 +77,7 @@ constexpr Ability Furnace = {
 #### Battle Mechanics
 - **Hit requirement**: Must take actual damage from Rock moves to trigger during battle
 - **Multi-hit moves**: Can potentially trigger on each hit of multi-hit Rock moves
-- **Status protection**: Ability functions normally even if Pokémon has status conditions
+- **Status protection**: Ability functions normally even if Pokemon has status conditions
 - **Stat boost caps**: Cannot raise Speed beyond +6 stages maximum
 
 #### Ability Interactions
@@ -91,7 +89,7 @@ constexpr Ability Furnace = {
 ### Strategic Applications
 
 #### Team Building Synergy
-- **Rock-weak Pokémon**: Transforms Rock weakness into Speed advantage
+- **Rock-weak Pokemon**: Transforms Rock weakness into Speed advantage
 - **Offensive sweepers**: Provides immediate setup opportunity after taking Rock damage
 - **Stealth Rock punishment**: Punishes common entry hazard with Speed boosts
 - **Momentum building**: Creates instant sweeping potential from defensive switches

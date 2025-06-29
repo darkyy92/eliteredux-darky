@@ -15,8 +15,6 @@ character_count: 290
 
 Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Affects moves like Hyper Voice, Boomburst, Sing, and Growl. Type change occurs before damage calculation for proper STAB and effectiveness. Provides excellent Water coverage while maintaining sound utility.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -45,14 +43,14 @@ Liquid Voice is a unique ability that combines type conversion with power boosti
 ```
 
 ### Affected Moves
-**Offensive Sound Moves** (Normal → Water + 1.2x boost):
-- Hyper Voice (95 → 114 BP)
-- Boomburst (140 → 168 BP) 
-- Round (60 → 72 BP)
-- Uproar (90 → 108 BP)
-- Echoed Voice (40 → 48 BP base)
+**Offensive Sound Moves** (Normal to Water + 1.2x boost):
+- Hyper Voice (95 to 114 BP)
+- Boomburst (140 to 168 BP) 
+- Round (60 to 72 BP)
+- Uproar (90 to 108 BP)
+- Echoed Voice (40 to 48 BP base)
 
-**Status Sound Moves** (Normal → Water, no damage boost):
+**Status Sound Moves** (Normal to Water, no damage boost):
 - Growl (becomes Water-type)
 - Roar (becomes Water-type)
 - Sing (becomes Water-type)
@@ -72,17 +70,17 @@ Liquid Voice is a unique ability that combines type conversion with power boosti
 - **Pixilate interactions**: Cannot stack with other -ate abilities
 
 ### Strategic Implications
-- **Coverage expansion**: Provides Water-type attacks to non-Water Pokémon
+- **Coverage expansion**: Provides Water-type attacks to non-Water Pokemon
 - **STAB synergy**: Excellent on Water-types for boosted STAB sound moves
 - **Utility retention**: Status sound moves maintain utility while gaining Water typing
 - **Sound immunity**: Vulnerable to Soundproof ability
-- **Type prediction**: Opponents may not expect Water-type moves from non-Water Pokémon
+- **Type prediction**: Opponents may not expect Water-type moves from non-Water Pokemon
 
 ### Common Users
 Based on codebase analysis, Liquid Voice appears on:
-- Pokémon with natural sound-based movesets
-- Water-type Pokémon seeking sound move utility
-- Pokémon requiring additional Water-type coverage
+- Pokemon with natural sound-based movesets
+- Water-type Pokemon seeking sound move utility
+- Pokemon requiring additional Water-type coverage
 - Mixed attackers using both offensive and utility sound moves
 
 ### Competitive Usage Notes
@@ -109,10 +107,10 @@ Based on codebase analysis, Liquid Voice appears on:
 
 ### Similar Abilities
 Liquid Voice is part of the "-ate" ability family that includes:
-- **Sand Song**: Normal sound → Ground + 1.2x boost
-- **Banshee**: Normal sound → Ghost + 1.2x boost  
-- **Snow Song**: Normal sound → Ice + 1.2x boost
-- **Power Metal**: Normal sound → Steel + 1.2x boost
+- **Sand Song**: Normal sound to Ground + 1.2x boost
+- **Banshee**: Normal sound to Ghost + 1.2x boost  
+- **Snow Song**: Normal sound to Ice + 1.2x boost
+- **Power Metal**: Normal sound to Steel + 1.2x boost
 
 These abilities share identical code structure with only type conversion differences.
 

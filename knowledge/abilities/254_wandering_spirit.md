@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokémon permanently exchange their abilities for the remainder of battle. Cannot affect Pokémon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
-
-*Character count: 293*
+When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon permanently exchange their abilities for the remainder of battle. Cannot affect Pokemon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ When hit by a contact move, Wandering Spirit swaps abilities with the attacker. 
 Wandering Spirit is a unique defensive ability that creates strategic ability-swapping dynamics in battle:
 
 ### Activation Conditions
-- **Trigger**: When the Pokémon with Wandering Spirit is hit by a contact move
+- **Trigger**: When the Pokemon with Wandering Spirit is hit by a contact move
 - **Contact Requirement**: Only physical moves that make contact (like Tackle, Punch moves) trigger the effect
 - **One-way Activation**: The defender must have Wandering Spirit; attackers with Wandering Spirit don't trigger swaps when attacking
 
@@ -32,12 +30,12 @@ The ability swap is blocked by several protective measures:
 - **Ability Shield**: Held item that prevents ability changes
 - **Persistent Abilities**: Abilities marked as persistent in the code cannot be swapped away
 - **Unsuppressable Abilities**: Abilities like Neutralizing Gas that cannot be suppressed or changed
-- **Same Ability**: If both Pokémon already have Wandering Spirit, no swap occurs
+- **Same Ability**: If both Pokemon already have Wandering Spirit, no swap occurs
 
 ### Swap Mechanics
-1. **Bidirectional Exchange**: Both Pokémon permanently exchange abilities
+1. **Bidirectional Exchange**: Both Pokemon permanently exchange abilities
 2. **Battle Duration**: The swap lasts for the entire battle, even through switches
-3. **State Updates**: The game properly updates ability state indices for both Pokémon
+3. **State Updates**: The game properly updates ability state indices for both Pokemon
 4. **Multiple Activations**: If the new ability holder gets hit by contact again, another swap can occur
 
 ### Strategic Applications

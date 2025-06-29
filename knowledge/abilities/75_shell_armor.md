@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon's shell prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokémon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
-
-*Character count: 285*
+This Pokemon's shell prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokemon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ This Pokémon's shell prevents critical hits from landing. Additionally, all inc
 Shell Armor in Elite Redux is functionally identical to Battle Armor, providing two powerful defensive effects:
 
 1. **Critical Hit Immunity**
-   - Completely prevents critical hits from occurring against this Pokémon
+   - Completely prevents critical hits from occurring against this Pokemon
    - This includes guaranteed critical hit moves like Frost Breath and Storm Throw
    - Also blocks critical hits from items like Scope Lens or moves like Focus Energy
 
@@ -70,23 +68,23 @@ These abilities are functionally identical in Elite Redux:
 - **Only difference**: Ability ID numbers (Shell Armor = 75, Battle Armor = 4)
 
 ### Strategic Implications
-- Excellent on defensive Pokémon and tanks
-- Particularly valuable on Pokémon with low Defense or Special Defense
+- Excellent on defensive Pokemon and tanks
+- Particularly valuable on Pokemon with low Defense or Special Defense
 - Removes the RNG element of critical hits in important battles
 - Makes stat calculations more predictable for defensive plays
 
 ### Example Damage Calculations
 For a move that would normally deal 100 damage:
-- Normal hit: 100 × 0.8 = **80 damage**
-- What would be a critical hit: 150 × 0.8 = **120 damage** → But crit is prevented, so still **80 damage**
-- Effective bulk increase: A Pokémon with 400 HP effectively has 500 HP worth of bulk
+- Normal hit: 100 x 0.8 = **80 damage**
+- What would be a critical hit: 150 x 0.8 = **120 damage** to But crit is prevented, so still **80 damage**
+- Effective bulk increase: A Pokemon with 400 HP effectively has 500 HP worth of bulk
 
 ### Common Users
-Shell Armor is available on various Pokémon including:
-- Water-type Pokémon with shells (Squirtle line, Shellder line)
+Shell Armor is available on various Pokemon including:
+- Water-type Pokemon with shells (Squirtle line, Shellder line)
 - Defensive Rock and Steel-types
-- Armored Pokémon like Shieldon, Bastiodon
-- Various Pokémon as both changeable and innate abilities
+- Armored Pokemon like Shieldon, Bastiodon
+- Various Pokemon as both changeable and innate abilities
 
 ### Competitive Usage Notes
 - S-tier defensive ability combining two powerful effects
@@ -99,7 +97,7 @@ Shell Armor is available on various Pokémon including:
 - **Mold Breaker**: Completely bypasses Shell Armor's effects
 - **Fixed damage moves**: Seismic Toss, Night Shade bypass the reduction
 - **Status conditions**: Burn, Poison, etc. deal percentage-based damage
-- **Stat-lowering moves**: Reduce the Pokémon's defenses
+- **Stat-lowering moves**: Reduce the Pokemon's defenses
 - **Super effective moves**: Still deal significant damage despite reduction
 - **Knock Off**: Can remove items that further boost defense
 

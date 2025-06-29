@@ -5,21 +5,17 @@ status: ai-generated
 character_count: 298
 ---
 
-# Pure Love
+# Pure Love - Ability ID 508
 
-**Ability ID**: 508
-**Type**: Regular Ability
-
-**In-Game Description**: "Infatuates on contact. Heal 25% damage vs infatuated."
+## In-Game Description
+"Infatuates on contact. Heal 25% damage vs infatuated."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Infatuates on contact ignoring all gender requirements. Can infatuate genderless, same-gender, or any Pokemon unlike regular infatuation. Heals 25% of damage dealt when attacking infatuated targets. One of only two abilities (with Beautiful Music) that bypasses gender restrictions for infatuation.
 
-*Character count: 298*
-
-## Detailed Mechanical Explanation (Discord/Reference)
+## Detailed Mechanical Explanation
 
 Pure Love is defined in abilities.cc (lines 5386-5400):
 
@@ -42,9 +38,9 @@ constexpr Ability PureLove = {
 ```
 
 **Key Features:**
-1. **Bypasses Gender Restrictions**: The `canInfatuateAny = TRUE` flag allows infatuation of any Pokémon
+1. **Bypasses Gender Restrictions**: The `canInfatuateAny = TRUE` flag allows infatuation of any Pokemon
 2. **Contact-Based Infatuation**: 50% chance to infatuate attacker on contact (like Cute Charm)
-3. **Healing from Infatuated Targets**: Heals 25% of damage dealt when attacking infatuated Pokémon
+3. **Healing from Infatuated Targets**: Heals 25% of damage dealt when attacking infatuated Pokemon
 
 ## Trigger Conditions
 
@@ -62,7 +58,7 @@ constexpr Ability PureLove = {
 
 **Infatuation Chance:**
 - **Probability**: 50% on contact moves
-- **Gender Bypass**: Works on any Pokémon regardless of gender
+- **Gender Bypass**: Works on any Pokemon regardless of gender
 
 **Healing Amount:**
 - **Formula**: 25% of damage dealt to infatuated target
@@ -78,8 +74,8 @@ if (BATTLER_HAS_ABILITY(battlerAtk, ABILITY_PURE_LOVE)) return TRUE;  // Bypasse
 ```
 
 **Normal infatuation fails if:**
-- Either Pokémon is genderless
-- Both Pokémon have the same gender
+- Either Pokemon is genderless
+- Both Pokemon have the same gender
 - Target is already infatuated
 - Various protections apply
 
@@ -104,10 +100,10 @@ if (BATTLER_HAS_ABILITY(battlerAtk, ABILITY_PURE_LOVE)) return TRUE;  // Bypasse
 
 **Answer to User Question: "Does the opposing mon have to be the opposite gender?"**
 
-**For Pure Love: NO!** Pure Love can infatuate literally any Pokémon regardless of gender. This includes:
-- Same-gender Pokémon
-- Opposite-gender Pokémon  
-- Genderless Pokémon (Magnezone, Rotom, etc.)
+**For Pure Love: NO!** Pure Love can infatuate literally any Pokemon regardless of gender. This includes:
+- Same-gender Pokemon
+- Opposite-gender Pokemon  
+- Genderless Pokemon (Magnezone, Rotom, etc.)
 
 **For standard infatuation: YES!** Normal Attract, regular Cute Charm, etc. still require opposite genders.
 

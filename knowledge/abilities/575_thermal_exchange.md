@@ -15,17 +15,15 @@ character_count: 282
 
 Thermal Exchange boosts Attack by one stage when hit by Fire-type moves and grants complete immunity to burn status. The Attack boost applies immediately after taking damage from any Fire attack. Burn cannot be inflicted by moves, abilities, or items. Stacks with other stat boosts.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 Thermal Exchange provides two distinct defensive effects against Fire-type attacks:
 
-1. **Attack Boost on Fire Damage**: When the Pokémon is hit by a Fire-type move that would deal damage, its Attack stat is raised by +1 stage immediately after damage calculation.
+1. **Attack Boost on Fire Damage**: When the Pokemon is hit by a Fire-type move that would deal damage, its Attack stat is raised by +1 stage immediately after damage calculation.
 
-2. **Complete Burn Immunity**: The Pokémon cannot be inflicted with burn status through any means, including moves like Will-O-Wisp, abilities like Flame Body, or items like Flame Orb.
+2. **Complete Burn Immunity**: The Pokemon cannot be inflicted with burn status through any means, including moves like Will-O-Wisp, abilities like Flame Body, or items like Flame Orb.
 
 ### Activation Conditions
 - **Attack Boost**: Triggers on `onDefender` when:
@@ -99,7 +97,7 @@ All moves with `TYPE_FIRE` classification trigger the Attack boost, including bu
 - Good on defensive pivots that can tank Fire moves and gain offensive presence
 
 ### Example Damage Calculations
-Assuming base 100 Attack Pokémon with neutral nature:
+Assuming base 100 Attack Pokemon with neutral nature:
 - **Base**: 100 Attack = 236 final Attack stat at level 50
 - **+1 Stage**: 150% = 354 Attack (50% increase)
 - **+2 Stages**: 200% = 472 Attack (100% increase)
@@ -107,10 +105,10 @@ Assuming base 100 Attack Pokémon with neutral nature:
 
 ### Common Users in Elite Redux
 Based on proto data analysis:
-- Various Ice-type Pokémon (creating Fire/Ice type interactions)
+- Various Ice-type Pokemon (creating Fire/Ice type interactions)
 - Steel-types that benefit from Fire resistance and Attack boosts
 - Physical attackers that want burn immunity
-- Defensive Pokémon that can pivot and gain offensive presence
+- Defensive Pokemon that can pivot and gain offensive presence
 
 ### Competitive Usage Notes
 
@@ -135,4 +133,4 @@ Based on proto data analysis:
 ### Version History
 - Added in Elite Redux as ability ID 575
 - Breakable ability (affected by Mold Breaker, Teravolt, Turboblaze)
-- Functions identically to the official Pokémon games implementation
+- Functions identically to the official Pokemon games implementation

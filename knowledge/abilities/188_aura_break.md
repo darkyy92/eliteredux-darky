@@ -2,21 +2,20 @@
 id: 188
 name: Aura Break
 status: ai-generated
-character_count: 298
+character_count: 299
 ---
 
-# Aura Break (Ability ID 188)
+# Aura Break - Ability ID 188
 
-## Current Description
+## In-Game Description
 "Cancels aura abilities and makes them 25% weaker instead."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Reverses aura abilities' effects, causing Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%. Only affects Dark-type and Fairy-type move power boosts. Battle Aura and other aura-named abilities remain unaffected by this field-wide reversal effect.
 
-**Character count: 288** ✓
-
-## Mechanics Analysis
+## Detailed Mechanical Explanation
 
 ### Core Functionality
 - **Field Presence**: Aura Break affects the battlefield while the Pokemon is active

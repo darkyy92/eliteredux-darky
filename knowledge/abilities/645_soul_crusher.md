@@ -5,12 +5,17 @@ status: ai-generated
 character_count: 299
 ---
 
-# Soul Crusher
+# Soul Crusher - Ability ID 645
+
+## In-Game Description
+Hammer moves deal 10% more damage and use target's Special Defense.
 
 ## Extended In-Game Description
 Soul Crusher enhances the wielder's mastery over hammer-based combat techniques. The ability boosts the power of hammer moves like Slam, Crabhammer, and Hammer Arm by 10%, while forcing opponents to use their special defense instead of defense when calculating damage from these devastating attacks.
 
-## Technical Implementation
+## Detailed Mechanical Explanation
+
+### Technical Implementation
 
 The Soul Crusher ability affects hammer-based moves in two ways:
 
@@ -19,7 +24,7 @@ The Soul Crusher ability affects hammer-based moves in two ways:
 
 This creates a unique dynamic where physical hammer moves become more effective against physically defensive opponents, as they must rely on their typically weaker special defense stat.
 
-## Affected Moves
+### Affected Moves
 
 Hammer-based moves include:
 - Slam
@@ -27,14 +32,14 @@ Hammer-based moves include:
 - Hammer Arm
 - And other moves with the hammer flag
 
-## Synergies
+### Synergies
 
 Soul Crusher works particularly well with:
 - Pokemon with high Attack stats
 - Movesets focused on hammer-based moves
 - Strategies targeting physically bulky opponents
 
-## Counterplay
+### Counterplay
 
 - Use Pokemon with high Special Defense
 - Avoid switching in physically defensive walls

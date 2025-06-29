@@ -5,12 +5,14 @@ status: ai-generated
 character_count: 294
 ---
 
-# Flower Gift
+# Flower Gift - Ability ID 122
 
-## Current Description
-Increases the party's SpAtk and SpDef by 1.5x in Sun.
+## In-Game Description
+"Increases the party's SpAtk and SpDef by 1.5x in Sun."
 
 ## Extended In-Game Description
-Flower Gift boosts the Special Attack and Special Defense of the Pokémon and all its allies by 50% during sunny weather. The boost activates immediately when sun appears and applies to all forms of sun including regular sun and harsh sun. This party-wide boost makes it exceptional for sun-based teams where special attackers can benefit from both the offensive and defensive boosts.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Character count: 294
+Flower Gift boosts the Special Attack and Special Defense of the Pokemon and all its allies by 50% during sunny weather. The boost activates immediately when sun appears and applies to all forms of sun including regular sun and harsh sun. This party-wide boost makes it exceptional for sun-based teams where special attackers can benefit from both the offensive and defensive boosts.
+
+## Detailed Mechanical Explanation

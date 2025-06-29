@@ -13,14 +13,12 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Rose Garden instantly spreads two layers of Toxic Spikes on the opponent's side when the Pokémon enters battle. Any grounded enemy that switches in will be badly poisoned, taking increasing damage each turn. Flying types and Poison types are immune to this effect.
-
-*Character count: 297*
+Rose Garden instantly spreads two layers of Toxic Spikes on the opponent's side when the Pokemon enters battle. Any grounded enemy that switches in will be badly poisoned, taking increasing damage each turn. Flying types and Poison types are immune to this effect.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Rose Garden is an entry hazard ability that automatically sets two layers of Toxic Spikes on the opponent's side of the field when the Pokémon with this ability enters battle.
+Rose Garden is an entry hazard ability that automatically sets two layers of Toxic Spikes on the opponent's side of the field when the Pokemon with this ability enters battle.
 
 ### Core Mechanics
 ```cpp
@@ -45,8 +43,8 @@ constexpr Ability RoseGarden = {
 
 ### Toxic Spikes Layer Effects
 Based on the battle system implementation:
-- **1 layer**: Incoming Pokémon are inflicted with regular poison (STATUS1_POISON)
-- **2 layers**: Incoming Pokémon are inflicted with badly poisoned/toxic poison (STATUS1_TOXIC_POISON)
+- **1 layer**: Incoming Pokemon are inflicted with regular poison (STATUS1_POISON)
+- **2 layers**: Incoming Pokemon are inflicted with badly poisoned/toxic poison (STATUS1_TOXIC_POISON)
 - Rose Garden immediately sets 2 layers, ensuring maximum poison effect
 
 ### Technical Implementation
@@ -58,8 +56,8 @@ else
     gBattleMons[gActiveBattler].status1 |= STATUS1_POISON;
 ```
 
-### Affected Pokémon
-- **Grounded Pokémon**: Take badly poisoned status when switching in
+### Affected Pokemon
+- **Grounded Pokemon**: Take badly poisoned status when switching in
 - **Flying types**: Immune to Toxic Spikes (not grounded)
 - **Levitate users**: Immune to Toxic Spikes (not grounded)
 - **Poison types**: Absorb the Toxic Spikes, removing them from the field
@@ -105,10 +103,10 @@ else
 
 ### Synergies
 - **Spikes/Stealth Rock setters**: Stack multiple hazard types
-- **Pursuit users**: Trap Pokémon trying to escape poison damage
+- **Pursuit users**: Trap Pokemon trying to escape poison damage
 - **Healing support**: Keep Rose Garden user healthy for multiple entries
 - **U-turn/Volt Switch**: Maintain momentum while setting hazards
 
 ### Version History
 - Introduced in Elite Redux as a unique entry hazard ability
-- Part of the expanded ability system for signature Pokémon effects
+- Part of the expanded ability system for signature Pokemon effects

@@ -1,19 +1,19 @@
 ---
 id: 227
-name: "Psychic Surge (Ability ID: 227)"
+name: Psychic Surge
 status: ai-generated
-character_count: 272
+character_count: 273
 ---
 
-# Psychic Surge (Ability ID: 227)
+# Psychic Surge - Ability ID 227
 
 ## In-Game Description
 "Casts Psychic Terrain on entry. Lasts 8 turns."
 
-## Extended In-Game Description (280-300 chars)
-Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides terrains.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 296*
+Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides terrains.
 
 ## Detailed Mechanical Explanation
 **Psychic Surge** automatically establishes Psychic Terrain upon entering battle, providing priority protection and Psychic-type enhancement.
@@ -31,7 +31,7 @@ Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounde
 
 ### Psychic Terrain Effects
 1. **Priority Move Protection**:
-   - Grounded Pokémon immune to opponent's priority moves
+   - Grounded Pokemon immune to opponent's priority moves
    - Blocks: Quick Attack, Fake Out, Extreme Speed, etc.
    - Does NOT block ally's priority moves
    - Prankster status moves also blocked
@@ -43,7 +43,7 @@ Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounde
    - Only affects grounded attackers
 
 3. **Move Interactions**:
-   - Expanding Force: Power 80→120, hits both opponents
+   - Expanding Force: Power 80to120, hits both opponents
    - Nature Power: Becomes Psychic
    - Secret Power: Lowers Speed by 1 stage
    - Camouflage: User becomes Psychic-type
@@ -68,7 +68,7 @@ Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounde
 
 ### Grounded vs Airborne
 **Protected by terrain**:
-- Non-Flying/Levitating Pokémon
+- Non-Flying/Levitating Pokemon
 - Not using Magnet Rise
 - No Air Balloon
 

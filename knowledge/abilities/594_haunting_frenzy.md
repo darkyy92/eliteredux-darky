@@ -5,14 +5,21 @@ status: ai-generated
 character_count: 293
 ---
 
-# Haunting Frenzy - Comprehensive Analysis
+# Haunting Frenzy - Ability ID 594
 
-## Basic Information
-- **Ability ID**: 594 (ABILITY_HAUNTING_FRENZY)
-- **Name**: Haunting Frenzy
-- **Official Description**: "20% chance to flinch the opponent. +1 speed on kill."
+## In-Game Description
+"20% chance to flinch the opponent. +1 speed on kill."
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Haunting Frenzy grants attacks a 20% chance to flinch opponents, applying to all moves affected by King's Rock. Upon defeating an enemy, the user gains +1 Speed stage. This dual effect creates offensive momentum through flinch pressure and speed control, excelling at sweeping weakened teams.
+
+## Detailed Mechanical Explanation
+
+**Internal Name**: ABILITY_HAUNTING_FRENZY
+
+### Mechanics
 
 ### Flinch Component
 - **Trigger**: On successful attack that damages the target
@@ -29,14 +36,14 @@ character_count: 293
 - **Implementation**: Uses the same mechanism as Adrenaline Rush ability (MoxieClone with STAT_SPEED)
 - **Applies**: Only to the attacking Pokemon with Haunting Frenzy
 
-## Move Compatibility
+### Move Compatibility
 Works with any damaging move that has the `FLAG_KINGS_ROCK_AFFECTED` flag, including:
 - Basic attacks like Pound, Scratch, Tackle
 - High critical hit moves like Karate Chop
 - Multi-hit moves like Double Slap
 - Most physical and special attacking moves that don't inherently cause flinch
 
-## Strategic Applications
+### Strategic Applications
 
 ### Offensive Pressure
 - Creates consistent flinch pressure (20% vs King's Rock's ~10%)
@@ -54,7 +61,7 @@ Works with any damaging move that has the `FLAG_KINGS_ROCK_AFFECTED` flag, inclu
 - **Multi-hit moves**: Multiple flinch chances per turn
 - **Revenge killing**: Speed boosts help secure follow-up KOs
 
-## Counters and Limitations
+### Counters and Limitations
 
 ### Direct Counters
 - **Inner Focus**: Completely immune to flinch effects
@@ -67,7 +74,7 @@ Works with any damaging move that has the `FLAG_KINGS_ROCK_AFFECTED` flag, inclu
 - Faster Pokemon can outspeed before speed boosts accumulate
 - Bulky walls that resist being KO'd prevent speed boosts
 
-## Code Implementation
+### Code Implementation
 ```cpp
 constexpr Ability HauntingFrenzy = {
     .onAttacker = +[](ON_ATTACKER) -> int {
@@ -82,6 +89,3 @@ constexpr Ability HauntingFrenzy = {
 };
 ```
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Haunting Frenzy grants attacks a 20% chance to flinch opponents, applying to all moves affected by King's Rock. Upon defeating an enemy, the user gains +1 Speed stage. This dual effect creates offensive momentum through flinch pressure and speed control, excelling at sweeping weakened teams.

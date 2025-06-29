@@ -13,20 +13,18 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Cheap Tactics automatically uses Scratch (40 BP Normal-type physical move) targeting a random opponent when the Pokémon switches into battle. This entry attack has 100% accuracy and provides immediate offensive pressure. Cannot be prevented by most protective moves and activates before any other entry effects.
-
-*Character count: 297*
+Cheap Tactics automatically uses Scratch (40 BP Normal-type physical move) targeting a random opponent when the Pokemon switches into battle. This entry attack has 100% accuracy and provides immediate offensive pressure. Cannot be prevented by most protective moves and activates before any other entry effects.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Cheap Tactics is an aggressive entry ability that immediately forces the Pokémon to use Scratch upon switching into battle. This provides instant damage output and can catch opponents off guard with unexpected early damage.
+Cheap Tactics is an aggressive entry ability that immediately forces the Pokemon to use Scratch upon switching into battle. This provides instant damage output and can catch opponents off guard with unexpected early damage.
 
 ### Activation Conditions
-- **Switch-in trigger**: Activates whenever the Pokémon enters battle
+- **Switch-in trigger**: Activates whenever the Pokemon enters battle
   - Normal switch-ins
-  - After fainting of previous Pokémon
+  - After fainting of previous Pokemon
   - U-turn/Volt Switch entries
   - Red Card forced switches
 - **Target selection**: Automatically targets an alive opponent
@@ -69,7 +67,7 @@ The ability leverages the `UseEntryMove` function which:
 ### Priority and Timing
 - **Entry priority**: Executes immediately upon switch-in
 - **Queue system**: Added to attack queue for proper battle flow
-- **Multiple entries**: If multiple Pokémon have entry moves, they execute in speed order
+- **Multiple entries**: If multiple Pokemon have entry moves, they execute in speed order
 - **Protection bypass**: Cannot be blocked by Protect, Detect, or similar moves
 - **Substitute interaction**: Hits through Substitute normally
 
@@ -97,14 +95,14 @@ The ability leverages the `UseEntryMove` function which:
 - **Technician**: Boosts moves with 60 or less base power to 60 BP
 
 ### Competitive Usage Notes
-- **Lead potential**: Excellent on lead Pokémon for immediate damage
+- **Lead potential**: Excellent on lead Pokemon for immediate damage
 - **Pivot synergy**: Combines well with U-turn/Volt Switch strategies
 - **Hazard support**: Works alongside entry hazards for maximum switch punishment
-- **Fast attackers**: Best on fast Pokémon that can follow up the entry damage
+- **Fast attackers**: Best on fast Pokemon that can follow up the entry damage
 - **Fragile sweepers**: Provides utility even if the user faints quickly
 
 ### Common Users
-Pokémon that benefit from Cheap Tactics typically have:
+Pokemon that benefit from Cheap Tactics typically have:
 - High Attack stats to maximize Scratch damage
 - Fast speed to potentially finish off damaged opponents
 - Frail defenses making immediate offense valuable

@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Protosynthesis boosts the Pokémon's highest stat by 50% for Speed or 30% for other stats during any form of sun weather. Works with regular sun, permanent sun, and Desolate Land. When sun ends, switches to Booster Energy if held. Highest stat is recalculated each activation.
-
-*Character count: 296*
+Protosynthesis boosts the Pokemon's highest stat by 50% for Speed or 30% for other stats during any form of sun weather. Works with regular sun, permanent sun, and Desolate Land. When sun ends, switches to Booster Energy if held. Highest stat is recalculated each activation.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -66,7 +64,7 @@ if (state.source == PARADOX_BOOST_NOT_ACTIVE && IsWeatherActive(WEATHER_SUN_ANY)
 
 ### Interactions with Other Mechanics
 - **Stat Stages**: Included in highest stat calculation
-- **Weather Immunity**: Pokémon must be affected by weather for sun activation
+- **Weather Immunity**: Pokemon must be affected by weather for sun activation
 - **Item Removal**: Booster Energy is consumed when used
 - **Ability Suppression**: Can be suppressed by Neutralizing Gas, etc.
 
@@ -74,23 +72,23 @@ if (state.source == PARADOX_BOOST_NOT_ACTIVE && IsWeatherActive(WEATHER_SUN_ANY)
 - **Dynamic Adaptation**: Highest stat changes based on current battle state
 - **Weather Synergy**: Excellent on sun teams with Drought users
 - **Item Flexibility**: Can function without weather support via Booster Energy
-- **Speed Control**: Often boosts Speed on naturally fast Pokémon
-- **Bulk Enhancement**: Can boost defensive stats on bulky Pokémon
+- **Speed Control**: Often boosts Speed on naturally fast Pokemon
+- **Bulk Enhancement**: Can boost defensive stats on bulky Pokemon
 
 ### Example Scenarios
-**Scenario 1**: Pokémon with base stats 100/80/120/90/110
-- In sun: Sp. Attack boosted to 120 × 1.3 = 156
-- If Speed becomes highest after stat changes: Speed boosted to 110 × 1.5 = 165
+**Scenario 1**: Pokemon with base stats 100/80/120/90/110
+- In sun: Sp. Attack boosted to 120 x 1.3 = 156
+- If Speed becomes highest after stat changes: Speed boosted to 110 x 1.5 = 165
 
 **Scenario 2**: Weather transition
-- Sun active → Protosynthesis boosts highest stat
-- Sun ends → If holding Booster Energy, immediately switches to item boost
-- No weather, no item → Ability inactive
+- Sun active to Protosynthesis boosts highest stat
+- Sun ends to If holding Booster Energy, immediately switches to item boost
+- No weather, no item to Ability inactive
 
 ### Common Users
-Primarily designed for Paradox Pokémon but available to others in Elite Redux:
+Primarily designed for Paradox Pokemon but available to others in Elite Redux:
 - Future Paradox forms (Great Tusk, Scream Tail, etc.)
-- Pokémon with varied stat distributions
+- Pokemon with varied stat distributions
 - Sun team members wanting flexible boosts
 
 ### Competitive Usage Notes
@@ -114,4 +112,4 @@ Primarily designed for Paradox Pokémon but available to others in Elite Redux:
 ### Version History
 - Added in Elite Redux as a signature Paradox ability
 - Shares mechanics with Quark Drive (Electric Terrain version)
-- Part of the modern Paradox Pokémon design philosophy
+- Part of the modern Paradox Pokemon design philosophy

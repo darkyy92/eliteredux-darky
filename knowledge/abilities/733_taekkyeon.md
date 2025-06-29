@@ -15,8 +15,6 @@ character_count: 295
 
 Taekkyeon makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects. This includes all physical and special attacking moves but excludes pure status moves. Creates powerful synergy with teammates who have Dancer or dance-triggered abilities.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -80,7 +78,7 @@ The implementation works by:
 
 #### Defensive Considerations
 - **No Direct Protection**: Provides no defensive benefits to the user
-- **Relies on Teammates**: Power comes from enabling other Pokémon's abilities
+- **Relies on Teammates**: Power comes from enabling other Pokemon's abilities
 - **Status Vulnerability**: Still vulnerable to status moves and non-attack effects
 
 ### Complete List of Natural Dance Moves
@@ -101,7 +99,7 @@ The implementation works by:
 
 **Utility Dances:**
 10. **Feather Dance** - Lowers target's Attack by 2 stages
-11. **Teeter Dance** - Confuses all other Pokémon
+11. **Teeter Dance** - Confuses all other Pokemon
 12. **Lunar Dance** - User faints, fully heals replacement
 
 ### Competitive Usage

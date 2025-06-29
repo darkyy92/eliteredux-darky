@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon poisons an opponent, the toxic effects also weaken their offensive capabilities and mobility. Each poisoned foe has their Attack, Special Attack, and Speed lowered by one stage immediately upon being poisoned.
-
-*Character count: 285*
+When this Pokemon poisons an opponent, the toxic effects also weaken their offensive capabilities and mobility. Each poisoned foe has their Attack, Special Attack, and Speed lowered by one stage immediately upon being poisoned.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -71,7 +69,7 @@ Neurotoxin triggers from any source of poison infliction:
 - Keen Eye prevents accuracy reduction (not relevant here)
 
 **Competitive Interactions**:
-- **Substitute**: Cannot lower stats of a Pokémon behind Substitute
+- **Substitute**: Cannot lower stats of a Pokemon behind Substitute
 - **Mist**: Prevents stat reduction while active
 - **Sacred Sword/Chip Away**: Ignores stat changes but doesn't prevent them
 - **Contrary**: Would boost stats instead of lowering them
@@ -104,7 +102,7 @@ Neurotoxin triggers from any source of poison infliction:
 - Requires successful poison infliction to activate
 - Blocked by stat immunity abilities
 - Single-use per target (poison immunity after first application)
-- Many Pokémon carry Pecha Berry or similar items
+- Many Pokemon carry Pecha Berry or similar items
 
 ### Counters and Responses
 - **Poison Immunity**: Poison, Steel types naturally immune

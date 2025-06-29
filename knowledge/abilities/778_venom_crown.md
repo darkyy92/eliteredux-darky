@@ -15,8 +15,6 @@ character_count: 284
 
 When hit by contact moves, has 30% chance to poison the attacker. Additionally, all horn-based moves gain 30% power boost. Combines poison immunity with devastating jabbing attacks for royal dominance.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

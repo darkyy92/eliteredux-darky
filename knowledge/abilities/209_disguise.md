@@ -13,9 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Disguise blocks the first damaging move that hits the Pokémon, breaking the disguise and changing its form. Only non-status moves are blocked, and certain moves bypass this protection. In fog weather, the disguise is restored, returning to the original form.
-
-*Character count: 283*
+Disguise blocks the first damaging move that hits the Pokemon, breaking the disguise and changing its form. Only non-status moves are blocked, and certain moves bypass this protection. In fog weather, the disguise is restored, returning to the original form.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,8 +21,8 @@ Disguise blocks the first damaging move that hits the Pokémon, breaking the dis
 Disguise is a unique defensive ability exclusive to Mimikyu that provides a one-time damage nullification similar to a free Focus Sash, but with additional form-changing mechanics and weather interactions.
 
 ### Core Mechanics
-- **Damage Nullification**: Completely blocks the first damaging move that would hit the Pokémon
-- **Form Change**: When disguise is broken, triggers a form change (e.g., Mimikyu → Mimikyu Busted)
+- **Damage Nullification**: Completely blocks the first damaging move that would hit the Pokemon
+- **Form Change**: When disguise is broken, triggers a form change (e.g., Mimikyu to Mimikyu Busted)
 - **One-Time Use**: Only blocks one attack per battle entry
 - **Weather Restoration**: Disguise is restored in fog weather conditions
 
@@ -86,7 +84,7 @@ static int DisguiseReformHandler(AbilityEnum ability, int battler, AbilityCallTy
 
 ### Interactions with Other Mechanics
 - **Substitute**: Disguise works independently of Substitute
-- **Transform**: Cannot activate if the Pokémon is transformed
+- **Transform**: Cannot activate if the Pokemon is transformed
 - **Magic Guard**: Does not interact with Magic Guard (different protection types)
 - **Multi-hit Moves**: Only blocks the first hit of multi-hit moves
 - **Critical Hits**: Critical hits are still blocked by disguise
@@ -120,4 +118,4 @@ static int DisguiseReformHandler(AbilityEnum ability, int battler, AbilityCallTy
 - **Substitute**: Can be used after disguise breaks for additional protection
 
 ### Version History
-Elite Redux implementation includes the unique fog weather restoration mechanic, differentiating it from standard Pokémon games where disguise is permanently broken until switching out.
+Elite Redux implementation includes the unique fog weather restoration mechanic, differentiating it from standard Pokemon games where disguise is permanently broken until switching out.

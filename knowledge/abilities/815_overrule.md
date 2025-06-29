@@ -13,15 +13,13 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon's moves land critical hits, they completely ignore type resistances and defensive abilities that would normally reduce damage. Super-effective moves stay super-effective, but not-very-effective and immune matchups are treated as neutral damage instead.
-
-*Character count: 293*
+When this Pokemon's moves land critical hits, they completely ignore type resistances and defensive abilities that would normally reduce damage. Super-effective moves stay super-effective, but not-very-effective and immune matchups are treated as neutral damage instead.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Overrule modifies the type effectiveness calculation specifically when the Pokémon lands a critical hit. The ability uses the `onAfterTypeEffectiveness` hook to intercept and modify type effectiveness values.
+Overrule modifies the type effectiveness calculation specifically when the Pokemon lands a critical hit. The ability uses the `onAfterTypeEffectiveness` hook to intercept and modify type effectiveness values.
 
 ### Technical Implementation
 ```cpp
@@ -34,7 +32,7 @@ constexpr Ability Overrule = {
 ```
 
 ### Activation Conditions
-- Only activates when the Pokémon lands a critical hit (`gIsCriticalHit` is true)
+- Only activates when the Pokemon lands a critical hit (`gIsCriticalHit` is true)
 - Only affects moves that have a type effectiveness modifier less than 1.0 (not-very-effective or immune)
 - Does not affect moves that are already neutral (1.0x) or super-effective (>1.0x)
 
@@ -62,7 +60,7 @@ constexpr Ability Overrule = {
 
 ### Strategic Implications
 **Offensive Benefits:**
-- Allows critical-hit-focused Pokémon to threaten defensive walls
+- Allows critical-hit-focused Pokemon to threaten defensive walls
 - Makes moves like Stone Edge, Cross Chop, and Leaf Blade viable against resistant types
 - Synergizes exceptionally well with high critical hit ratio moves and abilities
 
@@ -83,18 +81,18 @@ constexpr Ability Overrule = {
 - **Wonder Guard**: Becomes ineffective against critical hits from Overrule users
 
 ### Example Damage Calculations
-**Scenario**: Fire-type move against Water-type Pokémon
+**Scenario**: Fire-type move against Water-type Pokemon
 - **Normal Hit**: 0.5x effectiveness = 50% damage
-- **Critical Hit with Overrule**: 1.0x effectiveness × 1.5x crit bonus = 150% damage
+- **Critical Hit with Overrule**: 1.0x effectiveness x 1.5x crit bonus = 150% damage
 - **Net Result**: 3x more damage than a normal resisted hit
 
-**Scenario**: Normal-type move against Ghost-type Pokémon  
+**Scenario**: Normal-type move against Ghost-type Pokemon  
 - **Normal Hit**: 0x effectiveness = 0% damage (immune)
-- **Critical Hit with Overrule**: 1.0x effectiveness × 1.5x crit bonus = 150% damage
+- **Critical Hit with Overrule**: 1.0x effectiveness x 1.5x crit bonus = 150% damage
 - **Net Result**: Goes from complete immunity to full neutral damage
 
 ### Common Users
-Based on the codebase analysis, Overrule appears as an innate ability on at least one Pokémon in the Elite Redux roster. The ability is particularly valuable on Pokémon with:
+Based on the codebase analysis, Overrule appears as an innate ability on at least one Pokemon in the Elite Redux roster. The ability is particularly valuable on Pokemon with:
 - High critical hit ratio moves in their movepool
 - Good offensive stats to capitalize on the resistance bypass
 - Access to critical hit boosting moves or items
@@ -106,7 +104,7 @@ Based on the codebase analysis, Overrule appears as an innate ability on at leas
 - Abilities that boost defensive stats rather than relying on type resistance
 
 **Indirect Counters:**
-- Pokémon with naturally high Defense/Special Defense stats
+- Pokemon with naturally high Defense/Special Defense stats
 - Recovery moves to heal off the increased damage
 - Priority moves to KO before Overrule user can land critical hits
 

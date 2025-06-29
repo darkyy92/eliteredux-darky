@@ -5,20 +5,18 @@ status: ai-generated
 character_count: 297
 ---
 
-# Stainless Steel
+# Stainless Steel - Ability ID 829
 
-**ID**: 829  
-**Short Description**: Fort Knox + Wonder Skin.
+## In-Game Description
+Fort Knox + Wonder Skin.
 
 ## Extended In-Game Description
-Stainless Steel provides dual defensive and offensive benefits. It blocks multi-hit abilities like Parental Bond from triggering against this Pokémon, unless the attacker resists Fort Knox. Additionally, all Normal-type moves become Steel-type and receive a 20% power boost. This makes it excellent for both tanking and sweeping.
+Stainless Steel provides dual defensive and offensive benefits. It blocks multi-hit abilities like Parental Bond from triggering against this Pokemon, unless the attacker resists Fort Knox. Additionally, all Normal-type moves become Steel-type and receive a 20% power boost. This makes it excellent for both tanking and sweeping.
 
-**Character count: 297**
-
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Fort Knox Protection
-- Prevents multi-hit abilities (Parental Bond, Multi-Headed, etc.) from activating when attacking this Pokémon
+- Prevents multi-hit abilities (Parental Bond, Multi-Headed, etc.) from activating when attacking this Pokemon
 - Only abilities with `resistsFortKnox = TRUE` can bypass this protection
 - Currently only Parental Bond and Multi-Headed can resist Fort Knox
 

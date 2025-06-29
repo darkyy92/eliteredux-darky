@@ -15,8 +15,6 @@ character_count: 284
 
 Growing Tooth boosts the user's Attack by one stage whenever they successfully use a biting move. This includes all fang attacks like Thunder Fang and Ice Fang, plus bite attacks like Crunch and Hyper Fang. The boost activates after damage calculation, building momentum for future attacks.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -102,15 +100,15 @@ Assuming 100 base Attack, neutral nature, level 50:
 - **After 3 Growing Tooth**: 300 (+150%)
 
 ### Common Users
-**Natural Learners** (Pokémon that learn multiple biting moves):
+**Natural Learners** (Pokemon that learn multiple biting moves):
 - Mightyena line (Bite, Crunch, Thunder/Ice/Fire Fang)
 - Crobat line (Bite, Crunch, Leech Life)
 - Sharpedo line (Bite, Crunch, Aqua Fang)
 - Tyranitar line (Bite, Crunch)
 
-**Synergistic Pokémon**:
+**Synergistic Pokemon**:
 - Physical attackers with diverse movepools
-- Pokémon with access to setup moves + biting moves
+- Pokemon with access to setup moves + biting moves
 - Fast sweepers that can capitalize on Attack boosts
 
 ### Competitive Usage Notes

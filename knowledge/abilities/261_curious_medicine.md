@@ -15,12 +15,10 @@ character_count: 290
 
 Curious Medicine resets all stat changes of the ally when entering in double battles. This clears both positive and negative stat modifications, returning the partner to neutral stat stages. Useful for removing debuffs or resetting setup.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Curious Medicine is a unique support ability that activates when the Pokémon enters battle in double battles only. Here's how it works:
+Curious Medicine is a unique support ability that activates when the Pokemon enters battle in double battles only. Here's how it works:
 
 **Activation Conditions:**
 - Only works in double battles (2v2 format)
@@ -49,7 +47,7 @@ Curious Medicine is a unique support ability that activates when the Pokémon en
 
 **Comparison to Similar Abilities:**
 - Unlike White Smoke/Clear Body which prevent stat drops, this actively resets existing changes
-- More targeted than Haze (which affects all Pokémon), only affecting the ally
+- More targeted than Haze (which affects all Pokemon), only affecting the ally
 - Provides more control than Natural Cure (which only affects the user and only removes status conditions)
 
 The ability is particularly valuable in competitive double battles where stat control and positioning are key strategic elements.

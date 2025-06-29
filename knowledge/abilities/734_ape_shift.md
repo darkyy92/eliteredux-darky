@@ -13,15 +13,13 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Ape Shift transforms the Pokémon when HP drops to 50% or below, automatically curing all status conditions during transformation. After transforming, all attacks become critical hits. Works on entry, during battle, and at turn end. Exclusive to Mega Slaking forms.
-
-*Character count: 285*
+Ape Shift transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions during transformation. After transforming, all attacks become critical hits. Works on entry, during battle, and at turn end. Exclusive to Mega Slaking forms.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Ape Shift is a unique transformation ability exclusive to Mega Slaking that fundamentally changes the Pokémon's battle capabilities when its HP threshold is reached.
+Ape Shift is a unique transformation ability exclusive to Mega Slaking that fundamentally changes the Pokemon's battle capabilities when its HP threshold is reached.
 
 ### Activation Conditions
 - **HP threshold**: HP must be at 50% or below (uses hpFraction = 2 in code)
@@ -31,8 +29,8 @@ Ape Shift is a unique transformation ability exclusive to Mega Slaking that fund
 
 ### Transformation Effects
 1. **Form change**: 
-   - SPECIES_SLAKING_MEGA → SPECIES_SLAKING_MEGA_APE_SHIFT (when HP drops)
-   - SPECIES_SLAKING_MEGA_APE_SHIFT → SPECIES_SLAKING_MEGA (when HP rises above 50%)
+   - SPECIES_SLAKING_MEGA to SPECIES_SLAKING_MEGA_APE_SHIFT (when HP drops)
+   - SPECIES_SLAKING_MEGA_APE_SHIFT to SPECIES_SLAKING_MEGA (when HP rises above 50%)
 
 2. **Status cure**: Automatically removes all status conditions during transformation:
    - Burn, freeze, paralysis, poison (including badly poisoned), sleep
@@ -75,7 +73,7 @@ BattleScript_ApeShift::
 - **Multiple trigger points**: Entry, end turn, and when taking damage
 - **Status immunity during shift**: Provides free status cure when transforming
 - **Guaranteed crits**: Every attack is a critical hit in shifted form
-- **Randomizer banned**: Cannot appear on random Pokémon due to species restriction
+- **Randomizer banned**: Cannot appear on random Pokemon due to species restriction
 
 ### Strategic Implications
 - **Low HP advantage**: Becomes more dangerous when weakened

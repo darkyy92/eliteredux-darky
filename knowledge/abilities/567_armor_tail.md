@@ -15,13 +15,11 @@ character_count: 297
 
 Armor Tail prevents priority moves from targeting the user and their ally. Works against all positive priority moves like Quick Attack, Bullet Punch, and Extreme Speed. The protection applies to both single and double battles. This breakable ability can be bypassed by Mold Breaker effects.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Armor Tail provides complete immunity to priority moves for both the user and their ally in double battles. The ability specifically checks for moves with priority greater than 0 and blocks them from targeting protected Pokémon.
+Armor Tail provides complete immunity to priority moves for both the user and their ally in double battles. The ability specifically checks for moves with priority greater than 0 and blocks them from targeting protected Pokemon.
 
 ### Technical Implementation
 ```cpp
@@ -63,10 +61,10 @@ Since `breakable = TRUE`, Armor Tail can be bypassed by:
 
 **Strategic Team Building:**
 - Pairs well with setup sweepers vulnerable to priority
-- Effective on bulky support Pokémon in doubles
+- Effective on bulky support Pokemon in doubles
 - Helps against priority-heavy metagames
 
 **Counterplay:**
 - Mold Breaker users can bypass the protection
 - Non-priority moves remain fully effective
-- Switching removes the protection for incoming Pokémon
+- Switching removes the protection for incoming Pokemon

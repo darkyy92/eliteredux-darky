@@ -13,15 +13,13 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Upon entering battle, this ability adds the Water type to the Pokémon as a third type. This grants all Water-type interactions including STAB on Water moves, resistance to Fire and Steel attacks, weakness to Electric and Grass moves, and immunity to burn status.
-
-*Character count: 294*
+Upon entering battle, this ability adds the Water type to the Pokemon as a third type. This grants all Water-type interactions including STAB on Water moves, resistance to Fire and Steel attacks, weakness to Electric and Grass moves, and immunity to burn status.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Aquatic adds Water as a third type to the Pokémon when it enters battle, implemented through the `AddBattlerType()` function which assigns the type to the `type3` slot.
+Aquatic adds Water as a third type to the Pokemon when it enters battle, implemented through the `AddBattlerType()` function which assigns the type to the `type3` slot.
 
 ```cpp
 constexpr Ability Aquatic = {
@@ -40,7 +38,7 @@ static int AddBattlerType(int battler, int type) {
 
 ### Activation Conditions
 - Triggers automatically upon entering battle
-- Only activates if the Pokémon doesn't already have Water type
+- Only activates if the Pokemon doesn't already have Water type
 - No activation requirements or conditions beyond entry
 
 ### Type Interactions Gained
@@ -62,7 +60,7 @@ static int AddBattlerType(int battler, int type) {
 
 ### Common Users
 **Optional Ability:**
-- **Tynamo** (#602) - Electric type fish Pokémon
+- **Tynamo** (#602) - Electric type fish Pokemon
 - **Eelektrik** (#603) - Electric type eel evolution  
 - **Stunfisk** (#618) - Ground/Electric type flatfish
 
@@ -112,4 +110,4 @@ static int AddBattlerType(int battler, int type) {
 ### Version History
 - Introduced in Elite Redux as part of type-adding ability system
 - Functions identically to other type-adding abilities like Half Drake (Dragon), Metallic (Steel), and Phantom (Ghost)
-- Part of the expanded type system allowing Pokémon to have up to 3 types simultaneously
+- Part of the expanded type system allowing Pokemon to have up to 3 types simultaneously

@@ -15,8 +15,6 @@ character_count: 295
 
 Deep Cuts gives all slashing moves a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage each turn until healed. Only affects moves with the Keen Edge flag like Slash, Fury Cutter, and Razor Wind. Rock and Ghost types are immune to bleeding.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -62,14 +60,14 @@ Deep Cuts works with all moves that have the `FLAG_KEEN_EDGE_BOOST` flag, includ
 - And many others with the Keen Edge designation
 
 ### Bleeding Immunity
-Certain Pokémon types cannot be affected by bleeding:
+Certain Pokemon types cannot be affected by bleeding:
 - **Rock types**: Cannot bleed due to mineral composition
 - **Ghost types**: Cannot bleed due to incorporeal nature
-- **Pokémon with status**: Cannot receive bleeding if already statused
-- **Status immunity**: Pokémon with abilities that prevent status
+- **Pokemon with status**: Cannot receive bleeding if already statused
+- **Status immunity**: Pokemon with abilities that prevent status
 
 ### Important Interactions
-- **Status immunity**: Doesn't work on Pokémon with status immunity abilities
+- **Status immunity**: Doesn't work on Pokemon with status immunity abilities
 - **Magic Guard**: Prevents bleeding damage but not the status itself
 - **Healing**: Bleeding can be cured by items, moves, or switching out
 - **Stacking**: Cannot stack with other major status conditions
@@ -94,20 +92,20 @@ Certain Pokémon types cannot be affected by bleeding:
 - **Keen Edge**: Boosts damage of same moves that can cause bleeding
 - **Choice items**: Locked slashing moves maximize bleeding chances
 - **Multi-hit moves**: Increases bleeding application opportunities
-- **Pursuit**: Can punish bleeding Pokémon trying to switch
+- **Pursuit**: Can punish bleeding Pokemon trying to switch
 - **Entry hazards**: Combines with Stealth Rock for maximum pressure
 
 ### Competitive Usage
-- **Physical attackers**: Best on Pokémon with strong slashing movesets
+- **Physical attackers**: Best on Pokemon with strong slashing movesets
 - **Pressure builds**: Excellent for wearing down bulky opponents
 - **Anti-stall**: Counters defensive teams that rely on recovery
-- **Hit-and-run**: Good for Pokémon that can switch after applying bleeding
+- **Hit-and-run**: Good for Pokemon that can switch after applying bleeding
 - **Revenge killing**: Bleeding can finish off weakened sweepers
 
 ### Team Building Considerations
 - **Move selection**: Prioritize slashing moves in moveset
 - **Coverage**: Ensure access to multiple slashing move types
-- **Speed tiers**: Faster Pokémon apply bleeding more reliably
+- **Speed tiers**: Faster Pokemon apply bleeding more reliably
 - **Support**: Pair with entry hazards and other chip damage
 - **Healing**: Team should pressure opponents' healing resources
 

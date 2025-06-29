@@ -5,16 +5,14 @@ status: ai-generated
 character_count: 288
 ---
 
-# Ability #323: Majestic Bird
+# Majestic Bird - Ability ID 323
 
-## Basic Information
-- **Name**: Majestic Bird  
-- **ID**: 323
-- **Type**: Stat Boost Ability
-- **Description**: "Boosts own Sp. Atk by 1.5x. Boosts raw stat, not base stat."
+## In-Game Description
+"Boosts own Sp. Atk by 1.5x. Boosts raw stat, not base stat."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Majestic Bird boosts Special Attack by 50% unconditionally. This multiplies the calculated stat after all modifiers, not the base stat. The boost is permanent and active immediately upon entering battle, making it extremely reliable for special sweepers and consistent offensive pressure.
 
 ## Mechanics Analysis
@@ -43,7 +41,7 @@ constexpr Ability MajesticBird = {
 4. **Stackable**: Combines with other stat boosts and items
 5. **Not Suppressible**: No special suppression mechanics
 
-## Pokémon Distribution
+## Pokemon Distribution
 
 ### Primary Ability
 - **Pidgey**: Can have as one of 3 choosable abilities

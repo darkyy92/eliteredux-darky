@@ -15,15 +15,13 @@ character_count: 299
 
 Cloud Nine clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 Cloud Nine operates through two distinct mechanisms:
 
-1. **On-Entry Weather Removal**: When a Pokémon with Cloud Nine enters battle, it executes `BattleScript_AnnounceAirLockCloudNine` which:
+1. **On-Entry Weather Removal**: When a Pokemon with Cloud Nine enters battle, it executes `BattleScript_AnnounceAirLockCloudNine` which:
    - Immediately removes any active weather condition
    - Displays appropriate messages about weather being cleared
    - Works on both regular and primal weather conditions
@@ -71,7 +69,7 @@ Cloud Nine operates through two distinct mechanisms:
 - **Switch Timing**: Crucial to time switches for maximum weather denial
 
 ### Common Users
-Pokémon with access to Cloud Nine in Elite Redux include various defensive and support-oriented species that benefit from weather control.
+Pokemon with access to Cloud Nine in Elite Redux include various defensive and support-oriented species that benefit from weather control.
 
 ### Competitive Usage Notes
 - Excellent on balanced teams that don't rely on weather
@@ -88,7 +86,7 @@ Pokémon with access to Cloud Nine in Elite Redux include various defensive and 
 
 ### Synergies
 - Stealth Rock setters (capitalize on forced switches)
-- Pokémon weak to weather chip damage
+- Pokemon weak to weather chip damage
 - Mixed attackers who want consistent damage calculations
 - Stall teams that prefer neutral conditions
 

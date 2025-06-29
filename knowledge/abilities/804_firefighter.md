@@ -15,8 +15,6 @@ character_count: 289
 
 Firefighter provides offensive and defensive advantages against Fire-types. When attacking Fire-type Pokemon, damage output is increased by 50%. When receiving Fire-type attacks, incoming damage is reduced by 50%. This dual-purpose ability makes it excellent for countering Fire opponents.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -82,18 +80,18 @@ constexpr Ability Firefighter = {
 ### Example Damage Calculations
 **Offensive Example:**
 - Base damage vs Fire-type: 100
-- With Firefighter: 100 × 1.5 = 150 damage
+- With Firefighter: 100 x 1.5 = 150 damage
 - Net effect: +50 damage
 
 **Defensive Example:**
 - Incoming Fire-type damage: 100
-- With Firefighter: 100 × 0.5 = 50 damage
+- With Firefighter: 100 x 0.5 = 50 damage
 - Net effect: -50 damage
 
 **Combined Scenario:**
 - Firefighter user uses Surf on Fire-type opponent
 - Normal: Water vs Fire = 2x effectiveness
-- With Firefighter: 2x × 1.5 = 3x total damage multiplier
+- With Firefighter: 2x x 1.5 = 3x total damage multiplier
 
 ### Strategic Implications
 - **Role:** Fire-type counter and check

@@ -13,15 +13,13 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Grim Neigh boosts the Pokémon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokémon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
-
-*Character count: 294*
+Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokemon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 **Trigger Condition:** 
-- When this Pokémon causes an enemy Pokémon to faint through direct attack damage
+- When this Pokemon causes an enemy Pokemon to faint through direct attack damage
 
 **Effect:**
 - Raises the user's Special Attack stat by 1 stage (+50% Special Attack)
@@ -40,8 +38,8 @@ Grim Neigh boosts the Pokémon's Special Attack by one stage when it causes an o
   - Recoil damage from the opponent's moves
   - Weather damage
 - Can stack multiple times if multiple KOs occur
-- Works in double battles when this Pokémon KOs any opponent
-- The boost persists until the Pokémon switches out or the battle ends
+- Works in double battles when this Pokemon KOs any opponent
+- The boost persists until the Pokemon switches out or the battle ends
 - Can be stolen by Trace, Role Play, or similar ability-copying moves
 
 **Competitive Usage:**
@@ -55,4 +53,4 @@ Grim Neigh boosts the Pokémon's Special Attack by one stage when it causes an o
 - **Moxie:** Attack version of this ability
 - **Chilling Neigh:** Attack version, functionally identical to Moxie
 - **Beast Boost:** Boosts highest stat on KO instead of fixed stat
-- **Soul-Heart:** Special Attack boost on any Pokémon fainting nearby
+- **Soul-Heart:** Special Attack boost on any Pokemon fainting nearby

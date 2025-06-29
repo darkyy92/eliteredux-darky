@@ -13,13 +13,11 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Super Luck adds +1 to the critical hit stage of all the Pokémon's damaging moves. This effectively doubles the critical hit chance for most moves (from 1/16 to 1/8). Stacks with high-crit moves like Slash and items like Scope Lens. Maximum crit stage is still capped at +4 for guaranteed crits.
-
-*Character count: 293*
+Super Luck adds +1 to the critical hit stage of all the Pokemon's damaging moves. This effectively doubles the critical hit chance for most moves (from 1/16 to 1/8). Stacks with high-crit moves like Slash and items like Scope Lens. Maximum crit stage is still capped at +4 for guaranteed crits.
 
 ## Detailed Mechanical Explanation
 
-Super Luck is a passive ability that enhances the critical hit ratio of all damaging moves used by the Pokémon with this ability. Here's how it works:
+Super Luck is a passive ability that enhances the critical hit ratio of all damaging moves used by the Pokemon with this ability. Here's how it works:
 
 ### Core Mechanics
 - Adds +1 to the critical hit stage calculation for all damaging moves
@@ -27,7 +25,7 @@ Super Luck is a passive ability that enhances the critical hit ratio of all dama
 - Works with all damaging moves, regardless of type or category (physical/special)
 
 ### Critical Hit Stage System
-The critical hit system in Pokémon uses stages:
+The critical hit system in Pokemon uses stages:
 - Stage 0: 1/16 chance (6.25%)
 - Stage 1: 1/8 chance (12.5%)
 - Stage 2: 1/2 chance (50%)
@@ -63,11 +61,11 @@ constexpr Ability SuperLuck = {
 The implementation is straightforward - it returns 1 when calculating critical hit stages, adding exactly one stage to the critical hit calculation. This is checked during damage calculation for all damaging moves.
 
 ### Strategic Implications
-- Excellent on Pokémon with access to high-crit moves
+- Excellent on Pokemon with access to high-crit moves
 - Pairs well with Scope Lens for reliable critical hits
 - Benefits from critical hit damage being 1.5x in modern generations
-- Particularly effective on Pokémon with high Attack/Special Attack stats
+- Particularly effective on Pokemon with high Attack/Special Attack stats
 - Can bypass defensive stat boosts since critical hits ignore them
 
 ### Notable Users
-Super Luck is particularly effective on Pokémon that can learn multiple high-critical-hit-ratio moves, allowing them to achieve guaranteed critical hits with proper setup.
+Super Luck is particularly effective on Pokemon that can learn multiple high-critical-hit-ratio moves, allowing them to achieve guaranteed critical hits with proper setup.

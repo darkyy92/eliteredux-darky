@@ -2,18 +2,28 @@
 id: 330
 name: Majestic Moth
 status: ai-generated
-character_count: 0
+character_count: 291
 ---
 
-# Majestic Moth (Ability #330)
+# Majestic Moth - Ability ID 330
 
-## Overview
-Majestic Moth is an entry-triggered ability that automatically boosts the Pokémon's highest calculated stat by one stage when it enters battle. This ability provides immediate value by enhancing the Pokémon's strongest attribute.
+## In-Game Description
+"Boosts highest stat by 1 stage upon entry."
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Majestic Moth automatically raises the Pokemon's highest calculated stat by 1 stage when it enters battle. The ability analyzes all five battle stats (Attack, Defense, Special Attack, Special Defense, and Speed) including current stat stage modifiers, then boosts whichever stat is highest.
+
+## Detailed Mechanical Explanation
+
+### Overview
+Majestic Moth is an entry-triggered ability that automatically boosts the Pokemon's highest calculated stat by one stage when it enters battle. This ability provides immediate value by enhancing the Pokemon's strongest attribute.
+
+### Mechanics
 
 ### Core Functionality
-- **Trigger**: Activates when the Pokémon enters battle (switching in or battle start)
+- **Trigger**: Activates when the Pokemon enters battle (switching in or battle start)
 - **Effect**: Raises the highest calculated stat by +1 stage
 - **Stat Analysis**: Considers all five battle stats (Attack, Defense, Special Attack, Special Defense, Speed)
 - **Calculation**: Includes current stat stage modifiers when determining the highest stat
@@ -38,14 +48,14 @@ constexpr Ability MajesticMoth = {
 
 ### Important Notes
 - The ability considers **current** stat stages when determining the highest stat
-- If a Pokémon has +2 Attack stages but higher base Special Attack, it will boost whichever has the higher calculated total
+- If a Pokemon has +2 Attack stages but higher base Special Attack, it will boost whichever has the higher calculated total
 - The boost is applied immediately upon entry, before any other entry effects
 - Cannot boost HP (only the five battle stats are considered)
 
-## Pokémon with Majestic Moth
+## Pokemon with Majestic Moth
 
 ### Primary Users (Innate Ability)
-- **Venomoth line**: Offensive moth Pokémon that benefit from boosting their highest attacking stat
+- **Venomoth line**: Offensive moth Pokemon that benefit from boosting their highest attacking stat
 - **Volcarona variants**: Powerful special attackers that typically boost Special Attack
 - **Dustox line**: Defensive moths that may boost Defense or Special Defense
 - **Frosmoth line**: Ice-type moths with varied stat distributions
@@ -60,20 +70,20 @@ constexpr Ability MajesticMoth = {
 
 ### Strengths
 - **Immediate Value**: Provides an instant +1 boost without setup
-- **Adaptive**: Boosts the most relevant stat for each individual Pokémon
+- **Adaptive**: Boosts the most relevant stat for each individual Pokemon
 - **Stacking**: Can work with existing stat boosts to determine the best stat to enhance
 - **Reliability**: Always activates on entry, no conditions required
 
 ### Strategic Applications
 - **Sweeper Support**: Enhances offensive stats for immediate pressure
 - **Defensive Pivoting**: Boosts defensive stats when switching into threats
-- **Speed Control**: Can boost Speed for faster Pokémon to maintain priority
+- **Speed Control**: Can boost Speed for faster Pokemon to maintain priority
 - **Stat Stage Synergy**: Works well with moves that provide additional stat boosts
 
 ### Limitations
 - **One-Time Effect**: Only activates on entry, not repeatedly
 - **Predictable**: Opponents can anticipate which stat will be boosted
-- **Stage Dependency**: Less effective if the Pokémon already has high stat stages
+- **Stage Dependency**: Less effective if the Pokemon already has high stat stages
 - **No HP Boost**: Cannot improve overall bulk through HP increases
 
 ## Interactions and Synergies
@@ -98,7 +108,7 @@ constexpr Ability MajesticMoth = {
 - **Role Definition**: Clear offensive or defensive role helps predict boost target
 
 ### Prediction and Counterplay
-- **Stat Analysis**: Opponents can predict which stat will be boosted by examining the Pokémon's stats
+- **Stat Analysis**: Opponents can predict which stat will be boosted by examining the Pokemon's stats
 - **Timing Awareness**: Entry timing becomes crucial for both user and opponent
 - **Stat Reset Moves**: Clear Smog, Haze, or Roar can remove the boost
 - **Phazing**: Forcing switches can waste the entry boost
@@ -106,7 +116,7 @@ constexpr Ability MajesticMoth = {
 ## Technical Implementation
 
 ### Function Flow
-1. `OnEntry` trigger activates when Pokémon enters battle
+1. `OnEntry` trigger activates when Pokemon enters battle
 2. `GetHighestStatId(battler, TRUE)` determines which stat to boost
 3. `ChangeStatBuffs` applies the +1 stage increase
 4. Battle script displays the stat boost message
@@ -121,3 +131,4 @@ constexpr Ability MajesticMoth = {
 - Minimal computational overhead
 - Single function call for stat determination
 - Standard stat boost mechanics integration
+

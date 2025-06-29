@@ -15,8 +15,6 @@ character_count: 285
 
 Deep Freeze boosts Water and Ice-type moves by 25% while halving Fire-type damage taken. This dual offensive and defensive ability provides excellent type synergy for Water/Ice Pokemon, enhancing STAB attacks while providing crucial Fire resistance. Stacks with other damage modifiers.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -70,11 +68,11 @@ constexpr Ability DeepFreeze = {
 
 **Stacking with Other Modifiers:**
 - Stacks multiplicatively with STAB (1.5x), items (Life Orb 1.3x), weather boosts, etc.
-- Example: Water move with STAB + Deep Freeze + Life Orb = 1.5 × 1.25 × 1.3 = 2.4375x total
+- Example: Water move with STAB + Deep Freeze + Life Orb = 1.5 x 1.25 x 1.3 = 2.4375x total
 
 **Type Effectiveness Interactions:**
 - Fire resistance stacks with natural type resistances
-- Example: Water/Ice Pokemon takes Fire moves at 0.5x (Deep Freeze) × 0.5x (Water resistance) = 0.25x total
+- Example: Water/Ice Pokemon takes Fire moves at 0.5x (Deep Freeze) x 0.5x (Water resistance) = 0.25x total
 
 **Ability Interactions:**
 - Can be suppressed by Mold Breaker, Teravolt, Turboblaze
@@ -103,11 +101,11 @@ constexpr Ability DeepFreeze = {
 
 **Offensive Example:**
 - Frostula's Ice Beam (90 BP) with STAB + Deep Freeze:
-- Base damage × 1.5 (STAB) × 1.25 (Deep Freeze) = 168.75 effective BP
+- Base damage x 1.5 (STAB) x 1.25 (Deep Freeze) = 168.75 effective BP
 
 **Defensive Example:**
 - Fire Blast (110 BP) against Water-type with Deep Freeze:
-- 110 × 0.5 (Water resistance) × 0.5 (Deep Freeze) = 27.5 effective BP
+- 110 x 0.5 (Water resistance) x 0.5 (Deep Freeze) = 27.5 effective BP
 
 ### Common Users
 Based on the Elite Redux roster:

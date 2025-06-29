@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flame Body has a 30% chance to inflict burn status on any Pokémon that makes contact with attacks, whether attacking or defending. The burned Pokémon takes 1/16 max HP damage each turn and has Attack reduced by 50%. Also doubles egg hatching speed when in party. Fire-types cannot be burned.
-
-*Character count: 289*
+Flame Body has a 30% chance to inflict burn status on any Pokemon that makes contact with attacks, whether attacking or defending. The burned Pokemon takes 1/16 max HP damage each turn and has Attack reduced by 50%. Also doubles egg hatching speed when in party. Fire-types cannot be burned.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +23,7 @@ Flame Body has a 30% chance to inflict burn status on any Pokémon that makes co
 ### Activation Mechanics:
 - **Trigger**: Any contact move made by or against the Flame Body user
 - **Activation Rate**: 30% chance (Random() % 100 < 30)
-- **Target**: The opposing Pokémon that initiated contact
+- **Target**: The opposing Pokemon that initiated contact
 - **Script**: Uses AbilityStatusEffectSafe(MOVE_EFFECT_BURN) with standard burn animation
 
 ### Contact Requirements:
@@ -108,7 +106,7 @@ constexpr Ability FlameBody = {
 - **Magic Guard**: Prevents burn damage (but not Attack reduction)
 
 ### Strategic Considerations:
-- More threatening on defensive Pokémon due to guaranteed contact from attacks
+- More threatening on defensive Pokemon due to guaranteed contact from attacks
 - Offensive use requires careful move selection (contact moves only)
 - Excellent deterrent against physical setup sweepers
 - Pairs well with Will-O-Wisp for consistent burn spreading

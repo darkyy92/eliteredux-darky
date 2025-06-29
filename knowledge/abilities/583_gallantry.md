@@ -5,21 +5,17 @@ status: ai-generated
 character_count: 292
 ---
 
-# Gallantry
+# Gallantry - Ability ID 583
 
-**Ability ID**: 583
-**Type**: Regular Ability
-
-**In-Game Description**: "Gets no damage for first hit."
+## In-Game Description
+"Gets no damage for first hit."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Negates all damage from the first hit received per battle. Moves still connect and secondary effects apply, but damage becomes 0. For multi-hit moves, only first strike is blocked. Protection persists through switching but is consumed permanently once used. Can be suppressed by Mold Breaker.
 
-*Character count: 292*
-
-## Detailed Mechanical Explanation (Discord/Reference)
+## Detailed Mechanical Explanation
 
 **Gallantry** is essentially a weaker, breakable version of **Cheating Death**.
 
@@ -45,8 +41,8 @@ constexpr Ability Gallantry = {
 
 ## Trigger Conditions
 
-- Activates when the Pokémon would take damage from an attack
-- Only blocks the first 1 hit received in battle per Pokémon
+- Activates when the Pokemon would take damage from an attack
+- Only blocks the first 1 hit received in battle per Pokemon
 - Can be suppressed by Mold Breaker, Teravolt, Turboblaze, etc.
 - Does not activate on passive damage or entry hazards
 
@@ -59,7 +55,7 @@ constexpr Ability Gallantry = {
 ## Interactions
 
 **Counter System:**
-The `GetSingleUseAbilityCounter` function retrieves a counter stored per Pokémon, per ability, per side:
+The `GetSingleUseAbilityCounter` function retrieves a counter stored per Pokemon, per ability, per side:
 ```cpp
 gBattleStruct->singleuseability[gBattlerPartyIndexes[battler]][index][GetBattlerSide(battler)]
 ```
@@ -95,7 +91,7 @@ gBattleStruct->singleuseability[gBattlerPartyIndexes[battler]][index][GetBattler
 - **Gallantry vs Cheating Death Summary:**
   - Gallantry: 1 hit protection, breakable by Mold Breaker
   - Cheating Death: 2 hit protection, unbreakable
-  - Both persist through switching and last the entire battle per Pokémon
+  - Both persist through switching and last the entire battle per Pokemon
 
 - Counter starts at 0, increments to 1 after first use, then blocks activation
 - Designed as a more balanced alternative to Cheating Death's stronger protection

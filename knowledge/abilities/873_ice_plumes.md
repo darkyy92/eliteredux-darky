@@ -15,8 +15,6 @@ character_count: 297
 
 Ice Plumes reduces damage from all special moves by 50% through damage calculation rather than stat boosts. Works against all special attacks including Hidden Power and Weather Ball. Does not affect physical moves or entry hazards. Provides reliable special bulk without stat modification stacking.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,7 +24,7 @@ Ice Plumes is a defensive ability that reduces incoming special move damage by h
 ### Activation Conditions
 - **Move requirement**: Target move must be classified as special (not physical or status)
 - **Damage calculation**: Applied as a 0.5x multiplier during final damage calculation
-- **Trigger timing**: Activates for every special move that hits the Pokémon
+- **Trigger timing**: Activates for every special move that hits the Pokemon
 - **No conditions**: Always active when ability is not suppressed
 
 ### Technical Implementation
@@ -74,10 +72,10 @@ Unlike abilities that double Special Defense (like Marvel Scale for Defense), Ic
 
 ### Stackability
 Ice Plumes can stack with other damage reduction:
-- **Light Screen**: 0.5x (doubles) × 0.5x (Ice Plumes) = 0.25x total
-- **Aurora Veil**: 0.5x (singles) × 0.5x (Ice Plumes) = 0.25x total  
+- **Light Screen**: 0.5x (doubles) x 0.5x (Ice Plumes) = 0.25x total
+- **Aurora Veil**: 0.5x (singles) x 0.5x (Ice Plumes) = 0.25x total  
 - **Assault Vest**: Special Defense boost stacks multiplicatively
-- **Type resistances**: 0.5x resistance × 0.5x Ice Plumes = 0.25x total
+- **Type resistances**: 0.5x resistance x 0.5x Ice Plumes = 0.25x total
 
 ### Ability Suppression
 Ice Plumes can be bypassed by:
@@ -94,9 +92,9 @@ Ice Plumes can be bypassed by:
 - **Setup counter**: Remains effective against Calm Mind sweepers
 
 ### Common Users
-Ice Plumes is found as an innate ability on certain Ice-type Pokémon in Elite Redux, particularly:
+Ice Plumes is found as an innate ability on certain Ice-type Pokemon in Elite Redux, particularly:
 - Bulky Ice-types that need special defensive presence
-- Mixed defensive Pokémon who benefit from selective damage reduction
+- Mixed defensive Pokemon who benefit from selective damage reduction
 - Weather-independent defensive options
 
 ### Competitive Usage Notes
@@ -116,7 +114,7 @@ Ice Plumes is found as an innate ability on certain Ice-type Pokémon in Elite R
 
 ### Notable Calculations
 With Ice Plumes active:
-- **Neutral special hit**: 252 SpA → ~25% damage becomes ~12.5%
+- **Neutral special hit**: 252 SpA to ~25% damage becomes ~12.5%
 - **Super effective hit**: 2x effectiveness becomes 1x effective
 - **STAB + super effective**: 3x becomes 1.5x
 - **Critical hit**: Crit multiplier applied after Ice Plumes reduction
@@ -131,5 +129,5 @@ With Ice Plumes active:
 ### Version History
 - New ability introduced in Elite Redux
 - Functions identically to Ice Scales but with different thematic naming
-- Available as innate ability on select Ice-type Pokémon
+- Available as innate ability on select Ice-type Pokemon
 - Part of Elite Redux's expanded ability roster for enhanced team building options

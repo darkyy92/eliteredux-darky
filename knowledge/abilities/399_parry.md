@@ -2,12 +2,22 @@
 id: 399
 name: Parry
 status: ai-generated
-character_count: 0
+character_count: 342
 ---
 
-# Parry (Ability #399)
+# Parry - Ability ID 399
 
-## Overview
+## In-Game Description
+"Reduces damage by 20% and counters contact moves with Mach Punch."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Parry combines masterful defense with swift retaliation, reducing all incoming damage by 20% while automatically countering contact moves with a priority Mach Punch (40 BP Fighting-type, +1 priority). This dual-purpose ability excels on bulky Pokemon that can leverage both defensive staying power and offensive pressure.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Parry is an exceptional defensive ability that embodies the concept of turning defense into offense. This ability combines damage reduction with an immediate counter-attack, making it one of the most comprehensive defensive abilities in Elite Redux.
 
 ## Technical Implementation
@@ -114,24 +124,24 @@ Parry earns a High competitive tier rating due to its dual-purpose nature and co
 ### Scenario 1: Physical Sweeper Counter
 ```
 Opponent uses Close Combat (contact, physical)
-→ Parry reduces damage by 20%
-→ Immediately counters with Mach Punch
-→ Priority often secures revenge KO
+to Parry reduces damage by 20%
+to Immediately counters with Mach Punch
+to Priority often secures revenge KO
 ```
 
 ### Scenario 2: Mixed Attacker
 ```
 Opponent uses Flamethrower (non-contact, special)
-→ Parry reduces damage by 20%
-→ No counter-attack triggered
-→ Still provides defensive value
+to Parry reduces damage by 20%
+to No counter-attack triggered
+to Still provides defensive value
 ```
 
 ### Scenario 3: Setup Counter
 ```
 Opponent uses Swords Dance (non-contact, status)
-→ No damage taken, no counter triggered
-→ Must rely on other defensive options
+to No damage taken, no counter triggered
+to Must rely on other defensive options
 ```
 
 ## Advanced Mechanics
@@ -153,6 +163,7 @@ Parry represents Elite Redux's approach to making defensive abilities more inter
 
 ### Competitive Evolution
 This ability addresses the traditional problem of purely defensive abilities being passive. By combining defense with offense, Parry creates meaningful decisions for both players.
+
 
 ## Conclusion
 

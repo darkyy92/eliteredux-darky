@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pokémon's HP drops to 1/3 or less. The ability activates automatically when health is low, providing a significant damage boost when most needed. Perfect for Bug-type attackers who can capitalize on the enhanced power.
-
-*Character count: 293*
+Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pokemon's HP drops to 1/3 or less. The ability activates automatically when health is low, providing a significant damage boost when most needed. Perfect for Bug-type attackers who can capitalize on the enhanced power.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -38,8 +36,8 @@ Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pok
 ### Interaction Rules:
 - **Multi-hit Moves**: Each hit receives the multiplier
 - **STAB Interaction**: Stacks multiplicatively with STAB (1.5x)
-  - Normal: 1.2 × 1.5 = 1.8x total
-  - Low HP: 1.5 × 1.5 = 2.25x total
+  - Normal: 1.2 x 1.5 = 1.8x total
+  - Low HP: 1.5 x 1.5 = 2.25x total
 - **Other Abilities**: Stacks with abilities like Technician, Tinted Lens, etc.
 - **Items**: Stacks with type-boosting items (Silver Powder, etc.)
 
@@ -66,10 +64,10 @@ constexpr Ability Swarm = {
 - **Focus Sash Synergy**: Guarantees survival to 1 HP for maximum boost
 - **Substitute Strategy**: Use Substitute to reach low HP safely
 
-### Common Pokémon with Swarm:
-- Various Bug-type Pokémon as innate or regular ability
+### Common Pokemon with Swarm:
+- Various Bug-type Pokemon as innate or regular ability
 - Often paired with other Bug-type enhancing abilities
-- Frequently found on Pokémon with high Attack stats
+- Frequently found on Pokemon with high Attack stats
 
 ### Competitive Notes:
 - **Damage Calculations**: At low HP, Bug moves become incredibly powerful

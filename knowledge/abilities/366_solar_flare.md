@@ -11,11 +11,10 @@ character_count: 296
 "Chloroplast + Immolate. Fire moves gain STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+
+<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
 
 Solar Flare converts Normal-type moves to Fire-type with boosted power while providing Fire-type STAB. Additionally grants Chloroplast effects: Weather Ball, Solar Beam/Blade, and Growth act as if used in harsh sunlight, regardless of actual weather conditions.
-
-*Character count: 296*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -86,16 +85,16 @@ constexpr Ability Immolate = {
 - Chloroplast effects are checked independently during move execution
 - Ate boost flag is set for power calculation bonuses
 
-### Pokémon with Solar Flare
+### Pokemon with Solar Flare
 
 #### Changeable Ability Slot
 - **Victini** (Psychic/Fire) - Choice alongside Turboblaze and Power Spot
-- **Gloom Evolution Line** (Grass → Grass/Fire) - Choice alongside Moody and Chlorophyll
+- **Gloom Evolution Line** (Grass to Grass/Fire) - Choice alongside Moody and Chlorophyll
 
 #### Innate Ability Slot
 - **Volcarona Line** (Bug/Fire) - Paired with Flower Gift and Chlorophyll
 - **Solrock** (Rock/Psychic) - Paired with Levitate and Sturdy
-- Various other Fire and Grass-type Pokémon as innate ability
+- Various other Fire and Grass-type Pokemon as innate ability
 
 ### Strategic Applications
 
@@ -142,7 +141,7 @@ constexpr Ability Immolate = {
 
 **vs. Pure Immolate (ID 279):**
 - Solar Flare adds Chloroplast benefits
-- Better for Pokémon with solar moves in movepool
+- Better for Pokemon with solar moves in movepool
 - More versatile overall
 
 **vs. Pure Chloroplast (ID 268):**
@@ -163,7 +162,7 @@ constexpr Ability Immolate = {
 - Z-moves and Max moves maintain Fire typing after conversion
 
 **Ability Interactions:**
-- Cannot be Skill Swapped due to its innate nature on most Pokémon
+- Cannot be Skill Swapped due to its innate nature on most Pokemon
 - Works with items like Charcoal for additional Fire-type boost
 - Combines well with sun-setting moves for team support
 

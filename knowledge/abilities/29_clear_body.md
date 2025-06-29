@@ -15,13 +15,11 @@ character_count: 290
 
 Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam in competitive play.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Clear Body provides complete immunity to stat reductions caused by opposing Pokémon. This includes direct stat-lowering moves, secondary effects of attacks, and ability-based stat drops.
+Clear Body provides complete immunity to stat reductions caused by opposing Pokemon. This includes direct stat-lowering moves, secondary effects of attacks, and ability-based stat drops.
 
 ### Technical Implementation
 Protection is checked in `battle_script_commands.c` (lines 4046-4054):
@@ -48,7 +46,7 @@ Protection is checked in `battle_script_commands.c` (lines 4046-4054):
 - **Breakable**: TRUE (can be suppressed by Mold Breaker)
 - **AI awareness**: AI reduces score for stat-lowering moves by 10 points
 
-### Pokémon with Clear Body
+### Pokemon with Clear Body
 
 **Innate ability (always active):**
 - Tentacool/Tentacruel
@@ -103,7 +101,7 @@ Protection is checked in `battle_script_commands.c` (lines 4046-4054):
 - Power/Guard Split (equalize stats)
 
 ### Competitive Usage Notes
-Clear Body is highly valued in competitive play, especially in formats where Intimidate is common. It enables consistent performance from setup sweepers and physical attackers. The ability to ignore the omnipresent Intimidate alone makes it worthwhile. Particularly effective on offensive Pokémon that can't afford stat drops.
+Clear Body is highly valued in competitive play, especially in formats where Intimidate is common. It enables consistent performance from setup sweepers and physical attackers. The ability to ignore the omnipresent Intimidate alone makes it worthwhile. Particularly effective on offensive Pokemon that can't afford stat drops.
 
 ### AI Behavior
 - Recognizes Clear Body and avoids stat-lowering moves

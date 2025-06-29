@@ -15,8 +15,6 @@ character_count: 281
 
 Stakeout doubles damage dealt to Pokemon that just switched in this turn. The ability triggers when the target has isFirstTurn set to 2, indicating a fresh switch-in. Works on all offensive moves and provides significant wallbreaker potential against switching opponents in battle.
 
-*Character count: 281*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -66,7 +64,7 @@ constexpr Ability Stakeout = {
 Assuming a base 100 power move with standard conditions:
 - **Normal damage**: 100 base power
 - **With Stakeout**: 200 base power (2.0x multiplier)
-- **Combined with STAB**: 300 base power (2.0x Stakeout × 1.5x STAB)
+- **Combined with STAB**: 300 base power (2.0x Stakeout x 1.5x STAB)
 
 ### Common Users in Elite Redux
 - **Gumshoos line**: Yungoos and Gumshoos have Stakeout as a changeable ability

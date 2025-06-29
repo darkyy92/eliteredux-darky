@@ -15,8 +15,6 @@ character_count: 295
 
 Strategic Pause combines patience with precision. When moving after the target, this ability provides a 30% damage boost from Analytic plus raises critical hit rate by 2 stages. The critical hit bonus transforms rare crits into frequent ones, making slow sweepers devastatingly effective.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -69,15 +67,15 @@ Strategic Pause provides Stage 2 critical hits when conditions are met, making c
 
 When both effects activate:
 1. Base damage is calculated
-2. Analytic multiplier applies: `damage × 1.3`
+2. Analytic multiplier applies: `damage x 1.3`
 3. Critical hit check occurs with +2 stage bonus
-4. If critical hit occurs: `damage × 1.5` (or 2.25x for Super Luck users)
+4. If critical hit occurs: `damage x 1.5` (or 2.25x for Super Luck users)
 
 ### Strategic Implications
 
 **Ideal Users:**
 - Slow, powerful attackers (Trick Room teams)
-- Pokémon with naturally low Speed stats
+- Pokemon with naturally low Speed stats
 - Mixed attackers who can capitalize on both physical and special critical hits
 
 **Synergies:**
@@ -93,7 +91,7 @@ When both effects activate:
 
 ### Common Users
 
-Pokémon that naturally benefit from Strategic Pause:
+Pokemon that naturally benefit from Strategic Pause:
 - Slow special attackers (Slowking, Reuniclus)
 - Bulky physical attackers (Conkeldurr, Machamp)
 - Mixed attackers with good offensive stats
@@ -101,7 +99,7 @@ Pokémon that naturally benefit from Strategic Pause:
 ### Competitive Usage
 
 **Advantages:**
-- Massive damage output when activated (1.3x × potential 1.5x crit)
+- Massive damage output when activated (1.3x x potential 1.5x crit)
 - Reliable activation in Trick Room
 - Punishes faster opponents
 - Works on both physical and special moves
@@ -120,7 +118,7 @@ Pokémon that naturally benefit from Strategic Pause:
 - Compatible with contact and non-contact moves
 
 **Ability Interactions:**
-- Stacks with other damage-boosting abilities if the Pokémon somehow has multiple
+- Stacks with other damage-boosting abilities if the Pokemon somehow has multiple
 - Blocked by critical hit immunity abilities on the target
 - Unaffected by Pressure or similar PP-draining abilities
 
@@ -131,6 +129,6 @@ Pokémon that naturally benefit from Strategic Pause:
 
 ### Version History
 
-Strategic Pause was introduced in Elite Redux as part of the expanded ability system, designed to give slow Pokémon a powerful niche in competitive play while maintaining the risk/reward dynamic of turn order manipulation.
+Strategic Pause was introduced in Elite Redux as part of the expanded ability system, designed to give slow Pokemon a powerful niche in competitive play while maintaining the risk/reward dynamic of turn order manipulation.
 
 The ability represents a tactical approach to battle - by allowing opponents to move first, the user gains significant offensive advantages, embodying the "strategic pause" concept of calculated patience leading to devastating strikes.

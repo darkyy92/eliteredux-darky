@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-As One combines two abilities into one powerful signature move. Unnerve prevents all opposing Pokémon from consuming held items like berries and Focus Sash. Chilling Neigh raises Attack by one stage when this Pokémon knocks out an opponent, stacking for multiple KOs.
-
-*Character count: 289*
+As One combines two abilities into one powerful signature move. Unnerve prevents all opposing Pokemon from consuming held items like berries and Focus Sash. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent, stacking for multiple KOs.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,10 +23,10 @@ As One (Ice Rider) is a legendary signature ability that combines the effects of
 ### Core Components
 
 #### Unnerve Component
-- **Effect**: Prevents all opposing Pokémon from consuming their held items during battle
+- **Effect**: Prevents all opposing Pokemon from consuming their held items during battle
 - **Scope**: Affects all enemies on the field simultaneously  
 - **Items Blocked**: All consumable items including berries, herbs, seeds, Focus Sash, Eject Button
-- **Duration**: Active as long as the Pokémon remains on the field
+- **Duration**: Active as long as the Pokemon remains on the field
 
 #### Chilling Neigh Component  
 - **Effect**: Raises Attack by one stage (+50%) when knocking out an opponent
@@ -95,8 +93,8 @@ constexpr Ability AsOneIceRider = {
 - **Crowned King**: Combines all three effects (Unnerve + both Neigh abilities)
 - **Individual Components**: Can be compared to standalone Unnerve (#127) and Chilling Neigh (#264)
 
-### Pokémon Association
-As One (Ice Rider) is typically associated with Calyrex's Ice Rider form in official games, representing the fusion of the King of Bountiful Harvests with Glastrier, the Wild Horse Pokémon. The combination reflects both the regal intimidation (Unnerve) and the fierce charging power (Chilling Neigh) of this legendary fusion.
+### Pokemon Association
+As One (Ice Rider) is typically associated with Calyrex's Ice Rider form in official games, representing the fusion of the King of Bountiful Harvests with Glastrier, the Wild Horse Pokemon. The combination reflects both the regal intimidation (Unnerve) and the fierce charging power (Chilling Neigh) of this legendary fusion.
 
 ### Code Location
 - Defined in `src/abilities.cc` as `constexpr Ability AsOneIceRider`

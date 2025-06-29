@@ -8,14 +8,12 @@ character_count: 298
 # Sand Rush - Ability ID 146
 
 ## In-Game Description
-"This Pokémon's Speed gets a 1.5x boost in a sandstorm."
+"This Pokemon's Speed gets a 1.5x boost in a sandstorm."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sand Rush significantly boosts the Pokémon's Speed by 50% during sandstorm weather, making it exceptionally swift in battle. The ability also provides complete immunity to sandstorm damage, allowing the Pokémon to battle unhindered by harsh weather conditions. Functions under any sandstorm effect.
-
-*Character count: 298*
+Sand Rush significantly boosts the Pokemon's Speed by 50% during sandstorm weather, making it exceptionally swift in battle. The ability also provides complete immunity to sandstorm damage, allowing the Pokemon to battle unhindered by harsh weather conditions. Functions under any sandstorm effect.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,15 +21,15 @@ Sand Rush significantly boosts the Pokémon's Speed by 50% during sandstorm weat
 Sand Rush is a weather-dependent ability that provides two key benefits during sandstorm conditions:
 
 **Speed Boost:**
-- Increases the Pokémon's Speed stat by 1.5x (50% boost) when sandstorm weather is active
+- Increases the Pokemon's Speed stat by 1.5x (50% boost) when sandstorm weather is active
 - The boost applies immediately when sandstorm begins and is removed when sandstorm ends
 - Stacks multiplicatively with other speed modifiers (items, stat boosts, etc.)
 - Works during all forms of sandstorm weather in Elite Redux
 
 **Sandstorm Immunity:**
-- The Pokémon takes no damage from sandstorm weather effects
+- The Pokemon takes no damage from sandstorm weather effects
 - This immunity is built into the ability (`sandImmune = TRUE` in the code)
-- Allows the Pokémon to stay in battle indefinitely during sandstorms without weather damage
+- Allows the Pokemon to stay in battle indefinitely during sandstorms without weather damage
 
 **Technical Implementation:**
 - Implemented in `abilities.cc` as `SandRush` 
@@ -39,12 +37,12 @@ Sand Rush is a weather-dependent ability that provides two key benefits during s
 - The `WEATHER_SANDSTORM_ANY` check ensures compatibility with all sandstorm variants
 
 **Competitive Usage:**
-- Excellent on offensive Pokémon that can set up sandstorm via Sand Stream or moves
-- Synergizes well with other Ground, Rock, and Steel-type Pokémon that benefit from sandstorm
-- The speed boost can turn normally slow Pokémon into formidable sweepers
+- Excellent on offensive Pokemon that can set up sandstorm via Sand Stream or moves
+- Synergizes well with other Ground, Rock, and Steel-type Pokemon that benefit from sandstorm
+- The speed boost can turn normally slow Pokemon into formidable sweepers
 - Immunity allows for reliable setup opportunities during sandstorm turns
 
 **Strategic Considerations:**
 - Requires sandstorm support from teammates or sandstorm-inducing moves
-- Most effective on Pokémon with good offensive stats to take advantage of the speed boost
+- Most effective on Pokemon with good offensive stats to take advantage of the speed boost
 - Can be countered by weather-changing abilities or moves that override sandstorm

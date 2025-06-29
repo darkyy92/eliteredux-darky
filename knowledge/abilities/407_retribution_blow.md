@@ -2,16 +2,22 @@
 id: 407
 name: Retribution Blow
 status: ai-generated
-character_count: 285
+character_count: 287
 ---
 
-# Retribution Blow Analysis
+# Retribution Blow - Ability ID 407
 
-**ID:** 407  
-**Name:** Retribution Blow  
-**Current Description:** "Uses Hyper Beam if any foe uses an stat boosting move."
+## In-Game Description
+"Uses Hyper Beam if any foe uses an stat boosting move."
 
-## Answer to User's Question: "Does the Hyper Beam put you in recharge?"
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers with immediate retaliation. 100% accuracy, Normal-type damage with no drawbacks.
+
+## Detailed Mechanical Explanation
+
+### Does the Hyper Beam put you in recharge?
 
 **NO, the Hyper Beam from Retribution Blow does NOT cause recharge status.**
 
@@ -69,10 +75,6 @@ constexpr Ability RetributionBlow = {
 - The lack of recharge means the user can continue normal attacks next turn
 - Forces opponents to be very careful about when they set up
 
-## Extended In-Game Description (280-300 chars)
-"Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers with immediate retaliation. 100% accuracy, Normal-type damage with no drawbacks."
-
-*Character count: 287*
 
 ## Detailed Explanation for Discord
 **Retribution Blow** is a reactive ability that automatically triggers a powerful counterattack when opponents attempt to boost their stats. Here's exactly how it works:

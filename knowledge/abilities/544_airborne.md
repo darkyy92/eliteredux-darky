@@ -13,16 +13,14 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Airborne provides a 1.3x power boost to all Flying-type moves used by both the Pokémon with this ability and its allies in double battles. This boost applies to any Flying-type move regardless of category or base power. Works perfectly with strategies involving Flying-type teams.
-
-*Character count: 283*
+Airborne provides a 1.3x power boost to all Flying-type moves used by both the Pokemon with this ability and its allies in double battles. This boost applies to any Flying-type move regardless of category or base power. Works perfectly with strategies involving Flying-type teams.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 - **Power Multiplier**: 1.3x (30% boost) to all Flying-type moves
-- **Scope**: Affects both the user and ally Pokémon in double battles
+- **Scope**: Affects both the user and ally Pokemon in double battles
 - **Move Type Detection**: Checks if `moveType == TYPE_FLYING` (type constant 2)
 - **Application**: Uses `onOffensiveMultiplier` callback with `APPLY_ON_ALLY` flag
 
@@ -61,12 +59,12 @@ constexpr Ability Airborne = {
 - **Wallbreaking**: 30% boost can turn 2HKOs into potential OHKOs
 
 ### Example Damage Calculations
-- Brave Bird (120 BP) → 156 effective BP with Airborne
-- Hurricane (110 BP) → 143 effective BP with Airborne
-- Air Slash (75 BP) → 97.5 effective BP with Airborne
+- Brave Bird (120 BP) to 156 effective BP with Airborne
+- Hurricane (110 BP) to 143 effective BP with Airborne
+- Air Slash (75 BP) to 97.5 effective BP with Airborne
 
 ### Common Users
-Flying-type Pokémon that benefit from team support, particularly those used in double battles or on Flying-type themed teams.
+Flying-type Pokemon that benefit from team support, particularly those used in double battles or on Flying-type themed teams.
 
 ### Competitive Usage Notes
 - **VGC Viability**: Strong in doubles format where ally support is most valuable
@@ -76,7 +74,7 @@ Flying-type Pokémon that benefit from team support, particularly those used in 
 ### Counters
 - **Type Resistances**: Rock, Electric, Steel types take reduced damage
 - **Abilities**: Storm Drain doesn't affect this, but abilities that change move types can alter interactions
-- **Items**: Air Balloon makes Pokémon immune to Ground but doesn't affect Flying moves
+- **Items**: Air Balloon makes Pokemon immune to Ground but doesn't affect Flying moves
 
 ### Synergies
 - **Flying Gem**: Stack with consumable item for massive one-time boost

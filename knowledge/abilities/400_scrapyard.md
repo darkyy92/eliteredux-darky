@@ -13,15 +13,13 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Scrapyard sets a layer of Spikes on the opponent's side when hit by a contact move. Each layer damages switching Pokémon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively. Only triggers when the move connects and fewer than 3 layers exist. Effectively punishes physical attackers.
-
-*Character count: 292*
+Scrapyard sets a layer of Spikes on the opponent's side when hit by a contact move. Each layer damages switching Pokemon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively. Only triggers when the move connects and fewer than 3 layers exist. Effectively punishes physical attackers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Scrapyard is a defensive ability that automatically sets up entry hazards when the Pokémon is hit by contact moves. The ability places Spikes on the opponent's side of the field, creating a hazard that damages Pokémon switching in.
+Scrapyard is a defensive ability that automatically sets up entry hazards when the Pokemon is hit by contact moves. The ability places Spikes on the opponent's side of the field, creating a hazard that damages Pokemon switching in.
 
 ### Activation Conditions
 - **Move requirement**: Must be hit by a contact move (physical moves that make contact)
@@ -96,7 +94,7 @@ constexpr Ability LooseQuills = {
 - **Maximum layers**: Stops working once 3 layers are set
 
 ### Common Users
-Based on trainer data, Scrapyard appears on defensive Pokémon that:
+Based on trainer data, Scrapyard appears on defensive Pokemon that:
 - Want to punish physical attackers
 - Provide team support through hazards
 - Have good bulk to survive contact moves

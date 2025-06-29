@@ -15,13 +15,11 @@ character_count: 295
 
 Stun Shock gives each attack a 60% chance to inflict either Paralysis or Poison on the target, chosen randomly. The status effect is determined by a coin flip when the ability triggers. Only works on moves that make contact or deal damage. Perfect for disrupting opposing teams.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Stun Shock is an offensive ability that applies additional status effects to attacks. Each time the Pokémon successfully hits an opponent, there's a 60% chance to inflict either Paralysis or Poison.
+Stun Shock is an offensive ability that applies additional status effects to attacks. Each time the Pokemon successfully hits an opponent, there's a 60% chance to inflict either Paralysis or Poison.
 
 ### Activation Conditions
 - **Hit requirement**: Must successfully hit the target with an attack
@@ -59,7 +57,7 @@ constexpr Ability StunShock = {
 ### Important Interactions
 - **Type immunity**: Poison-types cannot be poisoned, Electric-types cannot be paralyzed
 - **Ability immunity**: Limber prevents paralysis, Poison Heal/Immunity prevent poison
-- **Already statused**: Cannot apply status to already statused Pokémon
+- **Already statused**: Cannot apply status to already statused Pokemon
 - **Substitute**: Blocked by Substitute
 - **Multi-hit moves**: Can trigger on each hit of multi-hit moves
 - **Status Orb items**: Can interact with Flame/Toxic Orb holders
@@ -90,10 +88,10 @@ constexpr Ability StunShock = {
 - **Unpredictability**: Random status selection keeps opponents guessing
 - **Consistent pressure**: 60% chance provides reliable disruption
 - **Team support**: Helps teammates by weakening opponents
-- **Entry deterrent**: Makes switching into the Pokémon risky
+- **Entry deterrent**: Makes switching into the Pokemon risky
 
 ### Common Users
-Best suited for Pokémon that:
+Best suited for Pokemon that:
 - Make frequent contact attacks
 - Have good offensive presence
 - Benefit from opponent disruption

@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokémon is confused, making it a double-edged defensive tool that trades control for survivability.
-
-*Character count: 295*
+Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokemon is confused, making it a double-edged defensive tool that trades control for survivability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,13 +24,13 @@ Madness Enhancement is an innate ability (indicated by the "(N)" suffix) that cr
 ### Primary Effects
 
 #### 1. Fog-Induced Confusion
-- **Trigger**: When the Pokémon with Madness Enhancement enters fog weather or when fog weather is set while the Pokémon is active
-- **Effect**: The Pokémon automatically becomes confused
+- **Trigger**: When the Pokemon with Madness Enhancement enters fog weather or when fog weather is set while the Pokemon is active
+- **Effect**: The Pokemon automatically becomes confused
 - **Duration**: Standard confusion duration (1-4 turns, randomly determined)
 - **Cannot be prevented**: This self-inflicted confusion bypasses confusion immunity from other sources
 
 #### 2. Confusion Damage Reduction
-- **Trigger**: While the Pokémon is confused (from any source, not just fog)
+- **Trigger**: While the Pokemon is confused (from any source, not just fog)
 - **Effect**: All incoming damage is reduced by 50%
 - **Damage Types Affected**: 
   - Direct move damage
@@ -69,7 +67,7 @@ The actual fog confusion trigger and damage reduction mechanics are implemented 
 ### Strategic Implications
 
 #### Advantages
-- **Defensive Powerhouse**: 50% damage reduction makes the Pokémon extremely tanky while confused
+- **Defensive Powerhouse**: 50% damage reduction makes the Pokemon extremely tanky while confused
 - **Synergy Potential**: Works with other confusion-inducing moves or abilities
 - **Weather Control**: Can be strategically used with fog-setting moves or abilities
 - **Innate Nature**: Cannot be skill swapped, role played, or otherwise transferred
@@ -105,7 +103,7 @@ The actual fog confusion trigger and damage reduction mechanics are implemented 
 - **Mental Herb**: Cures confusion if it was caused by certain moves
 
 ### Common Users
-This is an innate ability, so it cannot be obtained through normal means like Skill Swap or Role Play. It is permanently assigned to specific Pokémon species.
+This is an innate ability, so it cannot be obtained through normal means like Skill Swap or Role Play. It is permanently assigned to specific Pokemon species.
 
 ### Competitive Usage Notes
 - **Setup Sweeper Counter**: Extremely effective against physical and special attackers

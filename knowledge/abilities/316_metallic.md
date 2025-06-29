@@ -2,28 +2,32 @@
 id: 316
 name: Metallic
 status: ai-generated
-character_count: 298
+character_count: 299
 ---
 
-# Metallic (Ability #316)
+# Metallic - Ability ID 316
 
-## Overview
-Metallic is a defensive utility ability that grants the holder an additional Steel typing upon switching into battle. This creates a triple-type Pokémon, combining the defensive benefits of Steel typing with the offensive capabilities of the Pokémon's original dual typing.
-
-## Basic Information
-- **ID**: 316 (ABILITY_METALLIC)
-- **Name**: Metallic
-- **Short Description**: "Adds Steel type to itself."
-- **Category**: Type Addition Ability
-- **Breakable**: No
-- **Trigger**: On Entry (when Pokémon switches in)
+## In-Game Description
+"Adds Steel type to itself."
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Metallic adds Steel as a third type upon entry, granting Steel resistances and immunities while preserving original typing. Provides defensive utility without losing STAB. Particularly effective for frail Pokemon seeking defensive coverage while maintaining offensive versatility and type matchups.
 
-**Character count: 298**
+## Detailed Mechanical Explanation
 
-## Mechanics
+### Overview
+Metallic is a defensive utility ability that grants the holder an additional Steel typing upon switching into battle. This creates a triple-type Pokemon, combining the defensive benefits of Steel typing with the offensive capabilities of the Pokemon's original dual typing.
+
+### Basic Information
+- **ID**: 316 (ABILITY_METALLIC)
+- **Name**: Metallic
+- **Category**: Type Addition Ability
+- **Breakable**: No
+- **Trigger**: On Entry (when Pokemon switches in)
+
+### Mechanics
 
 ### Core Functionality
 ```cpp
@@ -33,14 +37,14 @@ constexpr Ability Metallic = {
 ```
 
 ### How It Works
-1. **Activation**: Triggers automatically when the Pokémon enters battle (switching in)
+1. **Activation**: Triggers automatically when the Pokemon enters battle (switching in)
 2. **Type Addition**: Uses the `AddBattlerType(battler, TYPE_STEEL)` function
 3. **Storage**: The Steel type is stored in `gBattleMons[battler].type3`
-4. **Check**: Only activates if the Pokémon doesn't already have Steel typing (`CHECK_NOT(IS_BATTLER_OF_TYPE(battler, type))`)
+4. **Check**: Only activates if the Pokemon doesn't already have Steel typing (`CHECK_NOT(IS_BATTLER_OF_TYPE(battler, type))`)
 5. **Message**: Displays battle message about gaining the Steel type
 
 ### Type System Integration
-- **Triple Typing**: Creates a Pokémon with three types (original two + Steel)
+- **Triple Typing**: Creates a Pokemon with three types (original two + Steel)
 - **Preservation**: Original typing remains unchanged (type1 and type2 intact)
 - **STAB**: Retains Same Type Attack Bonus for original moves
 - **Resistances**: Gains all Steel-type resistances and immunities
@@ -71,7 +75,7 @@ constexpr Ability Metallic = {
 ## Strategic Applications
 
 ### Defensive Utility
-- **Frail Attackers**: Provides defensive bulk to glass cannon Pokémon
+- **Frail Attackers**: Provides defensive bulk to glass cannon Pokemon
 - **Status Immunity**: Complete immunity to poison damage and poisoning
 - **Resistances**: Significant damage reduction from 10 common types
 - **Typing Coverage**: Shores up defensive weaknesses without losing offensive options
@@ -82,7 +86,7 @@ constexpr Ability Metallic = {
 - **Versatility**: Triple typing provides unique resistance profile
 
 ### Team Building
-- **Role Flexibility**: Allows offensive Pokémon to pivot into defensive roles
+- **Role Flexibility**: Allows offensive Pokemon to pivot into defensive roles
 - **Matchup Coverage**: Improves neutral matchups into favorable ones
 - **Synergy**: Pairs well with moves that benefit from type diversity
 
@@ -108,7 +112,7 @@ constexpr Ability Metallic = {
 ## Implementation Details
 
 ### Function Call Chain
-1. `onEntry` trigger fires when Pokémon switches in
+1. `onEntry` trigger fires when Pokemon switches in
 2. `AddBattlerType(battler, TYPE_STEEL)` called
 3. `IS_BATTLER_OF_TYPE` check prevents duplicate typing
 4. `gBattleMons[battler].type3 = TYPE_STEEL` stores the new type
@@ -151,4 +155,4 @@ constexpr Ability MetallicJaws = {
 Combination ability that includes Metallic's type addition plus Primal Maw's multi-hit effect.
 
 ## Conclusion
-Metallic is a straightforward but powerful defensive utility ability that transforms any Pokémon into a Steel-type hybrid. Its value lies in providing significant defensive improvements while preserving all offensive capabilities, making it particularly valuable for fragile offensive Pokémon that need survivability without sacrificing their role as attackers.
+Metallic is a straightforward but powerful defensive utility ability that transforms any Pokemon into a Steel-type hybrid. Its value lies in providing significant defensive improvements while preserving all offensive capabilities, making it particularly valuable for fragile offensive Pokemon that need survivability without sacrificing their role as attackers.

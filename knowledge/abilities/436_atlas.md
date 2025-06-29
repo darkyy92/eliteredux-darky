@@ -13,18 +13,16 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Atlas sets Gravity field effect upon entering battle for 8 turns. Gravity prevents levitating moves like Fly and Bounce, grounds all Pokémon making them vulnerable to Ground moves, and boosts move accuracy by 66%. Superior to regular Gravity's 5-turn duration.
-
-*Character count: 295*
+Atlas sets Gravity field effect upon entering battle for 8 turns. Gravity prevents levitating moves like Fly and Bounce, grounds all Pokemon making them vulnerable to Ground moves, and boosts move accuracy by 66%. Superior to regular Gravity's 5-turn duration.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Atlas is an entry ability that automatically activates the Gravity field condition when the Pokémon enters battle. This field effect lasts for 8 turns, which is longer than the standard 5-turn Gravity duration from the move or Gravity Well ability.
+Atlas is an entry ability that automatically activates the Gravity field condition when the Pokemon enters battle. This field effect lasts for 8 turns, which is longer than the standard 5-turn Gravity duration from the move or Gravity Well ability.
 
 ### Activation Conditions
-- **Entry trigger**: Activates automatically when the Pokémon switches in or battle begins
+- **Entry trigger**: Activates automatically when the Pokemon switches in or battle begins
 - **Fails if**: Gravity is already active on the field
 - **Duration**: 8 turns (GRAVITY_DURATION_EXTENDED vs standard 5 turns)
 - **Cannot be extended**: Once set, the duration is fixed
@@ -49,10 +47,10 @@ Gravity prevents the use of several levitating moves:
 #### Accuracy Boost
 - **All moves**: +66% accuracy (multiplied by 5/3)
 - **Stacks with**: Other accuracy modifiers
-- **Applies to**: All Pokémon on the field
+- **Applies to**: All Pokemon on the field
 
 #### Grounding Effects
-- **All Pokémon**: Become grounded regardless of type or ability
+- **All Pokemon**: Become grounded regardless of type or ability
 - **Ground immunity**: Flying types and Levitate users lose Ground immunity
 - **Magnet Rise**: Cannot be used and existing effects are suppressed
 - **Telekinesis**: Cannot be used and existing effects end
@@ -95,9 +93,9 @@ constexpr Ability Atlas = {
 
 ### Common Users
 Atlas is typically found on:
-- Ground-type Pokémon who benefit from hitting Flying types
-- Pokémon with low-accuracy but high-power moves
-- Support Pokémon designed to assist their team
+- Ground-type Pokemon who benefit from hitting Flying types
+- Pokemon with low-accuracy but high-power moves
+- Support Pokemon designed to assist their team
 - Bulky entry hazard setters who can afford an entry ability
 
 ### Competitive Usage Notes

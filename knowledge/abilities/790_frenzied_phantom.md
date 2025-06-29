@@ -15,8 +15,6 @@ character_count: 280
 
 Frenzied Phantom combines dual-strike attacks with trapping power. All damaging moves hit twice with the second hit dealing 25% damage, while simultaneously preventing opponents from switching. Ghost-types are immune to the trapping effect but still take double hits from attacks.
 
-*Character count: 280*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -70,7 +68,7 @@ The ability directly inherits both components:
 ```
 
 **Trapping Rules:**
-- Prevents normal switching for all opponent Pokémon
+- Prevents normal switching for all opponent Pokemon
 - **Ghost-types**: Completely immune to trapping (can switch freely)
 - **Other Shadow Tag users**: Can switch freely (mutual immunity)
 - Active as long as Frenzied Phantom user remains on field
@@ -88,7 +86,7 @@ The ability directly inherits both components:
 #### Control Capabilities
 1. **Switching Denial**: Eliminates opponent's pivot options
 2. **Revenge Killer Elimination**: Traps and KOs threats
-3. **Setup Opportunities**: Trap passive Pokémon for free setup
+3. **Setup Opportunities**: Trap passive Pokemon for free setup
 
 #### Combined Synergy
 The combination creates unique strategic opportunities:
@@ -111,7 +109,7 @@ The combination creates unique strategic opportunities:
    - Mirror matchups become standard battles
 
 #### Escape Methods
-Trapped Pokémon can escape via:
+Trapped Pokemon can escape via:
 - **Switch moves**: U-turn, Volt Switch, Flip Turn, Parting Shot
 - **Baton Pass**: Stat passing + switching
 - **Teleport**: Negative priority switching
@@ -119,10 +117,10 @@ Trapped Pokémon can escape via:
 - **Item switches**: Eject Button, Eject Pack, Shed Shell
 - **KOing the user**: Direct elimination
 
-### Pokémon Distribution
+### Pokemon Distribution
 
 Frenzied Phantom is an extremely rare ability in Elite Redux, typically found on:
-- **Legendary/Mythical Pokémon**: As signature abilities
+- **Legendary/Mythical Pokemon**: As signature abilities
 - **Elite Redux custom forms**: Special variants with unique roles
 - **Innate abilities**: Always-active implementations
 
@@ -146,7 +144,7 @@ Frenzied Phantom represents one of the most powerful abilities in Elite Redux du
 
 #### Best Use Cases
 1. **Late-game closers**: Excel in endgame scenarios
-2. **Threat elimination**: Remove specific problematic Pokémon
+2. **Threat elimination**: Remove specific problematic Pokemon
 3. **Setup sweepers**: Combine setup with guaranteed KOs
 4. **Wallbreakers**: Enhanced damage + trapping breaks stall
 
@@ -199,7 +197,7 @@ The ability leverages Elite Redux's modular ability system:
 - **Trapping UI**: Updates switching options in real-time
 
 ### Version History
-Frenzied Phantom was introduced in Elite Redux as part of the expanded ability system, designed to create powerful signature abilities for legendary and special Pokémon. The combination represents the pinnacle of ability design, merging two of the game's most impactful mechanics.
+Frenzied Phantom was introduced in Elite Redux as part of the expanded ability system, designed to create powerful signature abilities for legendary and special Pokemon. The combination represents the pinnacle of ability design, merging two of the game's most impactful mechanics.
 
 ### Team Building Considerations
 

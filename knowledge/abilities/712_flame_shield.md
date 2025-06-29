@@ -13,15 +13,13 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Flame Shield reduces damage from super-effective moves by 35%, helping Pokémon survive type disadvantages. Works against all attacks with 2x or greater effectiveness. The damage reduction applies before other calculations, making it valuable for frail Pokémon facing coverage moves.
-
-*Character count: 282*
+Flame Shield reduces damage from super-effective moves by 35%, helping Pokemon survive type disadvantages. Works against all attacks with 2x or greater effectiveness. The damage reduction applies before other calculations, making it valuable for frail Pokemon facing coverage moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Flame Shield is a defensive ability that reduces incoming damage from super-effective moves. The ability provides significant damage reduction against type disadvantageous attacks, helping Pokémon survive otherwise lethal coverage moves.
+Flame Shield is a defensive ability that reduces incoming damage from super-effective moves. The ability provides significant damage reduction against type disadvantageous attacks, helping Pokemon survive otherwise lethal coverage moves.
 
 ### Activation Conditions
 - **Type effectiveness requirement**: Move must have 2x or greater type effectiveness
@@ -52,14 +50,14 @@ constexpr Ability FlameShield = {
 ### Damage Calculation Order
 1. Base damage calculated
 2. Type effectiveness applied (2x, 4x, etc.)
-3. Flame Shield reduction applied (×0.65)
+3. Flame Shield reduction applied (x0.65)
 4. Other defensive modifiers applied
 5. Final damage dealt
 
 ### Strategic Implications
 - **Coverage survival**: Helps survive super-effective coverage moves
 - **Switch safety**: Provides more switching opportunities against coverage
-- **Frail Pokémon support**: Especially valuable on glass cannon attackers
+- **Frail Pokemon support**: Especially valuable on glass cannon attackers
 - **Fire-type synergy**: Helps Fire types survive Water/Rock/Ground attacks
 - **Prediction reward**: Rewards staying in against expected super-effective moves
 
@@ -70,14 +68,14 @@ constexpr Ability FlameShield = {
 - **Flying types**: Better survival against Electric, Ice, Rock attacks
 
 ### Common Users
-- Frail offensive Pokémon that need survival utility
-- Pokémon with multiple common weaknesses
+- Frail offensive Pokemon that need survival utility
+- Pokemon with multiple common weaknesses
 - Mixed attackers that need to stay in longer
-- Pokémon in speed tiers where they need to survive one hit
+- Pokemon in speed tiers where they need to survive one hit
 
 ### Competitive Usage Notes
 - Excellent on frail sweepers that fear revenge killing
-- Helps pivot Pokémon survive coverage on predicted switches
+- Helps pivot Pokemon survive coverage on predicted switches
 - Valuable in formats with high offensive power
 - Can turn 2HKOs into 3HKOs against super-effective moves
 - Pairs well with recovery moves for increased longevity
@@ -106,4 +104,4 @@ constexpr Ability FlameShield = {
 - Added in Elite Redux as ID 712
 - Shares implementation with Filter ability
 - Part of the defensive utility ability category
-- Designed to help frail Pokémon survive in high-power metagames
+- Designed to help frail Pokemon survive in high-power metagames

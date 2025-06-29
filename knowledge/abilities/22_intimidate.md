@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affects all foes in doubles/triples. Works every time user enters battle, making it great for pivoting. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, Oblivious.
-
-*Character count: 297*
+Intimidate lowers opposing Pokemon's Attack by one stage upon switch-in. Affects all foes in doubles/triples. Works every time user enters battle, making it great for pivoting. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, Oblivious.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +23,7 @@ Intimidate lowers opposing Pokémon's Attack by one stage upon switch-in. Affect
 ### Activation Mechanics:
 - **Trigger**: Immediately upon entering battle (onEntry hook)
 - **Effect**: Lowers Attack by 1 stage (-1 stage = 2/3 original Attack)
-- **Targets**: All opposing Pokémon in battle
+- **Targets**: All opposing Pokemon in battle
 - **Repeated Use**: Activates every time the user switches in, even multiple times per battle
 - **Battle Script**: Uses `BattleScript_IntimidateActivatedNew` for animation and messaging
 
@@ -46,8 +44,8 @@ constexpr Ability Intimidate = {
 ```
 
 ### Targeting Rules:
-- **Singles**: Affects the single opposing Pokémon
-- **Doubles**: Affects both opposing Pokémon simultaneously
+- **Singles**: Affects the single opposing Pokemon
+- **Doubles**: Affects both opposing Pokemon simultaneously
 - **Multiple Opponents**: Each opponent is affected independently
 - **Ally Immunity**: Never affects the user's partner in doubles
 
@@ -86,15 +84,15 @@ constexpr Ability Intimidate = {
 **Team Synergy:**
 - Pairs well with U-turn/Volt Switch for repeated activation
 - Supports setup sweepers by neutering physical threats
-- Valuable on pivot Pokémon and lead Pokémon
+- Valuable on pivot Pokemon and lead Pokemon
 
 ### Strategic Considerations:
 - **Limited to Physical**: No effect on special attackers
 - **One-Time Per Switch**: Effect doesn't stack with multiple Intimidate users
-- **Immunity Prevalence**: Many competitive Pokémon have Intimidate immunity
-- **Substitutes**: Intimidate cannot affect Pokémon behind substitutes
+- **Immunity Prevalence**: Many competitive Pokemon have Intimidate immunity
+- **Substitutes**: Intimidate cannot affect Pokemon behind substitutes
 
 ### Version Notes:
-- Elite Redux: Functions identically to standard Pokémon games
-- Activation message: "{Pokémon}'s Intimidate cuts {target}'s attack!"
+- Elite Redux: Functions identically to standard Pokemon games
+- Activation message: "{Pokemon}'s Intimidate cuts {target}'s attack!"
 - Animation: Standard stat-down animation with intimidating visual effect

@@ -13,9 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Egoist copies stat boosts that enemy Pokémon receive and applies them to itself. When any opponent increases their Attack, Defense, Speed, Special Attack, Special Defense, or Accuracy, the Egoist user gains the same stat boosts instantly. Perfect for countering setup sweepers.
-
-*Character count: 290*
+Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. When any opponent increases their Attack, Defense, Speed, Special Attack, Special Defense, or Accuracy, the Egoist user gains the same stat boosts instantly. Perfect for countering setup sweepers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -27,7 +25,7 @@ Egoist copies stat boosts that enemy Pokémon receive and applies them to itself
 - Multiple opponents' boosts are additive (if two foes each boost +1 Attack, Egoist user gets +2 Attack)
 
 **Activation Conditions:**
-- Triggers on any positive stat change from opposing Pokémon
+- Triggers on any positive stat change from opposing Pokemon
 - Works with moves, abilities, items, or any other stat-boosting effects
 - Only affects enemy stat boosts - ally boosts are ignored
 - Must be alive and on the field when stat boosts occur
@@ -72,9 +70,9 @@ for (otherBattler = 0; otherBattler < gBattlersCount; otherBattler++) {
 - **Passive Defensive Option**: Requires no move slots, works automatically
 
 **Example Scenarios:**
-1. **Dragon Dance Counter**: Opponent uses Dragon Dance (+1 Attack, +1 Speed) → Egoist user also gets +1 Attack, +1 Speed
-2. **Multiple Opponents**: In doubles, if both opponents boost +1 Attack → Egoist user gets +2 Attack total
-3. **Calm Mind Chain**: Opponent uses Calm Mind (+1 SpAtk, +1 SpDef) → Egoist user matches the boosts
+1. **Dragon Dance Counter**: Opponent uses Dragon Dance (+1 Attack, +1 Speed) to Egoist user also gets +1 Attack, +1 Speed
+2. **Multiple Opponents**: In doubles, if both opponents boost +1 Attack to Egoist user gets +2 Attack total
+3. **Calm Mind Chain**: Opponent uses Calm Mind (+1 SpAtk, +1 SpDef) to Egoist user matches the boosts
 
 **Damage Calculations:**
 - No direct damage - purely stat-based
@@ -85,11 +83,11 @@ for (otherBattler = 0; otherBattler < gBattlersCount; otherBattler++) {
   - And so on...
 
 **Common Users:**
-Based on SpeciesList.textproto analysis, Egoist appears on several Pokémon as both regular and innate abilities, making it accessible across different team compositions.
+Based on SpeciesList.textproto analysis, Egoist appears on several Pokemon as both regular and innate abilities, making it accessible across different team compositions.
 
 **Competitive Usage Notes:**
 - **Meta Positioning**: Excellent against setup-heavy metagames
-- **Team Role**: Best used on defensive/support Pokémon that can capitalize on copied boosts
+- **Team Role**: Best used on defensive/support Pokemon that can capitalize on copied boosts
 - **Timing**: Most effective when opponents are forced to boost early (speed control, sweeper preparation)
 
 **Counters:**

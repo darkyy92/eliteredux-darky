@@ -15,8 +15,6 @@ character_count: 281
 
 When hit by a contact move, converts the attacker to Psychic type. This typing change affects damage calculations and resistances immediately. The attacker becomes vulnerable to Dark moves while gaining resistance to Fighting and Psychic moves. Only works on non-Psychic attackers.
 
-*Character count: 281*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

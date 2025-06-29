@@ -15,8 +15,6 @@ character_count: 297
 
 Bruteforce combines Reckless and Rock Head effects. Boosts recoil moves by 20% damage while preventing all recoil damage taken. Grants immunity to confusion status and removes confusion when hit by moves that would cause it. Perfect for aggressive attackers using high-risk moves.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -77,13 +75,13 @@ The ability inherits its components from existing abilities:
 
 **Example with Double-Edge (120 BP):**
 - Base damage: 120 BP
-- With Bruteforce: 120 × 1.2 = 144 effective BP
+- With Bruteforce: 120 x 1.2 = 144 effective BP
 - Normal recoil: 1/3 of damage dealt = 0 (prevented by Rock Head component)
 - Net result: 20% more damage with no drawback
 
 **Example with High Jump Kick (130 BP):**
 - Base damage: 130 BP  
-- With Bruteforce: 130 × 1.2 = 156 effective BP
+- With Bruteforce: 130 x 1.2 = 156 effective BP
 - Miss crash damage: 0 (prevented by Rock Head component)
 - Net result: Massive damage boost with safety net
 
@@ -112,7 +110,7 @@ The ability inherits its components from existing abilities:
 ### Competitive Usage Notes
 
 **Tier Placement**: Extremely powerful for physical attackers
-**Usage Rate**: High on Pokémon with access to multiple recoil moves
+**Usage Rate**: High on Pokemon with access to multiple recoil moves
 **Common Sets**: 
 - Choice Band for maximum immediate power
 - Life Orb for flexibility without recoil stacking

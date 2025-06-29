@@ -2,14 +2,24 @@
 id: 350
 name: Violent Rush
 status: ai-generated
-character_count: 0
+character_count: 292
 ---
 
-# Violent Rush (Ability #350)
+# Violent Rush - Ability ID 350
 
-## Overview
+## In-Game Description
+"Gains 50% Speed and 20% Attack boost on first turn after switch-in."
 
-**Violent Rush** is a powerful first-turn ability that provides immediate offensive presence upon switch-in. The Pokémon gains a significant Speed boost of 50% and an Attack boost of 20% for their first turn on the battlefield, creating explosive opening plays that can catch opponents off-guard.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Charges onto the battlefield with a 50% Speed boost and 20% Attack boost on the first turn after switching in. This immediate power surge enables explosive opening plays and revenge kills. The boosts vanish after one turn, demanding precise timing. Perfect for aggressive instant offense tactics.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+**Violent Rush** is a powerful first-turn ability that provides immediate offensive presence upon switch-in. The Pokemon gains a significant Speed boost of 50% and an Attack boost of 20% for their first turn on the battlefield, creating explosive opening plays that can catch opponents off-guard.
 
 ## Mechanics
 
@@ -50,18 +60,18 @@ The `violentRush` flag is cleared at the end of each turn, ensuring the boost on
 
 ### Switch-in Message
 
-When a Pokémon with Violent Rush enters battle, it displays the message:
-**"{Pokémon name} charges onto the battlefield!"**
+When a Pokemon with Violent Rush enters battle, it displays the message:
+**"{Pokemon name} charges onto the battlefield!"**
 
 ## Strategic Applications
 
 ### Offensive Sweeping
-- The 50% Speed boost allows normally slower Pokémon to outspeed threats on the first turn
+- The 50% Speed boost allows normally slower Pokemon to outspeed threats on the first turn
 - Combined with the 20% Attack boost, enables powerful opening attacks
 - Ideal for revenge killing or breaking through defensive walls
 
 ### Lead Positioning
-- Excellent for lead Pokémon that need immediate pressure
+- Excellent for lead Pokemon that need immediate pressure
 - Forces opponents to respect the threat or risk taking significant damage
 - Can secure crucial KOs before opponents can react
 
@@ -113,16 +123,16 @@ When a Pokémon with Violent Rush enters battle, it displays the message:
 - Less specialized than Ambush (stat boosts vs guaranteed crits)
 - Similar to Rapid Response but includes Attack boost
 
-## Notable Pokémon
+## Notable Pokemon
 
-Based on the species list, 52 Pokémon have access to Violent Rush, including:
+Based on the species list, 52 Pokemon have access to Violent Rush, including:
 
 ### Primary Ability Users
 - **Nidorino** (SPECIES_NIDORINO) - Line 5728
 - Various other species with different roles and stat distributions
 
 ### Innate Ability Users
-- Multiple Pokémon have Violent Rush as an innate ability, making it always active alongside their regular abilities
+- Multiple Pokemon have Violent Rush as an innate ability, making it always active alongside their regular abilities
 
 ## Technical Notes
 
@@ -145,6 +155,7 @@ The ability integrates seamlessly with the battle stat calculation system:
 - Speed boost applied in `GetSpeedFromAbilities` before paralysis checks
 - Properly cleared at turn end to prevent permanent boosts
 
+
 ## Conclusion
 
-Violent Rush is a high-impact ability that rewards aggressive play and smart switching. The combination of Speed and Attack boosts creates immediate offensive threats that force opponents to make difficult decisions. While limited to one turn, the ability's power lies in its unpredictability and ability to swing momentum in crucial moments. Its widespread distribution across 52 Pokémon makes it a common sight in competitive play, where timing and game sense determine its effectiveness.
+Violent Rush is a high-impact ability that rewards aggressive play and smart switching. The combination of Speed and Attack boosts creates immediate offensive threats that force opponents to make difficult decisions. While limited to one turn, the ability's power lies in its unpredictability and ability to swing momentum in crucial moments. Its widespread distribution across 52 Pokemon makes it a common sight in competitive play, where timing and game sense determine its effectiveness.

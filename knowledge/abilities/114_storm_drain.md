@@ -13,20 +13,18 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Storm Drain redirects all single-target Water-type moves to this Pokémon, absorbing them completely for no damage. When a Water move is absorbed, the Pokémon's highest attacking stat (Attack or Special Attack including stat stages) is raised by one stage. Multi-target moves are unaffected.
-
-*Character count: 297*
+Storm Drain redirects all single-target Water-type moves to this Pokemon, absorbing them completely for no damage. When a Water move is absorbed, the Pokemon's highest attacking stat (Attack or Special Attack including stat stages) is raised by one stage. Multi-target moves are unaffected.
 
 ## Detailed Mechanical Explanation
 
 Storm Drain is a defensive ability with offensive benefits that provides complete immunity to Water-type moves while boosting the user's offensive capabilities.
 
 **Core Mechanics:**
-- Redirects all single-target Water-type moves aimed at the user's partner to this Pokémon
+- Redirects all single-target Water-type moves aimed at the user's partner to this Pokemon
 - Completely absorbs redirected Water moves, taking no damage
-- Upon absorbing a Water move, raises the Pokémon's highest attacking stat by one stage
+- Upon absorbing a Water move, raises the Pokemon's highest attacking stat by one stage
 - The ability determines which stat to boost by comparing current Attack vs Special Attack, including stat stage modifiers
-- Multi-target Water moves (like Surf in doubles) are not redirected but still absorbed if they hit this Pokémon
+- Multi-target Water moves (like Surf in doubles) are not redirected but still absorbed if they hit this Pokemon
 
 **Technical Implementation Details:**
 - Uses `redirectType = TYPE_WATER` to handle move redirection
@@ -39,7 +37,7 @@ Storm Drain is a defensive ability with offensive benefits that provides complet
 - Excellent in double battles where it can protect partners from Water attacks
 - Provides a safe switch-in against predicted Water moves
 - Can turn defensive plays into offensive momentum through stat boosts
-- Pairs well with Pokémon weak to Water in doubles
+- Pairs well with Pokemon weak to Water in doubles
 - The adaptive stat boost ensures both physical and special attackers benefit optimally
 
 **Interaction Notes:**

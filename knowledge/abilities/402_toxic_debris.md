@@ -13,28 +13,26 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side when hit by any contact move. Each layer poisons switching Pokémon: one layer causes regular poison, two layers cause badly poisoned. Maximum of two layers possible. Excellent for passive hazard control and chip damage.
-
-*Character count: 298*
+Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side when hit by any contact move. Each layer poisons switching Pokemon: one layer causes regular poison, two layers cause badly poisoned. Maximum of two layers possible. Excellent for passive hazard control and chip damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Toxic Debris is a defensive ability that automatically sets up entry hazards whenever the Pokémon is damaged by a contact move. The ability provides passive board control by punishing physical attackers with hazard placement.
+Toxic Debris is a defensive ability that automatically sets up entry hazards whenever the Pokemon is damaged by a contact move. The ability provides passive board control by punishing physical attackers with hazard placement.
 
 ### Activation Conditions
-- **Move requirement**: The attacking move must make contact with the Pokémon
+- **Move requirement**: The attacking move must make contact with the Pokemon
 - **Hit requirement**: The move must successfully connect and deal damage
 - **Layer limit**: Will only activate if the opponent's side has fewer than 2 Toxic Spikes layers
 - **Timing**: Activates immediately after taking damage from the contact move
 
 ### Toxic Spikes Mechanics
-- **Layer 1**: Causes regular poison (lose 1/8 HP per turn) to grounded Pokémon that switch in
+- **Layer 1**: Causes regular poison (lose 1/8 HP per turn) to grounded Pokemon that switch in
 - **Layer 2**: Causes badly poisoned status (damage increases each turn: 1/16, 2/16, 3/16, etc.)
 - **Maximum layers**: 2 layers total can be set on each side
-- **Absorption**: Poison-type Pokémon absorb all layers when switching in
-- **Immunity**: Flying-type, Levitate, and other non-grounded Pokémon are unaffected
+- **Absorption**: Poison-type Pokemon absorb all layers when switching in
+- **Immunity**: Flying-type, Levitate, and other non-grounded Pokemon are unaffected
 
 ### Technical Implementation
 ```c
@@ -52,7 +50,7 @@ constexpr Ability ToxicDebris = {
 
 ### Important Interactions
 - **Multi-hit moves**: Each hit can potentially trigger the ability (if layers available)
-- **Substitute**: Ability won't activate if the Pokémon is behind a substitute
+- **Substitute**: Ability won't activate if the Pokemon is behind a substitute
 - **Ability suppression**: Doesn't work if ability is suppressed (Mold Breaker, etc.)
 - **Battle message**: Displays "Poison spikes were scattered around [opponent's] feet!"
 - **Contact moves only**: Non-contact moves (Earthquake, Flamethrower, etc.) won't trigger
@@ -71,7 +69,7 @@ constexpr Ability ToxicDebris = {
 
 ### Strategic Implications
 - **Passive hazard setting**: Forces entry hazards without using move slots
-- **Physical deterrent**: Discourages contact move usage against the Pokémon
+- **Physical deterrent**: Discourages contact move usage against the Pokemon
 - **Team support**: Benefits the entire team by controlling switches
 - **Chip damage accumulation**: Provides consistent damage over time
 - **Stall synergy**: Excellent on defensive teams that want to wear down opponents
@@ -84,10 +82,10 @@ The AI recognizes Toxic Debris as a hazard-setting ability and will:
 
 ### Common Users
 Toxic Debris is typically found on:
-- Defensive Poison-type Pokémon
-- Tank Pokémon that can survive multiple contact moves
-- Pokémon designed for hazard stacking strategies
-- Support Pokémon that benefit teams through passive effects
+- Defensive Poison-type Pokemon
+- Tank Pokemon that can survive multiple contact moves
+- Pokemon designed for hazard stacking strategies
+- Support Pokemon that benefit teams through passive effects
 
 ### Competitive Usage Notes
 - **Entry hazard support**: Complements traditional hazard setters
@@ -100,7 +98,7 @@ Toxic Debris is typically found on:
 - **Non-contact moves**: Use special attacks or non-contact physical moves
 - **Rapid Spin/Defog**: Remove the hazards after they're set
 - **Poison-types**: Switch in Poison-types to absorb the Toxic Spikes
-- **Magic Guard**: Pokémon with Magic Guard ignore poison damage
+- **Magic Guard**: Pokemon with Magic Guard ignore poison damage
 - **Ability suppression**: Mold Breaker bypasses the ability entirely
 - **Steel/Poison immunity**: These types can't be poisoned
 

@@ -8,19 +8,17 @@ character_count: 292
 # Contrary - Ability ID 126
 
 ## In-Game Description
-"Stat raises turn into stat drops for this Pokémon and vice versa."
+"Stat raises turn into stat drops for this Pokemon and vice versa."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contrary reverses all stat changes affecting this Pokémon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat, Leaf Storm), opponent moves (Intimidate, Growl), and abilities (Simple). The reversed stats still respect the +6/-6 stage limits.
-
-*Character count: 292*
+Contrary reverses all stat changes affecting this Pokemon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat, Leaf Storm), opponent moves (Intimidate, Growl), and abilities (Simple). The reversed stats still respect the +6/-6 stage limits.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**CONTRARY** is a stat-manipulation ability that reverses the direction of all stat changes affecting the Pokémon.
+**CONTRARY** is a stat-manipulation ability that reverses the direction of all stat changes affecting the Pokemon.
 
 ### Core Mechanics:
 - **Trigger**: All stat changes, regardless of source
@@ -40,13 +38,13 @@ if (BATTLER_HAS_ABILITY(battler, ABILITY_CONTRARY)) {
 ```
 
 The ability also reverses move effects through `ReverseStatChangeMoveEffect()`, which converts effects like:
-- `MOVE_EFFECT_ATK_PLUS_1` → `MOVE_EFFECT_ATK_MINUS_1`
-- `MOVE_EFFECT_DEF_MINUS_2` → `MOVE_EFFECT_DEF_PLUS_2`
+- `MOVE_EFFECT_ATK_PLUS_1` to `MOVE_EFFECT_ATK_MINUS_1`
+- `MOVE_EFFECT_DEF_MINUS_2` to `MOVE_EFFECT_DEF_PLUS_2`
 - And all other stat change effects
 
 ### Interaction Order:
 1. **Contrary check**: Stat value is reversed first
-2. **Simple interaction**: If the Pokémon also has Simple, the reversed value is then doubled
+2. **Simple interaction**: If the Pokemon also has Simple, the reversed value is then doubled
 3. **Other modifiers**: Subdue and similar effects apply after Contrary
 
 ```c
@@ -60,11 +58,11 @@ if (BattlerHasAbility(battler, ABILITY_SIMPLE, FALSE)) {
 ```
 
 ### Affected Sources:
-1. **Self-inflicted moves**: Overheat (-2 SpA → +2 SpA), Close Combat (-1 Def/SpD → +1 Def/SpD), V-Create (-1 Def/SpD → +1 Def/SpD)
-2. **Opponent moves**: Growl (-1 Atk → +1 Atk), Leer (-1 Def → +1 Def)
-3. **Abilities**: Intimidate (-1 Atk → +1 Atk), Download effects
+1. **Self-inflicted moves**: Overheat (-2 SpA to +2 SpA), Close Combat (-1 Def/SpD to +1 Def/SpD), V-Create (-1 Def/SpD to +1 Def/SpD)
+2. **Opponent moves**: Growl (-1 Atk to +1 Atk), Leer (-1 Def to +1 Def)
+3. **Abilities**: Intimidate (-1 Atk to +1 Atk), Download effects
 4. **Items**: Stat-boosting berries, White Herb (prevents stat drops, so Contrary makes them prevent stat rises)
-5. **Battle effects**: Sticky Web (-1 Spe → +1 Spe), stat-changing Z-moves
+5. **Battle effects**: Sticky Web (-1 Spe to +1 Spe), stat-changing Z-moves
 
 ### Battle Message Changes:
 The ability also changes battle text through `BufferStatChange()`:
@@ -81,11 +79,11 @@ The ability also changes battle text through `BufferStatChange()`:
 **Serperior with Contrary using Leaf Storm:**
 - Leaf Storm: 130 BP, normally -2 SpA
 - With Contrary: 130 BP, +2 SpA instead
-- Next Leaf Storm: 130 BP × 1.5 (SpA boost) = 195 effective BP
+- Next Leaf Storm: 130 BP x 1.5 (SpA boost) = 195 effective BP
 - After 3 uses: +6 SpA, Leaf Storm hits with ~260 effective BP
 
 ### Common Users:
-Notable Pokémon with Contrary in Elite Redux:
+Notable Pokemon with Contrary in Elite Redux:
 - **Serperior line** (Snivy evolution): Grass starter with access to Leaf Storm
 - **Inkay/Malamar**: Dark/Psychic types with Topsy-Turvy synergy
 - **Shuckle**: Defensive user that benefits from stat drop immunity
@@ -118,4 +116,4 @@ Contrary has `.breakable = TRUE`, meaning it can be suppressed by:
 
 ### Version History:
 - **Generation 5**: Introduced with Snivy line and Inkay line
-- **Elite Redux**: Expanded to more Pokémon as a balancing option for powerful moves with drawbacks
+- **Elite Redux**: Expanded to more Pokemon as a balancing option for powerful moves with drawbacks

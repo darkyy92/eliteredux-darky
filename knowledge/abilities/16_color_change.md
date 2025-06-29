@@ -15,8 +15,6 @@ character_count: 287
 
 Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major defensive upgrade from original ability.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -74,12 +72,12 @@ constexpr Ability ColorChange = {
    - Displays: "{Pokemon}'s ability made it the {Type} type!"
 
 ### Defensive Examples
-- **Earthquake incoming** → Changes to Flying (immune)
-- **Flamethrower incoming** → Changes to Water or Fire (0.5x damage)
-- **Close Combat incoming** → Changes to Ghost (immune) or Flying/Psychic (0.5x)
-- **Thunder incoming** → Changes to Ground (immune)
+- **Earthquake incoming** to Changes to Flying (immune)
+- **Flamethrower incoming** to Changes to Water or Fire (0.5x damage)
+- **Close Combat incoming** to Changes to Ghost (immune) or Flying/Psychic (0.5x)
+- **Thunder incoming** to Changes to Ground (immune)
 
-### Pokémon with Color Change
+### Pokemon with Color Change
 
 In Elite Redux, Color Change appears as an innate ability on:
 
@@ -111,7 +109,7 @@ In Elite Redux, Color Change appears as an innate ability on:
 - AI recognizes the ability and may adjust targeting
 
 ### Competitive Usage Notes
-- Excellent on bulky Pokémon that can survive multiple hits
+- Excellent on bulky Pokemon that can survive multiple hits
 - Pairs well with recovery moves to maintain defensive advantage
 - Can enable unique defensive cores
 - Requires careful team support for offensive pressure

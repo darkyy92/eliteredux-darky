@@ -13,9 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Purgatory boosts Ghost-type moves by 1.3x power normally, increasing to 1.8x when the Pokémon is below 1/3 of its maximum HP. This ability combines type specialization with a pinch effect, making Ghost-types increasingly dangerous as they take damage. Excellent for late-game sweeps.
-
-*Character count: 292*
+Purgatory boosts Ghost-type moves by 1.3x power normally, increasing to 1.8x when the Pokemon is below 1/3 of its maximum HP. This ability combines type specialization with a pinch effect, making Ghost-types increasingly dangerous as they take damage. Excellent for late-game sweeps.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -95,7 +93,7 @@ Ghost-type moves are:
 - Fast Ghost-type sweepers
 - Frail but powerful Ghost-types
 - Mixed attackers with Ghost-type coverage
-- Pokémon with access to powerful Ghost-type moves
+- Pokemon with access to powerful Ghost-type moves
 - Suicide leads that can threaten immediately
 
 ### Ability Comparisons
@@ -134,12 +132,12 @@ Ghost-type moves are:
 ### Calculation Examples
 **Example 1**: Gengar with Purgatory using Shadow Ball
 - Base power: 80
-- STAB: 80 × 1.5 = 120
-- Purgatory (healthy): 120 × 1.3 = 156
-- Purgatory (pinch): 120 × 1.8 = 216
+- STAB: 80 x 1.5 = 120
+- Purgatory (healthy): 120 x 1.3 = 156
+- Purgatory (pinch): 120 x 1.8 = 216
 
 **Example 2**: With Spell Tag
 - Base power: 80
-- STAB: 80 × 1.5 = 120  
-- Spell Tag: 120 × 1.2 = 144
-- Purgatory (pinch): 144 × 1.8 = 259.2 effective power
+- STAB: 80 x 1.5 = 120  
+- Spell Tag: 120 x 1.2 = 144
+- Purgatory (pinch): 144 x 1.8 = 259.2 effective power

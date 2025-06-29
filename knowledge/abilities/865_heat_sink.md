@@ -5,14 +5,17 @@ status: ai-generated
 character_count: 283
 ---
 
-# Heat Sink Extended Description
+# Heat Sink - Ability ID 865
 
-**Basic Description:** "Redirects Fire moves. Absorbs them, ups highest Atk."
+## In-Game Description
+Redirects Fire moves. Absorbs them, ups highest Atk.
 
-**Extended Description (283 characters):**
+## Extended In-Game Description
 Heat Sink redirects Fire-type moves targeting allies to this Pokemon. When hit by a Fire move, the attack is completely absorbed (no damage taken), and this Pokemon raises its highest attacking stat by one stage (Attack or Special Attack, whichever is higher at the time of absorption).
 
-## Technical Analysis
+## Detailed Mechanical Explanation
+
+### Technical Analysis
 
 ### Core Mechanics
 - **Redirect Function**: Uses `redirectType = TYPE_FIRE` to attract Fire-type moves

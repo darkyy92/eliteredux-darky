@@ -15,8 +15,6 @@ character_count: 281
 
 Tablets of Ruin creates an ancient curse that weakens the physical strength of all opposing Pokemon on the field. This passive ability reduces the Attack stat of every other Pokemon by 25% as long as the Tablets bearer remains active. Multiple Ruin abilities do not stack together.
 
-*Character count: 281*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -68,8 +66,8 @@ static void RuinEffect(int ruinStat, int battler, int statId, u32 *stat, NonStac
 
 **Example Damage Calculations:**
 ```
-Normal Attack calculation: Base Attack × Stage Multiplier × Other Modifiers
-With Tablets of Ruin: (Base Attack × 0.75) × Stage Multiplier × Other Modifiers
+Normal Attack calculation: Base Attack x Stage Multiplier x Other Modifiers
+With Tablets of Ruin: (Base Attack x 0.75) x Stage Multiplier x Other Modifiers
 
 Example: 
 - Opposing Pokemon with 150 base Attack

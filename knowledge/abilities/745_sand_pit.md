@@ -13,15 +13,13 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sand Pit automatically uses Sand Tomb with 20 base power when the Pokémon switches into battle. The attack targets all opposing Pokémon and traps them in quicksand for 2-5 turns, dealing Ground-type damage each turn. Cannot miss and ignores accuracy checks. Perfect for entry hazard control.
-
-*Character count: 291*
+Sand Pit automatically uses Sand Tomb with 20 base power when the Pokemon switches into battle. The attack targets all opposing Pokemon and traps them in quicksand for 2-5 turns, dealing Ground-type damage each turn. Cannot miss and ignores accuracy checks. Perfect for entry hazard control.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Sand Pit is an offensive entry ability that automatically uses a weakened version of Sand Tomb when the Pokémon switches into battle. This creates immediate battlefield control by trapping opponents.
+Sand Pit is an offensive entry ability that automatically uses a weakened version of Sand Tomb when the Pokemon switches into battle. This creates immediate battlefield control by trapping opponents.
 
 ### Implementation Details
 ```c
@@ -45,8 +43,8 @@ The ability uses the `UseEntryMove` function with:
 - **PP**: 10 (irrelevant for ability usage)
 
 ### Activation Conditions
-- **Switch-in trigger**: Activates when the Pokémon enters battle
-- **Valid targets**: Must have at least one opposing Pokémon
+- **Switch-in trigger**: Activates when the Pokemon enters battle
+- **Valid targets**: Must have at least one opposing Pokemon
 - **No immunities**: Works regardless of opponent's abilities or types
 - **Single use**: Activates once per switch-in
 
@@ -67,7 +65,7 @@ The `UseEntryMove` function handles:
 - Damage calculation with custom power
 
 ### Important Interactions
-- **Type effectiveness**: Ground-type, so doesn't affect Flying types or Pokémon with Levitate
+- **Type effectiveness**: Ground-type, so doesn't affect Flying types or Pokemon with Levitate
 - **Ability interactions**: Can be blocked by abilities like Sturdy or Wonder Guard
 - **Item interactions**: Affected by items like Ground Gem or Soft Sand
 - **Weather effects**: No special weather interactions
@@ -100,11 +98,11 @@ The `UseEntryMove` function handles:
 - **Prediction reward**: Benefits from good switch timing
 - **Meta dependent**: Effectiveness varies with Flying-type usage
 
-### Pokémon That Could Use This Ability
+### Pokemon That Could Use This Ability
 This ability would be thematically appropriate for:
-- Ground-type Pokémon with sandy/desert themes
-- Pokémon associated with traps or pits
-- Defensive Pokémon that want to control switches
+- Ground-type Pokemon with sandy/desert themes
+- Pokemon associated with traps or pits
+- Defensive Pokemon that want to control switches
 - Desert-dwelling species
 
 ### Synergistic Moves and Items

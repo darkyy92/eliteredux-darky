@@ -15,8 +15,6 @@ character_count: 292
 
 Lingering Aroma changes the attacker's ability to Lingering Aroma when hit by a contact move. Functions identically to Mummy, spreading on contact. Overrides most abilities except unsuppressable ones like Multitype. Blocked by Ability Shield item. Creates ability chain reactions when spread.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,7 +24,7 @@ Lingering Aroma is an ability-spreading effect that changes the attacker's abili
 ### Activation Conditions
 - **Contact requirement**: Only triggers when hit by moves that make contact
 - **Timing**: Activates immediately when the contact move hits
-- **Target**: Affects the attacking Pokémon, not the defending one
+- **Target**: Affects the attacking Pokemon, not the defending one
 - **Hit requirement**: Must successfully hit to trigger (not blocked by substitutes)
 
 ### Technical Implementation
@@ -53,7 +51,7 @@ constexpr Ability LingeringAroma = {
 
 ### Ability Spreading Mechanics
 - **Overrides**: Replaces the attacker's current ability with Lingering Aroma
-- **Chain reaction**: If the newly affected Pokémon gets hit by contact, they can spread it further
+- **Chain reaction**: If the newly affected Pokemon gets hit by contact, they can spread it further
 - **Permanent**: The ability change lasts for the entire battle
 - **No immunities**: Unlike status moves, there are no type-based immunities
 
@@ -110,9 +108,9 @@ All moves with the contact flag, including:
 - **Guts/Quick Feet**: Can benefit from opponent's hesitation to make contact
 
 ### Common Users
-- Pokémon that want to disrupt opponent's strategies
+- Pokemon that want to disrupt opponent's strategies
 - Defensive walls that expect physical contact
-- Support Pokémon that can afford to lose their original ability
+- Support Pokemon that can afford to lose their original ability
 - Anti-setup specialists
 
 ### Competitive Usage Notes
@@ -125,7 +123,7 @@ All moves with the contact flag, including:
 While mechanically identical, Lingering Aroma has a different thematic presentation:
 - **Visual effects**: Different animation/message when activating
 - **Lore**: Aromatherapy theme vs. Egyptian mummy theme
-- **Distribution**: May be on different Pokémon species
+- **Distribution**: May be on different Pokemon species
 - **Name recognition**: Players may not immediately recognize the mechanic
 
 ### Version History

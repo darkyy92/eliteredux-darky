@@ -15,13 +15,11 @@ character_count: 287
 
 Calculative combines Analytic and Neuroforce. Analytic boosts damage by 30% when moving after the target. Neuroforce increases super-effective moves by 35%. Together they reward calculated plays and exploiting type matchups. Ideal for slow, strategic Pokemon who excel at precise timing.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Calculative is a compound ability that combines the effects of both Analytic and Neuroforce, creating a powerful offensive ability perfect for slow, strategic Pokémon. Both components activate independently during the same attack calculation.
+Calculative is a compound ability that combines the effects of both Analytic and Neuroforce, creating a powerful offensive ability perfect for slow, strategic Pokemon. Both components activate independently during the same attack calculation.
 
 ### Component Abilities
 
@@ -58,14 +56,14 @@ if (typeEffectivenessMultiplier >= UQ_4_12(2.0)) MUL(1.35);
 ### Damage Calculations
 
 #### Individual Component Examples
-- **Analytic only**: 100 base power → 130 power (when moving second)
-- **Neuroforce only**: 100 base power → 135 power (on super-effective hit)
+- **Analytic only**: 100 base power to 130 power (when moving second)
+- **Neuroforce only**: 100 base power to 135 power (on super-effective hit)
 
 #### Combined Effect Examples
 When both components activate (moving second with super-effective move):
 - **Base calculation**: 100 base power
-- **With Analytic**: 100 × 1.3 = 130 power  
-- **With Neuroforce**: 130 × 1.35 = 175.5 power
+- **With Analytic**: 100 x 1.3 = 130 power  
+- **With Neuroforce**: 130 x 1.35 = 175.5 power
 - **Total multiplier**: 1.755x damage boost
 
 ### Activation Scenarios
@@ -84,9 +82,9 @@ Calculative reaches its full potential when:
 ### Strategic Applications
 
 #### Ideal Users
-- **Slow powerhouses**: Pokémon with high Attack/Special Attack but low Speed
+- **Slow powerhouses**: Pokemon with high Attack/Special Attack but low Speed
 - **Tank builds**: Bulky attackers who can afford to move second
-- **Coverage specialists**: Pokémon with diverse movesets for type advantages
+- **Coverage specialists**: Pokemon with diverse movesets for type advantages
 - **Trick Room sweepers**: Excel in reversed speed priority environments
 
 #### Team Synergies
@@ -105,7 +103,7 @@ Calculative reaches its full potential when:
 - **Beheeyem**: Primary user with Calculative as an innate ability
 - **Slow special attackers**: Benefit from calculated timing
 - **Mixed attackers**: Can exploit both physical and special type matchups
-- **Bulky offensive Pokémon**: Can survive to move second consistently
+- **Bulky offensive Pokemon**: Can survive to move second consistently
 
 ### Competitive Usage Notes
 - **Revenge killing**: Excellent for eliminating weakened threats
@@ -123,10 +121,10 @@ Calculative reaches its full potential when:
 - **Ability suppression**: Mold Breaker, Neutralizing Gas disable both components
 
 #### Strategic Limitations
-- **Speed dependency**: Less effective on naturally fast Pokémon
+- **Speed dependency**: Less effective on naturally fast Pokemon
 - **Type coverage reliance**: Requires diverse moveset for consistent Neuroforce
 - **Prediction intensive**: Optimal use requires accurate opponent prediction
-- **Setup vulnerability**: Slow Pokémon can be set up on easily
+- **Setup vulnerability**: Slow Pokemon can be set up on easily
 
 ### Synergistic Abilities and Items
 - **Life Orb**: Stacks multiplicatively with both damage boosts

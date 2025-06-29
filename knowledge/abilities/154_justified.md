@@ -15,14 +15,12 @@ character_count: 295
 
 Justified activates when hit by Dark-type moves, granting immunity to damage and raising the user's highest attacking stat by 1 stage. Whether Attack or Special Attack increases depends on which is naturally higher with stat boosts considered. Pairs well with switch-ins.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 
-Justified is a defensive absorption ability that provides complete immunity to Dark-type moves while gaining a stat boost. When a Pokémon with Justified would be hit by any Dark-type move:
+Justified is a defensive absorption ability that provides complete immunity to Dark-type moves while gaining a stat boost. When a Pokemon with Justified would be hit by any Dark-type move:
 
 1. **Damage Immunity**: The move deals 0 damage to the Justified user
 2. **Stat Boost**: The user's highest attacking stat increases by +1 stage
@@ -41,7 +39,7 @@ constexpr Ability Justified = {
 ### Technical Implementation
 
 **Activation Conditions:**
-- Pokémon must be targeted by a Dark-type move
+- Pokemon must be targeted by a Dark-type move
 - Move type checking occurs before damage calculation
 - Works against both physical and special Dark-type moves
 - Functions regardless of move accuracy or whether it would normally hit
@@ -93,7 +91,7 @@ u8 GetHighestAttackingStatId(u8 battlerId, u8 includeStatStages) {
 
 **Offensive Strategy:**
 - Provides setup opportunities against Dark-type attacks
-- Best utilized with mixed attackers or Pokémon with similar Attack/Sp. Attack
+- Best utilized with mixed attackers or Pokemon with similar Attack/Sp. Attack
 - Excellent for pivoting into predicted Dark-type moves
 - Synergizes with moves that benefit from both Attack and Special Attack
 
@@ -106,22 +104,22 @@ u8 GetHighestAttackingStatId(u8 battlerId, u8 includeStatStages) {
 ### Example Damage Calculations
 
 **Before Justified Activation:**
-- Base 80 Attack vs Base 90 Special Attack → Special Attack boosted
-- 252 Attack EVs vs 0 Special Attack EVs → Attack likely boosted
-- +1 Attack vs +0 Special Attack → Attack boosted (stages considered)
+- Base 80 Attack vs Base 90 Special Attack to Special Attack boosted
+- 252 Attack EVs vs 0 Special Attack EVs to Attack likely boosted
+- +1 Attack vs +0 Special Attack to Attack boosted (stages considered)
 
 **After +1 Boost:**
-- Attack: 100 → 150 (1.5x multiplier at +1 stage)
-- Special Attack: 100 → 150 (1.5x multiplier at +1 stage)
+- Attack: 100 to 150 (1.5x multiplier at +1 stage)
+- Special Attack: 100 to 150 (1.5x multiplier at +1 stage)
 
 ### Common Users
 
-**Notable Pokémon with Justified:**
+**Notable Pokemon with Justified:**
 - **Cobalion, Terrakion, Virizion, Keldeo**: Legendary Sword of Justice quartet
 - **Lucario**: Mixed attacker that benefits from either stat boost
 - **Absol**: Naturally high Attack benefits from further boosting
 - **Gallade**: Physical attacker with decent Special Attack
-- **Various Elite Redux custom Pokémon**: Many Fighting and Steel types
+- **Various Elite Redux custom Pokemon**: Many Fighting and Steel types
 
 ### Competitive Usage Notes
 
@@ -173,6 +171,6 @@ u8 GetHighestAttackingStatId(u8 battlerId, u8 includeStatStages) {
 
 ### Version History
 
-Justified has been present since Generation V and maintains consistent functionality across all games. In Elite Redux, it retains its original mechanics while being distributed to additional Pokémon that thematically fit the "justice" concept, particularly Fighting, Steel, and heroic Pokémon archetypes.
+Justified has been present since Generation V and maintains consistent functionality across all games. In Elite Redux, it retains its original mechanics while being distributed to additional Pokemon that thematically fit the "justice" concept, particularly Fighting, Steel, and heroic Pokemon archetypes.
 
 The ability's implementation in Elite Redux uses the modern absorption system, providing clean immunity while applying stat boosts through the standardized `ABSORB_RESULT_STAT` mechanism.

@@ -15,8 +15,6 @@ character_count: 255
 
 Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. This includes both held berries and berries consumed through moves like Pluck or Natural Gift.
 
-*Character count: 281*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

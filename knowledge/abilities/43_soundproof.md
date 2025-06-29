@@ -2,7 +2,7 @@
 id: 43
 name: Soundproof
 status: ai-generated
-character_count: 325
+character_count: 285
 ---
 
 # Soundproof - Ability ID 43
@@ -13,9 +13,7 @@ character_count: 325
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Soundproof grants complete immunity to all sound-based moves, blocking them entirely. Protects against direct damage moves like Boomburst and Hyper Voice, status moves like Sing and Supersonic, and utility moves like Heal Bell and Perish Song. Cannot be broken by Mold Breaker but can be bypassed by moves targeting the user.
-
-*Character count: 289*
+Soundproof grants complete immunity to all sound-based moves. Blocks damage moves like Boomburst and Hyper Voice, status moves like Sing and Supersonic, and utility moves like Heal Bell and Perish Song. Mold Breaker can bypass this immunity. Self-targeting sound moves are not blocked.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -27,7 +25,7 @@ Soundproof grants complete immunity to all sound-based moves, blocking them enti
 - **Check**: Uses IsSoundMove(attacker, move) function which returns true if:
   - Move has FLAG_SOUND flag, OR
   - Move is Normal-type AND attacker has Reverbate ability
-- **Immunity Script**: BattleScript_SoundproofProtected displays "{Pokémon}'s {ability} blocks {move}!"
+- **Immunity Script**: BattleScript_SoundproofProtected displays "{Pokemon}'s {ability} blocks {move}!"
 - **Exception**: Does NOT block sound moves that target the user (MOVE_TARGET_USER)
 
 ### Sound Move Categories Blocked:
@@ -95,7 +93,7 @@ int IsSoundMove(int battler, MoveEnum move) {
 ### Elite Redux Specific Features:
 - **isSoundproof flag**: Used by game engine for internal sound move interactions
 - **Multiple sound-immune abilities**: Parroting and Noise Cancel share immunity mechanics
-- **Extended sound move pool**: Elite Redux likely includes additional sound moves beyond standard Pokémon games
+- **Extended sound move pool**: Elite Redux likely includes additional sound moves beyond standard Pokemon games
 
 ### Version History:
 - Introduced in Generation III as complete sound immunity
@@ -103,4 +101,4 @@ int IsSoundMove(int battler, MoveEnum move) {
 - Maintains consistent immunity mechanics across all sound-based effects
 
 ### Notable Users:
-Typically found on Pokémon with large ears or sound-dampening biology like Whismur line, though Elite Redux may expand this to additional species through the 4-ability system.
+Typically found on Pokemon with large ears or sound-dampening biology like Whismur line, though Elite Redux may expand this to additional species through the 4-ability system.

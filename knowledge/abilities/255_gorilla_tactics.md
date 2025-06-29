@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Gorilla Tactics boosts physical move power by 50% but locks the Pokémon into using the first move selected, preventing other moves until switching out. Similar to Choice Band but as an ability. Forces strategic commitment to one physical attack per battle appearance, rewarding decisive play.
-
-*Character count: 294*
+Gorilla Tactics boosts physical move power by 50% but locks the Pokemon into using the first move selected, preventing other moves until switching out. Similar to Choice Band but as an ability. Forces strategic commitment to one physical attack per battle appearance, rewarding decisive play.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Gorilla Tactics boosts physical move power by 50% but locks the Pokémon into us
 
 ### Core Mechanics:
 - **Power Boost**: Multiplies physical move damage by 1.5x (50% increase)
-- **Move Lock**: After using the first move, restricts the Pokémon to only that move
+- **Move Lock**: After using the first move, restricts the Pokemon to only that move
 - **Activation Timing**: Applied during damage calculation via onOffensiveMultiplier hook
 - **Physical Moves Only**: Only affects moves where IS_MOVE_PHYSICAL(move) returns true
 
@@ -32,7 +30,7 @@ Gorilla Tactics boosts physical move power by 50% but locks the Pokémon into us
 - **Move Restriction**: Functions identically to Choice Band's move-locking mechanism
 - **Shared Code Path**: Groups with Sage Power and Discipline abilities in battle logic
 - **Battle Script**: Uses BattleScript_SelectingNotAllowedMoveGorillaTactics when attempting different moves
-- **Reset Condition**: Choice lock resets only when the Pokémon switches out
+- **Reset Condition**: Choice lock resets only when the Pokemon switches out
 
 ### Technical Implementation:
 ```c
@@ -47,25 +45,25 @@ constexpr Ability GorillaTactics = {
 ### Calculation Order:
 1. **Base move power** (from move data)
 2. **STAB** (Same Type Attack Bonus, if applicable)
-3. **Gorilla Tactics multiplier** (×1.5 for physical moves)
+3. **Gorilla Tactics multiplier** (x1.5 for physical moves)
 4. **Item effects** (Life Orb, Expert Belt, etc.)
 5. **Other ability effects** (Technician, Sheer Force, etc.)
 6. **Critical hit multiplier** (if applicable)
 
 ### Key Interactions:
-- **vs Choice Band**: Both effects stack multiplicatively (1.5 × 1.5 = 2.25x total)
-- **vs Life Orb**: Stacks multiplicatively for 1.5 × 1.3 = 1.95x damage
+- **vs Choice Band**: Both effects stack multiplicatively (1.5 x 1.5 = 2.25x total)
+- **vs Life Orb**: Stacks multiplicatively for 1.5 x 1.3 = 1.95x damage
 - **vs Technician**: Stacks with Technician's 1.5x boost for weak moves
 - **vs Special Moves**: No effect on special attacks (Thunder Punch, Focus Blast, etc.)
 - **vs Status Moves**: No effect on non-damaging moves
 
 ### Strategic Applications:
-1. **Physical Sweeper Setup**: Ideal for Pokémon with high Attack and diverse physical movepool
+1. **Physical Sweeper Setup**: Ideal for Pokemon with high Attack and diverse physical movepool
 2. **Choice Item Synergy**: Can stack with Choice Band for massive damage output
 3. **Priority Move Abuse**: Makes priority moves hit with significant power
-4. **Wallbreaking**: Enables moderately powerful moves to break through defensive Pokémon
+4. **Wallbreaking**: Enables moderately powerful moves to break through defensive Pokemon
 
-### Pokémon Distribution in Elite Redux:
+### Pokemon Distribution in Elite Redux:
 - **Primary Users**: Primeape (paired with Choice Scarf in trainer teams)
 - **Common on**: Physical attackers that benefit from immediate power over flexibility
 - **Team Role**: Mid-game wallbreaker, late-game cleaner with proper support
@@ -84,11 +82,11 @@ constexpr Ability GorillaTactics = {
 ### Common Misconceptions:
 - **NOT a stat boost**: Multiplies damage, doesn't increase Attack stat itself
 - **Only physical moves**: Special moves receive no benefit whatsoever
-- **Cannot be Skill Swapped**: Choice-locking state tied to individual Pokémon, not ability
+- **Cannot be Skill Swapped**: Choice-locking state tied to individual Pokemon, not ability
 - **Switching resets**: Must switch out to use different moves, no in-battle reset
 
 ### Counters and Responses:
-1. **Defensive Walls**: High Defense Pokémon can still tank boosted hits
+1. **Defensive Walls**: High Defense Pokemon can still tank boosted hits
 2. **Intimidate**: Reduces Attack stat, partially offsetting the damage boost
 3. **Burn Status**: Halves Attack, significantly reducing effectiveness
 4. **Switching**: Prediction and switching can waste the locked move

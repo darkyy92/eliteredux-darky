@@ -1,19 +1,19 @@
 ---
 id: 178
-name: "Mega Launcher (Ability ID: 178)"
+name: Mega Launcher
 status: ai-generated
-character_count: 261
+character_count: 284
 ---
 
-# Mega Launcher (Ability ID: 178)
+# Mega Launcher - Ability ID 178
 
 ## In-Game Description
 "Boosts Beam/Pump/Cannon/Shot/ Gun/Pulse, etc. moves by 1.3x."
 
-## Extended In-Game Description (280-300 chars)
-Powers up pulse, beam, ball, and aura moves by 30%. Also boosts all status moves for enhanced utility. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles, energy attacks, and support moves for versatile offense.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 285*
+Powers up pulse, beam, ball, and aura moves by 30% damage. Also boosts all status moves for enhanced utility. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles, energy attacks, and support moves for versatile offensive strategies.
 
 ## Detailed Mechanical Explanation
 **Mega Launcher** provides a significant **1.3x damage multiplier** to an extensive range of moves, plus special interactions with healing moves.
@@ -96,7 +96,7 @@ The AI rates Mega Launcher as **7/10** in terms of ability strength, placing it 
 
 #### Special Interactions
 - **Artillery/Super Scope abilities**: Make Mega Launcher moves always hit
-- **Gunman ability**: Expands Mega Launcher to include ALL status moves  
+- **Gunman ability**: Expands Mega Launcher to include ALL status moves
 - **Heal Pulse bleeding interaction**: Heal Pulse fails if target has bleed status
 
 ### Strategic Implications

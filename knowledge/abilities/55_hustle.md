@@ -15,8 +15,6 @@ character_count: 288
 
 Hustle boosts the power of physical moves by 1.4x but reduces their accuracy to 90% of normal. Only affects non-status moves - status moves maintain perfect accuracy. High risk, high reward ability that trades reliability for raw power. Essential for frail attackers needing extra damage.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -57,16 +55,16 @@ constexpr Ability Hustle = {
 - **Status Moves**: No power change, normal accuracy (100% for most)
 
 ### Accuracy Calculations:
-- **100% Accuracy Move**: 100% × 0.9 = 90% accuracy
-- **95% Accuracy Move**: 95% × 0.9 = 85.5% accuracy
-- **90% Accuracy Move**: 90% × 0.9 = 81% accuracy
-- **80% Accuracy Move**: 80% × 0.9 = 72% accuracy
-- **70% Accuracy Move**: 70% × 0.9 = 63% accuracy
+- **100% Accuracy Move**: 100% x 0.9 = 90% accuracy
+- **95% Accuracy Move**: 95% x 0.9 = 85.5% accuracy
+- **90% Accuracy Move**: 90% x 0.9 = 81% accuracy
+- **80% Accuracy Move**: 80% x 0.9 = 72% accuracy
+- **70% Accuracy Move**: 70% x 0.9 = 63% accuracy
 
 ### Power Calculations:
 Example with 100 Base Power move:
-- **Normal**: 100 BP × 1.0 = 100 effective power
-- **With Hustle**: 100 BP × 1.4 = 140 effective power
+- **Normal**: 100 BP x 1.0 = 100 effective power
+- **With Hustle**: 100 BP x 1.4 = 140 effective power
 - **Net Effect**: 40% more damage per hit, 10% more misses
 
 ### AI Evaluation:
@@ -74,7 +72,7 @@ Example with 100 Base Power move:
 - **Trade-off Analysis**: AI values the power boost more than the accuracy reduction
 - **Move Selection**: AI may favor higher accuracy moves to mitigate the penalty
 
-### Pokémon with Hustle:
+### Pokemon with Hustle:
 Notable users include:
 - **Rattata/Raticate lines** (both Kantonian and Alolan forms)
 - **Nidoran lines** (various regional forms)
@@ -83,7 +81,7 @@ Notable users include:
 - **Various other physical attackers**
 
 ### Strategic Applications:
-1. **Frail Sweepers**: Hustle maximizes damage output for Pokémon that might not survive long
+1. **Frail Sweepers**: Hustle maximizes damage output for Pokemon that might not survive long
 2. **Choice Item Synergy**: Pairs well with Choice Band/Specs for massive damage
 3. **Priority Moves**: Benefits moves like Quick Attack and Extreme Speed
 4. **Status Move Coverage**: Can use status moves without accuracy penalty
@@ -115,25 +113,25 @@ Notable users include:
 - Include status moves for utility without accuracy penalty
 
 **Items that Help:**
-- **Wide Lens**: +10% accuracy partially compensates (90% → 99%)
-- **Zoom Lens**: +20% accuracy when moving second (90% → 108%, capped at 100%)
+- **Wide Lens**: +10% accuracy partially compensates (90% to 99%)
+- **Zoom Lens**: +20% accuracy when moving second (90% to 108%, capped at 100%)
 - **Choice Items**: Stack damage boosts for maximum impact
 
 ### Calculation Examples:
 **Scenario 1: 100 BP Move with Choice Band**
 - Base: 100 BP
-- Hustle: 100 × 1.4 = 140 effective BP
-- Choice Band: 140 × 1.5 = 210 effective BP
+- Hustle: 100 x 1.4 = 140 effective BP
+- Choice Band: 140 x 1.5 = 210 effective BP
 - Accuracy: 90%
 
 **Scenario 2: Stone Edge (100 BP, 80% accuracy)**
-- Power: 100 × 1.4 = 140 effective BP
-- Accuracy: 80% × 0.9 = 72%
+- Power: 100 x 1.4 = 140 effective BP
+- Accuracy: 80% x 0.9 = 72%
 - **Not recommended due to low final accuracy**
 
 **Scenario 3: Body Slam (85 BP, 100% accuracy)**
-- Power: 85 × 1.4 = 119 effective BP
-- Accuracy: 100% × 0.9 = 90%
+- Power: 85 x 1.4 = 119 effective BP
+- Accuracy: 100% x 0.9 = 90%
 - **Good choice - reliable accuracy with decent power**
 
 ### Version History:

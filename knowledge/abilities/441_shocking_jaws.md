@@ -15,13 +15,11 @@ character_count: 286
 
 Shocking Jaws gives all biting moves exactly a 50% chance to paralyze the target on hit. Affects moves like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Poison Fang, Psychic Fangs, and many others. Paralysis reduces Speed by 50% and causes 25% chance to be unable to move each turn.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Shocking Jaws is an offensive ability that adds a paralysis effect to all biting moves. The ability activates when the Pokémon with Shocking Jaws uses any move with the `FLAG_STRONG_JAW_BOOST` flag, giving a 50% chance to paralyze the target.
+Shocking Jaws is an offensive ability that adds a paralysis effect to all biting moves. The ability activates when the Pokemon with Shocking Jaws uses any move with the `FLAG_STRONG_JAW_BOOST` flag, giving a 50% chance to paralyze the target.
 
 ### Activation Conditions
 - **Move requirement**: Must use a move with the `FLAG_STRONG_JAW_BOOST` flag (biting moves)
@@ -53,13 +51,13 @@ constexpr Ability ShockingJaws = {
 ### Paralysis Mechanics
 When successfully triggered, Shocking Jaws inflicts standard paralysis:
 - **Speed reduction**: Target's Speed is reduced by 50%
-- **Move failure**: 25% chance each turn that the paralyzed Pokémon cannot move
-- **Status immunity**: Electric-type Pokémon are immune to paralysis
+- **Move failure**: 25% chance each turn that the paralyzed Pokemon cannot move
+- **Status immunity**: Electric-type Pokemon are immune to paralysis
 - **Overrides**: Ground-type immunity to Electric moves doesn't apply to paralysis from this ability
 
 ### Important Interactions
-- **Status immunity**: Electric-type Pokémon cannot be paralyzed
-- **Existing status**: Cannot paralyze Pokémon that already have a status condition
+- **Status immunity**: Electric-type Pokemon cannot be paralyzed
+- **Existing status**: Cannot paralyze Pokemon that already have a status condition
 - **Ability immunity**: Limber prevents paralysis from this ability
 - **Mycelium Might**: Overrides type immunity if the user has Mycelium Might
 - **Contact requirement**: Most biting moves make contact, but paralysis chance is independent of contact
@@ -68,13 +66,13 @@ When successfully triggered, Shocking Jaws inflicts standard paralysis:
 
 ### Strategic Implications
 - **Offensive pressure**: Adds status pressure to physical attackers
-- **Speed control**: Paralysis can cripple fast sweepers and setup Pokémon
+- **Speed control**: Paralysis can cripple fast sweepers and setup Pokemon
 - **Stacking effects**: Can be combined with other status-inducing moves/abilities
 - **Revenge killing**: Paralysis can turn fast threats into easier targets
 - **Setup prevention**: Paralysis chance can deter setup attempts
 
 ### Synergies
-- **Strong Jaw**: Many Pokémon with biting moves also have Strong Jaw for damage boost
+- **Strong Jaw**: Many Pokemon with biting moves also have Strong Jaw for damage boost
 - **Status moves**: Pairs well with other status-inducing moves for reliability
 - **Priority moves**: Paralysis makes priority moves more valuable
 - **Choice items**: Paralysis from coverage moves while locked in
@@ -87,17 +85,17 @@ When successfully triggered, Shocking Jaws inflicts standard paralysis:
 - **Aromatherapy/Heal Bell**: Clears paralysis from team
 - **Lum Berry/Pecha Berry**: Cures paralysis immediately
 - **Natural Cure**: Switches out to cure paralysis
-- **Status immunity**: Pokémon with abilities that prevent status conditions
+- **Status immunity**: Pokemon with abilities that prevent status conditions
 
 ### Competitive Usage Notes
 - **Reliability**: 50% chance makes it reasonably reliable for status spreading
 - **Coverage moves**: Adds utility to coverage biting moves
-- **Physical attackers**: Best on Pokémon that naturally learn many biting moves
+- **Physical attackers**: Best on Pokemon that naturally learn many biting moves
 - **Mixed sets**: Can provide status support on mixed attacking sets
 - **Team support**: Paralysis benefits slower teammates
 
 ### Common Users
-Pokémon that would benefit from Shocking Jaws typically:
+Pokemon that would benefit from Shocking Jaws typically:
 - Learn multiple biting moves naturally
 - Have good physical Attack stats
 - Want to provide team support through status

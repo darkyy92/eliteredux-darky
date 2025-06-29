@@ -15,8 +15,6 @@ character_count: 289
 
 Ice Body restores 1/8 of max HP at the end of each turn during hailstorms. The healing occurs during any hail weather including natural hail, Snow Warning hail, and extended hail from Icy Rock. Provides complete immunity to hail damage. Does not heal on the first turn after switching in.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -44,7 +42,7 @@ Ice Body is a weather-based healing ability that turns the traditionally damagin
 
 **Strategic Applications:**
 - Transforms hail from a liability into a major advantage
-- Provides excellent sustain for Ice-type Pokémon and others in hail teams
+- Provides excellent sustain for Ice-type Pokemon and others in hail teams
 - Synergizes perfectly with Snow Warning for immediate healing setup
 - Can outlast opponents through consistent recovery in extended hail battles
 - Pairs well with hail-based offensive strategies for both offense and defense
@@ -56,7 +54,7 @@ Ice Body is a weather-based healing ability that turns the traditionally damagin
 - Healing amount is always positive and bypasses most healing prevention effects
 
 **Interaction Notes:**
-- The healing occurs even if the Pokémon would normally resist Ice-type moves
+- The healing occurs even if the Pokemon would normally resist Ice-type moves
 - Healing is blocked by standard healing prevention (Heal Block, etc.)
 - Does not stack with other end-of-turn healing abilities
 - The switch-in restriction prevents immediate healing exploitation

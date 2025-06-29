@@ -15,8 +15,6 @@ character_count: 295
 
 Chloroplast lets Weather Ball, Solar Beam, Solar Blade, and Growth act as if used in harsh sunlight. Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages each instead of 1.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -60,7 +58,7 @@ Chloroplast makes specific moves behave as if they were used during harsh sunlig
 - Makes Growth significantly more valuable as a setup move
 
 **Team Synergy:**
-- Works well with Pokémon that learn Solar moves naturally
+- Works well with Pokemon that learn Solar moves naturally
 - Benefits Grass-types that commonly have Growth in their movepool
 - Provides fire coverage through Weather Ball without actual Fire typing
 
@@ -90,4 +88,4 @@ Chloroplast makes specific moves behave as if they were used during harsh sunlig
 - **Pledge moves:** Water Pledge and Grass Pledge also benefit from Chloroplast effects
 - **Healing moves:** Morning Sun, Synthesis, and Moonlight get enhanced healing with Chloroplast
 
-This ability effectively grants "selective sunlight" for specific moves, making it highly valuable for Pokémon that rely on solar-based strategies without requiring weather setup or risking weather wars with opponents.
+This ability effectively grants "selective sunlight" for specific moves, making it highly valuable for Pokemon that rely on solar-based strategies without requiring weather setup or risking weather wars with opponents.

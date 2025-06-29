@@ -15,8 +15,6 @@ character_count: 284
 
 From the Shadows traps the target with every attack, preventing escape like Block. When the user moves first in a turn, attacks gain a 20% chance to flinch. The trap effect applies regardless of flinch success. Creates pressure through speed control and escape denial.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -68,7 +66,7 @@ constexpr Ability FromTheShadows = {
 ### Turn Order Mechanics
 - **Priority moves**: User with higher priority moves first regardless of speed
 - **Speed ties**: Determined by actual speed stats and random factors
-- **Trick Room**: Slower Pokémon move first, affecting flinch activation
+- **Trick Room**: Slower Pokemon move first, affecting flinch activation
 - **Action timing**: Checks position in turn queue, not raw speed values
 
 ### Important Interactions

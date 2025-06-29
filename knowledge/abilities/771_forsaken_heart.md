@@ -13,14 +13,12 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Whenever any Pokémon faints on the battlefield, this Pokémon's Attack rises by one stage. Unlike abilities such as Moxie that only activate when the user defeats an opponent, Forsaken Heart triggers from any KO that occurs during battle, including ally defeats.
-
-*Character count: 291*
+Whenever any Pokemon faints on the battlefield, this Pokemon's Attack rises by one stage. Unlike abilities such as Moxie that only activate when the user defeats an opponent, Forsaken Heart triggers from any KO that occurs during battle, including ally defeats.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**Trigger Condition**: Any Pokémon fainting on the battlefield (`.onBattlerFaintsFor = APPLY_ON_ANY`)
+**Trigger Condition**: Any Pokemon fainting on the battlefield (`.onBattlerFaintsFor = APPLY_ON_ANY`)
 
 **Effect**: Raises the user's Attack stat by one stage using `ChangeStatBuffs(battler, 1, STAT_ATK, MOVE_EFFECT_AFFECTS_USER | STAT_BUFF_DONT_SET_BUFFERS, NULL)`
 
@@ -42,7 +40,7 @@ Whenever any Pokémon faints on the battlefield, this Pokémon's Attack rises by
 - Particularly effective on bulky attackers who can survive to accumulate multiple boosts
 
 **Battle Script Flow**:
-1. Any Pokémon faints
+1. Any Pokemon faints
 2. Check if user has Forsaken Heart
 3. Attempt to raise Attack by 1 stage
 4. Display ability activation message and stat boost animation

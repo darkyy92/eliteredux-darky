@@ -15,8 +15,6 @@ character_count: 290
 
 Self Repair combines HP restoration and status healing on switch out. Heals HP and cures all status conditions when switching out of battle. Activates with voluntary switches, forced switches, and pivot moves. Does not work if fainted. Perfect for defensive pivots needing full restoration.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -106,10 +104,10 @@ Based on similar abilities like Regenerator, Self Sufficient likely restores:
 ### Competitive Usage
 Self Repair is ideal for:
 - Defensive pivots that need both HP and status management
-- Pokémon with naturally high bulk
+- Pokemon with naturally high bulk
 - VoltTurn team members
 - Status absorbers on balanced teams
-- Pokémon that commonly face status moves
+- Pokemon that commonly face status moves
 
 ### Limitations
 - **Switching requirement**: Must leave field to activate
@@ -138,17 +136,17 @@ Self Repair is ideal for:
 - **Self Sufficient**: Component ability for HP restoration
 - **Regenerator**: Similar HP restoration mechanism
 
-### Pokémon with Self Repair
+### Pokemon with Self Repair
 Self Repair is likely found on:
-- Defensive Pokémon that naturally learn both component abilities
-- Pokémon designed as defensive pivots
-- Tank Pokémon with good bulk and utility moves
+- Defensive Pokemon that naturally learn both component abilities
+- Pokemon designed as defensive pivots
+- Tank Pokemon with good bulk and utility moves
 
 ### Version Notes
-Self Repair represents Elite Redux's combination ability system, where two compatible abilities are merged into a single more powerful effect. This creates unique strategic options not available in standard Pokémon games.
+Self Repair represents Elite Redux's combination ability system, where two compatible abilities are merged into a single more powerful effect. This creates unique strategic options not available in standard Pokemon games.
 
 ### Verification Needed
 - Exact HP restoration percentage from Self Sufficient
-- Specific Pokémon that learn this ability
+- Specific Pokemon that learn this ability
 - Interaction with other healing effects
 - Battle message text for both components

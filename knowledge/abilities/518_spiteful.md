@@ -15,13 +15,11 @@ character_count: 295
 
 Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker, reducing its PP even if it wasn't the move that made contact. Cannot reduce PP below 0. Fails if the attacker has no remaining PP or hasn't used any moves yet.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Spiteful is a defensive ability that punishes physical contact moves by reducing the attacker's PP. The ability triggers when the Pokémon with Spiteful is hit by a move that makes physical contact.
+Spiteful is a defensive ability that punishes physical contact moves by reducing the attacker's PP. The ability triggers when the Pokemon with Spiteful is hit by a move that makes physical contact.
 
 ### Activation Conditions
 - **Contact requirement**: Attacker must use a move that makes physical contact
@@ -71,7 +69,7 @@ The ability uses `tryspiteppreduce` command which:
 - **Protection**: Doesn't trigger if the attack is blocked by Protect
 
 ### Strategic Implications
-- **Physical wall utility**: Excellent on defensive Pokémon that take many hits
+- **Physical wall utility**: Excellent on defensive Pokemon that take many hits
 - **PP stalling**: Can force opponents to run out of moves faster
 - **Contact move deterrent**: Makes physical attackers think twice about repeated contact
 - **Longevity tool**: Helps in extended battles by depleting opponent resources
@@ -90,7 +88,7 @@ Common contact moves affected:
 - **Environmental moves**: Earthquake, Surf, etc.
 
 ### Competitive Usage Notes
-- **Defensive core**: Excellent on bulky Pokémon expected to take many hits
+- **Defensive core**: Excellent on bulky Pokemon expected to take many hits
 - **Innate ability**: Found as innate on Galarian Slowking and Runerigus
 - **PP pressure**: Creates additional win condition through PP depletion
 - **Contact punishment**: Deters physical attackers from repeated contact
@@ -99,7 +97,7 @@ Common contact moves affected:
 ### Known Users
 - **Galarian Slowking**: Innate ability alongside Pressure for double PP pressure
 - **Runerigus**: Innate ability providing defensive utility
-- Both Pokémon can utilize the ability for stall and defensive strategies
+- Both Pokemon can utilize the ability for stall and defensive strategies
 
 ### Counters
 - **Non-contact moves**: Use special attacks or non-contact physical moves
@@ -119,4 +117,4 @@ Common contact moves affected:
 - Elite Redux exclusive ability (ID 518)
 - Uses modern PP reduction mechanics (4 PP consistently)
 - Implemented with specialized battle script for PP management
-- Found as innate ability on select defensive Pokémon
+- Found as innate ability on select defensive Pokemon

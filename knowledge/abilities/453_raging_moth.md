@@ -15,8 +15,6 @@ character_count: 296
 
 Raging Moth causes all Fire-type moves to hit twice consecutively, with each hit dealing 70% of the move's original power. This results in 140% total damage output. Both hits can trigger effects like Flame Body or items like Focus Sash separately. Perfect for breaking through defensive tactics.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -68,10 +66,10 @@ case PARENTAL_BOND_DUAL_WIELD:
 
 ### Synergistic Move Combinations
 **High-power Fire moves become devastating:**
-- **Fire Blast**: 110 → 154 effective power (2 × 77)
-- **Flamethrower**: 90 → 126 effective power (2 × 63)
-- **Overheat**: 130 → 182 effective power (2 × 91), but stat drop still applies once
-- **Sacred Fire**: 100 → 140 effective power with burn chance on each hit
+- **Fire Blast**: 110 to 154 effective power (2 x 77)
+- **Flamethrower**: 90 to 126 effective power (2 x 63)
+- **Overheat**: 130 to 182 effective power (2 x 91), but stat drop still applies once
+- **Sacred Fire**: 100 to 140 effective power with burn chance on each hit
 
 **Contact Fire moves trigger abilities twice:**
 - **Flare Blitz**: Recoil calculated on total damage, but contact effects trigger twice
@@ -90,7 +88,7 @@ case PARENTAL_BOND_DUAL_WIELD:
 - **Mixed attackers**: Benefits both physical and special Fire moves equally  
 - **Wallbreakers**: Excellent for breaking through defensive cores
 - **Late-game sweepers**: Increased damage helps secure KOs
-- **Sun teams**: Pairs well with sun boost for Fire moves (1.5x × 1.4x = 2.1x total)
+- **Sun teams**: Pairs well with sun boost for Fire moves (1.5x x 1.4x = 2.1x total)
 
 ### Competitive Applications
 - **Substitute breaker**: Reliably breaks Substitute + deals damage
@@ -100,10 +98,10 @@ case PARENTAL_BOND_DUAL_WIELD:
 - **Priority breaking**: Can break priority users' Focus Sash
 
 ### Common Users
-- Fire-type Pokémon who rely heavily on Fire-type STAB moves
+- Fire-type Pokemon who rely heavily on Fire-type STAB moves
 - Mixed attackers with strong Fire-type coverage
 - Wallbreakers who need maximum Fire-type damage output
-- Pokémon with access to high-power Fire moves like Fire Blast or Overheat
+- Pokemon with access to high-power Fire moves like Fire Blast or Overheat
 
 ### Notable Move Interactions
 - **Will-O-Wisp**: Not affected (status move, not Fire-type attack)

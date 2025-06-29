@@ -2,15 +2,20 @@
 id: 164
 name: Teravolt
 status: ai-generated
-character_count: 284
+character_count: 285
 ---
 
-# Teravolt (Ability ID: 164)
+# Teravolt - Ability ID 164
 
-## Overview
-Teravolt is a dual-function ability that combines mold breaker mechanics with type addition, making it one of the most strategically significant abilities for Electric-type attackers.
+## In-Game Description
+"Moves bypass all defensive abilities and adds Electric type on entry."
 
-## Core Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Teravolt charges the Pokemon with bursting electrical energy that allows moves to penetrate all defensive abilities while adding Electric typing. Bypasses Wonder Guard, Levitate, and other protective traits while granting Electric STAB and resistances for maximum battlefield control.
+
+## Detailed Mechanical Explanation
 
 ### 1. Mold Breaker Effect
 - **Function**: Moves bypass opponent abilities that would normally block, reduce, or redirect attacks
@@ -75,11 +80,6 @@ int ShouldSetMoldBreaker(int battler, MoveEnum move) {
     // ...
 }
 ```
-
-## Extended In-Game Description
-Teravolt charges the Pokemon with bursting electrical energy that allows moves to penetrate all defensive abilities while adding Electric typing. Bypasses Wonder Guard, Levitate, and other protective traits while granting Electric STAB and resistances for maximum battlefield control.
-
-**Character count: 284**
 
 ## Related Abilities
 - **Turboblaze**: Fire-type equivalent with identical mold breaker mechanics

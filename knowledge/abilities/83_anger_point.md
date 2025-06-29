@@ -15,8 +15,6 @@ character_count: 292
 
 Anger Point raises Attack by +1 stage when taking damage from any move. When hit by a critical hit, Attack is maximized to +6 stages instantly. Only triggers if the Pokemon survives the hit and can have its Attack raised. Perfect for turning defensive situations into offensive opportunities.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -30,10 +28,10 @@ Anger Point raises Attack by +1 stage when taking damage from any move. When hit
   - No restrictions on move type, contact requirement, or damage source
 
 ### Stat Modification Rules:
-1. **Regular Hits**: Attack +1 stage (1.5x → 2x → 2.5x → 3x → 3.5x → 4x)
+1. **Regular Hits**: Attack +1 stage (1.5x to 2x to 2.5x to 3x to 3.5x to 4x)
 2. **Critical Hits**: Attack maximized to +6 stages (4x multiplier)
    - Uses SetStatChanger(STAT_ATK, 12) - value 12 sets to maximum
-   - Displays "Pokémon's Attack was maximized!" message
+   - Displays "Pokemon's Attack was maximized!" message
    - Bypasses normal stat stage progression
 
 ### Technical Implementation:
@@ -64,8 +62,8 @@ constexpr Ability AngerPoint = {
 - **Indirect damage**: Does not trigger on poison, burn, weather, or entry hazard damage
 
 ### Battle Script Messages:
-- Regular hit: "[Pokémon]'s Anger Point raised its Attack!"
-- Critical hit: "[Pokémon]'s Attack was maximized!"
+- Regular hit: "[Pokemon]'s Anger Point raised its Attack!"
+- Critical hit: "[Pokemon]'s Attack was maximized!"
 
 ### Strategic Applications:
 1. **Defensive Pivot**: Converts chip damage into offensive pressure

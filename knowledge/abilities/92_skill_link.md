@@ -2,17 +2,22 @@
 id: 92
 name: Skill Link
 status: ai-generated
-character_count: 426
+character_count: 294
 ---
 
-# Skill Link
+# Skill Link - Ability ID 92
 
-## Basic Information
-- **Ability ID**: ABILITY_SKILL_LINK (92)
-- **Description**: Multi-hit moves always hit the maximum number of times.
-- **Type**: Multi-hit modifier ability
+## In-Game Description
+Multi-hit moves always hit the maximum number of times.
 
-## Detailed Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Forces multi-hit moves to always hit 5 times instead of random 2-5 hits. Each hit calculates damage separately with independent critical chances. Transforms moves like Rock Blast (25 power) into reliable 125 power attacks. Each hit can trigger contact abilities and break Substitute/Focus Sash.
+
+## Detailed Mechanical Explanation
+
+### Detailed Mechanics
 
 ### Multi-hit Interaction
 - Forces all multi-hit moves to hit the maximum number of times (5 hits for most)
@@ -60,7 +65,7 @@ All multi-hit moves that normally hit 2-5 times:
 
 ### Strategic Benefits
 - Guarantees 5 hits, providing consistent damage output
-- Effectively multiplies base power by 5 (e.g., Rock Blast: 25 × 5 = 125 power)
+- Effectively multiplies base power by 5 (e.g., Rock Blast: 25 x 5 = 125 power)
 - More chances to break through Substitute/Focus Sash
 - More chances to trigger secondary effects
 - Excellent synergy with King's Rock/Razor Fang for increased flinch chance
@@ -72,10 +77,6 @@ All multi-hit moves that normally hit 2-5 times:
 - **Life Orb**: Applies recoil after all hits complete
 - **King's Rock/Razor Fang**: Each hit has an independent flinch chance
 
-## Extended In-Game Description
-Skill Link guarantees that multi-hit moves always strike the maximum five times, turning unreliable attacks into consistent powerhouses. Each hit calculates damage independently with its own critical hit chance and can trigger contact effects. This transforms weak multi-hit moves into formidable options that effectively have 125+ base power while maintaining utility for breaking substitutes and sashes.
-
-Character count: 293
 
 ## Usage Tips
 - Pair with high Attack/Special Attack stats to maximize damage output
@@ -87,8 +88,8 @@ Character count: 293
 ## Competitive Analysis
 Skill Link transforms otherwise mediocre multi-hit moves into reliable, high-damage options. The guaranteed 5 hits provides both consistent damage and utility, making it especially valuable for breaking through defensive items and abilities. The ability essentially gives access to 100+ base power moves with added benefits like multiple chances for critical hits and secondary effects.
 
-## Known Pokémon with Skill Link
-While the codebase doesn't show specific Pokémon assignments, typical users in mainline games include:
+## Known Pokemon with Skill Link
+While the codebase doesn't show specific Pokemon assignments, typical users in mainline games include:
 - Cloyster (most notable user)
 - Cinccino
 - Ambipom

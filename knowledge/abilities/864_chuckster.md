@@ -5,17 +5,17 @@ status: ai-generated
 character_count: 291
 ---
 
-# Chuckster (N) - Ability Analysis
+# Chuckster (N) - Ability ID 864
 
-**ID:** 864  
-**Type:** Innate Ability (N)  
-**Original Description:** "Once per entry, take 1/2 damage and force-switch the target."
+## In-Game Description
+Once per entry, take 1/2 damage and force-switch the target.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-When this Pokémon first takes damage after entering battle, it reduces that damage by half and forces the attacking opponent to switch out immediately. This protective effect only activates once per battle entry, making it a powerful one-time defensive tool against physical and special attacks alike.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Implementation Details
+When this Pokemon first takes damage after entering battle, it reduces that damage by half and forces the attacking opponent to switch out immediately. This protective effect only activates once per battle entry, making it a powerful one-time defensive tool against physical and special attacks alike.
+
+## Detailed Mechanical Explanation
 
 **File Location:** `src/abilities.cc` (line ~8767)
 
@@ -33,7 +33,7 @@ constexpr Ability Chuckster = {
 1. **Trigger Condition:** First damage taken after entering battle
 2. **Effect 1:** Reduces incoming damage by 50%
 3. **Effect 2:** Forces the attacker to switch out (similar to moves like Dragon Tail/Circle Throw)
-4. **Frequency:** Once per battle entry (resets if the Pokémon switches out and back in)
+4. **Frequency:** Once per battle entry (resets if the Pokemon switches out and back in)
 5. **Breakable:** Yes (ability can be suppressed by Mold Breaker, etc.)
 
 ## Strategic Implications

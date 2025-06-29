@@ -13,9 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Suction Cups anchors the Pokémon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.
-
-*Character count: 291*
+Suction Cups anchors the Pokemon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -89,8 +87,8 @@ case EFFECT_ROAR:
 - Mold Breaker bypasses protection
 - No offensive benefits
 
-### Pokémon with Suction Cups
-Typically found on Pokémon with suction cup-like appendages or those that anchor themselves in place. Often appears on defensive Water-types and setup sweepers.
+### Pokemon with Suction Cups
+Typically found on Pokemon with suction cup-like appendages or those that anchor themselves in place. Often appears on defensive Water-types and setup sweepers.
 
 ### Competitive Usage Notes
 

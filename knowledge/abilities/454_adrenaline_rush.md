@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Adrenaline Rush boosts the Pokémon's Speed by one stage whenever it knocks out an opponent. The speed boost applies immediately after the target faints, allowing for enhanced revenge killing potential. Stacks with other speed boosts and works on all KO methods. Ideal for sweepers.
-
-*Character count: 295*
+Adrenaline Rush boosts the Pokemon's Speed by one stage whenever it knocks out an opponent. The speed boost applies immediately after the target faints, allowing for enhanced revenge killing potential. Stacks with other speed boosts and works on all KO methods. Ideal for sweepers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,8 +22,8 @@ Adrenaline Rush boosts the Pokémon's Speed by one stage whenever it knocks out 
 Adrenaline Rush is an offensive momentum ability that provides cumulative Speed boosts for maintaining offensive pressure. Each KO grants a +1 Speed stage boost, allowing for snowball potential.
 
 ### Activation Conditions
-- **KO requirement**: The Pokémon with Adrenaline Rush must directly cause an opponent to faint
-- **Timing**: Speed boost applies immediately after the target faints, before the next Pokémon switches in
+- **KO requirement**: The Pokemon with Adrenaline Rush must directly cause an opponent to faint
+- **Timing**: Speed boost applies immediately after the target faints, before the next Pokemon switches in
 - **Boost amount**: +1 Speed stage per KO (maximum +6 stages total)
 - **KO methods**: Works on all forms of KO:
   - Direct damage from attacks
@@ -75,9 +73,9 @@ static int MoxieClone(int battler, int stat) {
 - **Setup sweeper support**: Allows physical/special sweepers to outspeed after first KO
 
 ### Team Building Considerations
-- **Fast attackers**: Best on naturally fast Pokémon (90+ base Speed)
+- **Fast attackers**: Best on naturally fast Pokemon (90+ base Speed)
 - **Strong attackers**: Needs sufficient power to secure KOs reliably  
-- **Multi-target moves**: Pokémon with Earthquake, Rock Slide benefit from potential multi-KOs
+- **Multi-target moves**: Pokemon with Earthquake, Rock Slide benefit from potential multi-KOs
 - **Priority moves**: Bullet Punch, Aqua Jet help guarantee first KO
 - **Coverage moves**: Wide movepool helps secure KOs against various types
 
@@ -86,7 +84,7 @@ Adrenaline Rush is typically found on:
 - Fast physical attackers with good coverage
 - Revenge killers with priority moves
 - Late-game cleaners and sweepers
-- Pokémon that naturally learn multi-hit or spread moves
+- Pokemon that naturally learn multi-hit or spread moves
 
 ### Competitive Usage Patterns
 - **Early-game**: Use as revenge killer after team member faints
@@ -124,5 +122,5 @@ When paired with other abilities (in Elite Redux's multi-ability system):
 While Adrenaline Rush doesn't directly affect damage, the Speed boosts enable:
 - **Outspeeding revenge killers**: Prevents common revenge kill attempts
 - **Choice Scarf users**: Can eventually outspeed even scarfed opponents
-- **Speed tiers**: Moves Pokémon into higher speed tiers for consistent outspeeding
+- **Speed tiers**: Moves Pokemon into higher speed tiers for consistent outspeeding
 - **Turn order control**: Allows user to maintain offensive pressure and momentum

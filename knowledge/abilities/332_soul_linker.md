@@ -2,25 +2,28 @@
 id: 332
 name: Soul Linker
 status: ai-generated
-character_count: 283
+character_count: 284
 ---
 
-# Soul Linker (Ability #332)
+# Soul Linker - Ability ID 332
 
-## Basic Information
+## In-Game Description
+"Enemies take all the damage they deal, same for this Pokemon."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Soul Linker creates a mystical bond between battlers, causing all damage dealt to be perfectly mirrored back to the attacker. When this Pokemon takes damage, the opponent suffers identical harm. Conversely, when attacking, this Pokemon also endures the exact same damage it inflicts.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **Name**: Soul Linker
 - **ID**: 332
 - **Type**: Defensive/Retaliation ability
 - **Category**: Damage Reflection
 
-## In-Game Description
-"Enemies take all the damage they deal, same for this Pokémon."
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Soul Linker creates a mystical bond between battlers, causing all damage dealt to be perfectly mirrored back to the attacker. When this Pokémon takes damage, the opponent suffers identical harm. Conversely, when attacking, this Pokémon also endures the exact same damage it inflicts.
-
-## Mechanics
+### Mechanics
 
 ### Core Functionality
 - **Bidirectional Damage Reflection**: Unlike typical retaliation abilities, Soul Linker works in both directions:
@@ -30,11 +33,11 @@ Soul Linker creates a mystical bond between battlers, causing all damage dealt t
 ### Technical Implementation
 - **Trigger Condition**: Uses `ON_EITHER` macro, activating both as attacker and defender
 - **Damage Type**: Applies passive damage that ignores Substitute and Disguise
-- **HP Updates**: Properly updates health bars and data for both Pokémon
-- **Fainting Logic**: Can cause either or both Pokémon to faint simultaneously
+- **HP Updates**: Properly updates health bars and data for both Pokemon
+- **Fainting Logic**: Can cause either or both Pokemon to faint simultaneously
 
 ### Restrictions and Interactions
-1. **Soul Linker Immunity**: Cannot affect other Pokémon with Soul Linker (prevents infinite loops)
+1. **Soul Linker Immunity**: Cannot affect other Pokemon with Soul Linker (prevents infinite loops)
 2. **Pain Split Exception**: Does not trigger on Pain Split move
 3. **Alive Check**: Only triggers if the Soul Linker user is still alive
 4. **Hit Effect Requirements**: Must pass standard hit effect checks
@@ -43,9 +46,9 @@ Soul Linker creates a mystical bond between battlers, causing all damage dealt t
 - **Mutual Assured Destruction**: Forces opponents to consider the cost of attacking
 - **Sweeper Counter**: Particularly effective against high-damage sweepers
 - **Focus Sash Synergy**: Works well with Focus Sash to guarantee retaliation
-- **Defensive Wall Support**: Can deter physical attackers from targeting defensive Pokémon
+- **Defensive Wall Support**: Can deter physical attackers from targeting defensive Pokemon
 
-## Pokémon With Soul Linker
+## Pokemon With Soul Linker
 - **Sableye**: Listed in trainer data as having Soul Linker as ability slot 2
   - Often paired with Focus Sash for defensive utility
   - Used as a defensive wall with Soul Linker

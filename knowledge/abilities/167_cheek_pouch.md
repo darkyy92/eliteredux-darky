@@ -15,8 +15,6 @@ character_count: 284
 
 Cheek Pouch restores 33% of the Pokemon's maximum HP immediately after consuming any Berry through normal means. This healing occurs in addition to the Berry's primary effect, making Berry-based strategies significantly more effective in battle.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

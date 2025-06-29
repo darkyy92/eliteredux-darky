@@ -2,19 +2,18 @@
 id: 241
 name: Gulp Missile
 status: ai-generated
-character_count: 273
+character_count: 276
 ---
 
-# Gulp Missile
+# Gulp Missile - Ability ID 241
 
-**Ability ID**: 241  
-**In-game description**: "Gulps a prey after Dive/Surf. If hit, shoots prey at enemy."
+## In-Game Description
+"Gulps a prey after Dive/Surf. If hit, shoots prey at enemy."
 
-## Extended In-Game Description (280-300 chars)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
-
-*Character count: 297*
 
 ## Detailed Mechanical Explanation
 
@@ -25,9 +24,9 @@ Gulp Missile activates when Cramorant uses one of three specific moves:
 - **Dive** (including accelerated two-turn variant)
 
 The ability checks if:
-1. The Pokémon is not transformed (e.g., not Ditto)
-2. The Pokémon is specifically Cramorant (base form)
-3. One of the trigger moves was used AND dealt damage OR the Pokémon is underwater (Dive's first turn)
+1. The Pokemon is not transformed (e.g., not Ditto)
+2. The Pokemon is specifically Cramorant (base form)
+3. One of the trigger moves was used AND dealt damage OR the Pokemon is underwater (Dive's first turn)
 
 ### Form Determination
 When triggered:

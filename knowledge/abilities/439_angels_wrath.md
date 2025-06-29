@@ -15,24 +15,22 @@ character_count: 295
 
 Angel's Wrath completely transforms six basic moves into powerful variants with unique effects. Tackle gains Encore+Disable, String Shot sets all entry hazards, Harden boosts all stats except Defense, Iron Defense grants protection, Electroweb traps and minimizes Speed, Bug Bite heals damage dealt.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Angel's Wrath is a unique transformation ability that completely replaces the effects of six specific moves when used by a Pokémon with this ability. Each transformed move gains powerful new effects that are drastically different from their original functions.
+Angel's Wrath is a unique transformation ability that completely replaces the effects of six specific moves when used by a Pokemon with this ability. Each transformed move gains powerful new effects that are drastically different from their original functions.
 
 ### Move Transformations
 
-#### Tackle → Control Moves
+#### Tackle to Control Moves
 - **Effect**: Applies both Encore and Disable to the target
 - **Encore Duration**: 2 turns (forces opponent to use their first move)
 - **Disable Duration**: 2 turns (prevents use of their first move)
 - **Accuracy**: Always hits (ACCURACY_HITS_IF_POSSIBLE)
 - **Condition**: Requires successful hit and target not protected from status
 
-#### String Shot → Full Hazard Setup  
+#### String Shot to Full Hazard Setup  
 - **Effect**: Sets all four entry hazards on opponent's side simultaneously
 - **Hazards Applied**:
   - Stealth Rock (Rock-type)
@@ -41,25 +39,25 @@ Angel's Wrath is a unique transformation ability that completely replaces the ef
   - Sticky Web (speed reduction)
 - **Condition**: Only applies hazards that aren't already present
 
-#### Harden → Omni-Boost
+#### Harden to Omni-Boost
 - **Effect**: Boosts all stats except Defense by +1 stage
 - **Stats Boosted**: Attack, Special Attack, Special Defense, Speed
 - **Condition**: Must have at least one stat that can be raised
 
-#### Iron Defense → Angel's Protection
+#### Iron Defense to Angel's Protection
 - **Effect**: Grants protection status similar to King's Shield
 - **Protection**: Blocks all damaging moves for the turn
 - **Counter-Effect**: When protection is triggered, applies special effect to attacker
 - **Duration**: One turn (like other protection moves)
 
-#### Electroweb → Speed Control
+#### Electroweb to Speed Control
 - **Effect**: Minimizes target's Speed and traps them
 - **Speed Reduction**: Sets Speed to minimum stage (-6)
 - **Trapping**: Applies escape prevention (like Block/Mean Look)
 - **Type Effectiveness**: Super effective against Ground types (2x damage)
 - **Accuracy**: Always hits (ACCURACY_HITS_IF_POSSIBLE)
 
-#### Bug Bite → Healing Bite
+#### Bug Bite to Healing Bite
 - **Effect**: Heals user for damage dealt to opponent
 - **Healing Amount**: Restores HP equal to damage inflicted
 - **Minimum Heal**: At least 1 HP if no damage dealt
@@ -174,8 +172,8 @@ constexpr Ability AngelsWrath = {
 - Iron Defense (protection)
 - Coverage move
 
-### Pokémon Compatibility
-Angel's Wrath works best on Pokémon that can naturally learn multiple transformation moves and benefit from the diverse utility effects. The ability is particularly valuable on support-oriented Pokémon that can capitalize on the control and setup aspects.
+### Pokemon Compatibility
+Angel's Wrath works best on Pokemon that can naturally learn multiple transformation moves and benefit from the diverse utility effects. The ability is particularly valuable on support-oriented Pokemon that can capitalize on the control and setup aspects.
 
 ### Version Notes
 - Unique to Elite Redux

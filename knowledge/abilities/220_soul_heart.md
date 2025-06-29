@@ -13,15 +13,13 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Soul-Heart raises Special Attack by one stage when any Pokémon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.
-
-*Character count: 288*
+Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Soul-Heart is a powerful stat-boosting ability that activates whenever any Pokémon faints during battle, regardless of the cause or perpetrator of the KO.
+Soul-Heart is a powerful stat-boosting ability that activates whenever any Pokemon faints during battle, regardless of the cause or perpetrator of the KO.
 
 **Key Implementation Details:**
 ```cpp
@@ -36,10 +34,10 @@ constexpr Ability SoulHeart = {
 ```
 
 ### Activation Conditions
-- **Trigger**: Any Pokémon fainting on the battlefield
+- **Trigger**: Any Pokemon fainting on the battlefield
 - **Scope**: Applies to ANY battler fainting (`APPLY_ON_ANY`)
-  - Allied Pokémon fainting
-  - Enemy Pokémon fainting
+  - Allied Pokemon fainting
+  - Enemy Pokemon fainting
   - The Soul-Heart user itself fainting (though this is rarely relevant)
 - **Cause Independence**: Doesn't matter how the KO occurred:
   - Direct damage from moves
@@ -71,14 +69,14 @@ The ability uses the `onBattlerFaints` hook with `APPLY_ON_ANY` scope, meaning i
 
 ### Example Scenarios
 **Scenario 1 - Allied Sacrifice:**
-Turn 1: Ally uses Explosion, faints → Soul-Heart user gains +1 Sp. Atk
+Turn 1: Ally uses Explosion, faints to Soul-Heart user gains +1 Sp. Atk
 Turn 2: Soul-Heart user sweeps with boosted attacks
 
 **Scenario 2 - Chain KOs:**
-Multiple Pokémon faint in succession due to status/hazards → Multiple Sp. Atk boosts stack
+Multiple Pokemon faint in succession due to status/hazards to Multiple Sp. Atk boosts stack
 
 ### Common Users
-Notable Pokémon with Soul-Heart in Elite Redux:
+Notable Pokemon with Soul-Heart in Elite Redux:
 - **Magearna** (primary/innate ability)
 - **Wigglytuff Apex** (innate ability)
 - **Gardevoir Mega** (innate ability)  
@@ -94,7 +92,7 @@ Notable Pokémon with Soul-Heart in Elite Redux:
 
 **Weaknesses:**
 - Relies on KOs occurring to activate
-- Useless if no Pokémon faint during battle
+- Useless if no Pokemon faint during battle
 - Stat boosts can be reset by moves like Haze or Clear Smog
 - Doesn't provide immediate benefit upon switching in
 
@@ -116,4 +114,4 @@ Notable Pokémon with Soul-Heart in Elite Redux:
 - Effective with status spreaders causing gradual KOs
 
 ### Version History
-Soul-Heart was introduced in Generation VII as Magearna's signature ability. In Elite Redux, it has been distributed to various Pokémon as both a changeable and innate ability, making it more accessible for strategic team building while maintaining its powerful late-game potential.
+Soul-Heart was introduced in Generation VII as Magearna's signature ability. In Elite Redux, it has been distributed to various Pokemon as both a changeable and innate ability, making it more accessible for strategic team building while maintaining its powerful late-game potential.

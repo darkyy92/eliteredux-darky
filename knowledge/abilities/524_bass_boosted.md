@@ -13,9 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Bass Boosted combines Amplifier and Punk Rock effects. Boosts sound-based moves by 30% damage and reduces incoming sound move damage by 50%. Sound moves also hit both opposing Pokémon in doubles. Powerful combo ability for sound-based attackers and defensive utility.
-
-*Character count: 299*
+Bass Boosted combines Amplifier and Punk Rock effects. Boosts sound-based moves by 30% damage and reduces incoming sound move damage by 50%. Sound moves also hit both opposing Pokemon in doubles. Powerful combo ability for sound-based attackers and defensive utility.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -82,7 +80,7 @@ Common sound moves that benefit from Bass Boosted include:
 
 ### Important Interactions
 - **Ability suppression**: Mold Breaker, Teravolt, and Turboblaze bypass the defensive component
-- **Soundproof immunity**: Pokémon with Soundproof are immune to all sound moves regardless of Bass Boosted
+- **Soundproof immunity**: Pokemon with Soundproof are immune to all sound moves regardless of Bass Boosted
 - **Substitute**: Sound moves pierce Substitute, so Bass Boosted still applies
 - **Multiple hits**: Each hit of multi-hit sound moves gets the full bonus
 - **Critical hits**: Damage multipliers apply before critical hit calculation
@@ -97,8 +95,8 @@ Common sound moves that benefit from Bass Boosted include:
 ### Common Users
 Bass Boosted appears as an innate ability on:
 - **Toxtricity variants**: Electric/Poison types with sound move emphasis
-- **Sound-based Pokémon**: Species that specialize in acoustic attacks
-- **Doubles specialists**: Pokémon designed for doubles battle formats
+- **Sound-based Pokemon**: Species that specialize in acoustic attacks
+- **Doubles specialists**: Pokemon designed for doubles battle formats
 
 ### Competitive Usage Notes
 - **Hyper Voice spam**: Extremely powerful with STAB and ability boost
@@ -124,15 +122,15 @@ Bass Boosted appears as an innate ability on:
 ### Power Calculation Example
 Base Hyper Voice (90 BP) with Bass Boosted:
 - Base damage: 90 BP
-- Bass Boosted boost: 90 × 1.3 = 117 BP effective
-- With STAB: 117 × 1.5 = 175.5 BP effective
-- With Choice Specs: 175.5 × 1.5 = 263.25 BP effective
+- Bass Boosted boost: 90 x 1.3 = 117 BP effective
+- With STAB: 117 x 1.5 = 175.5 BP effective
+- With Choice Specs: 175.5 x 1.5 = 263.25 BP effective
 
 ### Version History
 - **Elite Redux exclusive**: Custom ability combining Amplifier and Punk Rock
-- **Innate ability**: Appears on select Pokémon as fixed innate ability
+- **Innate ability**: Appears on select Pokemon as fixed innate ability
 - **Balanced design**: Provides both offensive and defensive utility
 - **Doubles focus**: Particularly powerful in doubles battle format
 
 ### Lore and Flavor
-Bass Boosted represents mastery over sound and acoustic vibrations, allowing the Pokémon to both amplify their own sound-based attacks and dampen incoming sonic assaults. The ability reflects musical themes and audio equipment terminology, fitting for Electric-type Pokémon like Toxtricity variants.
+Bass Boosted represents mastery over sound and acoustic vibrations, allowing the Pokemon to both amplify their own sound-based attacks and dampen incoming sonic assaults. The ability reflects musical themes and audio equipment terminology, fitting for Electric-type Pokemon like Toxtricity variants.

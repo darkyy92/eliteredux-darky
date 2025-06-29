@@ -15,8 +15,6 @@ character_count: 293
 
 Crowned Sword combines Intrepid Sword and Anger Point effects. Raises Attack by 1 stage upon switching in. When hit by any attack, raises Attack by 1 stage, or maximizes Attack if hit by a critical hit. Transforms defensive play into offensive pressure.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -32,7 +30,7 @@ Crowned Sword is a hybrid ability that combines two distinct attack-boosting eff
 - **Message**: Displays standard stat raise message
 
 #### Anger Point Component  
-- **Trigger**: Activates when the Pokémon takes damage from any attack
+- **Trigger**: Activates when the Pokemon takes damage from any attack
 - **Normal hits**: Raises Attack by 1 stage
 - **Critical hits**: Maximizes Attack stat (+12 stages, equivalent to +6 effective stages)
 - **Timing**: Activates after damage calculation but before end of turn
@@ -83,13 +81,13 @@ constexpr Ability CrownedSword = {
 
 ### Strategic Implications
 - **Immediate pressure**: Enters with +1 Attack, threatening from turn 1
-- **Snowball potential**: Each hit makes the Pokémon more dangerous
+- **Snowball potential**: Each hit makes the Pokemon more dangerous
 - **Critical hit punishment**: Opponents risk giving massive Attack boosts
 - **Switch advantage**: Gain momentum on every switch-in
 - **Defensive pivot**: Can absorb hits while gaining offensive power
 
 ### Current Users
-- **Zacian-Crowned-Sword**: The signature Pokémon with this ability
+- **Zacian-Crowned-Sword**: The signature Pokemon with this ability
   - Base 170 Attack becomes 255 (effectively 340) with +1
   - Paired with innate abilities: Steelworker, Battle Armor, Keen Edge
   - Fairy/Steel typing with excellent coverage

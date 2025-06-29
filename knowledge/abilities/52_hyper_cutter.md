@@ -2,7 +2,7 @@
 id: 52
 name: Hyper Cutter
 status: ai-generated
-character_count: 313
+character_count: 296
 ---
 
 # Hyper Cutter - Ability ID 52
@@ -13,9 +13,7 @@ character_count: 313
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hyper Cutter prevents enemies from lowering the user's Attack or Special Attack stats through moves or abilities. Additionally, all contact moves used by this Pokémon have their critical hit rate increased by one stage. Immune to Intimidate, stat-lowering moves like Growl and Tickle affecting Attack/SpAtk stats.
-
-*Character count: 294*
+Hyper Cutter prevents enemies from lowering the user's Attack or Special Attack stats through moves or abilities. All contact moves used by this Pokemon have their critical hit rate increased by one stage. Provides immunity to Intimidate and stat-lowering moves like Growl affecting Attack/SpAtk.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -27,7 +25,7 @@ Hyper Cutter prevents enemies from lowering the user's Attack or Special Attack 
 - **Trigger**: Activates when any opposing source attempts to reduce STAT_ATK or STAT_SPATK
 - **Protected Stats**: Attack (-1 to -6 stages) and Special Attack (-1 to -6 stages)
 - **Unprotected Stats**: Defense, Special Defense, Speed, Accuracy, Evasion can still be lowered
-- **Message**: Shows ability popup and "It doesn't affect [Pokémon]!" when protection activates
+- **Message**: Shows ability popup and "It doesn't affect [Pokemon]!" when protection activates
 
 ### Critical Hit Enhancement:
 - **Trigger**: All contact moves (physical moves that make contact with the target)
@@ -112,4 +110,4 @@ constexpr Ability HyperCutter = {
 - Elite Redux: Enhanced from original with critical hit bonus addition
 - Original games: Only provided Attack stat protection (not Special Attack)
 - Elite Redux expansion: Both Attack AND Special Attack protection + crit bonus
-- Message: Uses standard "It doesn't affect [Pokémon]!" for stat protection
+- Message: Uses standard "It doesn't affect [Pokemon]!" for stat protection

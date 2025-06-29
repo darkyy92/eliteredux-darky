@@ -15,8 +15,6 @@ character_count: 287
 
 Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for physical attackers needing immediate power.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

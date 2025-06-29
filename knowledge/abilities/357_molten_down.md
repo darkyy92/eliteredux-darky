@@ -5,9 +5,19 @@ status: ai-generated
 character_count: 285
 ---
 
-# Molten Down (Ability #357)
+# Molten Down - Ability ID 357
 
-## Overview
+## In-Game Description
+"Fire-type moves deal super effective damage to Rock-types."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Molten Down reverses the traditional Fire vs Rock matchup by making Fire-type moves deal super effective damage to Rock-types instead of being resisted. This 4x damage swing transforms Fire-type Pokemon into potent Rock-type counters. The ability permanently modifies type effectiveness during damage calculation and works with all Fire-type moves including Hidden Power Fire.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 **Molten Down** is a powerful type-effectiveness modifying ability that fundamentally changes the Fire vs Rock type interaction. Instead of Fire-type moves being resisted by Rock-types (dealing 0.5x damage), they become super effective, dealing 2.0x damage.
 
@@ -100,7 +110,7 @@ Many Pokemon have Molten Down as an innate (permanent) ability:
 4. Final damage calculation
 
 ### Stacking Interactions
-- **With STAB**: 2.0x (STAB) × 2.0x (Molten Down) = 4.0x total multiplier
+- **With STAB**: 2.0x (STAB) x 2.0x (Molten Down) = 4.0x total multiplier
 - **With Items**: Can stack with Choice items, Life Orb, etc.
 - **With Weather**: Sun boosts combine multiplicatively
 
@@ -161,3 +171,4 @@ Many Pokemon have Molten Down as an innate (permanent) ability:
 Molten Down represents one of the most impactful type-effectiveness modifying abilities in Elite Redux. By fundamentally changing the Fire vs Rock matchup from resisted to super effective, it creates new strategic possibilities, enhances Fire-type viability, and forces adaptation in competitive play. Its straightforward implementation belies its significant impact on the battle system and competitive meta.
 
 The ability exemplifies Elite Redux's approach to expanding strategic depth through innovative ability design while maintaining clear, understandable mechanics that players can learn and adapt to.
+

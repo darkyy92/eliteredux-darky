@@ -15,8 +15,6 @@ character_count: 286
 
 Sludgy Mix combines Intoxicate and Punk Rock effects. Converts Normal-type moves to Poison-type with 20% power boost. Sound-based moves deal 30% more damage and take 50% less damage from opposing sound moves. Creates a unique offensive profile with poison typing and sound move mastery.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -28,7 +26,7 @@ Sludgy Mix is a combination ability that merges the effects of two distinct abil
 #### Intoxicate Component
 - **Move Type Conversion**: All Normal-type moves become Poison-type
 - **Power Boost**: Converted moves receive a 20% damage boost (1.2x multiplier)
-- **STAB Interaction**: Poison-type Pokémon gain STAB on converted moves
+- **STAB Interaction**: Poison-type Pokemon gain STAB on converted moves
 - **Coverage**: Provides Poison-type coverage without learning Poison moves
 
 #### Punk Rock Component
@@ -45,7 +43,7 @@ constexpr Ability SludgyMix = {
         Intoxicate.onOffensiveMultiplier(DELEGATE_OFFENSIVE_MULTIPLIER);
         PunkRock.onOffensiveMultiplier(DELEGATE_OFFENSIVE_MULTIPLIER);
     },
-    .onMoveType = Intoxicate.onMoveType, // Normal → Poison conversion
+    .onMoveType = Intoxicate.onMoveType, // Normal to Poison conversion
 };
 
 // Intoxicate uses the ATE_ABILITY macro for type conversion
@@ -80,19 +78,19 @@ Common sound-based moves that benefit from Punk Rock component:
 
 ### Move Conversion Examples
 Normal moves that become Poison-type with 20% boost:
-- **Hyper Voice** → Poison-type, boosted by both components (1.2x from conversion, 1.3x from sound = 1.56x total)
-- **Boomburst** → Poison-type, massive power with both boosts
-- **Facade** → Poison-type with status boost potential
-- **Body Slam** → Poison-type physical attack
-- **Swift** → Poison-type never-miss move
+- **Hyper Voice** to Poison-type, boosted by both components (1.2x from conversion, 1.3x from sound = 1.56x total)
+- **Boomburst** to Poison-type, massive power with both boosts
+- **Facade** to Poison-type with status boost potential
+- **Body Slam** to Poison-type physical attack
+- **Swift** to Poison-type never-miss move
 
 ### Damage Calculation
 For a sound-based Normal move with Sludgy Mix:
 1. **Base Power**: Original move power
-2. **Type Conversion**: Normal → Poison (enables STAB for Poison types)
+2. **Type Conversion**: Normal to Poison (enables STAB for Poison types)
 3. **Intoxicate Boost**: 1.2x multiplier from type conversion
 4. **Punk Rock Boost**: 1.3x multiplier for sound moves
-5. **Total Multiplier**: 1.2 × 1.3 = 1.56x damage boost
+5. **Total Multiplier**: 1.2 x 1.3 = 1.56x damage boost
 6. **STAB**: Additional 1.5x if user is Poison-type
 
 ### Strategic Applications
@@ -108,7 +106,7 @@ For a sound-based Normal move with Sludgy Mix:
 - **Noise Immunity**: Reduces effectiveness of sound-based strategies
 - **Bulk Enhancement**: Effective HP doubled against sound attacks
 
-### Pokémon Synergy
+### Pokemon Synergy
 Ideal candidates for Sludgy Mix:
 - **Poison-types with Sound Moves**: Gain STAB on converted moves plus sound boosts
 - **Normal-types with Sound Access**: Transform their movepool while keeping sound advantages
@@ -116,7 +114,7 @@ Ideal candidates for Sludgy Mix:
 - **Bulky Sound Users**: Appreciate the defensive sound resistance
 
 ### Team Composition
-- **Sound-based Cores**: Multiple Pokémon with sound moves for team synergy
+- **Sound-based Cores**: Multiple Pokemon with sound moves for team synergy
 - **Anti-Meta Picks**: Counters opposing sound-based strategies
 - **Coverage Fillers**: Provides unexpected Poison typing on Normal moves
 - **Wallbreakers**: Combined boosts create powerful wall-breaking potential

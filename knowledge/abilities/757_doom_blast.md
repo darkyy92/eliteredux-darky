@@ -15,8 +15,6 @@ character_count: 295
 
 Doom Blast boosts all Dark-type moves by 35% damage but causes 10% recoil damage after each Dark-type attack. The recoil is calculated as 5% of damage dealt with a minimum of 1 HP. Creates high-risk, high-reward Dark-type sweeping potential at the cost of gradual self-damage.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -58,7 +56,7 @@ All 64 Dark-type moves in the game are affected, including but not limited to:
 ### Damage Calculations
 **Example with 100 BP Dark Pulse:**
 - Base damage: 100 BP
-- With Doom Blast: 100 × 1.35 = 135 effective BP
+- With Doom Blast: 100 x 1.35 = 135 effective BP
 - If deals 200 damage: Recoil = max(200/20, 1) = 10 HP recoil
 
 **Example with weak attack dealing 15 damage:**
@@ -80,7 +78,7 @@ All 64 Dark-type moves in the game are affected, including but not limited to:
 ### Common Users
 Currently exclusive to:
 - **Morpeko (Hangry Form)** - Electric/Dark type with 101 Attack and Speed
-  - Benefits from STAB on Dark moves (1.5x × 1.35x = 2.025x total multiplier)
+  - Benefits from STAB on Dark moves (1.5x x 1.35x = 2.025x total multiplier)
   - High Speed allows for quick sweeping before recoil accumulates
   - Also has Electrocytes and Power Spot as alternative abilities
 

@@ -15,8 +15,6 @@ character_count: 297
 
 After using any Ice-type move, the Pokemon automatically follows up with a 50 BP Blizzard that can hit both opponents in double battles. This creates a devastating combo that turns every Ice attack into a potential freeze opportunity.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

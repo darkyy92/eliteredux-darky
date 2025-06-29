@@ -15,8 +15,6 @@ character_count: 299
 
 Lucky Halo prevents all negative stat changes to the user and allows survival of one KO hit per battle with exactly 1 HP remaining. The stat drop prevention works like Clear Body, blocking Intimidate and stat-lowering moves. The endure effect activates once per battle similar to Focus Sash effects.
 
-*Character count: 300*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -65,7 +63,7 @@ if (ability == ABILITY_LUCKY_HALO && !GetAbilityState(battler, ability)) {
 - **Mold Breaker**: Can bypass both stat drop prevention and endure effect
 - **Multi-hit moves**: Only the final hit's damage is considered for endure activation
 - **Substitute**: Stat drop prevention still works while behind substitute
-- **Baton Pass**: Endure usage state doesn't transfer to the switched-in Pokémon
+- **Baton Pass**: Endure usage state doesn't transfer to the switched-in Pokemon
 - **Ability suppression**: Both effects disabled when ability is suppressed
 
 ### Stat Drop Prevention Details
@@ -90,10 +88,10 @@ if (ability == ABILITY_LUCKY_HALO && !GetAbilityState(battler, ability)) {
 - **One-time use**: Endure effect needs careful timing
 
 ### Common Users
-- **Fragile sweepers**: Pokémon that need setup time and survival insurance
-- **Lead Pokémon**: Good for reliable lead performance
+- **Fragile sweepers**: Pokemon that need setup time and survival insurance
+- **Lead Pokemon**: Good for reliable lead performance
 - **Wallbreakers**: Benefits from stat drop immunity and survival guarantee
-- **Support Pokémon**: Can reliably use support moves without stat interference
+- **Support Pokemon**: Can reliably use support moves without stat interference
 
 ### Competitive Usage Notes
 - **Dual utility**: Provides both offensive and defensive benefits
@@ -129,6 +127,6 @@ In Elite Redux's 4-ability system, Lucky Halo pairs well with:
 - **Planned mechanics**: Combines Clear Body stat immunity with once-per-battle endure
 
 ### Design Philosophy
-Lucky Halo represents a "guardian angel" concept, providing both proactive protection (stat drops) and reactive protection (endure). The ability is designed to give fragile Pokémon more opportunities to contribute meaningfully to battle while maintaining counterplay through its one-time-use limitation and vulnerability to indirect damage.
+Lucky Halo represents a "guardian angel" concept, providing both proactive protection (stat drops) and reactive protection (endure). The ability is designed to give fragile Pokemon more opportunities to contribute meaningfully to battle while maintaining counterplay through its one-time-use limitation and vulnerability to indirect damage.
 
-The combination of effects makes it particularly valuable on Pokémon that need to maintain their stats for sweeping while also appreciating the safety net against unexpected threats. However, the endure effect's single-use nature requires careful positioning and timing to maximize value.
+The combination of effects makes it particularly valuable on Pokemon that need to maintain their stats for sweeping while also appreciating the safety net against unexpected threats. However, the endure effect's single-use nature requires careful positioning and timing to maximize value.

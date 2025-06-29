@@ -15,8 +15,6 @@ character_count: 287
 
 Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - greatly benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

@@ -13,18 +13,16 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When any Pokémon on the field uses a dance move, this Pokémon immediately uses the same move. Dance moves include Swords Dance, Dragon Dance, Quiver Dance, Petal Dance, Feather Dance, Teeter Dance, Lunar Dance, Fiery Dance, Revelation Dance, and Aqua Step. Cannot copy if already moved this turn.
-
-*Character count: 295*
+When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move. Dance moves include Swords Dance, Dragon Dance, Quiver Dance, Petal Dance, Feather Dance, Teeter Dance, Lunar Dance, Fiery Dance, Revelation Dance, and Aqua Step. Cannot copy if already moved this turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Dancer is a unique ability that automatically triggers when any Pokémon (ally or opponent) uses a dance move on the battlefield.
+Dancer is a unique ability that automatically triggers when any Pokemon (ally or opponent) uses a dance move on the battlefield.
 
 ### Core Mechanics
 - **Automatic Activation**: When any battler uses a move with the FLAG_DANCE flag, Dancer triggers
-- **Move Copying**: The Pokémon with Dancer immediately uses the same dance move that was just used
+- **Move Copying**: The Pokemon with Dancer immediately uses the same dance move that was just used
 - **Out-of-Turn Usage**: The copied move is executed using UseOutOfTurnAttack, allowing it to occur immediately after the original move
 - **No Power Modification**: The copied move uses its normal power and effects (movePower parameter is 0)
 
@@ -46,24 +44,24 @@ The IsDance function checks:
 1. **Swords Dance** - Raises Attack by 2 stages
 2. **Petal Dance** - Physical Grass move that causes confusion after 2-3 turns
 3. **Feather Dance** - Lowers target's Attack by 2 stages
-4. **Teeter Dance** - Confuses all other Pokémon on the field
+4. **Teeter Dance** - Confuses all other Pokemon on the field
 5. **Dragon Dance** - Raises Attack and Speed by 1 stage each
-6. **Lunar Dance** - User faints, fully heals replacement Pokémon
+6. **Lunar Dance** - User faints, fully heals replacement Pokemon
 7. **Quiver Dance** - Raises Special Attack, Special Defense, and Speed by 1 stage each
 8. **Fiery Dance** - Special Fire move with 50% chance to raise Special Attack
 9. **Revelation Dance** - Changes type to match user's primary type
 10. **Aqua Step** - Water-type physical move
 
 ### Activation Conditions
-- Any Pokémon on the field uses a dance move
-- The Dancer Pokémon is still active and able to use moves
-- The Dancer Pokémon hasn't already moved this turn (gTurnStructs check prevents infinite loops)
+- Any Pokemon on the field uses a dance move
+- The Dancer Pokemon is still active and able to use moves
+- The Dancer Pokemon hasn't already moved this turn (gTurnStructs check prevents infinite loops)
 
 ### Interactions with Other Abilities/Mechanics
 - **Priority**: Dancer triggers immediately after the original move, before the turn continues
-- **Multiple Dancers**: If multiple Pokémon have Dancer, they will all copy the move in turn order
+- **Multiple Dancers**: If multiple Pokemon have Dancer, they will all copy the move in turn order
 - **Target Selection**: The copied move targets the same target as the original (or self for stat moves)
-- **Taekkyeon Synergy**: Pokémon with Taekkyeon make all their non-status moves count as dance moves, creating synergy with Dancer teammates
+- **Taekkyeon Synergy**: Pokemon with Taekkyeon make all their non-status moves count as dance moves, creating synergy with Dancer teammates
 
 ### Strategic Implications
 - **Team Support**: Excellent for copying beneficial stat-boosting dances from allies
@@ -72,15 +70,15 @@ The IsDance function checks:
 - **Prediction**: Opponents must be careful about using dance moves against Dancer users
 
 ### Example Scenarios
-- Ally uses Dragon Dance → Dancer copies Dragon Dance → Both Pokémon get +1 Attack/Speed
-- Opponent uses Quiver Dance → Dancer copies Quiver Dance → Dancer gets +1 SpA/SpD/Speed
-- Teammate uses Swords Dance → Dancer copies Swords Dance → Dancer gets +2 Attack
+- Ally uses Dragon Dance to Dancer copies Dragon Dance to Both Pokemon get +1 Attack/Speed
+- Opponent uses Quiver Dance to Dancer copies Quiver Dance to Dancer gets +1 SpA/SpD/Speed
+- Teammate uses Swords Dance to Dancer copies Swords Dance to Dancer gets +2 Attack
 
 ### Common Users
 In Elite Redux, Dancer is typically found on:
-- Pokémon with naturally high offensive stats that benefit from setup moves
-- Support Pokémon designed to capitalize on team synergy
-- Pokémon with good speed to make use of copied priority moves
+- Pokemon with naturally high offensive stats that benefit from setup moves
+- Support Pokemon designed to capitalize on team synergy
+- Pokemon with good speed to make use of copied priority moves
 
 ### Competitive Usage Notes
 - **Team Building**: Build teams with beneficial dance moves to maximize Dancer's utility
@@ -95,8 +93,8 @@ In Elite Redux, Dancer is typically found on:
 
 ### Synergies
 - **Taekkyeon**: Makes the user's non-status moves count as dance moves for other Dancers
-- **Setup Moves**: Any Pokémon with beneficial dance moves
-- **Speed Control**: Pokémon that can ensure Dancer moves first after copying
+- **Setup Moves**: Any Pokemon with beneficial dance moves
+- **Speed Control**: Pokemon that can ensure Dancer moves first after copying
 
 ### Version History
 - Introduced in Generation VII as a standard ability

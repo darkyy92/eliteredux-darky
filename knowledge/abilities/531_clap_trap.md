@@ -15,8 +15,6 @@ character_count: 288
 
 Clap Trap counters contact moves by immediately using Snap Trap with 50 base power against the attacker. The Steel-type retaliation traps opponents for 4-5 turns while dealing damage. Only activates when hit by contact moves, providing excellent defensive utility and battlefield control.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Clap Trap counters contact moves by immediately using Snap Trap with 50 base pow
 - **Retaliation Move**: Uses Snap Trap (MOVE_SNAP_TRAP) with fixed 50 base power
 - **Type**: Steel-type move (inherits from Snap Trap)
 - **Accuracy**: 85% (inherits from Snap Trap base accuracy)
-- **Target**: The attacking Pokémon that made contact
+- **Target**: The attacking Pokemon that made contact
 
 ### Technical Implementation
 ```cpp
@@ -65,7 +63,7 @@ constexpr Ability SnapTrapWhenHit = {
 - Target cannot switch out for 4-5 turns (random duration)
 - Takes 1/8 of target's max HP damage each turn while trapped
 - Trapping ends early if the user switches out or faints
-- Trapped Pokémon can still attack normally
+- Trapped Pokemon can still attack normally
 
 ### Strategic Implications
 - **Defensive Utility**: Punishes physical attackers while providing board control
@@ -82,12 +80,12 @@ constexpr Ability SnapTrapWhenHit = {
 ### Common Users
 Based on proto analysis:
 - **Stunfisk (Galarian)**: Has Clap Trap as an ability option
-- **Various Steel-types**: Likely distributed to defensive Steel-type Pokémon
+- **Various Steel-types**: Likely distributed to defensive Steel-type Pokemon
 
 ### Competitive Usage Notes
-- **Tank Role**: Excellent on defensive Pokémon that expect to take contact moves
+- **Tank Role**: Excellent on defensive Pokemon that expect to take contact moves
 - **Pivot Punishment**: Deters U-turn, Volt Switch, and other contact pivot moves
-- **Physical Wall**: Enhances the role of defensive Pokémon against physical attackers
+- **Physical Wall**: Enhances the role of defensive Pokemon against physical attackers
 - **Setup Counter**: Punishes setup sweepers that rely on contact moves
 
 ### Counters

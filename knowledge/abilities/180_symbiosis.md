@@ -15,8 +15,6 @@ character_count: 283
 
 Symbiosis automatically transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. Only works in Double/Multi battles with teammates on the same side. Perfect for supporting strategies.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,9 +22,9 @@ Symbiosis automatically transfers the holder's item to an ally immediately after
 
 **Activation Conditions:**
 - Must be in a Double, Triple, or Multi battle format (requires allies)
-- An ally Pokémon on the same side must consume/use their held item
+- An ally Pokemon on the same side must consume/use their held item
 - The Symbiosis user must be holding an item to transfer
-- Both Pokémon must be active on the field
+- Both Pokemon must be active on the field
 
 **Mechanics:**
 - Triggers immediately after ally's item is consumed, before any other effects
@@ -49,13 +47,13 @@ Symbiosis automatically transfers the holder's item to an ally immediately after
 - Items that are permanently held (Mega Stones, Z-Crystals)
 
 **Strategic Applications:**
-- Support builds where one Pokémon holds recovery items for the team
+- Support builds where one Pokemon holds recovery items for the team
 - Passing Choice items to enable powerful sweepers
 - Emergency item sharing (passing Sitrus Berry to low HP ally)
 - Synergy with Unburden users (they consume item, get speed boost + new item)
 
 **Battle Message:**
-"{Pokémon name} passed its {item name} to {ally name} through {ability name}!"
+"{Pokemon name} passed its {item name} to {ally name} through {ability name}!"
 
 **Implementation Status:**
 Currently appears to be partially implemented in Elite Redux with message strings present but may need full mechanical implementation in the abilities system.

@@ -13,9 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Stygian Rush grants +1 priority to all Dark-type moves when the Pokémon is at maximum HP. This allows Dark-type attacks to move before most other moves in battle. The priority boost is lost if the Pokémon takes any damage, making it a high-risk, high-reward ability.
-
-*Character count: 291*
+Stygian Rush grants +1 priority to all Dark-type moves when the Pokemon is at maximum HP. This allows Dark-type attacks to move before most other moves in battle. The priority boost is lost if the Pokemon takes any damage, making it a high-risk, high-reward ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -41,7 +39,7 @@ constexpr Ability DarkGaleWings = {
 
 ### Activation Conditions
 1. **Type Requirement**: Move must be Dark-type before any type changes
-2. **HP Requirement**: Pokémon must be at exactly maximum HP
+2. **HP Requirement**: Pokemon must be at exactly maximum HP
 3. **Priority Calculation**: Adds +1 to the move's base priority
 
 ### Complete List of Affected Moves
@@ -72,24 +70,24 @@ All Dark-type moves benefit from this ability, including:
 
 ### Example Damage Calculations
 **Standard Priority Dark Pulse (Max HP)**:
-- Base Priority: 0 → +1 with Stygian Rush
+- Base Priority: 0 to +1 with Stygian Rush
 - Moves before most standard moves (priority 0)
 - Still slower than Quick Attack (+1) and Extreme Speed (+2)
 
 **Sucker Punch with Stygian Rush**:
-- Base Priority: +1 → +2 with Stygian Rush
+- Base Priority: +1 to +2 with Stygian Rush
 - Moves before almost all moves except Extreme Speed
 - Extremely powerful for revenge killing
 
 ### Common Users
-- **Dark-type Pokémon**: Natural STAB synergy with the ability
+- **Dark-type Pokemon**: Natural STAB synergy with the ability
 - **Mixed Attackers**: Can utilize both physical and special Dark moves
-- **Lead Pokémon**: Benefit from guaranteed max HP on switch-in
+- **Lead Pokemon**: Benefit from guaranteed max HP on switch-in
 - **Glass Cannons**: High-risk, high-reward playstyle fits the ability
 
 ### Competitive Usage Notes
 #### Optimal Team Roles
-- **Lead Pokémon**: Guaranteed activation on battle start
+- **Lead Pokemon**: Guaranteed activation on battle start
 - **Switch-in Threats**: Priority Dark moves on entry
 - **Revenge Killers**: Priority Sucker Punch for guaranteed KOs
 - **Anti-Setup**: Priority Taunt to prevent setup

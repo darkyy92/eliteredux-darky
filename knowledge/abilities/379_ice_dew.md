@@ -2,12 +2,22 @@
 id: 379
 name: Ice Dew
 status: ai-generated
-character_count: 0
+character_count: 298
 ---
 
-# Ice Dew (Ability #379)
+# Ice Dew - Ability ID 379
 
-## Overview
+## In-Game Description
+"Redirects Ice moves to self and boosts highest attacking stat."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Ice Dew automatically redirects all Ice-type moves to this Pokemon, nullifying their damage completely. Upon absorbing an Ice move, the ability analyzes the user's current stats and boosts either Attack or Special Attack (whichever is higher) by one stage.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Ice Dew is a defensive redirection ability that automatically absorbs all Ice-type moves targeted at the user or their allies, completely negating their damage while providing a valuable stat boost. This ability makes the user immune to Ice-type attacks while turning them into an opportunity for offensive momentum.
 
 ## Technical Implementation
@@ -37,7 +47,7 @@ The `GetHighestAttackingStatId` function determines whether to boost Attack or S
 - Takes into account current stat stage boosts/drops when making the determination
 
 ### Key Properties
-- **Redirection**: `redirectType = TYPE_ICE` - All Ice moves are redirected to this Pokémon
+- **Redirection**: `redirectType = TYPE_ICE` - All Ice moves are redirected to this Pokemon
 - **Breakable**: `breakable = TRUE` - Can be suppressed by Mold Breaker and similar abilities
 - **Absorption Result**: `ABSORB_RESULT_STAT` - Provides a stat boost upon successful absorption
 
@@ -45,7 +55,7 @@ The `GetHighestAttackingStatId` function determines whether to boost Attack or S
 
 ### Activation Conditions
 1. An Ice-type move is used anywhere on the battlefield
-2. The move would normally target any Pokémon other than the Ice Dew user
+2. The move would normally target any Pokemon other than the Ice Dew user
 3. The ability has not been suppressed by Mold Breaker effects
 
 ### Effect Resolution
@@ -55,7 +65,7 @@ The `GetHighestAttackingStatId` function determines whether to boost Attack or S
 4. **Priority**: The stat boost occurs immediately after move redirection
 
 ### Interaction with Multi-Target Moves
-- Ice moves that target multiple Pokémon (like Blizzard) will be completely redirected to the Ice Dew user
+- Ice moves that target multiple Pokemon (like Blizzard) will be completely redirected to the Ice Dew user
 - Only one stat boost is gained regardless of how many targets the original move had
 
 ## Strategic Applications
@@ -89,7 +99,7 @@ The `GetHighestAttackingStatId` function determines whether to boost Attack or S
 2. **Limited Type Coverage**: Only affects Ice-type moves
 3. **Situational Activation**: Requires opponents to use Ice-type attacks
 4. **Single Boost**: Only provides +1 stat boost per activation
-5. **Setup Dependency**: Best utilized by Pokémon that can capitalize on stat boosts
+5. **Setup Dependency**: Best utilized by Pokemon that can capitalize on stat boosts
 
 ### Meta Game Impact
 - **Tier Rating**: Medium - Strong defensive utility but limited by situational nature
@@ -153,4 +163,5 @@ Ice Dew follows the established pattern of type-specific redirection abilities w
 
 ## Conclusion
 
-Ice Dew represents a well-designed defensive ability that provides reliable protection from Ice-type moves while offering meaningful offensive momentum. Its adaptive stat boosting mechanism makes it valuable for a variety of Pokémon builds, while its clear limitations and counterplay options keep it balanced. The ability excels in its niche of Ice-type defense while maintaining strategic depth through its flexible boosting mechanics.
+Ice Dew represents a well-designed defensive ability that provides reliable protection from Ice-type moves while offering meaningful offensive momentum. Its adaptive stat boosting mechanism makes it valuable for a variety of Pokemon builds, while its clear limitations and counterplay options keep it balanced. The ability excels in its niche of Ice-type defense while maintaining strategic depth through its flexible boosting mechanics.
+

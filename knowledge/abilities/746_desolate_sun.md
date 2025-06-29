@@ -15,8 +15,6 @@ character_count: 294
 
 Desolate Sun creates extremely harsh sunlight that lasts until the user switches out and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves. Combines weather control with Ground immunity for strong defensive utility.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

@@ -15,8 +15,6 @@ character_count: 294
 
 Trash Heap combines Corrosion and Toxic Spill effects. Poison-type moves hit Steel-types for super effective damage and can poison any type. Upon entry, creates toxic waste that damages all non-Poison types by 1/8 HP each turn. Poison Heal users recover instead. Waste disappears when switched out.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,14 +22,14 @@ Trash Heap combines Corrosion and Toxic Spill effects. Poison-type moves hit Ste
 Trash Heap is a combination ability that merges two powerful poison-based abilities: Corrosion and Toxic Spill. It provides both offensive type coverage and battlefield control through environmental hazards.
 
 ### Corrosion Component
-- **Type effectiveness override**: Poison-type moves deal super effective (2x) damage to Steel-type Pokémon
+- **Type effectiveness override**: Poison-type moves deal super effective (2x) damage to Steel-type Pokemon
 - **Status bypass**: Can inflict poison status on any type, including Steel and Poison types
 - **Universal poisoning**: Ignores type-based poison immunity
 
 ### Toxic Spill Component
 - **Entry effect**: Upon switching in, creates toxic waste on the battlefield
-- **End-of-turn damage**: All non-Poison type Pokémon take 1/8 of their max HP in damage each turn
-- **Poison Heal interaction**: Pokémon with Poison Heal recover 1/8 HP instead of taking damage
+- **End-of-turn damage**: All non-Poison type Pokemon take 1/8 of their max HP in damage each turn
+- **Poison Heal interaction**: Pokemon with Poison Heal recover 1/8 HP instead of taking damage
 - **Exit effect**: Toxic waste disappears when the ability holder switches out or faints
 - **Monotype exception**: Does not activate during Poison-type monotype champion battles
 
@@ -76,7 +74,7 @@ constexpr Ability TrashHeap = {
 - **Stall potential**: Provides passive damage for bulky strategies
 
 ### Counters
-- **Type switching**: Switch to Poison-type Pokémon for immunity
+- **Type switching**: Switch to Poison-type Pokemon for immunity
 - **Magic Guard**: Blocks toxic waste damage entirely
 - **Rapid switching**: Minimize exposure to toxic waste
 - **Poison Heal**: Turn the effect into a benefit
@@ -90,9 +88,9 @@ constexpr Ability TrashHeap = {
 - **Status moves**: Can now poison any target regardless of type
 
 ### Common Users
-- Bulky Poison-type Pokémon that can set up field control
+- Bulky Poison-type Pokemon that can set up field control
 - Mixed attackers that want both offensive and utility presence
-- Pokémon on teams with multiple Poison Heal users
+- Pokemon on teams with multiple Poison Heal users
 - Stall-oriented Poison types that benefit from passive damage
 
 ### Competitive Usage Notes

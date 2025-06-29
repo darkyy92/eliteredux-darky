@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Surge Surfer boosts the Pokémon's Speed by 50% when Electric Terrain is active. Works with any source of Electric Terrain including moves like Electric Terrain, abilities like Electric Surge, and terrain-setting effects. The boost applies immediately and disappears when terrain ends.
-
-*Character count: 284*
+Surge Surfer boosts the Pokemon's Speed by 50% when Electric Terrain is active. Works with any source of Electric Terrain including moves like Electric Terrain, abilities like Electric Surge, and terrain-setting effects. The boost applies immediately and disappears when terrain ends.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -28,8 +26,8 @@ Surge Surfer boosts the Pokémon's Speed by 50% when Electric Terrain is active.
 
 **Activation Conditions:**
 - Electric Terrain must be active on the battlefield
-- The Pokémon with Surge Surfer must be on the field
-- Works regardless of which Pokémon or effect created the terrain
+- The Pokemon with Surge Surfer must be on the field
+- Works regardless of which Pokemon or effect created the terrain
 
 **Technical Implementation:**
 ```cpp
@@ -61,17 +59,17 @@ constexpr Ability SurgeSurfer = {
 - Excellent for Electric-type teams that naturally set Electric Terrain
 - Pairs well with Electric Surge users like Tapu Koko
 - Effective for hit-and-run strategies and revenge killing
-- Can turn slow Pokémon into dangerous speed threats
+- Can turn slow Pokemon into dangerous speed threats
 
 **Example Speed Calculations:**
-- Base 50 Speed → 75 Speed with Surge Surfer
-- Base 80 Speed → 120 Speed with Surge Surfer
-- Base 100 Speed → 150 Speed with Surge Surfer
-- Stacks with Choice Scarf: Base 80 → 120 (Surge Surfer) → 180 (with Scarf)
+- Base 50 Speed to 75 Speed with Surge Surfer
+- Base 80 Speed to 120 Speed with Surge Surfer
+- Base 100 Speed to 150 Speed with Surge Surfer
+- Stacks with Choice Scarf: Base 80 to 120 (Surge Surfer) to 180 (with Scarf)
 
 **Common Users:**
 - Alolan Raichu (signature ability)
-- Other Electric-type Pokémon in Elite Redux's expanded ability system
+- Other Electric-type Pokemon in Elite Redux's expanded ability system
 
 **Competitive Usage Notes:**
 - Highly situational but powerful when conditions are met

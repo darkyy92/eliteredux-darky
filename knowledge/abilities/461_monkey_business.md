@@ -13,19 +13,17 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokémon's Attack and Defense stats by one stage each. This debuffing effect bypasses Substitute and works on any opponent. Perfect for disrupting physical attackers immediately.
-
-*Character count: 287*
+Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokemon's Attack and Defense stats by one stage each. This debuffing effect bypasses Substitute and works on any opponent. Perfect for disrupting physical attackers immediately.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Monkey Business is an entry ability that automatically uses the move Tickle when the Pokémon switches into battle. This provides immediate battlefield control by weakening the opponent's physical capabilities.
+Monkey Business is an entry ability that automatically uses the move Tickle when the Pokemon switches into battle. This provides immediate battlefield control by weakening the opponent's physical capabilities.
 
 ### Activation Conditions
-- **Trigger**: Activates immediately when the Pokémon switches into battle
-- **Target**: Automatically targets the opposing Pokémon
+- **Trigger**: Activates immediately when the Pokemon switches into battle
+- **Target**: Automatically targets the opposing Pokemon
 - **Bypass**: Cannot be blocked by Substitute
 - **Accuracy**: Uses Tickle's 100% accuracy, so it cannot miss
 
@@ -67,7 +65,7 @@ The ability uses the `UseEntryMove` function which:
 - **Maximum**: Cannot reduce stats below -6 stages
 
 ### Strategic Implications
-- **Lead disruption**: Excellent on lead Pokémon to immediately weaken physical threats
+- **Lead disruption**: Excellent on lead Pokemon to immediately weaken physical threats
 - **Pivot utility**: Great for defensive pivots that want to debuff while switching
 - **Setup disruption**: Interrupts physical setup sweepers immediately
 - **Doubles synergy**: Can debuff both opponents in doubles format
@@ -77,7 +75,7 @@ The ability uses the `UseEntryMove` function which:
 - **Intimidate**: Stacks with Intimidate for -2 Attack total
 - **Defensive pivots**: Pairs well with U-turn, Volt Switch, or Teleport users
 - **Support movesets**: Complements other debuffing moves like Will-O-Wisp
-- **Bulky attackers**: Good on Pokémon that can tank hits after debuffing
+- **Bulky attackers**: Good on Pokemon that can tank hits after debuffing
 - **Prankster**: If paired with Prankster, follow-up status moves gain priority
 
 ### Counters and Limitations
@@ -90,11 +88,11 @@ The ability uses the `UseEntryMove` function which:
 
 ### Common Users
 This ability would typically be found on:
-- Primate Pokémon (thematic fit)
-- Support-oriented Pokémon
+- Primate Pokemon (thematic fit)
+- Support-oriented Pokemon
 - Defensive pivots
 - Anti-physical specialists
-- Pokémon with naturally high bulk to survive after debuffing
+- Pokemon with naturally high bulk to survive after debuffing
 
 ### Competitive Usage Notes
 - **Entry hazard synergy**: Combines well with Stealth Rock damage

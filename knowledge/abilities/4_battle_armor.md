@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokémon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
-
-*Character count: 285*
+This Pokemon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokemon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ This Pokémon's armor prevents critical hits from landing. Additionally, all inc
 Battle Armor in Elite Redux has been significantly enhanced from its original implementation:
 
 1. **Critical Hit Immunity**
-   - Completely prevents critical hits from occurring against this Pokémon
+   - Completely prevents critical hits from occurring against this Pokemon
    - This includes guaranteed critical hit moves like Frost Breath and Storm Throw
    - Also blocks critical hits from items like Scope Lens or moves like Focus Energy
 
@@ -40,7 +38,7 @@ The ability is implemented with two key properties:
 - Critical hit immunity (shared with Shell Armor)
 - Flat 20% damage reduction modifier
 
-The damage reduction is applied in the damage calculation formula after all other modifiers, effectively making the Pokémon take only 80% of the calculated damage.
+The damage reduction is applied in the damage calculation formula after all other modifiers, effectively making the Pokemon take only 80% of the calculated damage.
 
 ### Numerical Values/Percentages
 - **Critical Hit Prevention**: 100% (absolute immunity)
@@ -55,23 +53,23 @@ The damage reduction is applied in the damage calculation formula after all othe
 - **Other damage reduction**: Stacks multiplicatively (e.g., with Friend Guard)
 
 ### Strategic Implications
-- Excellent on defensive Pokémon and tanks
-- Particularly valuable on Pokémon with low Defense or Special Defense
+- Excellent on defensive Pokemon and tanks
+- Particularly valuable on Pokemon with low Defense or Special Defense
 - Removes the RNG element of critical hits in important battles
 - Makes stat calculations more predictable for defensive plays
 
 ### Example Damage Calculations
 For a move that would normally deal 100 damage:
-- Normal hit: 100 × 0.8 = **80 damage**
-- What would be a critical hit: 150 × 0.8 = **120 damage** → But crit is prevented, so still **80 damage**
-- Effective bulk increase: A Pokémon with 400 HP effectively has 500 HP worth of bulk
+- Normal hit: 100 x 0.8 = **80 damage**
+- What would be a critical hit: 150 x 0.8 = **120 damage** to But crit is prevented, so still **80 damage**
+- Effective bulk increase: A Pokemon with 400 HP effectively has 500 HP worth of bulk
 
 ### Common Users
-Battle Armor is available on various Pokémon including:
+Battle Armor is available on various Pokemon including:
 - Defensive Steel-types
-- Armored Pokémon like Crustle, Escavalier
+- Armored Pokemon like Crustle, Escavalier
 - Rock and Bug-type tanks
-- Various Pokémon as either changeable or innate abilities
+- Various Pokemon as either changeable or innate abilities
 
 ### Competitive Usage Notes
 - S-tier defensive ability combining two powerful effects
@@ -83,7 +81,7 @@ Battle Armor is available on various Pokémon including:
 ### Counters
 - **Fixed damage moves**: Seismic Toss, Night Shade bypass the reduction
 - **Status conditions**: Burn, Poison, etc. deal percentage-based damage
-- **Stat-lowering moves**: Reduce the Pokémon's defenses
+- **Stat-lowering moves**: Reduce the Pokemon's defenses
 - **Super effective moves**: Still deal significant damage despite reduction
 - **Knock Off**: Can remove items that further boost defense
 

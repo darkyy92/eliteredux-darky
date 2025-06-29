@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Crowned King combines three powerful effects: prevents opposing Pokémon from using held items like berries (Unnerve), raises Attack by one stage when knocking out a foe (Chilling Neigh), and raises Special Attack by one stage when defeating an opponent (Grim Neigh).
-
-*Character count: 297*
+Crowned King combines three powerful effects: prevents opposing Pokemon from using held items like berries (Unnerve), raises Attack by one stage when knocking out a foe (Chilling Neigh), and raises Special Attack by one stage when defeating an opponent (Grim Neigh).
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +23,7 @@ Crowned King is a triple-combination ability that merges three distinct effects 
 ### Core Mechanics
 
 **1. Unnerve Effect:**
-- Prevents opposing Pokémon from consuming berries and activating berry-based held items
+- Prevents opposing Pokemon from consuming berries and activating berry-based held items
 - Affects items like Focus Sash, Custap Berry, Eject Button, and all berries
 - Displays message "The opposing team is too nervous to use items!" on switch-in
 - Cannot be suppressed or negated
@@ -90,7 +88,7 @@ constexpr Ability CrownedKing = {
 - After 2 KOs: 598 Atk (+2), 598 SpA (+2)
 
 ### Common Users
-- Signature ability of legendary or mythical Pokémon
+- Signature ability of legendary or mythical Pokemon
 - Typically found on versatile mixed attackers
 - Often paired with diverse movepools covering both physical and special attacks
 
@@ -102,5 +100,5 @@ constexpr Ability CrownedKing = {
 
 ### Version History
 - Introduced as custom ability in Elite Redux
-- Based on combination of existing Pokémon abilities: Unnerve (Gen 5), Chilling Neigh (Gen 8), Grim Neigh (Gen 8)
+- Based on combination of existing Pokemon abilities: Unnerve (Gen 5), Chilling Neigh (Gen 8), Grim Neigh (Gen 8)
 - Represents royal/legendary status through combination of intimidation and battle prowess

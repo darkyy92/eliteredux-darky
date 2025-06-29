@@ -2,12 +2,22 @@
 id: 362
 name: Frozen Soul
 status: ai-generated
-character_count: 0
+character_count: 299
 ---
 
-# Frozen Soul (Ability #362)
+# Frozen Soul - Ability ID 362
 
-## Overview
+## In-Game Description
+"Gives priority to Ice-type moves when at full HP."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Frozen Soul grants +1 priority to all Ice-type moves when the user is at maximum HP. This powerful ability allows Ice-type attackers to strike first with moves like Ice Beam, Blizzard, or Icicle Crash, bypassing speed tiers entirely. The priority boost is lost if any damage is taken.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Frozen Soul is a priority-granting ability that gives Ice-type moves +1 priority when the user is at maximum HP. It is functionally identical to Gale Wings but for Ice-type moves instead of Flying-type moves, making it a powerful tool for Ice-type attackers who can maintain their health.
 
 ## Code Implementation
@@ -38,9 +48,9 @@ The ability uses the `GALE_WINGS_CLONE` macro (lines 128-133):
 ## Mechanics
 
 ### Activation Requirements
-1. **Maximum HP**: The Pokémon must have full HP (current HP = max HP)
+1. **Maximum HP**: The Pokemon must have full HP (current HP = max HP)
 2. **Ice-type Move**: The move being used must be Ice-type
-3. **Move Usage**: Only applies when the Pokémon is using a move
+3. **Move Usage**: Only applies when the Pokemon is using a move
 
 ### Priority System
 - Normal moves have priority 0
@@ -89,7 +99,7 @@ The ability uses the `GALE_WINGS_CLONE` macro (lines 128-133):
 2. **Type Limitation**: No priority on non-Ice moves
 3. **Predictable**: Opponents know to damage first to disable
 4. **Stealth Rock Vulnerability**: Ice types are often weak to Rock moves
-5. **Limited STAB Users**: Fewer Ice-type Pokémon compared to other types
+5. **Limited STAB Users**: Fewer Ice-type Pokemon compared to other types
 
 ### Comparison to Similar Abilities
 - **Gale Wings**: Same mechanics but for Flying-type moves
@@ -98,9 +108,9 @@ The ability uses the `GALE_WINGS_CLONE` macro (lines 128-133):
 - **Prankster**: +1 priority for status moves only
 - **Quick Draw**: 30% chance for +1 priority on any move
 
-## Pokémon with Frozen Soul
+## Pokemon with Frozen Soul
 
-Based on proto file analysis, the following Pokémon have access to Frozen Soul:
+Based on proto file analysis, the following Pokemon have access to Frozen Soul:
 
 ### Primary Ability Holders
 - **Vulpix (Alolan)**: Ice/Fairy type with solid special stats and Snow Warning synergy
@@ -110,10 +120,10 @@ Based on proto file analysis, the following Pokémon have access to Frozen Soul:
 - **Castform (Snowy)**: Ice-type form with Weather Control synergy
 
 ### Usage Patterns
-- Most common on Ice-type Pokémon with strong offensive stats
+- Most common on Ice-type Pokemon with strong offensive stats
 - Often paired with weather-setting abilities (Snow Warning)
 - Frequently combined with other defensive abilities as innates
-- Excellent on Pokémon with access to diverse Ice-type movepool
+- Excellent on Pokemon with access to diverse Ice-type movepool
 
 ## Related Abilities
 
@@ -158,7 +168,7 @@ Based on proto file analysis, the following Pokémon have access to Frozen Soul:
 
 ### Early Game Advantages
 - Priority Ice Beam can eliminate frail sweepers immediately
-- Forces opponents to lead with bulky Pokémon or priority users
+- Forces opponents to lead with bulky Pokemon or priority users
 - Excellent for applying immediate pressure in lead matchups
 
 ### Mid-Game Applications
@@ -173,8 +183,9 @@ Based on proto file analysis, the following Pokémon have access to Frozen Soul:
 
 ## Conclusion
 
-Frozen Soul is a high-impact ability that transforms Ice-type Pokémon into immediate threats when at full HP. Its strategic value lies in the constant pressure it applies to opponents, forcing them to prioritize dealing damage to disable the ability. While HP-dependent, skilled players can leverage healing support and careful positioning to maintain the advantage throughout battle.
+Frozen Soul is a high-impact ability that transforms Ice-type Pokemon into immediate threats when at full HP. Its strategic value lies in the constant pressure it applies to opponents, forcing them to prioritize dealing damage to disable the ability. While HP-dependent, skilled players can leverage healing support and careful positioning to maintain the advantage throughout battle.
 
 The ability rewards aggressive play while punishing passive strategies, making it excellent for fast-paced offensive teams that can protect their Frozen Soul user's HP while applying constant pressure with priority Ice moves. The synergy with hail weather and moves like Blizzard makes it particularly potent in weather-based team compositions.
 
 Ice-type moves' natural coverage against Dragon, Flying, Grass, and Ground types makes Frozen Soul users versatile revenge killers and offensive threats that can break through many common defensive strategies when properly supported.
+

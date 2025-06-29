@@ -5,13 +5,13 @@ status: ai-generated
 character_count: 286
 ---
 
-# Superheavy (N) - Ability #848
+# Superheavy (N) - Ability ID 848
 
-## Short Description
+## In-Game Description
 Steadfast + blocks phasing moves.
 
 ## Extended In-Game Description
-This innate ability combines two powerful defensive effects. When flinched, the Pokémon's Speed stat increases by one stage, helping it act faster on subsequent turns. Additionally, the Pokémon's immense weight prevents forced switching from moves like Roar, Whirlwind, Circle Throw, and Dragon Tail, maintaining field control even against disruption tactics.
+This innate ability combines two powerful defensive effects. When flinched, the Pokemon's Speed stat increases by one stage, helping it act faster on subsequent turns. Additionally, the Pokemon's immense weight prevents forced switching from moves like Roar, Whirlwind, Circle Throw, and Dragon Tail, maintaining field control even against disruption tactics.
 
 ## Key Mechanics
 - **Flinch Response**: Automatically raises Speed by +1 stage when flinched
@@ -20,9 +20,9 @@ This innate ability combines two powerful defensive effects. When flinched, the 
 - **Stacking**: Speed boost can stack up to +6 stages with repeated flinches
 
 ## Strategy & Usage
-Superheavy excels on defensive Pokémon that can absorb hits and punish flinch attempts. The phasing immunity is particularly valuable in competitive play, allowing setup sweepers to boost without fear of being forced out. The Speed increases from flinching can turn a slow tank into a surprisingly fast threat over time.
+Superheavy excels on defensive Pokemon that can absorb hits and punish flinch attempts. The phasing immunity is particularly valuable in competitive play, allowing setup sweepers to boost without fear of being forced out. The Speed increases from flinching can turn a slow tank into a surprisingly fast threat over time.
 
-## Known Pokémon
+## Known Pokemon
 - Makuhita Redux (Fire/Steel)
 - Hariyama Redux (Fire/Steel)
 

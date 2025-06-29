@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Comatose keeps the Pokémon in a permanent sleep-like state while remaining fully functional in battle. The Pokémon can use all moves normally despite appearing asleep and gains complete immunity to all status conditions including poison, burn, paralysis, freeze, and sleep itself.
-
-*Character count: 298*
+Comatose keeps the Pokemon in a permanent sleep-like state while remaining fully functional in battle. The Pokemon can use all moves normally despite appearing asleep and gains complete immunity to all status conditions including poison, burn, paralysis, freeze, and sleep itself.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

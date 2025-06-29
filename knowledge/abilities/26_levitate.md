@@ -15,8 +15,6 @@ character_count: 290
 
 Levitate grants complete immunity to all Ground-type moves and boosts the power of the user's Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down. Avoids Spikes damage.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -27,7 +25,7 @@ Levitate grants complete immunity to all Ground-type moves and boosts the power 
 - **Implementation**: Uses the `.levitate = TRUE` flag, processed through `CheckLevitatingEffects()`
 - **Affected Moves**: Earthquake, Earth Power, Magnitude, Dig, Sand Attack, Mud Shot, Spikes (when switching in), etc.
 - **Bypass Methods**: NONE - Cannot be negated by Gravity, Smack Down, or Thousand Arrows (unlike true Flying-types)
-- **Message**: Shows "{Pokémon} avoided the attack!" when hit by Ground moves
+- **Message**: Shows "{Pokemon} avoided the attack!" when hit by Ground moves
 
 ### Flying-Type Boost Mechanics:
 - **Multiplier**: 1.25x power boost to ALL Flying-type moves
@@ -80,8 +78,8 @@ static AbilityEnum CheckLevitatingEffects(u8 battlerId) {
 4. **Utility Counter**: Immune to entry hazard damage from Spikes
 
 ### Example Damage Calculations:
-- **Hurricane** (110 BP) with Levitate: 110 × 1.25 = 137.5 effective BP
-- **Air Slash** (75 BP) with Levitate: 75 × 1.25 = 93.75 effective BP
+- **Hurricane** (110 BP) with Levitate: 110 x 1.25 = 137.5 effective BP
+- **Air Slash** (75 BP) with Levitate: 75 x 1.25 = 93.75 effective BP
 - **Earthquake** vs Levitate user: 0 damage (complete immunity)
 
 ### Common Users:

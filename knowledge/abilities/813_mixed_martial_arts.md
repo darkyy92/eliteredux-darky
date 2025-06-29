@@ -15,8 +15,6 @@ character_count: 298
 
 Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, allowing them to benefit from abilities like Iron Fist, Strong Jaw, and similar move-type-based enhancements. This transforms typical Normal attacks into martial arts techniques with increased power and special interactions.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,14 +22,14 @@ Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, all
 Mixed Martial Arts modifies Normal-type moves by adding internal flags that categorize them as both punching and kicking moves. This allows Normal moves to interact with abilities and items that specifically boost punch or kick moves.
 
 ### Activation Conditions
-- Triggers on any Normal-type move used by the Pokémon with this ability
+- Triggers on any Normal-type move used by the Pokemon with this ability
 - Works for both physical and special Normal-type moves
 - Functions regardless of the move's actual animation or flavor text
 
 ### Technical Implementation
 **Current Status**: The ability is currently implemented as a stub in the codebase with only `.breakable = TRUE` and no functional code.
 
-**Expected Implementation**: Should modify the move flag checking system to treat Normal moves as having both `FLAG_IRON_FIST_BOOST` and potentially kick-move flags when used by a Pokémon with this ability.
+**Expected Implementation**: Should modify the move flag checking system to treat Normal moves as having both `FLAG_IRON_FIST_BOOST` and potentially kick-move flags when used by a Pokemon with this ability.
 
 ```c
 // Expected implementation pattern
@@ -64,33 +62,33 @@ All Normal-type moves would be considered both Punch and Kick moves, including:
 
 ### Example Damage Calculations
 **Quick Attack with Iron Fist boost**:
-- Base: 40 BP × 1.5 (STAB) = 60 effective BP
-- With Mixed Martial Arts: 40 BP × 1.5 (STAB) × 1.3 (Iron Fist) = 78 effective BP
+- Base: 40 BP x 1.5 (STAB) = 60 effective BP
+- With Mixed Martial Arts: 40 BP x 1.5 (STAB) x 1.3 (Iron Fist) = 78 effective BP
 - 30% damage increase over standard Quick Attack
 
 **Hyper Beam combination**:
-- Base: 150 BP × 1.5 (STAB) = 225 effective BP  
-- With ability: 150 BP × 1.5 (STAB) × 1.3 (Iron Fist) = 292.5 effective BP
+- Base: 150 BP x 1.5 (STAB) = 225 effective BP  
+- With ability: 150 BP x 1.5 (STAB) x 1.3 (Iron Fist) = 292.5 effective BP
 - Becomes one of the strongest moves in the game
 
 ### Common Users
 *Note: This is a theoretical analysis since the ability is not fully implemented*
 
 Would be most effective on:
-- Normal-type Pokémon with high Attack stats
-- Pokémon with access to diverse Normal-type movesets
+- Normal-type Pokemon with high Attack stats
+- Pokemon with access to diverse Normal-type movesets
 - Mixed attackers who can utilize both physical and special Normal moves
 
 ### Competitive Usage Notes
 - **Tier Impact**: Would significantly raise the viability of Normal-type attackers
 - **Counters**: Steel and Rock types resist Normal moves regardless of boosting
-- **Team Synergy**: Pairs well with Pokémon that can remove Steel/Rock types
+- **Team Synergy**: Pairs well with Pokemon that can remove Steel/Rock types
 - **Item Synergy**: Life Orb, Choice items would stack multiplicatively
 
 ### Counters
-- **Steel-type Pokémon**: Immune to Normal-type moves entirely
-- **Rock-type Pokémon**: Resist Normal moves, reducing effectiveness
-- **Ghost-type Pokémon**: Immune to Normal-type physical moves
+- **Steel-type Pokemon**: Immune to Normal-type moves entirely
+- **Rock-type Pokemon**: Resist Normal moves, reducing effectiveness
+- **Ghost-type Pokemon**: Immune to Normal-type physical moves
 - **Intimidate**: Reduces physical Normal move damage
 - **Burn**: Halves physical Normal move damage
 

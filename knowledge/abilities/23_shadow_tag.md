@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shadow Tag traps opposing Pokémon, preventing them from switching out through normal means. Ghost-type Pokémon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape.
-
-*Character count: 296*
+Shadow Tag traps opposing Pokemon, preventing them from switching out through normal means. Ghost-type Pokemon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -50,7 +48,7 @@ constexpr Ability ShadowTag = {
    - AI heavily values this ability for its trapping potential
 
 ### Escape Methods
-Trapped Pokémon can only escape via:
+Trapped Pokemon can only escape via:
 - **KOing the Shadow Tag user**
 - **Switching moves**: U-turn, Volt Switch, Flip Turn, Parting Shot
 - **Baton Pass**: Passes stats and switches
@@ -65,7 +63,7 @@ Trapped Pokémon can only escape via:
    - Provides both multi-hit and trapping effects
 
 2. **Similar Trapping Abilities**:
-   - **Arena Trap**: Traps only grounded Pokémon
+   - **Arena Trap**: Traps only grounded Pokemon
    - **Magnet Pull**: Traps only Steel-types
    - Shadow Tag is the most universal trapper
 
@@ -86,10 +84,10 @@ Trapped Pokémon can only escape via:
 - Forces Ghost-type or escape move inclusion
 - Creates team building restrictions
 
-### Pokémon with Shadow Tag
+### Pokemon with Shadow Tag
 In Elite Redux, Shadow Tag appears on:
 - Traditional users (Wobbuffet, Wynaut)
-- Elite Redux custom forms and Pokémon
+- Elite Redux custom forms and Pokemon
 - Both as changeable abilities and innate abilities
 
 ### Competitive Usage Notes

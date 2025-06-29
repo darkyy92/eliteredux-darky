@@ -13,15 +13,13 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Toxic Boost increases the Pokémon's physical Attack by 50% when poisoned (regular or badly poisoned). The ability completely prevents poison damage both in battle and in the field. Works with self-inflicted poison from Toxic Orb. The Attack boost applies immediately upon becoming poisoned.
-
-*Character count: 294*
+Toxic Boost increases the Pokemon's physical Attack by 50% when poisoned (regular or badly poisoned). The ability completely prevents poison damage both in battle and in the field. Works with self-inflicted poison from Toxic Orb. The Attack boost applies immediately upon becoming poisoned.
 
 ## Detailed Mechanical Explanation
 Toxic Boost is a powerful ability that turns the normally harmful poison status into an offensive advantage:
 
 **Attack Boost Mechanics:**
-- Grants a 1.5x multiplier to physical Attack when the Pokémon is poisoned
+- Grants a 1.5x multiplier to physical Attack when the Pokemon is poisoned
 - Works with both regular poison and badly poisoned (toxic) status
 - The boost applies only to physical moves, not special moves
 - Calculated as a damage multiplier during damage calculation, not a stat stage change
@@ -32,7 +30,7 @@ Toxic Boost is a powerful ability that turns the normally harmful poison status 
   - Regular poison damage (1/8 max HP per turn)
   - Badly poisoned increasing damage (1/16, 2/16, 3/16, etc.)
   - Field poison damage when walking in the overworld
-- The Pokémon can still become poisoned and suffers other poison effects (like being unable to use Rest)
+- The Pokemon can still become poisoned and suffers other poison effects (like being unable to use Rest)
 - Toxic Waste field effect damage is also prevented
 
 **Strategic Applications:**

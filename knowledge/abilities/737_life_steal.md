@@ -15,13 +15,11 @@ character_count: 288
 
 Life Steal drains 1/10 of each opponent's maximum HP at the end of every turn and restores that amount to the user. Affects all living opponents simultaneously. Ignores substitutes and type immunities but can be blocked by Magic Guard. Provides consistent recovery and offensive pressure.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Life Steal is an aggressive end-of-turn ability that drains HP from all opposing Pokémon and heals the user. It provides both offensive pressure and defensive recovery, making it valuable for both offensive and defensive builds.
+Life Steal is an aggressive end-of-turn ability that drains HP from all opposing Pokemon and heals the user. It provides both offensive pressure and defensive recovery, making it valuable for both offensive and defensive builds.
 
 ### Activation Conditions
 - **Timing**: Activates at the end of each turn
@@ -58,7 +56,7 @@ The ability uses `BattleScript_AbilityDrainsHp` which:
 - Calls `BattleScript_AbsorbLeech` for the healing effect
 
 ### Important Interactions
-- **Magic Guard protection**: Cannot drain HP from Pokémon with Magic Guard
+- **Magic Guard protection**: Cannot drain HP from Pokemon with Magic Guard
 - **Substitute bypass**: Ignores substitute protection (HITMARKER_IGNORE_SUBSTITUTE)
 - **Disguise bypass**: Ignores Disguise protection (HITMARKER_IGNORE_DISGUISE)
 - **Passive damage**: Marked as passive damage, affecting certain interactions
@@ -107,7 +105,7 @@ The ability uses `BattleScript_AbilityDrainsHp` which:
 - Balanced around Magic Guard counterplay
 
 ### Common Users
-- Bulky Pokémon that benefit from consistent recovery
+- Bulky Pokemon that benefit from consistent recovery
 - Setup sweepers that need time to boost
-- Pokémon with other abilities that synergize with HP management
-- Doubles-focused Pokémon for maximum impact
+- Pokemon with other abilities that synergize with HP management
+- Doubles-focused Pokemon for maximum impact

@@ -13,9 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Run Away guarantees successful escape from wild Pokémon battles regardless of speed differences. Additionally, when any of the user's stats are lowered by an opponent's move or ability, Run Away triggers and raises the user's Speed by 2 stages, providing a defensive counter-stat boost mechanism.
-
-*Character count: 287*
+Run Away guarantees successful escape from wild Pokemon battles regardless of speed differences. Additionally, when any of the user's stats are lowered by an opponent's move or ability, Run Away triggers and raises the user's Speed by 2 stages, providing a defensive counter-stat boost mechanism.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Run Away guarantees successful escape from wild Pokémon battles regardless of s
 **RUN AWAY** is a dual-purpose utility ability that provides guaranteed escape from wild battles and defensive stat boost mechanics in trainer battles.
 
 ### Escape Mechanics:
-- **Wild Battle Effect**: Guarantees 100% success when attempting to flee from wild Pokémon encounters
+- **Wild Battle Effect**: Guarantees 100% success when attempting to flee from wild Pokemon encounters
 - **Override Speed**: Bypasses normal speed-based flee calculations entirely
 - **Special Locations**: 
   - In Battle Pyramid: Still uses modified speed calculation but with additional bonuses
@@ -33,7 +31,7 @@ Run Away guarantees successful escape from wild Pokémon battles regardless of s
 ### Stat Boost Mechanics:
 - **Trigger**: When any stat is lowered by an opponent's move or ability
 - **Effect**: Raises user's Speed by 2 stages (+100% speed at +2)
-- **Activation Message**: Shows ability popup and "{Pokémon}'s Speed rose sharply!" message
+- **Activation Message**: Shows ability popup and "{Pokemon}'s Speed rose sharply!" message
 - **Stage Limit**: Will not activate if Speed is already at maximum (+6 stages)
 - **Counter Mechanics**: Similar to Defiant/Competitive but specifically for Speed
 
@@ -92,7 +90,7 @@ goto BattleScript_DefiantActivates_Effect
 ### Competitive Analysis:
 **Strengths:**
 - Punishes stat-drop strategies with speed boosts
-- Provides utility in catching wild Pokémon (guaranteed escape to heal/restock)
+- Provides utility in catching wild Pokemon (guaranteed escape to heal/restock)
 - Unexpected momentum against Intimidate users
 
 **Weaknesses:**
@@ -125,8 +123,8 @@ goto BattleScript_DefiantActivates_Effect
 - Elite Redux: Added defensive stat boost mechanic, making it competitively relevant
 
 ### Usage Examples:
-1. **Wild Encounter**: Player wants to flee from strong wild Pokémon - Run Away guarantees success
-2. **Intimidate Counter**: Opponent switches in Intimidate user → Run Away activates → Speed +2, potentially outspeeding revenge killers
-3. **Sticky Web Response**: Entry hazard lowers Speed → Run Away triggers → Net result is +1 Speed instead of -1
+1. **Wild Encounter**: Player wants to flee from strong wild Pokemon - Run Away guarantees success
+2. **Intimidate Counter**: Opponent switches in Intimidate user to Run Away activates to Speed +2, potentially outspeeding revenge killers
+3. **Sticky Web Response**: Entry hazard lowers Speed to Run Away triggers to Net result is +1 Speed instead of -1
 
 **Note**: Run Away is currently missing from the main abilities array in `abilities.cc` but has full battle logic implementation. The ability functions properly through the battle system's ability checking mechanisms.

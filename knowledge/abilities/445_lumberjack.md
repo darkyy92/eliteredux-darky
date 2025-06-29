@@ -15,8 +15,6 @@ character_count: 291
 
 Lumberjack deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage from Grass-type attacks. Both offensive and defensive effects activate against any Pokemon with Grass typing, including dual-types. Perfect for countering Grass-heavy teams and walls. Also affects Forest Curse victims.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

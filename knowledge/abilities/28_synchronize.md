@@ -8,20 +8,18 @@ character_count: 295
 # Synchronize - Ability ID 28
 
 ## In-Game Description
-"Enemies inflicting status on this Pokémon get same status."
+"Enemies inflicting status on this Pokemon get same status."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokémon have same nature when leading party. Status mirror that punishes status users. Deters status strategies.
-
-*Character count: 295*
+When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokemon have same nature when leading party. Status mirror that punishes status users. Deters status strategies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Synchronize reflects status conditions back to the Pokémon that inflicted them. When a Pokémon with Synchronize is statused, the ability immediately attempts to inflict the same status on the attacker.
+Synchronize reflects status conditions back to the Pokemon that inflicted them. When a Pokemon with Synchronize is statused, the ability immediately attempts to inflict the same status on the attacker.
 
 ### Technical Implementation
 The ability uses two effect types:
@@ -53,10 +51,10 @@ Key code elements:
 
 ### Out-of-Battle Effects
 
-**Wild Pokémon encounters:**
-- **Gen 8 mechanics**: 100% chance for wild Pokémon to have the same nature
-- Lead Pokémon must have Synchronize
-- Does not work on gift Pokémon or static encounters in some games
+**Wild Pokemon encounters:**
+- **Gen 8 mechanics**: 100% chance for wild Pokemon to have the same nature
+- Lead Pokemon must have Synchronize
+- Does not work on gift Pokemon or static encounters in some games
 
 ### Implementation Locations
 - Battle logic: `/src/battle_util.c` (lines 4421-4458)
@@ -65,13 +63,13 @@ Key code elements:
 - Battle script: `/data/battle_scripts_1.s`
 - Config flags: `/include/constants/battle_config.h`
 
-### Pokémon with Synchronize
+### Pokemon with Synchronize
 Common users include:
 - Munna/Musharna
 - Espeon
 - Umbreon  
 - Gardevoir line
-- Various Psychic-type Pokémon
+- Various Psychic-type Pokemon
 
 ### Strategic Implications
 
@@ -89,7 +87,7 @@ Common users include:
 ### Nature Hunting Applications
 - Essential for competitive breeding
 - 100% nature transfer rate makes finding specific natures trivial
-- Synchronize Pokémon of each useful nature recommended
+- Synchronize Pokemon of each useful nature recommended
 - Common choices: Modest, Adamant, Jolly, Timid
 
 ### Synergies
@@ -98,14 +96,14 @@ Common users include:
 - **Heal Bell/Aromatherapy**: Team support after reflecting
 
 ### Counters
-- Already statused Pokémon
+- Already statused Pokemon
 - Status immune types (Electric vs paralysis, Fire vs burn)
 - Substitute blocks direct status
 - Magic Guard prevents status damage even if reflected
 - Simply avoiding status moves
 
 ### Competitive Usage Notes
-Synchronize provides moderate defensive utility by creating risk for status users. The nature synchronization effect is invaluable for team building. In battle, it's best on Pokémon that can function despite status or have ways to cure it. The psychological effect often outweighs the practical application, as opponents may avoid using status moves entirely.
+Synchronize provides moderate defensive utility by creating risk for status users. The nature synchronization effect is invaluable for team building. In battle, it's best on Pokemon that can function despite status or have ways to cure it. The psychological effect often outweighs the practical application, as opponents may avoid using status moves entirely.
 
 ### AI Considerations
 - AI Rating: 4/10 (moderate defensive value)

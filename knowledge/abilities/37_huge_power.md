@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Huge Power doubles the Pokémon's Attack stat before stat stage modifiers are applied. This multiplies the effective Attack by 2.0x, making physical moves significantly more powerful. Works with stat stages, items, and other modifiers that are applied after. Identical effect to Pure Power.
-
-*Character count: 287*
+Huge Power doubles the Pokemon's Attack stat before stat stage modifiers are applied. This multiplies the effective Attack by 2.0x, making physical moves significantly more powerful. Works with stat stages, items, and other modifiers that are applied after. Identical effect to Pure Power.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,13 +23,13 @@ Huge Power doubles the Pokémon's Attack stat before stat stage modifiers are ap
 ### Stat Modification Mechanics:
 - **Trigger**: Applied during stat calculation (onStat hook)
 - **Effect**: Multiplies Attack stat by 2.0 before other modifiers
-- **Application Order**: Base stat → Huge Power → stat stages → items/other effects
+- **Application Order**: Base stat to Huge Power to stat stages to items/other effects
 - **Stat Type**: Only affects STAT_ATK (Attack), no other stats modified
 
 ### Calculation Order:
 1. **Base Attack stat** (from species data)
-2. **Huge Power multiplication** (×2.0)
-3. **Stat stage modifiers** (+1 Attack = ×1.5, etc.)
+2. **Huge Power multiplication** (x2.0)
+3. **Stat stage modifiers** (+1 Attack = x1.5, etc.)
 4. **Item effects** (Choice Band, Life Orb, etc.)
 5. **Other ability effects** (Guts, Hustle damage multiplier, etc.)
 
@@ -56,17 +54,17 @@ constexpr Ability HugePower = {
 };
 ```
 
-### Pokémon Distribution in Elite Redux:
-- **As Main Ability**: Various Pokémon including select legendaries
+### Pokemon Distribution in Elite Redux:
+- **As Main Ability**: Various Pokemon including select legendaries
 - **As Innate Ability**: Common on physical attackers across multiple evolution lines
-- **Notable Users**: Azumarill line, Mawile, and many custom Elite Redux Pokémon
+- **Notable Users**: Azumarill line, Mawile, and many custom Elite Redux Pokemon
 - **Pure Power Users**: Meditite/Medicham line (functionally identical)
 
 ### Competitive Analysis:
 - **Power Level**: Extremely high - effectively doubles physical damage output
 - **Synergy**: Exceptional with high base Attack stats and physical movesets
 - **Counters**: Status moves (burn), defensive abilities, switching tactics
-- **Team Role**: Enables frail Pokémon to become physical powerhouses
+- **Team Role**: Enables frail Pokemon to become physical powerhouses
 
 ### Common Misconceptions:
 - **NOT a damage multiplier**: Affects the stat itself, not final damage calculation
@@ -82,5 +80,5 @@ constexpr Ability HugePower = {
 
 ### Version History:
 - **Gen 3**: Introduced on Azurill/Azumarill and Meditite/Medicham
-- **Elite Redux**: Expanded to numerous Pokémon as both main and innate ability
+- **Elite Redux**: Expanded to numerous Pokemon as both main and innate ability
 - **Implementation**: Uses modern callback system with precise stat timing

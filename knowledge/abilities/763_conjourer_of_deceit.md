@@ -13,9 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Combines Magic Guard and Magic Bounce effects. Prevents all indirect damage from status conditions, weather, entry hazards, recoil, and items. Additionally bounces back all status moves and entry hazard moves to the user, making this Pokémon nearly untouchable by most support moves.
-
-*Character count: 283*
+Combines Magic Guard and Magic Bounce effects. Prevents all indirect damage from status conditions, weather, entry hazards, recoil, and items. Additionally bounces back all status moves and entry hazard moves to the user, making this Pokemon nearly untouchable by most support moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Combines Magic Guard and Magic Bounce effects. Prevents all indirect damage from
 Conjourer of Deceit is an incredibly powerful defensive ability that combines two of the most protective abilities in the game: Magic Guard and Magic Bounce. This creates a nearly impenetrable defensive wall against indirect damage and status manipulation.
 
 ### Magic Guard Component
-The Magic Guard component prevents ALL indirect damage, protecting the Pokémon from:
+The Magic Guard component prevents ALL indirect damage, protecting the Pokemon from:
 
 **Status Condition Damage:**
 - Burn damage (normally 1/16 HP per turn)
@@ -104,7 +102,7 @@ constexpr Ability ConjurerOfDeceit = {
 
 **Strategic Counters:**
 - **Mixed attackers**: Focus purely on damage-dealing moves
-- **Prankster users**: Dark-type immunity to Prankster can still work if the Pokémon isn't Dark-type
+- **Prankster users**: Dark-type immunity to Prankster can still work if the Pokemon isn't Dark-type
 - **Contact punishment**: Rocky Helmet, Static, Flame Body still work on contact
 
 ### Common Users
@@ -132,9 +130,9 @@ With Magic Guard active:
 - 3-layer Spikes: 0 damage on switch-in instead of 1/4 HP
 
 With Magic Bounce active:
-- Opponent's Thunder Wave → Bounced back to paralyze the user
-- Opponent's Stealth Rock → Reflected to their side of the field
-- Opponent's Taunt → Bounced back to prevent their own status moves
+- Opponent's Thunder Wave to Bounced back to paralyze the user
+- Opponent's Stealth Rock to Reflected to their side of the field
+- Opponent's Taunt to Bounced back to prevent their own status moves
 
 ### Version History
 - Introduced in Elite Redux as Mega Meowscarada's signature ability

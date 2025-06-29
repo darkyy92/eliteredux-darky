@@ -15,8 +15,6 @@ character_count: 288
 
 Kunoichi Blade combines Technician and Skill Link effects. Moves with 60 BP or less get a 1.5x power boost, while multi-hit moves like Bullet Seed and Rock Blast always hit the maximum number of times (5 hits). Perfect for multi-hit builds with guaranteed consistency and offensive power.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -29,7 +27,7 @@ Kunoichi's Blade is a unique hybrid ability that combines two distinct offensive
 #### Technician Component
 - **Power threshold**: Only affects moves with 60 base power or less
 - **Damage calculation**: Applied as a 1.5x multiplier to base power
-- **Move examples**: Bullet Seed (25 BP → 37.5 BP per hit), Rock Blast (25 BP → 37.5 BP per hit)
+- **Move examples**: Bullet Seed (25 BP to 37.5 BP per hit), Rock Blast (25 BP to 37.5 BP per hit)
 - **Timing**: Applied during damage calculation phase
 
 #### Skill Link Component
@@ -58,18 +56,18 @@ The combination creates powerful synergy:
 ### Move Power Calculations
 **Example with Bullet Seed:**
 - Base power: 25 BP per hit
-- With Technician: 25 × 1.5 = 37.5 BP per hit
+- With Technician: 25 x 1.5 = 37.5 BP per hit
 - With Skill Link: Always 5 hits guaranteed
-- Total effective power: 37.5 × 5 = 187.5 BP
-- **Compared to normal Bullet Seed**: 25 × (2-5 random hits) = 50-125 BP average
+- Total effective power: 37.5 x 5 = 187.5 BP
+- **Compared to normal Bullet Seed**: 25 x (2-5 random hits) = 50-125 BP average
 
 ### Optimal Move Coverage
 **Best moves for Kunoichi's Blade:**
-- **Bullet Seed** (Grass): 25 BP → 187.5 total effective BP
-- **Rock Blast** (Rock): 25 BP → 187.5 total effective BP  
-- **Icicle Spear** (Ice): 25 BP → 187.5 total effective BP
-- **Pin Missile** (Bug): 25 BP → 187.5 total effective BP
-- **Bone Rush** (Ground): 25 BP → 187.5 total effective BP
+- **Bullet Seed** (Grass): 25 BP to 187.5 total effective BP
+- **Rock Blast** (Rock): 25 BP to 187.5 total effective BP  
+- **Icicle Spear** (Ice): 25 BP to 187.5 total effective BP
+- **Pin Missile** (Bug): 25 BP to 187.5 total effective BP
+- **Bone Rush** (Ground): 25 BP to 187.5 total effective BP
 
 **Other Technician-boosted moves:**
 - Moves ≤60 BP that aren't multi-hit still get 1.5x boost
@@ -84,19 +82,19 @@ The combination creates powerful synergy:
 
 ### Important Interactions
 #### Power Boosting Effects
-- **STAB**: Applied after Technician boost (37.5 × 1.5 = 56.25 BP per hit)
+- **STAB**: Applied after Technician boost (37.5 x 1.5 = 56.25 BP per hit)
 - **Life Orb**: Stacks with both components for massive damage
 - **Choice items**: Provide additional multipliers on top of ability effects
 - **Weather boosts**: Sun/Rain boost compatible move types further
 
 #### Defensive Interactions
 - **Sturdy/Focus Sash**: Bypassed by guaranteed multi-hits
-- **Substitute**: Broken by first hit, remaining hits damage the Pokémon
-- **Rocky Helmet/Iron Barbs**: User takes damage for each hit (5× recoil)
+- **Substitute**: Broken by first hit, remaining hits damage the Pokemon
+- **Rocky Helmet/Iron Barbs**: User takes damage for each hit (5x recoil)
 - **Contact moves**: Multi-hit contact moves trigger contact effects multiple times
 
 ### Common Users and Team Roles
-**Ideal Pokémon characteristics:**
+**Ideal Pokemon characteristics:**
 - High Attack or Special Attack stats
 - Access to multiple multi-hit moves
 - Good Speed or bulk to use the ability effectively
@@ -115,7 +113,7 @@ The combination creates powerful synergy:
 - **Setup potential**: Consistent damage makes setup more viable
 
 ### Potential Weaknesses
-- **Rocky Helmet users**: Take 5× contact damage from multi-hit contact moves
+- **Rocky Helmet users**: Take 5x contact damage from multi-hit contact moves
 - **Rough Skin/Iron Barbs**: Similar recoil multiplication
 - **Ability suppression**: Mold Breaker negates both components
 - **Move PP**: Multi-hit moves often have lower PP, requiring PP management

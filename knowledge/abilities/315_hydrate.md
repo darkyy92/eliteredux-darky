@@ -2,27 +2,29 @@
 id: 315
 name: Hydrate
 status: ai-generated
-character_count: 296
+character_count: 284
 ---
 
-# Hydrate (Ability #315)
+# Hydrate - Ability ID 315
 
-## Basic Information
+## In-Game Description
+"Normal-type moves become Water and Water gains STAB."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Converts all Normal-type moves to Water-type with 20% power boost and STAB. Includes physical moves like Tackle, special moves like Swift, and status moves. Water moves gain rain weather benefits and resist Fire/Ground/Rock but are resisted by Grass/Dragon. Excellent for rain teams.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **ID**: 315
 - **Name**: Hydrate
 - **Type**: ATE Ability (Type-changing ability)
 - **Breakable**: No
 - **Implementation**: Uses `ATE_ABILITY(TYPE_WATER)` macro
 
-## In-Game Description
-"Normal-type moves become Water and Water gains STAB."
-
-## Extended In-Game Description
-Hydrate transforms all Normal-type moves used by the Pokémon into Water-type attacks, gaining a 20% power boost and STAB benefits. This includes physical moves like Tackle and Body Slam, special moves like Swift and Hyper Beam, and status moves. Water-type moves are boosted by rain weather and resisted by Grass/Dragon types. Perfect for versatile Water attackers.
-
-Character count: 296
-
-## Technical Implementation
+### Technical Implementation
 
 ### Core Mechanism
 ```cpp
@@ -67,18 +69,18 @@ constexpr Ability Hydrate = {
 
 ### Move Examples
 **Physical Moves Converted**:
-- Tackle → Water Tackle (40 → 48 power + STAB)
-- Body Slam → Water Body Slam (85 → 102 power + STAB)
-- Double-Edge → Water Double-Edge (120 → 144 power + STAB)
+- Tackle to Water Tackle (40 to 48 power + STAB)
+- Body Slam to Water Body Slam (85 to 102 power + STAB)
+- Double-Edge to Water Double-Edge (120 to 144 power + STAB)
 
 **Special Moves Converted**:
-- Swift → Water Swift (60 → 72 power + STAB, never misses)
-- Hyper Beam → Water Hyper Beam (150 → 180 power + STAB)
-- Tri Attack → Water Tri Attack (80 → 96 power + STAB)
+- Swift to Water Swift (60 to 72 power + STAB, never misses)
+- Hyper Beam to Water Hyper Beam (150 to 180 power + STAB)
+- Tri Attack to Water Tri Attack (80 to 96 power + STAB)
 
 **Status Moves Converted**:
-- Thunder Wave → Water Thunder Wave (still causes paralysis)
-- Toxic → Water Toxic (still badly poisons)
+- Thunder Wave to Water Thunder Wave (still causes paralysis)
+- Toxic to Water Toxic (still badly poisons)
 
 ## Strategic Applications
 
@@ -96,16 +98,16 @@ constexpr Ability Hydrate = {
 ### Competitive Use Cases
 1. **Rain Teams**: Excellent addition to rain-based strategies
 2. **Mixed Attackers**: Benefits both physical and special Normal moves
-3. **Utility Pokémon**: Status moves become Water-type for type-specific interactions
+3. **Utility Pokemon**: Status moves become Water-type for type-specific interactions
 
 ## Similar Abilities
-- **Pixilate**: Converts Normal → Fairy (same mechanics)
-- **Refrigerate**: Converts Normal → Ice (same mechanics)  
-- **Aerilate**: Converts Normal → Flying (same mechanics)
-- **Galvanize**: Converts Normal → Electric (same mechanics)
+- **Pixilate**: Converts Normal to Fairy (same mechanics)
+- **Refrigerate**: Converts Normal to Ice (same mechanics)  
+- **Aerilate**: Converts Normal to Flying (same mechanics)
+- **Galvanize**: Converts Normal to Electric (same mechanics)
 
-## Pokémon That Can Have This Ability
-*Note: Specific Pokémon data would need to be extracted from SpeciesList.textproto*
+## Pokemon That Can Have This Ability
+*Note: Specific Pokemon data would need to be extracted from SpeciesList.textproto*
 
 ## Battle Interactions
 
@@ -116,7 +118,7 @@ constexpr Ability Hydrate = {
 
 ### With Items
 - **Mystic Water**: Boosts converted Water moves by 1.2x
-- **Life Orb**: Stacks with conversion boost (1.2x × 1.3x)
+- **Life Orb**: Stacks with conversion boost (1.2x x 1.3x)
 - **Choice Items**: Work normally with converted moves
 
 ### With Other Abilities

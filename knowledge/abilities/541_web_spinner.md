@@ -13,14 +13,12 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Web Spinner automatically uses String Shot when the Pokémon switches into battle, harshly lowering the Speed of all opponents by 2 stages. This switch-in attack has 100% accuracy and targets both opposing Pokémon in double battles. Perfect for crippling faster threats immediately.
-
-*Character count: 296*
+Web Spinner automatically uses String Shot when the Pokemon switches into battle, harshly lowering the Speed of all opponents by 2 stages. This switch-in attack has 100% accuracy and targets both opposing Pokemon in double battles. Perfect for crippling faster threats immediately.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Web Spinner is a switch-in ability that automatically executes String Shot when the Pokémon enters battle.
+Web Spinner is a switch-in ability that automatically executes String Shot when the Pokemon enters battle.
 
 ### Core Mechanics
 - **Trigger**: Activates immediately upon switching into battle
@@ -28,7 +26,7 @@ Web Spinner is a switch-in ability that automatically executes String Shot when 
 - **Effect**: Harshly lowers Speed by 2 stages (-2 Speed)
 - **Accuracy**: 100% (cannot miss)
 - **PP**: Uses String Shot's base PP (20), but doesn't consume PP when triggered by ability
-- **Target**: Both opposing Pokémon in double battles, single opponent in singles
+- **Target**: Both opposing Pokemon in double battles, single opponent in singles
 
 ### Implementation Details
 ```cpp
@@ -43,11 +41,11 @@ constexpr Ability WebSpinner = {
 - **Base PP**: 20
 - **Accuracy**: 100%
 - **Effect**: EFFECT_SPEED_DOWN_2 (harshly lowers Speed)
-- **Target**: BOTH (all opposing Pokémon)
+- **Target**: BOTH (all opposing Pokemon)
 - **Affected by**: Magic Coat, Mirror Move
 
 ### Activation Conditions
-- Pokémon must successfully switch into battle
+- Pokemon must successfully switch into battle
 - Works on initial deployment and when switching in mid-battle
 - Triggers before any other switch-in abilities or effects
 - Cannot be suppressed by most ability-nullifying effects since it activates immediately
@@ -61,14 +59,14 @@ constexpr Ability WebSpinner = {
 
 **Team Support:**
 - Provides immediate speed control for the entire team
-- Enables slower but powerful Pokémon to outspeed opponents
+- Enables slower but powerful Pokemon to outspeed opponents
 - Creates setup opportunities for stat-boosting moves
 - Supports Trick Room strategies by lowering opponent speeds
 
 **Counters and Limitations:**
 - Taunt prevents the String Shot if used before Web Spinner activates
 - Magic Coat reflects the speed drop back to the user
-- Pokémon with speed-boosting abilities can potentially overcome the debuff
+- Pokemon with speed-boosting abilities can potentially overcome the debuff
 - Clear Body, White Smoke, and similar abilities prevent the speed reduction
 - Substitute blocks the speed reduction if up before switch-in
 
@@ -96,9 +94,9 @@ Based on the codebase analysis, Web Spinner appears on:
 
 ### Synergies
 - **Trick Room teams**: Helps ensure Trick Room setters are slower
-- **Slow sweepers**: Enables powerful but slow Pokémon to outspeed
+- **Slow sweepers**: Enables powerful but slow Pokemon to outspeed
 - **Priority users**: Guarantees speed tiers for priority move effectiveness
 - **Setup sweepers**: Creates safer setup opportunities
 
 ### Version History
-Introduced in Elite Redux as part of the expanded ability system, providing Bug-type Pokémon with immediate battlefield control through speed manipulation.
+Introduced in Elite Redux as part of the expanded ability system, providing Bug-type Pokemon with immediate battlefield control through speed manipulation.

@@ -15,8 +15,6 @@ character_count: 289
 
 Overcoat provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming special damage by 20%.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

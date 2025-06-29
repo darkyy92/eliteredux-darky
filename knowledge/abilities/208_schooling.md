@@ -15,19 +15,17 @@ character_count: 295
 
 When at level 20 or above, transforms into School Form with improved stats and abilities. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot transform if already transformed by other effects.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Schooling is a unique form-changing ability that allows certain Pokémon to transform between two distinct forms based on level requirements and HP thresholds.
+Schooling is a unique form-changing ability that allows certain Pokemon to transform between two distinct forms based on level requirements and HP thresholds.
 
 ### Core Mechanics
 - **Level Requirement**: Must be level 20 or above to activate
 - **HP Threshold**: Form changes when HP drops to 25% (1/4) or less of maximum HP
 - **Transformation Direction**: 
-  - Solo Form → School Form when HP > 25% and level ≥ 20
-  - School Form → Solo Form when HP ≤ 25%
+  - Solo Form to School Form when HP > 25% and level ≥ 20
+  - School Form to Solo Form when HP ≤ 25%
 
 ### Activation Conditions
 ```cpp
@@ -58,13 +56,13 @@ The `4` indicates HP is divided by 4 (25% threshold).
 
 ### Transformation Logic
 ```cpp
-// High HP Form → Low HP Form (School → Solo)
+// High HP Form to Low HP Form (School to Solo)
 if (species == gHpTransformations[i].highHpSpecies && 
     gBattleMons[battler].hp <= gBattleMons[battler].maxHP / gHpTransformations[i].hpFraction) {
     // Transform to Solo form
 }
 
-// Low HP Form → High HP Form (Solo → School)  
+// Low HP Form to High HP Form (Solo to School)  
 if (species == gHpTransformations[i].lowHpSpecies && 
     gBattleMons[battler].hp > gBattleMons[battler].maxHP / gHpTransformations[i].hpFraction) {
     // Transform to School form
@@ -76,7 +74,7 @@ if (species == gHpTransformations[i].lowHpSpecies &&
 - **Level Requirement**: Minimum level 20
 - **Priority**: Checks occur on entry and at end of each turn
 
-### Complete List of Affected Pokémon
+### Complete List of Affected Pokemon
 In Elite Redux, Schooling affects:
 1. **Wishiwashi** (Solo Form ↔ School Form)
 2. **Unown** (Regular ↔ Revelation Form)
@@ -88,9 +86,9 @@ The form change typically provides significant stat improvements:
 
 ### Interactions with Other Abilities/Mechanics
 - **Unsuppressable**: Cannot be suppressed by abilities like Gastro Acid
-- **Transform Block**: Cannot activate if Pokémon is already transformed by moves like Transform
+- **Transform Block**: Cannot activate if Pokemon is already transformed by moves like Transform
 - **Status Check**: Blocked by STATUS2_TRANSFORMED flag
-- **Alive Check**: Pokémon must be alive (HP > 0) to transform
+- **Alive Check**: Pokemon must be alive (HP > 0) to transform
 
 ### Strategic Implications
 - **Offensive Potential**: School Form provides significantly better offensive and defensive stats
@@ -99,9 +97,9 @@ The form change typically provides significant stat improvements:
 - **Predictability**: Opponents can predict form changes based on visible HP
 
 ### Example Battle Scenarios
-1. **Entry Transform**: Level 20+ Wishiwashi enters at full HP → automatically becomes School Form
-2. **Damage Threshold**: School Form takes damage reducing HP to 24% → reverts to Solo Form
-3. **Healing Recovery**: Solo Form heals above 25% HP → transforms back to School Form at turn end
+1. **Entry Transform**: Level 20+ Wishiwashi enters at full HP to automatically becomes School Form
+2. **Damage Threshold**: School Form takes damage reducing HP to 24% to reverts to Solo Form
+3. **Healing Recovery**: Solo Form heals above 25% HP to transforms back to School Form at turn end
 4. **Low Level Block**: Level 19 Wishiwashi cannot transform regardless of HP
 
 ### Common Users

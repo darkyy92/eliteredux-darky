@@ -15,8 +15,6 @@ character_count: 287
 
 Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting additional punching coverage types. Grumpig and Darmanitan Redux Aura notably have access to this very powerful ability.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -41,13 +39,13 @@ constexpr Ability MagicalFists = {
 
 ### Affected Moves:
 All moves with the FLAG_IRON_FIST_BOOST flag are affected:
-- **Elemental Punches**: Fire Punch (75 BP → 97.5 BP), Ice Punch, Thunder Punch
-- **Fighting Moves**: Focus Punch (150 BP → 195 BP), Dynamic Punch (100 BP → 130 BP), Mach Punch
+- **Elemental Punches**: Fire Punch (75 BP to 97.5 BP), Ice Punch, Thunder Punch
+- **Fighting Moves**: Focus Punch (150 BP to 195 BP), Dynamic Punch (100 BP to 130 BP), Mach Punch
 - **Priority Moves**: Bullet Punch, Mach Punch, Vacuum Wave (already special)
 - **Coverage Moves**: Shadow Punch, Meteor Mash, Dizzy Punch, Drain Punch
 - **Heavy Hits**: Hammer Arm, Sky Uppercut, Close Combat
 
-### Notable Pokémon with Access:
+### Notable Pokemon with Access:
 - **Grumpig**: Psychic-type with naturally high Special Attack (110 base)
   - Can utilize Focus Punch as a 195 BP special nuke
   - Access to elemental punches for coverage
@@ -79,7 +77,7 @@ All moves with the FLAG_IRON_FIST_BOOST flag are affected:
 ### Competitive Usage:
 - **Lead Sets**: Grumpig with Focus Punch prediction
 - **Coverage**: Special attackers breaking through Chansey/Blissey with physical Fighting coverage
-- **Mixed Attackers**: Pokémon that can bluff physical or special sets
+- **Mixed Attackers**: Pokemon that can bluff physical or special sets
 - **Terrain Teams**: Psychic Terrain doesn't block Mach Punch since it becomes special
 
 ### Common Sets:

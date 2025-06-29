@@ -2,16 +2,26 @@
 id: 336
 name: Electric Burst
 status: ai-generated
-character_count: 280
+character_count: 299
 ---
 
-# Electric Burst
+# Electric Burst - Ability ID 336
 
-## Overview
+## In-Game Description
+"Boosts Electric-type moves by 35% but causes 10% recoil damage."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil applies after damage calculation for all Electric attacks. This high-risk ability provides massive offensive power but continuously drains HP with each Electric move used.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 Electric Burst is a high-risk, high-reward ability that significantly enhances Electric-type offensive capabilities at the cost of self-inflicted damage. This ability embodies the volatile nature of electricity, providing substantial power at the expense of safety.
 
-## Mechanics
+### Mechanics
 
 ### Power Boost
 - **Multiplier**: 1.35x damage for all Electric-type moves
@@ -81,9 +91,9 @@ constexpr Ability ElectricBurst = {
 - **Cons**: Sustainability issues, risk of self-KO
 - **Niche**: Best on fast, frail attackers or as a finishing move specialist
 
-## Pokémon with Electric Burst
+## Pokemon with Electric Burst
 
-Based on SpeciesList.textproto analysis, 21 Pokémon have access to Electric Burst:
+Based on SpeciesList.textproto analysis, 21 Pokemon have access to Electric Burst:
 
 ### Confirmed Species
 - **Jolteon** - Natural fit with high Special Attack and Speed
@@ -133,3 +143,4 @@ Based on SpeciesList.textproto analysis, 21 Pokémon have access to Electric Bur
 Electric Burst exemplifies the high-risk, high-reward philosophy of Elite Redux's ability design. While the 35% damage increase is substantial, the 10% recoil creates meaningful decision-making moments and prevents the ability from being overpowered. Success with Electric Burst requires careful HP management, strategic move selection, and often short-term thinking rather than long-term sustainability.
 
 The ability is best suited for fast, frail attackers that can maximize damage before fainting, or as a late-game finishing tool when recoil damage is less of a concern. Its presence in the metagame forces respect for Electric-type attacks and creates interesting counterplay dynamics around Ground-type immunities and HP management strategies.
+

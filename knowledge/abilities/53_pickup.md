@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pickup automatically clears all entry hazards from your side of the field when entering battle. Removes Spikes, Toxic Spikes, Stealth Rock, Sticky Web, Hot Coals, and Caltrops. The Pokémon still takes full hazard damage on entry before clearing, but provides immediate field support for the team.
-
-*Character count: 285*
+Pickup automatically clears all entry hazards from your side of the field when entering battle. Removes Spikes, Toxic Spikes, Stealth Rock, Sticky Web, Hot Coals, and Caltrops. The Pokemon still takes full hazard damage on entry before clearing, but provides immediate field support for the team.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,7 +24,7 @@ Pickup automatically clears all entry hazards from your side of the field when e
 - **Trigger**: Immediately upon entering battle (onEntry hook)
 - **Timing**: Activates after taking hazard damage (no immunity)
 - **Scope**: Clears all hazards on user's side only
-- **Script**: Displays "{Pokémon} removed hazards on its field side!"
+- **Script**: Displays "{Pokemon} removed hazards on its field side!"
 
 ### Hazards Cleared:
 1. **Standard Hazards**:
@@ -36,12 +34,12 @@ Pickup automatically clears all entry hazards from your side of the field when e
    - Sticky Web (single layer)
 
 2. **Elite Redux Custom Hazards**:
-   - Hot Coals (burns entering Pokémon)
-   - Caltrops (damages entering Pokémon)
+   - Hot Coals (burns entering Pokemon)
+   - Caltrops (damages entering Pokemon)
 
 ### Important Limitations:
 - **No Immunity**: Pickup does NOT prevent hazard damage on entry
-- **Takes Damage First**: The Pokémon suffers full hazard effects before clearing them
+- **Takes Damage First**: The Pokemon suffers full hazard effects before clearing them
 - **Side-Specific**: Only clears hazards on the user's side of the field
 - **No Protection**: Does not prevent future hazard setting
 
@@ -64,11 +62,11 @@ constexpr Ability Pickup = {
 ```
 
 ### Hazard Damage Sequence:
-1. Pokémon enters battle
+1. Pokemon enters battle
 2. Takes damage from all active hazards (Spikes, Stealth Rock, etc.)
 3. Pickup ability activates
 4. All hazards on user's side are cleared
-5. Message displays: "{Pokémon} removed hazards on its field side!"
+5. Message displays: "{Pokemon} removed hazards on its field side!"
 
 ### Strategic Implications:
 - **Hazard Control**: Excellent for teams vulnerable to hazard stacking
@@ -77,9 +75,9 @@ constexpr Ability Pickup = {
 - **Suicidal Risk**: May KO itself to hazards before clearing them
 
 ### Competitive Usage:
-- **Hazard-Weak Teams**: Essential for teams with multiple hazard-weak Pokémon
+- **Hazard-Weak Teams**: Essential for teams with multiple hazard-weak Pokemon
 - **Pivot Role**: Can be used to clear hazards before bringing in key team members
-- **Risk Management**: Must consider if the Pokémon can survive initial hazard damage
+- **Risk Management**: Must consider if the Pokemon can survive initial hazard damage
 - **Limited Scope**: Doesn't help against opponent's hazards or provide ongoing protection
 
 ### Synergies:

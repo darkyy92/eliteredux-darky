@@ -15,8 +15,6 @@ character_count: 288
 
 Combines Mega Launcher and Artillery for the ultimate projectile mastery. Boosts pulse, beam, ball, and aura moves by 30% while ensuring they always hit and strike both opponents simultaneously. Perfect accuracy meets devastating power for comprehensive battlefield dominance.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -66,10 +64,10 @@ Super Scope affects moves through the **IsMegaLauncherBoosted** function:
 ### Comprehensive Move Coverage
 
 #### High-Power Offensive Moves (Enhanced Examples)
-- **Hydro Pump**: 110 BP → 143 BP (1.3x), perfect accuracy, hits both foes
-- **Solar Beam**: 120 BP → 156 BP (1.3x), weather-independent, dual target
-- **Focus Blast**: 120 BP → 156 BP (1.3x), never misses, hits both opponents
-- **Energy Ball**: 90 BP → 117 BP (1.3x), guaranteed hit, dual targeting
+- **Hydro Pump**: 110 BP to 143 BP (1.3x), perfect accuracy, hits both foes
+- **Solar Beam**: 120 BP to 156 BP (1.3x), weather-independent, dual target
+- **Focus Blast**: 120 BP to 156 BP (1.3x), never misses, hits both opponents
+- **Energy Ball**: 90 BP to 117 BP (1.3x), guaranteed hit, dual targeting
 
 #### Status Move Mastery
 - **Thunder Wave**: Perfect accuracy, paralyzes both opponents

@@ -13,9 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Hellblaze empowers Fire-type moves with a 1.3x damage boost normally, increasing to a powerful 1.8x boost when the Pokémon drops below 1/3 of its maximum HP. This ability excels in clutch situations, turning low HP into devastating firepower. Essential for Fire sweepers and revenge killers.
-
-*Character count: 291*
+Hellblaze empowers Fire-type moves with a 1.3x damage boost normally, increasing to a powerful 1.8x boost when the Pokemon drops below 1/3 of its maximum HP. This ability excels in clutch situations, turning low HP into devastating firepower. Essential for Fire sweepers and revenge killers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -54,9 +52,9 @@ constexpr Ability Hellblaze = {
 - **1/3 HP threshold**: Calculated as `maxHP / 3` (integer division)
 - **Exact threshold**: Ability activates when `currentHP <= (maxHP / 3)`
 - **Examples**:
-  - 300 HP Pokémon: Activates at 100 HP or below
-  - 299 HP Pokémon: Activates at 99 HP or below
-  - 301 HP Pokémon: Activates at 100 HP or below
+  - 300 HP Pokemon: Activates at 100 HP or below
+  - 299 HP Pokemon: Activates at 99 HP or below
+  - 301 HP Pokemon: Activates at 100 HP or below
 
 ### Strategic Applications
 - **Late-game sweeping**: Massive damage boost when in the danger zone
@@ -67,8 +65,8 @@ constexpr Ability Hellblaze = {
 
 ### Damage Calculations
 With base power 80 Fire-type move:
-- **Above 1/3 HP**: 80 × 1.3 = 104 effective base power
-- **Below 1/3 HP**: 80 × 1.8 = 144 effective base power
+- **Above 1/3 HP**: 80 x 1.3 = 104 effective base power
+- **Below 1/3 HP**: 80 x 1.8 = 144 effective base power
 - **Comparison**: 80% boost rivals Choice Band (50%) + Life Orb (30%)
 
 ### Important Interactions
@@ -100,7 +98,7 @@ Hellblaze is part of the "Boosted Swarm" family in Elite Redux:
 - **Multi-hit moves**: Can be KO'd before utilizing the boost
 - **Healing moves**: Opponent can stall until HP is restored
 
-### Optimal Pokémon Traits
+### Optimal Pokemon Traits
 - **High Attack/Special Attack**: Maximizes damage potential
 - **Decent Speed**: Ensure you move first when at low HP
 - **Bulk investment**: Survive hits to reach optimal HP range

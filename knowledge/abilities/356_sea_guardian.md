@@ -2,14 +2,24 @@
 id: 356
 name: Sea Guardian
 status: ai-generated
-character_count: 0
+character_count: 294
 ---
 
-# Sea Guardian (Ability #356)
+# Sea Guardian - Ability ID 356
 
-## Overview
+## In-Game Description
+"When entering battle during rain, boosts the highest stat by one stage."
 
-Sea Guardian is a weather-dependent entry ability that provides an immediate stat boost when switching into battle during rain conditions. The ability intelligently selects the Pokémon's highest current stat (including existing modifications) and raises it by one stage, making it highly adaptable to different battle situations.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When entering battle during rain, Sea Guardian analyzes the Pokemon's current stats including all modifications and boosts the highest one by one stage. This intelligent adaptation makes it valuable for any rain team member, whether offensive or defensive. The ability only triggers once per switch-in and requires active rain weather to function.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+Sea Guardian is a weather-dependent entry ability that provides an immediate stat boost when switching into battle during rain conditions. The ability intelligently selects the Pokemon's highest current stat (including existing modifications) and raises it by one stage, making it highly adaptable to different battle situations.
 
 ## Mechanics
 
@@ -46,7 +56,7 @@ constexpr Ability SeaGuardian = {
 ```
 
 ### Key Functions
-- `IsBattlerWeatherAffected()`: Checks for rain weather affecting the Pokémon
+- `IsBattlerWeatherAffected()`: Checks for rain weather affecting the Pokemon
 - `GetHighestStatId(battler, TRUE)`: Determines highest stat including current stages
 - `ChangeStatBuffs()`: Applies the +1 stage boost
 
@@ -66,14 +76,14 @@ constexpr Ability SeaGuardian = {
 - Combines well with Swift Swim and other rain abilities
 - Provides immediate value upon entry
 
-## Pokémon Distribution
+## Pokemon Distribution
 
-Sea Guardian appears on 16 different Pokémon, including:
+Sea Guardian appears on 16 different Pokemon, including:
 
 **Water-type Legends**: Gyarados, Suicune, Milotic, Kyogre, Palkia
 **Mega Forms**: Mega Kingdra variants, Mega Gallade Redux
 **Redux Variants**: Gible/Gabite/Garchomp Redux line
-**Mixed Types**: Various Water-types and rain-associated Pokémon
+**Mixed Types**: Various Water-types and rain-associated Pokemon
 
 ## Competitive Analysis
 
@@ -124,3 +134,4 @@ When Sea Guardian activates:
 - **Stat Selection**: `src/battle_util.c` (GetHighestStatId)
 - **Battle Script**: `data/battle_scripts_1.s` (BattleScript_AttackerAbilityStatRaiseEnd3)
 - **Ability ID**: 356 (ABILITY_SEA_GUARDIAN)
+

@@ -8,14 +8,12 @@ character_count: 289
 # Plus - Ability ID 57
 
 ## In-Game Description
-"Deals double damage if an ally Pokémon has Minus or Plus."
+"Deals double damage if an ally Pokemon has Minus or Plus."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Plus doubles the Pokémon's offensive power when partnered with an ally that has Plus or Minus abilities. In double battles, this creates a powerful synergy effect that multiplies damage by 2.0x. Only activates when both Pokémon are alive on the field. Pairs excellently with Minus ability.
-
-*Character count: 292*
+Plus doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus abilities. In double battles, this creates a powerful synergy effect that multiplies damage by 2.0x. Only activates when both Pokemon are alive on the field. Pairs excellently with Minus ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -37,12 +35,12 @@ Plus doubles the Pokémon's offensive power when partnered with an ally that has
 ### Damage Calculation:
 1. **Base Move Power** (from move data)
 2. **STAB, Type Effectiveness** (standard modifiers)
-3. **Plus Multiplier** (×2.0 if partner condition met)
+3. **Plus Multiplier** (x2.0 if partner condition met)
 4. **Other Ability Effects** (applied after Plus)
 5. **Item Effects** (Choice specs, Life Orb, etc.)
 
 ### Key Interactions:
-- **vs Choice Items**: Plus doubles damage, Choice items multiply by 1.5x. Stack multiplicatively (×3.0 total)
+- **vs Choice Items**: Plus doubles damage, Choice items multiply by 1.5x. Stack multiplicatively (x3.0 total)
 - **vs Life Orb**: Plus effect applied first, then Life Orb's 1.3x multiplier
 - **vs Critical Hits**: Critical hit multiplier applies after Plus effect
 - **vs Weather/Terrain**: Environmental boosts stack with Plus multiplicatively
@@ -51,7 +49,7 @@ Plus doubles the Pokémon's offensive power when partnered with an ally that has
 - **Minus (ID 58)**: Functionally identical ability with same code implementation
 - **Shared Implementation**: `Minus.onOffensiveMultiplier = Plus.onOffensiveMultiplier`
 - **Mutual Activation**: Plus activates with Minus partner and vice versa
-- **Self-Activation**: Plus Pokémon activates when partnered with another Plus Pokémon
+- **Self-Activation**: Plus Pokemon activates when partnered with another Plus Pokemon
 
 ### Technical Implementation:
 ```c
@@ -67,8 +65,8 @@ constexpr Ability Plus = {
 ```
 
 ### Move Synergies:
-- **Gear Up (Move 637)**: Boosts Attack and Sp. Attack of Plus/Minus Pokémon by 1 stage
-- **Magnetic Flux (Move 602)**: Boosts Defense and Sp. Defense of Plus/Minus Pokémon by 1 stage
+- **Gear Up (Move 637)**: Boosts Attack and Sp. Attack of Plus/Minus Pokemon by 1 stage
+- **Magnetic Flux (Move 602)**: Boosts Defense and Sp. Defense of Plus/Minus Pokemon by 1 stage
 - **AI Recognition**: Battle AI specifically checks for Plus/Minus when evaluating these moves
 
 ### AI Battle Rating:
@@ -76,16 +74,16 @@ constexpr Ability Plus = {
 - **Conditional Value**: AI recognizes high value when Plus/Minus partners are available
 - **Team Building**: AI considers Plus/Minus pairs when constructing double battle teams
 
-### Pokémon Distribution in Elite Redux:
-- **As Innate Ability**: Multiple Electric-type Pokémon including Pichu variants
+### Pokemon Distribution in Elite Redux:
+- **As Innate Ability**: Multiple Electric-type Pokemon including Pichu variants
 - **Notable Users**: Electric-types with high offensive stats
-- **Partner Pokémon**: Several species have Minus as innate, creating natural pairs
+- **Partner Pokemon**: Several species have Minus as innate, creating natural pairs
 - **Tier Usage**: Found across tiers 2-4, balanced for competitive play
 
 ### Competitive Analysis:
-- **Power Level**: Extremely high in double battles (×2.0 damage multiplier)
+- **Power Level**: Extremely high in double battles (x2.0 damage multiplier)
 - **Team Dependency**: Requires specific partner to function, limiting flexibility  
-- **Positioning Risk**: Both Pokémon must stay alive for effect to persist
+- **Positioning Risk**: Both Pokemon must stay alive for effect to persist
 - **Setup Potential**: Works well with stat-boosting moves like Gear Up
 
 ### Strategic Applications:
@@ -115,4 +113,4 @@ constexpr Ability Plus = {
 - **Team Composition**: Requires building around Plus/Minus pair for maximum effectiveness
 - **Speed Control**: Coordinating turn order crucial for optimal damage output
 - **Protect Usage**: Strategic protection can maintain partner synergy
-- **Switch Timing**: Must consider maintaining both Pokémon on field
+- **Switch Timing**: Must consider maintaining both Pokemon on field

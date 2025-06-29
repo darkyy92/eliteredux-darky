@@ -13,9 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Embody Aspect (Wellspring) raises the Pokémon's Special Defense by one stage when it switches into battle. This variant is exclusive to Ogerpon's Wellspring Mask form, reflecting its defensive Water-type capabilities. Works only once per switch-in, stacking with other stat-boosting effects.
-
-*Character count: 291*
+Embody Aspect (Wellspring) raises the Pokemon's Special Defense by one stage when it switches into battle. This variant is exclusive to Ogerpon's Wellspring Mask form, reflecting its defensive Water-type capabilities. Works only once per switch-in, stacking with other stat-boosting effects.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,10 +22,10 @@ Embody Aspect (Wellspring) raises the Pokémon's Special Defense by one stage wh
 - **Effect**: Raises Special Defense by +1 stage (50% increase) when switching into battle
 - **Trigger**: Activates immediately upon switching in, before any other battle actions
 - **Type**: Entry-based stat boost ability
-- **Frequency**: Once per switch-in (resets when Pokémon switches out and back in)
+- **Frequency**: Once per switch-in (resets when Pokemon switches out and back in)
 
 ### Activation Conditions
-- Must successfully switch into battle (not when battle starts with this Pokémon already out)
+- Must successfully switch into battle (not when battle starts with this Pokemon already out)
 - Special Defense must be capable of being raised (not already at +6 or blocked by effects)
 - Works regardless of HP, status conditions, or opponent's abilities
 
@@ -47,7 +45,7 @@ constexpr Ability EmbodyAspectWellspring = {
 ### Stat Boost Details
 - **+1 Special Defense**: Multiplies Special Defense by 1.5x (equivalent to 50% increase)
 - **Stacking**: Combines multiplicatively with other stat modifiers
-- **Duration**: Lasts until the Pokémon switches out or faints
+- **Duration**: Lasts until the Pokemon switches out or faints
 - **Maximum**: Cannot exceed +6 Special Defense stages
 
 ### Interactions with Other Abilities/Mechanics
@@ -70,7 +68,7 @@ With base 156 Special Defense at level 100:
 - **Against 100 power special move**: ~33% damage reduction compared to unboosted
 
 ### Common Users
-- **Ogerpon (Wellspring Mask)**: Only Pokémon with this specific ability variant
+- **Ogerpon (Wellspring Mask)**: Only Pokemon with this specific ability variant
 - **Form Requirements**: Must be holding Wellspring Mask to have this ability
 - **Mega Evolution**: Ogerpon Wellspring Mask Mega retains this ability
 

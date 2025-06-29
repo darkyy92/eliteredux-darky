@@ -15,13 +15,11 @@ character_count: 297
 
 Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions. Only activates if Mist is not already active. Perfect counter to Water attacks and stat-lowering moves.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Evaporate is a defensive ability that provides complete immunity to Water-type moves while also setting up team-wide protection. When hit by a Water-type move, the Pokémon takes no damage and automatically sets Mist if it's not already active.
+Evaporate is a defensive ability that provides complete immunity to Water-type moves while also setting up team-wide protection. When hit by a Water-type move, the Pokemon takes no damage and automatically sets Mist if it's not already active.
 
 ### Activation Conditions
 - **Move type requirement**: Only triggers on Water-type moves
@@ -53,8 +51,8 @@ if (effect & ABSORB_RESULT_EVAPORATE && !gSideTimers[GetBattlerSide(battler)].mi
 ### Mist Effects
 - **Stat protection**: Prevents all stat reductions for the entire team
 - **Duration**: 5 turns (SCREEN_DURATION constant)
-- **Team-wide**: Protects all Pokémon on the user's side
-- **Message**: Displays "{Pokémon} became shrouded in Mist!" when activated
+- **Team-wide**: Protects all Pokemon on the user's side
+- **Message**: Displays "{Pokemon} became shrouded in Mist!" when activated
 - **Overwrite protection**: Won't activate if Mist is already active
 
 ### Important Interactions
@@ -84,7 +82,7 @@ Evaporate provides immunity to all Water-type moves including:
 ### Synergies
 - **Fire types**: Covers Water weakness while providing utility
 - **Stat boosting**: Protects setup sweepers from stat drops
-- **Clerical support**: Excellent on support Pokémon
+- **Clerical support**: Excellent on support Pokemon
 - **Anti-stall**: Counters defensive strategies using stat drops
 - **Team building**: Valuable on teams weak to Water coverage
 

@@ -5,19 +5,22 @@ status: ai-generated
 character_count: 298
 ---
 
-# Weather Double Boost (Catastrophe) - Ability Analysis
+# Weather Double Boost - Ability ID 589
 
-## Basic Information
-- **Ability ID**: 589
-- **Internal Name**: ABILITY_WEATHER_DOUBLE_BOOST
-- **Display Name**: Catastrophe
-- **Short Description**: "Sun boosts Water. Rain boosts Fire."
+## In-Game Description
+"Sun boosts Water. Rain boosts Fire."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Catastrophe reverses weather's typical effects on Fire and Water moves. In Sun, Water moves gain a 20% boost (permanent) or 50% boost (temporary) instead of the usual reduction. In Rain, Fire moves receive a 20% boost (permanent) or 50% boost (temporary) instead of being weakened by precipitation.
 
-## Mechanics Analysis
+## Detailed Mechanical Explanation
+
+**Display Name**: Catastrophe
+**Internal Name**: ABILITY_WEATHER_DOUBLE_BOOST
+
+### Mechanics Analysis
 
 ### Core Implementation
 The ability is implemented in `src/battle_util.c` using the `CHECK_WEATHER_DOUBLE_BOOST` macro:
@@ -49,7 +52,7 @@ The ability is implemented in `src/battle_util.c` using the `CHECK_WEATHER_DOUBL
 - **Weather Boost moves**: 2.25x boost (1.5 * 1.5)
 - **Special cases**: Nika ability and Steam Eruption move prevent reduction
 
-## Strategic Applications
+### Strategic Applications
 
 ### Offensive Utility
 1. **Rain Teams**: Fire attackers become viable, gaining significant power
@@ -69,12 +72,12 @@ The ability is implemented in `src/battle_util.c` using the `CHECK_WEATHER_DOUBL
 - Requires opponents to recalculate threat levels
 - Most effective on Pokemon with diverse move pools
 
-## Related Abilities
+### Related Abilities
 - **Nika** (469): Prevents Water move reduction in Sun
 - Weather setters: Drizzle, Drought, etc.
 - Other weather-dependent abilities
 
-## Technical Notes
+### Technical Notes
 - Only affects the attacking Pokemon
 - Does not change weather itself
 - Multiplicative with other damage modifiers

@@ -13,19 +13,17 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Upon switching in, the Pokémon immediately summons a powerful whirlpool that targets any opposing Pokémon present. This Water-type attack traps the opponent for 2-5 turns, dealing damage each turn while preventing escape.
-
-*Character count: 282*
+Upon switching in, the Pokemon immediately summons a powerful whirlpool that targets any opposing Pokemon present. This Water-type attack traps the opponent for 2-5 turns, dealing damage each turn while preventing escape.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**Poseidons Dominion** is an on-entry ability that automatically uses the move Whirlpool when the Pokémon switches into battle. Here's how it works mechanically:
+**Poseidons Dominion** is an on-entry ability that automatically uses the move Whirlpool when the Pokemon switches into battle. Here's how it works mechanically:
 
 ### Implementation Details
 - **Trigger**: Activates immediately upon switching in (`onEntry` callback)
 - **Move Used**: Whirlpool (50 Base Power, 90% Accuracy, Water-type)
-- **Target Selection**: Automatically targets any alive opposing Pokémon
+- **Target Selection**: Automatically targets any alive opposing Pokemon
 - **Move Power Override**: Uses default Whirlpool power (movePower parameter is 0)
 
 ### Whirlpool Move Properties
@@ -39,7 +37,7 @@ Upon switching in, the Pokémon immediately summons a powerful whirlpool that ta
 - **Description**: "Traps and hurts the foe in a whirlpool for 2 to 5 turns"
 
 ### Battle Mechanics
-1. **Entry Activation**: When the Pokémon switches in, UseEntryMove() is called
+1. **Entry Activation**: When the Pokemon switches in, UseEntryMove() is called
 2. **Target Detection**: The ability searches for alive opposing battlers
 3. **Move Execution**: If a valid target exists and CanUseExtraMove() conditions are met, Whirlpool is queued as an extra attack
 4. **Trap Effect**: If Whirlpool hits, the target becomes trapped for 2-5 turns, taking damage each turn and being unable to switch out
@@ -58,4 +56,4 @@ Upon switching in, the Pokémon immediately summons a powerful whirlpool that ta
 - **Magic Guard**: Prevents trap damage
 - **Substitute**: Can block the initial trap attempt
 
-This ability effectively gives the Pokémon a free Whirlpool attack whenever it enters battle, making it valuable for controlling the battlefield and applying pressure to opposing teams.
+This ability effectively gives the Pokemon a free Whirlpool attack whenever it enters battle, making it valuable for controlling the battlefield and applying pressure to opposing teams.

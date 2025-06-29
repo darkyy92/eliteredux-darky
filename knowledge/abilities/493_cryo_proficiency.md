@@ -15,8 +15,6 @@ character_count: 295
 
 When this Pokemon makes contact with an opponent, there's a 30% chance to inflict frostbite. Additionally, on successful contact hits, this Pokemon summons hail if no hail is active. The Pokemon is immune to hail damage, allowing it to thrive in the icy conditions it creates.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -31,7 +29,7 @@ Cryo Proficiency is an enhanced version of Freezing Point that combines frostbit
 - **Defensive utility**: Punishes contact move users with debilitating status
 
 #### 2. Hail Summoning
-- **Trigger**: When the Pokémon successfully hits with a contact move
+- **Trigger**: When the Pokemon successfully hits with a contact move
 - **Condition**: Only summons hail if no hail weather is currently active
 - **Duration**: Standard hail duration (8 turns in Elite Redux)
 - **Control**: Creates advantageous weather conditions on demand
@@ -124,8 +122,8 @@ constexpr Ability CryoProficiency = {
 - **Field controller**: Manages battlefield conditions actively
 - **Hybrid role**: Combines offense, defense, and support
 
-### Pokémon Suitability
-Ideal for Pokémon with:
+### Pokemon Suitability
+Ideal for Pokemon with:
 - **Ice typing**: Natural synergy with hail and ice moves
 - **High Defense**: Can survive contact moves to trigger effects
 - **Contact moves**: Can actively summon hail through offense

@@ -13,15 +13,13 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Feline Prowess doubles the Pokémon's Special Attack stat by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.
-
-*Character count: 293*
+Feline Prowess doubles the Pokemon's Special Attack stat by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Effect**: Doubles the Pokémon's Special Attack stat (2x multiplier)
+- **Effect**: Doubles the Pokemon's Special Attack stat (2x multiplier)
 - **Application**: Applied to the raw calculated stat, not the base stat
 - **Timing**: Active immediately upon entering battle
 - **Stacking**: Multiplicative with stat boosts, items, and other modifiers
@@ -41,14 +39,14 @@ The ability hooks into the stat calculation system and applies a 2x multiplier w
 ### Activation Conditions
 - **Trigger**: Automatic when Special Attack stat is calculated
 - **Requirements**: None - always active
-- **Duration**: Permanent while the Pokémon is in battle
+- **Duration**: Permanent while the Pokemon is in battle
 - **Scope**: Affects all special moves and stat calculations
 
 ### Numerical Values
 - **Multiplier**: 2.0x (100% increase)
-- **Example**: A Pokémon with 100 base Special Attack becomes effectively 200
-- **With +1 boost**: 100 → 200 (Feline Prowess) → 300 (with +1 boost) = 3x total
-- **With Choice Specs**: 100 → 200 (Feline Prowess) → 300 (with Choice Specs) = 3x total
+- **Example**: A Pokemon with 100 base Special Attack becomes effectively 200
+- **With +1 boost**: 100 to 200 (Feline Prowess) to 300 (with +1 boost) = 3x total
+- **With Choice Specs**: 100 to 200 (Feline Prowess) to 300 (with Choice Specs) = 3x total
 
 ### Stat Calculation Order
 1. Base stat + EVs + IVs + nature = base calculated stat
@@ -60,7 +58,7 @@ The ability hooks into the stat calculation system and applies a 2x multiplier w
 ### Common Users
 - **Espeon Galaxy**: Primary forme with this as a regular ability (all 3 slots)
 - **Meowth Partner Mega**: Has as an innate ability alongside other abilities
-- **Various Cat-like Pokémon**: Given thematically to feline Pokémon
+- **Various Cat-like Pokemon**: Given thematically to feline Pokemon
 
 ### Strategic Implications
 - **Immediate Power**: Instant 2x Special Attack boost without setup
@@ -91,16 +89,16 @@ The ability hooks into the stat calculation system and applies a 2x multiplier w
 - **Life Orb**: Stacks multiplicatively for even higher damage output
 
 ### Damage Calculation Examples
-**Base Case**: 100 Special Attack Pokémon using 90 BP move
+**Base Case**: 100 Special Attack Pokemon using 90 BP move
 - Normal: ~45-53 damage vs neutral target
 - With Feline Prowess: ~90-106 damage vs neutral target
 
 **With Choice Specs**: 100 Special Attack + Feline Prowess + Choice Specs
-- Total multiplier: 2.0x (Feline Prowess) × 1.5x (Choice Specs) = 3.0x
+- Total multiplier: 2.0x (Feline Prowess) x 1.5x (Choice Specs) = 3.0x
 - Damage: ~135-159 vs neutral target
 
 **With +1 Calm Mind**: 100 Special Attack + Feline Prowess + Calm Mind
-- Total multiplier: 2.0x (Feline Prowess) × 1.5x (+1 boost) = 3.0x
+- Total multiplier: 2.0x (Feline Prowess) x 1.5x (+1 boost) = 3.0x
 - Damage: ~135-159 vs neutral target
 
 ### Version History

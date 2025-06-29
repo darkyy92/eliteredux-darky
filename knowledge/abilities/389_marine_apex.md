@@ -2,12 +2,22 @@
 id: 389
 name: Marine Apex
 status: ai-generated
-character_count: 0
+character_count: 283
 ---
 
-# Marine Apex (Ability #389)
+# Marine Apex - Ability ID 389
 
-## Overview
+## In-Game Description
+"Deals 1.5x damage to Water-types and bypasses screens."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Marine Apex transforms the user into the ultimate aquatic predator, dealing 1.5x damage to Water-type targets while completely bypassing defensive screens (Light Screen, Reflect, Aurora Veil) and Substitutes. Perfect for breaking through bulky Water walls.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Marine Apex is a powerful offensive ability that combines type-specific damage enhancement with screen-bypassing capabilities. It represents the concept of an apex predator that dominates aquatic environments while possessing the cunning to bypass defensive barriers.
 
 ## Technical Implementation
@@ -40,9 +50,9 @@ constexpr Ability Infiltrator = {
 ## Mechanics
 
 ### Primary Effect: Anti-Water Damage Boost
-- **Multiplier**: 1.5x damage against Water-type Pokémon
+- **Multiplier**: 1.5x damage against Water-type Pokemon
 - **Implementation**: Uses the `RESISTANCE` macro which applies both resistance and damage modifiers
-- **Trigger**: When attacking any Pokémon with Water typing (primary or secondary)
+- **Trigger**: When attacking any Pokemon with Water typing (primary or secondary)
 
 ### Secondary Effect: Infiltrator Properties
 - **Screen Bypass**: Ignores Light Screen, Reflect, and Aurora Veil
@@ -64,9 +74,9 @@ constexpr Ability Infiltrator = {
 ### Optimal Usage Scenarios
 1. **Water-Heavy Metagames**: Excels when Water-types are prevalent
 2. **Screen Teams**: Provides consistent damage output against defensive setups
-3. **Mixed Attackers**: Benefits Pokémon that can capitalize on both physical and special attacks
+3. **Mixed Attackers**: Benefits Pokemon that can capitalize on both physical and special attacks
 
-## Pokémon Distribution
+## Pokemon Distribution
 
 ### Current Users
 1. **Mega Relicanth**: Water/Rock type
@@ -114,6 +124,7 @@ constexpr Ability Infiltrator = {
 - **Physical Focus**: High-power physical moves to maximize damage boost
 - **Coverage Moves**: Ensures effectiveness beyond Water-type matchups
 - **Status Moves**: Leverages screen bypass for support moves
+
 
 ## Conclusion
 

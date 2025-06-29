@@ -13,25 +13,23 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Winter Throne creates a freezing field that damages all non-Ice type Pokémon for 1/8 maximum HP each turn while healing all Ice-type Pokémon for 1/8 HP. Affects every Pokémon on the battlefield regardless of position. Ice types gain significant survivability advantage in prolonged battles.
-
-*Character count: 290*
+Winter Throne creates a freezing field that damages all non-Ice type Pokemon for 1/8 maximum HP each turn while healing all Ice-type Pokemon for 1/8 HP. Affects every Pokemon on the battlefield regardless of position. Ice types gain significant survivability advantage in prolonged battles.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Winter Throne is a powerful field control ability that creates a dichotomy between Ice-type and non-Ice-type Pokémon. It activates at the end of each turn, dealing damage to enemies while healing allies of the appropriate type.
+Winter Throne is a powerful field control ability that creates a dichotomy between Ice-type and non-Ice-type Pokemon. It activates at the end of each turn, dealing damage to enemies while healing allies of the appropriate type.
 
 ### Activation Conditions
-- **Timing**: Activates at the end of turn for all Pokémon on the field
-- **Damage targets**: All non-Ice-type Pokémon (including allies in doubles)
-- **Healing targets**: All Ice-type Pokémon (including the user)
+- **Timing**: Activates at the end of turn for all Pokemon on the field
+- **Damage targets**: All non-Ice-type Pokemon (including allies in doubles)
+- **Healing targets**: All Ice-type Pokemon (including the user)
 - **HP calculation**: 1/8 of the target's maximum HP per turn
 
-### Affected Pokémon
-- **Takes damage**: Any Pokémon without Ice as primary or secondary type
-- **Gets healed**: Any Pokémon with Ice as primary or secondary type
+### Affected Pokemon
+- **Takes damage**: Any Pokemon without Ice as primary or secondary type
+- **Gets healed**: Any Pokemon with Ice as primary or secondary type
 - **Minimum values**: 1 HP minimum for both damage and healing
 
 ### Technical Implementation
@@ -57,7 +55,7 @@ if (ability == ABILITY_WINTER_THRONE) {
 ```
 
 ### Important Interactions
-- **Type changes**: Effect changes if Pokémon's type changes mid-battle
+- **Type changes**: Effect changes if Pokemon's type changes mid-battle
 - **Dual typing**: Works if Ice is either primary or secondary type
 - **Ability suppression**: Doesn't work if ability is suppressed (Mold Breaker, etc.)
 - **Substitute**: Damage/healing may be blocked by Substitute
@@ -68,12 +66,12 @@ if (ability == ABILITY_WINTER_THRONE) {
 - **Stall potential**: Makes Ice types extremely difficult to wear down
 - **Team building**: Encourages Ice-heavy team compositions
 - **Counter strategies**: Forces opponents to end battles quickly
-- **Doubles synergy**: Affects all Pokémon, creating complex field states
+- **Doubles synergy**: Affects all Pokemon, creating complex field states
 
 ### Damage Calculations
 - **1/8 HP per turn**: Significant but not overwhelming
-- **300 HP Pokémon**: Takes 37 damage per turn (heals 37 if Ice type)
-- **400 HP Pokémon**: Takes 50 damage per turn (heals 50 if Ice type)
+- **300 HP Pokemon**: Takes 37 damage per turn (heals 37 if Ice type)
+- **400 HP Pokemon**: Takes 50 damage per turn (heals 50 if Ice type)
 - **Cumulative effect**: Can determine long battles
 
 ### Counters
@@ -98,9 +96,9 @@ if (ability == ABILITY_WINTER_THRONE) {
 - **Doubles consideration**: Affects teammates, requiring careful team construction
 
 ### Common Users
-- Bulky Ice-type Pokémon who can capitalize on the healing
+- Bulky Ice-type Pokemon who can capitalize on the healing
 - Ice-type walls and defensive pivots
-- Pokémon designed to outlast opponents through sustain
+- Pokemon designed to outlast opponents through sustain
 - Ice-type setup sweepers who need longevity
 
 ### Version History

@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Propeller Tail boosts the Pokémon's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
-
-*Character count: 289*
+Propeller Tail boosts the Pokemon's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -29,7 +27,7 @@ Propeller Tail is a combination ability that provides two distinct effects:
 - Stacks multiplicatively with other speed modifiers like Choice Scarf or speed stages
 
 ### Redirection Immunity Component
-- Prevents the Pokémon's moves from being redirected by opponent abilities
+- Prevents the Pokemon's moves from being redirected by opponent abilities
 - Immunity applies to all redirection abilities including:
   - Lightning Rod (Electric-type moves)
   - Storm Drain (Water-type moves)
@@ -43,7 +41,7 @@ Propeller Tail is a combination ability that provides two distinct effects:
 ### Technical Implementation
 - The ability uses the same `onStat` function as Swift Swim for the speed boost
 - Redirection immunity is implemented in the `HasRedirectionAbility` function in battle_util.c
-- When a Pokémon with Propeller Tail attacks, `HasRedirectionAbility` returns `ABILITY_NONE`, preventing redirection
+- When a Pokemon with Propeller Tail attacks, `HasRedirectionAbility` returns `ABILITY_NONE`, preventing redirection
 - This immunity works similarly to the moves that naturally bypass redirection (like Snipe Shot)
 
 ### Strategic Applications
@@ -52,5 +50,5 @@ Propeller Tail is a combination ability that provides two distinct effects:
 - Particularly useful in doubles battles where redirection is more common
 - The combination makes it ideal for fast, precise attackers in rain teams
 
-### Pokémon with Propeller Tail
-This ability is typically found on aquatic Pokémon with propeller-like tails or fins, reflecting both the speed boost in rain and the precision targeting theme.
+### Pokemon with Propeller Tail
+This ability is typically found on aquatic Pokemon with propeller-like tails or fins, reflecting both the speed boost in rain and the precision targeting theme.

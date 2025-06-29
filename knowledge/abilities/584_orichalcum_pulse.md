@@ -15,8 +15,6 @@ character_count: 292
 
 Orichalcum Pulse automatically creates intense sunlight when the Pokemon enters battle. While sunlight is active, this ability amplifies the Pokemon's physical Attack power by exactly 33% (1.33x multiplier). Works with all sun forms: regular, permanent, and Desolate Land.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -53,8 +51,8 @@ Works with all sun weather types:
 - **WEATHER_SUN_PRIMAL**: Desolate Land (Primal Groudon's ability)
 
 ### Numerical Analysis
-- **Base 100 Attack** → **133 Attack** in sun (+33 effective Attack points)
-- **Base 150 Attack** → **200 Attack** in sun (+50 effective Attack points)
+- **Base 100 Attack** to **133 Attack** in sun (+33 effective Attack points)
+- **Base 150 Attack** to **200 Attack** in sun (+50 effective Attack points)
 - The boost is multiplicative with other Attack modifiers (items, stat changes, etc.)
 
 ### Activation Conditions

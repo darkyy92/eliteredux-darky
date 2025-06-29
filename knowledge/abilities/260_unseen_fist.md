@@ -13,9 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokémon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.
-
-*Character count: 299*
+Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokemon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -34,7 +32,7 @@ In the game code, Unseen Fist is checked in the `ProtectionOverlap` function in 
 
 **Strategic Applications:**
 - Excellent for breaking through defensive strategies that rely on protection moves
-- Particularly effective against stall teams and defensive Pokémon
+- Particularly effective against stall teams and defensive Pokemon
 - Allows setup sweepers to maintain momentum without being stopped by protection
 - Pairs well with high-power contact moves like Close Combat, Flare Blitz, or Brave Bird
 
@@ -46,6 +44,6 @@ In the game code, Unseen Fist is checked in the `ProtectionOverlap` function in 
 - Only works with contact moves - special attacks and non-contact physical moves don't benefit
 - Doesn't bypass immunities (Ghost immunity to Normal/Fighting, etc.)
 - Status moves and non-damaging contact moves also bypass protection but don't deal damage
-- Opposing Pokémon can still use evasion, type immunities, or abilities like Wonder Guard for defense
+- Opposing Pokemon can still use evasion, type immunities, or abilities like Wonder Guard for defense
 
 This ability transforms contact-based attackers into reliable offensive forces that can't be easily walled by protection spam.

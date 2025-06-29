@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokémon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
-
-*Character count: 294*
+Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokemon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,9 +21,9 @@ Galvanize converts all Normal-type moves to Electric-type and boosts their power
 Galvanize is an ATE-type ability that fundamentally alters how Normal-type moves function for the user.
 
 ### Core Mechanics
-- **Type Conversion**: All Normal-type moves used by the Pokémon become Electric-type
+- **Type Conversion**: All Normal-type moves used by the Pokemon become Electric-type
 - **Power Boost**: Converted moves receive a 20% damage increase (1.2x multiplier)
-- **STAB Application**: The Pokémon gains Same Type Attack Bonus on converted Electric moves
+- **STAB Application**: The Pokemon gains Same Type Attack Bonus on converted Electric moves
 - **Move Coverage**: Affects both damaging moves and status moves
 
 ### Technical Implementation
@@ -45,26 +43,26 @@ constexpr Ability Galvanize = {
 
 ### Affected Moves Examples
 **Damaging Moves:**
-- Quick Attack → Electric Quick Attack (boosted)
-- Body Slam → Electric Body Slam (boosted)
-- Hyper Beam → Electric Hyper Beam (boosted)
-- Return/Frustration → Electric Return/Frustration (boosted)
+- Quick Attack to Electric Quick Attack (boosted)
+- Body Slam to Electric Body Slam (boosted)
+- Hyper Beam to Electric Hyper Beam (boosted)
+- Return/Frustration to Electric Return/Frustration (boosted)
 
 **Status Moves:**
 - Thunder Wave (already Electric - no change)
-- Growl → Electric Growl (type changed, still status)
-- Tail Whip → Electric Tail Whip (type changed, still status)
+- Growl to Electric Growl (type changed, still status)
+- Tail Whip to Electric Tail Whip (type changed, still status)
 
 ### Damage Calculation
 For a Normal move converted by Galvanize:
 1. Base move becomes Electric-type
-2. Power increased by 20% (×1.2)
-3. STAB applied if user is Electric-type (×1.5)
+2. Power increased by 20% (x1.2)
+3. STAB applied if user is Electric-type (x1.5)
 4. Type effectiveness calculated against Electric
 
 **Example**: Quick Attack (40 BP) becomes:
-- Base: 40 × 1.2 (Galvanize) = 48 BP
-- With STAB (if Electric-type): 48 × 1.5 = 72 effective BP
+- Base: 40 x 1.2 (Galvanize) = 48 BP
+- With STAB (if Electric-type): 48 x 1.5 = 72 effective BP
 
 ### Common Users in Elite Redux
 - **Alolan Geodude line**: Geodude-A, Graveler-A, Golem-A (regular or innate ability)

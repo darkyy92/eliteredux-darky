@@ -15,8 +15,6 @@ character_count: 287
 
 Shocking Maw combines Strong Jaw and paralysis effects for bite moves. Strong Jaw boosts bite move power by 30% while each bite move has a 50% chance to paralyze the target. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, and other biting attacks.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -86,12 +84,12 @@ All moves with the FLAG_STRONG_JAW_BOOST flag, including:
 ### Damage Calculations
 With Shocking Maw, bite moves receive:
 - **Base damage**: Normal move power
-- **Strong Jaw boost**: × 1.3 multiplier
+- **Strong Jaw boost**: x 1.3 multiplier
 - **Type effectiveness**: Normal STAB and type chart
 - **Critical hits**: Can still crit normally
 - **Other modifiers**: Life Orb, Choice items, etc. still apply
 
-Example: Crunch (80 BP) becomes effectively 104 BP (80 × 1.3)
+Example: Crunch (80 BP) becomes effectively 104 BP (80 x 1.3)
 
 ### Status Effect Mechanics
 - **Paralysis chance**: Exactly 50% on each successful hit
@@ -134,8 +132,8 @@ Example: Crunch (80 BP) becomes effectively 104 BP (80 × 1.3)
 ### Competitive Usage
 
 #### Ideal Users
-- **Physical attackers**: Pokémon with high Attack stats
-- **Diverse movesets**: Pokémon that learn multiple bite moves
+- **Physical attackers**: Pokemon with high Attack stats
+- **Diverse movesets**: Pokemon that learn multiple bite moves
 - **Bulky attackers**: Can tank hits while applying status pressure
 - **Priority users**: Can potentially paralyze faster threats
 

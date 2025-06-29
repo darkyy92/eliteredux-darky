@@ -15,8 +15,6 @@ character_count: 294
 
 Supreme Overlord boosts Attack and Special Attack by 10% for each fainted ally on your side, capped at 5 allies maximum for a 50% boost to both stats. The ability only activates when at least one ally has fainted. Perfect for revenge sweepers and late-game scenarios.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

@@ -15,8 +15,6 @@ character_count: 290
 
 Fortitude raises Special Defense by 1 stage when hit by any move. If the attack is a critical hit, Special Defense is maxed out to +6 stages instead. The boost applies before damage calculation, making each hit progressively weaker against special attacks.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Fortitude raises Special Defense by 1 stage when hit by any move. If the attack 
 Fortitude is a defensive ability that turns every hit into a potential Special Defense boost. The ability provides escalating defensive utility that can completely shut down special attackers over time.
 
 ### Activation Conditions
-- **Trigger**: Any move that hits the Pokémon
+- **Trigger**: Any move that hits the Pokemon
 - **Damage requirement**: Move must deal damage (status moves don't trigger)
 - **Critical hit bonus**: Critical hits instantly max out Special Defense
 - **Multi-hit moves**: Each hit triggers the ability separately
@@ -70,10 +68,10 @@ Fortitude is a defensive ability that turns every hit into a potential Special D
 
 ### Common Users
 Based on the code analysis, Fortitude appears on:
-- Defensive Pokémon that appreciate stat boosts
-- Pokémon with good Special Defense stat distribution
-- Bulky support Pokémon that can utilize the defensive scaling
-- Pokémon that can take advantage of the critical hit interaction
+- Defensive Pokemon that appreciate stat boosts
+- Pokemon with good Special Defense stat distribution
+- Bulky support Pokemon that can utilize the defensive scaling
+- Pokemon that can take advantage of the critical hit interaction
 
 ### Competitive Usage Notes
 - **Defensive core**: Excellent on defensive teams

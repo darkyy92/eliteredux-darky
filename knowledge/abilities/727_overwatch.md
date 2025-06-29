@@ -15,8 +15,6 @@ character_count: 297
 
 Overwatch combines On the Prowl and Stakeout effects. Gives +1 priority to all moves on the first turn after switching in, with negative priority moves becoming +0. Additionally, deals double damage to opponents switching into battle. Perfect for punishing switch-ins with priority.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -91,7 +89,7 @@ The `isFirstTurn` counter works as follows:
 
 ### Strategic Applications
 **Lead Position:**
-- Excellent as a lead Pokémon to pressure opponent's lead
+- Excellent as a lead Pokemon to pressure opponent's lead
 - Priority ensures first move even against faster opponents
 - Punishes immediate switches with double damage
 
@@ -122,7 +120,7 @@ The `isFirstTurn` counter works as follows:
 
 **Stakeout Limitations:**
 - Only affects switch-ins, not initial leads
-- No boost against Pokémon that stay in
+- No boost against Pokemon that stay in
 - Can be played around with bulky switch-ins
 - Entry hazards may KO before Stakeout triggers
 
@@ -141,10 +139,10 @@ The `isFirstTurn` counter works as follows:
 - High skill ceiling for optimal use
 
 **Common Users:**
-- Fast offensive Pokémon that want guaranteed first moves
-- Pokémon with strong priority moves (Aqua Jet, Bullet Punch, etc.)
+- Fast offensive Pokemon that want guaranteed first moves
+- Pokemon with strong priority moves (Aqua Jet, Bullet Punch, etc.)
 - Choice item users that want switch punishment
-- Pokémon with good prediction moves like U-turn
+- Pokemon with good prediction moves like U-turn
 
 **Team Roles:**
 - **Lead**: Pressure opponent immediately

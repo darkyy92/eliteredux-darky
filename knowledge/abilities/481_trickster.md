@@ -15,8 +15,6 @@ character_count: 295
 
 Trickster automatically uses Disable on switch-in, targeting any alive opponent. Disable prevents the target from using their last-used move for several turns. If multiple opponents exist, targets the first alive opponent found. A cunning ability that disrupts enemy strategies.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -65,8 +63,8 @@ From MoveList.textproto:
 - **Ability suppression**: Doesn't work if ability is suppressed
 
 ### Strategic Applications
-- **Lead disruption**: Excellent on lead Pokémon to disable setup moves
-- **Revenge killer**: Disable the move that KO'd your previous Pokémon
+- **Lead disruption**: Excellent on lead Pokemon to disable setup moves
+- **Revenge killer**: Disable the move that KO'd your previous Pokemon
 - **Stall breaking**: Disable recovery moves or key defensive options
 - **Pivot support**: Disable threats before pivoting out
 - **Momentum control**: Force opponent into suboptimal plays
@@ -99,7 +97,7 @@ for (i = 0; i < 2; opposingBattler ^= BIT_FLANK, i++) {
 - **Mental Herb**: Target can use Mental Herb to cure Disable
 
 ### Counters
-- **Dark-type Pokémon**: Immune to Disable due to type immunity
+- **Dark-type Pokemon**: Immune to Disable due to type immunity
 - **Substitute**: Blocks the Disable effect
 - **Mental Herb**: Cures Disable immediately
 - **Ability suppression**: Mold Breaker, Neutralizing Gas

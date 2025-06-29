@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fire Aspect absorbs all Fire-type moves to restore HP instead of taking damage. The Pokémon recovers 25% of its maximum HP when hit by fire attacks. Works against all fire moves including status moves. The absorbed energy fuels the user's internal flames, maintaining constant heat.
-
-*Character count: 293*
+Fire Aspect absorbs all Fire-type moves to restore HP instead of taking damage. The Pokemon recovers 25% of its maximum HP when hit by fire attacks. Works against all fire moves including status moves. The absorbed energy fuels the user's internal flames, maintaining constant heat.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -59,7 +57,7 @@ Fire Aspect absorbs all Fire-type moves including:
 ### "Always Burns With Fire" Effect
 The description suggests thematic constant burning, which may represent:
 - The user's internal fire being fueled by absorbed flames
-- Persistent fire energy within the Pokémon
+- Persistent fire energy within the Pokemon
 - Possible future implementation of self-burn status with benefits
 - Currently implemented as standard fire absorption with healing
 
@@ -72,8 +70,8 @@ The description suggests thematic constant burning, which may represent:
 
 ### Common Users
 - Fire/Water dual-types that resist their own type
-- Defensive Pokémon that can wall fire attackers
-- Pokémon with secondary Fire typing
+- Defensive Pokemon that can wall fire attackers
+- Pokemon with secondary Fire typing
 - Mixed walls that need fire immunity
 
 ### Competitive Usage Notes

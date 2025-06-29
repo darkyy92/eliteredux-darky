@@ -15,8 +15,6 @@ character_count: 294
 
 Dual Wield causes moves boosted by Mega Launcher or Keen Edge to hit twice, with each hit dealing 70% of the move's normal damage. Works with beam moves, pulse moves, cannon moves, and blade moves. Total damage is 140% compared to single hit. Maintains secondary effects on both hits.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -28,7 +26,7 @@ Dual Wield is an offensive ability that transforms certain moves into double-hit
   - `FLAG_MEGA_LAUNCHER_BOOST` (beam/pulse/cannon moves)
   - `FLAG_KEEN_EDGE_BOOST` (blade/cutting moves)
 - **Damage Calculation**: Each hit deals 70% of the original move's power
-- **Total Damage**: 140% of original damage (0.7 × 2 = 1.4)
+- **Total Damage**: 140% of original damage (0.7 x 2 = 1.4)
 - **Hit Mechanics**: Uses `PARENTAL_BOND_DUAL_WIELD` system
 
 ### Mega Launcher Boosted Moves (Examples)
@@ -71,7 +69,7 @@ case PARENTAL_BOND_DUAL_WIELD:
 - **Contact Moves**: Contact-based moves make contact on both hits
 - **Accuracy**: Each hit is rolled for accuracy separately
 - **Critical Hits**: Each hit can crit independently
-- **Substitutes**: Can break substitute on first hit, damage Pokémon on second
+- **Substitutes**: Can break substitute on first hit, damage Pokemon on second
 - **Abilities**: Abilities like Sturdy, Focus Sash only block the first hit
 - **Items**: Life Orb recoil applies after each hit
 
@@ -85,7 +83,7 @@ The ability works through the `IsMegaLauncherBoosted()` function which returns t
 - **Single Hit**: 100% damage
 - **Dual Wield**: 70% + 70% = 140% total damage
 - **Parental Bond**: 100% + 25% = 125% total damage (for comparison)
-- **Skill Link Multi-Hit**: Usually 125% (5 × 25%) but varies by move
+- **Skill Link Multi-Hit**: Usually 125% (5 x 25%) but varies by move
 
 ### Strategic Implications
 - **Power Boost**: Effective 40% damage increase over single hits
@@ -105,7 +103,7 @@ Dual Wield is particularly effective on:
 - **Special Attackers**: With access to beam/pulse moves
 - **Physical Attackers**: With blade/cutting moves
 - **Mixed Attackers**: Who can utilize both move types
-- **Pokémon with good movepool coverage**: Maximizing eligible moves
+- **Pokemon with good movepool coverage**: Maximizing eligible moves
 
 ### Counters and Limitations
 - **Rocky Helmet/Rough Skin**: Double damage from contact moves

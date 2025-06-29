@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-High Tide triggers a 50 BP Surf attack immediately after the Pokémon uses any Water-type move. The followup Surf uses the same target as the original move and cannot miss. Works with all Water-type attacks including status moves. Creates powerful two-hit combos for sustained offensive pressure.
-
-*Character count: 295*
+High Tide triggers a 50 BP Surf attack immediately after the Pokemon uses any Water-type move. The followup Surf uses the same target as the original move and cannot miss. Works with all Water-type attacks including status moves. Creates powerful two-hit combos for sustained offensive pressure.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -99,10 +97,10 @@ High Tide appears as an innate ability on several Water-type Pokemon:
 
 ### Similar Abilities
 High Tide follows the same pattern as other followup abilities:
-- **Volcano Rage**: Fire moves → 50 BP Eruption
-- **Thundercall**: Electric moves → 20% power Smite
-- **Frost Burn**: Fire moves → 40 BP Ice Beam
-- **Glacial Rage**: Ice moves → 50 BP Blizzard
+- **Volcano Rage**: Fire moves to 50 BP Eruption
+- **Thundercall**: Electric moves to 20% power Smite
+- **Frost Burn**: Fire moves to 40 BP Ice Beam
+- **Glacial Rage**: Ice moves to 50 BP Blizzard
 
 ### Version History
 - Custom Elite Redux ability (ID 503)

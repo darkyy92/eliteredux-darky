@@ -5,21 +5,17 @@ status: ai-generated
 character_count: 289
 ---
 
-# Lawnmower
+# Lawnmower - Ability ID 602
 
-**Ability ID**: 602
-**Type**: Regular Ability
-
-**In-Game Description**: "Removes terrain on switch-in. Stat up if terrain removed."
+## In-Game Description
+"Removes terrain on switch-in. Stat up if terrain removed."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. No effect if no terrain is active. Terrain removal happens before stat boost. Works on extended terrain.
 
-*Character count: 289*
-
-## Detailed Mechanical Explanation (Discord/Reference)
+## Detailed Mechanical Explanation
 
 **Lawnmower** is a terrain-clearing ability that triggers on switch-in, removing any active terrain and providing a stat boost based on which terrain was removed.
 
@@ -38,7 +34,7 @@ The ability provides **different stat boosts depending on which terrain is remov
 
 ## Trigger Conditions
 
-- **On Entry**: Activates when the Pokémon switches into battle
+- **On Entry**: Activates when the Pokemon switches into battle
 - **Requirement**: Only triggers if any terrain is currently active (`STATUS_FIELD_TERRAIN_ANY`)
 - **Failure Condition**: No activation if no terrain is present (fails silently)
 

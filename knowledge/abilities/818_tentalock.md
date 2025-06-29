@@ -15,8 +15,6 @@ character_count: 289
 
 Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -68,8 +66,8 @@ All trapping moves benefit from Tentalock:
 **Duration:** Guaranteed 6 turns (vs. 4-5 turns normally)
 
 **Example against 300 HP target:**
-- Standard: 37-38 damage × 4-5 turns = 148-190 total damage
-- Tentalock: 50 damage × 6 turns = 300 total damage
+- Standard: 37-38 damage x 4-5 turns = 148-190 total damage
+- Tentalock: 50 damage x 6 turns = 300 total damage
 - Plus potential Speed drops: -1 to -6 stages over 6 turns
 
 ### Interactions and Synergies

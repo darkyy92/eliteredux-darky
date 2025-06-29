@@ -2,29 +2,25 @@
 id: 170
 name: Magician
 status: ai-generated
-character_count: 289
+character_count: 290
 ---
 
-# Magician
+# Magician - Ability ID 170
 
-## Summary
-Magician is a non-contact move-triggered ability that allows the holder to steal the opponent's held item when using non-contact moves. This theft mechanic provides strategic item disruption and acquisition, making it particularly valuable for special attackers and status move users.
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-**In-game description:** "Steals the foe's held item after using a non-contact move."
+## In-Game Description
+"Steals the foe's held item after using a non-contact move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Magician activates when the holder uses a non-contact move that damages the target, automatically stealing the target's held item if possible. The stolen item immediately benefits the thief. Fails if the holder already has an item, the target has Sticky Hold, or the item cannot be stolen.
 
-**Character count:** 289
+## Detailed Mechanical Explanation
 
-## Detailed Mechanics
+Magician is a non-contact move-triggered ability that allows the holder to steal the opponent's held item when using non-contact moves. This theft mechanic provides strategic item disruption and acquisition, making it particularly valuable for special attackers and status move users.
 
 ### Activation Conditions
-- Triggers when the Pokémon with Magician uses a **non-contact move**
+- Triggers when the Pokemon with Magician uses a **non-contact move**
 - The target must take damage from the attack
 - The move must not have "no effect" (type immunity, etc.)
 - Activates during the MOVEEND phase after damage calculation
@@ -39,7 +35,7 @@ Magician activates when the holder uses a non-contact move that damages the targ
 
 ### Special Interactions
 - **Works through Substitute** - Unlike many abilities, Magician bypasses substitutes
-- **Priority System** - If multiple Pokémon could trigger item theft, one is randomly selected
+- **Priority System** - If multiple Pokemon could trigger item theft, one is randomly selected
 - **Immediate Effect** - Stolen items take effect immediately (e.g., Choice items, Leftovers)
 - **Ability Popup** - Shows ability activation animation when successful
 - **Sheer Force** - Does not activate if holder has Sheer Force and uses a boosted move
@@ -50,7 +46,7 @@ Magician activates when the holder uses a non-contact move that damages the targ
 - Same underlying mechanics, but opposite activation conditions
 
 ### Battle Flow
-1. Pokémon with Magician uses non-contact move
+1. Pokemon with Magician uses non-contact move
 2. Damage is dealt to target
 3. Game checks if Magician can activate
 4. If successful, item is transferred
@@ -73,20 +69,20 @@ Magician activates when the holder uses a non-contact move that damages the targ
 - **Predictable** - Opponents can prepare for item theft attempts
 
 ### Strategy Tips
-- **Special Attacker Focus** - Ideal for Pokémon with strong special movesets
+- **Special Attacker Focus** - Ideal for Pokemon with strong special movesets
 - **Status Move Synergy** - Works with damaging status moves if they don't make contact
 - **Choice Item Counter** - Excellent against Choice-locked opponents
 - **Utility Theft** - Can steal utility items like Leftovers, Rocky Helmet, etc.
 
-## Known Pokémon with Magician
-Three Pokémon currently have access to Magician in Elite Redux:
+## Known Pokemon with Magician
+Three Pokemon currently have access to Magician in Elite Redux:
 
 ### Klefki
 - **Type:** Steel/Fairy
 - **Role:** Support/Utility
 - **Stats:** 57/80/91/80/87/75
 - **Other Abilities:** Magic Guard, Friend Guard
-- **Strategy:** Perfect defensive utility Pokémon with item disruption capability
+- **Strategy:** Perfect defensive utility Pokemon with item disruption capability
 
 ### Hoopa Unbound
 - **Type:** Psychic/Dark  
@@ -100,7 +96,7 @@ Three Pokémon currently have access to Magician in Elite Redux:
 - **Role:** Fast Physical/Special Hybrid
 - **Stats:** 81/110/70/81/70/123
 - **Other Abilities:** Magic Bounce, Magic Guard
-- **Category:** Literally the "Magician Pokémon"
+- **Category:** Literally the "Magician Pokemon"
 - **Strategy:** High-speed attacker with excellent type coverage and utility
 
 ## History and Trivia
@@ -108,11 +104,11 @@ Three Pokémon currently have access to Magician in Elite Redux:
 - Originally associated with the Fennekin evolution line
 - Represents the classic "magician's trick" of making items disappear
 - Thematically opposite to Pickpocket - active vs passive theft
-- Meowscarada is categorized as the "Magician Pokémon" species
+- Meowscarada is categorized as the "Magician Pokemon" species
 
 ## See Also
 - **Pickpocket** - Complementary ability that triggers on contact moves
 - **Sticky Hold** - Direct counter to Magician
 - **Knock Off** - Move that removes items
 - **Thief/Covet** - Moves that steal items
-- **Magic Guard** - Often paired with Magician on the same Pokémon
+- **Magic Guard** - Often paired with Magician on the same Pokemon

@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Doubles damage of not very effective moves like Tinted Lens. When this Pokémon knocks out a foe, it immediately recovers from recharge effects and removes recharge status, allowing consecutive use of powerful moves like Hyper Beam without the mandatory rest turn.
-
-*Character count: 297*
+Doubles damage of not very effective moves like Tinted Lens. When this Pokemon knocks out a foe, it immediately recovers from recharge effects and removes recharge status, allowing consecutive use of powerful moves like Hyper Beam without the mandatory rest turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -36,7 +34,7 @@ Drake Of Rage combines two powerful abilities into one devastating package:
 
 ### Rampage Component
 - **Effect**: Removes recharge status when knocking out an opponent
-- **Activation**: When the Pokémon with this ability faints an enemy battler
+- **Activation**: When the Pokemon with this ability faints an enemy battler
 - **Implementation**: 
   - Sets ability state to TRUE (tracking activation)
   - Resets `gVolatileStructs[battler].rechargeTimer = 0`
@@ -55,20 +53,20 @@ Drake Of Rage combines two powerful abilities into one devastating package:
 ### Damage Calculation Examples
 
 **Tinted Lens Effect:**
-- Fire move vs Water-type: 0.5x → 1.0x (100% damage instead of 50%)
-- Electric move vs Ground-type: 0x → 0x (no effect on immunities)
-- Grass move vs Fire/Flying: 0.25x → 0.5x (50% damage instead of 25%)
+- Fire move vs Water-type: 0.5x to 1.0x (100% damage instead of 50%)
+- Electric move vs Ground-type: 0x to 0x (no effect on immunities)
+- Grass move vs Fire/Flying: 0.25x to 0.5x (50% damage instead of 25%)
 
 **Rampage Scenarios:**
-- Use Hyper Beam → KO opponent → No recharge turn → Can attack immediately next turn
-- Use Giga Impact → KO opponent → No recharge turn → Can switch or attack freely
+- Use Hyper Beam to KO opponent to No recharge turn to Can attack immediately next turn
+- Use Giga Impact to KO opponent to No recharge turn to Can switch or attack freely
 
 ### Strategic Implications
 
 **Offensive Advantages:**
 - Makes "not very effective" coverage moves viable for dealing neutral damage
 - Enables consecutive use of the most powerful moves in the game
-- Particularly devastating on high-attack Pokémon with broad movepools
+- Particularly devastating on high-attack Pokemon with broad movepools
 - Synergizes with Choice items since recharge removal allows switching
 
 **Competitive Usage:**
@@ -132,8 +130,8 @@ Drake Of Rage combines two powerful abilities into one devastating package:
 - **Usage Rate**: High in offensive teams, moderate overall
 
 ### Notable Users
-While specific Pokémon data would need to be checked in the species files, this ability would be most effective on:
+While specific Pokemon data would need to be checked in the species files, this ability would be most effective on:
 - High-attack Dragon-types (natural synergy with "Drake" theme)
 - Physical attackers with diverse movepools
-- Pokémon with access to powerful recharge moves
+- Pokemon with access to powerful recharge moves
 - Wallbreakers that can reliably secure KOs

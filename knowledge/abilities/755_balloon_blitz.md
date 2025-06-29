@@ -15,8 +15,6 @@ character_count: 293
 
 Combines Inflatable and Hyper Aggressive effects. When hit by Fire or Flying moves, boosts Defense and Special Defense by one stage each. Additionally, all moves strike twice, with the second hit dealing 25% damage. Perfect for aggressive tanks that capitalize on defensive boosts.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -35,7 +33,7 @@ Combines Inflatable and Hyper Aggressive effects. When hit by Fire or Flying mov
 - Uses `ShouldApplyOnHitAffect()` check (blocked by Substitute, etc.)
 
 #### Hyper Aggressive Component  
-- Activates on all offensive moves used by the Pokémon
+- Activates on all offensive moves used by the Pokemon
 - Transforms single-hit moves into two-hit moves
 - Second hit deals exactly 25% of the first hit's damage
 - Works with physical, special, and status moves that deal damage
@@ -93,7 +91,7 @@ case PARENTAL_BOND_HYPER_AGGRESSIVE:
 2. **Check Conditions**: Valid hit, stat boost possible
 3. **Stat Boosts**: +1 Defense and +1 Special Defense
 4. **Animation**: Defensive stat boost animation plays
-5. **Message**: "Balloon Blitz raised [Pokémon's] Defense and Special Defense!"
+5. **Message**: "Balloon Blitz raised [Pokemon's] Defense and Special Defense!"
 
 ### Affected Move Types (Inflatable Component)
 
@@ -157,8 +155,8 @@ case PARENTAL_BOND_HYPER_AGGRESSIVE:
 
 ### Common Users
 Balloon Blitz is a unique combination ability that would be extremely powerful, likely restricted to:
-- **Legendary/Mythical Pokémon**: Due to the power of combining two strong abilities
-- **Special Event Pokémon**: Limited distribution due to competitive balance
+- **Legendary/Mythical Pokemon**: Due to the power of combining two strong abilities
+- **Special Event Pokemon**: Limited distribution due to competitive balance
 - **Mega Evolution exclusive**: Where the powerful combination justifies Mega status
 
 ### Competitive Usage Notes
@@ -172,7 +170,7 @@ Balloon Blitz is a unique combination ability that would be extremely powerful, 
 
 #### Weaknesses
 - **Overpowered Nature**: Likely banned in most competitive formats
-- **Limited Distribution**: Probably restricted to very few Pokémon
+- **Limited Distribution**: Probably restricted to very few Pokemon
 - **Prediction Required**: Inflatable requires switching into specific move types
 - **Status Moves**: Hyper Aggressive doesn't boost non-damaging moves
 
@@ -206,7 +204,7 @@ Balloon Blitz is a unique combination ability that would be extremely powerful, 
 
 ### Version History
 - Introduced in Elite Redux as a unique combination ability
-- Designed as an extremely powerful ability for special/legendary Pokémon
+- Designed as an extremely powerful ability for special/legendary Pokemon
 - Combines two popular ability effects into one overpowered package
 - Likely restricted due to competitive balance concerns
 
@@ -214,5 +212,5 @@ Balloon Blitz is a unique combination ability that would be extremely powerful, 
 This ability is intentionally overpowered, combining two strong individual abilities:
 - **Power Level**: Far exceeds typical ability strength
 - **Competitive Impact**: Would dominate most formats if widely available
-- **Design Intent**: Meant for special, limited-distribution Pokémon
+- **Design Intent**: Meant for special, limited-distribution Pokemon
 - **Restriction Necessity**: Likely requires usage bans in competitive play

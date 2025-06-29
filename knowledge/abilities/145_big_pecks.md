@@ -15,8 +15,6 @@ character_count: 284
 
 Big Pecks boosts the power of all contact moves by 30%. This includes physical attacks like Tackle, Scratch, and Bite, as well as special contact moves like Grass Knot. The damage boost applies to any move that makes direct physical contact with the opponent.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -33,8 +31,8 @@ Big Pecks in Elite Redux has been completely reworked from its vanilla effect (w
 - **Special**: Grass Knot, Petal Dance (if it makes contact in this hack)
 - **Status**: Does not affect non-damaging moves
 
-### Pokémon That Learn Big Pecks:
-Big Pecks is typically found on bird Pokémon and other creatures with prominent beaks or claws, making thematic sense for enhanced contact-based attacks.
+### Pokemon That Learn Big Pecks:
+Big Pecks is typically found on bird Pokemon and other creatures with prominent beaks or claws, making thematic sense for enhanced contact-based attacks.
 
 ### Competitive Usage:
-This ability transforms Big Pecks into a powerful offensive tool, making it particularly valuable for Pokémon with strong contact move pools. The 30% boost is significant enough to change damage calculations and KO thresholds in competitive play.
+This ability transforms Big Pecks into a powerful offensive tool, making it particularly valuable for Pokemon with strong contact move pools. The 30% boost is significant enough to change damage calculations and KO thresholds in competitive play.

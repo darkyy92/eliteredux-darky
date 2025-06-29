@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Headstrong raises the Pokémon's Special Defense by one stage when it switches into battle. This defensive boost activates automatically upon entry and can be prevented by abilities like Mold Breaker. The stat boost is permanent until the Pokémon switches out or faints.
-
-*Character count: 293*
+Headstrong raises the Pokemon's Special Defense by one stage when it switches into battle. This defensive boost activates automatically upon entry and can be prevented by abilities like Mold Breaker. The stat boost is permanent until the Pokemon switches out or faints.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Headstrong raises the Pokémon's Special Defense by one stage when it switches i
 Headstrong is a straightforward entry ability that provides an immediate defensive boost upon switching in.
 
 ### Core Mechanics
-- **Trigger**: Activates when the Pokémon switches into battle
+- **Trigger**: Activates when the Pokemon switches into battle
 - **Effect**: Raises Special Defense by 1 stage (+50% Special Defense)
 - **Implementation**: Uses the `onEntry` hook with `CanRaiseStat(battler, STAT_SPDEF)` check
 
@@ -60,7 +58,7 @@ constexpr Ability Headstrong = {
 
 ### Strategic Implications
 - **Defensive Setup**: Provides immediate bulk against special attacks
-- **Switch-In Value**: Makes the Pokémon a reliable special wall from turn 1
+- **Switch-In Value**: Makes the Pokemon a reliable special wall from turn 1
 - **Momentum**: Allows aggressive switching without losing defensive presence
 - **Synergy**: Works well with other defensive abilities and moves
 
@@ -72,9 +70,9 @@ With base 100 Special Defense at level 50:
 
 ### Common Users
 This ability is typically found on:
-- Defensive Pokémon designed for special walling
-- Pokémon with already high Special Defense stats
-- Bulky support Pokémon that benefit from immediate defensive presence
+- Defensive Pokemon designed for special walling
+- Pokemon with already high Special Defense stats
+- Bulky support Pokemon that benefit from immediate defensive presence
 
 ### Competitive Usage Notes
 - **Entry Hazard Synergy**: Helps mitigate damage from special attacks while setting up

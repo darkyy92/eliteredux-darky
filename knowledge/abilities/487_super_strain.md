@@ -15,8 +15,6 @@ character_count: 287
 
 This ability modifies recoil damage calculation and triggers when the user causes an opponent to faint. Recoil moves deal 25% damage to user instead of normal recoil rates. When user KOs opponent, attacker's Attack stat drops by 1 stage automatically.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -63,11 +61,11 @@ constexpr Ability SuperStrain = {
 
 ### Recoil Move Interactions
 **Common recoil moves affected:**
-- Double-Edge: 120 BP, normally 1/3 recoil → 25% recoil
-- Head Smash: 150 BP, normally 1/2 recoil → 25% recoil  
-- Flare Blitz: 120 BP, normally 1/3 recoil → 25% recoil
-- Brave Bird: 120 BP, normally 1/3 recoil → 25% recoil
-- Wild Charge: 90 BP, normally 1/4 recoil → 25% recoil
+- Double-Edge: 120 BP, normally 1/3 recoil to 25% recoil
+- Head Smash: 150 BP, normally 1/2 recoil to 25% recoil  
+- Flare Blitz: 120 BP, normally 1/3 recoil to 25% recoil
+- Brave Bird: 120 BP, normally 1/3 recoil to 25% recoil
+- Wild Charge: 90 BP, normally 1/4 recoil to 25% recoil
 
 ### Damage Calculation Examples
 **Head Smash (150 BP, normally 50% recoil):**

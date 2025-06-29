@@ -15,8 +15,6 @@ character_count: 295
 
 Prism Armor reduces damage from super effective moves by 35%, calculating as a 0.65x multiplier. This protective ability activates whenever type effectiveness would deal 2x or greater damage. Works against all super effective attacks including those boosted by items or abilities. Provides consistent defensive utility against coverage moves.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -91,8 +89,8 @@ constexpr Ability Filter = {
 - Double weakness (4x): OHKO (150% HP damage)
 
 **With Prism Armor:**
-- Super effective move: ~49% HP damage (75% × 0.65)
-- Double weakness: ~98% HP damage (150% × 0.65)
+- Super effective move: ~49% HP damage (75% x 0.65)
+- Double weakness: ~98% HP damage (150% x 0.65)
 
 ### Common Users
 **Notable Pokemon with Prism Armor:**

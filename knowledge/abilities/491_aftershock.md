@@ -13,15 +13,13 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-After using any damaging move, the Pokémon automatically follows up with Magnitude at 65 power. This Ground-type tremor hits all adjacent Pokémon, including allies in double battles. The follow-up attack can only occur if the original move successfully targets an opponent.
-
-*Character count: 285*
+After using any damaging move, the Pokemon automatically follows up with Magnitude at 65 power. This Ground-type tremor hits all adjacent Pokemon, including allies in double battles. The follow-up attack can only occur if the original move successfully targets an opponent.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Aftershock automatically triggers a secondary Magnitude attack after any successful damaging move, creating seismic follow-up damage that affects all adjacent Pokémon on the battlefield.
+Aftershock automatically triggers a secondary Magnitude attack after any successful damaging move, creating seismic follow-up damage that affects all adjacent Pokemon on the battlefield.
 
 ### Activation Conditions
 - **Trigger**: After using any damaging move with power > 0
@@ -45,7 +43,7 @@ constexpr Ability Aftershock = {
 - **Base power**: 65 (fixed for this ability)
 - **Type**: Ground
 - **Category**: Physical
-- **Target**: All adjacent Pokémon (FOES_AND_ALLY)
+- **Target**: All adjacent Pokemon (FOES_AND_ALLY)
 - **Accuracy**: 100%
 - **Effects**: Standard Ground-type interactions
 
@@ -57,7 +55,7 @@ constexpr Ability Aftershock = {
 - **Multi-target utility**: Excellent in double battles for field control
 
 ### Double Battle Considerations
-- **Ally damage**: Can harm partner Pokémon, requiring careful positioning
+- **Ally damage**: Can harm partner Pokemon, requiring careful positioning
 - **Flying immunity**: Flying-types and Levitate users avoid the follow-up
 - **Wide spread**: Affects all adjacent positions simultaneously
 - **Positioning strategy**: Requires tactical awareness of battlefield layout

@@ -13,20 +13,18 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Moxie boosts the user's Attack stat by one stage when it knocks out an opponent Pokémon. This ability triggers immediately after dealing the final blow and works with any move that causes a knockout. The Attack boost stacks with other stat modifiers and persists until switching out.
-
-*Character count: 286*
+Moxie boosts the user's Attack stat by one stage when it knocks out an opponent Pokemon. This ability triggers immediately after dealing the final blow and works with any move that causes a knockout. The Attack boost stacks with other stat modifiers and persists until switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Moxie is an ability that provides an immediate Attack stat boost upon knocking out an opposing Pokémon, making it a powerful ability for sweeping teams and maintaining offensive momentum.
+Moxie is an ability that provides an immediate Attack stat boost upon knocking out an opposing Pokemon, making it a powerful ability for sweeping teams and maintaining offensive momentum.
 
 ### Core Mechanics
-- **Activation Trigger**: Triggers when the Pokémon with Moxie deals the final blow that causes an opponent to faint
+- **Activation Trigger**: Triggers when the Pokemon with Moxie deals the final blow that causes an opponent to faint
 - **Stat Boost**: Raises Attack by one stage (equivalent to 50% increase) immediately after the knockout
 - **Stack Limit**: Can stack up to +6 stages maximum, following standard stat boost rules
-- **Duration**: The Attack boost persists until the Pokémon switches out, faints, or has its stats reset
+- **Duration**: The Attack boost persists until the Pokemon switches out, faints, or has its stats reset
 
 ### Technical Implementation
 ```cpp
@@ -49,13 +47,13 @@ static int MoxieClone(int battler, int stat) {
 - **Direct Damage**: Works with any move that deals direct damage and causes a knockout
 - **Indirect Damage**: Does NOT trigger from poison, burn, weather damage, or other indirect sources that cause fainting
 - **Multi-hit Moves**: Triggers only once per knockout, regardless of how many hits the move has
-- **Substitute**: Can trigger when breaking a Substitute if it causes the Pokémon to faint
+- **Substitute**: Can trigger when breaking a Substitute if it causes the Pokemon to faint
 - **Critical Hits**: Works normally with critical hits
 
 ### Interactions with Other Abilities/Mechanics
 - **Mold Breaker Effects**: Cannot be suppressed by Mold Breaker, Turboblaze, or Teravolt
 - **Ability Suppression**: Can be temporarily disabled by Gastro Acid or similar effects
-- **Stat Reset**: Attack boosts are lost when the Pokémon switches out or uses moves like Haze
+- **Stat Reset**: Attack boosts are lost when the Pokemon switches out or uses moves like Haze
 - **Contrary**: If the user has Contrary, Moxie would lower Attack instead of raising it
 - **Simple**: If the user has Simple, each Moxie activation would provide +2 Attack stages instead of +1
 
@@ -76,14 +74,14 @@ static int MoxieClone(int battler, int stat) {
 - Priority moves help secure knockouts on faster, weakened opponents
 
 ### Example Damage Calculations
-With a base 100 Attack Pokémon at level 50:
+With a base 100 Attack Pokemon at level 50:
 - **No Moxie boosts**: 152 Attack stat
 - **+1 Moxie boost**: 228 Attack stat (50% increase)
 - **+2 Moxie boosts**: 304 Attack stat (100% increase)
 - **+3 Moxie boosts**: 380 Attack stat (150% increase)
 
 ### Common Users in Elite Redux
-Notable Pokémon with Moxie include:
+Notable Pokemon with Moxie include:
 - **Mankey/Primeape**: Early-game sweepers with good Attack stats
 - **Mightyena/Poochyena**: Dark-type attackers with decent speed
 - **Heracross**: Powerful physical attacker with excellent movepool
@@ -99,7 +97,7 @@ Notable Pokémon with Moxie include:
 - Excellent for cleaning up weakened teams
 
 **Counters and Weaknesses**:
-- **Defensive Walls**: Pokémon with extremely high Defense can stop Moxie sweeps
+- **Defensive Walls**: Pokemon with extremely high Defense can stop Moxie sweeps
 - **Priority Moves**: Faster priority attacks can revenge kill before additional knockouts
 - **Status Conditions**: Paralysis can prevent follow-up attacks, burn reduces Attack effectiveness
 - **Switching**: Opponent switching forces the Moxie user to potentially waste turns

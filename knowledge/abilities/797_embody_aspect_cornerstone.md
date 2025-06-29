@@ -13,23 +13,21 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Embody Aspect (Cornerstone) raises the Pokémon's Defense by one stage immediately upon switching into battle. This defensive boost occurs regardless of how the Pokémon enters battle, whether through normal switching, forced switching, or other entry methods.
-
-*Character count: 291*
+Embody Aspect (Cornerstone) raises the Pokemon's Defense by one stage immediately upon switching into battle. This defensive boost occurs regardless of how the Pokemon enters battle, whether through normal switching, forced switching, or other entry methods.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 - **Primary Effect**: Raises Defense by +1 stage upon entry
-- **Timing**: Activates immediately when the Pokémon switches into battle
+- **Timing**: Activates immediately when the Pokemon switches into battle
 - **Implementation**: Uses the same code as Dauntless Shield (`DauntlessShield.onEntry`)
 
 ### Activation Conditions
-- Triggers when the Pokémon switches into battle through any means:
+- Triggers when the Pokemon switches into battle through any means:
   - Normal switching
   - Forced switching (e.g., from Roar, Whirlwind)
-  - Entry after fainting of previous Pokémon
+  - Entry after fainting of previous Pokemon
   - Entry from moves like U-turn, Volt Switch
 
 ### Technical Implementation
@@ -76,7 +74,7 @@ constexpr Ability DauntlessShield = {
 - **Format Viability**: Strong in defensive teams and balance cores
 - **Entry Hazard Synergy**: Helps offset damage from Stealth Rock and Spikes
 - **Momentum Control**: Allows safer switching and defensive plays
-- **Multi-Battle Value**: Activates every time the Pokémon switches in
+- **Multi-Battle Value**: Activates every time the Pokemon switches in
 
 ### Counters
 - **Stat Reset**: Haze, Clear Smog remove the Defense boost
@@ -92,5 +90,5 @@ constexpr Ability DauntlessShield = {
 
 ### Version History
 - **Elite Redux**: Part of the Embody Aspect ability series for Ogerpon forms
-- **Original Inspiration**: Based on Dauntless Shield from official Pokémon games
+- **Original Inspiration**: Based on Dauntless Shield from official Pokemon games
 - **Implementation**: Uses shared code with Dauntless Shield for consistency

@@ -15,8 +15,6 @@ character_count: 296
 
 Spinning Top grants a +1 Speed boost and removes entry hazards from the user's side when using Fighting-type moves. Clears Stealth Rock, Spikes, Toxic Spikes, Sticky Web, Hot Coals, and Caltrops. The speed boost and hazard removal both activate after landing the Fighting move. Excellent for offensive sweepers.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,7 +24,7 @@ Spinning Top is an offensive ability that provides dual benefits when using Figh
 ### Activation Conditions
 - **Move type requirement**: Must use a Fighting-type move
 - **Hit requirement**: The move must successfully connect (ShouldApplyOnHitAffect)
-- **Once per turn**: Can only activate once per turn per Pokémon
+- **Once per turn**: Can only activate once per turn per Pokemon
 - **Timing**: Activates after the Fighting move deals damage
 
 ### Effects Applied
@@ -107,7 +105,7 @@ constexpr Ability SpinningTop = {
 ### Common Users
 - **Fighting-type attackers**: Natural STAB users benefit most
 - **Physical sweepers**: Often learn Fighting moves for coverage
-- **Anti-lead Pokémon**: Excel at breaking hazard-setting leads
+- **Anti-lead Pokemon**: Excel at breaking hazard-setting leads
 - **Mixed attackers**: Can use both physical and special Fighting moves
 
 ### Competitive Usage Notes
@@ -125,7 +123,7 @@ constexpr Ability SpinningTop = {
 - **Priority moves**: Can still be outsped by priority even with boosts
 
 ### Synergies
-- **Fighting-type STAB**: Natural synergy with Fighting-type Pokémon
+- **Fighting-type STAB**: Natural synergy with Fighting-type Pokemon
 - **Close Combat**: High-power move that triggers ability despite stat drops
 - **Mach Punch**: Priority Fighting move for immediate benefit
 - **Rapid Spin**: Similar hazard removal concept (though different type)

@@ -15,8 +15,6 @@ character_count: 297
 
 Metallic Jaws grants the Steel type upon switching in and enables jaw-based attacks to hit twice with 60% power on the second strike. The first hit deals full damage while the follow-up strike deals reduced damage, creating devastating combo potential with bite attacks like Crunch and Fang moves.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -67,13 +65,13 @@ constexpr Ability PrimalMaw = {
 All moves with the `strong_jaw: true` flag in the protobuf data, including:
 
 **Primary Bite/Jaw Moves:**
-- Bite (60 BP → 84 BP total)
-- Crunch (80 BP → 112 BP total)  
-- Hyper Fang (80 BP → 112 BP total)
-- Thunder Fang (65 BP → 91 BP total)
-- Ice Fang (65 BP → 91 BP total)
-- Fire Fang (65 BP → 91 BP total)
-- Poison Fang (50 BP → 70 BP total)
+- Bite (60 BP to 84 BP total)
+- Crunch (80 BP to 112 BP total)  
+- Hyper Fang (80 BP to 112 BP total)
+- Thunder Fang (65 BP to 91 BP total)
+- Ice Fang (65 BP to 91 BP total)
+- Fire Fang (65 BP to 91 BP total)
+- Poison Fang (50 BP to 70 BP total)
 
 **Other Strong Jaw Boosted Moves:**
 - Leech Life
@@ -109,9 +107,9 @@ All moves with the `strong_jaw: true` flag in the protobuf data, including:
 
 *Crunch (80 BP) with Metallic Jaws:*
 - First hit: 80 BP
-- Second hit: 32 BP (80 × 0.4)
+- Second hit: 32 BP (80 x 0.4)
 - Total: 112 BP effective power
-- With Strong Jaw: 145.6 BP total (112 × 1.3)
+- With Strong Jaw: 145.6 BP total (112 x 1.3)
 
 ### Common Users
 

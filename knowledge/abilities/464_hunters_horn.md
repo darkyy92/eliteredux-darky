@@ -5,21 +5,17 @@ status: ai-generated
 character_count: 285
 ---
 
-# Hunter's Horn
+# Hunter's Horn - Ability ID 464
 
-**Ability ID**: 464
-**Type**: Regular Ability
-
-**In-Game Description**: "Boost horn moves and heals 1/4 HP when defeating an enemy."
+## In-Game Description
+"Boost horn moves and heals 1/4 HP when defeating an enemy."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential in battle.
 
-*Character count: 285*
-
-## Detailed Mechanical Explanation (Discord/Reference)
+## Detailed Mechanical Explanation
 
 Hunter's Horn combines two existing ability components:
 1. **MightyHorn.onOffensiveMultiplier**: 1.3x power boost for horn-based moves
@@ -51,9 +47,9 @@ Hunter's Horn combines two existing ability components:
 **Power Boost:**
 - **Multiplier**: 1.3x (30% increase)
 - **Examples**: 
-  - Megahorn: 120 → 156 effective power
-  - Horn Drill: 95 → 123.5 effective power
-  - Horn Attack: 85 → 110.5 effective power
+  - Megahorn: 120 to 156 effective power
+  - Horn Drill: 95 to 123.5 effective power
+  - Horn Attack: 85 to 110.5 effective power
 
 **Healing:**
 - **Amount**: 25% of user's maximum HP
@@ -62,10 +58,10 @@ Hunter's Horn combines two existing ability components:
 ## Interactions
 
 **Horn Moves List** (22 total moves with `horn: true` flag):
-- Horn Attack (85 → 110.5), Fury Attack (25 → 32.5), Horn Drill (95 → 123.5)
-- Peck (25 → 32.5), Drill Peck (90 → 117), Megahorn (120 → 156)
-- Poison Jab (80 → 104), Psycho Cut (75 → 97.5), Drill Run (85 → 110.5)
-- Horn Leech (75 → 97.5), Smart Strike (80 → 104), And 11 others
+- Horn Attack (85 to 110.5), Fury Attack (25 to 32.5), Horn Drill (95 to 123.5)
+- Peck (25 to 32.5), Drill Peck (90 to 117), Megahorn (120 to 156)
+- Poison Jab (80 to 104), Psycho Cut (75 to 97.5), Drill Run (85 to 110.5)
+- Horn Leech (75 to 97.5), Smart Strike (80 to 104), And 11 others
 
 **With Other Abilities:**
 - Stacks with other power-boosting effects (STAB, items, etc.)
@@ -86,8 +82,8 @@ Hunter's Horn combines two existing ability components:
   - No other side effects
 
 - **Particularly Powerful On:**
-  - Pokémon with access to high-power horn moves like Megahorn
+  - Pokemon with access to high-power horn moves like Megahorn
   - Physical attackers that can reliably secure KOs for the healing
-  - Pokémon that benefit from sustained offensive pressure
+  - Pokemon that benefit from sustained offensive pressure
 
 - The combination of offensive boost and healing makes it excellent for sweeping scenarios where the user can chain KOs while maintaining HP

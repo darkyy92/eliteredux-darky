@@ -5,15 +5,18 @@ status: ai-generated
 character_count: 292
 ---
 
-# Gnashing Cannon (Ability #854)
+# Gnashing Cannon - Ability ID 854
 
-**Current Description:** "Mega Launcher + Mind Crunch."
+## In-Game Description
+Mega Launcher + Mind Crunch.
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Boosts the power of aura and pulse moves by 30%. Additionally, biting moves get a 30% power boost and use Special Attack instead of Attack for damage calculation. This devastating combination transforms both projectile-based and jaw attacks into fearsome special assaults.
 
-## Mechanical Analysis
+## Detailed Mechanical Explanation
+
+### Mechanical Analysis
 
 ### Component Abilities
 
@@ -43,7 +46,7 @@ constexpr Ability GnashingCannon = {
 
 ### Strategic Usage
 
-This ability is particularly powerful on Pokémon that can learn both:
+This ability is particularly powerful on Pokemon that can learn both:
 1. Pulse/aura moves (Water Gun, Aura Sphere, Dark Pulse, etc.)
 2. Biting moves (Bite, Crunch, elemental fangs)
 

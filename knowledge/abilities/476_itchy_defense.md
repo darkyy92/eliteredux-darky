@@ -15,8 +15,6 @@ character_count: 298
 
 Itchy Defense automatically traps attackers with Infestation when hit by contact moves. The trapped opponent suffers 1/8 maximum HP damage each turn for 4-5 turns and cannot switch out. Works only against contact moves that successfully hit, making it a strong deterrent against physical attackers.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -30,12 +28,12 @@ Itchy Defense is a defensive ability that automatically inflicts the Infestation
 - **Status check**: Will not trigger if the attacker is already trapped (STATUS2_WRAPPED)
 
 ### Trapping Effect Details
-- **Damage**: 1/8 of the trapped Pokémon's maximum HP per turn
+- **Damage**: 1/8 of the trapped Pokemon's maximum HP per turn
 - **Duration**: 4-5 turns (randomly determined)
   - Base duration: 4-5 turns (Random() % 2 + 4)
   - With Grip Claw: 7 turns
 - **Move association**: The trap is treated as if caused by the move Infestation
-- **Switch prevention**: Trapped Pokémon cannot switch out or flee
+- **Switch prevention**: Trapped Pokemon cannot switch out or flee
 
 ### Technical Implementation
 ```c
@@ -68,19 +66,19 @@ constexpr Ability ItchyDefense = {
 ### Important Interactions
 - **Multiple hits**: Each contact hit can potentially trigger, but won't stack if already trapped
 - **Substitute**: Contact moves that hit substitute will not trigger the ability
-- **Magic Guard**: Trapped Pokémon with Magic Guard will not take the end-of-turn damage
-- **Shed Shell**: Pokémon holding Shed Shell can still switch out despite being trapped
+- **Magic Guard**: Trapped Pokemon with Magic Guard will not take the end-of-turn damage
+- **Shed Shell**: Pokemon holding Shed Shell can still switch out despite being trapped
 - **Ghost types**: In Gen 6+, Ghost types can still switch out despite being trapped
-- **Rapid Spin**: Can remove the trap status from the trapped Pokémon
+- **Rapid Spin**: Can remove the trap status from the trapped Pokemon
 
 ### Status Priority and Timing
 - **Activation timing**: Triggers immediately after taking damage from contact move
 - **End-of-turn damage**: Occurs during end-of-turn effects, dealing 1/8 max HP
 - **Duration countdown**: Decreases by 1 each turn until reaching 0
-- **Trap release**: Pokémon is freed when duration reaches 0
+- **Trap release**: Pokemon is freed when duration reaches 0
 
 ### Grip Claw Interaction
-The ability specifically checks if the defending Pokémon (with Itchy Defense) has Grip Claw:
+The ability specifically checks if the defending Pokemon (with Itchy Defense) has Grip Claw:
 - **Extended duration**: Increases trap duration from 4-5 turns to 7 turns
 - **Strategic use**: Makes the ability more threatening with proper item support
 
@@ -102,8 +100,8 @@ The AI recognizes this ability and will:
 - **Defensive utility**: Punishes common physical moves like U-turn and contact priority moves
 
 ### Common Users
-- Defensive Pokémon that frequently take contact moves
-- Pokémon with high defensive stats that can survive to activate the effect
+- Defensive Pokemon that frequently take contact moves
+- Pokemon with high defensive stats that can survive to activate the effect
 - Stall-oriented team members looking to punish physical attackers
 
 ### Competitive Usage Notes

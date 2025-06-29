@@ -2,15 +2,22 @@
 id: 169
 name: Fur Coat
 status: ai-generated
-character_count: 295
+character_count: 296
 ---
 
-# Fur Coat (Ability #169)
+# Fur Coat - Ability ID 169
 
-## Overview
+## In-Game Description
+"Halves damage taken by Physical moves. Does NOT double Defense."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection.
+
+## Detailed Mechanical Explanation
+
 Fur Coat is a defensive ability that reduces damage from physical moves by 50%. It represents thick, protective fur that acts as natural armor against physical attacks.
-
-## Current Implementation
 
 ### Code Location
 - **File**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc`
@@ -32,13 +39,6 @@ constexpr Ability FurCoat = {
 - Only affects moves that use the Physical attack stat
 - Does not affect Special moves, status moves, or indirect damage
 - Can be suppressed by abilities like Mold Breaker, Turboblaze, Teravolt
-
-## Current Description
-"Halves damage taken by Physical moves. Does NOT double Defense."
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection."
 
 ## Battle AI Rating
 **Rating**: 7/10 - Considered a strong defensive ability by the battle AI.

@@ -15,8 +15,6 @@ character_count: 287
 
 Energy Siphon heals the user for 25% of all damage they deal to opponents. Works with any attack that causes damage, including physical, special, and multi-hit moves. Healing occurs immediately after damage is dealt. Minimum healing is 1 HP even for very weak attacks.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -90,10 +88,10 @@ Uses `BattleScript_HydroCircuitAbsorbEffectActivated` - the same script used by 
 
 ### Common Users
 Energy Siphon is typically found on:
-- Offensive Pokémon that lack reliable recovery
+- Offensive Pokemon that lack reliable recovery
 - Glass cannon attackers who need sustainability
 - Mixed attackers who benefit from any damage type
-- Pokémon with high attack stats and diverse movesets
+- Pokemon with high attack stats and diverse movesets
 
 ### Competitive Usage Notes
 - **Bulky offense**: Excellent on moderately bulky attackers

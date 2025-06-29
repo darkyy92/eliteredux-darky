@@ -15,8 +15,6 @@ character_count: 285
 
 Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. This applies to all 34 Rock moves including Stone Edge, Rock Slide, and Stealth Rock. The converted moves gain Ice typing for STAB calculation and type effectiveness. Perfect for Ice-type Pokemon.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -58,9 +56,9 @@ constexpr Ability Crystallize = {
 ### Damage Calculations
 **Example with Stone Edge (base 100 power)**:
 - Normal Stone Edge: 100 base power
-- With Crystallize: 100 × 1.1 = 110 effective power
-- Against Fire-type: 110 × 2.0 = 220 damage multiplier (Ice super effective)
-- With STAB (Ice user): 110 × 1.5 = 165 base power before type effectiveness
+- With Crystallize: 100 x 1.1 = 110 effective power
+- Against Fire-type: 110 x 2.0 = 220 damage multiplier (Ice super effective)
+- With STAB (Ice user): 110 x 1.5 = 165 base power before type effectiveness
 
 ### Strategic Implications
 **Advantages**:
@@ -108,5 +106,5 @@ constexpr Ability Crystallize = {
 ### Version History
 - Introduced in Elite Redux as part of expanded ability roster
 - ID 280 in the ability enum
-- Similar to other -ate abilities but specifically Rock → Ice conversion
+- Similar to other -ate abilities but specifically Rock to Ice conversion
 - Unique 1.1x multiplier distinguishes it from standard 1.2x -ate abilities

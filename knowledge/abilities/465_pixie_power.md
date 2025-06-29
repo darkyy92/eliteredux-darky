@@ -13,9 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Pixie Power combines fairy aura with accuracy boost. All Fairy moves get 1.33x power field-wide like Fairy Aura, affected by Aura Break. This Pokémon also gains 1.2x accuracy on all moves for improved hit rates. Strong support ability for fairy-focused teams and reliable offense.
-
-*Character count: 280*
+Pixie Power combines fairy aura with accuracy boost. All Fairy moves get 1.33x power field-wide like Fairy Aura, affected by Aura Break. This Pokemon also gains 1.2x accuracy on all moves for improved hit rates. Strong support ability for fairy-focused teams and reliable offense.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,8 +22,8 @@ Pixie Power combines fairy aura with accuracy boost. All Fairy moves get 1.33x p
 Pixie Power is a hybrid ability that combines the field-wide Fairy-type boosting effects of Fairy Aura with a personal accuracy enhancement. This makes it both a team support ability and a personal reliability boost.
 
 ### Activation Conditions
-- **Fairy Aura Effect**: Automatically boosts all Fairy-type moves used by any Pokémon on the field
-- **Accuracy Boost**: Applies to all moves used by the Pokémon with this ability
+- **Fairy Aura Effect**: Automatically boosts all Fairy-type moves used by any Pokemon on the field
+- **Accuracy Boost**: Applies to all moves used by the Pokemon with this ability
 - **Field-wide application**: The Fairy boost applies to opponents' Fairy moves as well
 - **Always active**: Both effects are passive and don't require activation
 
@@ -36,7 +34,7 @@ Pixie Power is a hybrid ability that combines the field-wide Fairy-type boosting
 - **Move type requirement**: Only affects moves that are Fairy-type when used
 
 ### Accuracy Enhancement
-- **Personal benefit**: Only applies to the Pokémon with Pixie Power
+- **Personal benefit**: Only applies to the Pokemon with Pixie Power
 - **Universal application**: Affects all moves regardless of type
 - **Multiplier**: 1.2x accuracy (20% increase)
 - **Stacks with other accuracy modifiers**: Combines multiplicatively with items, moves, etc.
@@ -51,7 +49,7 @@ constexpr Ability PixiePower = {
         *accuracy *= 1.2;                           // Personal accuracy boost
         return ACCURACY_MULTIPLICATIVE;
     },
-    .onOffensiveMultiplierFor = APPLY_ON_ANY,       // Affects all Pokémon's Fairy moves
+    .onOffensiveMultiplierFor = APPLY_ON_ANY,       // Affects all Pokemon's Fairy moves
 };
 ```
 
@@ -73,7 +71,7 @@ constexpr Ability PixiePower = {
 ### Team Synergies
 - **Fairy-type attackers**: Directly benefits from the power boost
 - **Aura Break users**: Can negate the opponent benefit while keeping accuracy boost
-- **Mixed attackers**: Pokémon using both Fairy and non-Fairy moves benefit fully
+- **Mixed attackers**: Pokemon using both Fairy and non-Fairy moves benefit fully
 - **Support movesets**: Improved accuracy on status moves and utility moves
 - **Terrain setters**: Misty Terrain synergizes with Fairy-type focus
 

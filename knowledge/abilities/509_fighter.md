@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fighter boosts Fighting-type moves by 20% at high HP and 50% when at 1/3 HP or below. The damage multiplier increases when the Pokémon becomes desperate, making it excellent for clutch situations. Works with all Fighting-type attacks and stacks with other multipliers.
-
-*Character count: 296*
+Fighter boosts Fighting-type moves by 20% at high HP and 50% when at 1/3 HP or below. The damage multiplier increases when the Pokemon becomes desperate, making it excellent for clutch situations. Works with all Fighting-type attacks and stacks with other multipliers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -46,10 +44,10 @@ Fighter is an offensive ability that provides variable damage boosts to Fighting
 - **1/3 HP threshold**: Calculated as maxHP ÷ 3 (rounded down)
 - **Dynamic scaling**: Boost changes immediately when crossing threshold
 - **Examples**:
-  - 300 HP Pokémon: High boost at 100 HP or below
-  - 301 HP Pokémon: High boost at 100 HP or below  
-  - 302 HP Pokémon: High boost at 100 HP or below
-  - 303 HP Pokémon: High boost at 101 HP or below
+  - 300 HP Pokemon: High boost at 100 HP or below
+  - 301 HP Pokemon: High boost at 100 HP or below  
+  - 302 HP Pokemon: High boost at 100 HP or below
+  - 303 HP Pokemon: High boost at 101 HP or below
 
 ### Important Interactions
 - **Stacking**: Multiplies with Life Orb, Choice items, STAB, and type advantages
@@ -63,7 +61,7 @@ Fighter is an offensive ability that provides variable damage boosts to Fighting
 - **Clutch potential**: Can turn around battles with desperate 50% boost
 - **HP management**: Synergizes with moves like Endure, Focus Sash, or Sturdy
 - **Late-game power**: Becomes more powerful as battle progresses
-- **Consistent boost**: Even healthy Pokémon get 20% boost to Fighting moves
+- **Consistent boost**: Even healthy Pokemon get 20% boost to Fighting moves
 
 ### Common Fighting-Type Moves Affected
 - **Physical**: Close Combat, Superpower, Hammer Arm, Mach Punch
@@ -105,7 +103,7 @@ Fighter is an offensive ability that provides variable damage boosts to Fighting
 - **Speed tier importance**: Often needs priority moves or speed control
 
 ### Notable Users
-Ideal for Pokémon with:
+Ideal for Pokemon with:
 - High Attack or Special Attack stats
 - Access to diverse Fighting-type moves
 - Naturally frail defensive stats

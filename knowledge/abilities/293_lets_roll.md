@@ -15,8 +15,6 @@ character_count: 287
 
 Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle. The Defense Curl effect doubles the power of Rollout and Ice Ball moves. This provides immediate bulk and enables powerful rolling move strategies for defensive Pokemon builds.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -46,8 +44,8 @@ constexpr Ability LetsRoll = {
 
 ### Defense Curl Status Effects
 The Defense Curl status provides:
-- **Rollout Power Boost**: Doubles the base power of Rollout (30 → 60 BP for first hit)
-- **Ice Ball Power Boost**: Doubles the base power of Ice Ball (30 → 60 BP for first hit)
+- **Rollout Power Boost**: Doubles the base power of Rollout (30 to 60 BP for first hit)
+- **Ice Ball Power Boost**: Doubles the base power of Ice Ball (30 to 60 BP for first hit)
 - **Move Synergy**: These moves continue to increase power each consecutive turn when used
 
 ### Affected Moves

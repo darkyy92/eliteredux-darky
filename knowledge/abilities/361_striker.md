@@ -2,12 +2,22 @@
 id: 361
 name: Striker
 status: ai-generated
-character_count: 0
+character_count: 297
 ---
 
-# Striker (Ability #361)
+# Striker - Ability ID 361
 
-## Overview
+## In-Game Description
+"Boosts the power of kicking moves by 30%."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Striker increases the power of all kicking moves by 30%, making them significantly more dangerous. This ability works with classic kicks like Jump Kick and modern moves like Blaze Kick or Pyro Ball. The consistent damage boost applies to each hit of multi-hit kicks like Triple Kick.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Striker is an offensive ability that provides a 30% power boost to all kicking moves. This ability identifies kicking moves through the `FLAG_STRIKER_BOOST` flag system, covering both traditional kicks and modern kicking attacks.
 
 ## Mechanics
@@ -201,3 +211,4 @@ moves {
 - The FLAG_STRIKER_BOOST system allows easy addition of new kicking moves
 - Combat Specialist users get both Iron Fist and Striker boosts simultaneously
 - Roundhouse ability provides perfect synergy by making kicks never miss and hit weaker defensive stats
+

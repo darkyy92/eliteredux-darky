@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-This Pokémon combines the defensive properties of both Impenetrable and Sturdy abilities. It is completely immune to all forms of indirect damage including poison, burn, weather effects, and entry hazards, while also surviving any attack that would knock it out from full HP with 1 HP remaining.
-
-*Character count: 297*
+This Pokemon combines the defensive properties of both Impenetrable and Sturdy abilities. It is completely immune to all forms of indirect damage including poison, burn, weather effects, and entry hazards, while also surviving any attack that would knock it out from full HP with 1 HP remaining.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -36,7 +34,7 @@ Immovable Object is a powerful defensive ability that combines two distinct prot
 
 ### Sturdy Component
 - **Breakable Property**: Can be suppressed by Mold Breaker and similar effects
-- **One-Hit KO Protection**: When at full HP, survives any attack that would otherwise cause a knockout, leaving the Pokémon with 1 HP instead
+- **One-Hit KO Protection**: When at full HP, survives any attack that would otherwise cause a knockout, leaving the Pokemon with 1 HP instead
 - **OHKO Move Immunity**: Completely immune to one-hit knockout moves like Fissure, Horn Drill, Guillotine, and Sheer Cold
 
 ### Implementation Details
@@ -46,7 +44,7 @@ Immovable Object is a powerful defensive ability that combines two distinct prot
 - **Suppression**: Can be bypassed by Mold Breaker abilities, Neutralizing Gas, and Gastro Acid
 
 ### Strategic Value
-This ability makes a Pokémon extremely difficult to eliminate through conventional means, requiring either:
+This ability makes a Pokemon extremely difficult to eliminate through conventional means, requiring either:
 1. Multiple direct attacks to wear down HP
 2. Abilities that can suppress or ignore the protection
 3. Status moves that reduce stats rather than cause damage

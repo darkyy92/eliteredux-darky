@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal conditions and an enhanced 1.5x boost when the Pokémon's HP drops to 1/3 or below. This ability works similarly to type-specific Swarm abilities, rewarding strategic damage management with increased offensive power.
-
-*Character count: 284*
+Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal conditions and an enhanced 1.5x boost when the Pokemon's HP drops to 1/3 or below. This ability works similarly to type-specific Swarm abilities, rewarding strategic damage management with increased offensive power.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -72,17 +70,17 @@ All Ghost-type moves that deal damage, including but not limited to:
 - **Synergy Potential**: Works well with recovery moves and defensive strategies
 
 ### Example Damage Calculations
-**Scenario**: Level 50 Pokémon with 120 Attack using Shadow Claw (70 BP) against neutral target
-- **Full HP**: 70 × 1.2 × 1.5 (STAB) = 126 effective BP
-- **Low HP**: 70 × 1.5 × 1.5 (STAB) = 157.5 effective BP
+**Scenario**: Level 50 Pokemon with 120 Attack using Shadow Claw (70 BP) against neutral target
+- **Full HP**: 70 x 1.2 x 1.5 (STAB) = 126 effective BP
+- **Low HP**: 70 x 1.5 x 1.5 (STAB) = 157.5 effective BP
 - **Damage Increase**: ~25% more damage when threshold is reached
 
 ### Common Users
-Notable Pokémon with Vengeance ability:
+Notable Pokemon with Vengeance ability:
 - Ghost-type evolution lines (primary ability)
-- Several Pokémon as innate ability (always active)
+- Several Pokemon as innate ability (always active)
 - Mixed offensive/defensive Ghost-types
-- Pokémon with access to recovery moves for HP management
+- Pokemon with access to recovery moves for HP management
 
 ### Competitive Usage Notes
 - **Tier Placement**: Common on mid-tier Ghost-types

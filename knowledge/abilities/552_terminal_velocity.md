@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Terminal Velocity adds 20% of the Pokémon's Speed stat to its Special Attack when using special moves. This bonus is calculated after stat stages and applies to the entire damage formula. Works with all special attacks including signature moves and Hidden Power. Particularly devastating on fast special sweepers.
-
-*Character count: 298*
+Terminal Velocity adds 20% of the Pokemon's Speed stat to its Special Attack when using special moves. This bonus is calculated after stat stages and applies to the entire damage formula. Works with all special attacks including signature moves and Hidden Power. Particularly devastating on fast special sweepers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -48,7 +46,7 @@ statBase += CalculateStat(battler, STAT_SPEED, 0, move, isAttack, isCrit, isUnaw
 ### Calculation Order
 1. Base Special Attack stat is calculated with stages/modifiers
 2. Current Speed stat is calculated with stages/modifiers  
-3. 20% of Speed (Speed × 0.2) is added to Special Attack
+3. 20% of Speed (Speed x 0.2) is added to Special Attack
 4. Final Special Attack value is used in damage formula
 
 ### Affected Moves
@@ -73,17 +71,17 @@ statBase += CalculateStat(battler, STAT_SPEED, 0, move, isAttack, isCrit, isUnaw
 - **Late Game Power**: Becomes stronger as Speed is boosted throughout battle
 
 ### Example Damage Calculations
-**Base Scenario**: Pokémon with 300 Sp.Attack, 400 Speed
+**Base Scenario**: Pokemon with 300 Sp.Attack, 400 Speed
 - Normal Special Attack: 300
-- With Terminal Velocity: 300 + (400 × 0.2) = 380 Special Attack
+- With Terminal Velocity: 300 + (400 x 0.2) = 380 Special Attack
 - **Damage Increase**: ~26.7%
 
-**After Speed Boost**: Same Pokémon with +1 Speed (600 Speed)
-- With Terminal Velocity: 300 + (600 × 0.2) = 420 Special Attack  
+**After Speed Boost**: Same Pokemon with +1 Speed (600 Speed)
+- With Terminal Velocity: 300 + (600 x 0.2) = 420 Special Attack  
 - **Damage Increase**: ~40%
 
-**Choice Scarf Scenario**: 400 Speed → 600 Speed (1.5× modifier)
-- With Terminal Velocity: 300 + (600 × 0.2) = 420 Special Attack
+**Choice Scarf Scenario**: 400 Speed to 600 Speed (1.5x modifier)
+- With Terminal Velocity: 300 + (600 x 0.2) = 420 Special Attack
 - **Total multiplier from Scarf + Terminal Velocity**: Significant damage increase
 
 ### Common Users
@@ -96,7 +94,7 @@ Based on SpeciesList.textproto analysis:
 ### Competitive Usage Notes
 - **Team Role**: Primary special sweeper or speed control abuser  
 - **Setup Requirements**: Benefits from speed control moves (Tailwind, Agility)
-- **Priority Targets**: Pokémon that can boost Speed reliably
+- **Priority Targets**: Pokemon that can boost Speed reliably
 - **Synergy Abilities**: Speed Boost, Swift Swim, Chlorophyll as innate abilities
 
 ### Counters
@@ -109,7 +107,7 @@ Based on SpeciesList.textproto analysis:
 ### Synergies
 - **Speed Boost**: Continuously increases damage output each turn
 - **Swift Swim/Chlorophyll**: Weather-based Speed doubling
-- **Choice Scarf**: 1.5× Speed multiplier enhances damage bonus
+- **Choice Scarf**: 1.5x Speed multiplier enhances damage bonus
 - **Agility/Rock Polish**: Manual Speed boosting for immediate power spike
 - **Tailwind**: Team-wide Speed doubling benefits entire team
 

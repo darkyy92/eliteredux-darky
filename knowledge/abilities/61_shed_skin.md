@@ -13,15 +13,13 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Each turn, has a 30% chance to automatically cure any status condition. Removes poison, burn, paralysis, sleep, freeze, frostbite, and bleed. Provides passive recovery from status ailments without switching. Ideal for bulky Pokémon that can outlast status effects. No item required for healing.
-
-*Character count: 289*
+Each turn, has a 30% chance to automatically cure any status condition. Removes poison, burn, paralysis, sleep, freeze, frostbite, and bleed. Provides passive recovery from status ailments without switching. Ideal for bulky Pokemon that can outlast status effects. No item required for healing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Shed Skin provides a 30% chance at the end of each turn to cure any status condition the Pokémon is currently suffering from. Unlike Natural Cure, this healing occurs without requiring the Pokémon to switch out, making it extremely valuable for staying power.
+Shed Skin provides a 30% chance at the end of each turn to cure any status condition the Pokemon is currently suffering from. Unlike Natural Cure, this healing occurs without requiring the Pokemon to switch out, making it extremely valuable for staying power.
 
 ### Technical Implementation
 From `/src/abilities.cc`:
@@ -66,9 +64,9 @@ Shed Skin can cure all major status conditions:
 **Display:** Shows ability popup and cure message
 
 The ability only activates if:
-1. The Pokémon has a status condition
+1. The Pokemon has a status condition
 2. The 30% roll succeeds
-3. The Pokémon is still alive
+3. The Pokemon is still alive
 
 ### AI Behavior
 From `battle_ai_main.c`, the AI considers Shed Skin when evaluating status moves:
@@ -87,12 +85,12 @@ constexpr Ability WonderScale = {
 ```
 Uses identical healing mechanics but adds Fort Knox property (immune to stat reductions).
 
-### Pokémon with Shed Skin
+### Pokemon with Shed Skin
 Common users in Elite Redux include:
 - **Pupitar** (ability 0)
 - **Dratini line** (as innate ability)
 - **Seviper** (as innate ability)
-- Various snake and reptilian Pokémon
+- Various snake and reptilian Pokemon
 
 ### Strategic Applications
 
@@ -151,10 +149,10 @@ Formula: 1 - (0.7)^n where n = number of turns
 - **High offensive pressure**: Force out before cure chance matters
 
 ### Competitive Usage Notes
-Shed Skin excels on Pokémon designed for longevity rather than speed. It's particularly valuable on setup sweepers and defensive walls that need to operate despite status pressure. The 30% chance creates uncertainty for opponents relying on status strategies.
+Shed Skin excels on Pokemon designed for longevity rather than speed. It's particularly valuable on setup sweepers and defensive walls that need to operate despite status pressure. The 30% chance creates uncertainty for opponents relying on status strategies.
 
 ### Team Building Considerations
-- Best on naturally bulky Pokémon
+- Best on naturally bulky Pokemon
 - Reduces need for cleric support
 - Enables aggressive status absorption
 - Pairs well with setup moves and recovery

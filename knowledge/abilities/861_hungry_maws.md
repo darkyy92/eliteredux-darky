@@ -5,15 +5,17 @@ status: ai-generated
 character_count: 295
 ---
 
-# Hungry Maws Analysis
+# Hungry Maws - Ability ID 861
+
+## In-Game Description
+This Pokemon's bite and jaw moves are boosted by 30%, with healing on KO.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"This Pokémon's bite and jaw moves are boosted by 30%. When KOing opponents with these moves, it heals 50% of its max HP, but only 25% when using other moves."
+This Pokemon's bite and jaw moves are boosted by 30%. When KOing opponents with these moves, it heals 50% of its max HP, but only 25% when using other moves.
 
-**Character count: 295**
+## Detailed Mechanical Explanation
 
-## Mechanics
+### Mechanics
 
 ### Strong Jaw Component
 - Boosts damage of bite/jaw moves by 30% (1.3x multiplier)
@@ -25,7 +27,7 @@ character_count: 295
 - **50% HP recovery** when KOing with Strong Jaw boosted moves
 - **25% HP recovery** when KOing with non-Strong Jaw moves
 - Only triggers on KO by the ability holder (attacker)
-- Requires the Pokémon to not be at full HP to activate healing
+- Requires the Pokemon to not be at full HP to activate healing
 
 ## Implementation
 - Combines `StrongJaw.onOffensiveMultiplier` for damage boost

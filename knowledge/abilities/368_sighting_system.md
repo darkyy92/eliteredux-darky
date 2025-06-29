@@ -2,14 +2,24 @@
 id: 368
 name: Sighting System
 status: ai-generated
-character_count: 0
+character_count: 290
 ---
 
-# Sighting System (Ability #368)
+# Sighting System - Ability ID 368
 
-## Overview
+## In-Game Description
+"Guarantees all moves hit, but inaccurate moves get -3 priority."
 
-Sighting System is an Elite Redux-exclusive ability that provides perfect accuracy for all moves while imposing a priority penalty on less accurate moves. This creates an interesting tactical trade-off between reliability and speed, making it particularly valuable for Pokémon that rely on powerful but inaccurate moves.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Sighting System guarantees all moves hit regardless of accuracy checks, eliminating RNG from battles. However, moves with less than 80% base accuracy receive -3 priority, making them go last. This creates strategic decisions between reliability and speed.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+Sighting System is an Elite Redux-exclusive ability that provides perfect accuracy for all moves while imposing a priority penalty on less accurate moves. This creates an interesting tactical trade-off between reliability and speed, making it particularly valuable for Pokemon that rely on powerful but inaccurate moves.
 
 ## Mechanics
 
@@ -76,7 +86,7 @@ The -3 priority penalty creates strategic considerations:
 - **Vulnerable to priority moves** when using low-accuracy attacks
 - **Telegraphed plays** when opponent knows about the priority penalty
 
-## Pokémon with Sighting System
+## Pokemon with Sighting System
 
 Based on species data analysis, Sighting System appears on:
 
@@ -93,7 +103,7 @@ Based on species data analysis, Sighting System appears on:
 - **Role**: Versatile attacker that can use both accurate and inaccurate moves effectively
 
 ### Innate Abilities
-Both Pokémon also possess powerful innate abilities:
+Both Pokemon also possess powerful innate abilities:
 - **Magnezone**: Filter (reduces super-effective damage)
 - **Genesect**: Mega Launcher, Predator, Full Metal Body (various forms)
 
@@ -120,17 +130,17 @@ Other abilities that provide guaranteed accuracy:
 ## Move Interactions
 
 ### Affected by Priority Penalty
-- **Thunder** (70% accuracy) → Perfect accuracy but -3 priority
-- **Blizzard** (70% accuracy) → Perfect accuracy but -3 priority  
-- **Fire Blast** (85% accuracy) → Perfect accuracy, normal priority
-- **Hydro Pump** (80% accuracy) → Perfect accuracy, normal priority
-- **Zap Cannon** (50% accuracy) → Perfect accuracy but -3 priority
-- **Focus Blast** (70% accuracy) → Perfect accuracy but -3 priority
+- **Thunder** (70% accuracy) to Perfect accuracy but -3 priority
+- **Blizzard** (70% accuracy) to Perfect accuracy but -3 priority  
+- **Fire Blast** (85% accuracy) to Perfect accuracy, normal priority
+- **Hydro Pump** (80% accuracy) to Perfect accuracy, normal priority
+- **Zap Cannon** (50% accuracy) to Perfect accuracy but -3 priority
+- **Focus Blast** (70% accuracy) to Perfect accuracy but -3 priority
 
 ### Not Affected by Priority Penalty
-- **Thunderbolt** (100% accuracy) → Perfect accuracy, normal priority
-- **Ice Beam** (100% accuracy) → Perfect accuracy, normal priority
-- **OHKO moves** (0% accuracy listed) → Still miss normally, no priority change
+- **Thunderbolt** (100% accuracy) to Perfect accuracy, normal priority
+- **Ice Beam** (100% accuracy) to Perfect accuracy, normal priority
+- **OHKO moves** (0% accuracy listed) to Still miss normally, no priority change
 
 ## Competitive Viability
 
@@ -146,7 +156,7 @@ Other abilities that provide guaranteed accuracy:
 - Priority penalty can be exploited by faster opponents
 - Limits the effectiveness of speed-based strategies
 - Telegraph strategy to experienced opponents
-- Not beneficial for Pokémon already using accurate moves
+- Not beneficial for Pokemon already using accurate moves
 
 ### Team Synergy
 
@@ -179,6 +189,7 @@ The -3 priority penalty is substantial:
 
 Sighting System represents a well-designed ability that offers significant power at a meaningful cost. The guaranteed accuracy eliminates one of the most frustrating aspects of competitive play - missing crucial moves due to RNG. However, the priority penalty on less accurate moves creates genuine strategic decisions about when to use powerful but slow attacks.
 
-The ability's implementation on Magnezone and Genesect forms provides both Pokémon with unique tactical options, allowing them to use moves like Thunder and Focus Blast without accuracy concerns while forcing careful consideration of timing and positioning.
+The ability's implementation on Magnezone and Genesect forms provides both Pokemon with unique tactical options, allowing them to use moves like Thunder and Focus Blast without accuracy concerns while forcing careful consideration of timing and positioning.
 
 From a competitive standpoint, Sighting System occupies a middle tier - powerful enough to be relevant but not overwhelmingly strong. Its success depends heavily on team composition, opposing threats, and the pilot's ability to leverage guaranteed accuracy while managing the priority penalties effectively.
+

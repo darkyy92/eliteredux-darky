@@ -15,8 +15,6 @@ character_count: 295
 
 Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves. Converted moves receive a 10% damage bonus on top of the type change. This allows Fire-types to effectively use Normal moves like Return, Body Slam, and Hyper Beam as powerful Fire attacks with full STAB.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,10 +24,10 @@ Immolate is part of the "-ate" ability family that converts Normal-type moves to
 - **Type Conversion**: All Normal-type moves become Fire-type
 - **STAB Application**: Fire-type moves receive Same Type Attack Bonus (1.5x damage)
 - **Damage Bonus**: Converted moves receive an additional 10% damage multiplier (1.1x)
-- **Total Multiplier**: Converted moves deal 1.5x (STAB) × 1.1x (ate bonus) = 1.65x base damage
+- **Total Multiplier**: Converted moves deal 1.5x (STAB) x 1.1x (ate bonus) = 1.65x base damage
 
 ### Activation Conditions
-- Only applies to Normal-type moves used by the Pokémon with Immolate
+- Only applies to Normal-type moves used by the Pokemon with Immolate
 - Works on both physical and special Normal-type moves
 - Activates automatically when a Normal-type move is selected
 
@@ -72,13 +70,13 @@ All Normal-type moves become Fire-type, including but not limited to:
 ### Example Damage Calculations
 Base Return (102 BP at max happiness):
 - Without Immolate: 102 BP Normal move
-- With Immolate: 102 × 1.5 (STAB) × 1.1 (ate bonus) = ~168 effective BP Fire move
+- With Immolate: 102 x 1.5 (STAB) x 1.1 (ate bonus) = ~168 effective BP Fire move
 
 ### Common Users
-**Pokémon with Immolate as innate ability:**
+**Pokemon with Immolate as innate ability:**
 - Vulpix (innate)
 
-**Pokémon with Immolate as regular ability:**
+**Pokemon with Immolate as regular ability:**
 - Fennekin line (Fennekin, Braixen)
 - Fuecoco line (Fuecoco, Crocalor, Skeledirge)
 

@@ -1,26 +1,21 @@
 ---
 id: 101
-name: "Ability: Technician"
+name: Technician
 status: ai-generated
-character_count: 347
+character_count: 296
 ---
 
-# Ability: Technician
-
-## Basic Information
-- **Ability ID**: ABILITY_TECHNICIAN
-- **Type**: Offensive Multiplier
-- **Breakable**: No
+# Technician - Ability ID 101
 
 ## In-Game Description
 "Moves with 60 BP or less get a 1.5x boost."
 
 ## Extended In-Game Description
-Technician boosts the power of weaker moves by 50%, turning moves with 60 base power or less into viable options. This includes multi-hit moves calculated per hit, priority moves like Bullet Punch and Mach Punch, and utility moves with damage like Rapid Spin. Perfect for sweepers who rely on priority or multi-hit strategies.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Character count: 299
+Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Implementation
 ```cpp
@@ -40,10 +35,10 @@ constexpr Ability Technician = {
 5. **Hidden Power**: Always benefits regardless of type (base power is 60)
 
 ### Affected Move Examples
-- **Priority Moves**: Bullet Punch (40→60), Mach Punch (40→60), Quick Attack (40→60)
-- **Multi-hit Moves**: Bullet Seed (25→37.5 per hit), Pin Missile (25→37.5 per hit)
-- **Utility Moves**: Rapid Spin (50→75), Fake Out (40→60)
-- **Coverage Moves**: Hidden Power (60→90), Aerial Ace (60→90)
+- **Priority Moves**: Bullet Punch (40to60), Mach Punch (40to60), Quick Attack (40to60)
+- **Multi-hit Moves**: Bullet Seed (25to37.5 per hit), Pin Missile (25to37.5 per hit)
+- **Utility Moves**: Rapid Spin (50to75), Fake Out (40to60)
+- **Coverage Moves**: Hidden Power (60to90), Aerial Ace (60to90)
 - **Status Moves**: Doesn't affect status moves (0 base power)
 
 ### Notable Interactions

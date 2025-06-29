@@ -15,8 +15,6 @@ character_count: 282
 
 Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -132,13 +130,13 @@ constexpr Ability Perfectionist = {
 ### Sample Sets:
 
 **Cinccino @ Life Orb**
-- Tail Slap (25 BP × 5)
-- Bullet Seed (25 BP × 5)
-- Rock Blast (25 BP × 5)
+- Tail Slap (25 BP x 5)
+- Bullet Seed (25 BP x 5)
+- Rock Blast (25 BP x 5)
 - U-turn
 
 **Persian @ Scope Lens**
-- Fury Swipes (20 BP × 5)
+- Fury Swipes (20 BP x 5)
 - Bite (30 BP)
 - U-turn
 - Taunt
@@ -152,8 +150,8 @@ constexpr Ability Perfectionist = {
 
 ### Damage Calculations:
 With Technician + Life Orb:
-- 20 BP move: 20 × 1.5 × 1.3 = 39 BP with priority
-- 25 BP move: 25 × 1.5 × 1.3 = 48.75 BP with priority
+- 20 BP move: 20 x 1.5 x 1.3 = 39 BP with priority
+- 25 BP move: 25 x 1.5 x 1.3 = 48.75 BP with priority
 - Multi-hit: Potentially 195-244 BP total
 
 ### Version Notes:

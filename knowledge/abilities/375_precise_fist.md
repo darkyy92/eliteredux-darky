@@ -2,7 +2,7 @@
 id: 375
 name: Precise Fist
 status: ai-generated
-character_count: 295
+character_count: 294
 ---
 
 # Precise Fist - Ability ID 375
@@ -11,11 +11,10 @@ character_count: 295
 "Punching moves get +1 crit and 5x effect chance."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
 
 Punching moves land guaranteed critical hits and have 5x their normal secondary effect chance. Works with all Iron Fist-boosted moves including elemental punches, priority punches, and Fighting-type attacks. The critical hit boost stacks with abilities like Sniper for devastating damage output.
-
-*Character count: 294*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -35,10 +34,10 @@ Punching moves land guaranteed critical hits and have 5x their normal secondary 
 ### Affected Moves:
 Precise Fist affects all moves with the FLAG_IRON_FIST_BOOST flag, including:
 
-1. **Elemental Punches**: Fire Punch (10% burn → 50%), Ice Punch (10% freeze → 50%), Thunder Punch (10% paralysis → 50%)
+1. **Elemental Punches**: Fire Punch (10% burn to 50%), Ice Punch (10% freeze to 50%), Thunder Punch (10% paralysis to 50%)
 2. **Fighting Punches**: Dynamic Punch (100% confusion - already guaranteed), Drain Punch, Focus Punch
 3. **Priority Punches**: Bullet Punch, Mach Punch
-4. **Other Punching Moves**: Comet Punch, Mega Punch, Dizzy Punch (20% confusion → 100%), Shadow Punch
+4. **Other Punching Moves**: Comet Punch, Mega Punch, Dizzy Punch (20% confusion to 100%), Shadow Punch
 5. **Special Cases**: Hammer Arm, Meteor Mash, Sky Uppercut, Power-Up Punch
 
 ### Technical Implementation:
@@ -56,17 +55,17 @@ constexpr Ability PreciseFist = {
 ```
 
 ### Secondary Effect Examples:
-- **Fire Punch**: 10% burn chance → 50% burn chance + guaranteed crit
-- **Ice Punch**: 10% freeze chance → 50% freeze chance + guaranteed crit  
-- **Thunder Punch**: 10% paralysis → 50% paralysis + guaranteed crit
-- **Dizzy Punch**: 20% confusion → 100% confusion + guaranteed crit
-- **Meteor Mash**: 20% Attack boost → 100% Attack boost + guaranteed crit
+- **Fire Punch**: 10% burn chance to 50% burn chance + guaranteed crit
+- **Ice Punch**: 10% freeze chance to 50% freeze chance + guaranteed crit  
+- **Thunder Punch**: 10% paralysis to 50% paralysis + guaranteed crit
+- **Dizzy Punch**: 20% confusion to 100% confusion + guaranteed crit
+- **Meteor Mash**: 20% Attack boost to 100% Attack boost + guaranteed crit
 
 ### Critical Hit Calculation:
 The guaranteed critical hit multiplies damage by:
 - **Physical moves**: 1.5x base damage (2.25x in Gen 6+)
 - **Stacks with**: Sniper (3x crit damage), critical hit items
-- **Base Example**: 100 BP Fire Punch → 150 BP with crit → 225 BP with Sniper
+- **Base Example**: 100 BP Fire Punch to 150 BP with crit to 225 BP with Sniper
 
 ### Strategic Applications:
 1. **Status Spreader**: Elemental punches become highly reliable status moves

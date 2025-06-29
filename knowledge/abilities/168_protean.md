@@ -2,15 +2,22 @@
 id: 168
 name: Protean
 status: ai-generated
-character_count: 280
+character_count: 281
 ---
 
-# Protean (Ability ID: 168)
+# Protean - Ability ID 168
 
-## Overview
+## In-Game Description
+"Changes type to match the move being used, granting STAB to all moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Changes the user's type to match the type of the move being used before attacking, granting Same Type Attack Bonus (STAB) to all moves. This ability only activates once per turn and will not trigger if the user is already the same type as the move being used, except for Struggle.
+
+## Detailed Mechanical Explanation
+
 Protean is a type-changing ability that allows the user to change their type to match the type of the move they are about to use, providing Same Type Attack Bonus (STAB) for all moves.
-
-## Mechanics
 
 ### Core Functionality
 - **Trigger**: Before using any move (except Struggle)
@@ -86,11 +93,6 @@ When Protean activates, the message displayed is:
 - **Priority**: Activates before the move executes
 - **Multi-Hit Moves**: Only changes type once per turn, not per hit
 - **Switch Out**: Type reverts to base type when switching out
-
-## Extended In-Game Description
-"Changes the user's type to match the type of the move being used before attacking, granting Same Type Attack Bonus (STAB) to all moves. This ability only activates once per turn and will not trigger if the user is already the same type as the move being used, except for Struggle."
-
-*Character count: 290 characters*
 
 ## Competitive Analysis
 

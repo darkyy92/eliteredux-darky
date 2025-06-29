@@ -15,8 +15,6 @@ character_count: 290
 
 On entry, if any Pokemon in the user's party has a status condition (sleep, poison, burn, freeze, paralysis, toxic, frostbite, or bleed), this ability automatically heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

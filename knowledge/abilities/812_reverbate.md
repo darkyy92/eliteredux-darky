@@ -15,13 +15,11 @@ character_count: 284
 
 Reverbate converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions. Sound moves can target multiple foes with Amplifier or Bass Boosted abilities, but are blocked by Throat Chop for 2 turns.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Reverbate modifies the game's sound detection system by adding a special case for Normal-type moves when used by a Pokémon with this ability.
+Reverbate modifies the game's sound detection system by adding a special case for Normal-type moves when used by a Pokemon with this ability.
 
 **Implementation Location**: `src/battle_util.c` line 9198
 ```c
@@ -33,7 +31,7 @@ int IsSoundMove(int battler, MoveEnum move) {
 ```
 
 ### Activation Conditions
-- Pokémon must have the Reverbate ability
+- Pokemon must have the Reverbate ability
 - The move being used must be Normal-type
 - The ability check occurs during move execution and targeting phases
 
@@ -69,7 +67,7 @@ All Normal-type moves become sound moves, including but not limited to:
 - May alert opponents to sound-based strategy
 
 ### Common Users
-This ability would be most effective on Pokémon that:
+This ability would be most effective on Pokemon that:
 - Have access to powerful Normal-type moves
 - Can benefit from multi-target capabilities in doubles
 - Are part of sound-based team compositions

@@ -13,19 +13,17 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Battery provides a 30% power boost to ally Pokémon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
-
-*Character count: 281*
+Battery provides a 30% power boost to ally Pokemon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Battery boosts the power of Special attacks used by ally Pokémon by 30% (1.3x multiplier) in double battles and multi-battles.
+Battery boosts the power of Special attacks used by ally Pokemon by 30% (1.3x multiplier) in double battles and multi-battles.
 
 ### Activation Conditions
 - Only works in double battles, triple battles, or multi-battles
-- Must have an ally Pokémon on the field
+- Must have an ally Pokemon on the field
 - Applies to Special moves only (not Physical moves)
 - Does not affect the Battery user's own moves
 
@@ -40,7 +38,7 @@ constexpr Ability Battery = {
 };
 ```
 
-The ability uses the `onOffensiveMultiplier` hook with `APPLY_ON_ALLY_ONLY` flag, meaning it only affects ally Pokémon's moves, not the user's own moves.
+The ability uses the `onOffensiveMultiplier` hook with `APPLY_ON_ALLY_ONLY` flag, meaning it only affects ally Pokemon's moves, not the user's own moves.
 
 ### Affected Moves
 Battery affects ALL Special moves used by allies, including:
@@ -57,7 +55,7 @@ Battery affects ALL Special moves used by allies, including:
 - **Terrain effects**: Stacks with terrain boosts like Electric Terrain for Electric moves
 
 ### Strategic Implications
-- **Support role**: Battery users are primarily support Pokémon
+- **Support role**: Battery users are primarily support Pokemon
 - **Team composition**: Best paired with Special attackers
 - **Double battle meta**: Significantly more valuable in doubles than singles
 - **Positioning**: Battery user should have good bulk to stay on field
@@ -65,13 +63,13 @@ Battery affects ALL Special moves used by allies, including:
 ### Example Damage Calculations
 Base Thunderbolt (90 BP) from ally with Battery support:
 - Without Battery: 90 base power
-- With Battery: 90 × 1.3 = 117 base power
-- With Battery + Choice Specs: 90 × 1.3 × 1.5 = 175.5 base power
+- With Battery: 90 x 1.3 = 117 base power
+- With Battery + Choice Specs: 90 x 1.3 x 1.5 = 175.5 base power
 
 ### Common Users
-Pokémon that commonly have Battery:
+Pokemon that commonly have Battery:
 - **Charjabug**: Primary Battery user, evolves into Vikavolt
-- **Support Pokémon**: Often given to bulky support Pokémon in doubles
+- **Support Pokemon**: Often given to bulky support Pokemon in doubles
 
 ### Competitive Usage Notes
 - **Doubles tier**: Primarily used in VGC and doubles formats

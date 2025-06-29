@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Quick Draw gives a 30% chance to move first in any turn, regardless of move priority or Speed stats. When activated, the Pokémon gains priority similar to Quick Claw but as an ability. This priority boost works independently of move selection and can activate on any turn.
-
-*Character count: 298*
+Quick Draw gives a 30% chance to move first in any turn, regardless of move priority or Speed stats. When activated, the Pokemon gains priority similar to Quick Claw but as an ability. This priority boost works independently of move selection and can activate on any turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -33,8 +31,8 @@ Quick Draw gives a 30% chance to move first in any turn, regardless of move prio
 - **Activation Display**: Shows ability popup and battle message when triggered
 
 ### Interactions
-- **Status Conditions**: Does not activate if the Pokémon is asleep or has no valid moves
-- **Move Restrictions**: Works with any move the Pokémon can use
+- **Status Conditions**: Does not activate if the Pokemon is asleep or has no valid moves
+- **Move Restrictions**: Works with any move the Pokemon can use
 - **Turn Priority**: Independent of move priority - can make negative priority moves go first
 - **Speed Stats**: Completely bypasses Speed comparison when activated
 
@@ -45,10 +43,10 @@ Quick Draw gives a 30% chance to move first in any turn, regardless of move prio
 - **Gale Wings**: Different - gives +1 priority to Flying-type moves only
 
 ### Strategic Usage
-- Excellent for slow, powerful Pokémon that want to move first occasionally
-- Particularly effective on Pokémon with strong but negative priority moves
+- Excellent for slow, powerful Pokemon that want to move first occasionally
+- Particularly effective on Pokemon with strong but negative priority moves
 - Provides unpredictable speed control that opponents cannot reliably counter
-- Most valuable on Pokémon that would otherwise never outspeed opponents
+- Most valuable on Pokemon that would otherwise never outspeed opponents
 
 ### Notable Differences from Official Games
 This implementation follows the standard Quick Draw mechanics from Generation VIII, maintaining the 30% activation rate and priority boost system exactly as intended.

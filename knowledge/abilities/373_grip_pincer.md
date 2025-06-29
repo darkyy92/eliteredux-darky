@@ -2,7 +2,7 @@
 id: 373
 name: Grip Pincer
 status: ai-generated
-character_count: 271
+character_count: 297
 ---
 
 # Grip Pincer - Ability ID 373
@@ -10,10 +10,11 @@ character_count: 271
 ## In-Game Description
 "50% chance to trap. Then ignores Defense & accuracy checks."
 
-## Extended In-Game Description (280-300 chars)
-Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn. Trap lasts 4-5 turns (7 with Grip Claw).
+## Extended In-Game Description
 
-*Character count: 297*
+<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
+
+Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn. Trap lasts 4-5 turns (7 with Grip Claw).
 
 ## Detailed Mechanical Explanation
 
@@ -30,7 +31,7 @@ Contact moves have a 50% chance to trap the target (like Wrap), preventing escap
 
 ### Trap Effects
 1. **Movement Restriction**: 
-   - Trapped Pokémon cannot switch out or flee
+   - Trapped Pokemon cannot switch out or flee
    - Ghost-types are still trapped (unlike Gen 6+ mechanics for regular trapping moves)
    - Shed Shell allows escape despite trap
 
@@ -42,7 +43,7 @@ Contact moves have a 50% chance to trap the target (like Wrap), preventing escap
 3. **Battle Advantages for Attacker**:
    - **Accuracy Bypass**: All moves from the Grip Pincer user against trapped targets automatically hit
    - **Defense Ignore**: Physical and special moves ignore the target's defensive stat stages when calculating damage
-   - These benefits only apply to the Pokémon with Grip Pincer, not its allies
+   - These benefits only apply to the Pokemon with Grip Pincer, not its allies
 
 ### Technical Implementation Details
 **Location**: `/src/abilities.cc` lines 3860-3883

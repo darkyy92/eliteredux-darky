@@ -15,19 +15,17 @@ character_count: 286
 
 Moon Spirit grants STAB to all Fairy and Dark-type moves regardless of typing, providing 1.5x damage multiplier. When using Moonlight, recovery increases to 75% max HP instead of normal 50% or weather-modified amounts. Creates powerful dual-type offensive synergy with enhanced healing.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Moon Spirit is a unique dual-function ability that provides both offensive and defensive benefits. It grants Same Type Attack Bonus (STAB) to Fairy and Dark-type moves regardless of the Pokémon's actual typing, and enhances Moonlight recovery.
+Moon Spirit is a unique dual-function ability that provides both offensive and defensive benefits. It grants Same Type Attack Bonus (STAB) to Fairy and Dark-type moves regardless of the Pokemon's actual typing, and enhances Moonlight recovery.
 
 ### STAB Function
 - **Affected move types**: Fairy and Dark moves only
 - **Damage multiplier**: 1.5x (standard STAB bonus)
-- **Type independence**: Works regardless of Pokémon's actual typing
-- **Stacking**: Does not stack with natural STAB (if Pokémon is already Fairy/Dark type)
+- **Type independence**: Works regardless of Pokemon's actual typing
+- **Stacking**: Does not stack with natural STAB (if Pokemon is already Fairy/Dark type)
 
 ### Moonlight Enhancement
 - **Base recovery**: 75% of max HP (3/4 of max HP)
@@ -60,11 +58,11 @@ With Moon Spirit:
 - **Consistent recovery**: Weather independence provides reliability
 
 ### Offensive Applications
-Moon Spirit allows any Pokémon to use Fairy and Dark moves with STAB effectiveness:
+Moon Spirit allows any Pokemon to use Fairy and Dark moves with STAB effectiveness:
 - **Fairy moves**: Moonblast, Dazzling Gleam, Play Rough, Moonbeam
 - **Dark moves**: Dark Pulse, Foul Play, Crunch, Sucker Punch
-- **Coverage potential**: Grants neutral Pokémon access to two strong offensive types
-- **Surprise factor**: Unexpected STAB moves from non-Fairy/Dark Pokémon
+- **Coverage potential**: Grants neutral Pokemon access to two strong offensive types
+- **Surprise factor**: Unexpected STAB moves from non-Fairy/Dark Pokemon
 
 ### Defensive Applications
 Enhanced Moonlight provides superior recovery:
@@ -77,18 +75,18 @@ Enhanced Moonlight provides superior recovery:
 - **Dual-type coverage**: Effective against Psychic, Fighting, Ghost, and other types
 - **Weather independence**: Doesn't rely on weather for maximum effectiveness
 - **Versatile**: Suits both offensive and defensive strategies
-- **Typing flexibility**: Makes non-Fairy/Dark Pokémon viable with these move types
+- **Typing flexibility**: Makes non-Fairy/Dark Pokemon viable with these move types
 
 ### Synergistic Moves
 **Fairy moves that benefit:**
-- Moonblast (95 BP → 142 BP with STAB)
-- Play Rough (90 BP → 135 BP with STAB)
-- Dazzling Gleam (80 BP → 120 BP with STAB)
+- Moonblast (95 BP to 142 BP with STAB)
+- Play Rough (90 BP to 135 BP with STAB)
+- Dazzling Gleam (80 BP to 120 BP with STAB)
 
 **Dark moves that benefit:**
-- Dark Pulse (80 BP → 120 BP with STAB)
-- Foul Play (95 BP → 142 BP with STAB)
-- Crunch (80 BP → 120 BP with STAB)
+- Dark Pulse (80 BP to 120 BP with STAB)
+- Foul Play (95 BP to 142 BP with STAB)
+- Crunch (80 BP to 120 BP with STAB)
 
 ### Common User Profiles
 - **Psychic-types**: Gain Dark STAB for coverage against other Psychics
@@ -105,11 +103,11 @@ Enhanced Moonlight provides superior recovery:
 ### Limitations
 - **Move dependency**: Requires learning Fairy/Dark moves to benefit from STAB
 - **Moonlight requirement**: Recovery benefit only applies to one specific move
-- **Type distribution**: Limited to Pokémon that can learn relevant moves
+- **Type distribution**: Limited to Pokemon that can learn relevant moves
 - **Ability competition**: May compete with other strong abilities
 
 ### Interaction Notes
-- **Natural typing**: If Pokémon is already Fairy or Dark type, STAB doesn't stack
+- **Natural typing**: If Pokemon is already Fairy or Dark type, STAB doesn't stack
 - **Hidden Power**: Does not affect Hidden Power regardless of type
 - **Multi-hit moves**: Each hit receives the STAB bonus
 - **Critical hits**: STAB applies before critical hit calculation
@@ -128,6 +126,6 @@ Enhanced Moonlight provides superior recovery:
 
 ### Comparison to Similar Abilities
 - **Mystic Power**: Grants universal STAB but lacks healing component
-- **Natural STAB**: Only applies to Pokémon's actual types
+- **Natural STAB**: Only applies to Pokemon's actual types
 - **Big Root**: Enhances all recovery moves but by smaller amount
 - **Weather abilities**: Affect Moonlight but don't provide offensive benefits

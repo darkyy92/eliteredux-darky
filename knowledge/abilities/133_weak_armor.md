@@ -13,9 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the Pokémon become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
-
-*Character count: 290*
+When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the Pokemon become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
 
 ## Detailed Mechanical Explanation
 Weak Armor is a defensive ability that transforms physical hits into speed boosts:
@@ -24,7 +22,7 @@ Weak Armor is a defensive ability that transforms physical hits into speed boost
 - Must be hit by a physical move (checks IS_MOVE_PHYSICAL)
 - Does not require the move to make contact, despite the in-game description saying "contact attack"
 - Activates after taking damage from the move
-- Works even if the Pokémon faints from the attack (stat changes apply before fainting)
+- Works even if the Pokemon faints from the attack (stat changes apply before fainting)
 
 **Effects:**
 - Lowers Defense by 1 stage (-1)
@@ -38,7 +36,7 @@ Weak Armor is a defensive ability that transforms physical hits into speed boost
 - Against moves with the hit-and-run effect (like U-turn), the ability disables Eject Pack on the Weak Armor user to ensure proper stat change application
 
 **Strategic Considerations:**
-- Excellent for Pokémon that want to set up as fast sweepers
+- Excellent for Pokemon that want to set up as fast sweepers
 - The 2-stage Speed boost often outweighs the Defense drop for offensive strategies
 - Pairs well with physical bulk investment to offset the Defense drops
 - Can be used strategically with weak physical moves to intentionally trigger the Speed boost

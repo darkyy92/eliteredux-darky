@@ -15,8 +15,6 @@ character_count: 292
 
 Ice Scales provides exceptional special defensive utility by halving all incoming special attack damage. Unlike abilities that boost stats, this damage reduction occurs after stat calculations, making it incredibly reliable. Can be suppressed by Mold Breaker-type abilities.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

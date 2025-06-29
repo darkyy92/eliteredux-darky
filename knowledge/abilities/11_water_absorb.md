@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokémon absorbs Water-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Water damage, secondary effects like stat drops, and even Scald's burn chance. Fire-types can safely switch into any Water attack with this.
-
-*Character count: 285*
+This Pokemon absorbs Water-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Water damage, secondary effects like stat drops, and even Scald's burn chance. Fire-types can safely switch into any Water attack with this.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -50,9 +48,9 @@ Identical implementation to Volt Absorb but checking for Water-type.
 
 ### Healing Calculation
 For various HP values:
-- 404 HP Pokémon: Heals 101 HP per trigger
-- 352 HP Pokémon: Heals 88 HP per trigger
-- 4 HP Pokémon: Heals 1 HP (minimum)
+- 404 HP Pokemon: Heals 101 HP per trigger
+- 352 HP Pokemon: Heals 88 HP per trigger
+- 4 HP Pokemon: Heals 1 HP (minimum)
 
 ### Strategic Implications
 

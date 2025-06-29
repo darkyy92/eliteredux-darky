@@ -13,9 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sticky Hold prevents the Pokémon from losing its held item through any means. Blocks Knock Off, Thief, Covet, Trick, Switcheroo, and other item-removing effects. The item remains secure throughout battle, enabling consistent item-dependent strategies and protecting valuable held items from theft.
-
-*Character count: 294*
+Sticky Hold prevents the Pokemon from losing its held item through any means. Blocks Knock Off, Thief, Covet, Trick, Switcheroo, and other item-removing effects. The item remains secure throughout battle, enabling consistent item-dependent strategies and protecting valuable held items from theft.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -60,10 +58,10 @@ The ability is checked throughout battle script commands whenever item removal i
 - **Magic Guard**: Provides different protection - compatible abilities
 
 ### Common Users:
-- Pokémon that rely heavily on specific items
+- Pokemon that rely heavily on specific items
 - Defensive walls with Leftovers
 - Choice item users wanting guaranteed effect
-- Support Pokémon with utility items
+- Support Pokemon with utility items
 
 ### Competitive Usage:
 - **Singles**: Moderate utility for item-dependent strategies

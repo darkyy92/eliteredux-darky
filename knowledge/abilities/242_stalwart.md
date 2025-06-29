@@ -13,14 +13,12 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Stalwart prevents the Pokémon from being affected by target redirection effects. This includes abilities like Lightning Rod, Storm Drain, and Sap Sipper that draw certain move types, as well as moves like Follow Me and Rage Powder that force attacks to target them instead.
-
-*Character count: 288*
+Stalwart prevents the Pokemon from being affected by target redirection effects. This includes abilities like Lightning Rod, Storm Drain, and Sap Sipper that draw certain move types, as well as moves like Follow Me and Rage Powder that force attacks to target them instead.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Stalwart is a defensive ability that provides immunity to all forms of target redirection in battle. When a Pokémon with Stalwart uses a move, that move cannot be redirected by:
+Stalwart is a defensive ability that provides immunity to all forms of target redirection in battle. When a Pokemon with Stalwart uses a move, that move cannot be redirected by:
 
 ### Target Redirection Abilities Blocked:
 - **Lightning Rod**: Usually redirects Electric-type moves and boosts Special Attack
@@ -36,7 +34,7 @@ Stalwart is a defensive ability that provides immunity to all forms of target re
 - **Rage Powder**: Forces all opposing moves to target the user (except Grass-types and Overcoat users)
 
 ### Technical Implementation:
-The ability works by making the `HasRedirectionAbility()` function return `ABILITY_NONE` when the attacking Pokémon has Stalwart. This is implemented alongside Propeller Tail and the move Snipe Shot, which have similar redirection immunity.
+The ability works by making the `HasRedirectionAbility()` function return `ABILITY_NONE` when the attacking Pokemon has Stalwart. This is implemented alongside Propeller Tail and the move Snipe Shot, which have similar redirection immunity.
 
 The key code check occurs in battle calculations:
 ```c

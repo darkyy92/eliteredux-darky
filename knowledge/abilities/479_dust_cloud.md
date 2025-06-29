@@ -15,17 +15,15 @@ character_count: 285
 
 Dust Cloud automatically uses Sand Attack targeting the opponent upon switching into battle. The Ground-type status move reduces the target's accuracy by one stage with 100% accuracy. Works once per switch-in. Effective for disrupting opposing sweepers and accuracy-reliant strategies.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Dust Cloud is an entry hazard ability that automatically executes Sand Attack when the Pokémon switches into battle. This provides immediate accuracy disruption to the opposing Pokémon.
+Dust Cloud is an entry hazard ability that automatically executes Sand Attack when the Pokemon switches into battle. This provides immediate accuracy disruption to the opposing Pokemon.
 
 ### Activation Conditions
 - **Trigger**: Activates upon switching into battle
-- **Target**: Automatically targets the opposing Pokémon
+- **Target**: Automatically targets the opposing Pokemon
 - **Move used**: Sand Attack (Ground-type status move)
 - **Accuracy**: 100% accuracy (Sand Attack base accuracy)
 - **Effect**: Reduces target's accuracy by 1 stage
@@ -73,7 +71,7 @@ The UseEntryMove function handles the mechanics:
 - **Entry order**: Activates immediately upon switch-in
 - **Priority**: Uses the extra attack system
 - **Interruption**: Can be interrupted by faster priority moves
-- **Multi-target**: In doubles, targets one opposing Pokémon
+- **Multi-target**: In doubles, targets one opposing Pokemon
 
 ### Strategic Applications
 - **Sweeper disruption**: Reduces accuracy of setup sweepers

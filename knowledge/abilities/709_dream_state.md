@@ -15,8 +15,6 @@ character_count: 294
 
 Dream State grants complete immunity to critical hits and reduces all incoming damage by 20%. The damage reduction stacks with resistances and items. Critical immunity blocks all crit sources including abilities and held items, making it excellent against high-crit Pokemon and luck strategies.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -47,16 +45,16 @@ constexpr Ability DreamState = {
 - **Calculation order**: Applied after type effectiveness but before other defensive modifiers
 
 ### Activation Conditions
-- **Passive ability**: Always active when the Pokémon is on the field
+- **Passive ability**: Always active when the Pokemon is on the field
 - **No requirements**: Does not require specific weather, status, or field conditions
 - **Breakable**: Can be suppressed by Mold Breaker, Teravolt, Turboblaze
-- **Target application**: Both effects apply to the Pokémon with Dream State
+- **Target application**: Both effects apply to the Pokemon with Dream State
 
 ### Damage Calculation Example
 ```
 Base damage: 100
-Type effectiveness: ×0.5 (resisted) = 50
-Dream State: ×0.8 = 40 final damage
+Type effectiveness: x0.5 (resisted) = 50
+Dream State: x0.8 = 40 final damage
 ```
 
 ### Important Interactions
@@ -68,7 +66,7 @@ Dream State: ×0.8 = 40 final damage
 - **Confusion/recoil**: Self-inflicted damage not reduced
 
 ### Strategic Applications
-- **Physical tank**: Excellent on bulky Pokémon that fear critical hits
+- **Physical tank**: Excellent on bulky Pokemon that fear critical hits
 - **Special tank**: Works equally well against special attackers
 - **Anti-luck**: Completely nullifies critical hit luck in competitive play
 - **Longevity**: 20% damage reduction significantly extends staying power
@@ -94,13 +92,13 @@ Dream State: ×0.8 = 40 final damage
 - **Team role**: Defensive pivot and special wall
 - **Meta impact**: Forces opponents to rely on consistent damage over luck
 - **Prediction safe**: No timing or prediction required for activation
-- **Versatile**: Works on any Pokémon regardless of typing or role
+- **Versatile**: Works on any Pokemon regardless of typing or role
 
 ### Notable Users
-Pokémon with Dream State as either their primary or innate ability:
-- Often found on defensive/bulky Pokémon
+Pokemon with Dream State as either their primary or innate ability:
+- Often found on defensive/bulky Pokemon
 - Particularly valuable on mixed walls
-- Excellent on Pokémon with recovery moves
+- Excellent on Pokemon with recovery moves
 - Synergizes with defensive stat spreads
 
 ### Version History
@@ -110,7 +108,7 @@ Pokémon with Dream State as either their primary or innate ability:
 - Implements Battle Armor's proven mechanics with enhanced damage reduction
 
 ### Comparison to Similar Abilities
-- **Battle Armor**: Same effects but typically on different Pokémon
+- **Battle Armor**: Same effects but typically on different Pokemon
 - **Shell Armor**: Only critical hit immunity, no damage reduction
 - **Filter/Solid Rock**: Only 25% reduction on super-effective moves
 - **Multiscale**: Only works at full HP

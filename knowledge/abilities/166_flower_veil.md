@@ -2,24 +2,22 @@
 id: 166
 name: Flower Veil
 status: ai-generated
-character_count: 276
+character_count: 277
 ---
 
-# Flower Veil (Ability #166)
+# Flower Veil - Ability ID 166
 
-## Overview
-Flower Veil is a protective ability that shields Grass-type allies from harmful status conditions and stat reductions. This ability was introduced in Generation VI and provides comprehensive battlefield protection for Grass-type teammates.
-
-## Current Description
-**Short:** "Protects Grass-type allies from status and stat drops."
+## In-Game Description
+"Protects Grass-type allies from status and stat drops."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"Surrounds Grass-type allies with a protective veil of petals, preventing all status conditions including poison, burn, paralysis, sleep, and freeze. Also blocks all stat reductions from enemy moves, abilities, and effects. Does not protect the user if they are not Grass-type."
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-**Character count:** 295 characters
+Surrounds Grass-type allies with a protective veil of petals, preventing all status conditions including poison, burn, paralysis, sleep, and freeze. Also blocks all stat reductions from enemy moves, abilities, and effects. Does not protect the user if they are not Grass-type.
 
-## Mechanics
+## Detailed Mechanical Explanation
+
+Flower Veil is a protective ability that shields Grass-type allies from harmful status conditions and stat reductions. This ability was introduced in Generation VI and provides comprehensive battlefield protection for Grass-type teammates.
 
 ### Status Protection
 - Prevents ALL status conditions (poison, burn, paralysis, sleep, freeze, confusion) from affecting Grass-type allies

@@ -5,23 +5,19 @@ status: ai-generated
 character_count: 284
 ---
 
-# Malicious
+# Malicious - Ability ID 598
 
-**Ability ID**: 598
-**Type**: Regular Ability
-
-**In-Game Description**: "Lowers the foe's highest Attack and Defense stat."
+## In-Game Description
+"Lowers the foe's highest Attack and Defense stat."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, lowers all opposing Pokémon's highest offensive stat (Attack or Special Attack) and highest defensive stat (Defense or Special Defense) by 1 stage each. More versatile than Intimidate, intelligently adapting to each opponent's current stat distribution including boosts.
+On switch-in, lowers all opposing Pokemon's highest offensive stat (Attack or Special Attack) and highest defensive stat (Defense or Special Defense) by 1 stage each. More versatile than Intimidate, intelligently adapting to each opponent's current stat distribution including boosts.
 
-*Character count: 284*
+## Detailed Mechanical Explanation
 
-## Detailed Mechanical Explanation (Discord/Reference)
-
-The MALICIOUS ability triggers **on entry** (when the Pokémon switches into battle) using the `UseIntimidateClone` function system. It lowers **two specific stats** of all opposing Pokémon:
+The MALICIOUS ability triggers **on entry** (when the Pokemon switches into battle) using the `UseIntimidateClone` function system. It lowers **two specific stats** of all opposing Pokemon:
 
 1. **Highest Attacking Stat** (either Attack or Special Attack, whichever is higher)
 2. **Highest Defending Stat** (either Defense or Special Defense, whichever is higher)
@@ -33,8 +29,8 @@ The ability uses sophisticated stat calculation functions:
 
 ## Trigger Conditions
 
-- **On Entry**: Activates when the Pokémon switches into battle
-- **Affects**: All opposing Pokémon (both in double battles)
+- **On Entry**: Activates when the Pokemon switches into battle
+- **Affects**: All opposing Pokemon (both in double battles)
 - **No Immunity**: Standard Intimidate immunities don't apply since this targets different stats
 
 ## Numerical Effects
@@ -46,14 +42,14 @@ The ability uses sophisticated stat calculation functions:
 ## Interactions
 
 - **Stat Stage Modifications**: Takes into account current buffs/debuffs when determining "highest" stats
-- **Double Battles**: Affects both opposing Pokémon simultaneously
+- **Double Battles**: Affects both opposing Pokemon simultaneously
 - **Standard Intimidate**: Can stack with regular Intimidate effects
 - **Clear Body/White Smoke**: These abilities would prevent the stat reduction
 
 ## Special Cases
 
-- **Example 1**: Against a Pokémon with 120 Attack and 80 Special Attack, it would lower Attack (highest offensive stat)
-- **Example 2**: Against a Pokémon with +2 Special Attack boost, the boosted Special Attack might become the "highest" and be targeted instead
+- **Example 1**: Against a Pokemon with 120 Attack and 80 Special Attack, it would lower Attack (highest offensive stat)
+- **Example 2**: Against a Pokemon with +2 Special Attack boost, the boosted Special Attack might become the "highest" and be targeted instead
 - **Tied Stats**: Implementation uses consistent tie-breaking logic in the stat comparison functions
 
 ## Notes

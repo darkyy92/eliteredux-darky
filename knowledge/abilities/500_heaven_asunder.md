@@ -15,8 +15,6 @@ character_count: 295
 
 Heaven Asunder guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves. This signature ability of Palkia reflects its mastery over spatial dimensions, tearing through enemy defenses with devastating precision strikes.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

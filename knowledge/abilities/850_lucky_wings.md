@@ -5,16 +5,18 @@ status: ai-generated
 character_count: 286
 ---
 
-# Lucky Wings (Ability ID 850)
+# Lucky Wings - Ability ID 850
 
-## Short Description
-"Serene Grace + Giant Wings."
+## In-Game Description
+Serene Grace + Giant Wings.
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 Lucky Wings combines two powerful effects: doubles the chance of moves' secondary effects activating (Serene Grace), and boosts the power of all airborne moves by 30% (Giant Wings). This creates a potent synergy for flying attackers with high-utility moves that can overwhelm opponents.
 
-## Implementation Analysis
+## Detailed Mechanical Explanation
+
+### Implementation Analysis
 
 Lucky Wings is implemented as a combination ability in `src/abilities.cc`:
 
@@ -48,7 +50,7 @@ constexpr Ability LuckyWings = {
 
 ## Strategic Usage
 
-Lucky Wings is particularly effective on Pokémon that:
+Lucky Wings is particularly effective on Pokemon that:
 - Have access to air-based moves with secondary effects
 - Can benefit from both offensive power and utility
 - Are naturally fast enough to capitalize on increased flinch chances

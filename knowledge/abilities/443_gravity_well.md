@@ -13,18 +13,16 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Gravity Well automatically sets Gravity field effect on entry for 5 turns. Prevents Flying moves like Bounce, Fly, and Sky Drop while grounding airborne Pokémon including Levitate users. Increases move accuracy and allows Ground moves to hit Flying types for enhanced strategic control.
-
-*Character count: 286*
+Gravity Well automatically sets Gravity field effect on entry for 5 turns. Prevents Flying moves like Bounce, Fly, and Sky Drop while grounding airborne Pokemon including Levitate users. Increases move accuracy and allows Ground moves to hit Flying types for enhanced strategic control.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Gravity Well is a field-setting ability that automatically establishes the Gravity field condition when the Pokémon enters battle. The ability creates a 5-turn field effect that fundamentally alters the battle environment.
+Gravity Well is a field-setting ability that automatically establishes the Gravity field condition when the Pokemon enters battle. The ability creates a 5-turn field effect that fundamentally alters the battle environment.
 
 ### Activation Conditions
-- **Entry trigger**: Activates immediately when the Pokémon enters battle
+- **Entry trigger**: Activates immediately when the Pokemon enters battle
 - **Field check**: Only activates if Gravity is not already active
 - **Duration**: Sets Gravity for exactly 5 turns (GRAVITY_DURATION)
 - **Priority**: Triggers before other entry abilities
@@ -45,15 +43,15 @@ The Gravity field established by this ability has multiple mechanics:
    - Floaty Fall
    - Seismic Toss
 
-2. **Grounding Effects**: Forces all airborne Pokémon to become grounded:
+2. **Grounding Effects**: Forces all airborne Pokemon to become grounded:
    - Removes Levitate ability immunity to Ground moves
-   - Grounds Flying-type Pokémon
-   - Affects Pokémon with Air Balloon
-   - Grounds Pokémon affected by Magnet Rise or Telekinesis
+   - Grounds Flying-type Pokemon
+   - Affects Pokemon with Air Balloon
+   - Grounds Pokemon affected by Magnet Rise or Telekinesis
 
 3. **Accuracy Boost**: Increases accuracy of all moves (traditional Gravity effect)
 
-4. **Type Effectiveness**: Allows Ground-type moves to hit Flying-type Pokémon
+4. **Type Effectiveness**: Allows Ground-type moves to hit Flying-type Pokemon
 
 ### Technical Implementation
 ```c
@@ -92,7 +90,7 @@ constexpr Ability GravityWell = {
 ### Synergies
 - **Ground-type moves**: Earthquake, Earth Power now hit Flying types
 - **High-accuracy moves**: Benefit from additional accuracy boost
-- **Heavy Pokémon**: Synergizes with Weight-based moves
+- **Heavy Pokemon**: Synergizes with Weight-based moves
 - **Trapping moves**: Prevents Fly/Bounce escape options
 
 ### Counters
@@ -102,16 +100,16 @@ constexpr Ability GravityWell = {
 - **Gravity immunity**: Some abilities or items may provide immunity
 
 ### Competitive Usage
-- **Lead potential**: Excellent on lead Pokémon for immediate field control
+- **Lead potential**: Excellent on lead Pokemon for immediate field control
 - **Support role**: Enables Ground-type teammates
 - **Anti-meta**: Counters Flying-type dominant strategies
 - **Pivot control**: Limits opponent's mobility options
 - **Setup enabler**: Creates favorable conditions for Ground-type sweepers
 
 ### Common Users
-- Pokémon with strong Ground-type moves
-- Bulky support Pokémon that can utilize the field
-- Pokémon designed for field control strategies
+- Pokemon with strong Ground-type moves
+- Bulky support Pokemon that can utilize the field
+- Pokemon designed for field control strategies
 - Tanks that benefit from limiting opponent options
 
 ### Version History

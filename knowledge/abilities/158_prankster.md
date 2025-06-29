@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Status moves gain +1 priority, going first in their priority bracket. This includes moves like Thunder Wave, Spore, Taunt, and stat boosters. However, status moves completely fail when targeting opposing Dark-type Pokémon. Works on multi-target moves but affected opponents are protected.
-
-*Character count: 295*
+Status moves gain +1 priority, going first in their priority bracket. This includes moves like Thunder Wave, Spore, Taunt, and stat boosters. However, status moves completely fail when targeting opposing Dark-type Pokemon. Works on multi-target moves but affected opponents are protected.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -74,10 +72,10 @@ bool32 BlocksPrankster(MoveEnum move, u8 battlerPrankster, u8 battlerDef, bool32
 ### Strategic Applications
 
 **Offensive Sets:**
-- Thunder Wave → setup sweeper activation
-- Taunt → shuts down opposing setup/recovery
-- Toxic → pressure stall tactics
-- Will-O-Wisp → physical attacker neutering
+- Thunder Wave to setup sweeper activation
+- Taunt to shuts down opposing setup/recovery
+- Toxic to pressure stall tactics
+- Will-O-Wisp to physical attacker neutering
 
 **Support Sets:**
 - Priority recovery with Roost
@@ -108,7 +106,7 @@ bool32 BlocksPrankster(MoveEnum move, u8 battlerPrankster, u8 battlerDef, bool32
 - **Taunt:** Prevents status move usage (though Prankster Taunt can outspeed)
 
 **Ability Counters:**
-- **Psychic Terrain:** Blocks priority moves that target grounded Pokémon
+- **Psychic Terrain:** Blocks priority moves that target grounded Pokemon
 - **Queenly Majesty/Dazzling:** Blocks all priority moves
 - **Magic Bounce:** Redirects status moves
 

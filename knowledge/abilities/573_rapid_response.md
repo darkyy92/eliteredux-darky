@@ -15,8 +15,6 @@ character_count: 299
 
 Rapid Response provides a crucial first-turn advantage by boosting Speed by 50% and Special Attack by 20% only on the first turn after switch-in. The Speed boost allows outspeeding opponents, while the Special Attack boost enhances offensive power, making it ideal for sweepers.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,12 +22,12 @@ Rapid Response provides a crucial first-turn advantage by boosting Speed by 50% 
 - **Speed Boost**: 50% increase (1.5x multiplier) to Speed stat on first turn only
 - **Special Attack Boost**: 20% increase (1.2x multiplier) to Special Attack stat on first turn only
 - **Duration**: Only active on the first turn after switch-in or battle start
-- **Activation**: Automatically triggers when the Pokémon enters battle
+- **Activation**: Automatically triggers when the Pokemon enters battle
 
 ### Activation Conditions
 - Triggers immediately upon switch-in to battle
-- Triggers at battle start if the Pokémon is in the lead position
-- Does not retrigger if the Pokémon switches out and back in during the same battle
+- Triggers at battle start if the Pokemon is in the lead position
+- Does not retrigger if the Pokemon switches out and back in during the same battle
 
 ### Technical Implementation
 ```c
@@ -63,25 +61,25 @@ CLEAR_ONE_TURN(rapidResponse)
 
 ### Strategic Implications
 - **Sweeper Setup**: Ideal for special attackers that need to outspeed and KO opponents
-- **Revenge Killing**: Allows slower Pokémon to revenge kill faster threats
+- **Revenge Killing**: Allows slower Pokemon to revenge kill faster threats
 - **First Turn Advantage**: Provides immediate offensive pressure
 - **Choice Item Synergy**: Works well with Choice Specs for massive first-turn damage
 
 ### Example Damage Calculations
 ```
 Base 100 Special Attack with Choice Specs + Rapid Response:
-- Normal: 100 × 1.5 (Choice Specs) = 150
-- With Rapid Response: 100 × 1.2 × 1.5 = 180 (20% additional boost)
+- Normal: 100 x 1.5 (Choice Specs) = 150
+- With Rapid Response: 100 x 1.2 x 1.5 = 180 (20% additional boost)
 
 Speed comparison (Base 80 Speed):
 - Normal: 80
-- With Rapid Response: 80 × 1.5 = 120 (outspeed base 119 threats)
+- With Rapid Response: 80 x 1.5 = 120 (outspeed base 119 threats)
 ```
 
 ### Common Users
 - Special attackers with moderate Speed stats
-- Pokémon that need to outspeed specific threats
-- Glass cannon Pokémon that need first-turn momentum
+- Pokemon that need to outspeed specific threats
+- Glass cannon Pokemon that need first-turn momentum
 - Revenge killers that need guaranteed speed control
 
 ### Competitive Usage Notes
@@ -92,7 +90,7 @@ Speed comparison (Base 80 Speed):
 
 ### Counters
 - **Priority Moves**: Bypass the Speed boost entirely
-- **Switch-Out**: Opponent can switch to a resistant Pokémon
+- **Switch-Out**: Opponent can switch to a resistant Pokemon
 - **Status Moves**: Paralyze or sleep the user to waste the boost
 - **Protect/Detect**: Stall out the one-turn effect
 

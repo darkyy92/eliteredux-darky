@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Whiteout boosts the Pokémon's highest attacking stat by 50% during hail weather. The boost applies to either Attack or Special Attack, whichever is higher. Also grants immunity to hail damage. Ideal for mixed attackers in hail teams.
-
-*Character count: 284*
+Whiteout boosts the Pokemon's highest attacking stat by 50% during hail weather. The boost applies to either Attack or Special Attack, whichever is higher. Also grants immunity to hail damage. Ideal for mixed attackers in hail teams.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -33,7 +31,7 @@ Whiteout is a weather-dependent ability that provides both offensive enhancement
 - **Hail Types**: Works with all forms of hail weather
   - `WEATHER_HAIL_TEMPORARY`: Standard hail (5 turns, 8 with Icy Rock)
   - `WEATHER_HAIL_PERMANENT`: Permanent hail from abilities like Snow Warning
-- **Weather Check**: Uses `IsBattlerWeatherAffected()` to verify the Pokémon is affected by hail
+- **Weather Check**: Uses `IsBattlerWeatherAffected()` to verify the Pokemon is affected by hail
 
 ### Additional Effects
 - **Hail Immunity**: The ability includes `hailImmune = TRUE`, preventing hail damage
@@ -51,7 +49,7 @@ constexpr Ability Whiteout = {
 ```
 
 ### Strategic Applications
-- **Mixed Attackers**: Particularly valuable on Pokémon with balanced Attack and Special Attack stats
+- **Mixed Attackers**: Particularly valuable on Pokemon with balanced Attack and Special Attack stats
 - **Hail Teams**: Synergizes with Snow Warning setters and other hail-based abilities
 - **Stat Flexibility**: Automatically adapts to stat changes from items, abilities, or moves during battle
 - **Weather Counter**: Can be used defensively against opposing weather teams while maintaining offensive presence

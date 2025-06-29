@@ -13,9 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sand Force boosts the Pokémon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.
-
-*Character count: 288*
+Sand Force boosts the Pokemon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,10 +21,10 @@ Sand Force boosts the Pokémon's highest attacking stat (Attack or Special Attac
 Sand Force is a weather-dependent ability that provides both offensive power and defensive protection in sandstorm conditions.
 
 ### Core Mechanics
-- **Stat Boost**: Multiplies the Pokémon's highest attacking stat by 1.5x (50% increase)
+- **Stat Boost**: Multiplies the Pokemon's highest attacking stat by 1.5x (50% increase)
 - **Stat Selection**: Uses `GetHighestAttackingStatId()` to determine whether Attack or Special Attack is higher
 - **Weather Dependency**: Only activates during sandstorm weather conditions
-- **Sandstorm Immunity**: The Pokémon takes no damage from sandstorm weather
+- **Sandstorm Immunity**: The Pokemon takes no damage from sandstorm weather
 
 ### Activation Conditions
 ```cpp
@@ -35,9 +33,9 @@ if (IsBattlerWeatherAffected(battler, WEATHER_SANDSTORM_ANY)) *stat *= 1.5;
 ```
 
 The ability triggers when:
-1. The stat being calculated is the Pokémon's highest attacking stat
+1. The stat being calculated is the Pokemon's highest attacking stat
 2. Sandstorm weather is active (`WEATHER_SANDSTORM_ANY`)
-3. The Pokémon is affected by weather (not holding items like Safety Goggles)
+3. The Pokemon is affected by weather (not holding items like Safety Goggles)
 
 ### Technical Implementation
 - **Function**: `SandForce.onStat` callback
@@ -60,12 +58,12 @@ The ability uses `GetHighestAttackingStatId()` which:
 
 ### Damage Calculations
 **Without Sand Force**: Standard damage calculation
-**With Sand Force**: Attacking stat × 1.5 before damage formula
+**With Sand Force**: Attacking stat x 1.5 before damage formula
 
 Example with 252 Attack EV Landorus-T:
 - Base Attack: 145
 - With EVs/Nature: ~350 Attack
-- Sand Force boost: 350 × 1.5 = 525 effective Attack
+- Sand Force boost: 350 x 1.5 = 525 effective Attack
 - **Net damage increase**: ~50% more physical damage
 
 ### Strategic Applications
@@ -75,7 +73,7 @@ Example with 252 Attack EV Landorus-T:
 4. **Defensive Utility**: Sandstorm immunity allows safe switching
 
 ### Notable Users
-Sand Force appears on various Pokémon in Elite Redux:
+Sand Force appears on various Pokemon in Elite Redux:
 - **Sandslash**: Physical attacker with solid bulk
 - **Dugtrio**: Speed and trapping with power boost
 - **Golem**: Tank that benefits from mixed attacking potential

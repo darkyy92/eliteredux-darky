@@ -13,9 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokémon never miss. These three types are the primary weaknesses of Psychic-types, providing defensive immunity alongside perfect accuracy for utility moves.
-
-*Character count: 286*
+Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokemon never miss. These three types are the primary weaknesses of Psychic-types, providing defensive immunity alongside perfect accuracy for utility moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +23,7 @@ Gifted Mind is a dual-function ability that provides both defensive immunity and
 
 ### Defensive Component - Type Immunity
 - **Immunity types**: Dark, Ghost, and Bug-type moves deal 0 damage
-- **Coverage**: These three types cover the most common weaknesses of Psychic-type Pokémon
+- **Coverage**: These three types cover the most common weaknesses of Psychic-type Pokemon
 - **Interaction**: Works like type immunity - no damage, no secondary effects
 - **Priority**: Applied during damage calculation phase
 
@@ -62,9 +60,9 @@ The AI recognizes both aspects of this ability:
 
 ### Strategic Applications
 - **Psychic-type support**: Perfect for Psychic-types weak to Dark/Ghost/Bug
-- **Utility Pokémon**: Excellent for support Pokémon that rely on status moves
+- **Utility Pokemon**: Excellent for support Pokemon that rely on status moves
 - **Counter-meta**: Hard counters common offensive types
-- **Team support**: Reliable status spreaders and support Pokémon
+- **Team support**: Reliable status spreaders and support Pokemon
 
 ### Counters and Limitations
 - **Other move types**: Still vulnerable to other types like Flying, Electric, etc.
@@ -90,10 +88,10 @@ The AI recognizes both aspects of this ability:
 - Elite Redux exclusive ability
 - ID 422 in the ability list
 - Combines defensive immunity with offensive utility
-- Designed to support Psychic-type viability and utility Pokémon
+- Designed to support Psychic-type viability and utility Pokemon
 
 ### Competitive Usage Notes
-- Excellent on support Pokémon that need reliable status moves
+- Excellent on support Pokemon that need reliable status moves
 - Provides defensive backbone for Psychic-types
 - Creates interesting team-building decisions around type coverage
 - Particularly strong in formats where Dark/Ghost/Bug moves are common

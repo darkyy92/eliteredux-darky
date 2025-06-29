@@ -5,15 +5,14 @@ status: ai-generated
 character_count: 286
 ---
 
-# Know Your Place (Ability ID: 735)
+# Know Your Place - Ability ID 735
 
 ## In-Game Description
 "Contact attacks make foes move last for 5 turns."
 
-## Extended In-Game Description (280-300 chars)
-Contact moves inflict dazed status for 5 turns. Dazed Pokémon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokémon compete normally among themselves. Status effect does not stack or refresh on already dazed targets.
-
-*Character count: 286*
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+Contact moves inflict dazed status for 5 turns. Dazed Pokemon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokemon compete normally among themselves. Status effect does not stack or refresh on already dazed targets.
 
 ## Detailed Mechanical Explanation
 **Know Your Place** is a powerful speed control ability that completely overrides the normal priority system through the "dazed" status effect.
@@ -21,14 +20,14 @@ Contact moves inflict dazed status for 5 turns. Dazed Pokémon always move absol
 ### Core Mechanics
 
 #### Dazed Status Infliction
-When a Pokémon with Know Your Place lands a contact move on an opponent:
+When a Pokemon with Know Your Place lands a contact move on an opponent:
 1. **Contact Requirement**: Only contact moves trigger the effect
 2. **Duration**: Inflicts dazed status for exactly 5 turns
-3. **No Stacking**: Already dazed Pokémon cannot be dazed again
+3. **No Stacking**: Already dazed Pokemon cannot be dazed again
 4. **Message**: "{B_DEF_NAME_WITH_PREFIX} is dazed by the blow!"
 
 #### Dazed Status Effect
-The dazed status forces the affected Pokémon to move **absolutely last overall**, not just within their priority bracket.
+The dazed status forces the affected Pokemon to move **absolutely last overall**, not just within their priority bracket.
 
 ### Speed System Override
 
@@ -46,22 +45,22 @@ u16 effectiveSpeed;     // Actual speed stat
 ```
 
 #### Priority Override Logic
-- **Dazed Pokémon**: `dazedNegation = 0` (false)
-- **Non-dazed Pokémon**: `dazedNegation = 1` (true)
-- **Result**: Dazed Pokémon ALWAYS move after non-dazed Pokémon
+- **Dazed Pokemon**: `dazedNegation = 0` (false)
+- **Non-dazed Pokemon**: `dazedNegation = 1` (true)
+- **Result**: Dazed Pokemon ALWAYS move after non-dazed Pokemon
 
 ### Practical Examples
 
 #### Priority Override
-- A dazed Pokémon using **Quick Attack (+1 priority)** will still move after a non-dazed Pokémon using a **normal priority move**
-- **Multiple dazed Pokémon** compete among themselves using normal priority and speed rules
+- A dazed Pokemon using **Quick Attack (+1 priority)** will still move after a non-dazed Pokemon using a **normal priority move**
+- **Multiple dazed Pokemon** compete among themselves using normal priority and speed rules
 - **Only exception**: Quash effect overrides all speed mechanics
 
 #### Speed Comparison
 When determining turn order:
-1. **Non-dazed Pokémon** are processed first (regardless of priority/speed)
-2. **Dazed Pokémon** are processed last (using normal priority/speed among themselves)
-3. **Priority moves** on dazed Pokémon are still slower than normal moves on non-dazed Pokémon
+1. **Non-dazed Pokemon** are processed first (regardless of priority/speed)
+2. **Dazed Pokemon** are processed last (using normal priority/speed among themselves)
+3. **Priority moves** on dazed Pokemon are still slower than normal moves on non-dazed Pokemon
 
 ### Implementation Details
 
@@ -85,7 +84,7 @@ constexpr Ability KnowYourPlace = {
 - **Clearing**: Automatically removes when counter reaches 0
 - **Switching**: Status persists when switching out and back in
 
-### Pokémon with This Ability
+### Pokemon with This Ability
 
 #### Current Users
 - **Mega Slaking** (Normal/Ice type)
@@ -116,4 +115,4 @@ Both forms have Know Your Place as one of their regular abilities alongside Unse
 - **Self-inflicted contact**: May affect the user if opponent has contact-based retaliation
 
 ### Unique Position
-Know Your Place is one of the most powerful speed control abilities in Elite Redux, providing absolute priority override that cannot be circumvented by normal priority mechanics. It creates a complete role reversal where even the fastest Pokémon become the slowest when dazed.
+Know Your Place is one of the most powerful speed control abilities in Elite Redux, providing absolute priority override that cannot be circumvented by normal priority mechanics. It creates a complete role reversal where even the fastest Pokemon become the slowest when dazed.

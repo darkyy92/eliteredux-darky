@@ -13,26 +13,24 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Ice Age grants the Pokémon an additional Ice typing upon entering battle, creating new STAB opportunities and coverage. The added Ice type stacks with existing types, allowing for triple-typed Pokémon with expanded offensive potential and strategic flexibility for coverage moves.
-
-*Character count: 280*
+Ice Age grants the Pokemon an additional Ice typing upon entering battle, creating new STAB opportunities and coverage. The added Ice type stacks with existing types, allowing for triple-typed Pokemon with expanded offensive potential and strategic flexibility for coverage moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Ice Age is a type-adding ability that permanently grants the Ice type to the Pokémon upon entering battle. This creates a triple-typed Pokémon by adding Ice as the third type (stored in `type3`), which affects:
+Ice Age is a type-adding ability that permanently grants the Ice type to the Pokemon upon entering battle. This creates a triple-typed Pokemon by adding Ice as the third type (stored in `type3`), which affects:
 
 - **STAB Calculation**: Ice-type moves receive 1.5x damage multiplier
-- **Type Effectiveness**: The Pokémon gains Ice-type resistances and vulnerabilities
+- **Type Effectiveness**: The Pokemon gains Ice-type resistances and vulnerabilities
 - **Move Learning**: Access to Ice-type moves that require Ice typing
 - **Battle Interactions**: Affected by abilities and moves that target Ice types
 
 ### Activation Conditions
-- Triggers automatically when the Pokémon enters battle
-- Only activates if the Pokémon doesn't already have Ice typing
+- Triggers automatically when the Pokemon enters battle
+- Only activates if the Pokemon doesn't already have Ice typing
 - Permanent for the duration of the battle (cannot be removed by most effects)
-- Shows battle message: "{Pokémon} added the Ice-type!"
+- Shows battle message: "{Pokemon} added the Ice-type!"
 
 ### Technical Implementation
 ```cpp
@@ -105,7 +103,7 @@ With Ice Age: Fire/Electric/Ice
 
 ### Common Users
 - **Clawtificer (Fire/Electric)**: Currently the only known user
-- Potential candidates: Any non-Ice Pokémon that would benefit from Ice coverage
+- Potential candidates: Any non-Ice Pokemon that would benefit from Ice coverage
 
 ### Competitive Usage Notes
 - **STAB Diversity**: Provides three different STAB types for maximum coverage
@@ -121,7 +119,7 @@ With Ice Age: Fire/Electric/Ice
 
 ### Synergies
 - **Weather Teams**: Pairs well with Hail teams for additional synergy
-- **Coverage Moves**: Works with Pokémon that lack natural Ice coverage
+- **Coverage Moves**: Works with Pokemon that lack natural Ice coverage
 - **Mixed Attackers**: Benefits both physical and special Ice moves
 - **Entry Hazards**: Ice typing helps against Ground-type hazard setters
 
@@ -132,10 +130,10 @@ With Ice Age: Fire/Electric/Ice
 
 ### Battle Message
 When Ice Age activates:
-> "{Pokémon} added the Ice-type!"
+> "{Pokemon} added the Ice-type!"
 
 ### Notes
-- The ability only checks that the Pokémon doesn't already have Ice typing before activating
+- The ability only checks that the Pokemon doesn't already have Ice typing before activating
 - Cannot be suppressed by typical ability-negating effects during entry
-- Persists through switching (when the Pokémon re-enters battle)
-- Does not affect the Pokémon's base typing permanently outside of battle
+- Persists through switching (when the Pokemon re-enters battle)
+- Does not affect the Pokemon's base typing permanently outside of battle

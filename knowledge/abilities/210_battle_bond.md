@@ -13,35 +13,33 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Battle Bond triggers form transformation when this Pokémon deals the finishing blow to an opponent. Greninja becomes Ash-Greninja with boosted Attack and Special Attack (+50/+50). Chesnaught becomes Clemont form with enhanced physical bulk. Delphox transforms into enhanced Serena form.
-
-*Character count: 295*
+Battle Bond triggers form transformation when this Pokemon deals the finishing blow to an opponent. Greninja becomes Ash-Greninja with boosted Attack and Special Attack (+50/+50). Chesnaught becomes Clemont form with enhanced physical bulk. Delphox transforms into enhanced Serena form.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Battle Bond is an ability that triggers a permanent form change when the Pokémon with this ability deals a knockout blow to an opponent. The transformation occurs immediately after the target faints and cannot be reversed during battle.
+Battle Bond is an ability that triggers a permanent form change when the Pokemon with this ability deals a knockout blow to an opponent. The transformation occurs immediately after the target faints and cannot be reversed during battle.
 
 ### Activation Conditions
-- The Pokémon must deliver the finishing blow that causes an opponent to faint
-- Works on any knockout (direct damage, status effects, etc.) as long as this Pokémon is the attacker
+- The Pokemon must deliver the finishing blow that causes an opponent to faint
+- Works on any knockout (direct damage, status effects, etc.) as long as this Pokemon is the attacker
 - Triggers once per battle - subsequent KOs do not cause additional transformations
 - Cannot be suppressed or negated by abilities like Mold Breaker
 
 ### Form Transformations and Stat Changes
 
-**Greninja → Ash-Greninja:**
+**Greninja to Ash-Greninja:**
 - Base: 72/100/67/103/71/122 (BST: 535)
 - Transformed: 72/150/67/153/71/132 (BST: 645)
 - Changes: +50 Attack, +50 Special Attack, +10 Speed
 
-**Chesnaught → Clemont Form:**
+**Chesnaught to Clemont Form:**
 - Base: 88/107/122/74/80/64 (BST: 535)  
 - Transformed: 88/128/152/98/92/87 (BST: 645)
 - Changes: +21 Attack, +30 Defense, +24 Special Attack, +12 Special Defense, +23 Speed
 
-**Delphox → Serena Form:**
+**Delphox to Serena Form:**
 - Base: 75/69/72/114/100/105 (BST: 535)
 - Transformed: 75/96/95/134/120/125 (BST: 645)
 - Changes: +27 Attack, +23 Defense, +20 Special Attack, +20 Special Defense, +20 Speed
@@ -79,14 +77,14 @@ constexpr Ability BattleBond = {
 
 ### Interactions with Other Mechanics
 - **Transform/Imposter**: Cannot be copied or transformed into
-- **Skill Swap/Role Play**: Cannot be transferred to other Pokémon
+- **Skill Swap/Role Play**: Cannot be transferred to other Pokemon
 - **Gastro Acid/Neutralizing Gas**: Cannot be suppressed (unsuppressable = TRUE)
 - **Randomizer**: Excluded from random ability assignment (randomizerBanned = TRUE)
 - **Switching Out**: Transformation persists for the remainder of the battle
 - **Status Conditions**: Transformation is not affected by sleep, paralysis, etc.
 
 ### Strategic Implications
-- **Sweeping Potential**: The stat boosts make these Pokémon excellent late-game sweepers
+- **Sweeping Potential**: The stat boosts make these Pokemon excellent late-game sweepers
 - **Momentum Building**: Getting the first KO becomes crucial for unlocking full potential
 - **Team Support**: Benefits from entry hazards and chip damage to secure KOs
 - **Risk/Reward**: Must survive long enough to get a KO to activate the transformation
@@ -109,7 +107,7 @@ constexpr Ability BattleBond = {
 ### Competitive Usage Notes
 - **Tier Placement**: Often restricted to higher tiers due to transformation potential
 - **Set Diversity**: Can run mixed offensive or setup sets pre-transformation
-- **Team Synergy**: Pairs well with hazard setters and pivot Pokémon
+- **Team Synergy**: Pairs well with hazard setters and pivot Pokemon
 - **Meta Influence**: Forces opponents to play around potential transformations
 
 ### Counters

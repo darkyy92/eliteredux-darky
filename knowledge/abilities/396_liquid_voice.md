@@ -2,24 +2,28 @@
 id: 396
 name: Liquid Voice
 status: ai-generated
-character_count: 0
+character_count: 231
 ---
 
-# Liquid Voice (Ability #396)
+# Liquid Voice - Ability ID 396
 
-## Basic Information
+## In-Game Description
+"Sound moves get a 1.2x boost and become Water if Normal."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type. This ability enhances vocal attacks through aquatic resonance, making sound-based strategies more versatile and effective in combat.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **Ability Name**: Liquid Voice
 - **Internal ID**: 396 (ABILITY_LIQUID_VOICE, enum value 204)
 - **Type**: Sound/Water Enhancement
 - **Introduced**: Generation VII equivalent
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-**Game Description**: "Sound moves get a 1.2x boost and become Water if Normal."
-
-**Extended Description**: Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type. This ability enhances vocal attacks through aquatic resonance, making sound-based strategies more versatile and effective in combat.
-
-## Technical Implementation
+### Technical Implementation
 
 ### Source Code Location
 - **File**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc`
@@ -120,10 +124,10 @@ Liquid Voice is part of a family of abilities that convert Normal sound moves to
 3. **Sound Move Disruption**: Abilities or moves that prevent sound attacks
 
 ### Notable Move Interactions
-- **Hyper Voice**: Normal sound move → Water-type with 1.2x boost
-- **Boomburst**: Normal sound move → Water-type with 1.2x boost  
-- **Round**: Normal sound move → Water-type with 1.2x boost
-- **Echoed Voice**: Normal sound move → Water-type with 1.2x boost
+- **Hyper Voice**: Normal sound move to Water-type with 1.2x boost
+- **Boomburst**: Normal sound move to Water-type with 1.2x boost  
+- **Round**: Normal sound move to Water-type with 1.2x boost
+- **Echoed Voice**: Normal sound move to Water-type with 1.2x boost
 
 ## Conclusion
 

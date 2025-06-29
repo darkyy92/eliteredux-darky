@@ -15,8 +15,6 @@ character_count: 282
 
 Automatically switches between Full and Hangry forms at the end of each turn. Morpeko's Full form has different abilities than its Hangry form. This form change cannot be prevented and affects the Pokemon's appearance, typing, and available abilities in battle.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

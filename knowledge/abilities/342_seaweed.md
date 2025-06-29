@@ -2,12 +2,22 @@
 id: 342
 name: Seaweed
 status: ai-generated
-character_count: 0
+character_count: 292
 ---
 
-# Seaweed (Ability #342)
+# Seaweed - Ability ID 342
 
-## Overview
+## In-Game Description
+"Grass-types resist Fire attacks and deal 2x damage to Fire-types."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+If user is Grass-type: takes 50% damage from Fire-type attacks and deals 2x damage to Fire-type Pokemon with Grass-type moves. Reverses the normal Fire vs Grass matchup. Both effects require user to be Grass-type. Can be negated by Mold Breaker and similar abilities.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 Seaweed is a specialized ability that creates powerful Fire-Grass type interactions, reflecting the aquatic nature of seaweed and its resistance to fire while being naturally effective against fire-based threats. This ability provides both defensive and offensive benefits specifically related to Fire-type interactions.
 
@@ -76,9 +86,9 @@ constexpr Ability Seaweed = {
 - **Team Support**: Excellent for Grass-type cores and water-themed teams
 - **Niche Role**: Specialized anti-Fire tool rather than general utility
 
-## Pokémon with Seaweed
+## Pokemon with Seaweed
 
-All Pokémon with this ability have it as an innate ability:
+All Pokemon with this ability have it as an innate ability:
 
 ### Grass/Water Types
 - **Lotad** (Water/Grass) - Early game utility

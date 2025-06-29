@@ -13,22 +13,20 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Berserk activates when the Pokémon drops to half HP or below, boosting its highest attacking stat by one stage. Compares Attack and Special Attack including stat stages to determine which gets boosted. Triggers only once per battle per Pokémon. Works on contact and non-contact moves.
-
-*Character count: 284*
+Berserk activates when the Pokemon drops to half HP or below, boosting its highest attacking stat by one stage. Compares Attack and Special Attack including stat stages to determine which gets boosted. Triggers only once per battle per Pokemon. Works on contact and non-contact moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Berserk is an offensive ability that provides a stat boost when the Pokémon reaches critical HP levels. It activates when the Pokémon's HP drops from above half to at or below half HP, providing a one-stage boost to whichever attacking stat is higher.
+Berserk is an offensive ability that provides a stat boost when the Pokemon reaches critical HP levels. It activates when the Pokemon's HP drops from above half to at or below half HP, providing a one-stage boost to whichever attacking stat is higher.
 
 ### Activation Conditions
 - **HP threshold**: Must drop from above 50% HP to 50% HP or below in a single turn
 - **Stat selection**: Automatically chooses between Attack and Special Attack
   - Compares current Attack vs Special Attack including stat stage modifications
   - Boosts whichever stat is currently higher
-- **One-time trigger**: Can only activate once per battle per Pokémon
+- **One-time trigger**: Can only activate once per battle per Pokemon
 - **Damage source**: Works with any damage that brings HP to the threshold
   - Contact moves (Tackle, Punch moves)
   - Non-contact moves (Thunderbolt, Surf)
@@ -74,7 +72,7 @@ The `CheckHalfHpAbility` function requires:
 - `gBattleStruct->hpBefore[battlerDef] > maxHP / 2` (was above half)
 - `gBattleMons[battlerDef].hp <= maxHP / 2` (now at or below half)
 - Not triggered during multi-hit move subsequent hits
-- Must be a legitimate hit that affects the Pokémon
+- Must be a legitimate hit that affects the Pokemon
 
 ### Strategic Implications
 - **Late-game sweeper**: Becomes dangerous when low on HP
@@ -91,11 +89,11 @@ The `CheckHalfHpAbility` function requires:
 - **Substitute**: Protect while at low HP to capitalize on boost
 - **Choice items**: Maximize damage output after boost
 
-### Pokémon Usage Context
+### Pokemon Usage Context
 Based on trainer data analysis, Berserk appears on:
 - Physical attackers who benefit from Attack boosts
 - Mixed attackers who can utilize either stat boost
-- Pokémon with good bulk to survive reaching activation threshold
+- Pokemon with good bulk to survive reaching activation threshold
 - Mon with access to priority moves to leverage the boost
 
 ### Competitive Analysis
@@ -125,7 +123,7 @@ Based on trainer data analysis, Berserk appears on:
 - **Berserker Rage (ID 480)**: Combines Tipping Point + Rampage effects
 
 ### Version History
-- Original Pokémon ability introduced in Generation VII
+- Original Pokemon ability introduced in Generation VII
 - In Elite Redux: Maintained core mechanics with stat selection intelligence
 - Benefits from Elite Redux's expanded stat calculation system
 - State tracking ensures proper one-time activation per battle

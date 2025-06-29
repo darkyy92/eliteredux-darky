@@ -15,8 +15,6 @@ character_count: 294
 
 Vessel of Ruin creates a passive aura that reduces all other Pokemon's Special Attack by 25%. This affects every Pokemon on the battlefield except the user, including allies in doubles. The reduction stacks with other stat modifications and persists while active.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -76,11 +74,11 @@ All moves that use the Special Attack stat for damage calculation are affected:
 ### Example Damage Calculations
 ```
 Base Special Attack: 100
-With Vessel of Ruin: 100 × 0.75 = 75 Special Attack
+With Vessel of Ruin: 100 x 0.75 = 75 Special Attack
 
 Example with Flamethrower (90 BP):
-Normal damage: (100 SpA / opposing defense) × 90 BP = base damage
-With Vessel of Ruin: (75 SpA / opposing defense) × 90 BP = 75% of base damage
+Normal damage: (100 SpA / opposing defense) x 90 BP = base damage
+With Vessel of Ruin: (75 SpA / opposing defense) x 90 BP = 75% of base damage
 ```
 
 ### Common Users

@@ -15,8 +15,6 @@ character_count: 289
 
 Combines the power of Striker and elegance of Dancer. Moves with striking techniques deal 30% more damage, while all dance moves are automatically copied when used by any Pokemon on the field. Perfect fusion of offense and rhythm.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

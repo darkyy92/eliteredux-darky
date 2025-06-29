@@ -13,9 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Aquatic Dweller combines two powerful effects: adds Water typing to the Pokémon and boosts all Water-type moves by 50%. The additional Water typing provides STAB bonuses and resistances while the damage boost makes Water attacks significantly stronger. Perfect for mixed attackers.
-
-*Character count: 281*
+Aquatic Dweller combines two powerful effects: adds Water typing to the Pokemon and boosts all Water-type moves by 50%. The additional Water typing provides STAB bonuses and resistances while the damage boost makes Water attacks significantly stronger. Perfect for mixed attackers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,9 +24,9 @@ Aquatic Dweller is a combination ability that merges the effects of the Aquatic 
 ### Component Effects
 
 #### Aquatic Component
-- **Type Addition**: Adds Water type to the Pokémon on entry
-- **Timing**: Applied immediately when the Pokémon enters battle
-- **Stacking**: If Pokémon already has Water type, no change occurs
+- **Type Addition**: Adds Water type to the Pokemon on entry
+- **Timing**: Applied immediately when the Pokemon enters battle
+- **Stacking**: If Pokemon already has Water type, no change occurs
 - **Resistances**: Grants Water-type resistances (Fire, Water, Ice, Steel)
 - **Weaknesses**: Adds Water-type weaknesses (Electric, Grass)
 
@@ -55,13 +53,13 @@ constexpr Ability AquaticDweller = {
 ```
 
 ### Damage Calculation Examples
-- **Without STAB**: Base Power × 1.5 (Aquatic Dweller)
-- **With STAB**: Base Power × 1.5 (STAB) × 1.5 (Aquatic Dweller) = 2.25x total
-- **Example**: Surf (95 BP) → 142.5 BP without STAB, 213.75 BP with STAB
+- **Without STAB**: Base Power x 1.5 (Aquatic Dweller)
+- **With STAB**: Base Power x 1.5 (STAB) x 1.5 (Aquatic Dweller) = 2.25x total
+- **Example**: Surf (95 BP) to 142.5 BP without STAB, 213.75 BP with STAB
 
 ### Important Interactions
 - **Type Effectiveness**: Water typing affects matchups against all opponents
-- **STAB Synergy**: Pokémon gains STAB on Water moves due to added typing
+- **STAB Synergy**: Pokemon gains STAB on Water moves due to added typing
 - **Move Learning**: Doesn't affect move learning or availability
 - **Ability Suppression**: Both effects disabled if ability is suppressed
 - **Type Changes**: Persists through most type-changing effects
@@ -75,17 +73,17 @@ constexpr Ability AquaticDweller = {
 
 ### Optimal Usage
 - **Mixed Attackers**: Benefits both physical and special Water moves
-- **Water-type Pokémon**: Incredible damage boost when STAB is already present
+- **Water-type Pokemon**: Incredible damage boost when STAB is already present
 - **Non-Water Types**: Transforms them into pseudo-Water types with boosted attacks
 - **Coverage Moves**: Makes Water-type coverage moves extremely threatening
 - **Rain Teams**: Synergizes with rain for additional Water move boosts
 
 ### Competitive Applications
-- **Sweeper Setup**: Creates powerful Water-type attackers from any Pokémon
+- **Sweeper Setup**: Creates powerful Water-type attackers from any Pokemon
 - **Type Coverage**: Provides both offensive and defensive type utility
 - **Team Support**: Water resistances help tank Fire/Steel attacks for the team
 - **Late Game**: Powerful STAB Water moves can clean up weakened teams
-- **Versatility**: Works on both offensive and defensive Pokémon builds
+- **Versatility**: Works on both offensive and defensive Pokemon builds
 
 ### Comparison to Similar Abilities
 - **Pure Aquatic**: Only adds typing, no damage boost
@@ -96,8 +94,8 @@ constexpr Ability AquaticDweller = {
 ### Common Users
 - Mixed attackers who can utilize both physical and special Water moves
 - Non-Water types seeking Water coverage and resistances
-- Pokémon with access to powerful Water-type moves
-- Defensive Pokémon that benefit from Water-type resistances
+- Pokemon with access to powerful Water-type moves
+- Defensive Pokemon that benefit from Water-type resistances
 
 ### Counters
 - **Electric Coverage**: Electric moves become super effective

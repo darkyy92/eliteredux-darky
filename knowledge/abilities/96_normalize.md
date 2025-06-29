@@ -1,23 +1,28 @@
 ---
 id: 96
-name: "Ability: Normalize"
+name: Normalize
 status: ai-generated
-character_count: 382
+character_count: 293
 ---
 
-# Ability: Normalize
+# Normalize - Ability ID 96
 
-## Basic Information
+## In-Game Description
+Its moves become Normal-type, get 1.1x boost, ignore resists.
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Normalize converts all damaging moves to Normal-type and grants 10% power boost. These Normal-type moves bypass resistances - Rock and Steel take neutral damage instead of resisting. Works on all damaging moves regardless of original type. Ghost-types remain immune. No super effective hits.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **Ability ID**: 96 (ABILITY_NORMALIZE)
 - **Name**: Normalize
 - **Description**: Its moves become Normal-type, get 1.1x boost, ignore resists.
 
-## Extended In-Game Description
-Normalize transforms all offensive moves into Normal-type, granting them a 10% power boost. Normal-type moves affected by this ability bypass type resistances, dealing neutral damage to Rock and Steel types that would normally resist them. The ability works on all damaging moves regardless of their original type, making diverse movepools effectively monotype.
-
-Character count: 287
-
-## Technical Details
+### Technical Details
 The ability modifies three key aspects of moves:
 1. **Type Change**: All damaging moves become Normal-type via `onMoveType`
 2. **Power Boost**: 10% damage multiplier when `ateBoost` is active
@@ -39,8 +44,8 @@ constexpr Ability Normalize = {
 };
 ```
 
-## Pokémon with Normalize
-Several Pokémon have access to Normalize as a changeable ability:
+## Pokemon with Normalize
+Several Pokemon have access to Normalize as a changeable ability:
 - **Spearow/Fearow**: Combined with Hustle and Guts for high-risk, high-reward gameplay
 - **Arceus**: Part of its versatile ability pool alongside Adaptability
 - **Zygarde (10%/50%)**: Paired with Mighty Horn for physical sweeping potential
@@ -67,4 +72,4 @@ Several Pokémon have access to Normalize as a changeable ability:
 - **Multi-hit Moves**: Each hit gets the 10% boost
 
 ## Competitive Notes
-Normalize creates a unique offensive profile where consistency trumps coverage. Best suited for Pokémon with naturally high Attack stats and access to powerful moves that benefit from the guaranteed neutral damage. The ability shines against defensive cores relying on type resistances but struggles against Ghost-types and teams built around exploiting type weaknesses.
+Normalize creates a unique offensive profile where consistency trumps coverage. Best suited for Pokemon with naturally high Attack stats and access to powerful moves that benefit from the guaranteed neutral damage. The ability shines against defensive cores relying on type resistances but struggles against Ghost-types and teams built around exploiting type weaknesses.

@@ -15,13 +15,11 @@ character_count: 297
 
 Hydro Circuit boosts Electric-type moves by 50% and heals the user for 25% of damage dealt when using Water-type moves. Both effects work simultaneously on Water/Electric attacks. Healing requires the target not be at full HP and can heal the user. Great for dual-type coverage.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Hydro Circuit is a dual-effect ability that provides both offensive and recovery benefits. It combines damage amplification for Electric moves with HP siphoning from Water moves, making it particularly powerful for Electric/Water dual-type Pokémon.
+Hydro Circuit is a dual-effect ability that provides both offensive and recovery benefits. It combines damage amplification for Electric moves with HP siphoning from Water moves, making it particularly powerful for Electric/Water dual-type Pokemon.
 
 ### Activation Conditions
 **Electric Move Boost:**
@@ -101,7 +99,7 @@ BattleScript_HydroCircuitAbsorbEffectActivated::
   - Stats favor special attacking (126 SpA)
 
 ### Competitive Usage Notes
-- **Type synergy**: Incredible on Electric/Water Pokémon
+- **Type synergy**: Incredible on Electric/Water Pokemon
 - **Move selection**: Prioritize Water moves with high damage output
 - **Setup potential**: Healing enables longer setup sequences
 - **Mixed coverage**: Electric boost makes coverage moves more viable
@@ -152,4 +150,4 @@ BattleScript_HydroCircuitAbsorbEffectActivated::
 ### Version History
 - Elite Redux custom ability (ID 423)
 - Dual-type synergy ability for Electric/Water combinations
-- Part of the expanded ability roster for enhanced Pokémon diversity
+- Part of the expanded ability roster for enhanced Pokemon diversity

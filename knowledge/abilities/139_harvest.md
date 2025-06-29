@@ -13,17 +13,15 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-At the end of each turn, Harvest has a 50% chance to restore any Berry the Pokémon has consumed during battle. In sun weather (including harsh sun), this chance increases to 100%. The ability can restore Berries used by effects like Natural Gift, Fling, or consumed for their effects.
-
-*Character count: 284*
+At the end of each turn, Harvest has a 50% chance to restore any Berry the Pokemon has consumed during battle. In sun weather (including harsh sun), this chance increases to 100%. The ability can restore Berries used by effects like Natural Gift, Fling, or consumed for their effects.
 
 ## Detailed Mechanical Explanation
 
-Harvest is an ability that allows Pokémon to potentially recover Berries they have consumed during battle. Here's how it works mechanically:
+Harvest is an ability that allows Pokemon to potentially recover Berries they have consumed during battle. Here's how it works mechanically:
 
 ### Activation Conditions
 - Triggers at the end of each turn
-- Only activates if the Pokémon has no held item
+- Only activates if the Pokemon has no held item
 - Only works for Berries that were consumed during the current battle
 - The Berry must have been in the Berry pocket (game internally tracks this)
 
@@ -36,13 +34,13 @@ Harvest is an ability that allows Pokémon to potentially recover Berries they h
 Harvest can restore Berries that were consumed through various means:
 - Natural consumption (e.g., Oran Berry healing at low HP)
 - Moves like Natural Gift or Fling that consume the Berry
-- Bug Bite/Pluck when used by the Harvest Pokémon
+- Bug Bite/Pluck when used by the Harvest Pokemon
 - Berries consumed due to other abilities or effects
 
 ### Important Notes
 - The ability tracks the last Berry held by checking `GetUsedHeldItem(battler)`
-- It specifically checks that the Pokémon has no current item before attempting restoration
-- The restored Berry becomes the Pokémon's held item again, ready for reuse
+- It specifically checks that the Pokemon has no current item before attempting restoration
+- The restored Berry becomes the Pokemon's held item again, ready for reuse
 - This creates potential infinite Berry loops, especially with 100% activation in sun
 
 ### Strategic Applications

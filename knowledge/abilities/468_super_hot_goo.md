@@ -15,13 +15,11 @@ character_count: 295
 
 Super Hot Goo combines Flame Body and Gooey effects. Contact moves have a 30% chance to inflict burn and always lower the attacker's Speed by one stage. Burns deal 1/16 max HP damage per turn. Speed reduction bypasses Substitute and ignores stat-lowering immunities through Mirror Armor.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Super Hot Goo is a hybrid defensive ability that combines the effects of two existing abilities: Flame Body and Gooey. When a Pokémon with Super Hot Goo is hit by a contact move, both effects trigger independently.
+Super Hot Goo is a hybrid defensive ability that combines the effects of two existing abilities: Flame Body and Gooey. When a Pokemon with Super Hot Goo is hit by a contact move, both effects trigger independently.
 
 ### Activation Conditions
 - **Contact requirement**: Only triggers when hit by moves that make contact
@@ -32,9 +30,9 @@ Super Hot Goo is a hybrid defensive ability that combines the effects of two exi
 
 #### Flame Body Component
 - **Burn chance**: 30% probability to inflict burn status on the attacker
-- **Burn damage**: Burned Pokémon takes 1/16 of maximum HP damage each turn
-- **Status precedence**: Cannot burn already-statused Pokémon (except in certain cases)
-- **Fire immunity**: Fire-type Pokémon cannot be burned
+- **Burn damage**: Burned Pokemon takes 1/16 of maximum HP damage each turn
+- **Status precedence**: Cannot burn already-statused Pokemon (except in certain cases)
+- **Fire immunity**: Fire-type Pokemon cannot be burned
 
 #### Gooey Component  
 - **Speed reduction**: Always lowers attacker's Speed by 1 stage
@@ -53,7 +51,7 @@ constexpr Ability SuperHotGoo = {
 ```
 
 ### Activation Sequence
-1. Pokémon with Super Hot Goo is hit by contact move
+1. Pokemon with Super Hot Goo is hit by contact move
 2. Both Flame Body and Gooey effects check activation conditions
 3. Flame Body: 30% chance roll for burn infliction
 4. Gooey: Speed reduction always applies (if stat can be lowered)
@@ -62,7 +60,7 @@ constexpr Ability SuperHotGoo = {
 ### Important Interactions
 
 #### Status Conditions
-- **Burn immunity**: Fire types, already-burned Pokémon, and status immune Pokémon avoid burn
+- **Burn immunity**: Fire types, already-burned Pokemon, and status immune Pokemon avoid burn
 - **Lum Berry**: Can cure burn immediately after infliction
 - **Guts/Marvel Scale**: Benefit from burn status if inflicted
 - **Status absorption**: Does not trigger on status-immune abilities like Limber
@@ -112,7 +110,7 @@ constexpr Ability SuperHotGoo = {
 
 #### Strengths
 - **Dual punishment**: Both immediate and long-term consequences
-- **No immunity overlap**: Few Pokémon resist both effects completely  
+- **No immunity overlap**: Few Pokemon resist both effects completely  
 - **Passive damage**: Burn provides consistent chip damage
 - **Speed control**: Immediate impact on opponent's action economy
 
@@ -120,7 +118,7 @@ constexpr Ability SuperHotGoo = {
 - **Special attack vulnerability**: No protection against special moves
 - **RNG dependent**: Burn effect relies on 30% probability
 - **Status cure availability**: Burn can be easily removed
-- **Limited users**: Typically found on slower, defensive Pokémon
+- **Limited users**: Typically found on slower, defensive Pokemon
 
 ### Common Users Profile
 - **Type preference**: Often found on Fire/Steel, Fire/Rock, or similar defensive types

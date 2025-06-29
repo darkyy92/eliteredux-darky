@@ -2,14 +2,24 @@
 id: 380
 name: Sun Worship
 status: ai-generated
-character_count: 0
+character_count: 295
 ---
 
-# Sun Worship (Ability #380)
+# Sun Worship - Ability ID 380
 
-## Overview
+## In-Game Description
+"When entering battle during sun, boosts the highest stat by one stage."
 
-Sun Worship is a weather-dependent entry ability that provides an immediate stat boost when switching into battle during sunny conditions. The ability intelligently selects the Pokémon's highest current stat (including existing modifications) and raises it by one stage, making it highly adaptable to different battle situations and particularly valuable on sun teams.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When entering battle during sunny weather, Sun Worship analyzes the Pokemon's current stats including all modifications and boosts the highest one by one stage. This intelligent adaptation makes it valuable for any sun team member, whether offensive or defensive.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+Sun Worship is a weather-dependent entry ability that provides an immediate stat boost when switching into battle during sunny conditions. The ability intelligently selects the Pokemon's highest current stat (including existing modifications) and raises it by one stage, making it highly adaptable to different battle situations and particularly valuable on sun teams.
 
 ## Mechanics
 
@@ -49,7 +59,7 @@ constexpr Ability SunWorship = {
 ```
 
 ### Key Functions
-- `IsBattlerWeatherAffected()`: Checks for sunny weather affecting the Pokémon
+- `IsBattlerWeatherAffected()`: Checks for sunny weather affecting the Pokemon
 - `GetHighestStatId(battler, TRUE)`: Determines highest stat including current stages
 - `ChangeStatBuffs()`: Applies the +1 stage boost
 - `BattleScript_AttackerAbilityStatRaiseEnd3`: Handles animation and messaging
@@ -60,7 +70,7 @@ constexpr Ability SunWorship = {
 - Boosts Attack for physical sweepers in sun
 - Enhances Special Attack for solar-powered special attackers
 - Provides Speed boosts for fast pivots and revenge killers
-- Synergizes with Solar Power and Chlorophyll Pokémon
+- Synergizes with Solar Power and Chlorophyll Pokemon
 
 ### Defensive Usage
 - Improves bulk with Defense/Special Defense boosts
@@ -73,14 +83,14 @@ constexpr Ability SunWorship = {
 - Provides immediate value upon entry without turn investment
 - Works with Solar Beam and other sun-boosted moves
 
-## Pokémon Distribution
+## Pokemon Distribution
 
-Sun Worship appears on 8 different Pokémon species across various roles:
+Sun Worship appears on 8 different Pokemon species across various roles:
 
-**Primary Sun Abusers**: Pokémon that naturally benefit from sunny weather
+**Primary Sun Abusers**: Pokemon that naturally benefit from sunny weather
 **Fire-types**: Species that thrive in hot conditions
 **Grass-types**: Plants that draw power from sunlight
-**Solar-themed**: Pokémon with sun-related lore or design
+**Solar-themed**: Pokemon with sun-related lore or design
 
 ## Competitive Analysis
 
@@ -167,3 +177,4 @@ Sun Worship earns a **High** competitive tier rating due to:
 5. **Versatility**: Works for both offensive and defensive strategies
 
 The ability's weather dependency prevents it from being universally applicable, but within sun team compositions, it provides exceptional value and strategic flexibility.
+

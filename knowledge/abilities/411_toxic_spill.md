@@ -13,29 +13,27 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Toxic Spill creates a toxic waste field that damages all non-Poison-type Pokémon by 1/8 HP each turn. Pokémon with Poison Heal recover instead. The toxic waste appears on entry and disappears when the user leaves. Bypasses Magic Guard immunity.
-
-*Character count: 286*
+Toxic Spill creates a toxic waste field that damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. The toxic waste appears on entry and disappears when the user leaves. Bypasses Magic Guard immunity.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Toxic Spill is a field control ability that creates a persistent toxic waste environment. When a Pokémon with this ability enters battle, it announces the toxic spill and begins damaging all non-Poison-type Pokémon at the end of each turn.
+Toxic Spill is a field control ability that creates a persistent toxic waste environment. When a Pokemon with this ability enters battle, it announces the toxic spill and begins damaging all non-Poison-type Pokemon at the end of each turn.
 
 ### Activation Conditions
-- **Entry trigger**: Activates immediately when the Pokémon enters battle
+- **Entry trigger**: Activates immediately when the Pokemon enters battle
 - **Field persistence**: Effect continues while the user is on the field
 - **Exit cleanup**: Toxic waste dissipates when the user switches out or faints
-- **Poison type immunity**: Poison-type Pokémon are completely immune to damage
+- **Poison type immunity**: Poison-type Pokemon are completely immune to damage
 - **Monotype exception**: Doesn't activate in Poison-type monotype champion battles
 
 ### Damage Mechanics
 - **Damage amount**: 1/8 of the target's maximum HP per turn
 - **Timing**: Activates during end-of-turn phase
-- **Type immunity**: Only affects non-Poison-type Pokémon
-- **Magic Guard bypass**: Deals damage even to Pokémon with Magic Guard
-- **Toxic Boost immunity**: Pokémon with Toxic Boost are protected from damage
+- **Type immunity**: Only affects non-Poison-type Pokemon
+- **Magic Guard bypass**: Deals damage even to Pokemon with Magic Guard
+- **Toxic Boost immunity**: Pokemon with Toxic Boost are protected from damage
 
 ### Technical Implementation
 ```cpp
@@ -81,16 +79,16 @@ constexpr Ability ToxicSpill = {
 ```
 
 ### Special Interactions
-- **Poison Heal synergy**: Pokémon with Poison Heal recover HP instead of taking damage
+- **Poison Heal synergy**: Pokemon with Poison Heal recover HP instead of taking damage
 - **Magic Guard bypass**: Unlike most passive damage, this bypasses Magic Guard protection
-- **Toxic Boost protection**: Pokémon with Toxic Boost are immune to the damage
-- **Type immunity**: Only Poison-type Pokémon are completely immune
+- **Toxic Boost protection**: Pokemon with Toxic Boost are immune to the damage
+- **Type immunity**: Only Poison-type Pokemon are completely immune
 - **Multi-source stacking**: Multiple sources (Toxic Spill + Trash Heap) don't stack damage
 
 ### Battle Messages
-- **Entry**: "{Pokémon} has spilled Toxic Waste on the field!"
-- **Damage**: "{Pokémon} is hurt by the toxic waste!"
-- **Healing**: "{Pokémon} restored HP using its Poison Heal!"
+- **Entry**: "{Pokemon} has spilled Toxic Waste on the field!"
+- **Damage**: "{Pokemon} is hurt by the toxic waste!"
+- **Healing**: "{Pokemon} restored HP using its Poison Heal!"
 - **Exit**: "The Toxic Waste has disappeared!"
 
 ### Strategic Applications
@@ -117,7 +115,7 @@ Toxic Spill is also part of the **Trash Heap** ability (ID varies), which combin
 ### Team Synergies
 - **Poison teams**: Natural immunity allows aggressive switching
 - **Stall teams**: Provides passive damage while stalling
-- **Pivot Pokémon**: Can switch in, cause damage, then pivot out
+- **Pivot Pokemon**: Can switch in, cause damage, then pivot out
 - **Entry hazard stackers**: Combines with hazards for multiple damage sources
 - **Healing support**: Pairs with healing to outlast opponents
 

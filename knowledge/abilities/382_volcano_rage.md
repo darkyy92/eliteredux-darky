@@ -2,13 +2,23 @@
 id: 382
 name: Volcano Rage
 status: ai-generated
-character_count: 0
+character_count: 287
 ---
 
-# Volcano Rage (Ability #382)
+# Volcano Rage - Ability ID 382
 
-## Overview
-Volcano Rage is an offensive ability that triggers an automatic followup attack whenever the user successfully uses a Fire-type move. After any Fire-type attack connects, the Pokémon immediately launches a 50 base power Eruption at the same target, creating a devastating double-hit combination that can overwhelm opponents with volcanic fury.
+## In-Game Description
+"After using Fire-type moves, triggers a followup Eruption attack."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+After using any Fire-type move, Volcano Rage automatically triggers a followup Eruption attack with 50 base power. This volcanic followup scales with the user's current HP percentage, dealing maximum damage at full health. Creates devastating double strikes.
+
+## Detailed Mechanical Explanation
+
+### Overview
+Volcano Rage is an offensive ability that triggers an automatic followup attack whenever the user successfully uses a Fire-type move. After any Fire-type attack connects, the Pokemon immediately launches a 50 base power Eruption at the same target, creating a devastating double-hit combination that can overwhelm opponents with volcanic fury.
 
 ## Technical Implementation
 
@@ -61,7 +71,7 @@ constexpr Ability VolcanoRage = {
 
 ### Damage Calculation
 The followup Eruption calculates damage as:
-- **Base Power**: 50 × (Current HP / Max HP)
+- **Base Power**: 50 x (Current HP / Max HP)
 - **Maximum Power**: 50 BP (at full HP)
 - **Minimum Power**: 1 BP (at 1 HP)
 
@@ -69,7 +79,7 @@ The followup Eruption calculates damage as:
 
 ### Competitive Advantages
 1. **Guaranteed Followup**: Every Fire-type move becomes a potential double-hit
-2. **HP Scaling**: Maximum effectiveness when used by healthy Pokémon
+2. **HP Scaling**: Maximum effectiveness when used by healthy Pokemon
 3. **Type Coverage**: Fire-type followup provides consistent super effective opportunities
 4. **Action Economy**: Essentially grants an extra attack per Fire-type move used
 5. **Pressure Building**: Forces opponents to consider the followup damage in their calculations
@@ -78,7 +88,7 @@ The followup Eruption calculates damage as:
 - **Sweep Enhancement**: Turns Fire-type sweepers into double-hitting powerhouses
 - **Chip Damage**: Even at low HP, provides additional damage output
 - **Shield Breaking**: Excellent against defensive strategies and substitutes
-- **Wallbreaking**: Combined damage can overwhelm defensive Pokémon
+- **Wallbreaking**: Combined damage can overwhelm defensive Pokemon
 - **Revenge Killing**: Followup damage can secure KOs that the initial move couldn't
 
 ### Synergistic Strategies
@@ -131,11 +141,11 @@ Volcano Rage stands out as the only Fire-type followup ability that triggers ano
 
 ## Usage Recommendations
 
-### Ideal Pokémon Types
+### Ideal Pokemon Types
 - **Fire-type specialists**: Maximize STAB on both triggering moves and followups
 - **Special attackers**: Benefit most from the Special Attack-based Eruption followup
 - **Bulky attackers**: Can maintain high HP for maximum followup power
-- **Versatile Fire users**: Pokémon with diverse Fire-type movesets
+- **Versatile Fire users**: Pokemon with diverse Fire-type movesets
 
 ### Team Role Integration
 - **Primary Sweeper**: Excellent on offensive Fire-types leading sweeps
@@ -159,3 +169,4 @@ Consider Fire-type moves that:
 ## Conclusion
 
 Volcano Rage represents a premier offensive ability that transforms Fire-type users into devastating double-hitting powerhouses. Its combination of guaranteed followup damage, HP-scaling mechanics, and consistent triggering makes it invaluable for offensive strategies. While HP dependency and type limitations provide some constraints, the sheer action economy and damage potential place it firmly in the high-tier category. Fire-type specialists equipped with Volcano Rage become formidable threats capable of overwhelming even the most prepared defensive strategies through sheer volcanic fury.
+

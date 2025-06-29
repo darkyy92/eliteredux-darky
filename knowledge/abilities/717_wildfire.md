@@ -15,16 +15,14 @@ character_count: 295
 
 Wildfire automatically uses Fire Spin upon switching into battle, dealing 50 base power Fire-type damage and trapping the opponent for 2-5 turns. The trapped opponent takes 1/8 max HP damage each turn and cannot switch out until the trap ends. Perfect for securing KOs.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Wildfire is an entry ability that automatically triggers Fire Spin when the Pokémon switches into battle. This creates immediate offensive pressure by dealing damage and trapping the opponent.
+Wildfire is an entry ability that automatically triggers Fire Spin when the Pokemon switches into battle. This creates immediate offensive pressure by dealing damage and trapping the opponent.
 
 ### Activation Conditions
-- **Entry trigger**: Activates when the Pokémon enters battle (switching in or being sent out)
+- **Entry trigger**: Activates when the Pokemon enters battle (switching in or being sent out)
 - **Move execution**: Uses Fire Spin with 50 base power, 90% accuracy
 - **Trap effect**: Traps the opponent for 2-5 turns (random duration)
 - **Damage type**: Fire-type special attack using the user's Special Attack stat
@@ -49,7 +47,7 @@ constexpr Ability Wildfire = {
 ### Important Interactions
 - **Accuracy check**: Fire Spin can miss on entry, negating the trap effect
 - **Type effectiveness**: Fire Spin follows normal type effectiveness rules
-- **Substitute**: Trapped Pokémon behind Substitute still takes trap damage
+- **Substitute**: Trapped Pokemon behind Substitute still takes trap damage
 - **Rapid Spin**: Can remove the trap effect early
 - **Ghost-type**: Ghost-types can still switch out despite being trapped
 - **Switching items**: Shed Shell allows switching out of traps
@@ -62,9 +60,9 @@ constexpr Ability Wildfire = {
 - **Prediction reward**: Switching into predicted moves gains free trap setup
 
 ### Ideal Users
-- **Offensive Fire-types**: Pokémon that can capitalize on the initial damage
-- **Pivot Pokémon**: Those that frequently switch in and out
-- **Trap specialists**: Pokémon designed around trapping strategies
+- **Offensive Fire-types**: Pokemon that can capitalize on the initial damage
+- **Pivot Pokemon**: Those that frequently switch in and out
+- **Trap specialists**: Pokemon designed around trapping strategies
 - **Revenge killers**: Can trap and finish off weakened opponents
 
 ### Synergies

@@ -15,8 +15,6 @@ character_count: 293
 
 Deviate converts all Normal-type moves to Dark-type and provides STAB for Dark-type moves. This transformation affects all Normal-type moves including Tackle, Body Slam, and Hyper Beam. The ability grants immediate Dark-type STAB bonus for Pokemon that wouldn't normally receive it.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -47,16 +45,16 @@ constexpr Ability Deviate = {
 
 ### Complete List of Affected Moves
 **Common Normal-type moves that become Dark-type:**
-- Tackle → Dark-type
-- Body Slam → Dark-type  
-- Hyper Beam → Dark-type
-- Swift → Dark-type
-- Double-Edge → Dark-type
-- Slash → Dark-type
-- Tri Attack → Dark-type
-- Return/Frustration → Dark-type
-- Facade → Dark-type
-- Giga Impact → Dark-type
+- Tackle to Dark-type
+- Body Slam to Dark-type  
+- Hyper Beam to Dark-type
+- Swift to Dark-type
+- Double-Edge to Dark-type
+- Slash to Dark-type
+- Tri Attack to Dark-type
+- Return/Frustration to Dark-type
+- Facade to Dark-type
+- Giga Impact to Dark-type
 
 **All other Normal-type moves are similarly converted**
 

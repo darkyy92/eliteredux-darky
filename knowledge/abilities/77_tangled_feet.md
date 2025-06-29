@@ -13,9 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (exactly 280-300 chars)*
 
-Tangled Feet halves opponents' accuracy when this Pokémon is confused. The chaotic, unsteady movements from confusion make the Pokémon harder to hit. Works against all moves targeting this Pokémon, including status moves. Only functions while confused; provides no benefit otherwise.
-
-*Character count: 284*
+Tangled Feet halves opponents' accuracy when this Pokemon is confused. The chaotic, unsteady movements from confusion make the Pokemon harder to hit. Works against all moves targeting this Pokemon, including status moves. Only functions while confused; provides no benefit otherwise.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,15 +21,15 @@ Tangled Feet halves opponents' accuracy when this Pokémon is confused. The chao
 **TANGLED FEET** is a defensive ability that reduces incoming accuracy while the user is confused.
 
 ### Core Mechanics:
-- **Trigger**: Only when this Pokémon has the confused status (STATUS2_CONFUSION)
-- **Effect**: Halves the accuracy of moves targeting this Pokémon (*accuracy /= 2)
+- **Trigger**: Only when this Pokemon has the confused status (STATUS2_CONFUSION)
+- **Effect**: Halves the accuracy of moves targeting this Pokemon (*accuracy /= 2)
 - **Application**: Applied during accuracy calculation phase with ACCURACY_MULTIPLICATIVE priority
-- **Target Requirement**: Uses onAccuracyFor = APPLY_ON_TARGET (affects moves targeting this Pokémon)
+- **Target Requirement**: Uses onAccuracyFor = APPLY_ON_TARGET (affects moves targeting this Pokemon)
 
 ### Activation Conditions:
-1. **Status Check**: Pokémon must have STATUS2_CONFUSION bit set
-2. **Target Validation**: Only applies when this Pokémon is the target of a move
-3. **Move Coverage**: Affects all moves (attacking, status, etc.) that target this Pokémon
+1. **Status Check**: Pokemon must have STATUS2_CONFUSION bit set
+2. **Target Validation**: Only applies when this Pokemon is the target of a move
+3. **Move Coverage**: Affects all moves (attacking, status, etc.) that target this Pokemon
 4. **Duration**: Active for entire duration of confusion status
 
 ### Technical Implementation:
@@ -50,22 +48,22 @@ constexpr Ability TangledFeet = {
 ### Numerical Values:
 - **Accuracy Modifier**: 0.5x (50% of original accuracy)
 - **Examples**:
-  - Thunder Bolt (100% accuracy) → 50% accuracy
-  - Thunder (70% accuracy) → 35% accuracy
-  - Fire Blast (85% accuracy) → 42.5% accuracy
-  - Focus Blast (70% accuracy) → 35% accuracy
+  - Thunder Bolt (100% accuracy) to 50% accuracy
+  - Thunder (70% accuracy) to 35% accuracy
+  - Fire Blast (85% accuracy) to 42.5% accuracy
+  - Focus Blast (70% accuracy) to 35% accuracy
 
 ### Interactions with Other Abilities/Mechanics:
 1. **Ability Interactions**:
    - Overridden by **No Guard** (both user and opponent)
    - Stacks with **Sand Veil/Snow Cloak** evasion boosts
    - Works alongside **Wonder Skin** for status moves
-   - Bypassed by **Keen Eye** users attacking this Pokémon
+   - Bypassed by **Keen Eye** users attacking this Pokemon
 
 2. **Move Interactions**:
    - Affects **never-miss moves** like Swift and Aerial Ace (they still hit)
    - Reduces accuracy of **OHKO moves** (already low accuracy)
-   - Applies to **status moves** targeting this Pokémon
+   - Applies to **status moves** targeting this Pokemon
    - Stacks multiplicatively with accuracy drops from moves like Sand Attack
 
 3. **Status Synergy**:

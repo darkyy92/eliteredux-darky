@@ -15,8 +15,6 @@ character_count: 294
 
 Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. This includes moves like Hyper Voice, Boomburst, and Uproar becoming powerful Ground attacks. The type change occurs before damage calculation, allowing STAB and type effectiveness.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -44,24 +42,24 @@ constexpr Ability SandSong = {
 
 ### Affected Sound Moves
 **Normal-type sound moves (converted to Ground + boosted):**
-- Hyper Voice (95 BP → 114 BP, becomes Ground-type)
-- Boomburst (140 BP → 168 BP, becomes Ground-type)  
-- Uproar (90 BP → 108 BP, becomes Ground-type)
+- Hyper Voice (95 BP to 114 BP, becomes Ground-type)
+- Boomburst (140 BP to 168 BP, becomes Ground-type)  
+- Uproar (90 BP to 108 BP, becomes Ground-type)
 - Howl (status move, becomes Ground-type)
 - Roar (status move, becomes Ground-type)
 - Sing (status move, becomes Ground-type)
 - Supersonic (status move, becomes Ground-type)
 
 **Non-Normal sound moves (only boosted):**
-- Bug Buzz (Electric-type, 90 BP → 108 BP)
-- Screech (Normal status → remains Normal)
-- Chatter (Flying-type, 65 BP → 78 BP)
-- Round (Normal-type, 60 BP → 72 BP, becomes Ground-type)
+- Bug Buzz (Electric-type, 90 BP to 108 BP)
+- Screech (Normal status to remains Normal)
+- Chatter (Flying-type, 65 BP to 78 BP)
+- Round (Normal-type, 60 BP to 72 BP, becomes Ground-type)
 
 ### Strategic Implications
 **Offensive Applications:**
 - Converts Normal-type sound moves into powerful Ground-type attacks
-- Enables STAB bonus for Ground-type Pokémon using converted moves
+- Enables STAB bonus for Ground-type Pokemon using converted moves
 - Super effective against Electric, Fire, Poison, Rock, and Steel types
 - Immune to Flying types and Levitate ability holders
 
@@ -71,17 +69,17 @@ constexpr Ability SandSong = {
 - Sound moves still bypass Substitute regardless of type
 
 ### Example Damage Calculations
-**Hyper Voice with Sand Song (95 BP Normal → Ground):**
+**Hyper Voice with Sand Song (95 BP Normal to Ground):**
 - Base: 95 BP
-- Sand Song boost: 95 × 1.2 = 114 BP
-- With STAB (Ground-type user): 114 × 1.5 = 171 effective BP
-- Super effective: 171 × 2 = 342 effective BP
+- Sand Song boost: 95 x 1.2 = 114 BP
+- With STAB (Ground-type user): 114 x 1.5 = 171 effective BP
+- Super effective: 171 x 2 = 342 effective BP
 
 ### Common Users
 Sand Song is typically found on:
-- Ground-type Pokémon that learn sound moves
-- Pokémon with diverse movepools including both Ground and Normal moves
-- Defensive Pokémon that can utilize status sound moves
+- Ground-type Pokemon that learn sound moves
+- Pokemon with diverse movepools including both Ground and Normal moves
+- Defensive Pokemon that can utilize status sound moves
 
 ### Competitive Usage Notes
 **Advantages:**
@@ -98,8 +96,8 @@ Sand Song is typically found on:
 
 ### Counters
 **Direct Counters:**
-- Flying-type Pokémon (immune to Ground-type moves)
-- Pokémon with Levitate ability
+- Flying-type Pokemon (immune to Ground-type moves)
+- Pokemon with Levitate ability
 - Sound-proof ability users (immune to sound moves entirely)
 
 **Situational Counters:**

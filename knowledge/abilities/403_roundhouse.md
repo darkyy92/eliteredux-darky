@@ -15,8 +15,6 @@ character_count: 289
 
 Roundhouse makes all kicking moves never miss and target the opponent's weaker defense stat. Kick moves with striker boost gain perfect accuracy and automatically hit Defense or Special Defense, whichever is lower. This ability transforms unreliable kicks into devastating attacks.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -101,9 +99,9 @@ Kicks are identified through the `IsStrikerBoosted` function which checks for:
 
 ### Coverage Analysis
 Common kicking moves and their enhanced utility:
-- **Jump Kick**: 100 power, 95% → 100% accuracy, stat-optimized
-- **High Jump Kick**: 130 power, 90% → 100% accuracy, devastating
-- **Mega Kick**: 120 power, 75% → 100% accuracy, now reliable
+- **Jump Kick**: 100 power, 95% to 100% accuracy, stat-optimized
+- **High Jump Kick**: 130 power, 90% to 100% accuracy, devastating
+- **Mega Kick**: 120 power, 75% to 100% accuracy, now reliable
 - **Rolling Kick**: Priority flinch chance with perfect accuracy
 - **Triple Kick**: Multi-hit with guaranteed connection
 

@@ -1,15 +1,25 @@
 ---
 id: 353
 name: Bone Zone
-status: ai-generated
-character_count: 0
+status: extended
+character_count: 292
 ---
 
-# Bone Zone
+# Bone Zone - Ability ID 353
 
-## Overview
+## In-Game Description
+"Bone moves bypass immunities and flip resistances into weaknesses."
 
-**Bone Zone** is a specialized offensive ability that dramatically enhances the effectiveness of bone-based moves. This ability allows Pokémon to use their bone attacks to bypass traditional type matchups, making them incredibly versatile in battle by turning defensive resistances into offensive advantages.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Bone moves bypass immunities and flip resistances into weaknesses. Immune targets take normal damage, resisted hits deal 2x damage instead. Neutral/super effective unchanged. Works on Bone Club, Bonemerang, Bone Rush, Shadow Bone, and Blazing Bone. Cubone line's signature power.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+**Bone Zone** is a specialized offensive ability that dramatically enhances the effectiveness of bone-based moves. This ability allows Pokemon to use their bone attacks to bypass traditional type matchups, making them incredibly versatile in battle by turning defensive resistances into offensive advantages.
 
 ## Mechanics
 
@@ -74,9 +84,9 @@ The following moves have the `bone: true` flag and are enhanced by Bone Zone:
    - Hits 2-5 times with +1 priority
    - Fire-type variant of Bone Rush
 
-## Pokémon with Bone Zone
+## Pokemon with Bone Zone
 
-This ability appears as an **innate ability** on the following Pokémon:
+This ability appears as an **innate ability** on the following Pokemon:
 
 ### Cubone Line
 - **Cubone** (Species #104)
@@ -149,7 +159,8 @@ This ability appears as an **innate ability** on the following Pokémon:
 
 ## Notes
 
-- This ability showcases Elite Redux's philosophy of giving specialized Pokémon unique mechanical niches
+- This ability showcases Elite Redux's philosophy of giving specialized Pokemon unique mechanical niches
 - The implementation suggests the ability may apply to all moves rather than just bone moves (potential bug or intentional design choice)
-- Bone Zone is exclusively an innate ability, meaning it's always active alongside the Pokémon's regular ability
+- Bone Zone is exclusively an innate ability, meaning it's always active alongside the Pokemon's regular ability
 - The ability name is a play on "bone zone" slang while maintaining the bone theme of the Cubone evolutionary line
+

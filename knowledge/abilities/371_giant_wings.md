@@ -2,15 +2,20 @@
 id: 371
 name: Giant Wings
 status: ai-generated
-character_count: 0
+character_count: 294
 ---
 
-# Giant Wings (Ability #371)
+# Giant Wings - Ability ID 371
 
-## Basic Information
-- **ID**: 371
-- **Name**: Giant Wings
-- **Description**: "Boosts the power of wing, wind or air-based moves by 1.3x."
+## In-Game Description
+"Boosts the power of wing, wind or air-based moves by 1.3x."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Giant Wings boosts the power of all wing, wind, and air-based moves by 30%. This enhancement applies to moves like Hurricane, Wing Attack, Air Slash, and even utility moves like Tailwind or Defog. Works especially well with weather strategies that improve air move accuracy.
+
+## Detailed Mechanical Explanation
 
 ## Technical Implementation
 
@@ -38,16 +43,16 @@ constexpr Ability GiantWings = {
 ## Air-Based Moves Enhanced
 
 ### Notable Air-Based Moves
-- **Wing Attack** (Power 90 → 117)
-- **Hurricane** (Power 110 → 143)
-- **Air Slash** (Power 90 → 117)
-- **Razor Wind** (Power 80 → 104)
-- **Fly** (Power 110 → 143)
-- **Whirlwind** (Power 60 → 78)
+- **Wing Attack** (Power 90 to 117)
+- **Hurricane** (Power 110 to 143)
+- **Air Slash** (Power 90 to 117)
+- **Razor Wind** (Power 80 to 104)
+- **Fly** (Power 110 to 143)
+- **Whirlwind** (Power 60 to 78)
 - **Tailwind** (Status move, still boosted)
 - **Defog** (Status move, still boosted)
-- **Gust** (Power 60 → 78)
-- **Aeroblast** (Power 100 → 130)
+- **Gust** (Power 60 to 78)
+- **Aeroblast** (Power 100 to 130)
 
 ### Move Categories Enhanced
 - **Wind-based attacks**: Hurricane, Whirlwind, Tailwind
@@ -147,3 +152,4 @@ Giant Wings represents a specialized but powerful enhancement ability that maxim
 The ability's design rewards specialization in aerial combat while maintaining relevance through both offensive and utility applications. For Pokemon that can effectively leverage multiple air-based moves, Giant Wings provides substantial value in competitive environments where maximizing damage output from signature moves is crucial.
 
 This ability is particularly valuable in formats that emphasize type specialization and weather control, where the combination of enhanced power and strategic utility creates significant advantages in aerial combat scenarios.
+

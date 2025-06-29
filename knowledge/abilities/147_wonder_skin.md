@@ -1,19 +1,19 @@
 ---
 id: 147
-name: "Wonder Skin (Ability ID: 147)"
+name: Wonder Skin
 status: ai-generated
-character_count: 262
+character_count: 281
 ---
 
-# Wonder Skin (Ability ID: 147)
+# Wonder Skin - Ability ID 147
 
 ## In-Game Description
 "Blocks most damage boosting and multihit abilities."
 
-## Extended In-Game Description (280-300 chars)
-Prevents opposing damage-boosting abilities like Hustle and Guts from applying multipliers. Also blocks multihit abilities like Parental Bond from striking multiple times. Provides comprehensive protection against offensive ability strategies and setup sweepers.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 286*
+Prevents opposing damage-boosting abilities like Hustle and Guts from applying their multipliers. Also blocks multihit abilities like Parental Bond from striking multiple times. Provides comprehensive protection against offensive ability strategies, setup sweepers, and multihit spam.
 
 ## Detailed Mechanical Explanation
 **Wonder Skin** is functionally **identical** to Fort Knox, providing comprehensive protection against offensive ability modifiers.

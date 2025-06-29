@@ -1,19 +1,19 @@
 ---
 id: 223
-name: "Power of Alchemy (Ability ID: 223)"
+name: Power of Alchemy
 status: ai-generated
-character_count: 265
+character_count: 290
 ---
 
-# Power of Alchemy (Ability ID: 223)
+# Power of Alchemy - Ability ID 223
 
 ## In-Game Description
 "Transmutes berries on entry. Transmutes items when lost."
 
-## Extended In-Game Description (280-300 chars)
-Upon entry, transmutes opposing Berries into Black Sludge. When any Pokémon loses an item, Power of Alchemy remembers and creates a replacement: regular items are replaced with Black Sludge, or if the target is holding Black Sludge, it's replaced with a Big Nugget.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 289*
+Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, Power of Alchemy remembers and creates a replacement: regular items become Black Sludge, while previously transmuted items become Big Nuggets. Continuously transforms item economy.
 
 ## Detailed Mechanical Explanation
 **Power of Alchemy** creates a sophisticated "magical item economy" where the user acts as an alchemist, immediately disrupting opposing Berry strategies and continuously transmuting lost items.
@@ -21,14 +21,14 @@ Upon entry, transmutes opposing Berries into Black Sludge. When any Pokémon los
 ### Core Mechanics
 
 #### Transmutation on Entry
-When the Pokémon with Power of Alchemy enters battle:
-1. **Scans all opposing Pokémon** for held items
+When the Pokemon with Power of Alchemy enters battle:
+1. **Scans all opposing Pokemon** for held items
 2. **Any opponent holding a Berry** gets their Berry instantly transmuted to Black Sludge
-3. **Triggers message**: "{Pokémon} transmutes {target}'s lost item!" followed by "It turned into sludge..."
+3. **Triggers message**: "{Pokemon} transmutes {target}'s lost item!" followed by "It turned into sludge..."
 4. **Berry Detection**: Uses `POCKET_BERRIES` check to identify Berries
 
 #### Transmutation When Items Are Lost
-The ability tracks when any Pokémon on the field loses an item:
+The ability tracks when any Pokemon on the field loses an item:
 1. **State Tracking**: Uses 2 bits per battler to track what type of item was lost
 2. **Loss Detection**: Triggers on `UpdateBattlerItem` calls when items are removed
 3. **Replacement Creation**: When the Power of Alchemy user gets a turn after an item loss, it creates a replacement
@@ -50,15 +50,15 @@ if (lost item is BLACK_SLUDGE || BIG_NUGGET) {
 ```
 
 #### Item Types and Results
-- **Regular items** → Black Sludge
-- **Previously transmuted items** (Black Sludge/Big Nugget) → Big Nugget
-- **Berries** → Black Sludge (on entry only)
+- **Regular items** to Black Sludge
+- **Previously transmuted items** (Black Sludge/Big Nugget) to Big Nugget
+- **Berries** to Black Sludge (on entry only)
 
 ### Item Properties
 
 #### Black Sludge
 - **Type**: Poison-type recovery item
-- **Effect**: Heals Poison-type Pokémon, damages non-Poison types
+- **Effect**: Heals Poison-type Pokemon, damages non-Poison types
 - **Strategic Use**: Benefits Poison-types while punishing others
 
 #### Big Nugget
@@ -97,7 +97,7 @@ if (lost item is BLACK_SLUDGE || BIG_NUGGET) {
 
 ### Unique Features
 Power of Alchemy is distinctive because:
-1. **Cross-battlefield tracking**: Affects items of ALL Pokémon, not just allies
+1. **Cross-battlefield tracking**: Affects items of ALL Pokemon, not just allies
 2. **Item memory**: Remembers losses and acts on them later
 3. **Type-specific benefits**: Particularly valuable with Poison-type teams
 4. **Economic disruption**: Fundamentally changes item-based strategies

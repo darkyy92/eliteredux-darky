@@ -15,8 +15,6 @@ character_count: 283
 
 Depravity combines Merciless and Overcharge effects. Guarantees critical hits against poisoned, paralyzed, bleeding, or speed-lowered foes while making Electric moves super effective against Electric-types and allowing paralysis of Electric-types. Perfect for overwhelming opponents.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -30,9 +28,9 @@ Depravity is a powerful combination ability that merges two distinct offensive m
 - Standard 1.5x critical hit damage multiplier
 
 **Overcharge Component:**
-- Makes Electric-type moves super effective (2x damage) against Electric-type Pokémon
-- Allows Electric-type Pokémon to be paralyzed (bypasses natural immunity)
-- Overrides default Electric vs Electric resistance (0.5x → 2x)
+- Makes Electric-type moves super effective (2x damage) against Electric-type Pokemon
+- Allows Electric-type Pokemon to be paralyzed (bypasses natural immunity)
+- Overrides default Electric vs Electric resistance (0.5x to 2x)
 
 ### Technical Implementation
 ```cpp
@@ -58,8 +56,8 @@ The implementation directly inherits:
 5. Target holds Iron Ball item
 
 **Overcharge Triggers:**
-1. Using Electric-type moves against Electric-type Pokémon (super effective damage)
-2. Attempting to paralyze Electric-type Pokémon (bypasses immunity)
+1. Using Electric-type moves against Electric-type Pokemon (super effective damage)
+2. Attempting to paralyze Electric-type Pokemon (bypasses immunity)
 
 ### Numerical Values
 - **Critical Hit Chance**: 100% when Merciless conditions are met
@@ -72,7 +70,7 @@ The implementation directly inherits:
 1. Use Thunder Wave to paralyze Electric-type opponents
 2. Electric-type moves deal super effective damage to paralyzed Electric-types
 3. Paralyzed status guarantees critical hits via Merciless
-4. Result: 2x (super effective) × 1.5x (critical) = 3x total damage multiplier
+4. Result: 2x (super effective) x 1.5x (critical) = 3x total damage multiplier
 
 **Self-Synergy Loop:**
 - Paralysis enables guaranteed crits
@@ -127,15 +125,15 @@ The implementation directly inherits:
 ### Example Damage Calculation
 **Scenario**: Depravity user with Electric move vs paralyzed Electric-type
 - Base damage: 100%
-- Super effective (Overcharge): ×2.0 = 200%
-- Critical hit (Merciless): ×1.5 = 300% total
+- Super effective (Overcharge): x2.0 = 200%
+- Critical hit (Merciless): x1.5 = 300% total
 - **Result**: Triple damage compared to normal effectiveness
 
 ### Common Users
 Depravity is typically found on:
-- Electric-type Pokémon with access to status moves
+- Electric-type Pokemon with access to status moves
 - Mixed attackers who can exploit both components
-- Pokémon in high-tier trainer battles requiring maximum offensive pressure
+- Pokemon in high-tier trainer battles requiring maximum offensive pressure
 
 ### Team Building Considerations
 - **Status support**: Teammates with Thunder Wave, Toxic Spikes

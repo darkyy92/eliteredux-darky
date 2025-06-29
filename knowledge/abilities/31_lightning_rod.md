@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Draws all Electric-type moves to this Pokémon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, fully protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
-
-*Character count: 285*
+Draws all Electric-type moves to this Pokemon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, fully protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -74,14 +72,14 @@ constexpr Ability LightningRod = {
 - Electric Terrain (field effect)
 - Galvanize-boosted Normal moves (become Electric)
 
-### Pokémon with Lightning Rod
+### Pokemon with Lightning Rod
 
 **Changeable ability:**
 - Rhyhorn/Rhydon/Rhyperior line
 - Goldeen/Seaking
 - Blitzle/Zebstrika
 - Cubone/Marowak (Alolan)
-- Various Electric-immune Pokémon
+- Various Electric-immune Pokemon
 
 **Innate ability:**
 - Goldeen/Seaking (also changeable)
@@ -131,13 +129,13 @@ constexpr Ability LightningRod = {
 - Setup punishment (Haze, Clear Smog)
 
 ### Competitive Usage Notes
-Lightning Rod excels on Pokémon that:
+Lightning Rod excels on Pokemon that:
 1. Appreciate Electric immunity
 2. Can utilize mixed offenses
 3. Serve as doubles support
 4. Already resist/immune to Electric
 
-The ability transforms Electric attacks from threats into setup opportunities. In doubles, it enables powerful Electric-weak Pokémon like Gyarados or Pelipper to function safely. The dynamic stat boost choice rewards balanced offensive stats.
+The ability transforms Electric attacks from threats into setup opportunities. In doubles, it enables powerful Electric-weak Pokemon like Gyarados or Pelipper to function safely. The dynamic stat boost choice rewards balanced offensive stats.
 
 ### Comparison to Similar Abilities
 - **Storm Drain**: Water-type equivalent

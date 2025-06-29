@@ -15,8 +15,6 @@ character_count: 295
 
 Dune Terror reduces damage taken by 35% during sandstorm weather and boosts Ground-type moves by 20%. Works with all forms of sandstorm including regular sandstorm and enhanced variants. The damage reduction applies to all incoming attacks while Ground-type boost remains active in sandstorms.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -50,7 +48,7 @@ constexpr Ability DuneTerror = {
 ### Key Mechanics
 - **Damage reduction**: 35% reduction (multiplier of 0.65) to all incoming damage during sandstorm
 - **Ground-type boost**: 20% boost (multiplier of 1.2) to Ground-type moves during sandstorm
-- **Sand immunity**: Pokémon is immune to sandstorm chip damage
+- **Sand immunity**: Pokemon is immune to sandstorm chip damage
 - **Breakable**: Can be suppressed by Mold Breaker and similar abilities
 
 ### Important Interactions
@@ -65,14 +63,14 @@ In Elite Redux, weather effects last 8 turns (not 5 like vanilla), making weathe
 
 ### Strategic Implications
 - **Sand team core**: Excellent ability for sandstorm team builds
-- **Defensive wall**: 35% damage reduction makes Pokémon very bulky in sand
+- **Defensive wall**: 35% damage reduction makes Pokemon very bulky in sand
 - **Ground-type synergy**: Boosts earthquake, earth power, and other Ground moves
 - **Weather setter support**: Pairs well with Sand Stream users
 - **Dual utility**: Provides both offense and defense in one ability
 
 ### Common Users
-- Ground-type Pokémon who benefit from STAB Ground moves
-- Bulky Pokémon who can tank hits with damage reduction
+- Ground-type Pokemon who benefit from STAB Ground moves
+- Bulky Pokemon who can tank hits with damage reduction
 - Sand team supporters and walls
 - Mixed attackers with Ground-type coverage
 

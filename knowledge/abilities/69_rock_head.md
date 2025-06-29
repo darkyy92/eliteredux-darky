@@ -15,8 +15,6 @@ character_count: 281
 
 Rock Head prevents all recoil damage from the user's moves, including Take Down, Double-Edge, Flare Blitz, and Head Smash. Also grants immunity to confusion status. However, crash damage from missed Jump Kicks and self-destruction from Explosion/Self-Destruct still occur normally.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

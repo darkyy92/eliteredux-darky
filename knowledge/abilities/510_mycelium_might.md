@@ -15,8 +15,6 @@ character_count: 290
 
 Mycelium Might allows status moves to bypass all immunities and type resistances but forces them to move last in their priority bracket. Status moves ignore abilities like Limber, type immunities, and terrain effects. Only affects status moves targeting opponents, not self-targeting moves.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

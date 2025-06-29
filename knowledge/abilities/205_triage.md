@@ -15,8 +15,6 @@ character_count: 295
 
 Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing effects.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

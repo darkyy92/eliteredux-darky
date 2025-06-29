@@ -15,8 +15,6 @@ character_count: 297
 
 Analytic boosts attack power by 30% when the user moves after the target. The boost applies to all damaging moves except Future Sight and Doom Desire. Works when the target has already acted this turn, making it excellent for slow attackers who naturally move last in battle.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -38,7 +36,7 @@ constexpr Ability Analytic = {
 ### Turn Order Mechanics
 The ability determines activation by comparing:
 1. **Target's Turn Position**: `GetBattlerTurnOrderNum(target)` - when the target is scheduled to move
-2. **Current Action Number**: `gCurrentTurnActionNumber` - how many Pokémon have already acted
+2. **Current Action Number**: `gCurrentTurnActionNumber` - how many Pokemon have already acted
 
 If the target has already moved (target's position < current action), Analytic activates.
 
@@ -51,12 +49,12 @@ Future Sight and Doom Desire are specifically excluded because:
 ### Activation Examples
 
 **Scenario 1: Speed-based turns**
-- Turn order: Fast Pokémon (1) → Slow Pokémon with Analytic (2)
-- Fast Pokémon attacks first
-- Slow Pokémon's Analytic activates (1 < 2) ✓
+- Turn order: Fast Pokemon (1) to Slow Pokemon with Analytic (2)
+- Fast Pokemon attacks first
+- Slow Pokemon's Analytic activates (1 < 2) ✓
 
 **Scenario 2: Priority moves**
-- Turn order: Priority user (1) → Analytic user (2)
+- Turn order: Priority user (1) to Analytic user (2)
 - Priority move goes first
 - Analytic activates on response (1 < 2) ✓
 
@@ -97,9 +95,9 @@ Analytic excels on:
 - Base Attack: 300 (after stat boosts)
 - Close Combat Base Power: 120
 - Analytic Boost: 1.3x
-- **Total**: 300 × 120 × 1.3 = 46,800 damage calculation base
+- **Total**: 300 x 120 x 1.3 = 46,800 damage calculation base
 
-Compare to no boost: 300 × 120 = 36,000
+Compare to no boost: 300 x 120 = 36,000
 **Effective increase**: 30% more damage
 
 ### Interactions with Other Abilities
@@ -138,7 +136,7 @@ Based on the species data, Analytic appears on:
 ### Competitive Analysis
 
 #### Strengths
-- Consistent 30% damage boost for slow Pokémon
+- Consistent 30% damage boost for slow Pokemon
 - No setup required - passive benefit
 - Stacks with all other damage modifiers
 - Excellent for revenge killing faster threats
@@ -158,4 +156,4 @@ Based on the species data, Analytic appears on:
 
 ## Conclusion
 
-Analytic transforms slow Pokémon from potential liabilities into powerful revenge killers and wall breakers. The 30% damage boost is substantial enough to change many damage calculations, turning 2HKOs into OHKOs. While situational, it rewards patient play and good prediction skills. In Elite Redux's multi-ability system, Analytic combines excellently with other tactical abilities to create unique strategic profiles that balance offense and defense around turn order manipulation.
+Analytic transforms slow Pokemon from potential liabilities into powerful revenge killers and wall breakers. The 30% damage boost is substantial enough to change many damage calculations, turning 2HKOs into OHKOs. While situational, it rewards patient play and good prediction skills. In Elite Redux's multi-ability system, Analytic combines excellently with other tactical abilities to create unique strategic profiles that balance offense and defense around turn order manipulation.

@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Illusion makes the Pokémon appear as the last alive party member while providing a 1.3x damage boost to all moves. The disguise is automatically broken when the Pokémon takes damage from any move that hits, revealing the true form and removing the power boost.
-
-*Character count: 289*
+Illusion makes the Pokemon appear as the last alive party member while providing a 1.3x damage boost to all moves. The disguise is automatically broken when the Pokemon takes damage from any move that hits, revealing the true form and removing the power boost.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,9 +22,9 @@ Illusion makes the Pokémon appear as the last alive party member while providin
 Illusion is a unique ability that combines visual deception with offensive power enhancement:
 
 **Disguise System:**
-- When entering battle, automatically assumes the appearance of the last alive, non-egg Pokémon in the party
+- When entering battle, automatically assumes the appearance of the last alive, non-egg Pokemon in the party
 - Excludes the Illusion user itself and any active partner in double battles
-- Shows the target Pokémon's species, sprite, and typing information
+- Shows the target Pokemon's species, sprite, and typing information
 - Does not copy stats, moves, or other abilities - only visual appearance
 
 **Power Enhancement:**
@@ -66,12 +64,12 @@ struct Illusion {
     u8 set;      // Whether illusion has been initialized
     u8 broken;   // Whether illusion has been broken
     u8 partyId;  // ID of the party member being mimicked
-    struct Pokemon *mon; // Pointer to the mimicked Pokémon
+    struct Pokemon *mon; // Pointer to the mimicked Pokemon
 }
 ```
 
 ### Setup Process
-1. `SetIllusionMon()` is called when the Pokémon enters battle
+1. `SetIllusionMon()` is called when the Pokemon enters battle
 2. Searches party from last slot (index 5) to first slot (index 0)
 3. Selects the first viable candidate:
    - Must have a valid species
@@ -85,7 +83,7 @@ struct Illusion {
 When illusion breaks:
 - Plays `B_ANIM_ILLUSION_OFF` animation
 - Updates the sprite to show the true form
-- Displays message: "{Pokémon}'s Illusion wore off!"
+- Displays message: "{Pokemon}'s Illusion wore off!"
 - Permanently disables the illusion for the remainder of battle
 
 ### Strategic Applications
@@ -97,7 +95,7 @@ When illusion breaks:
 
 **Team Synergy:**
 - Works best with diverse party members to maximize deception potential
-- Consider party positioning to control which Pokémon is mimicked
+- Consider party positioning to control which Pokemon is mimicked
 - Strong offensive presence in the last party slot enhances the deception
 
 **Timing Considerations:**
@@ -107,11 +105,11 @@ When illusion breaks:
 
 ### Common Users
 - **Zoroark line**: Primary users with high Attack/Sp. Attack stats
-- Various Pokémon with Illusion as an innate ability in Elite Redux
+- Various Pokemon with Illusion as an innate ability in Elite Redux
 
 ### Damage Calculation Example
 Base damage: 100
-With Illusion active: 100 × 1.3 = 130 damage
+With Illusion active: 100 x 1.3 = 130 damage
 After illusion breaks: 100 damage (normal)
 
 ### Interactions with Other Abilities

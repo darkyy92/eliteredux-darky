@@ -13,23 +13,21 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Guilt Trip inflicts psychological damage when the Pokémon faints. The attacker that delivers the final blow suffers reduced offensive power, having their Attack and Special Attack each lowered by 2 stages. Only works when fainting from direct damage.
-
-*Character count: 294*
+Guilt Trip inflicts psychological damage when the Pokemon faints. The attacker that delivers the final blow suffers reduced offensive power, having their Attack and Special Attack each lowered by 2 stages. Only works when fainting from direct damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Guilt Trip is a posthumous punishment ability that activates when the Pokémon with this ability faints from a direct attack.
+Guilt Trip is a posthumous punishment ability that activates when the Pokemon with this ability faints from a direct attack.
 
 ### Core Mechanics
-- **Trigger**: When the Pokémon with Guilt Trip faints from taking damage
+- **Trigger**: When the Pokemon with Guilt Trip faints from taking damage
 - **Effect**: Lowers the attacker's Attack and Special Attack by 2 stages each
 - **Target**: The battler that dealt the finishing blow
 - **Timing**: Activates immediately after fainting
 
 ### Activation Conditions
-1. The Pokémon with Guilt Trip must faint (HP reduced to 0)
+1. The Pokemon with Guilt Trip must faint (HP reduced to 0)
 2. The fainting must be caused by a direct attack from an opponent
 3. The attacker must still be alive on the field
 4. The attacker must be capable of having their stats lowered (not at minimum -6 stages)
@@ -60,7 +58,7 @@ BattleScript_GuiltTrip::
 
 ### Stat Stage Impact
 - **"Sharply lowers"** = -2 stages to both Attack and Special Attack
-- Attack stages: 100% → 67% → 50% → 40% → 33% → 29% → 25%
+- Attack stages: 100% to 67% to 50% to 40% to 33% to 29% to 25%
 - At -2 stages: Attacker deals 50% of normal physical damage
 - At -2 stages: Attacker deals 50% of normal special damage
 
@@ -81,13 +79,13 @@ BattleScript_GuiltTrip::
 - Indirect damage (poison, burn, weather, entry hazards)
 - Recoil damage to the ability holder
 - Confusion self-damage
-- Destiny Bond (since both Pokémon faint simultaneously)
+- Destiny Bond (since both Pokemon faint simultaneously)
 
 ### Strategic Applications
 **Defensive Strategy:**
-- Perfect for bulky support Pokémon that expect to faint
+- Perfect for bulky support Pokemon that expect to faint
 - Forces attackers to think twice about finishing off the Guilt Trip user
-- Excellent on Pokémon with low offensive stats but good defensive utility
+- Excellent on Pokemon with low offensive stats but good defensive utility
 
 **Team Synergy:**
 - Pairs well with revival moves (Revival Blessing, Wish)
@@ -95,8 +93,8 @@ BattleScript_GuiltTrip::
 - Particularly effective against physical/special sweepers
 
 **Common Users in Elite Redux:**
-- Various bulky support Pokémon across different tiers
-- Often found on Pokémon with other defensive abilities
+- Various bulky support Pokemon across different tiers
+- Often found on Pokemon with other defensive abilities
 - Frequently paired with healing/utility movesets
 
 ### Competitive Usage Notes
@@ -107,8 +105,8 @@ BattleScript_GuiltTrip::
 - Cannot be prevented by most standard means
 
 **Cons:**
-- Requires the Pokémon to faint to activate
-- No benefit if the Pokémon survives the battle
+- Requires the Pokemon to faint to activate
+- No benefit if the Pokemon survives the battle
 - Useless against opponents using indirect damage to finish
 - Some abilities can prevent or reverse the stat drops
 
@@ -121,9 +119,9 @@ BattleScript_GuiltTrip::
 **Play Around Strategies:**
 - Use indirect damage for the KO (Toxic, burn, hazards)
 - Switch immediately after KOing to avoid the debuff
-- Use Pokémon that don't rely heavily on Attack/Sp. Attack
+- Use Pokemon that don't rely heavily on Attack/Sp. Attack
 
 ### Version History
 - Added in Elite Redux as a custom ability
-- Designed as a defensive/support ability for tanky Pokémon
+- Designed as a defensive/support ability for tanky Pokemon
 - Part of the expanded ability roster beyond Generation 9

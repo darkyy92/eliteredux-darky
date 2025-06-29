@@ -2,25 +2,24 @@
 id: 364
 name: Looter
 status: ai-generated
-character_count: 287
+character_count: 292
 ---
 
-# Looter (Ability #364)
+# Looter - Ability ID 364
 
-## Basic Information
-- **Name**: Looter
-- **ID**: 364 (ABILITY_LOOTER)
-- **Description**: "Dealing a KO heals 1/4 of this Pokémon's max HP."
+## In-Game Description
+"Dealing a KO heals 1/4 of this Pokemon's max HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-When this Pokémon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokémon to sustain itself through consecutive victories and become increasingly formidable in prolonged battles.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Mechanical Analysis
+When this Pokemon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokemon to sustain itself through consecutive victories and become increasingly formidable in prolonged battles.
+
+## Detailed Mechanical Explanation
 
 ### Implementation Details
 - **Trigger**: `onBattlerFaints` with `APPLY_ON_ATTACKER`
-- **Condition**: Activates when the Pokémon with Looter knocks out an opponent
+- **Condition**: Activates when the Pokemon with Looter knocks out an opponent
 - **Effect**: Heals 25% of the user's maximum HP
 - **Battle Script**: `BattleScript_HandleSoulEaterEffect`
 - **Code Location**: `/src/abilities.cc` lines 3805-3808
@@ -71,21 +70,21 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 - **Immediate Effect**: Healing occurs right after the knockout
 
 ### Limitations
-- **Requires Knockouts**: No benefit if the Pokémon can't secure eliminations
+- **Requires Knockouts**: No benefit if the Pokemon can't secure eliminations
 - **Full HP Check**: Cannot heal beyond maximum HP
 - **Battle Format Dependent**: More valuable in singles than doubles due to knockout frequency
 - **Vulnerable to Chip Damage**: Doesn't prevent residual damage between turns
 
 ### Tactical Applications
-- **Late Game Sweeper**: Ideal for Pokémon designed to clean up weakened teams
+- **Late Game Sweeper**: Ideal for Pokemon designed to clean up weakened teams
 - **Endurance Battles**: Excellent for long battles with multiple opponents
 - **Recovery Strategy**: Allows risky plays knowing healing is guaranteed on success
 - **Momentum Preservation**: Maintains offensive pressure by staying healthy
 
-## Pokémon Distribution
+## Pokemon Distribution
 
-### Sample Pokémon with Looter
-Based on the species list analysis, Looter appears on various Pokémon including:
+### Sample Pokemon with Looter
+Based on the species list analysis, Looter appears on various Pokemon including:
 - **Rattata** (as one of three abilities: Hustle/Normalize/Looter)
 - Multiple other species across different evolutionary lines
 - Both as main abilities and innate abilities
@@ -128,4 +127,4 @@ Looter excels in formats where:
 - Sustain is valued over immediate power
 - Long battles reward defensive capabilities
 
-The ability transforms offensive Pokémon into self-sustaining threats, making them particularly dangerous in the late game when they can sweep through weakened opposing teams while maintaining their own health.
+The ability transforms offensive Pokemon into self-sustaining threats, making them particularly dangerous in the late game when they can sweep through weakened opposing teams while maintaining their own health.

@@ -13,16 +13,14 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon faints from a contact move, it deals explosive retaliation damage to the attacker equal to 25% of their maximum HP. This posthumous strike bypasses Substitute but won't activate from indirect damage. Magic Guard protects attackers from this damage. A final parting gift.
-
-*Character count: 288*
+When this Pokemon faints from a contact move, it deals explosive retaliation damage to the attacker equal to 25% of their maximum HP. This posthumous strike bypasses Substitute but won't activate from indirect damage. Magic Guard protects attackers from this damage. A final parting gift.
 
 ## Detailed Mechanical Explanation
 
 Aftermath is a reactive ability that triggers when specific conditions are met:
 
 ### Activation Conditions:
-1. The Pokémon with Aftermath must faint (HP reaches 0)
+1. The Pokemon with Aftermath must faint (HP reaches 0)
 2. The fainting blow must be from a contact move
 3. The attacker must still be on the field
 
@@ -33,7 +31,7 @@ Aftermath is a reactive ability that triggers when specific conditions are met:
 
 ### Interactions:
 - **Bypasses Substitute**: The damage hits the attacker directly, ignoring any Substitute
-- **Magic Guard**: Pokémon with Magic Guard are immune to Aftermath damage
+- **Magic Guard**: Pokemon with Magic Guard are immune to Aftermath damage
 - **Multi-hit moves**: Only triggers once, even if a multi-hit contact move causes the faint
 - **Non-contact moves**: No effect (special attacks, status moves, etc.)
 - **Indirect damage**: No effect (poison, burn, sandstorm, etc.)
@@ -54,5 +52,5 @@ The damage is calculated as `attacker.maxHP / 4` and applied through a special b
 - Effective against frail physical sweepers
 - Can secure KOs even after fainting
 
-### Common Pokémon with Aftermath:
-This ability appears on various Pokémon as both a regular ability and innate ability, often found on explosive or volatile-themed Pokémon that fit the "going out with a bang" concept.
+### Common Pokemon with Aftermath:
+This ability appears on various Pokemon as both a regular ability and innate ability, often found on explosive or volatile-themed Pokemon that fit the "going out with a bang" concept.

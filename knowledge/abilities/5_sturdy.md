@@ -13,9 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When at full HP, this Pokémon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks. Perfect for hazard leads to guarantee Stealth Rock, or Shell Smash users for a safe setup turn at full health.
-
-*Character count: 282*
+When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks. Perfect for hazard leads to guarantee Stealth Rock, or Shell Smash users for a safe setup turn at full health.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,15 +22,15 @@ When at full HP, this Pokémon will survive any single attack with at least 1 HP
 Sturdy provides a guaranteed survival mechanism when at full HP:
 
 1. **Activation Conditions**
-   - Pokémon must be at exactly 100% HP
-   - Incoming attack would normally KO the Pokémon
+   - Pokemon must be at exactly 100% HP
+   - Incoming attack would normally KO the Pokemon
    - Not already endured through other means (Endure move, Focus Sash)
    - Move is not False Swipe or similar effect
 
 2. **Effect**
-   - Damage is reduced to leave the Pokémon at exactly 1 HP
+   - Damage is reduced to leave the Pokemon at exactly 1 HP
    - Ability popup appears showing "Sturdy"
-   - Message displays "[Pokémon] endured the hit!"
+   - Message displays "[Pokemon] endured the hit!"
    - Sets internal flag `gTurnStructs[gBattlerTarget].sturdied = TRUE`
 
 ### Technical Implementation
@@ -65,7 +63,7 @@ if (gBattleMons[gBattlerTarget].ability == ABILITY_STURDY
 
 ### Strategic Implications
 
-1. **Lead Pokémon**: Guarantees at least one action
+1. **Lead Pokemon**: Guarantees at least one action
 2. **Hazard Setting**: Ensures Stealth Rock/Spikes get up
 3. **Counter/Mirror Coat**: Survive and retaliate
 4. **Shell Smash**: Safe setup at full HP
@@ -80,15 +78,15 @@ if (gBattleMons[gBattlerTarget].ability == ABILITY_STURDY
 ### Example Usage Patterns
 
 **Offensive Lead**:
-- Sturdy → Stealth Rock → Explosion
+- Sturdy to Stealth Rock to Explosion
 - Guarantees hazards and damage
 
 **Setup Sweeper**:
-- Sturdy → Shell Smash → Sweep
+- Sturdy to Shell Smash to Sweep
 - Safe setup opportunity
 
 **Revenge Killer**:
-- Sturdy → Survive hit → Priority move
+- Sturdy to Survive hit to Priority move
 - Reliable revenge killing
 
 ### Common Users
@@ -102,7 +100,7 @@ if (gBattleMons[gBattlerTarget].ability == ABILITY_STURDY
 - A-tier ability for specific roles
 - Essential for suicide leads
 - Enables risky setup strategies
-- Less valuable on defensive Pokémon
+- Less valuable on defensive Pokemon
 - Berry Juice combo for double Sturdy in Little Cup
 
 ### Counters

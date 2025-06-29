@@ -13,19 +13,17 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Lunar Affinity automatically copies and uses lunar moves when other Pokémon use them in battle. Triggers on Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. The copied move uses the original user's stats and targets but is performed by this Pokémon immediately afterwards.
-
-*Character count: 292*
+Lunar Affinity automatically copies and uses lunar moves when other Pokemon use them in battle. Triggers on Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. The copied move uses the original user's stats and targets but is performed by this Pokemon immediately afterwards.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Lunar Affinity is a reactive ability that automatically copies and executes lunar-typed moves when used by any Pokémon in battle. The ability activates through the `onCopyMove` trigger, checking if the move has the `lunar` property set to true.
+Lunar Affinity is a reactive ability that automatically copies and executes lunar-typed moves when used by any Pokemon in battle. The ability activates through the `onCopyMove` trigger, checking if the move has the `lunar` property set to true.
 
 ### Activation Conditions
 - **Move requirement**: The move must have `lunar: true` in its data
-- **Timing**: Activates immediately after another Pokémon uses a lunar move
+- **Timing**: Activates immediately after another Pokemon uses a lunar move
 - **User independence**: Can copy moves from allies or opponents
 - **No PP cost**: The copied move doesn't consume PP from the Lunar Affinity user
 
@@ -43,7 +41,7 @@ constexpr Ability LunarAffinity = {
 The following moves trigger Lunar Affinity:
 - **Moonlight**: Healing move that restores HP
 - **Moonblast**: Fairy-type special attack with 20% chance to lower Special Attack
-- **Lunar Dance**: Self-sacrifice move that fully heals the next Pokémon
+- **Lunar Dance**: Self-sacrifice move that fully heals the next Pokemon
 - **Lunar Blessing**: Status move that provides beneficial effects
 
 ### Important Interactions
@@ -61,9 +59,9 @@ The following moves trigger Lunar Affinity:
 
 ### Common Users
 Based on the proto data, Lunar Affinity appears on:
-- Pokémon in the "Lunar" category
-- Certain Fairy-type and Psychic-type Pokémon
-- Pokémon with celestial or moon-based themes
+- Pokemon in the "Lunar" category
+- Certain Fairy-type and Psychic-type Pokemon
+- Pokemon with celestial or moon-based themes
 
 ### Competitive Usage Notes
 - **Double utility**: Turns opponent's lunar moves into advantages
@@ -80,7 +78,7 @@ Based on the proto data, Lunar Affinity appears on:
 - **Non-lunar alternatives**: Use non-lunar healing/support moves instead
 
 ### Synergies
-- **Lunar move users**: Team with Pokémon that know lunar moves
+- **Lunar move users**: Team with Pokemon that know lunar moves
 - **Moonlight/Lunar Blessing**: Copy healing and support moves
 - **Fairy-type teams**: Many Fairy-types learn Moonblast
 - **Doubles/Triples**: More opportunities for lunar move copying
@@ -90,7 +88,7 @@ Based on the proto data, Lunar Affinity appears on:
 - Custom ability in Elite Redux
 - Part of the expanded lunar move system
 - Unique reactive copying mechanic
-- No equivalent in official Pokémon games
+- No equivalent in official Pokemon games
 
 ### Related Abilities
 - **Lunar Eclipse**: Another lunar-themed ability in Elite Redux

@@ -13,22 +13,20 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Embody Aspect (Hearthflame) raises the Pokémon's Attack stat by one stage upon entering battle. This boost applies immediately when switching in or at the start of battle. The ability activates before any other switch-in effects and provides a permanent +50% damage boost to physical moves.
-
-*Character count: 290*
+Embody Aspect (Hearthflame) raises the Pokemon's Attack stat by one stage upon entering battle. This boost applies immediately when switching in or at the start of battle. The ability activates before any other switch-in effects and provides a permanent +50% damage boost to physical moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Embody Aspect (Hearthflame) is one of four variants of the Embody Aspect ability exclusive to Ogerpon forms. This variant provides an immediate Attack stat boost when the Pokémon enters battle, making it excellent for physical sweeping strategies.
+Embody Aspect (Hearthflame) is one of four variants of the Embody Aspect ability exclusive to Ogerpon forms. This variant provides an immediate Attack stat boost when the Pokemon enters battle, making it excellent for physical sweeping strategies.
 
 ### Activation Conditions
-- **Entry trigger**: Activates when the Pokémon switches into battle
+- **Entry trigger**: Activates when the Pokemon switches into battle
 - **Battle start**: Also activates when sent out at the beginning of battle  
 - **Timing**: Occurs before any other switch-in effects or abilities
 - **Stat boost**: Raises Attack by exactly 1 stage (+50% physical damage)
-- **Permanence**: The boost remains until the Pokémon switches out or faints
+- **Permanence**: The boost remains until the Pokemon switches out or faints
 
 ### Technical Implementation
 ```c
@@ -51,7 +49,7 @@ constexpr Ability IntrepidSword = {
 
 ### Stat Calculation Details
 - **Stage +1**: Multiplies Attack by 1.5x (150% of base Attack)
-- **Damage formula**: Base damage × 1.5 for all physical moves
+- **Damage formula**: Base damage x 1.5 for all physical moves
 - **Stacking**: Can stack with other Attack boosts (items, moves, etc.)
 - **Maximum**: Cannot boost beyond +6 stages (+400% total)
 
@@ -79,7 +77,7 @@ constexpr Ability IntrepidSword = {
 ### Example Damage Calculations
 ```
 Ogerpon-Hearthflame-Mega @ Hearthflame Mask
-120 base Attack → 180 effective Attack with Embody Aspect
+120 base Attack to 180 effective Attack with Embody Aspect
 Ivy Cudgel (Base Power 100, STAB 1.5x, Grass/Fire type):
 - Against 252 HP / 0 Def Garchomp: 85-100% (guaranteed 2HKO)
 - Against 252 HP / 252+ Def Toxapex: 45-53% (2HKO after Stealth Rock)
@@ -100,7 +98,7 @@ Ivy Cudgel (Base Power 100, STAB 1.5x, Grass/Fire type):
 - **Hearthflame Mask**: Required item enables Mega Evolution and boosts power
 
 ### Counters
-- **Physical walls**: Defensive Pokémon can still tank boosted attacks
+- **Physical walls**: Defensive Pokemon can still tank boosted attacks
 - **Intimidate**: Reduces the Attack boost if it activates after entry
 - **Burns**: Status condition halves Attack, negating the boost
 - **Priority moves**: Fast priority can revenge kill before it attacks

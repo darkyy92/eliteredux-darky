@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Rude Awakening activates when the Pokémon wakes up from sleep naturally or forced awake. Upon awakening, the Pokémon permanently gains immunity to sleep status and receives a boost to all stats. The ability only triggers once per battle after first wake-up event.
-
-*Character count: 289*
+Rude Awakening activates when the Pokemon wakes up from sleep naturally or forced awake. Upon awakening, the Pokemon permanently gains immunity to sleep status and receives a boost to all stats. The ability only triggers once per battle after first wake-up event.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Rude Awakening activates when the Pokémon wakes up from sleep naturally or forc
 Rude Awakening is a triggered ability that provides both defensive immunity and offensive stat boosts after experiencing sleep. The ability has two distinct phases: dormant (before waking up) and active (after first wake-up).
 
 ### Activation Conditions
-- **Trigger requirement**: Pokémon must wake up from sleep status
+- **Trigger requirement**: Pokemon must wake up from sleep status
   - Natural wake-up (sleep turns expire)
   - Forced wake-up (hit by physical move while sleeping)
   - Cure from items or moves (Awakening, Chesto Berry, Heal Bell, etc.)
@@ -33,7 +31,7 @@ Rude Awakening is a triggered ability that provides both defensive immunity and 
 
 ### Phase 1: Dormant State
 - **Sleep vulnerability**: Can be put to sleep normally
-- **No stat boosts**: Functions as normal Pokémon
+- **No stat boosts**: Functions as normal Pokemon
 - **State tracking**: Ability monitors for sleep status removal
 
 ### Phase 2: Active State (Post-Awakening)
@@ -55,7 +53,7 @@ constexpr Ability RudeAwakening = {
 ```
 
 ### Ability State Mechanics
-- **GetAbilityState(battler, ability)**: Returns TRUE if Pokémon has awakened once
+- **GetAbilityState(battler, ability)**: Returns TRUE if Pokemon has awakened once
 - **State persistence**: Ability state remains set for entire battle
 - **Immunity activation**: Sleep immunity only works when state is active
 

@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sweeping Edge makes all Keen Edge moves have perfect accuracy and hit both opposing Pokémon in double battles. Keen Edge moves include slicing attacks like Slash, Leaf Blade, Karate Chop, and Dragon Claw. This transforms single-target slicing moves into powerful multi-target attacks.
-
-*Character count: 284*
+Sweeping Edge makes all Keen Edge moves have perfect accuracy and hit both opposing Pokemon in double battles. Keen Edge moves include slicing attacks like Slash, Leaf Blade, Karate Chop, and Dragon Claw. This transforms single-target slicing moves into powerful multi-target attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +23,7 @@ Sweeping Edge is an offensive ability that enhances Keen Edge moves with two pow
 
 ### Ability Effects
 1. **Perfect Accuracy**: All Keen Edge moves become unable to miss (100% accuracy)
-2. **Multi-Target**: In double battles, Keen Edge moves that normally target one opponent now hit both opposing Pokémon
+2. **Multi-Target**: In double battles, Keen Edge moves that normally target one opponent now hit both opposing Pokemon
 
 ### Keen Edge Move Categories
 Keen Edge moves are typically slicing, cutting, or chopping attacks that have been designated with the `FLAG_KEEN_EDGE_BOOST` flag. Common examples include:
@@ -69,7 +67,7 @@ u8 GetBattlerBattleMoveTargetFlags(MoveEnum moveId, u8 battler) {
 - **Battle format**: Multi-target effect only applies in double battles where there are two opponents
 
 ### Battle Interactions
-- **Double battles**: Keen Edge moves hit both opposing Pokémon instead of just one
+- **Double battles**: Keen Edge moves hit both opposing Pokemon instead of just one
 - **Single battles**: Only the accuracy boost applies (no second target to hit)
 - **Accuracy bypass**: Ignores accuracy reductions, evasion boosts, and moves like Sand Attack
 - **Critical hits**: Each target is calculated independently for critical hits
@@ -93,16 +91,16 @@ u8 GetBattlerBattleMoveTargetFlags(MoveEnum moveId, u8 battler) {
 **Sweeping Edge Plus (ID 590)** includes the same effects as Sweeping Edge but also gains the offensive power boost from Keen Edge ability, increasing the power of Keen Edge moves by 30%.
 
 ### Common Users
-Pokémon with access to multiple Keen Edge moves benefit most from this ability:
+Pokemon with access to multiple Keen Edge moves benefit most from this ability:
 - Physical attackers with diverse slicing movesets
-- Pokémon with high critical hit ratios
+- Pokemon with high critical hit ratios
 - Double battle specialists
-- Pokémon that learn moves like Slash, Leaf Blade, Night Slash
+- Pokemon that learn moves like Slash, Leaf Blade, Night Slash
 
 ### Competitive Usage Notes
 - **Double battle meta**: Extremely powerful in VGC-style formats
 - **Move selection**: Prioritize Keen Edge moves in moveset planning
-- **Team positioning**: Pair with Pokémon that can set up favorable double battle scenarios
+- **Team positioning**: Pair with Pokemon that can set up favorable double battle scenarios
 - **Damage calculation**: Remember that spread moves typically deal reduced damage in official formats
 
 ### Counters
@@ -114,7 +112,7 @@ Pokémon with access to multiple Keen Edge moves benefit most from this ability:
 
 ### Synergies
 - **High critical hit ratio**: Many Keen Edge moves have increased crit rates
-- **Speed control**: Pair with fast Pokémon to move first in double battles  
+- **Speed control**: Pair with fast Pokemon to move first in double battles  
 - **Setup moves**: Works well after Swords Dance or similar attack boosts
 - **Entry hazards**: Spikes/Stealth Rock damage both targets after spread moves
 - **Follow-up attacks**: Weakened opponents from spread moves easier to finish

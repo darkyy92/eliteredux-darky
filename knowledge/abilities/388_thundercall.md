@@ -2,16 +2,20 @@
 id: 388
 name: Thundercall
 status: ai-generated
-character_count: 0
+character_count: 290
 ---
 
-# Thundercall (Ability #388)
+# Thundercall - Ability ID 388
 
-## Basic Information
-- **Name**: Thundercall
-- **ID**: 388 (ABILITY_THUNDERCALL)
-- **Type**: Electric Enhancement
-- **Short Description**: "Triggers Smite at 20% power when using an Electric move."
+## In-Game Description
+"Triggers Smite at 20% power when using an Electric move."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+After using any Electric-type move, Thundercall automatically triggers a follow-up Smite attack at 20% power (24 base power). This physical Electric attack has an 80% accuracy, can paralyze targets (20% chance), and applies the Smack Down effect - grounding Flying-types.
+
+## Detailed Mechanical Explanation
 
 ## Technical Implementation
 
@@ -134,6 +138,7 @@ Against a fast opponent:
 2. Smite follow-up has 20% paralysis chance
 3. If paralysis triggers, opponent's speed is quartered
 4. Creates momentum shift in user's favor
+
 
 ## Conclusion
 

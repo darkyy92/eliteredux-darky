@@ -15,8 +15,6 @@ character_count: 287
 
 Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target. Affects moves like Absorb, Mega Drain, Giga Drain, and Drain Punch. Leech Seed won't apply to Grass-types or already seeded targets. Excellent for sustain-focused strategies.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -37,7 +35,7 @@ The ability provides a 50% bonus to HP recovery from drain moves:
 ### Leech Seed Application
 After a successful drain move hit, Absorbant applies Leech Seed to the target:
 - **Leech Seed effect**: Target loses 1/8 max HP each turn, healer gains that HP
-- **Immunity**: Grass-type Pokémon are immune to Leech Seed
+- **Immunity**: Grass-type Pokemon are immune to Leech Seed
 - **Non-stacking**: Won't apply if target already has Leech Seed
 - **Duration**: Lasts until the target switches out or faints
 
@@ -97,13 +95,13 @@ Moves that trigger Absorbant include:
 - **Rapid Spin**: Can remove Leech Seed from the user's team
 
 ### Competitive Usage
-- **Bulky attackers**: Pokémon that can survive long enough to benefit from both effects
-- **Pivot Pokémon**: Switch in, seed the opponent, and switch out
+- **Bulky attackers**: Pokemon that can survive long enough to benefit from both effects
+- **Pivot Pokemon**: Switch in, seed the opponent, and switch out
 - **Stall teams**: Provides consistent damage pressure and healing
 - **Anti-setup**: Forces opponents to switch rather than set up
 
 ### Common Users
-Absorbant works best on Pokémon with:
+Absorbant works best on Pokemon with:
 - **Good bulk**: To survive and make use of the healing
 - **Drain move access**: Natural or through TMs
 - **Defensive typing**: To switch in safely

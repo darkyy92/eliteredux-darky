@@ -5,20 +5,29 @@ status: ai-generated
 character_count: 300
 ---
 
-# Rockhard Will
+# Rockhard Will - Ability ID 617
 
-**ID:** 617  
+## In-Game Description
+"Rock-type moves get 1.2x damage boost, 1.5x when HP is below 1/3."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Rockhard Will demonstrates unwavering determination through type-focused damage scaling. The ability grants Rock-type moves a 1.2x damage boost normally, increasing to 1.5x when HP falls to 1/3 or below. This creates strategic depth, rewarding both aggressive early pressure and clutch endgame play.
+
+## Detailed Mechanical Explanation
+
 **Type:** Offensive Multiplier  
 **Implementation:** SWARM_MULTIPLIER(TYPE_ROCK)
 
-## Core Mechanics
+### Core Mechanics
 
 Rockhard Will enhances Rock-type moves with a damage multiplier that varies based on the user's current HP:
 
 - **Above 1/3 HP:** 1.2x damage multiplier for Rock-type moves
 - **At or below 1/3 HP:** 1.5x damage multiplier for Rock-type moves
 
-## Technical Implementation
+### Technical Implementation
 
 ```cpp
 constexpr Ability RockhardWill = {
@@ -28,7 +37,7 @@ constexpr Ability RockhardWill = {
 
 The ability uses the same SWARM_MULTIPLIER macro pattern as classic starter abilities like Overgrow, Blaze, Torrent, and Swarm, but applies to Rock-type moves instead.
 
-## Strategic Applications
+### Strategic Applications
 
 ### Early Game Benefits
 - Provides consistent 1.2x boost to Rock-type moves from full health
@@ -47,7 +56,7 @@ Rock-type moves that benefit most from Rockhard Will:
 - **Stealth Rock:** Entry hazard with increased chip damage
 - **Power Gem:** Special Rock move for mixed attackers
 
-## Competitive Viability
+### Competitive Viability
 
 ### Strengths
 - Unconditional damage boost at high HP unlike situational abilities
@@ -61,6 +70,3 @@ Rock-type moves that benefit most from Rockhard Will:
 - Less impactful on Pokemon with poor Rock-type move pools
 - Predictable activation threshold can be played around
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Rockhard Will demonstrates unwavering determination through type-focused damage scaling. The ability grants Rock-type moves a 1.2x damage boost normally, increasing to 1.5x when HP falls to 1/3 or below. This creates strategic depth, rewarding both aggressive early pressure and clutch endgame play.

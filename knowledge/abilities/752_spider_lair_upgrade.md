@@ -15,8 +15,6 @@ character_count: 283
 
 Upon entering battle, automatically sets up Sticky Web on the opponent's side for exactly 7 turns. This enhanced hazard lowers the Speed stat of any enemy Pokemon that switches in by one stage, providing extended entry control without turn investment until the webs naturally expire.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -130,9 +128,9 @@ When an opposing Pokemon switches in while Sticky Web is active:
 
 ### Example Damage Calculations
 Sticky Web doesn't deal damage - it only reduces speed by 1 stage:
-- Base 100 Speed → 67 Speed at -1 stage
-- Base 80 Speed → 53 Speed at -1 stage  
-- Base 60 Speed → 40 Speed at -1 stage
+- Base 100 Speed to 67 Speed at -1 stage
+- Base 80 Speed to 53 Speed at -1 stage  
+- Base 60 Speed to 40 Speed at -1 stage
 
 This often creates crucial speed tiers and revenge killing opportunities.
 

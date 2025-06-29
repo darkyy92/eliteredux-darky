@@ -13,23 +13,21 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Mental Pollution renders all opposing Pokémon's abilities completely inactive while they are confused. Only other Pokémon with Mental Pollution remain unaffected. This creates powerful disruption against ability-reliant teams but requires inflicting confusion first to take effect.
-
-*Character count: 297*
+Mental Pollution renders all opposing Pokemon's abilities completely inactive while they are confused. Only other Pokemon with Mental Pollution remain unaffected. This creates powerful disruption against ability-reliant teams but requires inflicting confusion first to take effect.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Ability Nullification**: When a Pokémon is confused, all of its abilities become inactive if any opponent has Mental Pollution
-- **Exception Rule**: Pokémon with Mental Pollution are immune to this effect from other Mental Pollution users
-- **Status Requirement**: Only affects confused Pokémon - those without confusion status are unaffected
+- **Ability Nullification**: When a Pokemon is confused, all of its abilities become inactive if any opponent has Mental Pollution
+- **Exception Rule**: Pokemon with Mental Pollution are immune to this effect from other Mental Pollution users
+- **Status Requirement**: Only affects confused Pokemon - those without confusion status are unaffected
 - **Field-Wide Effect**: Mental Pollution affects all confused opponents, not just specific targets
 
 ### Activation Conditions
-- At least one Pokémon with Mental Pollution must be active on the field
-- Target Pokémon must have the confusion status (STATUS2_CONFUSION)
-- The affected Pokémon cannot have Mental Pollution itself
+- At least one Pokemon with Mental Pollution must be active on the field
+- Target Pokemon must have the confusion status (STATUS2_CONFUSION)
+- The affected Pokemon cannot have Mental Pollution itself
 
 ### Technical Implementation
 **Current Status**: Partially implemented
@@ -63,7 +61,7 @@ if (gBattleMons[battler].status2 & STATUS2_CONFUSION) {
 - **Gastro Acid**: If Mental Pollution is suppressed by Gastro Acid, it won't nullify abilities
 - **Neutralizing Gas**: Takes precedence over Mental Pollution
 - **Ability Shield**: Would protect from Mental Pollution's ability suppression
-- **Confusion Immunity**: Pokémon immune to confusion are unaffected
+- **Confusion Immunity**: Pokemon immune to confusion are unaffected
 
 ### Strategic Implications
 - **Synergy with Confusion**: Requires reliable confusion-inducing moves or abilities
@@ -72,10 +70,10 @@ if (gBattleMons[battler].status2 & STATUS2_CONFUSION) {
 - **Risk/Reward**: Powerful disruption but requires status condition setup
 
 ### Common Users
-*Note: This is a custom Elite Redux ability - no official Pokémon naturally have it*
+*Note: This is a custom Elite Redux ability - no official Pokemon naturally have it*
 
 ### Competitive Usage Notes
-- **Priority Target**: Pokémon with Mental Pollution become high-priority threats
+- **Priority Target**: Pokemon with Mental Pollution become high-priority threats
 - **Counter Strategy**: Focus on preventing confusion or removing Mental Pollution users
 - **Team Building**: Pairs well with confusion-inducing moves and priority moves
 

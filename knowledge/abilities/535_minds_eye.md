@@ -8,14 +8,12 @@ character_count: 295
 # Mind's Eye - Ability ID 535
 
 ## In-Game Description
-"Hits Ghost-type Pokémon. Accuracy can't be lowered."
+"Hits Ghost-type Pokemon. Accuracy can't be lowered."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokémon with normal effectiveness, bypassing their typical immunity. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities like Sand Attack or Intimidate.
-
-*Character count: 295*
+Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness, bypassing their typical immunity. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities like Sand Attack or Intimidate.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +23,7 @@ Mind's Eye is a dual-purpose ability that provides both offensive and defensive 
 ### Core Mechanics
 
 1. **Ghost-type Immunity Bypass**: 
-   - Normal and Fighting-type moves used by the Mind's Eye user can hit Ghost-type Pokémon
+   - Normal and Fighting-type moves used by the Mind's Eye user can hit Ghost-type Pokemon
    - These moves deal normal (1.0x) effectiveness damage instead of having no effect (0.0x)
    - Uses the same mechanism as Scrappy ability's `onTypeEffectiveness` function
 

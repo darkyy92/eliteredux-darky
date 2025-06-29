@@ -13,18 +13,16 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Victory Bomb triggers when the Pokémon faints, causing it to retaliate with a 100 Base Power Fire-type Explosion targeting the attacker. The explosion occurs after fainting and cannot miss. Works regardless of how the Pokémon was KOed, making it a dangerous last-resort revenge ability.
-
-*Character count: 286*
+Victory Bomb triggers when the Pokemon faints, causing it to retaliate with a 100 Base Power Fire-type Explosion targeting the attacker. The explosion occurs after fainting and cannot miss. Works regardless of how the Pokemon was KOed, making it a dangerous last-resort revenge ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Victory Bomb is a revenge ability that activates when the Pokémon faints, automatically retaliating with a powerful Fire-type Explosion attack against the attacker. This makes it a dangerous last-resort ability that punishes opponents for KOing the user.
+Victory Bomb is a revenge ability that activates when the Pokemon faints, automatically retaliating with a powerful Fire-type Explosion attack against the attacker. This makes it a dangerous last-resort ability that punishes opponents for KOing the user.
 
 ### Activation Conditions
-- **Fainting trigger**: Activates when the Pokémon's HP reaches 0
+- **Fainting trigger**: Activates when the Pokemon's HP reaches 0
 - **Target**: Always targets the battler that caused the fainting
 - **Move used**: MOVE_EXPLOSION with 100 Base Power
 - **Type override**: The explosion is always Fire-type regardless of user's typing
@@ -48,7 +46,7 @@ constexpr Ability VictoryBomb = {
 ```
 
 ### Important Interactions
-- **Post-fainting activation**: The explosion occurs after the Pokémon has already fainted
+- **Post-fainting activation**: The explosion occurs after the Pokemon has already fainted
 - **Special exception**: Unlike other abilities, Victory Bomb can trigger even when the user is not alive
 - **Type modification**: Uses onMoveType callback to force Fire typing on the explosion
 - **Power override**: The explosion uses 100 Base Power instead of Explosion's normal 250
@@ -66,8 +64,8 @@ constexpr Ability VictoryBomb = {
 ### Strategic Implications
 - **Revenge killing**: Guarantees damage to the opponent after fainting
 - **Deterrent effect**: Makes opponents think twice about attacking directly
-- **Suicide lead potential**: Can be used on lead Pokémon for guaranteed early damage
-- **Fire-type coverage**: Provides Fire-type damage even on non-Fire Pokémon
+- **Suicide lead potential**: Can be used on lead Pokemon for guaranteed early damage
+- **Fire-type coverage**: Provides Fire-type damage even on non-Fire Pokemon
 - **Anti-contact**: Punishes physical attackers who expect safe KOs
 
 ### Activation Scenarios
@@ -78,8 +76,8 @@ constexpr Ability VictoryBomb = {
 - **Ability damage**: Works with damage from abilities like Rocky Helmet
 
 ### Common Users
-- **Suicide leads**: Pokémon designed to deal early damage and faint
-- **Revenge killers**: Pokémon that can threaten mutual KOs
+- **Suicide leads**: Pokemon designed to deal early damage and faint
+- **Revenge killers**: Pokemon that can threaten mutual KOs
 - **Fire-type support**: Non-Fire types that want Fire coverage
 - **Glass cannons**: Frail attackers that benefit from posthumous damage
 
@@ -111,4 +109,4 @@ constexpr Ability VictoryBomb = {
 - **Balanced power**: 100 BP instead of full Explosion power for balance
 
 ### Design Philosophy
-Victory Bomb embodies the "kamikaze" or "last stand" archetype, ensuring that defeating certain Pokémon comes at a cost. The Fire typing adds an offensive element while the reduced power (100 vs 250) maintains competitive balance. This ability rewards aggressive play while punishing reckless attacks, adding strategic depth to team building and battle decisions.
+Victory Bomb embodies the "kamikaze" or "last stand" archetype, ensuring that defeating certain Pokemon comes at a cost. The Fire typing adds an offensive element while the reduced power (100 vs 250) maintains competitive balance. This ability rewards aggressive play while punishing reckless attacks, adding strategic depth to team building and battle decisions.

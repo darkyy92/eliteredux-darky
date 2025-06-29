@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Radiance increases the Pokémon's accuracy by 20% for all moves and provides complete immunity to Dark-type attacks when the user is present on the field. The accuracy boost applies to all moves used by the Pokémon. Dark-type moves targeting this Pokémon will fail entirely and deal no damage.
-
-*Character count: 297*
+Radiance increases the Pokemon's accuracy by 20% for all moves and provides complete immunity to Dark-type attacks when the user is present on the field. The accuracy boost applies to all moves used by the Pokemon. Dark-type moves targeting this Pokemon will fail entirely and deal no damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,10 +22,10 @@ Radiance increases the Pokémon's accuracy by 20% for all moves and provides com
 Radiance is a dual-purpose ability that provides both offensive and defensive benefits. It combines an accuracy boost with complete immunity to Dark-type moves, making it valuable for both offensive pressure and defensive utility.
 
 ### Activation Conditions
-- **Accuracy boost**: Always active, applies to all moves used by the Pokémon
-- **Dark-type immunity**: Always active when the Pokémon is on the field
+- **Accuracy boost**: Always active, applies to all moves used by the Pokemon
+- **Dark-type immunity**: Always active when the Pokemon is on the field
 - **No weather dependency**: Both effects work regardless of weather conditions
-- **Field presence**: Dark immunity only works when the Pokémon is actively battling
+- **Field presence**: Dark immunity only works when the Pokemon is actively battling
 
 ### Technical Implementation
 ```c
@@ -95,15 +93,15 @@ constexpr Ability Radiance = {
 - **Substitute**: Can be used to safely set up against Radiance users
 
 ### Common Users
-- Pokémon that learn inaccurate but powerful moves
-- Defensive Pokémon that struggle with Dark-type coverage
+- Pokemon that learn inaccurate but powerful moves
+- Defensive Pokemon that struggle with Dark-type coverage
 - Mixed attackers who benefit from consistent accuracy
-- Pokémon with naturally high offensive stats but poor move accuracy
+- Pokemon with naturally high offensive stats but poor move accuracy
 
 ### Competitive Usage Notes
 - **Tier placement**: Strong utility ability suitable for multiple formats
 - **Team building**: Excellent for teams weak to common Dark moves
-- **Movepool synergy**: Best on Pokémon with powerful but inaccurate moves
+- **Movepool synergy**: Best on Pokemon with powerful but inaccurate moves
 - **Meta consideration**: Effectiveness depends on Dark-type move prevalence
 - **Ability slot value**: Competes with other powerful abilities for slot
 

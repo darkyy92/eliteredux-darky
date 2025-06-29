@@ -15,8 +15,6 @@ character_count: 267
 
 Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. This dual effect creates excellent synergy for Grass-type Pokemon, providing both offensive prowess and defensive utility against opposing Grass attacks.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -70,12 +68,12 @@ Location: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc` (li
 
 ### Damage Calculation Examples
 **Defensive (incoming Grass moves):**
-- 100 BP Grass move → 50% damage (50 BP effective)
-- 120 BP Leaf Storm → 60 BP effective damage
+- 100 BP Grass move to 50% damage (50 BP effective)
+- 120 BP Leaf Storm to 60 BP effective damage
 
 **Offensive (outgoing Grass moves):**
-- 100 BP Energy Ball → 120 BP effective power
-- 120 BP Leaf Storm → 144 BP effective power
+- 100 BP Energy Ball to 120 BP effective power
+- 120 BP Leaf Storm to 144 BP effective power
 
 ### Interactions with Other Mechanics
 
@@ -182,11 +180,11 @@ Location: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc` (li
 
 ### Calculation Examples
 **Full Damage Scenarios:**
-- Grass-type with STAB + Raw Wood: 1.5x × 1.2x = 1.8x total boost
-- Critical hit + Raw Wood: 1.5x × 1.2x = 1.8x total boost
-- Choice Band + Raw Wood: 1.5x × 1.2x = 1.8x total boost
+- Grass-type with STAB + Raw Wood: 1.5x x 1.2x = 1.8x total boost
+- Critical hit + Raw Wood: 1.5x x 1.2x = 1.8x total boost
+- Choice Band + Raw Wood: 1.5x x 1.2x = 1.8x total boost
 
 **Defensive Scenarios:**
-- 2x weakness to Grass + Raw Wood: 2.0x × 0.5x = 1.0x neutral damage
-- 0.5x resistance to Grass + Raw Wood: 0.5x × 0.5x = 0.25x total resistance
-- Neutral typing + Raw Wood: 1.0x × 0.5x = 0.5x damage taken
+- 2x weakness to Grass + Raw Wood: 2.0x x 0.5x = 1.0x neutral damage
+- 0.5x resistance to Grass + Raw Wood: 0.5x x 0.5x = 0.25x total resistance
+- Neutral typing + Raw Wood: 1.0x x 0.5x = 0.5x damage taken

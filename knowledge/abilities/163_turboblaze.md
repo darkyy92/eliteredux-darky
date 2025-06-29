@@ -2,15 +2,20 @@
 id: 163
 name: Turboblaze
 status: ai-generated
-character_count: 283
+character_count: 284
 ---
 
-# Turboblaze (ID: 163)
+# Turboblaze - Ability ID 163
 
-## Overview
-Turboblaze is a powerful offensive ability that combines the mold breaker effect with type addition mechanics. It allows the user's moves to bypass defensive abilities while simultaneously adding the Fire type to the Pokemon upon entry.
+## In-Game Description
+"Moves bypass all defensive abilities and adds Fire type on entry."
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
+
+## Detailed Mechanical Explanation
 
 ### Primary Effects
 1. **Mold Breaker Effect**: All moves used by the Pokemon ignore the target's defensive abilities that would normally block, reduce, or nullify the move's effects. This includes abilities like Levitate, Flash Fire, Water Absorb, and similar defensive abilities.
@@ -22,11 +27,6 @@ Turboblaze is a powerful offensive ability that combines the mold breaker effect
 - **Mold Breaker Flag**: Sets HITMARKER_MOLD_BREAKER when attacking, processed by ShouldSetMoldBreaker() function
 - **Type Addition**: Uses AddBattlerType(battler, TYPE_FIRE) on entry
 - **Battle System**: Checked alongside ABILITY_MOLD_BREAKER and ABILITY_TERAVOLT in ability-ignoring mechanics
-
-## Extended In-Game Description
-Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
-
-*Character count: 283*
 
 ## Strategic Applications
 

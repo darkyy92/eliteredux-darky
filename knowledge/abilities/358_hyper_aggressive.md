@@ -2,18 +2,18 @@
 id: 358
 name: Hyper Aggressive
 status: ai-generated
-character_count: 279
+character_count: 285
 ---
 
-# Hyper Aggressive (Ability ID: 358)
+# Hyper Aggressive - Ability ID 358
 
 ## In-Game Description
 "Moves hit twice. Second hit does 25% damage."
 
-## Extended In-Game Description (280-300 chars)
-Makes all moves hit twice in succession. The first hit deals normal damage, while the second hit deals 25% of the original damage. This ability affects all damaging moves regardless of type or category, providing significant damage output increases at the cost of predictability.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 285*
+Makes all moves hit twice in succession. The first hit deals normal damage, while the second hit deals 25% of the original damage. This ability affects all damaging moves regardless of type or category, providing significant damage output increases at the cost of predictability.
 
 ## Detailed Mechanical Explanation
 
@@ -86,9 +86,9 @@ This means:
 - **Priority interaction**: Both hits maintain the same priority level
 - **Contact moves**: Both hits make contact if the original move does
 
-### Pokémon Distribution
+### Pokemon Distribution
 
-Hyper Aggressive appears on **79 different Pokémon** in Elite Redux, making it one of the more common offensive abilities. It appears as both:
+Hyper Aggressive appears on **79 different Pokemon** in Elite Redux, making it one of the more common offensive abilities. It appears as both:
 - **Regular ability**: Available through normal ability slots
 - **Innate ability**: Always active regardless of ability slot
 

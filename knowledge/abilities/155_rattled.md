@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only triggers on moves that deal damage and doesn't activate if the Pokémon faints from the hit. Provides defensive utility by turning weaknesses into opportunities.
-
-*Character count: 297*
+Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only triggers on moves that deal damage and doesn't activate if the Pokemon faints from the hit. Provides defensive utility by turning weaknesses into opportunities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -45,13 +43,13 @@ constexpr Ability Rattled = {
 - Hit by a Ghost-type move that deals damage
 
 **Listed in Description but Not Implemented:**
-- When the Pokémon flinches (mentioned in proto description but no code implementation found)
+- When the Pokemon flinches (mentioned in proto description but no code implementation found)
 
 ### Technical Requirements
 - `ShouldApplyOnHitAffect(battler)` must return true
 - Move must be Bug, Dark, or Ghost type
 - `CanRaiseStat(battler, STAT_SPEED)` must return true (Speed not at +6)
-- Pokémon must survive the hit to gain the boost
+- Pokemon must survive the hit to gain the boost
 
 ### Stat Boost Details
 - **Boost Amount**: +1 Speed stage (50% increase)
@@ -64,12 +62,12 @@ constexpr Ability Rattled = {
 - **Status Moves**: Do not trigger Rattled (damage-dealing moves only)
 - **Substitute**: Blocked by Substitute (no damage = no trigger)
 - **Magic Guard**: Still triggers even if Magic Guard prevents damage
-- **Fainting**: Does not activate if the Pokémon faints from the triggering move
+- **Fainting**: Does not activate if the Pokemon faints from the triggering move
 
 ### Strategic Applications
 **Defensive Utility:**
 - Turns common attacking types (Dark, Ghost, Bug) into Speed boosts
-- Particularly valuable on bulky Pokémon that can survive super-effective hits
+- Particularly valuable on bulky Pokemon that can survive super-effective hits
 - Synergizes with survival items like Focus Sash or Leftovers
 
 **Speed Control:**
@@ -78,7 +76,7 @@ constexpr Ability Rattled = {
 - Combines well with priority moves for immediate retaliation
 
 ### Notable Users in Elite Redux
-Based on the species data, Rattled appears on various Pokémon including:
+Based on the species data, Rattled appears on various Pokemon including:
 - **Dratini line**: As a regular ability option
 - **Pawmi line**: Speed-oriented Electric types
 - **Fennekin line**: Fire starters with good Special Attack
@@ -93,7 +91,7 @@ Based on the species data, Rattled appears on various Pokémon including:
 - Useful on both offensive and defensive team roles
 
 **Weaknesses:**
-- Requires taking damage to activate (risky on frail Pokémon)  
+- Requires taking damage to activate (risky on frail Pokemon)  
 - Limited to three specific types
 - Flinch trigger apparently not implemented despite being in description
 - One-time boost per battle scenario (unless Speed is lowered)
@@ -121,7 +119,7 @@ Based on the species data, Rattled appears on various Pokémon including:
 - AI evaluation rates this ability at 3/10 for competitive value
 
 ### Example Damage Calculations
-On a Pokémon with base 100 Speed and no investment:
+On a Pokemon with base 100 Speed and no investment:
 - **Before trigger**: 299 Speed (level 50, neutral nature)
 - **After Rattled (+1)**: 448 Speed (50% increase)
 - **After Rattled + Choice Scarf**: 672 Speed

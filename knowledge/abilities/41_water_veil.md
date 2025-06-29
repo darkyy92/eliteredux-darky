@@ -13,9 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Water Veil prevents burn status completely and automatically casts Aqua Ring upon entering battle. The Aqua Ring effect heals 1/16 max HP each turn. Big Root boosts healing by 50%. The healing stacks with other recovery effects and continues until the Pokémon switches out or faints.
-
-*Character count: 284*
+Water Veil prevents burn status completely and automatically casts Aqua Ring upon entering battle. The Aqua Ring effect heals 1/16 max HP each turn. Big Root boosts healing by 50%. The healing stacks with other recovery effects and continues until the Pokemon switches out or faints.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,27 +23,27 @@ Water Veil prevents burn status completely and automatically casts Aqua Ring upo
 ### Activation Mechanics:
 - **Burn Immunity**: Completely prevents burn status via onStatusImmune hook
 - **Auto Aqua Ring**: Automatically applies STATUS3_AQUA_RING on switch-in
-- **Entry Message**: "{Pokémon} enveloped itself in a veil made of water."
-- **Requirement**: Only activates if the Pokémon doesn't already have Aqua Ring status
+- **Entry Message**: "{Pokemon} enveloped itself in a veil made of water."
+- **Requirement**: Only activates if the Pokemon doesn't already have Aqua Ring status
 
 ### Burn Immunity:
 1. **Complete Protection**: Cannot be burned by any move, ability, or item
 2. **Status Removal**: If burned before gaining this ability, burn is immediately cured
 3. **Immunity Override**: Cannot be bypassed by moves like Corrosive or abilities like Mold Breaker
-4. **Message**: Shows standard "It doesn't affect [Pokémon]!" when burn is attempted
+4. **Message**: Shows standard "It doesn't affect [Pokemon]!" when burn is attempted
 
 ### Aqua Ring Mechanics:
 1. **Healing Amount**: Restores 1/16 (6.25%) of max HP each turn
-2. **Big Root Boost**: Healing increased to 1/16 × 1.5 = 9.375% max HP with Big Root held
-3. **Absorbant Synergy**: Healing increased by additional 50% if Pokémon also has Absorbant ability
+2. **Big Root Boost**: Healing increased to 1/16 x 1.5 = 9.375% max HP with Big Root held
+3. **Absorbant Synergy**: Healing increased by additional 50% if Pokemon also has Absorbant ability
 4. **Turn Priority**: Heals during end-of-turn phase, specifically during ENDTURN_AQUA_RING step
-5. **Conditions**: Only heals if Pokémon is not at full HP, can heal, and is still conscious
+5. **Conditions**: Only heals if Pokemon is not at full HP, can heal, and is still conscious
 
 ### Interaction Rules:
 - **vs Other Recovery**: Stacks with Leftovers, Rain Dish, Ice Body, and other healing effects
 - **vs Heal Block**: Aqua Ring healing is blocked by Heal Block status
-- **vs Magic Guard**: Pokémon with Magic Guard still receive Aqua Ring healing
-- **Switching**: Aqua Ring status is lost when the Pokémon switches out
+- **vs Magic Guard**: Pokemon with Magic Guard still receive Aqua Ring healing
+- **Switching**: Aqua Ring status is lost when the Pokemon switches out
 - **Taunt/Encore**: Cannot be prevented since it's an automatic ability effect
 
 ### Technical Implementation:

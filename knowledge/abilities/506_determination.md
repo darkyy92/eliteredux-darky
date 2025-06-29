@@ -13,15 +13,13 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Determination boosts Special Attack by 50% when the Pokémon has any status condition or Comatose ability. Also prevents the freeze status from reducing Special Attack. This works with burn, poison, paralysis, sleep, freeze, and Blood Stain effects. Great for special attackers.
-
-*Character count: 295*
+Determination boosts Special Attack by 50% when the Pokemon has any status condition or Comatose ability. Also prevents the freeze status from reducing Special Attack. This works with burn, poison, paralysis, sleep, freeze, and Blood Stain effects. Great for special attackers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Determination is an offensive ability that provides a substantial power boost to special attacks when the Pokémon is afflicted with status conditions. The ability specifically targets special moves and provides damage immunity negation.
+Determination is an offensive ability that provides a substantial power boost to special attacks when the Pokemon is afflicted with status conditions. The ability specifically targets special moves and provides damage immunity negation.
 
 ### Activation Conditions
 - **Status requirement**: Any status condition must be present:
@@ -65,16 +63,16 @@ The ability uses a specific function that checks for:
 - Blood Stain effects (Elite Redux mechanic)
 
 ### Strategic Implications
-- **Status synergy**: Benefits from being statused unlike most Pokémon
+- **Status synergy**: Benefits from being statused unlike most Pokemon
 - **Special wallbreaker**: Turns status conditions into offensive pressure
 - **Risk/reward**: High power boost compensates for status drawbacks
 - **Anti-freeze**: Maintains Special Attack power even when frozen
 - **Team support**: Can be paired with status inflictors
 
 ### Common Users
-- Special attacking Pokémon who can afford status conditions
+- Special attacking Pokemon who can afford status conditions
 - Bulky special attackers who can survive status damage
-- Pokémon with status-healing moves or abilities
+- Pokemon with status-healing moves or abilities
 - Rest users who can sleep safely
 
 ### Competitive Usage Notes

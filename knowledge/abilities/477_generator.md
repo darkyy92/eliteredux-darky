@@ -13,9 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Generator charges up the Pokémon once upon switching in, doubling Electric-type move power for the next Electric attack. Can recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out but can be regained with terrain activation.
-
-*Character count: 292*
+Generator charges up the Pokemon once upon switching in, doubling Electric-type move power for the next Electric attack. Can recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out but can be regained with terrain activation.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -104,7 +102,7 @@ if (gStatuses3[battlerAtk] & STATUS3_CHARGED_UP && moveType == TYPE_ELECTRIC)
 
 ### Common Users
 - Electric-type attackers with powerful Electric moves
-- Pokémon with access to high BP Electric moves (Thunderbolt, Thunder, etc.)
+- Pokemon with access to high BP Electric moves (Thunderbolt, Thunder, etc.)
 - Mixed attackers who can utilize both physical and special Electric moves
 - Terrain team supporters who benefit from Electric Terrain
 

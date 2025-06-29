@@ -2,12 +2,22 @@
 id: 395
 name: Iron Barrage
 status: ai-generated
-character_count: 0
+character_count: 299
 ---
 
-# Iron Barrage (Ability #395)
+# Iron Barrage - Ability ID 395
 
-## Overview
+## In-Game Description
+"Mega Launcher boost with perfect accuracy and priority penalties."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Iron Barrage transforms the user into a precision artillery platform, combining a 30% damage boost to projectile moves with perfect accuracy on ALL attacks. Low-accuracy moves (below 80%) suffer -3 priority as a trade-off. This devastating combination excels on Pokemon with diverse projectile movepools.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Iron Barrage is a powerful hybrid ability that combines the offensive capabilities of Mega Launcher with the precision targeting of Sighting System. This unique combination creates a devastating artillery-focused ability perfect for projectile-based attackers.
 
 ## Technical Implementation
@@ -66,17 +76,17 @@ int IsMegaLauncherBoosted(int battler, MoveEnum move) {
 - **Effect**: 30% damage increase (1.3x multiplier)
 - **Applies to**: Moves with `FLAG_MEGA_LAUNCHER_BOOST` flag
 - **Boosted Moves Include**:
-  - Water Gun (Priority +1, 40 BP → 52 BP effective)
-  - Hydro Pump (110 BP → 143 BP effective)
-  - Ice Beam (90 BP → 117 BP effective)
-  - Psybeam (65 BP → 84.5 BP effective)
-  - Bubble Beam (25 BP multi-hit → 32.5 BP per hit effective)
+  - Water Gun (Priority +1, 40 BP to 52 BP effective)
+  - Hydro Pump (110 BP to 143 BP effective)
+  - Ice Beam (90 BP to 117 BP effective)
+  - Psybeam (65 BP to 84.5 BP effective)
+  - Bubble Beam (25 BP multi-hit to 32.5 BP per hit effective)
   - Aurora Beam
   - All status moves (regardless of flag)
 
 ### 2. Perfect Accuracy (Sighting System)
 - **Effect**: `ACCURACY_HITS_IF_POSSIBLE` - essentially never-miss status
-- **Applies to**: ALL moves used by the Pokémon
+- **Applies to**: ALL moves used by the Pokemon
 - **Benefit**: Turns unreliable moves into consistent threats
 
 ### 3. Priority Penalty (Sighting System)
@@ -127,7 +137,7 @@ int IsMegaLauncherBoosted(int battler, MoveEnum move) {
 - **Positioning**: Back-line attacker with guaranteed hit rates
 
 ### Tier Placement: High
-Iron Barrage combines two powerful effects without significant drawbacks, making it exceptionally valuable for artillery-focused Pokémon. The perfect accuracy alone is game-changing, while the damage boost ensures offensive presence.
+Iron Barrage combines two powerful effects without significant drawbacks, making it exceptionally valuable for artillery-focused Pokemon. The perfect accuracy alone is game-changing, while the damage boost ensures offensive presence.
 
 ## Related Abilities
 
@@ -139,6 +149,7 @@ Iron Barrage combines two powerful effects without significant drawbacks, making
 
 ### Comparison with Mega Launcher
 Iron Barrage is strictly superior to Mega Launcher, adding perfect accuracy without losing any damage boost functionality.
+
 
 ## Version History
 - **Implementation**: Elite Redux custom ability

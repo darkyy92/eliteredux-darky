@@ -2,20 +2,23 @@
 id: 130
 name: Cursed Body
 status: ai-generated
-character_count: 290
+character_count: 280
 ---
 
-# Ability Analysis: Cursed Body
+# Cursed Body - Ability ID 130
 
-## Basic Information
-- **Ability ID**: 130 (ABILITY_CURSED_BODY)
-- **Name**: Cursed Body
-- **Original Description**: "30% chance to disable moves if enemy makes contact."
+## In-Game Description
+"30% chance to disable moves if enemy makes contact."
 
-## Detailed Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokemon.
+
+## Detailed Mechanical Explanation
 
 ### Activation Conditions
-1. **Trigger**: When the Pokémon with Cursed Body is hit by a move
+1. **Trigger**: When the Pokemon with Cursed Body is hit by a move
 2. **Contact Requirement**: The attacking move must make contact
 3. **Probability**: 30% chance to activate
 4. **Target**: The attacker's move that just hit
@@ -66,14 +69,14 @@ When Cursed Body activates:
 4. **Temporary**: 4 turns is relatively short
 
 ### Synergies
-- **Bulky Pokémon**: More chances to trigger with higher survivability
+- **Bulky Pokemon**: More chances to trigger with higher survivability
 - **Stall Teams**: Adds another layer of disruption
 - **Substitute**: Forces contact moves to break Sub, increasing trigger chances
 - **Protect/Detect**: Wastes disable turns while staying safe
 
 ## Competitive Usage
 
-### Ideal Pokémon Characteristics
+### Ideal Pokemon Characteristics
 - High defensive stats to survive multiple hits
 - Access to recovery moves
 - Alternative defensive abilities to consider
@@ -86,13 +89,9 @@ When Cursed Body activates:
 ### Counters
 - Special attackers with non-contact moves
 - Multi-hit moves (only first hit can be disabled)
-- Pokémon with multiple coverage options
+- Pokemon with multiple coverage options
 - Taunt to prevent recovery stalling
 
-## Notable Pokémon
-Pokémon that typically have access to Cursed Body often include Ghost-types and defensive Pokémon that benefit from move disruption.
+## Notable Pokemon
+Pokemon that typically have access to Cursed Body often include Ghost-types and defensive Pokemon that benefit from move disruption.
 
-## Extended In-Game Description
-Character count: 290
-
-"Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by a contact move. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokémon that can survive multiple hits."

@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Forest Rage boosts the power of all Grass-type moves by 30% when healthy. When the Pokémon drops below 1/3 HP, the multiplier increases to 80%. This ability activates for any move with Grass typing regardless of user's type. Stacks with other damage modifiers.
-
-*Character count: 295*
+Forest Rage boosts the power of all Grass-type moves by 30% when healthy. When the Pokemon drops below 1/3 HP, the multiplier increases to 80%. This ability activates for any move with Grass typing regardless of user's type. Stacks with other damage modifiers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -49,7 +47,7 @@ constexpr Ability ForestRage = {
 
 ### HP Calculation Details
 - **Threshold**: 1/3 of maximum HP (rounded down)
-- **Example**: 300 HP Pokémon activates strong boost at 100 HP or below
+- **Example**: 300 HP Pokemon activates strong boost at 100 HP or below
 - **Persistent**: Effect remains active until HP rises above threshold
 - **Real-time**: Updates immediately when HP changes
 
@@ -62,12 +60,12 @@ constexpr Ability ForestRage = {
 - **Ability suppression**: Disabled by Mold Breaker effects
 
 ### Damage Calculation
-**Healthy (>1/3 HP)**: Base damage × 1.3 × other modifiers
-**Low HP (≤1/3 HP)**: Base damage × 1.8 × other modifiers
+**Healthy (>1/3 HP)**: Base damage x 1.3 x other modifiers
+**Low HP (≤1/3 HP)**: Base damage x 1.8 x other modifiers
 
 Example with 100 BP Grass move:
-- Healthy: 100 × 1.3 = 130 effective power
-- Low HP: 100 × 1.8 = 180 effective power
+- Healthy: 100 x 1.3 = 130 effective power
+- Low HP: 100 x 1.8 = 180 effective power
 
 ### Strategic Implications
 - **Late-game sweeper**: Becomes extremely dangerous at low HP
@@ -88,7 +86,7 @@ Forest Rage boosts all Grass-type moves including:
 - **Grass-type sweepers**: Maximum synergy with STAB
 - **Mixed attackers**: Using both physical and special Grass moves
 - **Coverage users**: Non-Grass types with strong Grass coverage
-- **Pivot Pokémon**: Can use Grass moves for utility and damage
+- **Pivot Pokemon**: Can use Grass moves for utility and damage
 
 ### Competitive Applications
 - **Endgame closer**: Devastating in late-game scenarios

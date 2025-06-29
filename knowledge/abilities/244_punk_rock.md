@@ -15,15 +15,13 @@ character_count: 289
 
 Punk Rock amplifies the user's sound-based attacks by 30% while providing exceptional acoustic defense, reducing incoming sound move damage by 50%. This dual nature makes sound specialists both formidable attackers and resilient defenders against sonic warfare.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 Punk Rock is a dual-purpose ability that affects both offensive and defensive sound move interactions:
 
 **Offensive Effects:**
-- Increases damage of all sound moves used by the Pokémon by 30% (1.3x multiplier)
+- Increases damage of all sound moves used by the Pokemon by 30% (1.3x multiplier)
 - Applies to any move with the FLAG_SOUND property
 - Stacks multiplicatively with other damage modifiers (STAB, type effectiveness, items, etc.)
 
@@ -36,7 +34,7 @@ Punk Rock is a dual-purpose ability that affects both offensive and defensive so
 Sound moves are determined by the FLAG_SOUND property and include:
 - Offensive: Hyper Voice (95 BP), Boomburst (140 BP), Round (60 BP), Sonic Boom
 - Status: Roar, Sing, Supersonic, Grass Whistle, Disable
-- Special cases: Normal-type moves become sound moves when used by Pokémon with Reverbate ability
+- Special cases: Normal-type moves become sound moves when used by Pokemon with Reverbate ability
 
 **Technical Details:**
 - Uses onOffensiveMultiplier and onDefensiveMultiplier callbacks

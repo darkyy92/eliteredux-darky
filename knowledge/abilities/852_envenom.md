@@ -5,16 +5,17 @@ status: ai-generated
 character_count: 289
 ---
 
-# Envenom Analysis
+# Envenom - Ability ID 852
+
+## In-Game Description
+Moves have a 30% chance to poison the target.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"Moves have a 30% chance to poison the target."
+When this Pokemon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.
 
-## Extended In-Game Description
-When this Pokémon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.
+## Detailed Mechanical Explanation
 
-## Implementation Details
+### Implementation Details
 
 ### Code Location
 - **File**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc`
@@ -48,8 +49,8 @@ The `CanBePoisoned` function performs several checks:
 
 #### Type Restrictions
 From `CanPoisonType` function:
-- **Poison-type Pokémon**: Immune to poison
-- **Steel-type Pokémon**: Immune to poison
+- **Poison-type Pokemon**: Immune to poison
+- **Steel-type Pokemon**: Immune to poison
 - **Exception**: Certain abilities can override type immunity (e.g., abilities with `onCanStatusType`)
 
 #### Effect Application
@@ -63,7 +64,7 @@ From `CanPoisonType` function:
 - Reliable 30% chance on all damaging moves
 - Bypasses Safeguard ability
 - Works with any damaging move (contact or non-contact)
-- Can pressure bulky defensive Pokémon
+- Can pressure bulky defensive Pokemon
 
 ### Limitations
 - Cannot poison already statused targets

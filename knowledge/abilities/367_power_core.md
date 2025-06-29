@@ -2,20 +2,19 @@
 id: 367
 name: Power Core
 status: ai-generated
-character_count: 272
+character_count: 290
 ---
 
 # Power Core - Ability ID 367
 
 ## In-Game Description
-"The Pokémon uses +20% of its Defense or SpDef during moves."
+"The Pokemon uses +20% of its Defense or SpDef during moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
 
 Adds 20% of Defense to physical attacks and 20% of Special Defense to special attacks when calculating damage. This defensive stat bonus is applied after all other modifiers, effectively making attacks stronger based on your defensive bulk. Works with all offensive moves.
-
-*Character count: 290*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -54,20 +53,20 @@ Power Core shares its implementation pattern with several other abilities:
 ### Strategic Implications:
 1. **Bulk + Power Synergy**: Rewards investment in defensive stats with offensive returns
 2. **Stat Distribution**: Encourages mixed defensive/offensive builds rather than pure glass cannon
-3. **Defensive Walls**: Transforms defensive Pokémon into surprisingly potent threats
+3. **Defensive Walls**: Transforms defensive Pokemon into surprisingly potent threats
 4. **Item Synergy**: Defensive items like Leftovers or Assault Vest provide indirect offensive benefits
 
 ### Example Damage Scenarios:
-**Scenario 1**: A Pokémon with 100 Attack and 150 Defense using a physical move
+**Scenario 1**: A Pokemon with 100 Attack and 150 Defense using a physical move
 - **Normal**: Uses 100 Attack for damage calculation
-- **With Power Core**: Uses 100 Attack + (150 × 0.20) = 130 effective Attack
+- **With Power Core**: Uses 100 Attack + (150 x 0.20) = 130 effective Attack
 
-**Scenario 2**: Same Pokémon using a special move with 80 Special Attack and 120 Special Defense
+**Scenario 2**: Same Pokemon using a special move with 80 Special Attack and 120 Special Defense
 - **Normal**: Uses 80 Special Attack for damage calculation
-- **With Power Core**: Uses 80 Special Attack + (120 × 0.20) = 104 effective Special Attack
+- **With Power Core**: Uses 80 Special Attack + (120 x 0.20) = 104 effective Special Attack
 
-### Pokémon Distribution:
-Power Core appears on numerous powerful Pokémon in Elite Redux:
+### Pokemon Distribution:
+Power Core appears on numerous powerful Pokemon in Elite Redux:
 
 **Legendary/Mythical Users (Innate):**
 - **Dialga** (both forms) - Primal Armor/Impenetrable/Power Core
@@ -92,7 +91,7 @@ Power Core appears on numerous powerful Pokémon in Elite Redux:
 - Rewards defensive investment with offensive returns
 - Works with all offensive moves, no restrictions
 - Scales with stat boosts and defensive items
-- Excellent on bulky offensive Pokémon
+- Excellent on bulky offensive Pokemon
 
 **Weaknesses:**
 - Requires significant defensive stats to be impactful
@@ -102,12 +101,12 @@ Power Core appears on numerous powerful Pokémon in Elite Redux:
 
 **Ideal Users:**
 - Bulky attackers with balanced offensive/defensive stats
-- Pokémon with naturally high defensive stats
+- Pokemon with naturally high defensive stats
 - Mixed attackers that can leverage both bonuses
-- Defensive Pokémon that want some offensive presence
+- Defensive Pokemon that want some offensive presence
 
 ### Competitive Tier Justification:
-**Medium Tier** - Power Core provides meaningful but not overwhelming offensive benefits. It's most effective on Pokémon that already invest in defensive stats, making it a solid choice for bulky offensive builds but not game-changing enough for top tier.
+**Medium Tier** - Power Core provides meaningful but not overwhelming offensive benefits. It's most effective on Pokemon that already invest in defensive stats, making it a solid choice for bulky offensive builds but not game-changing enough for top tier.
 
 **Comparison to Similar Abilities:**
 - **Huge Power/Pure Power**: Direct 2x multiplier vs situational 20% boost
@@ -117,7 +116,7 @@ Power Core appears on numerous powerful Pokémon in Elite Redux:
 ### Team Building Considerations:
 1. **Stat Investment**: Prioritize defensive stats alongside offensive ones
 2. **Item Choices**: Defensive items provide indirect offensive benefits
-3. **Role Compression**: Allows defensive Pokémon to threaten offensively
+3. **Role Compression**: Allows defensive Pokemon to threaten offensively
 4. **Movepool**: Benefits from diverse offensive movepools to utilize both bonuses
 
 ### Counters and Answers:
@@ -129,14 +128,14 @@ Power Core appears on numerous powerful Pokémon in Elite Redux:
 ### Version History:
 - **Elite Redux**: Original implementation as ability #367
 - **Design Intent**: Create synergy between defensive and offensive investment
-- **Balance Philosophy**: Reward defensive building without making defensive Pokémon overpowered
+- **Balance Philosophy**: Reward defensive building without making defensive Pokemon overpowered
 
 ### Usage Tips:
 1. **Maximize defensive stats** through EVs, nature, and items
 2. **Use mixed movesets** to leverage both Defense and Special Defense bonuses
 3. **Pair with defensive items** for sustained offensive pressure
 4. **Consider entry hazard support** to maximize offensive opportunities
-5. **Use on Pokémon with naturally high defensive stats** for maximum impact
+5. **Use on Pokemon with naturally high defensive stats** for maximum impact
 
 ### Notable Interactions:
 - **Assault Vest**: Boosts Special Defense, indirectly boosting special moves

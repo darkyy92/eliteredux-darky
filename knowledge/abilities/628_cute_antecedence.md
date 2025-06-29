@@ -5,16 +5,21 @@ status: ai-generated
 character_count: 292
 ---
 
-# Cute Antecedence Analysis
+# Cute Antecedence - Ability ID 628
 
-## Basic Information
-- **ID**: 628
-- **Name**: Pretty Privilege (in-game display name)
-- **Internal Name**: ABILITY_CUTE_ANTECEDENCE
-- **Type**: Priority manipulation ability
-
-## Current Description
+## In-Game Description
 "At full HP, gives +1 priority to its Fairy-type moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them to outspeed most attacks. The effect is lost if HP drops below 100%, making HP management crucial. Particularly effective for revenge killing or preventing enemy setup with priority Moonblast or Play Rough.
+
+## Detailed Mechanical Explanation
+
+**Name**: Pretty Privilege (in-game display name)
+**Internal Name**: ABILITY_CUTE_ANTECEDENCE
+**Type**: Priority manipulation ability
 
 ## Implementation Details
 
@@ -63,8 +68,3 @@ Based on the code analysis, this ability appears on:
 - **Frozen Soul**: Ice-type equivalent
 - **Volt Rush**: Electric-type equivalent
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them to outspeed most attacks. The effect is lost if HP drops below 100%, making HP management crucial. Particularly effective for revenge killing or preventing enemy setup with priority Moonblast or Play Rough.
-
-**Character count: 292**

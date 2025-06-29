@@ -13,9 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Nocturnal enhances the Pokémon's connection to darkness and shadow magic. Dark-type moves receive a 25% power boost, making Night Slash, Crunch, and Dark Pulse significantly stronger. Additionally, the Pokémon gains defensive benefits against Dark and Fairy moves, taking 25% less damage from these types.
-
-*Character count: 299*
+Nocturnal enhances the Pokemon's connection to darkness and shadow magic. Dark-type moves receive a 25% power boost, making Night Slash, Crunch, and Dark Pulse significantly stronger. Additionally, the Pokemon gains defensive benefits against Dark and Fairy moves, taking 25% less damage from these types.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Nocturnal enhances the Pokémon's connection to darkness and shadow magic. Dark-
 Nocturnal provides both offensive and defensive benefits centered around Dark-type moves and certain type resistances:
 
 **Offensive Component:**
-- Boosts the power of all Dark-type moves used by the Pokémon by 25% (1.25x multiplier)
+- Boosts the power of all Dark-type moves used by the Pokemon by 25% (1.25x multiplier)
 - Applies to all Dark-type moves regardless of category (physical, special, or status moves that deal damage)
 
 **Defensive Component:**
@@ -47,34 +45,34 @@ constexpr Ability Nocturnal = {
 ```
 
 ### Activation Conditions
-- **Offensive boost**: Automatically activates when the Pokémon uses any Dark-type move
-- **Defensive resistance**: Automatically activates when the Pokémon is targeted by Dark or Fairy-type moves
+- **Offensive boost**: Automatically activates when the Pokemon uses any Dark-type move
+- **Defensive resistance**: Automatically activates when the Pokemon is targeted by Dark or Fairy-type moves
 - No additional conditions required - passive ability that works continuously
 
 ### Affected Moves (Dark-type examples)
 **Physical Dark moves:**
-- Bite: 60 → 75 BP
-- Crunch: 80 → 100 BP  
-- Night Slash: 70 → 87.5 BP
-- Pursuit: 40 → 50 BP
-- Sucker Punch: 70 → 87.5 BP
-- Knock Off: 65 → 81.25 BP (before item boost)
+- Bite: 60 to 75 BP
+- Crunch: 80 to 100 BP  
+- Night Slash: 70 to 87.5 BP
+- Pursuit: 40 to 50 BP
+- Sucker Punch: 70 to 87.5 BP
+- Knock Off: 65 to 81.25 BP (before item boost)
 
 **Special Dark moves:**
-- Dark Pulse: 80 → 100 BP
-- Shadow Ball: 80 → 100 BP
-- Snarl: 55 → 68.75 BP
-- Hex: 65 → 81.25 BP (before status condition boost)
+- Dark Pulse: 80 to 100 BP
+- Shadow Ball: 80 to 100 BP
+- Snarl: 55 to 68.75 BP
+- Hex: 65 to 81.25 BP (before status condition boost)
 
 ### Damage Calculations
 **Offensive Boost Example:**
-- Base Dark Pulse (80 BP) → Boosted Dark Pulse (100 BP)
-- With STAB (same-type attack bonus): 80 × 1.5 × 1.25 = 150 effective BP
+- Base Dark Pulse (80 BP) to Boosted Dark Pulse (100 BP)
+- With STAB (same-type attack bonus): 80 x 1.5 x 1.25 = 150 effective BP
 - Equivalent to a 150 BP Dark move with STAB
 
 **Defensive Resistance Example:**
-- Incoming Dark Pulse (80 BP) → Reduced to 60 effective BP
-- Incoming Moonblast (95 BP) → Reduced to 71.25 effective BP
+- Incoming Dark Pulse (80 BP) to Reduced to 60 effective BP
+- Incoming Moonblast (95 BP) to Reduced to 71.25 effective BP
 
 ### Interactions with Other Abilities/Mechanics
 - **Stacks multiplicatively** with other damage modifiers (STAB, type effectiveness, items, etc.)
@@ -86,20 +84,20 @@ constexpr Ability Nocturnal = {
 ### Strategic Usage
 **Offensive Applications:**
 - Excellent for Dark-type attackers and mixed attackers with strong Dark moves
-- Particularly powerful on Pokémon with high Attack/Special Attack stats
+- Particularly powerful on Pokemon with high Attack/Special Attack stats
 - Makes Dark-type coverage moves significantly more threatening
 
 **Defensive Applications:**
 - Provides valuable resistance to common Dark and Fairy-type attacks
-- Helps counter Fairy-type threats and opposing Dark-type Pokémon
+- Helps counter Fairy-type threats and opposing Dark-type Pokemon
 - Reduces damage from powerful moves like Play Rough, Moonblast, Dark Pulse, Crunch
 
 ### Common Users
-Based on the species list, Nocturnal appears on a diverse range of Pokémon including:
+Based on the species list, Nocturnal appears on a diverse range of Pokemon including:
 - **Dark-type specialists**: Sableye line, Absol line, Mightyena line
-- **Night-themed Pokémon**: Noctowl line, Crobat line
-- **Mixed attackers**: Various legendary and pseudo-legendary Pokémon
-- **Defensive Pokémon**: Carbink line, defensive walls that benefit from the resistances
+- **Night-themed Pokemon**: Noctowl line, Crobat line
+- **Mixed attackers**: Various legendary and pseudo-legendary Pokemon
+- **Defensive Pokemon**: Carbink line, defensive walls that benefit from the resistances
 
 ### Competitive Viability
 **Strengths:**

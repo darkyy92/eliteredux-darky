@@ -15,8 +15,6 @@ character_count: 287
 
 Swift Swim boosts Speed by 50% during rain weather. Stall reduces damage by 30% when moving before the opponent. Both effects stack for excellent defensive rain sweeping. Works with all rain types including Primordial Sea. Strategic positioning for optimal benefits.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -35,7 +33,7 @@ Breakwater is a combination ability that merges Swift Swim and Stall effects, pr
 
 #### Stall Component  
 - **Damage reduction**: 0.7x defensive multiplier (30% damage reduction)
-- **Activation condition**: Only when the opponent moves after this Pokémon
+- **Activation condition**: Only when the opponent moves after this Pokemon
 - **Turn order dependency**: Based on gCurrentTurnActionNumber vs GetBattlerTurnOrderNum
 - **Breakable**: Can be bypassed by Mold Breaker family abilities
 
@@ -50,7 +48,7 @@ constexpr Ability Breakwater = {
 
 ### Activation Conditions
 1. **Swift Swim effect**: Active whenever rain weather is present
-2. **Stall effect**: Active when this Pokémon moves before the opponent in turn order
+2. **Stall effect**: Active when this Pokemon moves before the opponent in turn order
 3. **Both effects**: Can be active simultaneously for maximum benefit
 
 ### Strategic Applications

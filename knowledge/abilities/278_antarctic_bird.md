@@ -15,8 +15,6 @@ character_count: 293
 
 Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. This stacks with STAB for maximum effectiveness on dual-type Pokemon. Works with all offensive moves including physical attacks, special attacks, and status moves. Perfect for ice birds soaring through the skies.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -51,12 +49,12 @@ constexpr Ability AntarcticBird = {
 - All other Flying-type offensive moves
 
 ### Damage Calculation
-**Base calculation:** Base Power × 1.3 × other multipliers
-**With STAB:** Base Power × 1.3 × 1.5 = 1.95x total boost
-**Example:** Ice Beam (90 BP) → 90 × 1.3 = 117 effective power
+**Base calculation:** Base Power x 1.3 x other multipliers
+**With STAB:** Base Power x 1.3 x 1.5 = 1.95x total boost
+**Example:** Ice Beam (90 BP) to 90 x 1.3 = 117 effective power
 
 ### Interactions with Other Abilities/Mechanics
-- **Stacks multiplicatively** with STAB (1.3 × 1.5 = 1.95x total)
+- **Stacks multiplicatively** with STAB (1.3 x 1.5 = 1.95x total)
 - **Stacks with items** like Choice Band/Specs, Life Orb
 - **Works with weather boosts** (e.g., Blizzard in Hail gets both boosts)
 - **Compatible with critical hits** and other damage modifiers

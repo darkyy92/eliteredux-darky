@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Mountaineer grants complete immunity to all Rock-type moves and Stealth Rock entry hazard damage. The Pokémon takes no damage from moves like Stone Edge, Rock Slide, or Ancient Power. Also prevents chip damage from Stealth Rock when switching in, making it ideal for hazard-heavy battles.
-
-*Character count: 289*
+Mountaineer grants complete immunity to all Rock-type moves and Stealth Rock entry hazard damage. The Pokemon takes no damage from moves like Stone Edge, Rock Slide, or Ancient Power. Also prevents chip damage from Stealth Rock when switching in, making it ideal for hazard-heavy battles.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -64,7 +62,7 @@ Mountaineer provides immunity to all Rock-type moves including but not limited t
 - **Combination with Other Immunities**: Stacks with other type immunities and resistances
 
 ### Stealth Rock Interaction
-- Prevents all damage from Stealth Rock regardless of the Pokémon's typing
+- Prevents all damage from Stealth Rock regardless of the Pokemon's typing
 - Does not prevent other entry hazards (Spikes, Toxic Spikes, Sticky Web)
 - Does not remove existing Stealth Rock from the field (unlike Molten Core)
 
@@ -81,16 +79,16 @@ Mountaineer provides immunity to all Rock-type moves including but not limited t
 
 **Team Synergy:**
 - Excellent on teams weak to Rock-type moves
-- Pairs well with Pokémon that struggle with entry hazards
+- Pairs well with Pokemon that struggle with entry hazards
 - Good insurance against common Rock-type coverage moves
 
 ### Common Users
-Based on the species data, Mountaineer appears on various Pokémon including:
-- Ice-type Pokémon (often as regular or innate ability)
-- Fire-type Pokémon (frequently as innate ability)  
+Based on the species data, Mountaineer appears on various Pokemon including:
+- Ice-type Pokemon (often as regular or innate ability)
+- Fire-type Pokemon (frequently as innate ability)  
 - Ground/Rock-type hybrids (providing unique defensive coverage)
-- Flying-type Pokémon (complementing their typical Rock weakness)
-- Various legendary and pseudo-legendary Pokémon
+- Flying-type Pokemon (complementing their typical Rock weakness)
+- Various legendary and pseudo-legendary Pokemon
 
 ### Competitive Usage Notes
 - **Tier Impact**: Particularly valuable in higher tiers where Stealth Rock is omnipresent
@@ -117,7 +115,7 @@ Based on the species data, Mountaineer appears on various Pokémon including:
 
 ### Example Damage Calculations
 ```
-252+ Atk Choice Band Tyranitar Stone Edge vs. Mountaineer Pokémon:
+252+ Atk Choice Band Tyranitar Stone Edge vs. Mountaineer Pokemon:
 Normal: 150-176 HP (potential KO)
 With Mountaineer: 0 HP (no damage)
 
@@ -126,4 +124,4 @@ Normal: 50% max HP
 With Mountaineer: 0% max HP
 ```
 
-The ability transforms Rock-weak Pokémon into reliable counters and provides significant defensive utility in hazard-heavy metagames.
+The ability transforms Rock-weak Pokemon into reliable counters and provides significant defensive utility in hazard-heavy metagames.

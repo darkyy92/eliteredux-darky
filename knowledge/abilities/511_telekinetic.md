@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet off the ground for 3 turns. While levitating, all attacks targeting the user have perfect accuracy, but the user becomes immune to Ground-type moves and terrain effects. Cannot affect grounded Pokémon.
-
-*Character count: 294*
+Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet off the ground for 3 turns. While levitating, all attacks targeting the user have perfect accuracy, but the user becomes immune to Ground-type moves and terrain effects. Cannot affect grounded Pokemon.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,14 +22,14 @@ Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet of
 Telekinetic is a unique entry ability that automatically applies the Telekinesis move effect to its user upon switching in. This creates a double-edged effect where the user gains immunity to certain moves but becomes vulnerable to all attacks.
 
 ### Activation Conditions
-- **Entry trigger**: Activates immediately when the Pokémon enters battle
+- **Entry trigger**: Activates immediately when the Pokemon enters battle
 - **Duration**: Lasts for 3 turns after activation
 - **Auto-cast**: Uses the Telekinesis move effect without consuming PP
 - **Species restrictions**: Cannot activate on certain grounded species
 
 ### Telekinesis Effect Details
 When Telekinetic activates, the user gains the STATUS3_TELEKINESIS status, which provides:
-- **Levitation**: Pokémon is lifted off the ground
+- **Levitation**: Pokemon is lifted off the ground
 - **Perfect accuracy**: All moves targeting the user have 100% accuracy
 - **Ground immunity**: Becomes immune to Ground-type moves
 - **Terrain immunity**: Unaffected by terrain effects (Electric, Grassy, Misty, Psychic)
@@ -60,10 +58,10 @@ static void Cmd_settelekinesis(void) {
 ```
 
 ### Banned Species
-Certain grounded Pokémon cannot be affected by Telekinesis and thus cannot have this ability:
+Certain grounded Pokemon cannot be affected by Telekinesis and thus cannot have this ability:
 - Diglett and Dugtrio (including Alolan forms)
 - Gengar-Mega (partially underground)
-- Sand Castle Pokémon (Palossand)
+- Sand Castle Pokemon (Palossand)
 - Other species with permanent ground connection
 
 ### Status Interactions
@@ -133,7 +131,7 @@ case ENDTURN_TELEKINESIS:
 - **Gravity teams**: Ironically, opposing Gravity can shut down the ability
 - **Terrain teams**: Denies opponent access to terrain while maintaining your own
 - **Setup sweepers**: Partners who can abuse the temporary immunity window
-- **Pivot cores**: Pokémon that can switch in to absorb Ground moves
+- **Pivot cores**: Pokemon that can switch in to absorb Ground moves
 
 ### Version History
 - Elite Redux exclusive ability

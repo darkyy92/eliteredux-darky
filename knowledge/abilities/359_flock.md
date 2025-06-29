@@ -2,17 +2,22 @@
 id: 359
 name: Flock
 status: ai-generated
-character_count: 280
+character_count: 296
 ---
 
-# Flock (Ability #359)
-multiplier_low_hp: 1.5
-hp_threshold: "1/3 HP"
-ability_category: "Offensive Boost"
-stackable_with_stab: true
----
+# Flock - Ability ID 359
 
-## Overview
+## In-Game Description
+"Boosts Flying-type moves when HP is low."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Flock enhances Flying-type moves by 1.2x normally and 1.5x when HP drops below 1/3 of maximum. This conditional power boost follows the same mechanics as starter abilities like Overgrow and Blaze. The multiplier stacks with STAB and other damage modifiers.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 **Flock** is a swarm-style ability introduced in Elite Redux that provides conditional power boosts to Flying-type moves. This ability follows the same mechanical framework as classic abilities like Overgrow, Blaze, Torrent, and Swarm, but applies specifically to Flying-type attacks.
 
@@ -38,8 +43,8 @@ The HP threshold is calculated as: `gBattleMons[battler].hp <= (gBattleMons[batt
 
 ### STAB Interaction
 Flock stacks multiplicatively with STAB (Same Type Attack Bonus):
-- **Non-Flying Pokémon** with Flock: Flying moves deal 1.2x/1.5x damage
-- **Flying-type Pokémon** with Flock: Flying moves deal 1.8x/2.25x damage (1.5 × 1.2/1.5)
+- **Non-Flying Pokemon** with Flock: Flying moves deal 1.2x/1.5x damage
+- **Flying-type Pokemon** with Flock: Flying moves deal 1.8x/2.25x damage (1.5 x 1.2/1.5)
 
 ## Strategic Applications
 
@@ -65,7 +70,7 @@ Works with all Flying-type attacks, including:
 - **Consistent Power**: Unlike many conditional abilities, provides boost throughout most of the battle
 - **Type Coverage**: Flying is an excellent offensive type with few resistances
 - **Pinch Power**: Low HP boost can secure crucial KOs
-- **Versatility**: Useful on both Flying and non-Flying type Pokémon
+- **Versatility**: Useful on both Flying and non-Flying type Pokemon
 
 ### Weaknesses
 - **Type Limitation**: Only boosts one move type
@@ -77,12 +82,12 @@ Works with all Flying-type attacks, including:
 - **Niche Usage**: Excellent for Flying-type specialists or mixed attackers
 - **Synergy Rating**: High with offensive Flying-type movesets
 
-## Pokémon Distribution
+## Pokemon Distribution
 
 ### Primary Users
-Based on proto analysis, Flock appears on numerous Flying-type Pokémon, including:
+Based on proto analysis, Flock appears on numerous Flying-type Pokemon, including:
 - **Pidgey line** (Pidgey confirmed as innate ability holder)
-- **Various bird Pokémon** throughout the Elite Redux roster
+- **Various bird Pokemon** throughout the Elite Redux roster
 - **Mixed with other abilities**: Often appears as an innate ability alongside other traits
 
 ### Notable Combinations
@@ -158,6 +163,7 @@ Elite Redux includes boosted versions with higher multipliers:
 
 ## Summary
 
-Flock is a well-designed offensive ability that brings Flying-type attacks into the established swarm ability framework. Its consistent 1.2x boost makes it valuable throughout battles, while the 1.5x pinch activation provides clutch potential. The ability particularly shines on Pokémon with strong Flying-type movepools and works excellently in both casual and competitive contexts.
+Flock is a well-designed offensive ability that brings Flying-type attacks into the established swarm ability framework. Its consistent 1.2x boost makes it valuable throughout battles, while the 1.5x pinch activation provides clutch potential. The ability particularly shines on Pokemon with strong Flying-type movepools and works excellently in both casual and competitive contexts.
 
-For trainers seeking reliable Flying-type offense with built-in comeback potential, Flock offers exactly what's needed—consistent power with the possibility of explosive damage when it matters most.
+For trainers seeking reliable Flying-type offense with built-in comeback potential, Flock offers exactly what's needed--consistent power with the possibility of explosive damage when it matters most.
+

@@ -2,12 +2,22 @@
 id: 339
 name: Spider Lair
 status: ai-generated
-character_count: 0
+character_count: 294
 ---
 
-# Spider Lair (Ability #339)
+# Spider Lair - Ability ID 339
 
-## Overview
+## In-Game Description
+"Sets Sticky Web hazard on opponent's field upon entry."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Sets Sticky Web hazard on opponent's field when this Pokemon enters battle. The web lasts exactly 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field. Automatically removes itself after 5 turns expire.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 Spider Lair is a powerful entry hazard ability that automatically sets Sticky Web on the opponent's side of the field upon switching in. This ability provides immediate battlefield control by guaranteeing that any Pokemon the opponent switches in will have their Speed lowered by one stage.
 

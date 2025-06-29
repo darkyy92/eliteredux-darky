@@ -8,20 +8,18 @@ character_count: 298
 # Blitz Boxer - Ability ID 277
 
 ## In-Game Description
-"At full HP, gives +1 priority to this Pokémon's punching moves."
+"At full HP, gives +1 priority to this Pokemon's punching moves."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
 Blitz Boxer grants +1 priority to all punching moves when at full HP. This includes Mach Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Punch, Focus Punch, Dynamic Punch, and other Iron Fist moves. The ability only activates at maximum HP, making HP management crucial for optimal effectiveness.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Priority Boost**: Adds +1 priority to all punching moves when the Pokémon is at full HP
+- **Priority Boost**: Adds +1 priority to all punching moves when the Pokemon is at full HP
 - **HP Requirement**: Must be at exactly maximum HP (gBattleMons[battler].hp == gBattleMons[battler].maxHP)
 - **Move Classification**: Uses the same move list as Iron Fist ability (FLAG_IRON_FIST_BOOST)
 
@@ -55,12 +53,12 @@ All moves with FLAG_IRON_FIST_BOOST, including:
 - And other punching moves flagged for Iron Fist boost
 
 ### Priority Examples
-- **Mach Punch**: +1 → +2 priority (extremely fast)
-- **Most Punching Moves**: 0 → +1 priority (faster than normal moves)
-- **Focus Punch**: -3 → -2 priority (still slow but faster than normal)
+- **Mach Punch**: +1 to +2 priority (extremely fast)
+- **Most Punching Moves**: 0 to +1 priority (faster than normal moves)
+- **Focus Punch**: -3 to -2 priority (still slow but faster than normal)
 
 ### Activation Conditions
-- **Requirement**: Pokémon must be at exactly full HP
+- **Requirement**: Pokemon must be at exactly full HP
 - **Timing**: Checked at move selection/priority calculation
 - **Persistence**: No lingering effects - rechecked each turn
 
@@ -78,11 +76,11 @@ All moves with FLAG_IRON_FIST_BOOST, including:
 - **Brawling Wyvern**: Dragon-type moves also count as punching moves
 
 ### Common Users
-This is a custom Elite Redux ability, so users would be Pokémon specifically designed with this ability in the ROM hack.
+This is a custom Elite Redux ability, so users would be Pokemon specifically designed with this ability in the ROM hack.
 
 ### Competitive Usage Notes
 - **Sweeper Role**: Perfect for fast sweeping when healthy
-- **Lead Position**: Excellent as a lead Pokémon for immediate pressure
+- **Lead Position**: Excellent as a lead Pokemon for immediate pressure
 - **Coverage**: Access to multi-type punching moves provides good coverage
 - **Setup Prevention**: Can interrupt setup attempts with priority moves
 

@@ -15,13 +15,11 @@ character_count: 299
 
 Combines Sweet Dreams and Self Sufficient healing effects. When asleep, restores 1/8 max HP minus 1/16 max HP (net 1/16 HP). When awake, restores 1/16 max HP at end of turn except on the first turn. Provides consistent healing regardless of sleep status.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Peaceful Slumber is a hybrid healing ability that provides consistent recovery whether the Pokémon is asleep or awake, combining the effects of Sweet Dreams and Self Sufficient in an optimized way.
+Peaceful Slumber is a hybrid healing ability that provides consistent recovery whether the Pokemon is asleep or awake, combining the effects of Sweet Dreams and Self Sufficient in an optimized way.
 
 ### Healing Mechanisms
 
@@ -52,7 +50,7 @@ constexpr Ability PeacefulSlumber = {
 ```
 
 ### Activation Conditions
-- **Sleep healing**: Triggers when Pokémon has sleep status or Comatose ability
+- **Sleep healing**: Triggers when Pokemon has sleep status or Comatose ability
 - **Wake healing**: Triggers when not asleep and not on first turn
 - **Priority system**: Sweet Dreams is attempted first, Self Sufficient as backup
 - **HP requirement**: Only heals if current HP < maximum HP
@@ -62,7 +60,7 @@ constexpr Ability PeacefulSlumber = {
 - **Sleep synergy**: Works excellently with Rest users
 - **Stall potential**: Reliable passive healing for defensive strategies
 - **Status immunity**: Pairs well with sleep-inducing strategies
-- **Tank support**: Sustains bulky Pokémon through prolonged battles
+- **Tank support**: Sustains bulky Pokemon through prolonged battles
 
 ### Rest Synergy
 - **Turn 1 (using Rest)**: Falls asleep, no healing yet
@@ -89,7 +87,7 @@ constexpr Ability PeacefulSlumber = {
 - **Status moves**: Poison/burn can offset the healing
 
 ### Competitive Viability
-- **Defensive tanks**: Excellent on bulky Pokémon for sustained presence
+- **Defensive tanks**: Excellent on bulky Pokemon for sustained presence
 - **Rest users**: Perfect synergy with Rest strategies
 - **Stall teams**: Provides passive recovery for stall archetypes
 - **Status absorbers**: Can afford to take status with continuous healing

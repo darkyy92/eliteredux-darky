@@ -5,13 +5,9 @@ status: ai-generated
 character_count: 291
 ---
 
-# Vitality Strike
+# Vitality Strike - Ability ID 687
 
-**Type:** Recovery Ability  
-**ID:** 687  
-**Activation:** After dealing damage with punching moves
-
-## Short Description
+## In-Game Description
 Heals for 10% of the damage dealt by punching moves.
 
 ## Extended In-Game Description

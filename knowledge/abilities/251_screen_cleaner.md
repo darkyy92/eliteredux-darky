@@ -13,14 +13,12 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Screen Cleaner removes all protective screens from both sides of the battlefield when the Pokémon enters battle. This eliminates Reflect, Light Screen, Aurora Veil, and Smokescreen from both your team and the opponent's team immediately upon switching in.
-
-*Character count: 291*
+Screen Cleaner removes all protective screens from both sides of the battlefield when the Pokemon enters battle. This eliminates Reflect, Light Screen, Aurora Veil, and Smokescreen from both your team and the opponent's team immediately upon switching in.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**Activation:** Upon entry (when the Pokémon switches into battle)
+**Activation:** Upon entry (when the Pokemon switches into battle)
 
 **Effect:** Removes all of the following protective screens from both the user's side and the opponent's side:
 - **Reflect** (reduces physical damage)
@@ -39,7 +37,7 @@ Screen Cleaner removes all protective screens from both sides of the battlefield
 - **Screen Breaking:** Counter teams that rely on dual screens (Reflect + Light Screen)
 - **Aurora Veil Counter:** Particularly effective against hail teams using Aurora Veil
 - **Utility Support:** Clears both friendly and enemy screens, which can be advantageous or disadvantageous depending on the situation
-- **Lead Pokémon:** Can be used as a lead to immediately clear any screens set by the opponent's lead
+- **Lead Pokemon:** Can be used as a lead to immediately clear any screens set by the opponent's lead
 
 **Interactions:**
 - Does not affect other entry hazards (Stealth Rock, Spikes, etc.)

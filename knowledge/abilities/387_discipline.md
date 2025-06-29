@@ -15,8 +15,6 @@ character_count: 265
 
 Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -87,7 +85,7 @@ if (BATTLER_HAS_ABILITY(gActiveBattler, ABILITY_DISCIPLINE) &&
 2. 3-turn timer (`disciplineCounter`) tracks the lock duration
 3. Timer decrements each turn the user remains in battle
 4. When timer reaches 0, lock ends cleanly without confusion
-5. Message displays: "{Pokémon} is no longer locked into only using one move!"
+5. Message displays: "{Pokemon} is no longer locked into only using one move!"
 
 ### Technical Implementation Details
 
@@ -210,7 +208,7 @@ if (BATTLER_HAS_ABILITY(gActiveBattler, ABILITY_DISCIPLINE) &&
 - Part of Elite Redux's expanded status control options
 - Designed to make rampage moves more viable in competitive play
 
-### Pokémon with Discipline
+### Pokemon with Discipline
 *Note: Specific distribution varies by Elite Redux version*
 - Available as changeable ability on various Pokemon
 - Commonly found on Dragon-types with Outrage access

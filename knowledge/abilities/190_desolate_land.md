@@ -1,25 +1,25 @@
 ---
 id: 190
-name: "Desolate Land (Ability ID: 190)"
+name: Desolate Land
 status: ai-generated
-character_count: 273
+character_count: 274
 ---
 
-# Desolate Land (Ability ID: 190)
+# Desolate Land - Ability ID 190
 
 ## In-Game Description
 "Intense Sun until switched out. Water-type moves are unusable."
 
-## Extended In-Game Description (280-300 chars)
-Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Thaws frozen Pokemon. Solar moves charge instantly. Synthesis/Morning Sun heal more.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 297*
+Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Thaws frozen Pokemon. Solar moves charge instantly. Synthesis/Morning Sun heal more.
 
 ## Detailed Mechanical Explanation
 **Desolate Land** creates the primal weather "Extremely Harsh Sunlight" that provides ultimate sun control and Water-type immunity.
 
 ### Trigger Conditions
-- Activates when the Pokémon enters battle
+- Activates when the Pokemon enters battle
 - Uses `onEntry` hook to set `ENUM_WEATHER_SUN_PRIMAL`
 - Always succeeds unless another primal weather is active
 
@@ -53,7 +53,7 @@ Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifi
 
 3. **Status & Recovery**:
    - Prevents freezing
-   - Thaws frozen Pokémon
+   - Thaws frozen Pokemon
    - Moonlight/Morning Sun/Synthesis: Restore 2/3 HP
    - Growth: +2 Attack and Special Attack
 

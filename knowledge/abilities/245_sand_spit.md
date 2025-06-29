@@ -13,29 +13,27 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sand Spit activates when the Pokémon takes damage from any attack. Upon activation, it summons an 8-turn sandstorm that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage and benefits from all sandstorm-based abilities.
-
-*Character count: 289*
+Sand Spit activates when the Pokemon takes damage from any attack. Upon activation, it summons an 8-turn sandstorm that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage and benefits from all sandstorm-based abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Activation Conditions
-- **Trigger**: When the Pokémon with Sand Spit takes damage from any direct attack
+- **Trigger**: When the Pokemon with Sand Spit takes damage from any direct attack
 - **Fails if**: Sandstorm is already active, or primal weather (Desolate Land, Primordial Sea, Delta Stream) is active
-- **Works through**: Substitutes, focus sash activations, and even if the Pokémon faints from the triggering hit
+- **Works through**: Substitutes, focus sash activations, and even if the Pokemon faints from the triggering hit
 
 ### Weather Effects Created
 1. **Sandstorm Weather**: Creates standard 8-turn sandstorm weather
 2. **Duration**: 8 turns (can be extended with Smooth Rock)
-3. **Damage**: 1/16 max HP per turn to all Pokémon not immune
+3. **Damage**: 1/16 max HP per turn to all Pokemon not immune
 4. **Type Immunity**: Ground, Rock, and Steel types take no sandstorm damage
-5. **Ability Immunity**: Pokémon with Sand Veil, Sand Rush, Sand Force, Magic Guard, Overcoat, and other sand-immune abilities take no damage
+5. **Ability Immunity**: Pokemon with Sand Veil, Sand Rush, Sand Force, Magic Guard, Overcoat, and other sand-immune abilities take no damage
 
 ### Interactions
 - **Primal Weather**: Cannot override Desolate Land, Primordial Sea, or Delta Stream
 - **Other Weather**: Will override rain, sun, hail, and fog
-- **Multiple Activations**: If sandstorm ends and the Pokémon is hit again, Sand Spit can activate again
+- **Multiple Activations**: If sandstorm ends and the Pokemon is hit again, Sand Spit can activate again
 - **Utility Umbrella**: Does not block sandstorm effects (only blocks sun/rain)
 
 ### Sand Spit User Benefits

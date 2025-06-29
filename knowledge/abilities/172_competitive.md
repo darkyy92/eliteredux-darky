@@ -13,9 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokémon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.
-
-*Character count: 297*
+Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokemon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -40,7 +38,7 @@ Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers a
 
 **What Does NOT Trigger Competitive:**
 - Self-inflicted stat drops (Superpower, Close Combat, etc.)
-- Stat drops from ally Pokémon in doubles
+- Stat drops from ally Pokemon in doubles
 - Burns lowering Attack (status condition, not direct stat lowering)
 - Paralysis lowering Speed (status condition, not direct stat lowering)
 
@@ -56,7 +54,7 @@ Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers a
 - Multiple stat drops in one turn only trigger Competitive once
 - Can stack with other stat-boosting effects
 - Mold Breaker and similar abilities do NOT bypass this trigger (it's not a protective ability)
-- Works even if the Pokémon is behind a Substitute
+- Works even if the Pokemon is behind a Substitute
 
 **Competitive Viability:**
 - Excellent deterrent against stat-lowering strategies

@@ -5,14 +5,17 @@ status: ai-generated
 character_count: 296
 ---
 
-# Festivities (N)
+# Festivities (N) - Ability ID 842
 
-**Effect:** Sound moves become dance moves and vice versa.
+## In-Game Description
+Sound moves become dance moves and vice versa.
 
 ## Extended In-Game Description
 This innate ability swaps sound and dance move properties. Sound moves like Hyper Voice and Boomburst function as dance moves, while dance moves like Dragon Dance and Quiver Dance act as sound moves. This affects interactions with abilities like Soundproof and Dancer, creating unique strategies.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
+
+### Detailed Mechanics
 
 - **Move Type Swap**: All moves with the sound flag are treated as dance moves, and all moves with the dance flag are treated as sound moves
 - **Ability Interactions**: Affects how moves interact with abilities that specifically target sound or dance moves

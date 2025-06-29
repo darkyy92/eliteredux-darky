@@ -2,18 +2,20 @@
 id: 121
 name: Multitype
 status: ai-generated
-character_count: 299
+character_count: 300
 ---
 
-# Multitype
-
-## Overview
-Multitype is an exclusive ability that allows the holder to change their type based on the held Plate item. This ability is unsuppressable and cannot be randomized, ensuring it remains a defining trait of specific Pokémon.
+# Multitype - Ability ID 121
 
 ## In-Game Description
 "Held Plate item decides holder's type."
 
-## Detailed Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.
+
+## Detailed Mechanical Explanation
 
 ### Type Change Mechanism
 - The holder's type changes to match the type of the held Plate item
@@ -62,7 +64,3 @@ Multitype is an exclusive ability that allows the holder to change their type ba
 ## Known Users
 - Arceus (all forms)
 
-## Extended In-Game Description
-Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.
-
-Character count: 299

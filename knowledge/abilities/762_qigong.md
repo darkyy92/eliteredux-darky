@@ -15,22 +15,20 @@ character_count: 295
 
 Qigong ensures all moves never miss while converting Normal-type moves to Fighting-type with STAB. Additionally, eliminates recharge requirements after successfully KOing opponents with high-power moves like Hyper Beam, enabling devastating sweep potential with perfect accuracy and reliability.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 Qigong is a powerful hybrid ability that combines three distinct mechanical effects:
 
-1. **Perfect Accuracy**: All moves used by the Pokémon will always hit, regardless of accuracy calculations, evasion, or weather conditions
+1. **Perfect Accuracy**: All moves used by the Pokemon will always hit, regardless of accuracy calculations, evasion, or weather conditions
 2. **Fighting Spirit Component**: Converts all Normal-type moves to Fighting-type and grants STAB for Fighting-type moves
 3. **Rampage Component**: Eliminates recharge requirements after successfully KOing opponents
 
 ### Activation Conditions
 
 #### Always Hits Component
-- **Trigger**: Every move used by the Pokémon
+- **Trigger**: Every move used by the Pokemon
 - **Effect**: `return ACCURACY_ALWAYS_HITS;`
 - **Scope**: Applies to all moves, including those with naturally low accuracy
 
@@ -40,7 +38,7 @@ Qigong is a powerful hybrid ability that combines three distinct mechanical effe
   - Grants the "Ate" boost (1.2x power multiplier) for converted moves
   - Code: `ATE_ABILITY(TYPE_FIGHTING)`
 - **STAB Mechanics**:
-  - Fighting-type moves receive STAB even if Fighting isn't the Pokémon's natural type
+  - Fighting-type moves receive STAB even if Fighting isn't the Pokemon's natural type
   - Converted Normal moves also receive STAB as they become Fighting-type
 
 #### Rampage Component
@@ -76,12 +74,12 @@ constexpr Ability Qigong = {
 - Status moves with accuracy checks
 - All damaging moves regardless of base accuracy
 
-#### Normal → Fighting Conversion Examples:
-- **Hyper Beam** → Fighting-type with no recharge after KO
-- **Giga Impact** → Fighting-type with no recharge after KO  
-- **Return/Frustration** → Fighting-type with STAB
-- **Quick Attack** → Fighting-type priority move with STAB
-- **Body Slam** → Fighting-type with STAB and paralysis chance
+#### Normal to Fighting Conversion Examples:
+- **Hyper Beam** to Fighting-type with no recharge after KO
+- **Giga Impact** to Fighting-type with no recharge after KO  
+- **Return/Frustration** to Fighting-type with STAB
+- **Quick Attack** to Fighting-type priority move with STAB
+- **Body Slam** to Fighting-type with STAB and paralysis chance
 
 #### Recharge Moves Affected:
 - Hyper Beam
@@ -120,7 +118,7 @@ constexpr Ability Qigong = {
 - **Chain Sweeping**: Can continuously use powerful recharge moves
 
 #### Competitive Usage Notes
-- Extremely powerful on physically offensive Pokémon with good Normal move pools
+- Extremely powerful on physically offensive Pokemon with good Normal move pools
 - Ideal for late-game sweeping scenarios
 - Pairs excellently with Choice items (no recharge means no need to switch)
 - Dangerous with Z-Moves converted to Fighting-type
@@ -140,11 +138,11 @@ constexpr Ability Qigong = {
 - **Normalize**: Converts all moves to Normal first, then Qigong converts to Fighting
 
 ### Example Damage Calculations
-With Choice Band on a 120 Attack Pokémon using Hyper Beam (150 BP):
+With Choice Band on a 120 Attack Pokemon using Hyper Beam (150 BP):
 - **Base Power**: 150
-- **Fighting Spirit Boost**: 150 × 1.2 = 180
-- **STAB**: 180 × 1.5 = 270 effective BP
-- **Choice Band**: 270 × 1.5 = 405 effective BP
+- **Fighting Spirit Boost**: 150 x 1.2 = 180
+- **STAB**: 180 x 1.5 = 270 effective BP
+- **Choice Band**: 270 x 1.5 = 405 effective BP
 - **Perfect accuracy** ensures this devastating attack never misses
 - **No recharge** if it KOs the target
 
@@ -152,7 +150,7 @@ With Choice Band on a 120 Attack Pokémon using Hyper Beam (150 BP):
 Qigong is typically found on:
 - Physically offensive Normal-types with diverse movepools
 - Late-game sweepers designed for cleaning up weakened teams  
-- Pokémon with access to powerful recharge moves
+- Pokemon with access to powerful recharge moves
 - Mixed attackers that can utilize both the accuracy and type conversion
 
 ### Version History

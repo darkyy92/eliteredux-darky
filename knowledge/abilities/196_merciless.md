@@ -15,8 +15,6 @@ character_count: 281
 
 Merciless guarantees critical hits against targets with status conditions or speed penalties. Affected targets include poisoned, paralyzed, bleeding foes, Pokemon with lowered Speed stats, or those holding Iron Ball. Absolutely devastating when facing debuffed opponents in battle.
 
-*Character count: 281*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

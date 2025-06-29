@@ -13,18 +13,16 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Long Reach prevents the Pokémon from making contact with targets when using moves. Additionally, physical non-contact moves receive a 1.2x damage boost. This prevents contact-based abilities like Static or Flame Body from triggering while boosting ranged physical attacks.
-
-*Character count: 292*
+Long Reach prevents the Pokemon from making contact with targets when using moves. Additionally, physical non-contact moves receive a 1.2x damage boost. This prevents contact-based abilities like Static or Flame Body from triggering while boosting ranged physical attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Long Reach is a dual-purpose ability that both prevents contact and boosts specific moves. It fundamentally changes how the Pokémon interacts with opponents by eliminating direct contact while enhancing ranged physical attacks.
+Long Reach is a dual-purpose ability that both prevents contact and boosts specific moves. It fundamentally changes how the Pokemon interacts with opponents by eliminating direct contact while enhancing ranged physical attacks.
 
 ### Primary Effects
-1. **Contact Prevention**: All moves used by the Pokémon are treated as non-contact moves
+1. **Contact Prevention**: All moves used by the Pokemon are treated as non-contact moves
 2. **Damage Boost**: Physical non-contact moves receive a 1.2x damage multiplier
 
 ### Activation Conditions
@@ -99,10 +97,10 @@ Based on the SpeciesList analysis, Long Reach appears on:
 - **Water-types**: Greninja line and other Water starters
 - **Steel-types**: Tinkaton line
 - **Poison-types**: Various Poison specialists
-- **Mixed typings**: Many Pokémon as innate ability
+- **Mixed typings**: Many Pokemon as innate ability
 
 ### Competitive Usage Notes
-- **Wall-breaking**: Enhanced physical non-contact moves help break through defensive Pokémon
+- **Wall-breaking**: Enhanced physical non-contact moves help break through defensive Pokemon
 - **Safety**: Allows aggressive play without contact punishment
 - **Team support**: Can safely use Earthquake in doubles without contact issues
 - **Item synergy**: Works well with Choice Band for massive damage boosts
@@ -136,7 +134,7 @@ When used as innate alongside other abilities:
 ### Version History
 - Introduced in Generation VII as Decidueye's signature ability
 - In Elite Redux, enhanced with damage boost component
-- Available as both regular and innate ability on many Pokémon
+- Available as both regular and innate ability on many Pokemon
 - Integrated into the 4-ability system as a versatile combat ability
 
 ### Comparison to Similar Abilities

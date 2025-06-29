@@ -2,21 +2,27 @@
 id: 318
 name: Primal Armor
 status: ai-generated
-character_count: 297
+character_count: 298
 ---
 
-# Primal Armor (Ability #318)
+# Primal Armor - Ability ID 318
 
-## Basic Information
+## In-Game Description
+"Takes 50% less damage from Super-effective moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Primal Armor reduces damage from super-effective moves by 50%. Activates when moves have 2x or higher type effectiveness, cutting damage to manageable levels. Works against all super-effective attacks regardless of type. Stacks with other damage reduction effects like berries for incredible bulk.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **Name**: Primal Armor
 - **ID**: 318 (ABILITY_PRIMAL_ARMOR)
 - **Short Description**: Takes 50% less damage from Super-effective moves.
-- **Character count**: 297
 
-## Extended In-Game Description
-Primal Armor reduces damage from super-effective moves by 50%. Activates when moves have 2x or higher type effectiveness, cutting damage to manageable levels. Works against all super-effective attacks regardless of type. Stacks with other damage reduction effects like berries for incredible bulk.
-
-## Technical Implementation
+### Technical Implementation
 
 ### Code Structure
 ```cpp
@@ -68,7 +74,7 @@ constexpr Ability PrimalArmor = {
 
 ## Strategic Usage
 
-### Pokémon with Primal Armor
+### Pokemon with Primal Armor
 Based on trainer data analysis, Primal Armor appears as an innate ability on:
 - **Mega Aggron** (as innate ability)
 - **Bastiodon** (as innate ability)
@@ -81,8 +87,8 @@ Based on trainer data analysis, Primal Armor appears as an innate ability on:
 
 ### Defensive Synergy
 - **Steel Types**: Particularly effective on Steel-types that resist many moves already
-- **Bulky Pokémon**: Maximizes survivability of naturally tanky Pokémon
-- **Multi-Type Weakness**: Essential for Pokémon with multiple weaknesses (like Rock/Steel types)
+- **Bulky Pokemon**: Maximizes survivability of naturally tanky Pokemon
+- **Multi-Type Weakness**: Essential for Pokemon with multiple weaknesses (like Rock/Steel types)
 
 ### Counter-Strategies
 - **Mold Breaker**: Completely bypasses Primal Armor
@@ -91,7 +97,7 @@ Based on trainer data analysis, Primal Armor appears as an innate ability on:
 - **Multi-Hit Moves**: Each hit gets reduced, but multiple hits can still accumulate damage
 
 ## Usage Context
-Primal Armor is typically found on legendary/pseudo-legendary Pokémon and defensive walls as an innate ability in Elite Redux's 4-ability system. It's especially common on Steel-type walls and Primal/Mega evolved forms, providing them with exceptional bulk against their few remaining weaknesses.
+Primal Armor is typically found on legendary/pseudo-legendary Pokemon and defensive walls as an innate ability in Elite Redux's 4-ability system. It's especially common on Steel-type walls and Primal/Mega evolved forms, providing them with exceptional bulk against their few remaining weaknesses.
 
 ## Development Notes
 - Part of Elite Redux's enhanced defensive ability suite

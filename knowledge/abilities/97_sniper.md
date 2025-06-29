@@ -1,18 +1,28 @@
 ---
 id: 97
-name: Sniper (Ability #97)
+name: Sniper
 status: ai-generated
-character_count: 364
+character_count: 285
 ---
 
-# Sniper (Ability #97)
+# Sniper - Ability ID 97
 
-## Basic Information
+## In-Game Description
+Critical hits have a 2.25x dmg multiplier instead of 1.5x.
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Sniper boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Works excellently with high crit-ratio moves like Night Slash, Leaf Blade, and Cross Chop. Pairs well with Focus Energy (+2 crit stages) and crit-boosting items like Scope Lens or Razor Claw.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **Name**: Sniper
 - **Description**: Critical hits have a 2.25x dmg multiplier instead of 1.5x.
 - **Breakable**: No (standard ability)
 
-## Game Mechanics
+### Game Mechanics
 
 ### Technical Implementation
 Located in `src/abilities.cc`:
@@ -27,7 +37,7 @@ constexpr Ability Sniper = {
 
 ### Damage Calculation
 - **Normal critical hit multiplier**: 1.5x (as of Gen 7+, configured in `B_CRIT_MULTIPLIER`)
-- **With Sniper**: 2.25x (1.5 × 1.5 = 2.25)
+- **With Sniper**: 2.25x (1.5 x 1.5 = 2.25)
 - The ability applies an additional 1.5x multiplier on top of the base critical hit damage
 - This stacks multiplicatively, not additively
 
@@ -76,10 +86,6 @@ constexpr Ability Sniper = {
 - **Abilities that boost accuracy**: Ensures crit-focused moves connect
 - **Speed control**: Allows getting off multiple attacks for more crit chances
 
-## Extended In-Game Description
-Sniper amplifies critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. This makes critical hits devastating, turning them into near one-hit KOs on neutral targets. Perfect for crit-focused strategies using high crit-ratio moves or Focus Energy setups. The massive damage spike rewards skillful play and proper setup.
-
-Character count: 299
 
 ## Notes
 - The ability's code shows it multiplies by 1.5 when a crit occurs, which stacks with the base 1.5x crit multiplier

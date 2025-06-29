@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fearmonger combines Intimidate and Scare effects, lowering both Attack and Special Attack of opposing Pokémon upon entry. Additionally provides a 10% chance to inflict paralysis when making contact moves. Excellent for disrupting offensive threats and setup sweepers with dual intimidation.
-
-*Character count: 296*
+Fearmonger combines Intimidate and Scare effects, lowering both Attack and Special Attack of opposing Pokemon upon entry. Additionally provides a 10% chance to inflict paralysis when making contact moves. Excellent for disrupting offensive threats and setup sweepers with dual intimidation.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,8 +23,8 @@ Fearmonger is a hybrid intimidation ability that combines the effects of both In
 
 ### Activation Conditions
 - **Entry effect**: Activates upon switching into battle
-  - Lowers Attack by 1 stage on all opposing Pokémon
-  - Lowers Special Attack by 1 stage on all opposing Pokémon
+  - Lowers Attack by 1 stage on all opposing Pokemon
+  - Lowers Special Attack by 1 stage on all opposing Pokemon
   - Affects both opponents in double battles
 - **Contact effect**: 10% chance to inflict paralysis
   - Triggers when the user makes contact with moves
@@ -58,9 +56,9 @@ constexpr Ability Fearmonger = {
 ```
 
 ### Stat Changes on Entry
-- **Attack**: Reduced by 1 stage on all opposing Pokémon
-- **Special Attack**: Reduced by 1 stage on all opposing Pokémon
-- **Targeting**: Affects all opposing Pokémon (both in double battles)
+- **Attack**: Reduced by 1 stage on all opposing Pokemon
+- **Special Attack**: Reduced by 1 stage on all opposing Pokemon
+- **Targeting**: Affects all opposing Pokemon (both in double battles)
 - **Timing**: Occurs immediately upon entry, before other abilities
 
 ### Contact Paralysis Effect
@@ -72,10 +70,10 @@ constexpr Ability Fearmonger = {
 - **Interaction with immunities**:
   - Electric-types are immune to paralysis
   - Limber ability prevents paralysis
-  - Already paralyzed Pokémon cannot be paralyzed again
+  - Already paralyzed Pokemon cannot be paralyzed again
 
 ### Important Interactions
-- **Intimidate immunity**: Pokémon with abilities like Clear Body, White Smoke, or Hyper Cutter are immune to the stat reductions
+- **Intimidate immunity**: Pokemon with abilities like Clear Body, White Smoke, or Hyper Cutter are immune to the stat reductions
 - **Guard Dog**: Causes Guard Dog to activate, raising Attack instead of lowering it
 - **Defiant/Competitive**: Triggers these abilities, potentially giving the opponent stat boosts
 - **Substitute**: Contact moves hitting a substitute do not trigger the paralysis effect
@@ -105,11 +103,11 @@ constexpr Ability Fearmonger = {
 
 ### Common Users
 Based on SpeciesList.textproto analysis, Fearmonger appears on:
-- **Legendary/Mythical Pokémon**: High-tier threats with exceptional stats
+- **Legendary/Mythical Pokemon**: High-tier threats with exceptional stats
 - **Dark-type specialists**: Often paired with Dark Aura or shadow abilities
-- **Physical walls**: Pokémon that benefit from reducing offensive pressure
-- **Utility Pokémon**: Those designed for support and disruption roles
-- **Mixed attackers**: Pokémon that can take advantage of the disruption they create
+- **Physical walls**: Pokemon that benefit from reducing offensive pressure
+- **Utility Pokemon**: Those designed for support and disruption roles
+- **Mixed attackers**: Pokemon that can take advantage of the disruption they create
 
 ### Synergies
 - **Entry hazards**: Stealth Rock, Spikes compound the switching pressure
@@ -120,24 +118,24 @@ Based on SpeciesList.textproto analysis, Fearmonger appears on:
 - **Shadow Shield**: Often paired for additional bulk
 
 ### Competitive Usage Notes
-- **Tier considerations**: Appears primarily on high-tier legendary Pokémon
+- **Tier considerations**: Appears primarily on high-tier legendary Pokemon
 - **Role compression**: Combines multiple forms of utility in one ability
 - **Meta impact**: Forces opponents to consider both physical and special attacking options
-- **Team building**: Excellent on defensive pivots and bulky utility Pokémon
+- **Team building**: Excellent on defensive pivots and bulky utility Pokemon
 - **Doubles viability**: Particularly strong in doubles where it affects both opponents
 
 ### Version History
 - Elite Redux original ability combining classic intimidation effects
 - Unique implementation using the intimidate clone system
 - One of the few abilities that combines entry effects with contact effects
-- Designed for high-tier Pokémon to provide immediate battle impact
+- Designed for high-tier Pokemon to provide immediate battle impact
 
-### Notable Pokémon Users
+### Notable Pokemon Users
 From the codebase analysis, some notable users include:
 - Nidoking (as innate ability)
 - Various Shadow/Dark-type legendaries
-- High-tier utility Pokémon with mixed defensive roles
-- Pokémon designed for disruption and support roles
+- High-tier utility Pokemon with mixed defensive roles
+- Pokemon designed for disruption and support roles
 
 ### Comparison to Similar Abilities
 - **Intimidate**: Only lowers Attack; Fearmonger adds Special Attack reduction

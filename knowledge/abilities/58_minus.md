@@ -2,20 +2,18 @@
 id: 58
 name: Minus
 status: ai-generated
-character_count: 303
+character_count: 298
 ---
 
 # Minus - Ability ID 58
 
 ## In-Game Description
-"Deals double damage if an ally Pokémon has Minus or Plus."
+"Deals double damage if an ally Pokemon has Minus or Plus."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Minus doubles damage output when partnered with Plus or Minus ally. Only works in double/triple battles with living partner. Creates powerful synergy enabling devastating combo attacks. Essential for doubles strategies focused on overwhelming offensive pressure through coordinated ability combinations.
-
-*Character count: 295*
+Minus doubles damage output when partnered with Plus or Minus ally. Only works in double/triple battles with living partner. Creates powerful synergy enabling devastating combo attacks. Essential for doubles strategies focused on overwhelming offensive pressure through coordinated ability synergy.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -74,11 +72,11 @@ constexpr Ability Plus = {
 
 **Magnetic Flux (Move Effect):**
 - Specifically targets Plus/Minus ability holders
-- Raises Defense and Special Defense of affected Pokémon
+- Raises Defense and Special Defense of affected Pokemon
 - AI prioritizes when Plus/Minus users are present
 
 ### Elite Redux Implementation:
-**Pokémon with Minus (as Innate):**
+**Pokemon with Minus (as Innate):**
 - **Plusle** (Electric/Fairy) - Tier 2
   - Abilities: Transistor, Lightning Rod, Power Spot
   - Innates: **Minus**, Defiant, Speed Boost
@@ -91,19 +89,19 @@ constexpr Ability Plus = {
 
 ### Damage Calculation:
 ```
-Base Damage × Type Effectiveness × STAB × Minus Boost × Other Multipliers
+Base Damage x Type Effectiveness x STAB x Minus Boost x Other Multipliers
 Where Minus Boost = 2.0 when partner has Plus/Minus, 1.0 otherwise
 ```
 
 **Example Calculations:**
 - 100 BP move with partner Plus: 200 effective BP
-- With STAB (1.5x): 100 × 2.0 × 1.5 = 300 effective BP
-- Super effective + Minus + STAB: 100 × 2.0 × 2.0 × 1.5 = 600 effective BP
+- With STAB (1.5x): 100 x 2.0 x 1.5 = 300 effective BP
+- Super effective + Minus + STAB: 100 x 2.0 x 2.0 x 1.5 = 600 effective BP
 
 ### Competitive Applications:
 **Doubles Strategy:**
 - Pair Minus holder with Plus holder for mutual benefit
-- Both Pokémon deal double damage when together
+- Both Pokemon deal double damage when together
 - Creates immediate offensive pressure from turn 1
 - Forces opponents to prioritize removing one partner
 

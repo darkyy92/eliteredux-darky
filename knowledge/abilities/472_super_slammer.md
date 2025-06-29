@@ -15,8 +15,6 @@ character_count: 285
 
 Super Slammer boosts the power of hammer-based moves by 30%. Hammer moves include Wood Hammer, Hammer Arm, Crabhammer, Dragon Hammer, Gigaton Hammer, and many custom moves. Works with contact moves that use hammering, slamming, or striking motions to deal physical damage to opponents.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -67,11 +65,11 @@ Super Slammer boosts the following hammer-based moves:
 
 ### Multiplier Stacking
 Super Slammer's 1.3x multiplier stacks multiplicatively with other damage modifiers:
-- **Type effectiveness**: 1.3x × type modifier
-- **STAB**: 1.3x × 1.5 for same-type moves
-- **Items**: 1.3x × held item multipliers
-- **Other abilities**: 1.3x × other ability multipliers
-- **Weather/terrain**: 1.3x × environmental multipliers
+- **Type effectiveness**: 1.3x x type modifier
+- **STAB**: 1.3x x 1.5 for same-type moves
+- **Items**: 1.3x x held item multipliers
+- **Other abilities**: 1.3x x other ability multipliers
+- **Weather/terrain**: 1.3x x environmental multipliers
 
 ### Strategic Implications
 - **Physical attacker role**: Best used on physical attackers with access to hammer moves
@@ -81,14 +79,14 @@ Super Slammer's 1.3x multiplier stacks multiplicatively with other damage modifi
 - **Movepool dependent**: Effectiveness depends on having good hammer moves available
 
 ### Common Users
-Pokémon that benefit most from Super Slammer:
+Pokemon that benefit most from Super Slammer:
 - Physical attackers with hammer move access
 - Multi-type hammer users (can use different hammer types)
-- Pokémon with Iron Fist as secondary ability for double stacking
-- Custom Elite Redux Pokémon designed around hammer movesets
+- Pokemon with Iron Fist as secondary ability for double stacking
+- Custom Elite Redux Pokemon designed around hammer movesets
 
 ### Competitive Usage Notes
-- **Niche but powerful**: Strong ability for Pokémon with good hammer movepools
+- **Niche but powerful**: Strong ability for Pokemon with good hammer movepools
 - **Type coverage**: Hammer moves span many types in Elite Redux
 - **Contact risk**: Most hammer moves make contact, creating risk/reward scenarios
 - **Setup sweeper**: Pairs well with setup moves like Swords Dance

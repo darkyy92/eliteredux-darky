@@ -15,8 +15,6 @@ character_count: 283
 
 On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs moves.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ On entry, gains 'coiled' status giving +1 priority to first biting move used. Me
 ### Activation Mechanics:
 - **Trigger**: Immediately upon entering battle (onEntry hook)
 - **Status Applied**: STATUS4_COILED flag
-- **Message**: "{Pokémon} coiled up and is ready to bite!"
+- **Message**: "{Pokemon} coiled up and is ready to bite!"
 - **Duration**: Until first biting move is used
 
 ### Effect Details:

@@ -15,8 +15,6 @@ character_count: 284
 
 Strong Jaw boosts the power of biting and fang moves by 30%. Works with Bite, Crunch, Hyper Fang, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, Jaw Lock, and custom moves like Iron Fangs, Draconic Fangs, and Kilobite. Multiplicative with other damage boosts for powerful offense.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

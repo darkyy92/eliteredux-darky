@@ -15,8 +15,6 @@ character_count: 287
 
 Speed Boost raises user's Speed by one stage at end of each turn they remain on field. Doesn't activate on entry turn or when switching in. Continues building speed until reaching maximum (+6 stages). Creates powerful momentum and makes user increasingly threatening in extended battles.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,8 +23,8 @@ Speed Boost raises user's Speed by one stage at end of each turn they remain on 
 ### Activation Mechanics:
 - **Trigger**: End of turn (onEndTurn hook)
 - **Timing**: After all actions, damage, and other end-of-turn effects
-- **Switch-in Rule**: Does NOT activate on the turn the Pokémon enters battle (isFirstTurn != 2 check)
-- **Requirement**: The Pokémon must remain active for the entire turn
+- **Switch-in Rule**: Does NOT activate on the turn the Pokemon enters battle (isFirstTurn != 2 check)
+- **Requirement**: The Pokemon must remain active for the entire turn
 - **Script**: Uses BattleScript_AttackerAbilityStatRaiseEnd3 for the "+1 Speed!" message
 
 ### Speed Stage Mechanics:
@@ -46,14 +44,14 @@ Speed Boost raises user's Speed by one stage at end of each turn they remain on 
 - **vs Contrary**: Boosts become Speed drops instead
 - **vs Simple**: Each boost becomes +2 stages instead of +1
 - **vs Unaware**: Speed Boost still affects turn order despite Unaware ignoring stat changes for damage
-- **Baton Pass**: Speed stages transfer to the next Pokémon
+- **Baton Pass**: Speed stages transfer to the next Pokemon
 - **Haze/Clear Smog**: Resets accumulated Speed boosts to 0
 
 ### Special Interactions:
 - **Quick Claw/Speed Items**: Still trigger normally with boosted Speed
 - **Trick Room**: Higher Speed becomes a disadvantage, making Speed Boost counterproductive
 - **Tailwind**: Stacks multiplicatively with Speed Boost stages (both affect final Speed)
-- **Choice Scarf**: Stacks multiplicatively (1.5x item × stage multiplier)
+- **Choice Scarf**: Stacks multiplicatively (1.5x item x stage multiplier)
 
 ### Technical Implementation:
 ```c
@@ -70,7 +68,7 @@ constexpr Ability SpeedBoost = {
 ```
 
 ### Competitive Notes:
-- **Setup Sweeper**: Excellent for Pokémon with strong offensive moves but mediocre initial Speed
+- **Setup Sweeper**: Excellent for Pokemon with strong offensive moves but mediocre initial Speed
 - **Late Game Power**: Becomes increasingly threatening as battle duration extends
 - **Priority Weakness**: Fast setup vulnerable to priority moves early on
 - **Switch Prediction**: Opponents often force switches to reset Speed accumulation
@@ -86,4 +84,4 @@ constexpr Ability SpeedBoost = {
 ### Version History:
 - Gen 3: Introduction with Ninjask and Blaziken lines
 - Gen 4+: Became highly valued in competitive play
-- Elite Redux: Unchanged mechanics, but many new Pokémon gain access
+- Elite Redux: Unchanged mechanics, but many new Pokemon gain access

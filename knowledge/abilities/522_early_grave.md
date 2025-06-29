@@ -15,8 +15,6 @@ character_count: 284
 
 Ghost-type moves gain +1 priority when at full HP. Like Gale Wings for Ghost moves. Allows powerful Ghost attacks like Shadow Ball to strike first. Synergizes with revenge killing and maintaining momentum. Must stay at max HP to keep priority advantage. Rewards careful HP management.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -50,7 +48,7 @@ GALE_WINGS_CLONE(TYPE_GHOST)
 - **Residual Damage**: Poison, burn, sandstorm prevent activation
 - **Healing**: Can restore priority by healing to full
 
-### Pokémon with Early Grave:
+### Pokemon with Early Grave:
 
 1. **Gengar** (Innate ability)
    - Other innates: Vengeance, Ectoplasm

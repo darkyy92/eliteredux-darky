@@ -2,18 +2,29 @@
 id: 346
 name: Twisted Dimension
 status: ai-generated
-character_count: 0
+character_count: 294
 ---
 
-# Twisted Dimension
+# Twisted Dimension - Ability ID 346
 
-**Ability ID:** 346  
-**Type:** Field Effect Entry Ability  
-**Generation:** Elite Redux
+## In-Game Description
+"Automatically sets up Trick Room for 3 turns upon entry."
 
-## Overview
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Twisted Dimension is a powerful entry ability that automatically sets up Trick Room upon switching in, lasting for 3 turns instead of the standard 5. This ability transforms slow, bulky Pokémon into immediate offensive threats by reversing speed priority on the battlefield.
+Upon entering battle, automatically sets up Trick Room for 3 turns, reversing move order so slower Pokemon move first. This instant battlefield control eliminates setup time and transforms bulky Pokemon into immediate offensive threats. The short duration demands careful timing to maximize impact.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
+- **Ability ID:** 346  
+- **Type:** Field Effect Entry Ability  
+- **Generation:** Elite Redux
+
+### Overview
+
+Twisted Dimension is a powerful entry ability that automatically sets up Trick Room upon switching in, lasting for 3 turns instead of the standard 5. This ability transforms slow, bulky Pokemon into immediate offensive threats by reversing speed priority on the battlefield.
 
 ## Mechanics
 
@@ -47,7 +58,7 @@ constexpr Ability TwistedDimension = {
 ## Strategic Applications
 
 ### Immediate Offensive Pressure
-- Transforms traditionally slow Pokémon into speed demons
+- Transforms traditionally slow Pokemon into speed demons
 - Eliminates setup time typically required for Trick Room
 - Creates instant offensive presence upon switching in
 
@@ -70,16 +81,16 @@ constexpr Ability TwistedDimension = {
 
 ### Limitations
 - **Shortened Duration:** Only 3 turns vs. standard 5 turns
-- **One-Time Use:** Cannot reactivate if Pokémon remains in battle
+- **One-Time Use:** Cannot reactivate if Pokemon remains in battle
 - **Predictable:** Opponents can prepare for Trick Room conditions
 
 ### Counterplay Options
 1. **Speed Control:** Use your own Trick Room or speed manipulation
-2. **Switching:** Bring in faster Pokémon to revenge kill
+2. **Switching:** Bring in faster Pokemon to revenge kill
 3. **Stall:** Wait out the 3-turn duration
 4. **Priority Moves:** Bypass speed reversal entirely
 
-## Pokémon with Twisted Dimension
+## Pokemon with Twisted Dimension
 
 ### Primary Users
 - **Slowbro** (Water/Psychic) - Bulky special attacker
@@ -126,8 +137,9 @@ constexpr Ability TwistedDimension = {
 - **Opponent Switches:** Anticipate defensive switches
 - **Endgame:** Save for crucial late-game scenarios
 
+
 ## Conclusion
 
 Twisted Dimension is a meta-defining ability that transforms battlefield dynamics instantly. Its automatic Trick Room setup provides immediate offensive pressure while supporting innovative team compositions. The shortened 3-turn duration requires careful timing and maximum efficiency, making it a high-skill, high-reward ability in competitive play.
 
-The ability's implementation in Elite Redux showcases the game's commitment to expanding strategic options beyond traditional Pokémon mechanics, creating new archetypes and tactical considerations for players to explore.
+The ability's implementation in Elite Redux showcases the game's commitment to expanding strategic options beyond traditional Pokemon mechanics, creating new archetypes and tactical considerations for players to explore.

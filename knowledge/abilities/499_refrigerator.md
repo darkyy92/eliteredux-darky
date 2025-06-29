@@ -15,8 +15,6 @@ character_count: 281
 
 Refrigerator combines Filter and Illuminate effects. Reduces damage from super effective attacks by 35%, taking only 65% of the original damage. Additionally boosts the accuracy of all moves by 20%, making attacks more likely to hit their target.
 
-*Character count: 281*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -76,7 +74,7 @@ constexpr Ability Refrigerator = {
 - No practical change but mathematically boosted
 
 **Moves with 90% accuracy:**
-- Boosted to 108% → capped at 100%
+- Boosted to 108% to capped at 100%
 - **Benefit**: Perfect accuracy for near-perfect moves
 
 **Moves with 80% accuracy:**
@@ -96,10 +94,10 @@ constexpr Ability Refrigerator = {
 
 ### Move Synergy Examples
 **High-power, low-accuracy moves:**
-- Hydro Pump (110 BP, 80% acc) → 96% accuracy
-- Fire Blast (110 BP, 85% acc) → 100% accuracy
-- Thunder (110 BP, 70% acc) → 84% accuracy
-- Blizzard (110 BP, 70% acc) → 84% accuracy
+- Hydro Pump (110 BP, 80% acc) to 96% accuracy
+- Fire Blast (110 BP, 85% acc) to 100% accuracy
+- Thunder (110 BP, 70% acc) to 84% accuracy
+- Blizzard (110 BP, 70% acc) to 84% accuracy
 
 **Perfect accuracy moves:**
 - All moves maintain 100% accuracy

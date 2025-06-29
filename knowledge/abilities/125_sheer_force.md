@@ -15,8 +15,6 @@ character_count: 290
 
 Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost, stacking to 1.69x total. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -59,7 +57,7 @@ constexpr Ability SheerForce = {
    - **Power**: Still receives 1.3x Life Orb damage boost
    - **Recoil**: NO recoil damage taken (TestSheerForceFlag prevents it)
    - **Code**: `REQUIRE_NOT(TestSheerForceFlag(gBattlerAttacker, gCurrentMove))` in Life Orb recoil
-   - **Result**: Effective 1.69x damage boost (1.3 × 1.3) with no drawbacks
+   - **Result**: Effective 1.69x damage boost (1.3 x 1.3) with no drawbacks
 
 2. **Other Items**: Works normally with type-boosting items, Choice items, etc.
 
@@ -73,7 +71,7 @@ constexpr Ability SheerForce = {
 - **Move Selection**: Choose moves with secondary effects over similar moves without
 - **Item Choice**: Life Orb is often optimal for maximum damage output
 - **Trade-offs**: Lose utility effects like burns/freezes for raw power
-- **Wall Breaking**: Excellent for breaking through defensive Pokémon
+- **Wall Breaking**: Excellent for breaking through defensive Pokemon
 
 ### Notable Pokemon:
 - Nidoking, Nidoqueen (classic users)

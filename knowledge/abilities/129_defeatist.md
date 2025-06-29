@@ -2,15 +2,20 @@
 id: 129
 name: Defeatist
 status: ai-generated
-character_count: 299
+character_count: 287
 ---
 
-# Defeatist
+# Defeatist - Ability ID 129
 
-## Overview
-Defeatist is a detrimental ability that significantly reduces a Pokémon's offensive capabilities when its HP drops below one-third of its maximum. This ability halves both Attack and Special Attack stats, making it one of the most severe drawback abilities in the game.
+## In-Game Description
+"Halves Attack and Special Attack when HP drops below 33%."
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Defeatist halves both Attack and Special Attack stats when HP drops below 33% of maximum. This severe penalty activates immediately when crossing the threshold and deactivates when healed above it. Creates a major strategic disadvantage requiring careful HP management and timing.
+
+## Detailed Mechanical Explanation
 
 ### Activation Threshold
 - Activates when HP ≤ 33.33% (1/3) of maximum HP
@@ -35,7 +40,7 @@ constexpr Ability Defeatist = {
 };
 ```
 
-## Pokémon with Defeatist
+## Pokemon with Defeatist
 
 ### Archen (Innate)
 - **Stats**: 55 HP / 112 Atk / 45 Def / 74 SpA / 45 SpD / 70 Spe
@@ -76,9 +81,9 @@ constexpr Ability Defeatist = {
 ## Competitive Analysis
 
 ### Viability Issues
-- Defeatist severely limits the viability of affected Pokémon
+- Defeatist severely limits the viability of affected Pokemon
 - Archeops has excellent 140 Attack and 110 Speed, but Defeatist makes it unreliable
-- The ability essentially creates a timer on the Pokémon's effectiveness
+- The ability essentially creates a timer on the Pokemon's effectiveness
 
 ### Niche Uses
 1. **Lead Role**: Maximum impact early before taking damage
@@ -105,9 +110,5 @@ constexpr Ability Defeatist = {
 - The halving occurs after all other modifications
 
 ## Historical Context
-Defeatist represents Game Freak's attempt to balance potentially overpowered fossil Pokémon. Archeops's 140 Attack and 110 Speed would make it a top-tier threat without this limitation. The ability creates a high-risk, high-reward dynamic that defines these Pokémon's playstyle.
+Defeatist represents Game Freak's attempt to balance potentially overpowered fossil Pokemon. Archeops's 140 Attack and 110 Speed would make it a top-tier threat without this limitation. The ability creates a high-risk, high-reward dynamic that defines these Pokemon's playstyle.
 
-## Extended In-Game Description
-Character count: 299
-
-Defeatist severely weakens offensive power when HP drops below 33%, halving both Attack and Special Attack stats. This dramatic reduction makes the Pokémon significantly less threatening at low health. The ability activates immediately when HP falls below the threshold and deactivates upon healing above it. A major drawback that requires careful HP management.

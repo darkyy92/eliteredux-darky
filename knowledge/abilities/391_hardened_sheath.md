@@ -2,17 +2,20 @@
 id: 391
 name: Hardened Sheath
 status: ai-generated
-character_count: 0
+character_count: 293
 ---
 
-# Hardened Sheath (Ability #391)
+# Hardened Sheath - Ability ID 391
 
-## Basic Information
-- **Ability ID**: 391
-- **Name**: Hardened Sheath
-- **Original Description**: "Ups Attack by +1 when using horn moves."
-- **Type**: Offensive Enhancement
-- **Activation**: On-hit after using horn-based moves
+## In-Game Description
+"Ups Attack by +1 when using horn moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Hardened Sheath transforms every successful horn-based attack into an opportunity for growth, raising Attack by one stage each time a horn move connects. Compatible with moves like Horn Attack, Megahorn, Drill Peck, Zen Headbutt, and many Elite Redux custom horn moves.
+
+## Detailed Mechanical Explanation
 
 ## Technical Implementation
 
@@ -140,6 +143,7 @@ Based on the horn-based theme, this ability would be most fitting on:
 - **Single Battles**: Good for setup sweepers and late-game threats
 - **Double Battles**: More challenging due to target selection and faster pace
 - **Battle Facilities**: Excellent for long battles where setup is viable
+
 
 ## Conclusion
 

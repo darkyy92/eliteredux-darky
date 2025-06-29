@@ -8,22 +8,20 @@ character_count: 293
 # Simple - Ability ID 86
 
 ## In-Game Description
-"Doubles all stat changes on this Pokémon."
+"Doubles all stat changes on this Pokemon."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Simple doubles all stat stage changes on user, whether positive or negative. Boosts from moves like Swords Dance become +4 instead of +2. Stat drops are also doubled. Works perfectly with Stored Power, which gains +40 power per stage instead of +20. Blocked by Clear Body/stat drop prevention.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**SIMPLE** is a stat-modifying ability that doubles the magnitude of all stat stage changes applied to the Pokémon.
+**SIMPLE** is a stat-modifying ability that doubles the magnitude of all stat stage changes applied to the Pokemon.
 
 ### Activation Mechanics:
-- **Trigger**: Automatically applies whenever the Pokémon receives a stat stage change
+- **Trigger**: Automatically applies whenever the Pokemon receives a stat stage change
 - **Timing**: Applied after Contrary reversal but before protection checks
 - **Code Location**: `battle_script_commands.c` line 9625: `if (BattlerHasAbility(battler, ABILITY_SIMPLE, FALSE)) statValue *= 2;`
 
@@ -40,21 +38,21 @@ Simple doubles all stat stage changes on user, whether positive or negative. Boo
    - All stat-dropping moves doubled in effect
 
 3. **Special Interactions**:
-   - **Order of Operations**: Contrary → Simple → Protection checks
+   - **Order of Operations**: Contrary to Simple to Protection checks
    - **Move Effects**: All stat-changing move effects are doubled
    - **Self-Inflicted**: Applies to both beneficial and detrimental self-stat changes
 
 ### Stored Power Synergy:
-- **Normal**: 20 + (stat increases × 20) base power
+- **Normal**: 20 + (stat increases x 20) base power
 - **With Simple**: Each +1 boost = +2 stages for Simple user
 - **Practical Example**: 
-  - Calm Mind once = +2 SpA/SpD stages → Stored Power = 100 base power
-  - Two Calm Minds = +4 SpA/SpD stages → Stored Power = 180 base power
+  - Calm Mind once = +2 SpA/SpD stages to Stored Power = 100 base power
+  - Two Calm Minds = +4 SpA/SpD stages to Stored Power = 180 base power
   - **Mathematical Advantage**: Reaches maximum power much faster
 
 ### Setup Sweeping Potential:
 1. **Speed of Setup**:
-   - One setup move = equivalent of two for normal Pokémon
+   - One setup move = equivalent of two for normal Pokemon
    - Reaches +6 stats in 3 moves instead of 6
    - Critical for time-limited battles
 

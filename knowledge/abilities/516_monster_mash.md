@@ -15,8 +15,6 @@ character_count: 292
 
 Automatically casts Trick-or-Treat when entering battle, adding Ghost as a third type to the target Pokemon. This removes Ghost immunity to physical attacks in Fog weather and adds Ghost weaknesses. The effect persists until the target switches out, making it a powerful counter to Fog teams.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

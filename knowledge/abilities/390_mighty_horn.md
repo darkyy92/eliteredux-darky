@@ -2,12 +2,22 @@
 id: 390
 name: Mighty Horn
 status: ai-generated
-character_count: 0
+character_count: 285
 ---
 
-# Mighty Horn (Ability #390)
+# Mighty Horn - Ability ID 390
 
-## Overview
+## In-Game Description
+"Boosts the power of horn and drill-based moves by 30%."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Mighty Horn amplifies the piercing power of horn and drill-based attacks by 30%, turning natural weaponry into devastating offensive tools. This includes classic moves like Horn Attack, Megahorn, and Drill Peck, plus specialized elemental horn moves.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 **Mighty Horn** is a specialized offensive ability that enhances horn and drill-based attacks, providing a significant damage boost to moves that utilize these piercing appendages. This ability embodies the raw, primal power of creatures with prominent horns and drilling capabilities.
 
@@ -130,6 +140,7 @@ While the specific distribution isn't detailed in the implementation files, Migh
 - **Display**: Appears in Pokemon summary screens with appropriate boost indicators
 - **Compatibility**: Works with all horn-flagged moves regardless of type or power
 - **Stacking**: Multiplies with other damage modifiers (items, stat boosts, etc.)
+
 
 ## Summary
 

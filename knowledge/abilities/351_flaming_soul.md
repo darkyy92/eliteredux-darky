@@ -1,13 +1,23 @@
 ---
 id: 351
 name: Flaming Soul
-status: ai-generated
-character_count: 0
+status: extended
+character_count: 286
 ---
 
-# Flaming Soul (Ability #351)
+# Flaming Soul - Ability ID 351
 
-## Overview
+## In-Game Description
+"Grants +1 priority to Fire-type moves when at full HP."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Grants +1 priority to Fire-type moves when at full HP. Works exactly like Gale Wings but for Fire moves instead of Flying. Any damage disables it until healed to max. Perfect for Fire-type leads and revenge killers who can stay healthy through smart positioning and team support.
+
+## Detailed Mechanical Explanation
+
+### Overview
 Flaming Soul is a priority-granting ability that gives Fire-type moves +1 priority when the user is at maximum HP. It is functionally identical to Gale Wings but for Fire-type moves instead of Flying-type moves, making it a powerful tool for Fire-type attackers who can maintain their health.
 
 ## Code Implementation
@@ -38,9 +48,9 @@ The ability uses the `GALE_WINGS_CLONE` macro (lines 128-133):
 ## Mechanics
 
 ### Activation Requirements
-1. **Maximum HP**: The Pokémon must have full HP (current HP = max HP)
+1. **Maximum HP**: The Pokemon must have full HP (current HP = max HP)
 2. **Fire-type Move**: The move being used must be Fire-type
-3. **Move Usage**: Only applies when the Pokémon is using a move
+3. **Move Usage**: Only applies when the Pokemon is using a move
 
 ### Priority System
 - Normal moves have priority 0
@@ -94,9 +104,9 @@ The ability uses the `GALE_WINGS_CLONE` macro (lines 128-133):
 - **Prankster**: +1 priority for status moves only
 - **Quick Draw**: 30% chance for +1 priority on any move
 
-## Pokémon with Flaming Soul
+## Pokemon with Flaming Soul
 
-Based on proto file analysis, the following Pokémon have access to Flaming Soul:
+Based on proto file analysis, the following Pokemon have access to Flaming Soul:
 
 ### Primary Ability Holders
 - **Ogerpon Hearthflame**: Fire/Fairy type with strong offensive stats
@@ -105,7 +115,7 @@ Based on proto file analysis, the following Pokémon have access to Flaming Soul
 - **Entei**: Legendary Fire-type with excellent physical attack
 
 ### Usage Patterns
-- Most common on offensive Fire-type Pokémon
+- Most common on offensive Fire-type Pokemon
 - Often paired with other Fire-boosting abilities as innates
 - Frequently combined with Flash Fire or other Fire immunities
 
@@ -137,6 +147,7 @@ Based on proto file analysis, the following Pokémon have access to Flaming Soul
 
 ## Conclusion
 
-Flaming Soul is a high-impact ability that transforms Fire-type Pokémon into immediate threats when at full HP. Its strategic value lies in the constant pressure it applies to opponents, forcing them to prioritize dealing damage to disable the ability. While HP-dependent, skilled players can leverage healing support and careful positioning to maintain the advantage throughout battle.
+Flaming Soul is a high-impact ability that transforms Fire-type Pokemon into immediate threats when at full HP. Its strategic value lies in the constant pressure it applies to opponents, forcing them to prioritize dealing damage to disable the ability. While HP-dependent, skilled players can leverage healing support and careful positioning to maintain the advantage throughout battle.
 
 The ability rewards aggressive play while punishing passive strategies, making it excellent for fast-paced offensive teams that can protect their Flaming Soul user's HP while applying constant pressure with priority Fire moves.
+

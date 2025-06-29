@@ -5,23 +5,19 @@ status: ai-generated
 character_count: 293
 ---
 
-# Parasitic Spores
+# Parasitic Spores - Ability ID 609
 
-**Ability ID**: 609
-**Type**: Regular Ability
-
-**In-Game Description**: "Deals 1/8 HP damage to non-Ghost. Spreads on contact."
+## In-Game Description
+"Deals 1/8 HP damage to non-Ghost. Spreads on contact."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, coats the user in parasitic spores. Each turn, affected Pokémon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokémon can be infected at once.
+On switch-in, coats the user in parasitic spores. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokemon can be infected at once.
 
-*Character count: 293*
+## Detailed Mechanical Explanation
 
-## Detailed Mechanical Explanation (Discord/Reference)
-
-**Parasitic Spores** is a multi-faceted ability that both inflicts damage over time and spreads to other Pokémon through contact moves.
+**Parasitic Spores** is a multi-faceted ability that both inflicts damage over time and spreads to other Pokemon through contact moves.
 
 ### Core Mechanics
 1. **Initial Application (On Entry)**: Sets the `parasiticSpores` volatile flag for the battler
@@ -31,12 +27,12 @@ On switch-in, coats the user in parasitic spores. Each turn, affected Pokémon l
 
 ### Implementation Details
 - **Storage**: Uses `gVolatileStructs[battler].parasiticSpores` (1-bit flag)
-- **Persistence**: Lasts until Pokémon switches out or faints
+- **Persistence**: Lasts until Pokemon switches out or faints
 - **Message System**: Dedicated battle script messages for entry, spread, and damage
 
 ## Trigger Conditions
 
-- **Entry Effect**: Activates when Pokémon with this ability enters battle
+- **Entry Effect**: Activates when Pokemon with this ability enters battle
 - **Damage Trigger**: End-of-turn damage phase
 - **Spread Trigger**: When using contact moves against unaffected targets
 
@@ -57,7 +53,7 @@ On switch-in, coats the user in parasitic spores. Each turn, affected Pokémon l
 
 - **Turn Order**: Damage occurs between Toxic Waste and generic battler timers
 - **Self-Damage**: The original user still takes damage from their own spores
-- **Spread Immunity**: Pokémon already affected by spores cannot be affected again
+- **Spread Immunity**: Pokemon already affected by spores cannot be affected again
 - **Failed Moves**: Spread only occurs if the contact move successfully hits
 
 ## Notes

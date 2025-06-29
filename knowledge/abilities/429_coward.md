@@ -13,18 +13,16 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Coward automatically activates Protect on switch-in, providing complete immunity to attacks, status moves, and damage for one full turn. This protection only works once per battle entry, making it a powerful but limited defensive tool for fragile Pokémon or setting up strategies.
-
-*Character count: 280*
+Coward automatically activates Protect on switch-in, providing complete immunity to attacks, status moves, and damage for one full turn. This protection only works once per battle entry, making it a powerful but limited defensive tool for fragile Pokemon or setting up strategies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Coward is a single-use defensive ability that automatically activates Protect when the Pokémon switches into battle. This provides complete protection for one turn, but the effect can only be used once per battle entry.
+Coward is a single-use defensive ability that automatically activates Protect when the Pokemon switches into battle. This provides complete protection for one turn, but the effect can only be used once per battle entry.
 
 ### Activation Conditions
-- **Trigger**: Automatically activates when the Pokémon switches into battle
+- **Trigger**: Automatically activates when the Pokemon switches into battle
 - **Single-use**: Only works once per battle entry (tracked by single-use counter)
 - **Persistent**: The ability remains active throughout the battle for tracking purposes
 - **Timing**: Activates during switch-in, before any other actions
@@ -60,7 +58,7 @@ constexpr Ability Coward = {
 ### Single-Use Counter System
 - **GetSingleUseAbilityCounter**: Checks if the ability has been used this battle entry
 - **SetSingleUseAbilityCounter**: Marks the ability as used (TRUE = used, FALSE = available)
-- **Battle entry**: Counter resets when Pokémon is withdrawn and sent back out
+- **Battle entry**: Counter resets when Pokemon is withdrawn and sent back out
 - **Persistent flag**: Ensures the ability remains active for counter tracking
 
 ### Important Interactions
@@ -71,23 +69,23 @@ constexpr Ability Coward = {
 - **Switching**: Withdrawing and re-entering resets the single-use counter
 
 ### Strategic Applications
-- **Frail sweepers**: Guarantees safe setup turn for Glass Cannon Pokémon
+- **Frail sweepers**: Guarantees safe setup turn for Glass Cannon Pokemon
 - **Pivot protection**: Safe switching option for momentum control
 - **Scout opponent**: Forces opponent to reveal their intended move
 - **Stall breaking**: Wastes opponent's turn while setting up your strategy
 - **Revenge killing**: Protects against revenge attempts on switch-in
 
 ### Limitations
-- **One-time use**: Cannot be used again until Pokémon is withdrawn and re-entered
-- **Residual damage**: Entry hazards, weather, and status still affect the Pokémon
+- **One-time use**: Cannot be used again until Pokemon is withdrawn and re-entered
+- **Residual damage**: Entry hazards, weather, and status still affect the Pokemon
 - **Prediction dependent**: Opponent may switch or use setup moves
 - **Passive ability**: No offensive benefit, purely defensive
 - **Timing specific**: Only works on switch-in, not mid-battle
 
 ### Synergies
-- **Glass Cannon builds**: Paired with high-damage, low-defense Pokémon
+- **Glass Cannon builds**: Paired with high-damage, low-defense Pokemon
 - **Setup moves**: Guarantees one free turn of setup (Swords Dance, Calm Mind, etc.)
-- **Choice items**: Allows safe switching with Choice-locked Pokémon
+- **Choice items**: Allows safe switching with Choice-locked Pokemon
 - **Momentum control**: Enables safe pivoting in competitive play
 - **Revenge prevention**: Protects against common revenge killing attempts
 
@@ -106,10 +104,10 @@ constexpr Ability Coward = {
 - **Risk/reward**: High reward but limited usage requires careful timing
 
 ### Common Users
-- **Fragile sweepers**: Pokémon with high attack but low defenses
-- **Setup sweepers**: Pokémon that need one turn to become threatening
+- **Fragile sweepers**: Pokemon with high attack but low defenses
+- **Setup sweepers**: Pokemon that need one turn to become threatening
 - **Glass Cannon builds**: Maximum offensive investment with minimal bulk
-- **Pivot Pokémon**: Safe switching options for team momentum
+- **Pivot Pokemon**: Safe switching options for team momentum
 - **Revenge killers**: Protection against counter-revenge attempts
 
 ### Version History

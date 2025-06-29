@@ -15,8 +15,6 @@ character_count: 288
 
 Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover and Synthesis, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

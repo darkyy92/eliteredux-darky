@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. The type conversion applies to all Normal moves used by the Pokémon, including physical and special attacks. Perfect for mixed attackers wanting consistent STAB coverage.
-
-*Character count: 289*
+Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. The type conversion applies to all Normal moves used by the Pokemon, including physical and special attacks. Perfect for mixed attackers wanting consistent STAB coverage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -28,7 +26,7 @@ Fighting Spirit is an "ATE" (Normalize-type) ability that fundamentally changes 
 3. **ATE Boost Flag**: Sets the internal `ateBoost` flag when converting moves
 
 ### Activation Conditions
-- Triggers automatically when the Pokémon uses any Normal-type move
+- Triggers automatically when the Pokemon uses any Normal-type move
 - No activation requirements or conditions - passive ability
 - Works on all Normal-type moves regardless of category (physical/special/status)
 
@@ -73,14 +71,14 @@ Assuming 100 Base Attack, 100 Base Move Power, no other modifiers:
 - **Net Gain**: 50% damage increase for converted moves when user has Fighting typing
 
 ### Common Users
-Based on the codebase analysis, Fighting Spirit appears on various Pokémon as either a regular or innate ability. Commonly found on:
-- Fighting-type Pokémon that learn many Normal-type moves
+Based on the codebase analysis, Fighting Spirit appears on various Pokemon as either a regular or innate ability. Commonly found on:
+- Fighting-type Pokemon that learn many Normal-type moves
 - Mixed attackers that benefit from consistent STAB
-- Pokémon with diverse Normal-type movepools
+- Pokemon with diverse Normal-type movepools
 
 ### Competitive Usage Notes
 - **Offensive Utility**: Maximizes damage output from Normal-type moves
-- **Type Synergy**: Most effective on Fighting-types or Pokémon that can become Fighting-type
+- **Type Synergy**: Most effective on Fighting-types or Pokemon that can become Fighting-type
 - **Move Selection**: Prioritize high-power Normal moves in moveset planning
 - **Team Building**: Consider Fighting-type weaknesses when building around this ability
 

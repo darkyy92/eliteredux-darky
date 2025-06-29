@@ -2,25 +2,35 @@
 id: 365
 name: Lunar Eclipse
 status: ai-generated
-character_count: 0
+character_count: 285
 ---
 
-# Lunar Eclipse
+# Lunar Eclipse - Ability ID 365
 
-## Overview
+## In-Game Description
+"Grants STAB to Fairy and Dark moves. Boosts Hypnosis accuracy."
 
-**Lunar Eclipse** is ability #365 in Elite Redux, providing a unique combination of offensive and utility benefits. It grants STAB (Same Type Attack Bonus) to both Fairy and Dark-type moves regardless of the Pokémon's actual typing, while also boosting the accuracy of Hypnosis from 60% to 97.5%.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of the Pokemon's actual typing, providing a 1.5x damage multiplier. Additionally, it dramatically improves Hypnosis accuracy from 60% to 97.5%, making sleep strategies highly reliable.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+**Lunar Eclipse** is ability #365 in Elite Redux, providing a unique combination of offensive and utility benefits. It grants STAB (Same Type Attack Bonus) to both Fairy and Dark-type moves regardless of the Pokemon's actual typing, while also boosting the accuracy of Hypnosis from 60% to 97.5%.
 
 ## Mechanics
 
 ### STAB Enhancement
 - **Effect**: Grants 1.5x damage multiplier to Fairy and Dark-type moves
-- **Scope**: Works regardless of the Pokémon's actual typing
-- **Stacking**: Does not stack with natural STAB if the Pokémon is already Fairy or Dark type
+- **Scope**: Works regardless of the Pokemon's actual typing
+- **Stacking**: Does not stack with natural STAB if the Pokemon is already Fairy or Dark type
 
 ### Hypnosis Accuracy Boost
 - **Base Accuracy**: 60%
-- **Modified Accuracy**: 97.5% (60% × 1.5)
+- **Modified Accuracy**: 97.5% (60% x 1.5)
 - **Reliability**: Makes Hypnosis one of the most reliable sleep moves in the game
 
 ## Code Implementation
@@ -61,8 +71,8 @@ constexpr Ability Hypnotist = {
 ## Strategic Applications
 
 ### Offensive Versatility
-- Pokémon gain access to two additional offensive types with STAB
-- Particularly powerful on Pokémon with diverse movepools
+- Pokemon gain access to two additional offensive types with STAB
+- Particularly powerful on Pokemon with diverse movepools
 - Enables unexpected coverage options
 
 ### Sleep Strategy Support
@@ -75,7 +85,7 @@ constexpr Ability Hypnotist = {
 - Dark-type moves hit Psychic and Ghost types super effectively
 - Combined coverage helps against many common threats
 
-## Pokémon with Lunar Eclipse
+## Pokemon with Lunar Eclipse
 
 ### As Innate Ability
 1. **Lunatone** - Rock/Psychic type gains Fairy/Dark STAB
@@ -101,7 +111,7 @@ constexpr Ability Hypnotist = {
 - **Opportunity Cost**: Competes with other powerful abilities
 
 ### Tier Placement
-Most Pokémon with Lunar Eclipse are in higher tiers (3-4), reflecting the ability's power level and the strong base stats of its users.
+Most Pokemon with Lunar Eclipse are in higher tiers (3-4), reflecting the ability's power level and the strong base stats of its users.
 
 ## Related Abilities
 
@@ -127,3 +137,4 @@ Most Pokémon with Lunar Eclipse are in higher tiers (3-4), reflecting the abili
 ## Thematic Design
 
 Lunar Eclipse reflects the celestial event where the moon passes through Earth's shadow, symbolically representing the duality of light (Fairy) and shadow (Dark) types. The enhanced Hypnosis accuracy ties into the moon's traditional association with sleep and dreams, making this a thematically cohesive ability that bridges offensive and utility functions.
+

@@ -2,16 +2,20 @@
 id: 195
 name: Water Compaction
 status: ai-generated
-character_count: 289
+character_count: 291
 ---
 
-# Water Compaction Analysis
+# Water Compaction - Ability ID 195
 
-## Current Implementation
-**Ability ID:** 195  
-**Current Description:** "Takes 1/2 dmg from Water-type moves. +2 Def when hit by those."
+## In-Game Description
+"Takes 1/2 dmg from Water-type moves. +2 Def when hit by those."
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Water Compaction reduces damage from Water-type moves by 50% and raises Defense by 2 stages when hit by Water moves. Both effects trigger on the same Water attack - first the damage reduction applies, then the Defense boost activates if the Pokemon can still raise its Defense stat further.
+
+## Detailed Mechanical Explanation
 
 ### Defensive Multiplier
 - **Effect:** Takes 0.5x damage from Water-type moves
@@ -40,7 +44,7 @@ character_count: 289
 
 ### Edge Cases
 - Works against both damaging and non-damaging Water-type moves
-- Stat boost only triggers if the Pokémon can still raise its Defense
+- Stat boost only triggers if the Pokemon can still raise its Defense
 - Does not activate if the ability is suppressed
 
 ## Battle Applications
@@ -59,3 +63,4 @@ character_count: 289
 - **Main Implementation:** `/src/abilities.cc` - `WaterCompaction` ability
 - **Constants:** `/include/generated/constants/abilities.h` - `ABILITY_WATER_COMPACTION = 195`
 - **Description:** `/proto/AbilityList.textproto`
+

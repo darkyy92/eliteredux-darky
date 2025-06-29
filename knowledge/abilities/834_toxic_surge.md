@@ -5,17 +5,15 @@ status: ai-generated
 character_count: 296
 ---
 
-# Toxic Surge
+# Toxic Surge - Ability ID 834
 
-## Basic Information
-- **Ability ID**: 834
-- **Name**: Toxic Surge
-- **Basic Description**: sets Toxic Terrain on entry.
+## In-Game Description
+Sets Toxic Terrain on entry.
 
 ## Extended In-Game Description
-Toxic Surge automatically sets Toxic Terrain when the Pokémon enters battle. The toxic sludge covers the battlefield for 5 turns (8 with Terrain Extender). Each turn, grounded Pokémon that aren't Poison or Steel-type take damage equal to 1/16 of their max HP. Flying-types and Levitate users avoid damage unless grounded.
+Toxic Surge automatically sets Toxic Terrain when the Pokemon enters battle. The toxic sludge covers the battlefield for 5 turns (8 with Terrain Extender). Each turn, grounded Pokemon that aren't Poison or Steel-type take damage equal to 1/16 of their max HP. Flying-types and Levitate users avoid damage unless grounded.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Terrain Activation
 - Triggers immediately upon switch-in or battle start
@@ -25,7 +23,7 @@ Toxic Surge automatically sets Toxic Terrain when the Pokémon enters battle. Th
 
 ### Toxic Terrain Effects
 1. **End-of-turn Damage**:
-   - Deals 1/16 max HP damage to grounded Pokémon
+   - Deals 1/16 max HP damage to grounded Pokemon
    - Poison and Steel types are immune to damage
    - Flying-types and Levitate users avoid damage unless grounded
    - Magic Guard and abilities with toxicTerrainImmune flag prevent damage
@@ -44,7 +42,7 @@ Toxic Surge automatically sets Toxic Terrain when the Pokémon enters battle. Th
 - Damage script: `BattleScript_ToxicTerrainDamages`
 - Terrain type for moves: `TYPE_POISON`
 
-## Competitive Analysis
+### Competitive Analysis
 
 ### Strengths
 - Provides passive chip damage to most opponents
@@ -54,7 +52,7 @@ Toxic Surge automatically sets Toxic Terrain when the Pokémon enters battle. Th
 
 ### Weaknesses
 - No damage boost to Poison-type moves (unlike other terrains)
-- Many common Pokémon are immune (Steel, Poison, Flying types)
+- Many common Pokemon are immune (Steel, Poison, Flying types)
 - Can be overwritten by other terrain setters
 - Limited offensive utility compared to other surge abilities
 
@@ -64,7 +62,7 @@ Toxic Surge automatically sets Toxic Terrain when the Pokémon enters battle. Th
 - Consider Terrain Extender to maintain field control
 - Combine with hazards for increased passive damage
 
-## Similar Abilities
+### Similar Abilities
 - Electric Surge (sets Electric Terrain)
 - Grassy Surge (sets Grassy Terrain)
 - Misty Surge (sets Misty Terrain)

@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Wind Power grants the Pokémon the Charged status when hit by wind-based moves like Gust, Tailwind, Whirlwind, or Blizzard. The Charged status doubles the power of Electric-type moves until used. Only activates once per battle unless status is consumed, making it ideal for Electric sweepers.
-
-*Character count: 298*
+Wind Power grants the Pokemon the Charged status when hit by wind-based moves like Gust, Tailwind, Whirlwind, or Blizzard. The Charged status doubles the power of Electric-type moves until used. Only activates once per battle unless status is consumed, making it ideal for Electric sweepers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -103,7 +101,7 @@ if (gStatuses3[battlerAtk] & STATUS3_CHARGED_UP && moveType == TYPE_ELECTRIC)
 - With STAB + Charged: 270 BP (1.5x STAB)
 
 **Hurricane Setup Example:**
-1. Opponent uses Hurricane (wind move) → Wind Power activates
+1. Opponent uses Hurricane (wind move) to Wind Power activates
 2. User becomes charged (STATUS3_CHARGED_UP)
 3. User's next Electric move deals double damage
 4. Status is consumed after use, requiring another wind move to reactivate

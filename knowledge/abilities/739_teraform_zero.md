@@ -15,8 +15,6 @@ character_count: 285
 
 Teraform Zero reduces super effective damage to 50% when at full HP like Tera Shell, and clears all weather and terrain upon first entry. Only activates once per battle entry. Provides both defensive protection and field control by neutralizing environmental hazards.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -27,7 +25,7 @@ Teraform Zero is a hybrid defensive/utility ability that combines two distinct e
 
 ### Tera Shell Component
 - **Damage reduction**: Reduces super effective moves to 50% damage when at full HP
-- **HP requirement**: Only works when the Pokémon is at maximum HP
+- **HP requirement**: Only works when the Pokemon is at maximum HP
 - **Type coverage**: Affects all super effective attacks regardless of type
 - **Breakable**: Can be suppressed by Mold Breaker and similar abilities
 
@@ -126,9 +124,9 @@ The `BattleScript_TeraformZero` script:
 - **Prediction reliance**: Requires good prediction for optimal switching
 
 ### Common Users and Archetypes
-- **Bulky pivots**: Pokémon that frequently switch in
+- **Bulky pivots**: Pokemon that frequently switch in
 - **Defensive walls**: Tanks that need protection from super effective hits
-- **Field controllers**: Pokémon focused on disrupting opponent strategies
+- **Field controllers**: Pokemon focused on disrupting opponent strategies
 - **Revenge killers**: Fast attackers that need safe entry opportunities
 
 ### Competitive Viability
@@ -137,7 +135,7 @@ The `BattleScript_TeraformZero` script:
 - **Switch advantage**: Provides immediate board control on entry
 - **Resource management**: Single-use nature requires strategic timing
 
-### Synergistic Abilities (for multi-ability Pokémon)
+### Synergistic Abilities (for multi-ability Pokemon)
 - **Weather/terrain setters**: Can clear opponent's field then set your own
 - **Speed control**: Abilities that help capitalize on safe entry
 - **Recovery abilities**: Help maintain full HP for Tera Shell component

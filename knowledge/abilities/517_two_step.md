@@ -15,8 +15,6 @@ character_count: 295
 
 Two Step triggers after successfully using any dance move, automatically following up with Revelation Dance at 50% power. The follow-up move matches the user's primary type and targets the same foe. Works with moves like Quiver Dance, Swords Dance, and other dance attacks for combo potential.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -73,8 +71,8 @@ The ability works with moves that have the `dance: true` flag or are affected by
 
 ### Optimal Users
 - **Oricorio forms**: Natural dance move users with different primary types
-- **Multi-type Pokémon**: Benefit from type-matching Revelation Dance
-- **Setup sweepers**: Pokémon that use stat-boosting dance moves
+- **Multi-type Pokemon**: Benefit from type-matching Revelation Dance
+- **Setup sweepers**: Pokemon that use stat-boosting dance moves
 - **Special attackers**: Revelation Dance is a special move
 - **Speed control users**: Can use dance moves for speed control then attack
 
@@ -108,5 +106,5 @@ The ability works with moves that have the `dance: true` flag or are affected by
 ### Version History
 - New ability introduced in Elite Redux
 - Part of the expanded ability system focusing on move combinations
-- Unique to Elite Redux, not present in official Pokémon games
+- Unique to Elite Redux, not present in official Pokemon games
 - Represents the "combo" archetype of abilities in the expanded roster

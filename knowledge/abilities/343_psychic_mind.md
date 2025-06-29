@@ -2,16 +2,27 @@
 id: 343
 name: Psychic Mind
 status: ai-generated
-character_count: 0
+character_count: 289
 ---
 
-# Psychic Mind
+# Psychic Mind - Ability ID 343
 
-**Ability ID:** 343  
-**Type:** Offensive Multiplier  
-**Activation:** HP-based threshold  
+## In-Game Description
+"Boosts Psychic-type moves by 1.2x, or 1.5x when HP is low."
 
-## Overview
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Boosts Psychic-type moves by 1.2x damage. When HP drops to 1/3 or less, boost increases to 1.5x damage. Works on both physical and special Psychic-type moves. Multiplies with STAB and other damage modifiers. Follows the classic pinch ability pattern like Blaze or Torrent.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
+- **Ability ID:** 343  
+- **Type:** Offensive Multiplier  
+- **Activation:** HP-based threshold
+
+### Overview
 
 Psychic Mind is a signature ability that enhances the power of Psychic-type moves based on the user's remaining HP. This ability follows the classic "pinch ability" pattern, providing moderate enhancement at full health that dramatically increases when the user becomes desperate.
 

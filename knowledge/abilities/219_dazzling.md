@@ -15,8 +15,6 @@ character_count: 299
 
 Dazzling blocks all priority moves from opponents targeting the user or allies. Works against moves with priority +1 or higher like Quick Attack, Extremespeed, and Sucker Punch. Also prevents priority status moves like Thunder Wave and Spore. Essential for protecting frail sweepers and setup Pokemon from revenge killing attempts.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

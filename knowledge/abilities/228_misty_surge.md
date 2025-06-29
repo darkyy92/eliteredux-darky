@@ -13,14 +13,12 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Misty Surge automatically sets Misty Terrain when the Pokémon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokémon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
-
-*Character count: 295*
+Misty Surge automatically sets Misty Terrain when the Pokemon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Misty Surge is an automatic terrain-setting ability that activates when the Pokémon enters battle.
+Misty Surge is an automatic terrain-setting ability that activates when the Pokemon enters battle.
 
 ### Core Mechanics
 - **Activation**: Triggers immediately upon switching in or at the start of battle
@@ -29,9 +27,9 @@ Misty Surge is an automatic terrain-setting ability that activates when the Pok�
 - **Overrides**: Replaces any existing terrain when activated
 
 ### Misty Terrain Effects
-1. **Status Immunity**: Grounded Pokémon are completely immune to all major status conditions (Sleep, Poison, Burn, Paralysis, Freeze/Frostbite, Bleed)
-2. **Fairy-type Move Boost**: Fairy-type moves used by grounded Pokémon receive a 30% power increase
-3. **Item Activation**: Automatically activates Misty Seeds held by grounded Pokémon, boosting Special Defense by 1 stage
+1. **Status Immunity**: Grounded Pokemon are completely immune to all major status conditions (Sleep, Poison, Burn, Paralysis, Freeze/Frostbite, Bleed)
+2. **Fairy-type Move Boost**: Fairy-type moves used by grounded Pokemon receive a 30% power increase
+3. **Item Activation**: Automatically activates Misty Seeds held by grounded Pokemon, boosting Special Defense by 1 stage
 4. **Move Interactions**: 
    - Misty Explosion receives 1.5x power when used in Misty Terrain
    - Moves with terrain-boosting effects get enhanced power (30% boost for certain moves)
@@ -60,7 +58,7 @@ constexpr Ability MistySurge = {
 ### Interactions with Other Abilities/Mechanics
 - **Overrides**: Electric Surge, Grassy Surge, Psychic Surge, Toxic Surge
 - **Terrain Extenders**: Terrain Extender item extends duration from 8 to 12 turns
-- **Airborne Pokémon**: Flying-types and Levitate users are unaffected by terrain benefits but still affected by Fairy-type boost if grounded by moves like Smack Down
+- **Airborne Pokemon**: Flying-types and Levitate users are unaffected by terrain benefits but still affected by Fairy-type boost if grounded by moves like Smack Down
 - **Infiltrator**: Does not bypass terrain effects (terrain affects the field, not sides)
 
 ### Strategic Implications
@@ -72,24 +70,24 @@ constexpr Ability MistySurge = {
 ### Common Users
 In Elite Redux, Misty Surge is typically found on:
 - Tapu Fini (primary user)
-- Other Fairy-type legendaries or specially designed Pokémon
-- Custom Elite Redux Pokémon designed for terrain support
+- Other Fairy-type legendaries or specially designed Pokemon
+- Custom Elite Redux Pokemon designed for terrain support
 
 ### Competitive Usage Notes
-- **Team Building**: Often paired with Fairy-type attackers and defensive Pokémon vulnerable to status
+- **Team Building**: Often paired with Fairy-type attackers and defensive Pokemon vulnerable to status
 - **Lead Position**: Commonly used as a lead to establish terrain control early
 - **Switching Strategy**: Can be brought in mid-battle to reset terrain and provide status immunity
 - **Terrain Wars**: Priority in terrain setting often determines matchup outcomes
 
 ### Counters
 - **Terrain Override**: Other Surge abilities, Terrain moves, or abilities that change terrain
-- **Airborne Moves**: Magnet Rise, Telekinesis make Pokémon immune to terrain effects
-- **Utility**: Pokémon with Natural Cure or other status-clearing abilities reduce the defensive value
+- **Airborne Moves**: Magnet Rise, Telekinesis make Pokemon immune to terrain effects
+- **Utility**: Pokemon with Natural Cure or other status-clearing abilities reduce the defensive value
 
 ### Synergies
 - **Fairy-type Attackers**: Pixilate, Sylveon, Gardevoir benefit from terrain boost
-- **Status-Vulnerable Pokémon**: Physical attackers weak to burn, fast Pokémon weak to paralysis
-- **Seed Users**: Pokémon holding Misty Seeds get immediate Special Defense boost
+- **Status-Vulnerable Pokemon**: Physical attackers weak to burn, fast Pokemon weak to paralysis
+- **Seed Users**: Pokemon holding Misty Seeds get immediate Special Defense boost
 - **Defensive Cores**: Pairs well with other defensive abilities and moves
 
 ### Version History

@@ -13,18 +13,16 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fae Hunter deals 1.5x damage to Fairy-type Pokémon and takes 0.5x damage from Fairy-type attacks. This dual offensive and defensive type effectiveness modification makes it excellent against Fairy-types while providing resistance to their moves. Works on Fairy moves regardless of secondary typing.
-
-*Character count: 298*
+Fae Hunter deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage from Fairy-type attacks. This dual offensive and defensive type effectiveness modification makes it excellent against Fairy-types while providing resistance to their moves. Works on Fairy moves regardless of secondary typing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Fae Hunter is a dual-purpose ability that modifies type effectiveness specifically against Fairy-type Pokémon and moves. It provides both offensive and defensive benefits, making the user a dedicated Fairy-type counter.
+Fae Hunter is a dual-purpose ability that modifies type effectiveness specifically against Fairy-type Pokemon and moves. It provides both offensive and defensive benefits, making the user a dedicated Fairy-type counter.
 
 ### Activation Conditions
-- **Offensive boost**: 1.5x damage multiplier when attacking Fairy-type Pokémon
+- **Offensive boost**: 1.5x damage multiplier when attacking Fairy-type Pokemon
 - **Defensive boost**: 0.5x damage multiplier when taking damage from Fairy-type moves
 - **Type checking**: Checks target's typing for offensive boost, attacker's move type for defensive boost
 - **Always active**: No turn-based activation requirements
@@ -45,7 +43,7 @@ constexpr Ability FaeHunter = {
 ```
 
 ### Important Interactions
-- **Dual-type Pokémon**: Works on any Pokémon with Fairy as primary or secondary type
+- **Dual-type Pokemon**: Works on any Pokemon with Fairy as primary or secondary type
 - **Move type checking**: Defensive boost applies to any Fairy-type move regardless of user's type
 - **Damage calculation**: Applied as a standard damage multiplier in the damage formula
 - **Breakable**: Can be suppressed by Mold Breaker, Teravolt, and Turboblaze
@@ -65,9 +63,9 @@ constexpr Ability FaeHunter = {
 - **Team role**: Natural fit for anti-Fairy specialist roles
 
 ### Common Users
-- Dark-type Pokémon that naturally resist Fairy moves
-- Steel-type Pokémon with existing Fairy resistance
-- Pokémon designed as Fairy-type counters
+- Dark-type Pokemon that naturally resist Fairy moves
+- Steel-type Pokemon with existing Fairy resistance
+- Pokemon designed as Fairy-type counters
 - Physical attackers that need Fairy-type coverage
 
 ### Competitive Usage Notes

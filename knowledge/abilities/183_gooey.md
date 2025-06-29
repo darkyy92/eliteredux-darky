@@ -2,22 +2,24 @@
 id: 183
 name: Gooey
 status: ai-generated
-character_count: 301
+character_count: 292
 ---
 
-# Gooey (Ability ID: 183)
+# Gooey - Ability ID 183
 
-## Short Description
-Lowers Speed of enemies that make contact with this Pokémon.
+## In-Game Description
+"Lowers Speed of enemies that make contact with this Pokemon."
 
 ## Extended In-Game Description
-When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This unique ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace, embodying their slimy nature.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Mechanical Analysis
+When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace through their slimy nature.
+
+## Detailed Mechanical Explanation
 
 ### Activation Conditions
-- Triggered when the Pokémon with Gooey is hit by a contact move
-- Only activates if the attacking Pokémon's Speed can be lowered (not at -6)
+- Triggered when the Pokemon with Gooey is hit by a contact move
+- Only activates if the attacking Pokemon's Speed can be lowered (not at -6)
 - Checks for immunity effects like Mirror Armor before applying
 
 ### Effects
@@ -66,10 +68,10 @@ constexpr Ability Gooey = {
 
 ## Thematic Design
 
-### Pokémon Association
+### Pokemon Association
 Gooey is commonly found on:
-- **Goodra Line**: The classic gooey dragon Pokémon
-- **Sticky/Slimy Types**: Various Pokémon with viscous or adhesive properties
+- **Goodra Line**: The classic gooey dragon Pokemon
+- **Sticky/Slimy Types**: Various Pokemon with viscous or adhesive properties
 - **Defensive Builds**: Often paired with other defensive abilities as innates
 
 ### Flavor Connection

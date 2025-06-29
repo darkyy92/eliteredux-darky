@@ -15,8 +15,6 @@ character_count: 289
 
 Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert back to Meteor Form once transformed during battle.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -41,15 +39,15 @@ Key code components:
 - **Shell Smash Override**: Uses `EFFECT_SHELL_SMASH` detection to force immediate transformation
 - **Ability State**: Uses ability state tracking to prevent reverting to Meteor Form
 
-### Affected Pokémon
+### Affected Pokemon
 - **Minior** (all color variants):
-  - Meteor Orange → Core Orange
-  - Meteor Yellow → Core Yellow
-  - Meteor Green → Core Green
-  - Meteor Blue → Core Blue
-  - Meteor Indigo → Core Indigo
-  - Meteor Violet → Core Violet
-  - Red (default) → Core Red
+  - Meteor Orange to Core Orange
+  - Meteor Yellow to Core Yellow
+  - Meteor Green to Core Green
+  - Meteor Blue to Core Blue
+  - Meteor Indigo to Core Indigo
+  - Meteor Violet to Core Violet
+  - Red (default) to Core Red
 
 ### Strategic Implications
 **Meteor Form Advantages:**
@@ -81,5 +79,5 @@ Key code components:
 
 ### Version History
 - Elite Redux implementation includes all Minior color variants
-- Maintains official Pokémon mechanics with enhanced form variety
+- Maintains official Pokemon mechanics with enhanced form variety
 - Integrated with the game's HP transformation system

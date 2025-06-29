@@ -15,13 +15,11 @@ character_count: 294
 
 Combustion increases the power of all Fire-type moves by 50%. This ability amplifies the base power of Fire attacks before damage calculations, making every flame-based move significantly stronger. Excellent for Fire-type attackers who want consistent damage boosts.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Combustion is an offensive ability that provides a consistent 1.5x power boost to all Fire-type moves used by the Pokémon. The boost is applied as a multiplicative modifier to the base power of Fire-type attacks.
+Combustion is an offensive ability that provides a consistent 1.5x power boost to all Fire-type moves used by the Pokemon. The boost is applied as a multiplicative modifier to the base power of Fire-type attacks.
 
 ### Activation Conditions
 - **Move type requirement**: Only affects Fire-type moves
@@ -49,7 +47,7 @@ Combustion affects all Fire-type moves including:
 - **Variable power moves**: Boost applies to calculated base power
 
 ### Important Interactions
-- **STAB stacking**: Stacks multiplicatively with STAB (1.5x × 1.5x = 2.25x total)
+- **STAB stacking**: Stacks multiplicatively with STAB (1.5x x 1.5x = 2.25x total)
 - **Item boosts**: Stacks with Charcoal, Heat Rock (if applicable)
 - **Weather synergy**: Combines with sun's Fire-type boost
 - **Critical hits**: Boost applies before crit calculation
@@ -57,30 +55,30 @@ Combustion affects all Fire-type moves including:
 
 ### Damage Calculation Order
 1. Base power of Fire-type move
-2. Combustion multiplier (×1.5)
-3. STAB multiplier (×1.5 if Fire-type user)
+2. Combustion multiplier (x1.5)
+3. STAB multiplier (x1.5 if Fire-type user)
 4. Type effectiveness
 5. Critical hit multiplier
 6. Other modifiers (items, abilities, etc.)
 
 ### Strategic Implications
 - **Offensive powerhouse**: Transforms Fire-type users into heavy hitters
-- **STAB synergy**: Particularly powerful on Fire-type Pokémon
+- **STAB synergy**: Particularly powerful on Fire-type Pokemon
 - **Move diversity**: Benefits all Fire-type moves equally
 - **Sun team compatibility**: Excellent on sun teams for maximum Fire power
-- **Wall breaking**: Helps break through defensive Pokémon
+- **Wall breaking**: Helps break through defensive Pokemon
 - **Choice item synergy**: Pairs well with Choice Band/Specs
 
 ### Common Users
 - Fire-type attackers who want consistent damage
 - Mixed attackers with Fire-type coverage
 - Sun team sweepers and wallbreakers
-- Pokémon with access to powerful Fire-type moves
+- Pokemon with access to powerful Fire-type moves
 
 ### Competitive Usage Notes
 - Superior to type-specific items for Fire-type specialists
 - Allows flexibility in held item choice
-- Particularly valuable on Pokémon with wide Fire-type movesets
+- Particularly valuable on Pokemon with wide Fire-type movesets
 - Excellent for both physical and special Fire attackers
 - Can make weaker Fire moves competitively viable
 

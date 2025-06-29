@@ -2,14 +2,24 @@
 id: 349
 name: Overcharge
 status: ai-generated
-character_count: 0
+character_count: 292
 ---
 
-# Overcharge (Ability #349)
+# Overcharge - Ability ID 349
 
-## Overview
+## In-Game Description
+"Electric moves are super effective vs Electric-types and can paralyze them."
 
-Overcharge is a unique Elite Redux ability that fundamentally changes how Electric-type interactions work in battle. This ability makes Electric-type moves super effective (2x damage) against Electric-type Pokémon and allows Electric-type Pokémon to be paralyzed, completely bypassing their natural immunity.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Makes Electric-type moves super effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows Electric-type Pokemon to be paralyzed, bypassing their natural immunity. This double-edged sword grants powerful offense against Electric types but makes the user equally weak.
+
+## Detailed Mechanical Explanation
+
+### Overview
+
+Overcharge is a unique Elite Redux ability that fundamentally changes how Electric-type interactions work in battle. This ability makes Electric-type moves super effective (2x damage) against Electric-type Pokemon and allows Electric-type Pokemon to be paralyzed, completely bypassing their natural immunity.
 
 ## Code Implementation
 
@@ -38,7 +48,7 @@ constexpr Ability Overcharge = {
    - Overrides the default 0.5x (not very effective) modifier
 
 2. **Status Immunity Bypass:**
-   - Allows paralysis status to affect Electric-type Pokémon
+   - Allows paralysis status to affect Electric-type Pokemon
    - Bypasses the natural paralysis immunity of Electric-types
    - Works with any source of paralysis (moves, abilities, items)
 
@@ -54,9 +64,9 @@ constexpr Ability Overcharge = {
 - **Speed control:** Can be paralyzed by opposing Electric-types
 - **Risk vs reward:** Increased offensive power at the cost of defensive stability
 
-## Pokémon with Overcharge
+## Pokemon with Overcharge
 
-Based on trainer data analysis, Overcharge appears on various Electric-type Pokémon including:
+Based on trainer data analysis, Overcharge appears on various Electric-type Pokemon including:
 - Porygon line variants
 - Various Pikachu forms
 - Several legendary/mythical Electric-types
@@ -108,6 +118,7 @@ Overcharge is a high-impact ability that significantly alters battle dynamics. W
 2. **Prediction:** Use the surprise factor strategically in key matchups
 3. **Coverage:** Excellent for handling Electric-type walls and setup sweepers
 4. **Risk management:** Be aware of the increased vulnerability to Electric attacks
+
 
 ## Code References
 

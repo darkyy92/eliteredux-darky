@@ -8,14 +8,12 @@ character_count: 288
 # Tangling Hair - Ability ID 221
 
 ## In-Game Description
-"Lowers Speed of enemies that make contact with this Pokémon."
+"Lowers Speed of enemies that make contact with this Pokemon."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
 When hit by a contact move, the attacker becomes tangled in the user's hair, reducing their Speed by one stage. This sticky hair trap punishes physical contact attackers by slowing them down, making it harder for fast physical sweepers to maintain momentum. Bypasses Safeguard protection.
-
-*Character count: 288*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ When hit by a contact move, the attacker becomes tangled in the user's hair, red
 **TANGLING HAIR** is a contact-punishment ability identical to Gooey in mechanics, providing defensive utility by slowing down physical attackers.
 
 ### Core Mechanics
-- **Trigger**: When the Pokémon with Tangling Hair is hit by a contact move
+- **Trigger**: When the Pokemon with Tangling Hair is hit by a contact move
 - **Effect**: Reduces attacker's Speed by 1 stage (-1)
 - **Activation Conditions**: Only if attacker's Speed can be lowered (not already at -6 stages)
 - **Safeguard Bypass**: Ignores Safeguard protection on the attacker
@@ -92,19 +90,19 @@ The ability uses `BattleScript_GooeyActivates` which:
 
 ### Example Damage Calculations
 Tangling Hair doesn't affect damage calculation - it's a post-damage effect:
-- Opponent uses Close Combat → Deals full damage → Speed drops by 1 stage
-- Opponent at +1 Speed → After contact move → Now at base Speed (0 stages)
-- Multiple contact hits in one turn → Only one Speed drop per turn
+- Opponent uses Close Combat to Deals full damage to Speed drops by 1 stage
+- Opponent at +1 Speed to After contact move to Now at base Speed (0 stages)
+- Multiple contact hits in one turn to Only one Speed drop per turn
 
 ### Common Users
-In Elite Redux, Pokémon commonly associated with Tangling Hair:
+In Elite Redux, Pokemon commonly associated with Tangling Hair:
 - **Dugtrio line**: Hair-like ground spikes
 - **Tangela/Tangrowth**: Vine hair that tangles
 - **Various grass types**: With hair-like appendages
 - **Custom distributions**: As innate abilities on defensive builds
 
 ### Competitive Usage Notes
-- **Physical Wall Support**: Excellent on bulky Pokémon that can tank contact moves
+- **Physical Wall Support**: Excellent on bulky Pokemon that can tank contact moves
 - **Speed Control Teams**: Fits well in teams needing passive speed manipulation  
 - **Setup Disruption**: Interferes with physical setup sweepers' momentum
 - **Contact Move Deterrent**: Makes opponents reconsider their move choices
@@ -150,5 +148,5 @@ In Elite Redux, Pokémon commonly associated with Tangling Hair:
 
 ### Version History
 - **Generation VII**: Introduced as signature ability of Alolan Dugtrio
-- **Elite Redux**: Maintains original mechanics, distributed to various Pokémon
+- **Elite Redux**: Maintains original mechanics, distributed to various Pokemon
 - **Implementation**: Shares exact code with Gooey for consistency

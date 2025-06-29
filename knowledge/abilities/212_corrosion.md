@@ -15,8 +15,6 @@ character_count: 289
 
 Poison-type moves become super effective against Steel-type Pokemon (2x damage instead of 0.5x). Additionally, this Pokemon can inflict poison status on any type, including Steel and Poison types that are normally immune. Useful for breaking through traditional poison immunities.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

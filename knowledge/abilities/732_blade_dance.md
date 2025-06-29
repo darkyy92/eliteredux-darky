@@ -15,8 +15,6 @@ character_count: 290
 
 Blade Dance triggers a 50 BP Leaf Blade follow-up attack immediately after using any dance move. Works with all dance moves including Swords Dance, Dragon Dance, Quiver Dance, and others with the dance flag. The follow-up Leaf Blade has high critical hit ratio and gains STAB if applicable.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -95,9 +93,9 @@ The ability also synergizes with the Taekkyeon ability, which makes all non-stat
 - Works well with critical hit increasing items/abilities
 
 ### Power Calculation Example
-- Base 50 BP × 1.5 STAB (if Grass-type) × 2.0 critical hit = 150 effective power
-- Without STAB: 50 BP × 2.0 critical hit = 100 effective power
-- Regular hit with STAB: 50 BP × 1.5 = 75 effective power
+- Base 50 BP x 1.5 STAB (if Grass-type) x 2.0 critical hit = 150 effective power
+- Without STAB: 50 BP x 2.0 critical hit = 100 effective power
+- Regular hit with STAB: 50 BP x 1.5 = 75 effective power
 
 ### Synergies
 - **Taekkyeon**: Makes all non-status moves trigger Blade Dance

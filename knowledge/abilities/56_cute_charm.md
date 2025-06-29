@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When making or receiving contact moves, has a 50% chance to infatuate the opponent. Works bidirectionally - triggers whether attacking or defending with contact moves. Infatuated Pokémon have reduced accuracy and may be unable to attack. Does not work on same-gender or genderless Pokémon.
-
-*Character count: 283*
+When making or receiving contact moves, has a 50% chance to infatuate the opponent. Works bidirectionally - triggers whether attacking or defending with contact moves. Infatuated Pokemon have reduced accuracy and may be unable to attack. Does not work on same-gender or genderless Pokemon.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -31,7 +29,7 @@ Cute Charm in Elite Redux provides bidirectional attraction with contact moves:
 
 2. **Gender Requirements**
    - Requires attacker and defender to have different genders
-   - Cannot affect genderless Pokémon (except with special abilities)
+   - Cannot affect genderless Pokemon (except with special abilities)
    - Normal gender compatibility rules apply
 
 ### Technical Implementation
@@ -75,8 +73,8 @@ From `src/battle_util.c`:
 
 ### Bidirectional Nature
 Unlike most contact abilities, Cute Charm uses `ON_EITHER_ABILITY` macro:
-- **As Attacker**: Can infatuate defending Pokémon when using contact moves
-- **As Defender**: Can infatuate attacking Pokémon when they use contact moves
+- **As Attacker**: Can infatuate defending Pokemon when using contact moves
+- **As Defender**: Can infatuate attacking Pokemon when they use contact moves
 
 ### Abilities Using Cute Charm's Effect
 Several Elite Redux abilities share this functionality:
@@ -105,13 +103,13 @@ Several Elite Redux abilities share this functionality:
 
 **Defensive Scenario**:
 ```
-Opponent uses Earthquake (contact) → 50% chance to infatuate
+Opponent uses Earthquake (contact) to 50% chance to infatuate
 If triggered: Opponent becomes infatuated, may skip turns
 ```
 
 **Offensive Scenario**:
 ```
-User with Cute Charm uses Thunder Punch → 50% chance to infatuate target
+User with Cute Charm uses Thunder Punch to 50% chance to infatuate target
 Creates potential setup opportunity or disruption
 ```
 
@@ -136,7 +134,7 @@ Creates potential setup opportunity or disruption
 
 ### Competitive Usage Notes
 - C+ tier ability providing moderate utility
-- Best on Pokémon that frequently make or receive contact
+- Best on Pokemon that frequently make or receive contact
 - More valuable in singles than doubles (higher contact frequency)
 - Gender distribution in meta heavily affects viability
 - AI rating: 4/10 (decent but situational)
@@ -153,11 +151,11 @@ Based on `base_stats.h` analysis:
 - **Clefairy/Clefable**: Versatile Fairy-types with support options
 - **Skitty/Delcatty**: Offensive Normal-types
 - **Lopunny**: Fast physical attacker
-- Various Pokémon as innate or selectable ability
+- Various Pokemon as innate or selectable ability
 
 ### Counters
 - **Same Gender Team**: Complete immunity through gender matching
-- **Genderless Pokémon**: Natural immunity (except vs special abilities)
+- **Genderless Pokemon**: Natural immunity (except vs special abilities)
 - **Oblivious**: Direct ability counter
 - **Aroma Veil Ally**: Team protection
 - **Long Reach/Protective Pads**: Prevents contact

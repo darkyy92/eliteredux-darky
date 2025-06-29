@@ -15,14 +15,12 @@ character_count: 294
 
 Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0. Moves like Quick Attack (+2), Fake Out (+3), Sucker Punch (+1), and Bullet Punch (+1) fail completely. The ability can be bypassed by Mold Breaker effects.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 Queenly Majesty provides complete immunity to priority moves for both the user and its ally in doubles battles. The ability triggers when:
-- An opposing Pokémon attempts to use a move with priority > 0
+- An opposing Pokemon attempts to use a move with priority > 0
 - The move targets the Queenly Majesty user or its ally
 - The move is not an "extra attack" (pursuit-like mechanics don't apply)
 
@@ -49,7 +47,7 @@ constexpr Ability QueenlyMajesty = {
 - **Negative Priority**: Moves like Trick Room are not affected
 
 ### Battle Message
-When a priority move is blocked: "*Pokémon cannot use [move name]!*" after the ability pop-up displays.
+When a priority move is blocked: "*Pokemon cannot use [move name]!*" after the ability pop-up displays.
 
 ### Interaction with Other Abilities/Items
 - **Mold Breaker**: Bypasses Queenly Majesty completely
@@ -76,7 +74,7 @@ When a priority move is blocked: "*Pokémon cannot use [move name]!*" after the 
 - **Team Role**: Primarily defensive utility, enables setup sweepers
 - **Doubles Impact**: Significantly more valuable in doubles than singles
 - **Meta Relevance**: Counters priority-heavy metagames effectively
-- **Positioning**: Best used on bulky Pokémon that can take non-priority hits
+- **Positioning**: Best used on bulky Pokemon that can take non-priority hits
 
 ### Counters and Limitations
 - **Mold Breaker abilities**: Completely bypass the protection
@@ -92,6 +90,6 @@ When a priority move is blocked: "*Pokémon cannot use [move name]!*" after the 
 - **Choice item users**: Prevents being revenge killed by priority after KOs
 
 ### Version History
-Queenly Majesty is based on the Generation VII ability but with Elite Redux's multi-ability system integration. In Elite Redux, it often appears as an innate ability rather than a main ability, providing additional utility to many Pokémon that wouldn't normally have access to priority protection.
+Queenly Majesty is based on the Generation VII ability but with Elite Redux's multi-ability system integration. In Elite Redux, it often appears as an innate ability rather than a main ability, providing additional utility to many Pokemon that wouldn't normally have access to priority protection.
 
 The ability is particularly notable for its implementation alongside Dazzling and Armor Tail, which share the same core mechanic but may have different secondary effects or distributions across the Pokédex.

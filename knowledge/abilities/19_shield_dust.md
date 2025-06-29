@@ -15,8 +15,6 @@ character_count: 293
 
 Shield Dust provides triple protection: blocks all secondary effects from damaging moves (burn, paralysis, stat drops), grants complete immunity to entry hazards (Stealth Rock, Spikes), and nullifies all powder-based moves. Elite Redux significantly expanded this ability's defensive coverage.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -103,8 +101,8 @@ Via the `powderImmune = TRUE` flag:
 - **Hazard Immunity**: `src/battle_util.c` (line 8306)
 - **Powder Immunity**: `src/battle_util.c` (line 3006)
 
-### Pokémon with Shield Dust
-Typically found on Bug-type Pokémon and those with protective scales or dusty coatings. The expanded immunities make it valuable on many defensive and support Pokémon.
+### Pokemon with Shield Dust
+Typically found on Bug-type Pokemon and those with protective scales or dusty coatings. The expanded immunities make it valuable on many defensive and support Pokemon.
 
 ### Competitive Usage Notes
 
@@ -127,7 +125,7 @@ Typically found on Bug-type Pokémon and those with protective scales or dusty c
 - Raw offensive pressure
 
 ### Synergies
-- Pivot Pokémon benefit from hazard immunity
+- Pivot Pokemon benefit from hazard immunity
 - Setup sweepers appreciate RNG protection
 - Defensive cores value consistent switches
 - Teams weak to hazards gain flexibility

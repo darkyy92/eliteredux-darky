@@ -13,9 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokémon also gains STAB on all Flying-type moves, even those not converted by this ability.
-
-*Character count: 283*
+Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokemon also gains STAB on all Flying-type moves, even those not converted by this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,8 +24,8 @@ Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affec
 - **Damage Boost**: Converted moves receive a 1.2x damage multiplier in addition to STAB
 
 ### Activation Conditions
-- Only affects Normal-type moves when used by the Pokémon with this ability
-- Must be the Pokémon's own moves (doesn't affect moves used via Metronome, etc.)
+- Only affects Normal-type moves when used by the Pokemon with this ability
+- Must be the Pokemon's own moves (doesn't affect moves used via Metronome, etc.)
 - Works on both physical and special Normal-type moves
 
 ### Technical Implementation
@@ -83,17 +81,17 @@ All Normal-type moves become Flying-type, including but not limited to:
 - Provides better coverage against Fighting/Bug/Grass types
 
 ### Example Damage Calculations
-**Hyper Voice** (90 BP Normal → Flying):
+**Hyper Voice** (90 BP Normal to Flying):
 - Base: 90 BP
 - Type conversion: Still 90 BP Flying-type
-- Aerilate boost: 90 × 1.2 = 108 BP
-- STAB (if user is Flying-type): 108 × 1.5 = 162 effective BP
+- Aerilate boost: 90 x 1.2 = 108 BP
+- STAB (if user is Flying-type): 108 x 1.5 = 162 effective BP
 - **Total effective power: 162 BP**
 
 **Return** (102 BP at max happiness):
 - Base: 102 BP
-- Aerilate boost: 102 × 1.2 = 122.4 BP
-- STAB: 122.4 × 1.5 = 183.6 effective BP
+- Aerilate boost: 102 x 1.2 = 122.4 BP
+- STAB: 122.4 x 1.5 = 183.6 effective BP
 - **Total effective power: ~184 BP**
 
 ### Common Users in Elite Redux
@@ -140,7 +138,7 @@ All Normal-type moves become Flying-type, including but not limited to:
 - Functions identically to Pixilate/Refrigerate/Galvanize but for Flying-type
 
 ### Related Abilities
-- **Pixilate**: Normal → Fairy conversion
-- **Refrigerate**: Normal → Ice conversion  
-- **Galvanize**: Normal → Electric conversion
-- **Normalize**: All moves → Normal (opposite effect)
+- **Pixilate**: Normal to Fairy conversion
+- **Refrigerate**: Normal to Ice conversion  
+- **Galvanize**: Normal to Electric conversion
+- **Normalize**: All moves to Normal (opposite effect)

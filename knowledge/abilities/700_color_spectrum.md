@@ -13,9 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Color Spectrum gives same-type attacks a 1.2x damage boost instead of the usual 1.5x STAB multiplier. At the end of each turn, the Pokémon randomly changes to a completely new type, avoiding Mystery and Stellar types. Both primary and secondary typing become the newly chosen type.
-
-*Character count: 281*
+Color Spectrum gives same-type attacks a 1.2x damage boost instead of the usual 1.5x STAB multiplier. At the end of each turn, the Pokemon randomly changes to a completely new type, avoiding Mystery and Stellar types. Both primary and secondary typing become the newly chosen type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -76,7 +74,7 @@ constexpr Ability ColorSpectrum = {
 - **Status effects**: Type change doesn't affect existing status conditions
 
 ### Optimal Usage
-- **Broad movepool**: Pokémon with diverse move types benefit most
+- **Broad movepool**: Pokemon with diverse move types benefit most
 - **Unpredictable attacker**: Excellent for catching opponents off-guard
 - **Coverage moves**: Can potentially get STAB on any move type
 - **Defensive mixup**: Changing resistances/weaknesses each turn
@@ -90,7 +88,7 @@ constexpr Ability ColorSpectrum = {
 - **Type-specific moves**: Abilities that require specific types may be unreliable
 
 ### Synergies
-- **Multi-type movesets**: Pokémon with Normal, Fighting, Flying, Electric, etc. moves
+- **Multi-type movesets**: Pokemon with Normal, Fighting, Flying, Electric, etc. moves
 - **Adaptability**: Can complement other type-changing abilities
 - **Coverage moves**: Shadow Ball, Thunderbolt, Ice Beam, etc.
 - **Neutral moves**: Normal-type moves gain STAB when becoming Normal-type

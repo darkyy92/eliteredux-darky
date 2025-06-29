@@ -13,9 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Aurora's Gale combines two powerful effects: boosts the Pokémon's Special Attack by 50% and automatically sets up Aurora Veil upon entry. Aurora Veil reduces incoming damage from all attacks by 50% in singles or 33% in doubles for 5 turns, providing both offensive power and defensive support.
-
-*Character count: 292*
+Aurora's Gale combines two powerful effects: boosts the Pokemon's Special Attack by 50% and automatically sets up Aurora Veil upon entry. Aurora Veil reduces incoming damage from all attacks by 50% in singles or 33% in doubles for 5 turns, providing both offensive power and defensive support.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -41,7 +39,7 @@ Aurora's Gale is a compound ability that combines the effects of Majestic Bird a
 - **Bypass conditions**: Cannot be bypassed by critical hits but can be bypassed by Infiltrator
 
 ### Activation Conditions
-- **Entry trigger**: Aurora Veil sets up automatically when the Pokémon enters battle
+- **Entry trigger**: Aurora Veil sets up automatically when the Pokemon enters battle
 - **Stat boost**: Special Attack boost is permanent while ability is active
 - **No weather requirement**: Unlike the move Aurora Veil, the ability doesn't require hail
 - **One-time setup**: Aurora Veil only sets up once per entry, not repeatedly
@@ -83,13 +81,13 @@ constexpr Ability AurorasGale = {
 - **Momentum control**: Forces opponents to make difficult switching decisions
 
 ### Common Users
-This is a signature ability, likely exclusive to specific Pokémon that embody both offensive prowess and protective instincts. Ideal for:
-- Special attacking Pokémon with support tendencies
-- Ice-type or Flying-type Pokémon with mystical themes
-- Pokémon that serve as both sweepers and team supporters
+This is a signature ability, likely exclusive to specific Pokemon that embody both offensive prowess and protective instincts. Ideal for:
+- Special attacking Pokemon with support tendencies
+- Ice-type or Flying-type Pokemon with mystical themes
+- Pokemon that serve as both sweepers and team supporters
 
 ### Competitive Usage Notes
-- **Lead potential**: Excellent for lead Pokémon that need immediate board control
+- **Lead potential**: Excellent for lead Pokemon that need immediate board control
 - **Late game sweeper**: Special Attack boost enables powerful late-game sweeps
 - **Team composition**: Works well in balanced teams needing both offense and defense
 - **Switch advantage**: Creates favorable switching scenarios for teammates
@@ -113,10 +111,10 @@ This is a signature ability, likely exclusive to specific Pokémon that embody b
 - Elite Redux exclusive ability
 - Combines elements from Generation VII (Aurora Veil) with stat multiplication
 - Part of the compound ability system in Elite Redux
-- Designed for Pokémon that need both immediate offensive power and team support
+- Designed for Pokemon that need both immediate offensive power and team support
 
 ### Notes
 - This ability represents the pinnacle of offensive-defensive hybrid design
 - The lack of weather requirement makes it more reliable than the Aurora Veil move
 - Both components activate simultaneously, making it extremely value-efficient
-- May be exclusive to legendary or pseudo-legendary Pokémon due to its power level
+- May be exclusive to legendary or pseudo-legendary Pokemon due to its power level

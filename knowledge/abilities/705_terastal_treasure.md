@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Terastal Treasure reduces incoming damage by 40% while lowering the Pokémon's Speed by 20%. This defensive trade-off allows tanks to survive powerful attacks at the cost of reduced priority. The damage reduction applies to all forms of damage including physical, special, and status-based damage.
-
-*Character count: 296*
+Terastal Treasure reduces incoming damage by 40% while lowering the Pokemon's Speed by 20%. This defensive trade-off allows tanks to survive powerful attacks at the cost of reduced priority. The damage reduction applies to all forms of damage including physical, special, and status-based damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -54,7 +52,7 @@ constexpr Ability TerastalTreasure = {
 - **Damage calculation order**: Applied during defensive multiplier phase
 - **Speed priority**: Affects move order and priority bracket determination
 - **Choice items**: Speed reduction affects which moves go first with choice items
-- **Trick Room**: Makes the Pokémon faster in Trick Room due to lower effective Speed
+- **Trick Room**: Makes the Pokemon faster in Trick Room due to lower effective Speed
 
 ### Technical Implementation Notes
 - Uses `onDefensiveMultiplier` callback for damage reduction
@@ -63,18 +61,18 @@ constexpr Ability TerastalTreasure = {
 - Speed modification applies during stat calculation, not as a temporary boost/drop
 
 ### Strategic Implications
-- **Tank role enhancement**: Perfect for bulky defensive Pokémon
+- **Tank role enhancement**: Perfect for bulky defensive Pokemon
 - **Priority trade-off**: Sacrifices speed for survivability
-- **Wall potential**: Allows frail Pokémon to function as walls
+- **Wall potential**: Allows frail Pokemon to function as walls
 - **Trick Room synergy**: Lower speed becomes an advantage
 - **Setup opportunity**: Surviving hits allows more setup chances
 
 ### Optimal Users
-- Naturally bulky Pokémon who can afford the Speed drop
-- Pokémon with low Speed that benefit from the defense boost
+- Naturally bulky Pokemon who can afford the Speed drop
+- Pokemon with low Speed that benefit from the defense boost
 - Trick Room team members
 - Setup sweepers who need time to boost
-- Wall Pokémon looking for extra bulk
+- Wall Pokemon looking for extra bulk
 
 ### Counters and Weaknesses
 - **Ability suppression**: Mold Breaker variants remove both benefits

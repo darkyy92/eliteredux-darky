@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Parroting grants immunity to all sound-based moves like Soundproof, while also copying sound moves used by opponents. When an enemy uses a sound move, the Pokémon immediately retaliates with the same move. Combines offensive mimicry with defensive sound immunity.
-
-*Character count: 294*
+Parroting grants immunity to all sound-based moves like Soundproof, while also copying sound moves used by opponents. When an enemy uses a sound move, the Pokemon immediately retaliates with the same move. Combines offensive mimicry with defensive sound immunity.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -69,13 +67,13 @@ int IsSoundMove(int battler, MoveEnum move) {
 
 ### Timing and Execution
 - **Immediate Response**: Copied moves are executed using `UseOutOfTurnAttack`, triggering immediately after the original move
-- **No Turn Consumption**: The copied move doesn't use the Pokémon's turn
+- **No Turn Consumption**: The copied move doesn't use the Pokemon's turn
 - **Original Power**: Copied moves maintain their original power and effects
-- **Same Target**: The copied move targets the same Pokémon that used the original sound move
+- **Same Target**: The copied move targets the same Pokemon that used the original sound move
 
 ### Restrictions and Limitations
-- **Status Conditions**: Cannot copy moves if the Pokémon is asleep or frozen
-- **Dancer Prevention**: Cannot trigger if the Pokémon already used a Dancer-type move this turn
+- **Status Conditions**: Cannot copy moves if the Pokemon is asleep or frozen
+- **Dancer Prevention**: Cannot trigger if the Pokemon already used a Dancer-type move this turn
 - **Breakable**: This ability can be suppressed by moves like Gastro Acid or abilities like Neutralizing Gas
 - **Alive Requirement**: Must be alive to copy moves (except for specific abilities like Victory Bomb)
 
@@ -92,15 +90,15 @@ int IsSoundMove(int battler, MoveEnum move) {
 - **Versatile Coverage**: Gains access to diverse move types through copying
 
 ### Example Scenarios
-1. **Enemy uses Boomburst**: Parroting Pokémon is immune and immediately retaliates with Boomburst
-2. **Ally uses Heal Bell**: Parroting Pokémon copies Heal Bell, providing additional team healing
+1. **Enemy uses Boomburst**: Parroting Pokemon is immune and immediately retaliates with Boomburst
+2. **Ally uses Heal Bell**: Parroting Pokemon copies Heal Bell, providing additional team healing
 3. **Multi-target Round**: Can copy Round for potential power doubling effects
 
 ### Common Users
 Parroting is typically found on:
-- Sound-based Pokémon that need immunity to their own type of moves
-- Support Pokémon that can benefit from copying beneficial sound moves
-- Defensive Pokémon that want to counter sound-based attackers
+- Sound-based Pokemon that need immunity to their own type of moves
+- Support Pokemon that can benefit from copying beneficial sound moves
+- Defensive Pokemon that want to counter sound-based attackers
 
 ### Competitive Usage Notes
 - **Sound Meta Counter**: Excellent against teams relying on sound moves
@@ -115,9 +113,9 @@ Parroting is typically found on:
 - **Priority Moves**: Fast moves that don't rely on sound
 
 ### Synergies
-- **Soundproof Partners**: Team with other sound-immune Pokémon
+- **Soundproof Partners**: Team with other sound-immune Pokemon
 - **Sound Move Users**: Allies that can provide beneficial sound moves to copy
-- **Status Support**: Pairs well with Pokémon that can heal or support
+- **Status Support**: Pairs well with Pokemon that can heal or support
 
 ### Version History
 - **Elite Redux**: Custom ability combining Soundproof immunity with Dancer-like copying mechanics

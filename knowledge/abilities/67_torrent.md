@@ -13,9 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% when the Pokémon's HP drops below 1/3 of its maximum. This ability is signature to most Water-type starter Pokémon, providing consistent offensive pressure with a powerful emergency boost when needed.
-
-*Character count: 280*
+Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% when the Pokemon's HP drops below 1/3 of its maximum. This ability is signature to most Water-type starter Pokemon, providing consistent offensive pressure with a powerful emergency boost when needed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -50,7 +48,7 @@ Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% 
 1. **Emergency sweeper**: Provides comeback potential when near defeat
 2. **Consistent pressure**: 1.2x boost provides reliable damage even at high HP
 3. **Starter signature**: Most Water starter lines have this as their primary ability
-4. **Calculations**: At low HP with STAB in rain: 1.5 (STAB) × 1.5 (Torrent) × 1.5 (Rain) = 3.375x base power
+4. **Calculations**: At low HP with STAB in rain: 1.5 (STAB) x 1.5 (Torrent) x 1.5 (Rain) = 3.375x base power
 
 ### Technical Implementation:
 ```c
@@ -71,7 +69,7 @@ constexpr Ability Torrent = {
 
 ### Notable Users:
 - **Starter lines**: Squirtle, Wartortle, Blastoise, Totodile, Croconaw, Feraligatr, Mudkip, Marshtomp, Swampert, Piplup, Prinplup, Empoleon, Oshawott, Dewott, Samurott, Froakie, Frogadier, Greninja, Popplio, Brionne, Primarina, Sobble, Drizzile, Inteleon
-- **Other Water-types**: Various other Water-type Pokémon as innate abilities
+- **Other Water-types**: Various other Water-type Pokemon as innate abilities
 
 ### Competitive Notes:
 - Core ability for many Water-type sweepers and tanks

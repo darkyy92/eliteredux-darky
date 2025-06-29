@@ -15,8 +15,6 @@ character_count: 293
 
 Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20% each. The power boost affects damage calculations while the accuracy boost reduces the chance of missing. Works on all Fire moves like Flamethrower and Electric moves like Thunderbolt. Ideal for mixed attackers.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -59,9 +57,9 @@ constexpr Ability PlasmaLamp = {
 - **Priority**: ACCURACY_MULTIPLICATIVE (standard timing)
 - **Affected moves**: All Fire and Electric moves, including status moves
 - **Examples**:
-  - Thunder (70% accuracy → 84% accuracy)
-  - Fire Blast (85% accuracy → 102% accuracy, capped at 100%)
-  - Will-O-Wisp (85% accuracy → 102% accuracy, capped at 100%)
+  - Thunder (70% accuracy to 84% accuracy)
+  - Fire Blast (85% accuracy to 102% accuracy, capped at 100%)
+  - Will-O-Wisp (85% accuracy to 102% accuracy, capped at 100%)
 
 ### Move Type Coverage
 **Fire-type moves affected:**
@@ -84,23 +82,23 @@ constexpr Ability PlasmaLamp = {
 - **Type specialization**: Rewards mono-type or dual-type offensive sets
 
 ### Competitive Usage
-- **Ideal users**: Pokémon with strong Fire/Electric movesets
-- **Mixed sets**: Pokémon that run both physical and special Fire/Electric moves
+- **Ideal users**: Pokemon with strong Fire/Electric movesets
+- **Mixed sets**: Pokemon that run both physical and special Fire/Electric moves
 - **Accuracy-dependent moves**: Makes Thunder and Fire Blast more reliable
 - **STAB synergy**: Combines excellently with Fire/Electric dual-types
 - **Choice item synergy**: Boosts locked-in Fire/Electric moves
 
 ### Damage Calculations
 With STAB and Plasma Lamp on a Fire-type:
-- Base move power × 1.5 (STAB) × 1.2 (Plasma Lamp) = 1.8x total multiplier
-- Example: Flamethrower (90 BP) → 90 × 1.8 = 162 effective base power
+- Base move power x 1.5 (STAB) x 1.2 (Plasma Lamp) = 1.8x total multiplier
+- Example: Flamethrower (90 BP) to 90 x 1.8 = 162 effective base power
 
 ### Accuracy Calculations
 Examples of accuracy improvements:
-- Thunder: 70% → 84%
-- Fire Blast: 85% → 100% (capped)
-- Zap Cannon: 50% → 60%
-- Will-O-Wisp: 85% → 100% (capped)
+- Thunder: 70% to 84%
+- Fire Blast: 85% to 100% (capped)
+- Zap Cannon: 50% to 60%
+- Will-O-Wisp: 85% to 100% (capped)
 
 ### Synergistic Abilities
 - **Flash Fire**: Absorb Fire moves to boost power further
@@ -122,11 +120,11 @@ Examples of accuracy improvements:
 - **Ability suppression**: Mold Breaker, Neutralizing Gas disable the ability
 - **Type-changing moves**: Moves that change type lose the boost
 
-### Common Pokémon Synergies
+### Common Pokemon Synergies
 **Ideal candidates:**
 - Fire/Electric dual-types (Rotom-Heat forms)
 - Mixed attackers with both Fire and Electric moves
-- Pokémon with diverse Fire/Electric movesets
+- Pokemon with diverse Fire/Electric movesets
 - Bulky attackers that benefit from accuracy boosts
 
 **Move combinations:**

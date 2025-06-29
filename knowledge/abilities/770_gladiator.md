@@ -15,8 +15,6 @@ character_count: 299
 
 Empowers the inner warrior spirit, boosting all Fighting-type moves by 30% damage under normal conditions. When pushed to the brink with HP at 1/3 or below, the gladiator enters a desperate berserker state, amplifying Fighting moves by a massive 80% instead. Perfect for dramatic comeback victories.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

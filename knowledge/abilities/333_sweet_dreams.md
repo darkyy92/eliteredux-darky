@@ -2,34 +2,39 @@
 id: 333
 name: Sweet Dreams
 status: ai-generated
-character_count: 282
+character_count: 283
 ---
 
-# Sweet Dreams (Ability #333)
+# Sweet Dreams - Ability ID 333
 
-## Basic Information
-- **Ability ID**: 333
-- **Name**: Sweet Dreams
-- **Short Description**: Heals 1/8 of max HP every turn if asleep. Immune to Bad Dreams.
+## In-Game Description
+"Heals 1/8 of max HP every turn if asleep. Immune to Bad Dreams."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Sweet Dreams provides restorative healing while sleeping, regenerating exactly 1/8 of maximum HP at the end of each turn when the Pokémon is asleep or has the Comatose ability. Additionally, it grants complete immunity to Bad Dreams damage, making this a powerful defensive ability.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Detailed Mechanics
+Sweet Dreams provides restorative healing while sleeping, regenerating exactly 1/8 of maximum HP at the end of each turn when the Pokemon is asleep or has the Comatose ability. Additionally, it grants complete immunity to Bad Dreams damage, making this a powerful defensive ability.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
+- **Ability ID**: 333
+- **Name**: Sweet Dreams
+
+### Detailed Mechanics
 
 ### Healing Effect
 - **Trigger**: Activates at the end of each turn
-- **Condition**: Pokémon must be asleep (STATUS1_SLEEP) OR have the Comatose ability
+- **Condition**: Pokemon must be asleep (STATUS1_SLEEP) OR have the Comatose ability
 - **Healing Amount**: 1/8 of maximum HP (minimum 1 HP if calculation results in 0)
 - **Restrictions**: 
-  - Does not activate if Pokémon is at maximum HP
-  - Requires the Pokémon to be able to heal (checked via `CanBattlerHeal()`)
+  - Does not activate if Pokemon is at maximum HP
+  - Requires the Pokemon to be able to heal (checked via `CanBattlerHeal()`)
 
 ### Bad Dreams Immunity
-- **Complete Protection**: Pokémon with Sweet Dreams are completely immune to Bad Dreams damage
-- **Implementation**: The `trygetbaddreamstarget` battle script command specifically checks for Sweet Dreams ability and skips the Pokémon if present
-- **Battle Script**: When Bad Dreams attempts to target this Pokémon, it jumps to the "prevented" branch
+- **Complete Protection**: Pokemon with Sweet Dreams are completely immune to Bad Dreams damage
+- **Implementation**: The `trygetbaddreamstarget` battle script command specifically checks for Sweet Dreams ability and skips the Pokemon if present
+- **Battle Script**: When Bad Dreams attempts to target this Pokemon, it jumps to the "prevented" branch
 
 ## Code Implementation
 
@@ -60,7 +65,7 @@ else if (BattlerHasAbility(gBattlerTarget, ABILITY_SWEET_DREAMS, TRUE))
 ## Ability Interactions
 
 ### Synergistic Abilities
-- **Comatose**: Sweet Dreams healing triggers when Pokémon has Comatose, even if not actually asleep
+- **Comatose**: Sweet Dreams healing triggers when Pokemon has Comatose, even if not actually asleep
 - **Peaceful Slumber**: Uses Sweet Dreams as a base effect and adds additional healing (1/16 HP from Self Sufficient)
 
 ### Defensive Interactions

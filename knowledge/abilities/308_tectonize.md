@@ -13,9 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves. This allows Pokémon to use moves like Tackle, Hyper Beam, and Boomburst as powerful Ground-type attacks. The converted moves retain their original power and effects while gaining Ground typing benefits.
-
-*Character count: 296*
+Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves. This allows Pokemon to use moves like Tackle, Hyper Beam, and Boomburst as powerful Ground-type attacks. The converted moves retain their original power and effects while gaining Ground typing benefits.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,8 +21,8 @@ Tectonize converts all Normal-type moves into Ground-type moves and grants STAB 
 ### Core Mechanics
 Tectonize is an ATE (Ate-type) ability that functions similar to abilities like Pixilate, Refrigerate, and Aerilate. It provides two key effects:
 
-1. **Type Conversion**: All Normal-type moves used by the Pokémon become Ground-type moves
-2. **STAB Provision**: The Pokémon gains STAB (Same-Type Attack Bonus) for Ground-type moves, regardless of its actual typing
+1. **Type Conversion**: All Normal-type moves used by the Pokemon become Ground-type moves
+2. **STAB Provision**: The Pokemon gains STAB (Same-Type Attack Bonus) for Ground-type moves, regardless of its actual typing
 
 ### Technical Implementation
 ```cpp
@@ -43,21 +41,21 @@ constexpr Ability Tectonize = {
 
 ### Activation Conditions
 - The ability only affects Normal-type moves
-- The move must be used by the Pokémon with Tectonize
+- The move must be used by the Pokemon with Tectonize
 - Conversion happens before damage calculation and type effectiveness checks
 
 ### Damage Calculation
 **Important Note**: Unlike some other games, Tectonize in Elite Redux does NOT provide an inherent damage boost. The ability only converts type and provides STAB. Some other ATE abilities like Normalize, Crystallize, and Superconductor have explicit 1.1x multipliers, but standard ATE abilities like Tectonize do not.
 
 ### Affected Moves (Common Examples)
-- **Tackle** → Ground-type physical move
-- **Quick Attack** → Ground-type priority move  
-- **Hyper Beam** → Ground-type special move with recharge
-- **Body Slam** → Ground-type move with paralysis chance
-- **Double-Edge** → Ground-type move with recoil
-- **Boomburst** → Ground-type sound move
-- **Return/Frustration** → Ground-type moves based on friendship
-- **Explosion/Self-Destruct** → Ground-type suicide moves
+- **Tackle** to Ground-type physical move
+- **Quick Attack** to Ground-type priority move  
+- **Hyper Beam** to Ground-type special move with recharge
+- **Body Slam** to Ground-type move with paralysis chance
+- **Double-Edge** to Ground-type move with recoil
+- **Boomburst** to Ground-type sound move
+- **Return/Frustration** to Ground-type moves based on friendship
+- **Explosion/Self-Destruct** to Ground-type suicide moves
 
 ### Type Effectiveness Changes
 When Normal moves become Ground-type via Tectonize:
@@ -67,16 +65,16 @@ When Normal moves become Ground-type via Tectonize:
 - **Normal effectiveness**: All other types (1x damage)
 
 ### STAB Calculation
-- If the Pokémon has Ground as a natural type: 1.5x damage multiplier
-- If the Pokémon does not have Ground as a natural type: Still gets 1.5x via Tectonize's STAB provision
-- This means even Normal/Flying Pokémon would get STAB on converted Ground moves
+- If the Pokemon has Ground as a natural type: 1.5x damage multiplier
+- If the Pokemon does not have Ground as a natural type: Still gets 1.5x via Tectonize's STAB provision
+- This means even Normal/Flying Pokemon would get STAB on converted Ground moves
 
 ### Strategic Implications
 
 **Advantages**:
 - Converts typically neutral Normal moves into super-effective hits against common types
-- Provides STAB on Ground moves for non-Ground Pokémon
-- Useful on physically oriented Pokémon with strong Normal movesets
+- Provides STAB on Ground moves for non-Ground Pokemon
+- Useful on physically oriented Pokemon with strong Normal movesets
 - Can turn priority moves like Quick Attack into Ground-type priority
 
 **Disadvantages**:
@@ -94,13 +92,13 @@ Based on the codebase analysis, Tectonize can be found on:
 - **Lycanroc** (Rock/Ground) - Gains Ground STAB on Normal moves
 
 ### Competitive Usage Notes
-- Best used on Pokémon with strong physical Attack stats and good Normal movesets
+- Best used on Pokemon with strong physical Attack stats and good Normal movesets
 - Particularly effective against teams heavy on Electric, Fire, Rock, or Steel types
 - Should be paired with coverage moves to handle Flying types
 - Works well with choice items due to consistent type conversion
 
 ### Counters
-- **Flying-type Pokémon**: Completely immune to converted Ground moves
+- **Flying-type Pokemon**: Completely immune to converted Ground moves
 - **Levitate ability**: Grants immunity to the converted Ground moves  
 - **Air Balloon**: Temporarily immune until popped
 - **Telepathy**: In doubles, prevents damage from ally's converted moves

@@ -2,25 +2,28 @@
 id: 98
 name: Magic Guard
 status: ai-generated
-character_count: 405
+character_count: 292
 ---
 
-# Magic Guard
+# Magic Guard - Ability ID 98
 
-## Basic Information
+## In-Game Description
+Only damaged by attacks.
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Prevents all indirect damage: entry hazards (Stealth Rock, Spikes), weather (Sandstorm, Hail), poison/burn damage, Toxic, Curse, recoil from moves and Life Orb, Leech Seed, Nightmare, trap moves, Rocky Helmet/Rough Skin/Iron Barbs. Only direct attacks deal damage. Status effects still apply.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **Ability ID**: ABILITY_MAGIC_GUARD (98)
 - **Name**: Magic Guard
 - **Category**: Damage Prevention
 - **Introduced**: Generation IV
 
-## In-Game Description
-"Only damaged by attacks."
-
-## Extended In-Game Description
-Magic Guard protects the Pokémon from all forms of indirect damage including entry hazards, weather damage, status conditions, recoil, Life Orb damage, and Curse. The Pokémon can only be damaged by direct attacks from opponents. This makes it ideal for defensive strategies and allows safe use of powerful recoil moves and Life Orb without drawbacks. Perfect for hazard-heavy battles.
-Character count: 290
-
-## Detailed Effects
+### Detailed Effects
 
 ### What Magic Guard Prevents
 1. **Entry Hazard Damage**
@@ -93,7 +96,7 @@ The following abilities share the `magicGuard = TRUE` property:
 - **Weather Team Counter**: Immune to Sandstorm/Hail chip damage
 - **Status Absorber**: Can take Toxic/Will-O-Wisp without taking damage over time
 
-### Common Pokémon with Magic Guard
+### Common Pokemon with Magic Guard
 - Alakazam line
 - Clefable line
 - Reuniclus line

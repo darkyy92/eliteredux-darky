@@ -2,39 +2,40 @@
 id: 186
 name: Dark Aura
 status: ai-generated
-character_count: 281
+character_count: 282
 ---
 
-# Dark Aura (Ability #186)
+# Dark Aura - Ability ID 186
 
-## Basic Information
+## In-Game Description
+"Boosts Dark moves by 1.33x for all while this Pokemon is out."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Dark Aura radiates malevolent energy that empowers all Dark-type moves on the battlefield. When this Pokemon enters battle, it announces its presence with a chilling aura that boosts Dark moves by 33% for every Pokemon. Can be reversed by Aura Break, reducing power to 75% instead.
+
+## Detailed Mechanical Explanation
+
+**Basic Information:**
 - **Ability ID**: 186
 - **Name**: Dark Aura
 - **Category**: Aura
 - **Generation**: VI (Kalos)
 
-## Current Description
-"Boosts Dark moves by 1.33x for all while this Pokémon is out."
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Dark Aura radiates malevolent energy that empowers all Dark-type moves on the battlefield. When this Pokémon enters battle, it announces its presence with a chilling aura that boosts Dark moves by 33% for every Pokémon. Can be reversed by Aura Break, reducing power to 75% instead.
-
-## Mechanics Analysis
-
 ### Core Functionality
-Dark Aura is a field-affecting ability that provides a 1.33x (33%) damage multiplier to all Dark-type moves used by any Pokémon on the battlefield, similar to how weather conditions affect certain move types.
+Dark Aura is a field-affecting ability that provides a 1.33x (33%) damage multiplier to all Dark-type moves used by any Pokemon on the battlefield, similar to how weather conditions affect certain move types.
 
 ### Implementation Details
-- **Trigger**: Active while the Pokémon with Dark Aura is on the field
-- **Effect**: 1.33x damage multiplier for Dark-type moves from all Pokémon
+- **Trigger**: Active while the Pokemon with Dark Aura is on the field
+- **Effect**: 1.33x damage multiplier for Dark-type moves from all Pokemon
 - **Scope**: Affects both the user and opponents
-- **Switch-in Message**: "{Pokémon} is radiating a dark aura!"
+- **Switch-in Message**: "{Pokemon} is radiating a dark aura!"
 
 ### Interactions
 - **Aura Break**: When Aura Break is present on the field, Dark Aura's effect is reversed, reducing Dark-type move power to 0.75x instead of boosting it
-- **Stacking**: Multiple Dark Aura abilities do not stack - the effect remains 1.33x regardless of how many Pokémon have the ability
-- **Field Coverage**: The effect applies to all Pokémon on the battlefield, including opponents
+- **Stacking**: Multiple Dark Aura abilities do not stack - the effect remains 1.33x regardless of how many Pokemon have the ability
+- **Field Coverage**: The effect applies to all Pokemon on the battlefield, including opponents
 
 ### Code Implementation
 ```cpp
@@ -52,22 +53,22 @@ constexpr Ability DarkAura = {
 };
 ```
 
-## Pokémon with Dark Aura
+## Pokemon with Dark Aura
 
 ### Primary Users
 - **Mega Absol**: Has Dark Aura as a regular ability choice
 - **Mega Yveltal**: Has Dark Aura as a regular ability choice
 
 ### Innate Users
-Several Pokémon have Dark Aura as an innate ability, meaning it's always active alongside their regular abilities:
-- Various legendary and mythical Pokémon
-- Certain custom/modified Pokémon in the Elite Redux hack
+Several Pokemon have Dark Aura as an innate ability, meaning it's always active alongside their regular abilities:
+- Various legendary and mythical Pokemon
+- Certain custom/modified Pokemon in the Elite Redux hack
 
 ## Strategic Applications
 
 ### Offensive Strategies
 - **Dark Spam Teams**: Build teams around powerful Dark-type moves like Knock Off, Sucker Punch, and Dark Pulse
-- **Mixed Coverage**: Use Dark Aura to boost Dark-type coverage moves on non-Dark Pokémon
+- **Mixed Coverage**: Use Dark Aura to boost Dark-type coverage moves on non-Dark Pokemon
 - **Priority Abuse**: Boost priority Dark moves like Sucker Punch for enhanced revenge killing
 
 ### Defensive Considerations
@@ -88,5 +89,5 @@ Several Pokémon have Dark Aura as an innate ability, meaning it's always active
 ## Notes
 - Dark Aura is one of the signature abilities that defined Generation VI's introduction of "Aura" mechanics
 - The ability creates a unique battlefield state where Dark-type moves become significantly more threatening
-- In Elite Redux, the ability appears on various Pokémon beyond its original Yveltal exclusive status
+- In Elite Redux, the ability appears on various Pokemon beyond its original Yveltal exclusive status
 - The 1.33x multiplier is applied after all other damage calculations, making it a pure 33% increase to final damage

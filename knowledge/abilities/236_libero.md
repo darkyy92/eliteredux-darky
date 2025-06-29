@@ -15,8 +15,6 @@ character_count: 286
 
 Libero changes the user's type to match the move being used before attacking, but only once per turn. The type change grants STAB bonus to the attack and affects defensive matchups. Cannot activate on Struggle moves. Perfect for unpredictable offensive coverage.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -50,11 +48,11 @@ constexpr Ability Libero = {
 Libero directly references Protean's implementation, making them mechanically identical. The Protean code checks for turn-based activation, verifies the user isn't already the move's type, excludes Struggle, then changes the battler's typing and displays the activation message.
 
 ### Elite Redux Context
-In Elite Redux, Libero appears as both a regular ability choice and as an innate ability on certain Pokémon (notably the Scorbunny line), making it accessible in the game's 4-ability system. This provides consistent access to the powerful type-changing effect while maintaining other ability options.
+In Elite Redux, Libero appears as both a regular ability choice and as an innate ability on certain Pokemon (notably the Scorbunny line), making it accessible in the game's 4-ability system. This provides consistent access to the powerful type-changing effect while maintaining other ability options.
 
 ### Comparison to Similar Abilities
 - **Protean**: Mechanically identical - both share the same implementation
 - **Color Change**: Activates when hit by a move rather than when using a move
 - **Multitype/RKS System**: Permanent type changes based on held items rather than per-move adaptation
 
-The once-per-turn limitation prevents potential abuse while still providing significant strategic value, making Libero a highly sought-after ability for offensive Pokémon seeking maximum type coverage and damage output.
+The once-per-turn limitation prevents potential abuse while still providing significant strategic value, making Libero a highly sought-after ability for offensive Pokemon seeking maximum type coverage and damage output.

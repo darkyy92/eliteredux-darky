@@ -15,8 +15,6 @@ character_count: 296
 
 Upon entering battle, the Yuki Onna's chilling presence lowers both the Attack and Special Attack of opposing Pokemon by one stage. Additionally, when the Yuki Onna makes contact with an opponent, there is a 30% chance to infatuate the target with her ethereal beauty.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,7 +24,7 @@ Yuki Onna combines battlefield intimidation with enchanting contact effects, rep
 ### Entry Effect: Dual Intimidation
 - **Trigger**: Activates immediately upon switching into battle
 - **Stats lowered**: Both Attack and Special Attack by 1 stage each
-- **Targets**: All opposing Pokémon on the field
+- **Targets**: All opposing Pokemon on the field
 - **Scope**: Affects both opponents in double battles
 - **Message**: Uses intimidate activation battle script
 
@@ -69,7 +67,7 @@ constexpr Ability YukiOnna = {
 - **Effect**: Target falls in love and may not attack 50% of the time
 - **Duration**: Permanent until cured or target switches out
 - **Gender requirement**: Typically requires opposite genders
-- **Immunity**: Same-gender Pokémon or genderless often immune
+- **Immunity**: Same-gender Pokemon or genderless often immune
 - **Curing**: Mental Herb, switching out, or certain abilities
 
 ### Strategic Applications
@@ -99,16 +97,16 @@ constexpr Ability YukiOnna = {
 - Special moves: Most special attacks
 
 ### Double Battle Applications
-- **Team debuffing**: Weakens both opposing Pokémon simultaneously
+- **Team debuffing**: Weakens both opposing Pokemon simultaneously
 - **Contact punishment**: Deters physical attackers from both sides
 - **Field presence**: Creates immediate impact across entire field
 - **Support utility**: Helps entire team by weakening opponents
 
 ### Competitive Usage
-- **Lead Pokémon**: Excellent for immediate battlefield control
+- **Lead Pokemon**: Excellent for immediate battlefield control
 - **Defensive walls**: Reduces incoming damage while punishing contact
 - **Support role**: Weakens opponents for teammates
-- **Pivot Pokémon**: Entry effect helps team, contact effect aids staying power
+- **Pivot Pokemon**: Entry effect helps team, contact effect aids staying power
 - **Stall teams**: Disrupts offensive pressure through stat reduction
 
 ### Synergies

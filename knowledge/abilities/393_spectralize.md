@@ -39,7 +39,7 @@ constexpr Ability Spectralize = {
 
 **Core Mechanics:**
 1. **Type Conversion**: All Normal-type attacking moves become Ghost-type (checked at `moveType == TYPE_NORMAL`)
-2. **STAB Grant**: Pokémon gains STAB for ALL Ghost-type moves regardless of natural typing
+2. **STAB Grant**: Pokemon gains STAB for ALL Ghost-type moves regardless of natural typing
 3. **ateBoost Flag**: Sets the ateBoost flag for converted moves (used for tracking and potential interactions)
 
 **Important Implementation Notes:**
@@ -52,11 +52,11 @@ constexpr Ability Spectralize = {
 
 ### Offensive Applications
 **Move Transformation Benefits:**
-- **Body Slam** → Ghost-type STAB move with paralysis chance
-- **Hyper Voice** → Powerful Ghost-type special attack that hits through Substitute
-- **Return/Frustration** → Ghost-type STAB moves with variable power
-- **Quick Attack** → Ghost-type priority move
-- **Explosion** → Ghost-type suicide move (though still hits Ghost types due to explosive mechanics)
+- **Body Slam** to Ghost-type STAB move with paralysis chance
+- **Hyper Voice** to Powerful Ghost-type special attack that hits through Substitute
+- **Return/Frustration** to Ghost-type STAB moves with variable power
+- **Quick Attack** to Ghost-type priority move
+- **Explosion** to Ghost-type suicide move (though still hits Ghost types due to explosive mechanics)
 
 **Type Coverage Advantages:**
 - Super-effective against Fighting and Psychic types (2x damage)
@@ -74,26 +74,26 @@ constexpr Ability Spectralize = {
 **Tier Justification:**
 1. **Meta Relevance**: Ghost is an excellent offensive type in competitive play
 2. **Coverage Value**: Provides super-effective hits against common Fighting and Psychic types
-3. **STAB Access**: Grants Ghost STAB to any Pokémon, significantly boosting power output
-4. **Move Pool Synergy**: Many Pokémon have extensive Normal-type movepools that benefit greatly
+3. **STAB Access**: Grants Ghost STAB to any Pokemon, significantly boosting power output
+4. **Move Pool Synergy**: Many Pokemon have extensive Normal-type movepools that benefit greatly
 
 **Optimal Usage Scenarios:**
-- **Mixed Attackers**: Pokémon with both physical and special Normal moves
+- **Mixed Attackers**: Pokemon with both physical and special Normal moves
 - **Coverage Seekers**: Non-Ghost types needing Ghost-type attacks
-- **STAB Maximizers**: Pokémon wanting to boost their Normal-type moves with STAB
+- **STAB Maximizers**: Pokemon wanting to boost their Normal-type moves with STAB
 
 ## Related Abilities and Comparisons
 
 ### Other ATE_ABILITY Implementations
 **Standard -ate Abilities (Type Conversion + STAB only):**
-- **Refrigerate** (ID 174): Normal → Ice
-- **Pixilate** (ID 182): Normal → Fairy  
-- **Aerilate** (ID 184): Normal → Flying
-- **Galvanize** (ID 206): Normal → Electric
+- **Refrigerate** (ID 174): Normal to Ice
+- **Pixilate** (ID 182): Normal to Fairy  
+- **Aerilate** (ID 184): Normal to Flying
+- **Galvanize** (ID 206): Normal to Electric
 
 **Enhanced -ate Abilities (with custom power boosts):**
 - **Steelworker** (ID 200): Steel-type moves + Dark/Ghost resistance
-- **Normalize** (ID 96): All moves → Normal with 1.1x power boost for converted moves
+- **Normalize** (ID 96): All moves to Normal with 1.1x power boost for converted moves
 
 ### Key Differences from Main Series
 **Elite Redux Implementation:**
@@ -102,8 +102,8 @@ constexpr Ability Spectralize = {
 - Makes the ability more balanced but still highly valuable
 
 **Power Calculation:**
-- Converted move: Base Power × 1.5 (STAB only)
-- Main series equivalent: Base Power × 1.2 × 1.5 = 1.8x total
+- Converted move: Base Power x 1.5 (STAB only)
+- Main series equivalent: Base Power x 1.2 x 1.5 = 1.8x total
 
 ### Synergy Abilities
 **Abilities that complement Spectralize:**
@@ -126,19 +126,19 @@ constexpr Ability Spectralize = {
 ### Elite Redux 4-Ability System Integration
 **Recommended Slot Usage:**
 - **Changeable Slot**: When flexibility is needed for different matchups
-- **Innate Slot**: When consistent Ghost coverage is core to the Pokémon's strategy
+- **Innate Slot**: When consistent Ghost coverage is core to the Pokemon's strategy
 
 **Multi-Ability Combinations:**
 - Can stack with other offensive abilities for devastating combinations
 - Works well with stat-boosting abilities to maximize converted move power
 
-## Notable Pokémon Beneficiaries
+## Notable Pokemon Beneficiaries
 *Based on usage patterns in TrainerList.textproto and SpeciesList.textproto*
 
 **High-Value Users:**
-- Pokémon with extensive Normal-type movepools
+- Pokemon with extensive Normal-type movepools
 - Mixed attackers with both physical and special Normal moves
-- Pokémon needing Ghost coverage for competitive viability
-- Pokémon that can take advantage of Fighting/Psychic matchups
+- Pokemon needing Ghost coverage for competitive viability
+- Pokemon that can take advantage of Fighting/Psychic matchups
 
-This ability represents one of the most valuable type-conversion abilities in Elite Redux, offering immediate offensive improvement and meta-relevant coverage to any Pokémon that can utilize it effectively.
+This ability represents one of the most valuable type-conversion abilities in Elite Redux, offering immediate offensive improvement and meta-relevant coverage to any Pokemon that can utilize it effectively.

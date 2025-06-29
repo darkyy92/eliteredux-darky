@@ -15,8 +15,6 @@ character_count: 293
 
 Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

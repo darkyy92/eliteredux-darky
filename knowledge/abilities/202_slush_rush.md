@@ -8,14 +8,12 @@ character_count: 297
 # Slush Rush - Ability ID 202
 
 ## In-Game Description
-"This Pokémon's Speed gets a 1.5x boost in hail."
+"This Pokemon's Speed gets a 1.5x boost in hail."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Slush Rush boosts the Pokémon's Speed by 50% during hail weather. Works with all forms of hail including regular hail and primordial hail effects. The speed boost applies immediately when hail is active and disappears when hail ends. Also grants immunity to hail damage.
-
-*Character count: 297*
+Slush Rush boosts the Pokemon's Speed by 50% during hail weather. Works with all forms of hail including regular hail and primordial hail effects. The speed boost applies immediately when hail is active and disappears when hail ends. Also grants immunity to hail damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -43,7 +41,7 @@ constexpr Ability SlushRush = {
 ```
 
 ### Speed Boost Mechanics
-- **Base calculation**: Speed = (Base Speed × 1.5) + other modifiers
+- **Base calculation**: Speed = (Base Speed x 1.5) + other modifiers
 - **Stacking**: Stacks multiplicatively with other Speed modifiers
 - **Nature interaction**: Applied after nature modifiers
 - **Item interaction**: Works with Choice Scarf, Iron Ball, etc.
@@ -73,16 +71,16 @@ Assuming base 80 Speed with neutral nature:
 - **With +1 and Slush Rush**: 396 Speed at level 50
 
 ### Common Users in Elite Redux
-Based on the species analysis, Slush Rush appears on various Ice-type and hail-oriented Pokémon:
+Based on the species analysis, Slush Rush appears on various Ice-type and hail-oriented Pokemon:
 - Fast Ice-type sweepers with strong offensive stats
-- Pokémon with complementary hail-based abilities as innates
+- Pokemon with complementary hail-based abilities as innates
 - Mixed attackers who benefit from speed control
-- Pokémon paired with Snow Warning teammates
+- Pokemon paired with Snow Warning teammates
 
 ### Competitive Usage Notes
 - Essential for hail-based offensive teams
 - Requires hail support from Snow Warning or Hail move
-- Best on Pokémon with strong offensive stats
+- Best on Pokemon with strong offensive stats
 - Can be paired with Icy Rock for extended hail duration
 - Excellent for breaking through bulky teams with speed advantage
 
@@ -121,7 +119,7 @@ Many Slush Rush users gain access to:
 - **Generation VII**: Original introduction as signature ability
 - **Elite Redux**: Benefits from 8-turn weather duration
 - **Innate system**: Can appear as innate ability on certain species
-- **Expanded distribution**: Available on more Pokémon than in official games
+- **Expanded distribution**: Available on more Pokemon than in official games
 
 ### Hail Team Core
 Slush Rush users form the offensive core of hail teams alongside:

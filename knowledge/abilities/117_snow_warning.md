@@ -1,22 +1,22 @@
 ---
 id: 117
-name: "Snow Warning (Ability ID: 117)"
+name: Snow Warning
 status: ai-generated
-character_count: 272
+character_count: 273
 ---
 
-# Snow Warning (Ability ID: 117)
+# Snow Warning - Ability ID 117
 
 ## In-Game Description
 "Summons hail on entry. Lasts 8 turns."
 
-## Extended In-Game Description (280-300 chars)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
-**Snow Warning** automatically creates a hailstorm when the Pokémon enters battle, providing the same effect as the move Hail without consuming a turn.
+**Snow Warning** automatically creates a hailstorm when the Pokemon enters battle, providing the same effect as the move Hail without consuming a turn.
 
 ### Trigger Conditions
 - Activates upon entering battle (switch-in, battle start, or after fainting an opponent)
@@ -30,11 +30,11 @@ Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages n
 
 ### Hail Effects
 1. **Damage Per Turn**:
-   - Deals 1/16 max HP damage to all non-Ice-type Pokémon
-   - Pokémon immune to hail damage:
-     - Ice-type Pokémon
-     - Pokémon with Ice Body, Snow Cloak, Overcoat abilities
-     - Pokémon holding Safety Goggles
+   - Deals 1/16 max HP damage to all non-Ice-type Pokemon
+   - Pokemon immune to hail damage:
+     - Ice-type Pokemon
+     - Pokemon with Ice Body, Snow Cloak, Overcoat abilities
+     - Pokemon holding Safety Goggles
 
 2. **Move Changes**:
    - Blizzard: 100% accuracy (normally 70%)

@@ -2,26 +2,29 @@
 id: 385
 name: Air Lock
 status: ai-generated
-character_count: 443
+character_count: 295
 ---
 
 # Air Lock - Ability ID 385
 
-## Basic Information
-**Effect**: Clears weather and prevents its effects  
-**Type**: Weather Control  
-**Introduced**: Generation III  
-**Elite Redux Tier**: A-
 
 ## In-Game Description
 "Clears weather and prevents its effects."
 
 ## Extended In-Game Description
-Air Lock clears all weather conditions upon switch-in and completely nullifies weather effects while the user remains active. Weather may still be set by other Pokemon, but provides no gameplay benefits - no damage modifications, speed changes, accuracy boosts, or ability activations. Works against all weather types including primal conditions. Essential defensive tool against weather-based strategies and enables neutral battle conditions.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 294*
+Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no speed boosts (Swift Swim/Chlorophyll/Sand Rush), no chip damage, no accuracy changes. Weather can be set but provides no benefits. Works on primal weather.
 
-## Technical Implementation
+## Detailed Mechanical Explanation
+
+### Basic Information
+**Effect**: Clears weather and prevents its effects  
+**Type**: Weather Control  
+**Introduced**: Generation III  
+**Elite Redux Tier**: A-
+
+### Technical Implementation
 
 ### Core Mechanics
 Air Lock operates through two distinct systems:
@@ -158,21 +161,21 @@ Air Lock prevents weather effects by making the `WEATHER_HAS_EFFECT` macro retur
 
 ### Rain Example
 **Without Air Lock**:
-- Surf (90 BP) in Rain → 135 effective BP (1.5x)
-- Flamethrower (90 BP) in Rain → 45 effective BP (0.5x)
+- Surf (90 BP) in Rain to 135 effective BP (1.5x)
+- Flamethrower (90 BP) in Rain to 45 effective BP (0.5x)
 
 **With Air Lock**:
-- Surf (90 BP) → 90 BP (no modifier)
-- Flamethrower (90 BP) → 90 BP (no modifier)
+- Surf (90 BP) to 90 BP (no modifier)
+- Flamethrower (90 BP) to 90 BP (no modifier)
 
 ### Sun Example  
 **Without Air Lock**:
-- Fire Blast (110 BP) in Sun → 165 effective BP (1.5x)
-- Hydro Pump (110 BP) in Sun → 55 effective BP (0.5x)
+- Fire Blast (110 BP) in Sun to 165 effective BP (1.5x)
+- Hydro Pump (110 BP) in Sun to 55 effective BP (0.5x)
 
 **With Air Lock**:
-- Fire Blast (110 BP) → 110 BP (no modifier)  
-- Hydro Pump (110 BP) → 110 BP (no modifier)
+- Fire Blast (110 BP) to 110 BP (no modifier)  
+- Hydro Pump (110 BP) to 110 BP (no modifier)
 
 ## Advanced Interactions
 

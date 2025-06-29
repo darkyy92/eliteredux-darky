@@ -15,8 +15,6 @@ character_count: 293
 
 Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. Under hail weather, the Pokemon regenerates its Ice Face form, regaining the protective disguise. Only physical attacks trigger the transformation. Special attacks bypass the protection entirely.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -50,7 +48,7 @@ Ice Face is a disguise-type ability exclusive to Eiscue that provides one-time p
 - Particularly effective against physical setup sweepers
 
 **Technical Implementation:**
-- Uses the onDisguise callback to determine form change (SPECIES_EISCUE → SPECIES_EISCUE_NOICE_FACE)
+- Uses the onDisguise callback to determine form change (SPECIES_EISCUE to SPECIES_EISCUE_NOICE_FACE)
 - onEntry and onWeather callbacks handle form restoration under hail
 - Requires specific species check (only works on Eiscue species)
 - Cannot function if Pokemon is transformed by other effects (Transform move, etc.)

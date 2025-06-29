@@ -13,15 +13,13 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Sweeping Edge Plus combines the power of both Keen Edge and Sweeping Edge abilities. All Keen Edge moves gain 30% damage boost, perfect accuracy, and hit both opposing Pokémon in double battles. This transforms single-target slicing moves into devastating multi-target blade attacks.
-
-*Character count: 285*
+Sweeping Edge Plus combines the power of both Keen Edge and Sweeping Edge abilities. All Keen Edge moves gain 30% damage boost, perfect accuracy, and hit both opposing Pokemon in double battles. This transforms single-target slicing moves into devastating multi-target blade attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Sweeping Edge Plus (also known as "Blademaster") is an upgraded combination ability that merges the effects of two powerful abilities: Keen Edge and Sweeping Edge. This creates a supremely powerful offensive ability for Pokémon that rely on slicing attacks.
+Sweeping Edge Plus (also known as "Blademaster") is an upgraded combination ability that merges the effects of two powerful abilities: Keen Edge and Sweeping Edge. This creates a supremely powerful offensive ability for Pokemon that rely on slicing attacks.
 
 ### Technical Implementation
 ```cpp
@@ -37,7 +35,7 @@ Sweeping Edge Plus provides three distinct enhancements to Keen Edge moves:
 
 1. **30% Damage Boost**: All Keen Edge moves deal 1.3x damage (inherited from Keen Edge ability)
 2. **Perfect Accuracy**: All Keen Edge moves become unable to miss (inherited from Sweeping Edge ability)
-3. **Multi-Target**: In double battles, Keen Edge moves hit both opposing Pokémon instead of just one (inherited from Sweeping Edge ability)
+3. **Multi-Target**: In double battles, Keen Edge moves hit both opposing Pokemon instead of just one (inherited from Sweeping Edge ability)
 
 ### Activation Conditions
 - **Move requirement**: The move must have the `FLAG_KEEN_EDGE_BOOST` flag
@@ -60,7 +58,7 @@ Keen Edge moves are slicing, cutting, or chopping attacks that have been designa
 - Air Slash - 30% flinch chance + 30% damage boost + perfect accuracy + multi-target
 
 ### Battle Interactions
-- **Double battles**: Keen Edge moves hit both opposing Pokémon with full damage and accuracy
+- **Double battles**: Keen Edge moves hit both opposing Pokemon with full damage and accuracy
 - **Single battles**: Provides 30% damage boost and perfect accuracy
 - **Accuracy bypass**: Completely ignores accuracy reductions, evasion boosts, and weather effects
 - **Critical hits**: Each target is calculated independently for critical hits
@@ -91,11 +89,11 @@ Keen Edge moves are slicing, cutting, or chopping attacks that have been designa
 ### Example Damage Calculations
 **Leaf Blade (90 BP) in Double Battle:**
 - Without ability: 90 BP to one target
-- With Sweeping Edge Plus: 117 BP effective (90 × 1.3) to BOTH targets
+- With Sweeping Edge Plus: 117 BP effective (90 x 1.3) to BOTH targets
 
 **Air Slash (75 BP Special) in Double Battle:**
 - Without ability: 75 BP to one target, can miss
-- With Sweeping Edge Plus: 97.5 BP effective (75 × 1.3) to BOTH targets, always hits
+- With Sweeping Edge Plus: 97.5 BP effective (75 x 1.3) to BOTH targets, always hits
 
 ### Competitive Usage Notes
 - **Elite tier ability**: One of the most powerful offensive abilities in Elite Redux
@@ -106,10 +104,10 @@ Keen Edge moves are slicing, cutting, or chopping attacks that have been designa
 
 ### Common Users
 This ability is typically found on:
-- Elite-tier Pokémon with access to multiple Keen Edge moves
+- Elite-tier Pokemon with access to multiple Keen Edge moves
 - Physical attackers with diverse slicing movesets
-- Pokémon designed for double battle formats
-- Late-game or legendary Pokémon with enhanced ability sets
+- Pokemon designed for double battle formats
+- Late-game or legendary Pokemon with enhanced ability sets
 
 ### Important Interactions
 - **Priority moves**: Keen Edge priority moves maintain their speed tier

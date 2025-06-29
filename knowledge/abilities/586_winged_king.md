@@ -5,19 +5,17 @@ status: ai-generated
 character_count: 293
 ---
 
-# Winged King
+# Winged King - Ability ID 586
 
-**Ability ID**: 586
-**Type**: Regular Ability
-
-**In-Game Description**: "Ups "supereffective" by 33%."
+## In-Game Description
+"Ups 'supereffective' by 33%."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Increases damage of super-effective attacks by 33%. When this Pokemon's move deals 2x damage due to type advantage, the multiplier becomes 2.66x instead. Does not affect normally effective or resisted moves. Stacks with STAB and other damage modifiers for devastating super-effective coverage.
 
-## Detailed Mechanical Explanation (Discord/Reference)
+## Detailed Mechanical Explanation
 
 Winged King enhances super-effective attacks by applying an additional 1.33x damage multiplier. This ability specifically triggers when the base type effectiveness multiplier is 2.0x or higher (super-effective). The 33% boost is multiplicative, meaning a 2x super-effective attack becomes 2.66x damage, while 4x super-effective attacks become 5.32x damage.
 
@@ -33,14 +31,14 @@ This ability is also used by Iron Serpent, sharing the exact same implementation
 
 ## Numerical Effects
 
-- **2x super-effective**: 2.0 × 1.33 = 2.66x total damage
-- **4x super-effective**: 4.0 × 1.33 = 5.32x total damage
+- **2x super-effective**: 2.0 x 1.33 = 2.66x total damage
+- **4x super-effective**: 4.0 x 1.33 = 5.32x total damage
 - **Neutral/resisted moves**: No change (1.0x, 0.5x, 0.25x remain unchanged)
 
 ## Interactions
 
 - **Stacks multiplicatively** with STAB (Same Type Attack Bonus), items, and other damage modifiers
-- **Example**: Super-effective STAB move = 2.0 (type) × 1.5 (STAB) × 1.33 (Winged King) = 3.99x damage
+- **Example**: Super-effective STAB move = 2.0 (type) x 1.5 (STAB) x 1.33 (Winged King) = 3.99x damage
 - Works with physical and special attacks equally
 - Applies to all move types and damage categories
 - Functions in all battle formats and conditions

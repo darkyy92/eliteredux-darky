@@ -15,17 +15,15 @@ character_count: 296
 
 Combines Haunted Spirit and Vengeance effects. When KO'd by contact moves, curses the attacker to lose 1/4 HP each turn. When at 1/3 HP or less, Ghost-type moves deal 50% more damage. Provides both defensive punishment and offensive comeback potential.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 Vengeful Spirit is a powerful combination ability that merges two distinct effects:
 
 ### Haunted Spirit Component (.onDefender)
-- **Trigger**: When the Pokémon is KO'd by a contact move
+- **Trigger**: When the Pokemon is KO'd by a contact move
 - **Effect**: Applies Curse status to the attacker (STATUS2_CURSED)
-- **Damage**: Cursed Pokémon lose 1/4 of their max HP each turn
+- **Damage**: Cursed Pokemon lose 1/4 of their max HP each turn
 - **Immunities**: 
   - Ghost-type attackers are immune
   - Attackers already cursed are immune
@@ -33,7 +31,7 @@ Vengeful Spirit is a powerful combination ability that merges two distinct effec
 
 ### Vengeance Component (.onOffensiveMultiplier)
 - **Trigger**: When using Ghost-type moves at low HP
-- **Condition**: Pokémon must be at 1/3 HP or less
+- **Condition**: Pokemon must be at 1/3 HP or less
 - **Effect**: 1.5x damage multiplier for Ghost-type moves
 - **Implementation**: Uses SWARM_MULTIPLIER(TYPE_GHOST) macro
 
@@ -81,7 +79,7 @@ The Vengeance.onOffensiveMultiplier uses SWARM_MULTIPLIER:
 ### Strategic Usage
 - **Setup Sweepers**: Can threaten curse while setting up
 - **Revenge Killers**: Becomes dangerous when brought in at low HP
-- **Pivot Pokémon**: Forces difficult decisions for opponents
+- **Pivot Pokemon**: Forces difficult decisions for opponents
 - **Wall Breakers**: Low HP Ghost moves can break through defensive cores
 - **End Game**: Curse damage can secure late-game victories
 

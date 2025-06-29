@@ -5,23 +5,21 @@ status: ai-generated
 character_count: 284
 ---
 
-# Ability #327: Hypnotist
+# Hypnotist - Ability ID 327
 
-## Basic Information
-- **ID**: 327 (ABILITY_HYPNOTIST)
-- **Name**: Hypnotist
-- **Original Description**: "Hypnosis accuracy is 90% when used by this Pokémon."
+## In-Game Description
+"Hypnosis accuracy is 90% when used by this Pokemon."
 
 ## Extended In-Game Description
-Transforms Hypnosis from an unreliable 60% accuracy sleep move into a consistent 90% accuracy threat. This ability multiplies Hypnosis accuracy by 1.5x, making sleep-inducing strategies significantly more viable. The boost only applies to Hypnosis specifically, not other sleep moves.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-**Character count**: 285 characters (including spaces)
+Transforms Hypnosis from an unreliable 60% accuracy sleep move into a consistent 90% accuracy threat. This ability multiplies Hypnosis accuracy by 1.5x, making sleep-inducing strategies significantly more viable. The boost only applies to Hypnosis specifically, not other sleep moves.
 
 ## Mechanical Analysis
 
 ### Core Effect
-- **Trigger**: When the Pokémon uses Hypnosis
-- **Calculation**: Hypnosis base accuracy (60%) × 1.5 = 90% accuracy
+- **Trigger**: When the Pokemon uses Hypnosis
+- **Calculation**: Hypnosis base accuracy (60%) x 1.5 = 90% accuracy
 - **Implementation**: Uses `.onAccuracy` callback with `ACCURACY_MULTIPLICATIVE` priority
 - **Scope**: Only affects Hypnosis move, no other sleep-inducing moves
 
@@ -38,9 +36,9 @@ constexpr Ability Hypnotist = {
 
 ### Accuracy Calculations
 - **Base Hypnosis**: 60% accuracy
-- **With Hypnotist**: 60% × 1.5 = 90% accuracy
-- **With Wide Lens**: 90% × 1.1 = 99% accuracy (effective maximum)
-- **Against Brightpowder**: 90% × 0.9 = 81% accuracy
+- **With Hypnotist**: 60% x 1.5 = 90% accuracy
+- **With Wide Lens**: 90% x 1.1 = 99% accuracy (effective maximum)
+- **Against Brightpowder**: 90% x 0.9 = 81% accuracy
 
 ## Strategic Applications
 
@@ -59,14 +57,14 @@ constexpr Ability Hypnotist = {
 ## Distribution Analysis
 
 ### Notable Carriers
-The ability appears on various Pokémon with different roles:
+The ability appears on various Pokemon with different roles:
 - **Psychic-types**: Natural thematic fit (Ralts line, Drowzee line)
 - **Water-types**: Some Poliwag line members as innate ability
-- **Support Pokémon**: Utility-focused species with sleep move access
+- **Support Pokemon**: Utility-focused species with sleep move access
 
 ### Common Contexts
 - **Innate Ability**: Often appears as a fixed innate rather than selectable
-- **Support Builds**: Preferred on bulky support Pokémon
+- **Support Builds**: Preferred on bulky support Pokemon
 - **Double Battles**: Enhanced value due to multiple sleep targets
 
 ## Related Abilities
@@ -76,10 +74,10 @@ The ability appears on various Pokémon with different roles:
 - **Insomnia**: Defensive counterpart preventing sleep
 
 ## Optimization Notes
-- **Best Users**: Bulky Pokémon that can survive after inducing sleep
+- **Best Users**: Bulky Pokemon that can survive after inducing sleep
 - **Item Synergy**: Wide Lens for near-perfect accuracy, Focus Sash for survival
 - **Move Combinations**: Hypnosis + Dream Eater, Hypnosis + setup moves
-- **Team Support**: Most effective when supporting sweepers or setup Pokémon
+- **Team Support**: Most effective when supporting sweepers or setup Pokemon
 
 ## Historical Context
 Hypnotist addresses the traditional unreliability of sleep moves in competitive play. By providing consistent accuracy to Hypnosis, it creates a niche for sleep-based utility strategies without making them overpowered, as the ability only affects one specific move rather than all sleep-inducing attacks.

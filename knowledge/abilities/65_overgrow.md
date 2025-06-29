@@ -13,9 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Overgrow boosts all Grass-type moves by 1.2x power normally, increasing to 1.5x power when the Pokémon's HP drops to 1/3 or below. This ability activates automatically in battle, making it ideal for Grass-type attackers who can capitalize on consistent damage and emergency power.
-
-*Character count: 280*
+Overgrow boosts all Grass-type moves by 1.2x power normally, increasing to 1.5x power when the Pokemon's HP drops to 1/3 or below. This ability activates automatically in battle, making it ideal for Grass-type attackers who can capitalize on consistent damage and emergency power.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -58,11 +56,11 @@ constexpr Ability Overgrow = {
 
 ### Stacking and Interactions:
 - **STAB**: Stacks multiplicatively with Same Type Attack Bonus (1.5x)
-  - Normal: 1.2x × 1.5x = 1.8x total
-  - Pinch: 1.5x × 1.5x = 2.25x total
+  - Normal: 1.2x x 1.5x = 1.8x total
+  - Pinch: 1.5x x 1.5x = 2.25x total
 - **Items**: Stacks with type-boosting items like Miracle Seed
 - **Weather**: Stacks with beneficial weather effects
-- **Abilities**: Does not stack with other damage-boosting abilities on the same Pokémon
+- **Abilities**: Does not stack with other damage-boosting abilities on the same Pokemon
 - **Critical Hits**: Multiplier applies before critical hit calculation
 
 ### Strategic Applications:
@@ -71,8 +69,8 @@ constexpr Ability Overgrow = {
 3. **HP Management**: Players may strategically take damage to reach pinch range
 4. **Substitute Strategy**: Using Substitute to reach 1/3 HP threshold safely
 
-### Pokémon with Overgrow:
-- Commonly found as an innate ability on Grass-type starter Pokémon and their evolutionary lines
+### Pokemon with Overgrow:
+- Commonly found as an innate ability on Grass-type starter Pokemon and their evolutionary lines
 - Appears as an innate ability in Elite Redux's multi-ability system
 - Paired with other abilities like Chlorophyll, Thick Fat, and Poison Absorb
 

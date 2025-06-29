@@ -15,8 +15,6 @@ character_count: 297
 
 Air Lock clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Air Lock clears all weather upon switch-in and nullifies weather effects while u
 ### Core Mechanics
 Air Lock operates through two distinct mechanisms:
 
-1. **On-Entry Weather Removal**: When a Pokémon with Air Lock enters battle, it executes `BattleScript_AnnounceAirLockCloudNine` which:
+1. **On-Entry Weather Removal**: When a Pokemon with Air Lock enters battle, it executes `BattleScript_AnnounceAirLockCloudNine` which:
    - Immediately removes any active weather condition
    - Displays appropriate messages about weather being cleared
    - Works on both regular and primal weather conditions
@@ -101,7 +99,7 @@ In Elite Redux, **Rayquaza** has Air Lock as an innate ability, alongside:
 - Weather Control (innate 2)
 - Aerodynamics (innate 3)
 
-This makes Rayquaza the ultimate weather control Pokémon with multiple weather-related abilities.
+This makes Rayquaza the ultimate weather control Pokemon with multiple weather-related abilities.
 
 ### Competitive Usage Notes
 - Excellent on balanced teams that don't rely on weather
@@ -113,8 +111,8 @@ This makes Rayquaza the ultimate weather control Pokémon with multiple weather-
 
 ### Example Damage Calculations
 **Without Air Lock (Rain active):**
-- Hydro Pump (110 BP) → 165 effective BP (1.5x boost)
-- Fire Blast (110 BP) → 55 effective BP (0.5x reduction)
+- Hydro Pump (110 BP) to 165 effective BP (1.5x boost)
+- Fire Blast (110 BP) to 55 effective BP (0.5x reduction)
 
 **With Air Lock (Weather nullified):**
 - Hydro Pump: 110 BP (no boost)
@@ -129,7 +127,7 @@ This makes Rayquaza the ultimate weather control Pokémon with multiple weather-
 
 ### Synergies
 - Stealth Rock setters (capitalize on forced switches)
-- Pokémon weak to weather chip damage
+- Pokemon weak to weather chip damage
 - Mixed attackers who want consistent damage calculations
 - Stall teams that prefer neutral conditions
 - Other weather-immune abilities for redundancy

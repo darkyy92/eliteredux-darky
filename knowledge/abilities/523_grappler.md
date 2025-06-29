@@ -15,8 +15,6 @@ character_count: 294
 
 Grappler extends trapping moves to last 6 turns instead of 4-5 turns and increases damage to 1/6 max HP per turn. Affects moves like Bind, Wrap, Fire Spin, and Sand Tomb. Trapping damage occurs at end of turn. Makes binding strategies more potent and reliable.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -55,7 +53,7 @@ if (ability == ABILITY_GRAPPLER && IsMoveTrapping(move)) {
 - **Turn counting**: Trapping duration is fixed at 6 turns, not random
 - **Damage timing**: Trapping damage occurs at the end of each turn
 - **Stacking**: Cannot stack multiple trapping effects
-- **Switching**: Trapped Pokémon cannot switch out
+- **Switching**: Trapped Pokemon cannot switch out
 - **Ghost types**: Still affected by trapping moves (unlike traditional mechanics)
 - **Partial trapping immunity**: Flying types and Levitate still affected by most moves
 
@@ -91,7 +89,7 @@ When used with Grappler:
 ### Competitive Usage Notes
 - **Guaranteed duration**: 6-turn fixed duration removes RNG from trapping
 - **Significant chip damage**: 100% max HP over full duration
-- **Forces responses**: Opponents must act quickly or lose Pokémon
+- **Forces responses**: Opponents must act quickly or lose Pokemon
 - **Entry hazard combos**: Pairs excellently with hazard setters
 - **Late game closer**: Can secure KOs on weakened teams
 

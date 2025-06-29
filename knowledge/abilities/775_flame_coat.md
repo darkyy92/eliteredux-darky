@@ -13,21 +13,19 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Creates a blazing aura that scorches all non-Fire-type Pokémon on the battlefield. At the end of each turn, all non-Fire-types suffer burns equivalent to 1/8 of their maximum HP, creating a punishing environment that favors Fire-types and forces strategic switching.
-
-*Character count: 293*
+Creates a blazing aura that scorches all non-Fire-type Pokemon on the battlefield. At the end of each turn, all non-Fire-types suffer burns equivalent to 1/8 of their maximum HP, creating a punishing environment that favors Fire-types and forces strategic switching.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Flame Coat is a powerful field control ability that creates an environmental hazard affecting all non-Fire-type Pokémon on the battlefield.
+Flame Coat is a powerful field control ability that creates an environmental hazard affecting all non-Fire-type Pokemon on the battlefield.
 
 ### Activation Requirements
 - Triggers automatically at the end of each turn when the user is on the field
 - Does not require the user to be active; works as long as they're conscious and on the field
 
 ### Targeting and Effects
-- **Targets**: All conscious non-Fire-type Pokémon on the battlefield (including allies in double battles)
+- **Targets**: All conscious non-Fire-type Pokemon on the battlefield (including allies in double battles)
 - **Damage**: Exactly 1/8 of the target's maximum HP per turn
 - **Damage Type**: Direct HP reduction (not affected by type effectiveness or stats)
 
@@ -35,8 +33,8 @@ Flame Coat is a powerful field control ability that creates an environmental haz
 The following abilities and conditions prevent Flame Coat damage:
 - **Magic Guard**: Completely blocks the damage
 - **Flare Boost**: The ability user is immune to Flame Coat damage
-- **Fire-type Pokémon**: Naturally immune due to typing
-- **Fainted Pokémon**: Cannot be affected
+- **Fire-type Pokemon**: Naturally immune due to typing
+- **Fainted Pokemon**: Cannot be affected
 
 ### Visual and Audio Effects
 - **Switch-in**: Displays a special announcement message when the user enters battle
@@ -54,11 +52,11 @@ The following abilities and conditions prevent Flame Coat damage:
 **Team Building Considerations:**
 - Best used on bulky Fire-types that can stay on the field long-term
 - Pairs excellently with other Fire-types to create mono-Fire advantage
-- Consider using with Pokémon that have good defensive stats to maintain field presence
+- Consider using with Pokemon that have good defensive stats to maintain field presence
 
 **Counterplay:**
-- Switch to Fire-type Pokémon to avoid damage entirely
-- Use Magic Guard Pokémon (like Clefable or Alakazam) for immunity
+- Switch to Fire-type Pokemon to avoid damage entirely
+- Use Magic Guard Pokemon (like Clefable or Alakazam) for immunity
 - Employ hit-and-run tactics to minimize exposure time
 - Use healing moves more frequently to offset the damage
 

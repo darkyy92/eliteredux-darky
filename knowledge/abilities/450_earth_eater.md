@@ -13,22 +13,20 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Earth Eater heals the Pokémon for 25% of its maximum HP when hit by Ground-type moves. This includes all Ground attacks like Earthquake, Earth Power, and Drill Run. The healing occurs instead of taking damage, making the user immune to Ground moves while gaining recovery.
-
-*Character count: 289*
+Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves. This includes all Ground attacks like Earthquake, Earth Power, and Drill Run. The healing occurs instead of taking damage, making the user immune to Ground moves while gaining recovery.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Earth Eater is a defensive absorption ability that converts Ground-type damage into healing. When the Pokémon with Earth Eater is targeted by a Ground-type move, instead of taking damage, it recovers 25% of its maximum HP.
+Earth Eater is a defensive absorption ability that converts Ground-type damage into healing. When the Pokemon with Earth Eater is targeted by a Ground-type move, instead of taking damage, it recovers 25% of its maximum HP.
 
 ### Activation Conditions
 - **Move type requirement**: The attacking move must be Ground-type
 - **Damage nullification**: The move deals 0 damage regardless of power
 - **Healing amount**: Restores exactly 25% of maximum HP (rounded down, minimum 1 HP)
 - **HP cap**: Cannot heal above maximum HP
-- **Healing restriction**: Only heals if the Pokémon can be healed (not affected by Heal Block)
+- **Healing restriction**: Only heals if the Pokemon can be healed (not affected by Heal Block)
 
 ### Technical Implementation
 ```c
@@ -54,7 +52,7 @@ constexpr Ability EarthEater = {
 
 ### Important Interactions
 - **Flying types**: Earth Eater users who are Flying-type still absorb Ground moves
-- **Levitate interaction**: If a Pokémon has both, Earth Eater takes priority
+- **Levitate interaction**: If a Pokemon has both, Earth Eater takes priority
 - **Ability suppression**: Doesn't work if ability is suppressed by Mold Breaker variants
 - **Substitute**: Ground moves hitting Substitute don't trigger Earth Eater
 - **Magic Bounce**: Reflected Ground moves don't trigger the original user's Earth Eater
@@ -84,7 +82,7 @@ constexpr Ability EarthEater = {
 - **Mold Breaker**: Neutralizing Gas, Mold Breaker, and similar bypass the ability
 - **Heal Block**: Prevents the healing aspect while still negating damage
 - **Status moves**: Doesn't provide status immunity
-- **Max HP users**: Less valuable healing on high HP Pokémon
+- **Max HP users**: Less valuable healing on high HP Pokemon
 
 ### Synergies
 - **Earthquake teammates**: Can use Earthquake without friendly fire
@@ -95,9 +93,9 @@ constexpr Ability EarthEater = {
 
 ### Pokemon That Learn Earth Eater
 Earth Eater is typically found on:
-- Ground-type Pokémon as a defensive option
-- Bulky Pokémon that appreciate the immunity and healing
-- Pokémon designed to counter Ground-type threats
+- Ground-type Pokemon as a defensive option
+- Bulky Pokemon that appreciate the immunity and healing
+- Pokemon designed to counter Ground-type threats
 - Rock/Steel types vulnerable to Ground coverage
 
 ### Version History

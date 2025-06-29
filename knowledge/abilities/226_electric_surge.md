@@ -2,21 +2,21 @@
 id: 226
 name: Electric Surge
 status: ai-generated
-character_count: 300
+character_count: 299
 ---
 
-# Electric Surge (Ability ID: 226)
+# Electric Surge - Ability ID 226
 
 ## In-Game Description
 "Casts Electric Terrain on entry. Lasts 8 turns."
 
-## Extended In-Game Description (280-300 chars)
-Creates Electric Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon can't fall asleep and Electric moves gain 50% power. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon. Overrides other terrains when activated.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 300*
+Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 50% power boost. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon while active. Overrides other terrains when activated.
 
 ## Detailed Mechanical Explanation
-**Electric Surge** automatically sets Electric Terrain when the Pokémon enters battle, providing powerful Electric-type support and sleep immunity.
+**Electric Surge** automatically sets Electric Terrain when the Pokemon enters battle, providing powerful Electric-type support and sleep immunity.
 
 ### Trigger Conditions
 - Activates immediately upon entering battle
@@ -31,14 +31,14 @@ Creates Electric Terrain for 8 turns (12 with Terrain Extender) on entry. Ground
 
 ### Electric Terrain Effects
 1. **Electric-type Power Boost**:
-   - Electric moves used by grounded Pokémon: 1.5x power (50% boost)
-   - Only affects Pokémon touching the ground
+   - Electric moves used by grounded Pokemon: 1.5x power (50% boost)
+   - Only affects Pokemon touching the ground
    - Flying-types, Levitate, Magnet Rise users unaffected
 
 2. **Sleep Prevention**:
-   - Grounded Pokémon cannot fall asleep
-   - Already sleeping Pokémon don't wake up
-   - Rest fails for grounded Pokémon
+   - Grounded Pokemon cannot fall asleep
+   - Already sleeping Pokemon don't wake up
+   - Rest fails for grounded Pokemon
    - Yawn fails to cause sleep on grounded targets
 
 3. **Move Interactions**:
@@ -59,9 +59,9 @@ Creates Electric Terrain for 8 turns (12 with Terrain Extender) on entry. Ground
 - Not holding Air Balloon
 
 **Special Cases**:
-- Pokémon with Electric Surge/Hadron Engine treated as terrain-affected even if not grounded
+- Pokemon with Electric Surge/Hadron Engine treated as terrain-affected even if not grounded
 - Roost temporarily grounds Flying-types
-- Gravity grounds all Pokémon
+- Gravity grounds all Pokemon
 
 ### Special Interactions
 - **Weather**: Permanent Electric Terrain created by Rain Thunderstorm weather

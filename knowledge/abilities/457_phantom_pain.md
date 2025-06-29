@@ -15,8 +15,6 @@ character_count: 294
 
 Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon with regular effectiveness. This bypasses the natural type interaction where Ghost moves normally have no effect on Normal-types. Works with all Ghost-type moves and their variants.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

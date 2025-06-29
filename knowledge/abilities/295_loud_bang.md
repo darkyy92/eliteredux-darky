@@ -15,8 +15,6 @@ character_count: 287
 
 Sound-based moves have a 50% chance to confuse the target upon successful hit. This includes all moves with the sound flag like Growl, Roar, Sing, Supersonic, Screech, and Hyper Voice. The confusion effect only triggers when the move connects and affects the target.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Loud Bang is an offensive ability that activates when the user successfully hits
 
 ### Activation Conditions
 The ability triggers when ALL of the following conditions are met:
-1. The Pokémon with Loud Bang uses a sound-based move
+1. The Pokemon with Loud Bang uses a sound-based move
 2. The move successfully hits the opponent
 3. The target is not immune to confusion effects
 4. A 50% random chance check passes (`Random() % 2`)
@@ -57,7 +55,7 @@ Common sound moves that trigger Loud Bang include:
 - **Supersonic** - Confuses target
 - **Screech** - Lowers Defense
 - **Hyper Voice** - 90 power Normal-type attack
-- **Perish Song** - Causes both Pokémon to faint in 3 turns
+- **Perish Song** - Causes both Pokemon to faint in 3 turns
 - **Heal Bell** - Cures status conditions
 - **Uproar** - 90 power attack that prevents sleep for 3 turns
 - **Metal Sound** - Lowers Special Defense
@@ -67,7 +65,7 @@ Common sound moves that trigger Loud Bang include:
 - **Round** - 60 power Normal-type attack that doubles if ally uses it
 - **Echoed Voice** - Increases power each consecutive turn
 - **Relic Song** - Meloetta's signature move
-- **Boomburst** - 140 power Normal-type attack hitting all nearby Pokémon
+- **Boomburst** - 140 power Normal-type attack hitting all nearby Pokemon
 - **Parting Shot** - Lowers Attack and Special Attack, then switches out
 - **Sparkling Aria** - 90 power Water-type attack that cures burns
 - **Clanging Scales** - 110 power Dragon-type attack that lowers Defense
@@ -75,8 +73,8 @@ Common sound moves that trigger Loud Bang include:
 - **And many custom moves added in Elite Redux**
 
 ### Interactions with Other Abilities/Mechanics
-- **Soundproof**: Pokémon with Soundproof are immune to sound moves, so Loud Bang cannot affect them
-- **Own Tempo**: Pokémon with Own Tempo cannot be confused, blocking Loud Bang's effect
+- **Soundproof**: Pokemon with Soundproof are immune to sound moves, so Loud Bang cannot affect them
+- **Own Tempo**: Pokemon with Own Tempo cannot be confused, blocking Loud Bang's effect
 - **Mental Herb**: Cures confusion immediately, negating the effect
 - **Substitute**: Sound moves bypass Substitute, so Loud Bang can still trigger
 - **Throat Chop**: If the user is affected by Throat Chop, they cannot use sound moves for 2 turns
@@ -85,25 +83,25 @@ Common sound moves that trigger Loud Bang include:
 ### Strategic Implications
 - **Offensive Utility**: Provides additional disruption potential to sound-based attackers
 - **Move Selection**: Encourages use of sound moves even if they're not the most powerful option
-- **Team Building**: Pairs well with Pokémon that learn multiple sound moves
+- **Team Building**: Pairs well with Pokemon that learn multiple sound moves
 - **Disruption Factor**: Can turn utility moves like Growl into potential confusion setters
 
 ### Example Damage Calculations
 Loud Bang itself doesn't affect damage calculations, but the confusion it causes can:
-- Confused Pokémon have a 33% chance to hurt themselves instead of attacking
+- Confused Pokemon have a 33% chance to hurt themselves instead of attacking
 - Self-damage from confusion is calculated as a 40 power typeless physical attack against the user's own Defense stat
 
 ### Common Users
 In Elite Redux, Loud Bang is typically found on:
-- Sound-themed Pokémon (Exploud line, Chatot, etc.)
-- Pokémon with strong sound move coverage
-- Support Pokémon that use sound-based utility moves
+- Sound-themed Pokemon (Exploud line, Chatot, etc.)
+- Pokemon with strong sound move coverage
+- Support Pokemon that use sound-based utility moves
 
 ### Competitive Usage Notes
-- **Disruption Tool**: Excellent for disrupting opposing sweepers and setup Pokémon
+- **Disruption Tool**: Excellent for disrupting opposing sweepers and setup Pokemon
 - **Utility Enhancement**: Makes normally weak sound moves like Growl potentially game-changing
 - **Stacking Effects**: Can combine with other confusion-inducing moves for consistent disruption
-- **Counter-Setup**: Particularly effective against Pokémon trying to set up with stat-boosting moves
+- **Counter-Setup**: Particularly effective against Pokemon trying to set up with stat-boosting moves
 
 ### Counters
 - **Soundproof**: Complete immunity to sound moves prevents activation
@@ -121,4 +119,4 @@ In Elite Redux, Loud Bang is typically found on:
 ### Version History
 - Added in Elite Redux as part of the expanded ability system
 - Part of the 295+ ability range for custom Elite Redux abilities
-- Designed to provide utility to sound-based movesets and Pokémon
+- Designed to provide utility to sound-based movesets and Pokemon

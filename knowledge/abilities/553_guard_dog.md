@@ -15,8 +15,6 @@ character_count: 290
 
 Guard Dog prevents forced switching from moves like Roar, Whirlwind, Dragon Tail, and Circle Throw, plus items like Red Card. When affected by Intimidate, it boosts Attack by one stage instead of lowering it. Perfect immunity to switch-forcing effects and stat control.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -75,7 +73,7 @@ When the opponent's Intimidate ability activates:
 **Defensive Uses**:
 - Prevents phazing from hazard-setting teams
 - Blocks Red Card switches that could disrupt strategy
-- Forces opponents to deal with the Pokémon directly
+- Forces opponents to deal with the Pokemon directly
 
 **Team Synergy**:
 - Excellent on setup sweepers like Dragon Dance users
@@ -101,11 +99,11 @@ When the opponent's Intimidate ability activates:
 ### Example Damage Calculations
 Guard Dog doesn't affect damage calculations directly, but the Attack boost from inverted Intimidate provides:
 - +1 Attack stage = 1.5x physical attack power
-- Example: 100 Base Power move goes from 100 → 150 effective power
+- Example: 100 Base Power move goes from 100 to 150 effective power
 
 ### Common Users
 In Elite Redux, Guard Dog is typically found on:
-- Dog-like Pokémon (thematically appropriate)
+- Dog-like Pokemon (thematically appropriate)
 - Defensive walls that need to maintain field presence
 - Setup sweepers requiring guaranteed setup time
 
@@ -125,13 +123,13 @@ In Elite Redux, Guard Dog is typically found on:
 - Direct KO moves (bypasses switch prevention)
 - Special attackers (Intimidate inversion only helps physical attacks)
 - Status moves and other stat-reducing effects
-- Pokémon that don't rely on forced switching or Intimidate
+- Pokemon that don't rely on forced switching or Intimidate
 
 ### Synergies
 **Excellent Partners**:
 - Entry hazard setters (Guard Dog user can't be phased out)
-- Baton Pass Pokémon (safe setup and passing)
-- Pokémon with setup moves (guaranteed setup time)
+- Baton Pass Pokemon (safe setup and passing)
+- Pokemon with setup moves (guaranteed setup time)
 
 **Item Synergies**:
 - Leftovers (extended staying power)

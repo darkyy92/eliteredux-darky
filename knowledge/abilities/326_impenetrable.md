@@ -2,15 +2,22 @@
 id: 326
 name: Impenetrable
 status: ai-generated
-character_count: 838
+character_count: 294
 ---
 
-# Impenetrable (Ability #326)
+# Impenetrable - Ability ID 326
 
-## Overview
-**Impenetrable** is a defensive ability that provides comprehensive protection against all forms of indirect damage. The Pokémon with this ability can only take damage from direct attacking moves, making it immune to various environmental hazards and status-related damage sources.
+## In-Game Description
+Provides comprehensive protection against all forms of indirect damage.
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Impenetrable grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. The Pokemon can only take damage from direct attacking moves, making it completely immune to Spikes, Stealth Rock, Sandstorm, Poison, Burn, and similar effects.
+
+## Detailed Mechanical Explanation
+
+### Mechanics
 
 ### Core Protection
 Impenetrable protects against all non-attack damage sources:
@@ -34,12 +41,12 @@ Impenetrable protects against all non-attack damage sources:
 ## Extended In-Game Description
 **Character Count Check**: Let me count the extended description characters:
 
-"Provides complete immunity to all forms of indirect damage including entry hazards like Spikes and Stealth Rock, weather effects such as Sandstorm and Hail, status condition damage from Poison and Burn, recoil damage from high-power moves, and various other sources."
+"Immune to all indirect damage sources: entry hazards (Spikes/Stealth Rock/Toxic Spikes), weather damage (Sandstorm/Hail), status damage (Poison/Burn/Bleeding), recoil damage (from moves/Life Orb), and other non-attack damage. Only direct attack moves can hurt this Pkmn. Struggle still damages."
 
-Let me count: "Provides complete immunity to all forms of indirect damage including entry hazards like Spikes and Stealth Rock, weather effects such as Sandstorm and Hail, status condition damage from Poison and Burn, recoil damage from high-power moves, and various other sources." = 296 characters.
+Let me count: "Immune to all indirect damage sources: entry hazards (Spikes/Stealth Rock/Toxic Spikes), weather damage (Sandstorm/Hail), status damage (Poison/Burn/Bleeding), recoil damage (from moves/Life Orb), and other non-attack damage. Only direct attack moves can hurt this Pkmn. Struggle still damages." = 292 characters.
 
-**Extended Description (296 characters):**
-"Provides complete immunity to all forms of indirect damage including entry hazards like Spikes and Stealth Rock, weather effects such as Sandstorm and Hail, status condition damage from Poison and Burn, recoil damage from high-power moves, and various other sources."
+**Extended Description (292 characters):**
+"Immune to all indirect damage sources: entry hazards (Spikes/Stealth Rock/Toxic Spikes), weather damage (Sandstorm/Hail), status damage (Poison/Burn/Bleeding), recoil damage (from moves/Life Orb), and other non-attack damage. Only direct attack moves can hurt this Pkmn. Struggle still damages."
 
 ## Battle Applications
 
@@ -66,7 +73,7 @@ constexpr Ability Impenetrable = {
 The protection is checked throughout the battle system via the `IsMagicGuardProtected()` function, which returns true for battlers with this ability or when Magic Room is active.
 
 ## Related Systems
-- **Magic Room**: Field condition that grants Magic Guard effect to all Pokémon
+- **Magic Room**: Field condition that grants Magic Guard effect to all Pokemon
 - **IsMagicGuardProtected()**: Central function for checking protection
 - **Entry hazard system**: Spikes and Stealth Rock damage calculation
 - **Weather damage system**: Sandstorm and Hail end-of-turn effects

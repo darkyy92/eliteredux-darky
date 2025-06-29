@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Purifying Waters combines Water Veil and Hydration effects. On entry, surrounds the Pokémon with healing waters that restore 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at turn end.
-
-*Character count: 294*
+Purifying Waters combines Water Veil and Hydration effects. On entry, surrounds the Pokemon with healing waters that restore 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at turn end.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -31,10 +29,10 @@ This ability inherits effects from two separate abilities:
 ### Activation Conditions
 
 #### Water Veil Component (Always Active)
-- **On entry**: Automatically surrounds the Pokémon with Aqua Ring
+- **On entry**: Automatically surrounds the Pokemon with Aqua Ring
   - Provides 1/16 maximum HP healing at the end of each turn
   - Healing boosted by Big Root if held
-  - Visual effect shows water veil surrounding the Pokémon
+  - Visual effect shows water veil surrounding the Pokemon
 - **Burn immunity**: Completely immune to burn status
 - **Burn removal**: Removes existing burn status when switching in
 
@@ -76,7 +74,7 @@ constexpr Ability PurifyingWaters = {
 #### Burn Immunity
 - Completely prevents burn status from being applied
 - Triggers immunity message when burn is attempted
-- Removes existing burn status when the Pokémon enters battle
+- Removes existing burn status when the Pokemon enters battle
 - Works against all burn sources including Flame Body, Scald, etc.
 
 #### Rain Status Cleansing
@@ -172,7 +170,7 @@ constexpr Ability PurifyingWaters = {
 #### Ideal Candidates
 - Bulky Water types that benefit from sustained healing
 - Rain team defensive cores
-- Pokémon that fear status conditions
+- Pokemon that fear status conditions
 - Mixed walls that need longevity
 
 #### Competitive Roles

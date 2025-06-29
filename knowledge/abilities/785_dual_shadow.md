@@ -15,17 +15,15 @@ character_count: 291
 
 This ability combines two distinct effects: it switches between two forms at the end of each turn like Hunger Switch, and provides enhanced offensive power for Electric and Dark-type moves at a cost. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 **Dual Shadow** is a complex ability that merges form-switching mechanics with offensive enhancement:
 
 ### Form Switching Component (Hunger Switch)
-- At the end of each turn, the Pokémon switches between two forms
+- At the end of each turn, the Pokemon switches between two forms
 - Currently implemented for Morpeko ↔ Morpeko-Hangry transformation
-- Does not activate if the Pokémon is transformed via Transform
+- Does not activate if the Pokemon is transformed via Transform
 - Form switching is unsuppressable and cannot be negated by abilities like Neutralizing Gas
 
 ### Offensive Enhancement Component

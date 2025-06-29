@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-To The Bone boosts critical hit damage by 50% and causes all critical hits to inflict bleeding. Bleeding deals 1/16 max HP damage each turn like poison. Only critical hits can trigger bleeding through this ability. Excellent for high crit rate Pokémon.
-
-*Character count: 285*
+To The Bone boosts critical hit damage by 50% and causes all critical hits to inflict bleeding. Bleeding deals 1/16 max HP damage each turn like poison. Only critical hits can trigger bleeding through this ability. Excellent for high crit rate Pokemon.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -62,7 +60,7 @@ constexpr Ability ToTheBone = {
 - **Damage calculation**: `BLEED_DAMAGE(maxHP) = maxHP / 16`
 - **Minimum damage**: Always deals at least 1 HP damage
 - **Status type**: Primary status condition (like burn, poison, paralysis)
-- **Immunity**: Rock-type and Ghost-type Pokémon are immune to bleeding
+- **Immunity**: Rock-type and Ghost-type Pokemon are immune to bleeding
 - **Magic Guard interaction**: Bleeding damage is blocked by Magic Guard
 - **Healing**: Can be cured by items, moves, or abilities that cure status conditions
 
@@ -81,10 +79,10 @@ The ability creates a powerful synergy loop:
 
 ### Important Interactions
 - **Focus Energy/Lucky Chant**: Abilities that affect crit rates indirectly affect bleeding frequency
-- **Super Luck**: Pokémon with high natural crit rates maximize this ability's potential
+- **Super Luck**: Pokemon with high natural crit rates maximize this ability's potential
 - **Scope Lens/Razor Claw**: Items that boost crit rate increase bleeding application
 - **Multi-hit moves**: Each hit can potentially trigger bleeding if it crits
-- **Substitute**: Bleeding bypasses Substitute and damages the real Pokémon
+- **Substitute**: Bleeding bypasses Substitute and damages the real Pokemon
 - **Taunt**: Doesn't prevent the ability from working
 
 ### Bleeding Status Details
@@ -95,7 +93,7 @@ The ability creates a powerful synergy loop:
 - **Fainting**: Bleeding can cause fainting if HP drops to 0
 
 ### Strategic Applications
-- **Crit-focused builds**: Excellent on Pokémon with high crit ratios or crit-boosting moves
+- **Crit-focused builds**: Excellent on Pokemon with high crit ratios or crit-boosting moves
 - **Pressure builds**: Bleeding provides consistent chip damage over time
 - **Switching punishment**: Forces opponents to stay in or lose HP
 - **Stall breaking**: Continuous damage helps break defensive strategies
@@ -108,18 +106,18 @@ The ability creates a powerful synergy loop:
 - **Versatility**: Effective on both physical and special attackers
 
 ### Common Users
-- Pokémon with naturally high critical hit ratios
+- Pokemon with naturally high critical hit ratios
 - Users of high-crit moves (Slash, Cross Chop, Stone Edge)
-- Pokémon with access to Focus Energy or similar setup moves
-- Offensive Pokémon that can benefit from both immediate and sustained damage
+- Pokemon with access to Focus Energy or similar setup moves
+- Offensive Pokemon that can benefit from both immediate and sustained damage
 
 ### Counters and Limitations
 - **Crit immunity**: Abilities like Battle Armor or Shell Armor negate both effects
-- **Status immunity**: Pokémon immune to status conditions avoid bleeding
+- **Status immunity**: Pokemon immune to status conditions avoid bleeding
 - **Type immunity**: Rock and Ghost types cannot be inflicted with bleeding
 - **Magic Guard**: Completely negates bleeding damage
 - **Healing**: Aromatherapy, Heal Bell, and similar moves cure bleeding
-- **Low crit rate**: Pokémon with poor critical hit chances rarely activate the ability
+- **Low crit rate**: Pokemon with poor critical hit chances rarely activate the ability
 
 ### Synergistic Moves and Items
 - **High-crit moves**: Slash, Psycho Cut, Cross Chop, Stone Edge
@@ -136,7 +134,7 @@ The ability creates a powerful synergy loop:
 ### Damage Calculations
 ```
 Normal critical hit: 2.0x damage
-To The Bone critical hit: 3.0x damage (2.0 × 1.5)
+To The Bone critical hit: 3.0x damage (2.0 x 1.5)
 Bleeding damage per turn: Target Max HP ÷ 16 (minimum 1)
 
 Example with 400 HP target:
@@ -146,7 +144,7 @@ Example with 400 HP target:
 ```
 
 ### Notable Interactions
-- **Sniper stacking**: If a Pokémon somehow has both abilities, effects would stack to 2.25x crit damage
+- **Sniper stacking**: If a Pokemon somehow has both abilities, effects would stack to 2.25x crit damage
 - **Life Orb**: Bleeding damage is not boosted by Life Orb
 - **Weather**: Bleeding damage is not affected by weather conditions
 - **Abilities**: Can trigger other on-damage abilities when bleeding damage is taken

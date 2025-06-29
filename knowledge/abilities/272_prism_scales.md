@@ -15,14 +15,12 @@ character_count: 284
 
 Prism Scales reduces damage from all Special attacks by 30%. This defensive ability provides excellent protection against special sweepers and powerful special moves. Works against all forms of special damage including status moves that deal damage. The ability is breakable by Mold Breaker effects.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 - **Damage Reduction**: Multiplies incoming special attack damage by 0.7 (30% reduction)
-- **Activation**: Triggers automatically when the Pokémon is targeted by any special attack
+- **Activation**: Triggers automatically when the Pokemon is targeted by any special attack
 - **Move Classification**: Uses the `IS_MOVE_SPECIAL(move)` check to determine if a move is special
 
 ### Technical Implementation
@@ -64,29 +62,29 @@ All moves with the Special category are affected, including:
 ### Strategic Implications
 - **Defensive Core**: Excellent for special tanks and defensive pivots
 - **Special Walls**: Transforms moderate special defense into excellent special bulk
-- **Synergy with HP**: Most effective on Pokémon with high HP stats
+- **Synergy with HP**: Most effective on Pokemon with high HP stats
 - **Team Role**: Ideal for checking special attackers and special-based weather teams
 
 ### Example Damage Calculations
 ```
 Base Damage: 100
-With Prism Scales: 100 × 0.7 = 70 damage
+With Prism Scales: 100 x 0.7 = 70 damage
 Effective Bulk Increase: 100/70 = ~43% more special bulk
 ```
 
 If combined with a 2x type resistance:
 ```
 Base Damage: 100
-Type Resistance: 100 × 0.5 = 50
-With Prism Scales: 50 × 0.7 = 35 damage
+Type Resistance: 100 x 0.5 = 50
+With Prism Scales: 50 x 0.7 = 35 damage
 Total Reduction: 65% damage reduction
 ```
 
 ### Common Users
-Based on the codebase analysis, Prism Scales appears as both a regular ability and innate ability on various Pokémon, including:
-- Several Dragon-type Pokémon (often Water/Dragon combinations)
-- Defensive wall Pokémon with high special defense
-- Legendary and pseudo-legendary Pokémon as an innate ability
+Based on the codebase analysis, Prism Scales appears as both a regular ability and innate ability on various Pokemon, including:
+- Several Dragon-type Pokemon (often Water/Dragon combinations)
+- Defensive wall Pokemon with high special defense
+- Legendary and pseudo-legendary Pokemon as an innate ability
 
 ### Competitive Usage Notes
 - **Meta Positioning**: Strong in special attack-heavy metagames

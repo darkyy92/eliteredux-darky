@@ -15,8 +15,6 @@ character_count: 289
 
 Apple Pie combines Self Sufficient and Ripen effects. Heals 1/16 of max HP at the end of each turn and doubles all berry effects including healing, stat boosts, and damage from offensive berries. Perfect for sustained battles with berry-based strategies and natural recovery.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -53,7 +51,7 @@ Ripen doubles the effectiveness of all berry effects:
 - **Stat boost berries**: Liechi Berry, Petaya Berry, etc. give +2 stages instead of +1
 - **Status recovery berries**: Healing amount doubled
 - **Damage berries**: Jaboca Berry, Rowap Berry deal 2x damage
-- **Resist berries**: Damage reduction increased (0.5x → 0.25x)
+- **Resist berries**: Damage reduction increased (0.5x to 0.25x)
 - **PP restoration**: Leppa Berry restores 2x PP
 
 #### Technical Implementation
@@ -87,15 +85,15 @@ The two components work together excellently:
 ### Berry Interactions
 
 #### Common Enhanced Berries
-- **Oran Berry**: 20 HP → 40 HP healing
-- **Sitrus Berry**: 25% max HP → 50% max HP healing
-- **Liechi Berry**: +1 Attack → +2 Attack when HP ≤ 25%
-- **Petaya Berry**: +1 Sp. Atk → +2 Sp. Atk when HP ≤ 25%
-- **Leppa Berry**: +10 PP → +20 PP restoration
-- **Jaboca/Rowap Berry**: 1/8 max HP → 1/4 max HP damage to attacker
+- **Oran Berry**: 20 HP to 40 HP healing
+- **Sitrus Berry**: 25% max HP to 50% max HP healing
+- **Liechi Berry**: +1 Attack to +2 Attack when HP ≤ 25%
+- **Petaya Berry**: +1 Sp. Atk to +2 Sp. Atk when HP ≤ 25%
+- **Leppa Berry**: +10 PP to +20 PP restoration
+- **Jaboca/Rowap Berry**: 1/8 max HP to 1/4 max HP damage to attacker
 
 #### Resist Berry Enhancement
-- **Normal resist berries**: 50% damage reduction → 75% damage reduction
+- **Normal resist berries**: 50% damage reduction to 75% damage reduction
 - **Super effective coverage**: Makes resist berries extremely potent
 - **Defensive utility**: Significant damage mitigation against specific types
 
@@ -151,10 +149,10 @@ The two components work together excellently:
 - **Anti-meta**: Resist berries counter specific threats
 
 #### Common Users
-- Pokémon with naturally high bulk
+- Pokemon with naturally high bulk
 - Setup sweepers who benefit from stat berries
-- Defensive Pokémon needing multiple recovery sources
-- Pokémon weak to common types (resist berry users)
+- Defensive Pokemon needing multiple recovery sources
+- Pokemon weak to common types (resist berry users)
 
 ### Version History
 - Elite Redux exclusive combination ability

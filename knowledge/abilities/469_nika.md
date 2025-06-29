@@ -15,8 +15,6 @@ character_count: 295
 
 Nika combines Iron Fist's 30% power boost to punching moves with protection for Water-type attacks in sunny weather. While Water moves normally deal reduced damage in sun, Nika prevents this penalty, allowing them to function at full power. Perfect for mixed attackers.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

@@ -15,8 +15,6 @@ character_count: 282
 
 Automatically changes Aegislash's form based on moves used. Shield form switches to Blade when using damaging moves. Blade switches to Shield with King's Shield. Redux forms swap between physical/special based on move type. Unsuppressable. Form changes occur before attacks execute.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -31,14 +29,14 @@ Automatically changes Aegislash's form based on moves used. Shield form switches
 ### Form Changes:
 
 1. **Standard Aegislash Forms**:
-   - **Shield Form → Blade Form**: When using any damaging move (power > 0)
-   - **Blade Form → Shield Form**: When using King's Shield
+   - **Shield Form to Blade Form**: When using any damaging move (power > 0)
+   - **Blade Form to Shield Form**: When using King's Shield
    - Shield Form: High defenses (150/150), low offenses (50/50)
    - Blade Form: High offenses (150/150), low defenses (50/50)
 
 2. **Redux Forms (Elite Redux Exclusive)**:
-   - **Blade Redux → Shield Redux**: When using physical moves (non-arrow based)
-   - **Shield Redux → Blade Redux**: When using special moves or arrow-based moves
+   - **Blade Redux to Shield Redux**: When using physical moves (non-arrow based)
+   - **Shield Redux to Blade Redux**: When using special moves or arrow-based moves
    - **Mega Forms**: Follow same pattern as regular Redux forms
    - Redux forms have different stat distributions than standard forms
 
@@ -46,7 +44,7 @@ Automatically changes Aegislash's form based on moves used. Shield form switches
 - **Arrow Moves**: Always treated as special moves for Redux form determination
 - **State Updates**: Properly updates ability state indices when changing forms (UpdateAbilityStateIndicesForNewSpecies)
 - **No Change**: Returns FALSE if no valid form change is possible
-- **Randomizer**: Cannot be randomly assigned to other Pokémon
+- **Randomizer**: Cannot be randomly assigned to other Pokemon
 
 ### Technical Implementation:
 ```c
@@ -83,7 +81,7 @@ constexpr Ability StanceChange = {
 - Speed tier changes dramatically between forms
 - Must balance offensive pressure with defensive positioning
 
-### Pokémon with Stance Change:
+### Pokemon with Stance Change:
 - Aegislash (all standard forms)
 - Aegislash Redux (all forms)
 - Aegislash Mega and Redux Mega forms

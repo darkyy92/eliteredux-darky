@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Queen's Mourning activates when any stat is lowered on the Pokémon's side of the field, not just the Pokémon with this ability. When triggered, it raises both Special Attack and Special Defense by one stage each. Works with partner Pokémon in doubles, making it excellent for support.
-
-*Character count: 284*
+Queen's Mourning activates when any stat is lowered on the Pokemon's side of the field, not just the Pokemon with this ability. When triggered, it raises both Special Attack and Special Defense by one stage each. Works with partner Pokemon in doubles, making it excellent for support.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,10 +23,10 @@ Queen's Mourning is a reactive ability that triggers when any stat decrease occu
 
 ### Activation Conditions
 - **Trigger requirement**: Any stat decrease on the user's side of the field
-  - Includes the Pokémon with Queen's Mourning
-  - Includes the partner Pokémon in doubles/multi battles  
+  - Includes the Pokemon with Queen's Mourning
+  - Includes the partner Pokemon in doubles/multi battles  
   - Does NOT include the opposing side's stat changes
-- **Exclusion**: Does NOT trigger if the stat decrease comes from the partner Pokémon or the user itself
+- **Exclusion**: Does NOT trigger if the stat decrease comes from the partner Pokemon or the user itself
 - **Timing**: Activates immediately after the stat decrease message
 - **Stat boosts**: Raises Special Attack and Special Defense by +1 stage each
 
@@ -81,10 +79,10 @@ Queen's Mourning excels in doubles due to its side-based activation:
 
 ### Activation Examples
 **Triggers on:**
-- Opponent uses Charm on your partner → Queen's Mourning activates
-- Opponent uses Screech on the user → Queen's Mourning activates  
-- Opponent's Intimidate lowers your Attack → Queen's Mourning activates
-- Opponent uses Acid Spray on either ally → Queen's Mourning activates
+- Opponent uses Charm on your partner to Queen's Mourning activates
+- Opponent uses Screech on the user to Queen's Mourning activates  
+- Opponent's Intimidate lowers your Attack to Queen's Mourning activates
+- Opponent uses Acid Spray on either ally to Queen's Mourning activates
 
 **Does NOT trigger on:**
 - Your own Overheat lowering your Special Attack
@@ -94,9 +92,9 @@ Queen's Mourning excels in doubles due to its side-based activation:
 
 ### Common Users
 - Special attackers who want both offense and defense
-- Doubles support Pokémon
+- Doubles support Pokemon
 - Tanks that can capitalize on stat boosts
-- Pokémon with naturally high Special Attack/Defense
+- Pokemon with naturally high Special Attack/Defense
 
 ### Competitive Usage Notes
 - **Doubles focused**: Much stronger in doubles than singles

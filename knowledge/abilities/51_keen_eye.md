@@ -15,8 +15,6 @@ character_count: 288
 
 Keen Eye prevents accuracy stat reductions from moves like Sand Attack and Smokescreen. Additionally, all moves gain a 1.2x accuracy boost, making normally unreliable moves more consistent. This ability is breakable by Mold Breaker and similar abilities, but provides excellent reliability for accuracy-dependent movesets.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Keen Eye prevents accuracy stat reductions from moves like Sand Attack and Smoke
 
 ### Accuracy Enhancement:
 - **Boost**: All moves gain 1.2x accuracy multiplier
-- **Application**: Multiplicative with base accuracy (100% → 120%, 85% → 102%, 70% → 84%)
+- **Application**: Multiplicative with base accuracy (100% to 120%, 85% to 102%, 70% to 84%)
 - **Priority**: ACCURACY_MULTIPLICATIVE - applies after base accuracy calculations
 - **Stacking**: Can stack with other accuracy boosts (e.g., X Accuracy items, Compound Eyes)
 
@@ -56,11 +54,11 @@ constexpr Ability KeenEye = {
 ```
 
 ### Move Synergies:
-1. **Thunder** (70% → 84% accuracy) - Excellent for rain teams
-2. **Blizzard** (70% → 84% accuracy) - Reliable outside hail
-3. **Focus Blast** (70% → 84% accuracy) - Much more consistent
-4. **Stone Edge** (80% → 96% accuracy) - Near-perfect accuracy
-5. **High Jump Kick** (90% → 108% accuracy) - Cannot miss when boosted
+1. **Thunder** (70% to 84% accuracy) - Excellent for rain teams
+2. **Blizzard** (70% to 84% accuracy) - Reliable outside hail
+3. **Focus Blast** (70% to 84% accuracy) - Much more consistent
+4. **Stone Edge** (80% to 96% accuracy) - Near-perfect accuracy
+5. **High Jump Kick** (90% to 108% accuracy) - Cannot miss when boosted
 
 ### Interaction Rules:
 - **vs Evasion**: Ignores opponent's evasion boosts only if target has higher evasion stage
@@ -87,11 +85,11 @@ constexpr Ability KeenEye = {
 - **Many Bird Pokemon**: Innate ability, commonly paired with Flock ability
 
 ### Calculation Examples:
-- Thunder: 70% × 1.2 = 84% accuracy
-- Focus Blast: 70% × 1.2 = 84% accuracy  
-- Stone Edge: 80% × 1.2 = 96% accuracy
-- Fire Blast: 85% × 1.2 = 102% accuracy (effectively 100%)
-- Blizzard: 70% × 1.2 = 84% accuracy (outside hail)
+- Thunder: 70% x 1.2 = 84% accuracy
+- Focus Blast: 70% x 1.2 = 84% accuracy  
+- Stone Edge: 80% x 1.2 = 96% accuracy
+- Fire Blast: 85% x 1.2 = 102% accuracy (effectively 100%)
+- Blizzard: 70% x 1.2 = 84% accuracy (outside hail)
 
 ### Version History:
 - **Gen 3-4**: Only prevented accuracy reductions

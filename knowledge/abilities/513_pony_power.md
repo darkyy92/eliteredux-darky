@@ -15,13 +15,11 @@ character_count: 286
 
 Blade's Essence combines Keen Edge and Mystic Blades effects. Boosts slicing moves by 30% and allows physical slicing moves to use the higher of Attack or Special Attack. This includes moves like Slash, Leaf Blade, Air Slash, and Night Slash. Perfect for mixed attackers wanting versatility.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Pony Power (internally named "Blade's Essence") is a hybrid offensive ability that combines two distinct blade-focused abilities: Keen Edge and Mystic Blades. This creates a powerful synergy for Pokémon that rely on slicing attacks.
+Pony Power (internally named "Blade's Essence") is a hybrid offensive ability that combines two distinct blade-focused abilities: Keen Edge and Mystic Blades. This creates a powerful synergy for Pokemon that rely on slicing attacks.
 
 ### Component Abilities Breakdown
 
@@ -78,7 +76,7 @@ constexpr Ability PonyPower = {
 - **Typing**: Water/Fighting
 
 ### Strategic Implications
-- **Mixed attacker optimization**: Perfect for Pokémon with high Special Attack using physical moves
+- **Mixed attacker optimization**: Perfect for Pokemon with high Special Attack using physical moves
 - **Move variety**: Can run both physical and special slicing moves effectively
 - **Unpredictability**: Physical moves might use special attack, confusing opponents
 - **Coverage expansion**: Enables access to physical slicing moves without stat penalty
@@ -90,7 +88,7 @@ constexpr Ability PonyPower = {
 - **Ability suppression**: Both components disabled if ability is suppressed
 
 ### Competitive Usage Notes
-- **Keldeo Resolute exclusive**: Only available on one form of one Pokémon
+- **Keldeo Resolute exclusive**: Only available on one form of one Pokemon
 - **Sacred Sword synergy**: Keldeo's signature move benefits greatly from this ability
 - **Mixed sets**: Enables effective mixed attacking sets with slicing moves
 - **Stat distribution**: Keldeo's 129 SpA vs 117 Atk makes physical slicing moves hit harder
@@ -98,8 +96,8 @@ constexpr Ability PonyPower = {
 ### Damage Calculation Example
 ```
 Base Scenario: Sacred Sword (Physical, 90 BP)
-- Normal: 90 BP × Attack stat
-- With Pony Power: 90 BP × 1.3 × Special Attack (if SpA > Atk)
+- Normal: 90 BP x Attack stat
+- With Pony Power: 90 BP x 1.3 x Special Attack (if SpA > Atk)
 - Keldeo Resolute: Uses 129 SpA instead of 117 Atk, plus 30% boost
 ```
 

@@ -15,8 +15,6 @@ character_count: 294
 
 Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when hit by special moves. Bleeding deals 1/16 of max HP damage each turn, similar to poison. Only affects special attacks like Thunderbolt, Psychic, and Flamethrower. Cannot affect Pokemon immune to bleeding.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

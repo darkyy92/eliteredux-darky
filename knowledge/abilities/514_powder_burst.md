@@ -15,23 +15,21 @@ character_count: 296
 
 Powder Burst automatically uses Powder on entry, coating the target with explosive powder. If the target uses any Fire-type move while coated, they take 25% max HP damage and the powder is consumed. Provides immediate battlefield control against Fire-type attackers.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Powder Burst is an entry ability that automatically applies the Powder status condition to an opponent when the Pokémon enters the battlefield. The Powder status creates a dangerous trap that punishes Fire-type move usage.
+Powder Burst is an entry ability that automatically applies the Powder status condition to an opponent when the Pokemon enters the battlefield. The Powder status creates a dangerous trap that punishes Fire-type move usage.
 
 ### Activation Conditions
-- **Entry trigger**: Activates automatically when the Pokémon enters battle
+- **Entry trigger**: Activates automatically when the Pokemon enters battle
 - **Target selection**: Automatically targets an opponent (typically the active opponent)
 - **No accuracy check**: Cannot miss since it's an ability effect
 - **Bypasses immunity**: Applied as an ability effect, not a move
 
 ### Powder Status Effects
 - **Status duration**: Lasts until end of turn (STATUS2_POWDER)
-- **Fire move trigger**: Activates when the affected Pokémon uses any Fire-type move
+- **Fire move trigger**: Activates when the affected Pokemon uses any Fire-type move
 - **Damage calculation**: Deals 25% of the target's max HP as damage
 - **Magic Guard interaction**: Prevents damage if the target has Magic Guard
 - **Move cancellation**: The Fire-type move still executes after taking damage
@@ -62,12 +60,12 @@ if (gBattleMons[gBattlerAttacker].status2 & STATUS2_POWDER) {
 - **Baton Pass**: Powder status is preserved when Baton Passing
 - **Turn end**: Powder status is automatically removed at end of turn
 - **Overcoat immunity**: Overcoat prevents powder moves from affecting the user
-- **Multiple applications**: Can be reapplied if the Pokémon switches out and back in
+- **Multiple applications**: Can be reapplied if the Pokemon switches out and back in
 
 ### Strategic Implications
 - **Anti-Fire utility**: Deters Fire-type attackers and sweepers
 - **Entry pressure**: Provides immediate battlefield control upon switching in
-- **Suicide deterrent**: Discourages Fire-type Pokémon from staying in
+- **Suicide deterrent**: Discourages Fire-type Pokemon from staying in
 - **Mindgames**: Forces opponents to consider their Fire-type moves carefully
 - **Limited duration**: Only lasts one turn, requiring careful timing
 
@@ -112,11 +110,11 @@ if (gBattleMons[gBattlerAttacker].status2 & STATUS2_POWDER) {
 - Elite Redux original ability
 - Part of the extended ability system
 - Provides unique anti-Fire utility not found in other games
-- Commonly distributed among Bug-type Pokémon as thematic fit
+- Commonly distributed among Bug-type Pokemon as thematic fit
 
 ### Damage Calculation Details
 - **Base damage**: 25% of target's maximum HP
 - **Rounding**: Rounded down (standard HP damage rounding)
 - **Immunity**: Magic Guard completely prevents damage
 - **No type effectiveness**: Powder explosion is typeless damage
-- **Substitute**: Damages the Pokémon directly, not the substitute
+- **Substitute**: Damages the Pokemon directly, not the substitute

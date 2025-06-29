@@ -2,27 +2,26 @@
 id: 185
 name: Parental Bond
 status: ai-generated
-character_count: 296
+character_count: 297
 ---
 
-# Parental Bond (Ability #185)
+# Parental Bond - Ability ID 185
 
-## Basic Information
+## In-Game Description
+"Moves hit twice. 1st hit at 100% power, 2nd hit at 25%."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
+
+## Detailed Mechanical Explanation
+
+**Basic Information:**
 - **Name**: Parental Bond
 - **ID**: 185
 - **Generation**: VI (X/Y)
 - **Type**: Offensive Multi-hit
-
-## Current Description
-**In-game**: "Moves hit twice. 1st hit at 100% power, 2nd hit at 25%."
-
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
-
-Character count: 283
-
-## Mechanical Analysis
 
 ### Core Functionality
 Parental Bond causes most moves to hit twice with the following power distribution:
@@ -52,12 +51,12 @@ Parental Bond causes most moves to hit twice with the following power distributi
 
 ## Competitive Usage
 
-### Pokémon with Parental Bond
+### Pokemon with Parental Bond
 Primary users include:
 - **Kangaskhan** (original user, main changeable ability)
 - **Nidoqueen** (as innate ability)  
 - **Zarude-Dada** (as changeable ability)
-- **Various Elite Redux custom Pokémon** (as innate ability)
+- **Various Elite Redux custom Pokemon** (as innate ability)
 
 ### Synergies
 - **Life Orb**: Damage boost applies to both hits, recoil only once
@@ -79,7 +78,7 @@ Primary users include:
 ## Version History
 - **Generation VI**: Introduced on Mega Kangaskhan
 - **Generation VII**: Nerfed to 50% second hit power in official games
-- **Elite Redux**: Maintains 25% second hit power, expanded to more Pokémon
+- **Elite Redux**: Maintains 25% second hit power, expanded to more Pokemon
 
 ## Related Abilities
 - **Multi-Scale**: Defensive counterpart (reduces damage at full HP)

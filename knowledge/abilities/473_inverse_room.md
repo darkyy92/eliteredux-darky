@@ -13,18 +13,16 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Inversion automatically sets up Inverse Room when the Pokémon enters battle, lasting exactly 3 turns. Inverse Room reverses all type effectiveness interactions - super effective moves become not very effective and vice versa. Field effect cannot be reactivated while active. Game-changing.
-
-*Character count: 289*
+Inversion automatically sets up Inverse Room when the Pokemon enters battle, lasting exactly 3 turns. Inverse Room reverses all type effectiveness interactions - super effective moves become not very effective and vice versa. Field effect cannot be reactivated while active. Game-changing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Inversion is a field-controlling ability that automatically establishes Inverse Room when the Pokémon enters battle. This fundamentally changes the battle dynamic by reversing all type effectiveness calculations for all Pokémon on the field.
+Inversion is a field-controlling ability that automatically establishes Inverse Room when the Pokemon enters battle. This fundamentally changes the battle dynamic by reversing all type effectiveness calculations for all Pokemon on the field.
 
 ### Activation Conditions
-- **Trigger**: Activates automatically when the Pokémon with Inversion enters battle
+- **Trigger**: Activates automatically when the Pokemon with Inversion enters battle
 - **Duration**: Exactly 3 turns (INVERSE_ROOM_DURATION_SHORT)
 - **Field status**: Sets STATUS_FIELD_INVERSE_ROOM
 - **Reactivation**: Cannot be triggered again while Inverse Room is already active
@@ -53,11 +51,11 @@ constexpr Ability InverseRoom = {
 
 ### Type Effectiveness Examples
 With Inverse Room active:
-- **Fire vs Water**: Normally not very effective (0.5x) → becomes super effective (2x)
-- **Water vs Fire**: Normally super effective (2x) → becomes not very effective (0.5x)
-- **Electric vs Ground**: Normally no effect (0x) → remains no effect (0x)
-- **Normal vs Ghost**: Normally no effect (0x) → remains no effect (0x)
-- **Fighting vs Normal**: Normally normal effectiveness (1x) → remains normal (1x)
+- **Fire vs Water**: Normally not very effective (0.5x) to becomes super effective (2x)
+- **Water vs Fire**: Normally super effective (2x) to becomes not very effective (0.5x)
+- **Electric vs Ground**: Normally no effect (0x) to remains no effect (0x)
+- **Normal vs Ghost**: Normally no effect (0x) to remains no effect (0x)
+- **Fighting vs Normal**: Normally normal effectiveness (1x) to remains normal (1x)
 
 ### Battle Messages
 - **On activation**: "{POKÉMON}'s Inverse Room set up Inverse Room!"
@@ -80,7 +78,7 @@ With Inverse Room active:
 
 ### Strategic Implications
 - **Team building**: Requires complete rethinking of type matchups
-- **Lead potential**: Excellent as a lead Pokémon to set field conditions
+- **Lead potential**: Excellent as a lead Pokemon to set field conditions
 - **Coverage moves**: Previously resisted moves become super effective
 - **Defensive typing**: Resistances become weaknesses and vice versa
 - **Speed control**: 3-turn duration means limited window of opportunity
@@ -99,11 +97,11 @@ With Inverse Room active:
 - **Duration management**: Only 3 turns to capitalize on reversed effectiveness
 - **Entry timing**: Vulnerable if switched in during opponent's attack turn
 
-### Pokémon That Learn This Ability
+### Pokemon That Learn This Ability
 Based on the ability's unique nature and implementation:
-- Likely exclusive to specific legendary or mythical Pokémon
-- Pokémon with reality-warping or dimension-controlling themes
-- Psychic-type Pokémon with space/time manipulation abilities
+- Likely exclusive to specific legendary or mythical Pokemon
+- Pokemon with reality-warping or dimension-controlling themes
+- Psychic-type Pokemon with space/time manipulation abilities
 
 ### Synergies
 - **Room moves**: Pairs with other room effects for field control

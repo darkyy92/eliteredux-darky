@@ -5,15 +5,17 @@ status: ai-generated
 character_count: 294
 ---
 
-# Guardian Coat (Ability ID: 838)
+# Guardian Coat - Ability ID 838
 
-## Short Description
+## In-Game Description
 Blocks weather dmg and powders. Takes -20% physical damage.
 
 ## Extended In-Game Description
 Guardian Coat provides triple protection: complete immunity to weather damage from sandstorm and hail, total immunity to all powder-based moves like Sleep Powder and Spore, and reduces all physical damage taken by 20%. This defensive ability can be suppressed by Mold Breaker-type abilities.
 
-## Implementation Details
+## Detailed Mechanical Explanation
+
+### Implementation Details
 
 ### Source Code Location
 - **Definition**: `src/abilities.cc` (line ~9666)

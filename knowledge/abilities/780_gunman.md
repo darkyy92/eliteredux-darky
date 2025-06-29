@@ -15,8 +15,6 @@ character_count: 297
 
 Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as projectile moves, meaning they also receive the 30% damage boost and trigger other projectile-based effects.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -33,16 +31,16 @@ Gunman is an enhanced version of Mega Launcher that provides the following effec
 
 ### Boosted Move Categories
 **Traditional Mega Launcher moves include:**
-- Water Gun (40 BP → 52 BP)
-- Hydro Pump (110 BP → 143 BP)
-- Aura Sphere (85 BP → 111 BP)
-- Steel Beam (140 BP → 182 BP)
-- Scale Shot (25 BP per hit → 33 BP per hit)
-- Spike Cannon (25 BP per hit → 33 BP per hit)
-- Rock Blast (25 BP per hit → 33 BP per hit)
-- Anchor Shot (80 BP → 104 BP)
-- Rock Wrecker (120 BP → 156 BP)
-- Wyrm Wind (25 BP per hit → 33 BP per hit)
+- Water Gun (40 BP to 52 BP)
+- Hydro Pump (110 BP to 143 BP)
+- Aura Sphere (85 BP to 111 BP)
+- Steel Beam (140 BP to 182 BP)
+- Scale Shot (25 BP per hit to 33 BP per hit)
+- Spike Cannon (25 BP per hit to 33 BP per hit)
+- Rock Blast (25 BP per hit to 33 BP per hit)
+- Anchor Shot (80 BP to 104 BP)
+- Rock Wrecker (120 BP to 156 BP)
+- Wyrm Wind (25 BP per hit to 33 BP per hit)
 
 **Unique to Gunman:**
 - ALL status moves receive the 30% boost (converted to damaging when applicable)
@@ -77,4 +75,4 @@ int IsMegaLauncherBoosted(int battler, MoveEnum move) {
 - Extremely powerful ability that turns status moves into offensive tools
 - Enhances both traditional projectile moves and status moves
 - Creates unique strategic opportunities by making status moves interact with projectile-based effects
-- Particularly valuable on Pokémon with diverse movepools containing both status and traditional pulse/aura moves
+- Particularly valuable on Pokemon with diverse movepools containing both status and traditional pulse/aura moves

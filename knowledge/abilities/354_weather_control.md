@@ -5,9 +5,15 @@ status: ai-generated
 character_count: 290
 ---
 
-# Weather Control (Ability #354)
+# Weather Control - Ability ID 354
 
-**In-Game Description**: "Negates all weather based moves from enemies."
+## In-Game Description
+"Negates all weather based moves from enemies."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Grants immunity to 18 weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Blizzard, Weather Ball, all Storm moves, OHKO Sheer Cold, and pledge moves. Does NOT stop weather setup or damage. Pure defensive tool against specific attacks, not actual weather control.
 
 ## Detailed Mechanical Explanation
 
@@ -39,7 +45,7 @@ The immunity logic (shared with Delta Stream) at line 2043:
 ### Implementation Details
 - **Hook**: Uses `onImmune` (same as Delta Stream ability #191)
 - **Trigger**: When opponent uses a move with `FLAG_WEATHER_BASED` flag
-- **Effect**: Complete immunity - move fails with "It doesn't affect [Pokémon]..."
+- **Effect**: Complete immunity - move fails with "It doesn't affect [Pokemon]..."
 - **Battle Message**: Uses the same "protected by its ability" message as Soundproof
 - **Self-Exception**: The user's own weather-based moves are unaffected (prevents self-immunity)
 - **Breakable**: Can be bypassed by Mold Breaker and similar abilities (`breakable = TRUE`)
@@ -77,29 +83,29 @@ The immunity logic (shared with Delta Stream) at line 2043:
 - **Soundproof**: Similar immunity mechanism but for sound-based moves
 - **Bulletproof**: Similar immunity mechanism but for ball and bomb moves
 
-## Pokémon with Weather Control
+## Pokemon with Weather Control
 
-Based on the species data, Weather Control appears primarily as an **innate ability** on the following Pokémon:
+Based on the species data, Weather Control appears primarily as an **innate ability** on the following Pokemon:
 
 ### Water-Type Weather Masters
-- **Psyduck** - Duck Pokémon with psychic weather control
+- **Psyduck** - Duck Pokemon with psychic weather control
 - **Golduck** - Evolved form with enhanced weather mastery
 
-### The Weather Pokémon
+### The Weather Pokemon
 - **Castform (all forms)** - Normal, Sunny, Rainy, Snowy, and Shadow forms
   - Base Castform and all weather-transformed variants
-  - Thematically perfect fit as the Weather Pokémon
+  - Thematically perfect fit as the Weather Pokemon
 
 ### Legendary Weather Controllers  
 - **Dragonite** - Pseudo-legendary dragon with weather influence
 - **Forces of Nature Trio**:
-  - **Tornadus** (Incarnate and Therian forms) - Cyclone Pokémon
-  - **Thundurus** (Incarnate and Therian forms) - Bolt Strike Pokémon  
-  - **Landorus** (Incarnate and Therian forms) - Abundance Pokémon
-- **Rayquaza** - Sky High Pokémon that controls atmospheric conditions
-- **Enamorus** (Incarnate and Therian forms) - Love-Hate Pokémon
+  - **Tornadus** (Incarnate and Therian forms) - Cyclone Pokemon
+  - **Thundurus** (Incarnate and Therian forms) - Bolt Strike Pokemon  
+  - **Landorus** (Incarnate and Therian forms) - Abundance Pokemon
+- **Rayquaza** - Sky High Pokemon that controls atmospheric conditions
+- **Enamorus** (Incarnate and Therian forms) - Love-Hate Pokemon
 
-These Pokémon typically have Weather Control as one of their three innate abilities, alongside other powerful abilities that complement their legendary status and weather theme.
+These Pokemon typically have Weather Control as one of their three innate abilities, alongside other powerful abilities that complement their legendary status and weather theme.
 
 ### Strategic Implications
 Weather Control is a defensive ability that hard-counters specific moves rather than weather conditions. It's particularly effective against:
@@ -110,3 +116,4 @@ Weather Control is a defensive ability that hard-counters specific moves rather 
 - **Weather Ball abusers** who rely on type/power changes
 
 The ability name is somewhat misleading - it doesn't control weather conditions but rather blocks a specific set of moves that happen to be weather-related in theme or function. This makes it a specialized defensive tool rather than a weather manipulation ability.
+

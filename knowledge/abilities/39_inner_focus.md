@@ -13,9 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Inner Focus provides immunity to flinching, Intimidate-like effects (Intimidate, Scare, Fearmonger, etc.), and status conditions from Taunt. Additionally, when this Pokémon uses Focus Blast, it bypasses accuracy checks and always hits the target, improving its battle reliability.
-
-*Character count: 280*
+Inner Focus provides immunity to flinching, Intimidate-like effects (Intimidate, Scare, Fearmonger, etc.), and status conditions from Taunt. Additionally, when this Pokemon uses Focus Blast, it bypasses accuracy checks and always hits the target, improving its battle reliability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -51,11 +49,11 @@ constexpr Ability InnerFocus = {
 ### Intimidate Immunity Mechanics:
 - Uses the `tauntImmune = TRUE` flag which is checked by `IsBattlerImmuneToLowerStatsFromIntimidateClone()`
 - When an Intimidate-clone ability activates, Inner Focus users are completely unaffected
-- No stat changes occur, and no battle message is displayed for the immune Pokémon
+- No stat changes occur, and no battle message is displayed for the immune Pokemon
 
 ### Breakable Property:
 - **Mold Breaker Effects**: Inner Focus can be bypassed by Mold Breaker, Teravolt, Turboblaze, and similar abilities
-- When suppressed, the Pokémon loses all immunities and Focus Blast accuracy bonus
+- When suppressed, the Pokemon loses all immunities and Focus Blast accuracy bonus
 - This is the main counterplay to Inner Focus's defensive benefits
 
 ### Competitive Applications:
@@ -65,7 +63,7 @@ constexpr Ability InnerFocus = {
 4. **Anti-Control**: Immunity to Taunt prevents status move lockdown
 
 ### Common Users:
-- Primarily found on Psychic and Fighting-type Pokémon
+- Primarily found on Psychic and Fighting-type Pokemon
 - Often paired with Focus Blast users for maximum benefit
 - Valuable on special attackers that rely on non-damaging moves
 

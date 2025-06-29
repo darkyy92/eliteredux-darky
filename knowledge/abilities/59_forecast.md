@@ -1,19 +1,19 @@
 ---
 id: 59
-name: "Forecast (Ability ID: 59)"
+name: Forecast
 status: ai-generated
 character_count: 262
 ---
 
-# Forecast (Ability ID: 59)
+# Forecast - Ability ID 59
 
 ## In-Game Description
 "Changes form with the weather. Attacks when setting weather."
 
-## Extended In-Game Description (280-300 chars)
-Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability that works even under Mold Breaker effects.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 286*
+Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability that works even under Mold Breaker effects.
 
 ## Detailed Mechanical Explanation
 **Forecast** is Castform's signature ability that combines form transformation with automatic offensive follow-ups.
@@ -40,11 +40,11 @@ Castform transforms based on active weather conditions:
 ### Weather Ball Follow-Up Details
 - **Base Power**: 50 normally, doubles to 100 because weather is active
 - **Type Changes**: Adapts to match the newly set weather
-  - Rain → Water-type
-  - Sun → Fire-type
-  - Sandstorm → Rock-type  
-  - Hail → Ice-type
-  - Eerie Fog → Ghost-type
+  - Rain to Water-type
+  - Sun to Fire-type
+  - Sandstorm to Rock-type  
+  - Hail to Ice-type
+  - Eerie Fog to Ghost-type
 - **Targeting**: Uses same target as the weather-setting move
 - **Trigger Condition**: Activates through `UseAttackerFollowUpMove` system
 

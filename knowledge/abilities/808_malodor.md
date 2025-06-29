@@ -15,8 +15,6 @@ character_count: 294
 
 When hit by a contact move, Malodor suppresses the attacker's ability until they switch out, similar to Gastro Acid. This prevents abilities like Poison Touch, Static, or Flame Body from activating on subsequent turns. The suppression persists even if the Malodor user faints.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

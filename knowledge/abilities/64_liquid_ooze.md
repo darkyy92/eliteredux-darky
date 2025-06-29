@@ -15,12 +15,10 @@ character_count: 278
 
 Liquid Ooze reverses all healing effects from drain moves, causing the attacker to take damage instead. Affects Absorb, Drain Punch, Giga Drain, Leech Life, and similar draining attacks. The damage equals what would have been healed. Perfect counter to healing-based strategies.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**LIQUID OOZE** is a defensive counter-ability that punishes opponents for attempting to drain HP from this Pokémon.
+**LIQUID OOZE** is a defensive counter-ability that punishes opponents for attempting to drain HP from this Pokemon.
 
 ### Core Mechanics:
 - **Drain Reversal**: All HP-draining moves deal damage to the attacker instead of healing
@@ -47,8 +45,8 @@ Based on AI behavior and message systems:
 - Likely uses `onAbsorb` hook returning damage instead of healing
 
 ### Damage Mechanics:
-- **Standard Absorption**: 50% of damage → 50% damage to attacker
-- **Big Root**: Enhanced absorption → Enhanced damage to attacker  
+- **Standard Absorption**: 50% of damage to 50% damage to attacker
+- **Big Root**: Enhanced absorption to Enhanced damage to attacker  
 - **Minimum Damage**: At least 1 HP damage guaranteed
 - **Maximum Damage**: Proportional to original drain amount
 
@@ -56,7 +54,7 @@ Based on AI behavior and message systems:
 - **Anti-Drain**: Hard counters drain-based strategies
 - **Passive Deterrent**: AI avoids using drain moves
 - **Team Support**: Protects team from Leech Seed/drain spam
-- **Defensive Wall**: Punishes attempts to sustain against bulky Pokémon
+- **Defensive Wall**: Punishes attempts to sustain against bulky Pokemon
 
 ### Elite Redux Context:
 - **AI Integration**: Battle AI specifically recognizes and avoids triggering
@@ -73,7 +71,7 @@ Based on AI behavior and message systems:
 ### Common Users:
 - **Tentacruel**: Classic Liquid Ooze user with high HP
 - **Gulpin/Swalot**: Poison-types immune to Toxic damage
-- **Pokémon with drain vulnerability**: Those weak to Life Orb + drain combos
+- **Pokemon with drain vulnerability**: Those weak to Life Orb + drain combos
 
 ### Competitive Usage:
 - **Defensive Core**: Protects against sustain strategies

@@ -15,8 +15,6 @@ character_count: 296
 
 Infiltrator allows moves to bypass protective effects that would normally block or reduce damage. All moves ignore Substitute dolls and damage reduction screens like Reflect, Light Screen, and Aurora Veil. Also bypasses Mist when using stat-lowering moves, ensuring attacks connect at full power.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -39,7 +37,7 @@ constexpr Ability Infiltrator = {
 ### Activation Conditions
 - **Always Active**: No setup required, works on all moves
 - **Damage Calculation**: Screens provide 50% damage reduction (33% in doubles), which Infiltrator completely negates
-- **Substitute Interaction**: Moves hit the real Pokémon instead of being blocked by the doll
+- **Substitute Interaction**: Moves hit the real Pokemon instead of being blocked by the doll
 
 ### Affected Screens
 1. **Reflect**: Halves physical damage (bypassed)
@@ -59,7 +57,7 @@ constexpr Ability Infiltrator = {
 - **Status Application**: Stat-lowering moves always work against Mist users
 
 ### Common Users in Elite Redux
-Pokémon commonly found with Infiltrator include:
+Pokemon commonly found with Infiltrator include:
 - Noctowl
 - Crobat 
 - Seviper

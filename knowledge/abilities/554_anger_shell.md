@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When this Pokémon's HP drops below half from an attack, it triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle when crossing the threshold.
-
-*Character count: 293*
+When this Pokemon's HP drops below half from an attack, it triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle when crossing the threshold.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -65,26 +63,26 @@ constexpr Ability AngerShell = {
 - Compatible with Contrary (would invert the stat changes)
 
 **Strategic Implications:**
-- Transforms defensive Pokémon into immediate offensive threats
+- Transforms defensive Pokemon into immediate offensive threats
 - Risk/reward mechanic - trading bulk for power when weakened
-- Excellent on Pokémon with recovery moves to repeatedly threaten the threshold
+- Excellent on Pokemon with recovery moves to repeatedly threaten the threshold
 - Pairs well with Focus Sash or Sturdy to guarantee survival
 
 **Common Users:**
 - Coalossal (Fire/Rock type with defensive stats)
-- Various Rock-type Pokémon with high defensive stats
+- Various Rock-type Pokemon with high defensive stats
 
 **Competitive Usage:**
 - Strong in formats where taking damage is inevitable
-- Creates immediate pressure when Pokémon reaches low HP
-- Forces opponents to either finish the Pokémon quickly or face a boosted sweeper
-- Excellent comeback mechanic for bulky offensive Pokémon
+- Creates immediate pressure when Pokemon reaches low HP
+- Forces opponents to either finish the Pokemon quickly or face a boosted sweeper
+- Excellent comeback mechanic for bulky offensive Pokemon
 
 **Counters:**
 - Multi-hit moves (won't trigger on final hit)
 - Status moves that don't deal damage
 - Abilities that prevent stat changes (Clear Body, White Smoke)
-- Priority moves to finish off weakened Pokémon
+- Priority moves to finish off weakened Pokemon
 - Phasing moves (Roar, Whirlwind) to remove stat boosts
 
 **Synergies:**

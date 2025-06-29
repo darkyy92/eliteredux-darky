@@ -13,9 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-RKS System changes the Pokémon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
-
-*Character count: 266*
+RKS System changes the Pokemon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,24 +23,24 @@ RKS System is Silvally's signature ability that combines three powerful mechanic
 ### Core Mechanics
 
 1. **Type Transformation via Memory Items**: Silvally's form and type change based on held Memory disc:
-   - Fighting Memory → Fighting-type Silvally
-   - Flying Memory → Flying-type Silvally
-   - Poison Memory → Poison-type Silvally
-   - Ground Memory → Ground-type Silvally
-   - Rock Memory → Rock-type Silvally
-   - Bug Memory → Bug-type Silvally
-   - Ghost Memory → Ghost-type Silvally
-   - Steel Memory → Steel-type Silvally
-   - Fire Memory → Fire-type Silvally
-   - Water Memory → Water-type Silvally
-   - Grass Memory → Grass-type Silvally
-   - Electric Memory → Electric-type Silvally
-   - Psychic Memory → Psychic-type Silvally
-   - Ice Memory → Ice-type Silvally
-   - Dragon Memory → Dragon-type Silvally
-   - Dark Memory → Dark-type Silvally
-   - Fairy Memory → Fairy-type Silvally
-   - No Memory → Normal-type Silvally
+   - Fighting Memory to Fighting-type Silvally
+   - Flying Memory to Flying-type Silvally
+   - Poison Memory to Poison-type Silvally
+   - Ground Memory to Ground-type Silvally
+   - Rock Memory to Rock-type Silvally
+   - Bug Memory to Bug-type Silvally
+   - Ghost Memory to Ghost-type Silvally
+   - Steel Memory to Steel-type Silvally
+   - Fire Memory to Fire-type Silvally
+   - Water Memory to Water-type Silvally
+   - Grass Memory to Grass-type Silvally
+   - Electric Memory to Electric-type Silvally
+   - Psychic Memory to Psychic-type Silvally
+   - Ice Memory to Ice-type Silvally
+   - Dragon Memory to Dragon-type Silvally
+   - Dark Memory to Dark-type Silvally
+   - Fairy Memory to Fairy-type Silvally
+   - No Memory to Normal-type Silvally
 
 2. **Protean Effect**: Before using any attack, Silvally changes its type to match the move's type
    - Activates once per turn (once-per-turn ability flag)
@@ -109,13 +107,13 @@ static const struct FormChange sSilvallyFormChangeTable[] = {
 - Starts as Fire-type (Memory effect)
 - Uses Flamethrower (Fire-type move)
 - Already Fire-type, no Protean activation needed
-- STAB (2x): 90 × 2 = 180 effective power
+- STAB (2x): 90 x 2 = 180 effective power
 
 **Fighting Memory Silvally using Thunder**:
 - Starts as Fighting-type
 - Uses Thunder (Electric-type move)
 - Protean activates: becomes Electric-type
-- STAB (2x): 110 × 2 = 220 effective power
+- STAB (2x): 110 x 2 = 220 effective power
 
 ### Common Users
 

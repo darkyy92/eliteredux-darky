@@ -15,8 +15,6 @@ character_count: 289
 
 Adds Psychic type on entry and grants Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards completely. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation effects.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

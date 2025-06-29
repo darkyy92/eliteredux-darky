@@ -5,19 +5,19 @@ status: ai-generated
 character_count: 289
 ---
 
-# Fey Flight
+# Fey Flight - Ability ID 843
 
-## Summary
+## In-Game Description
 Adds Fairy-type and levitates.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Fey Flight grants the Pokemon two powerful defensive benefits: it adds the Fairy-type as a third type and provides immunity to Ground-type moves through levitation. The Fairy typing grants resistances to Fighting, Bug, and Dark moves while adding weaknesses to Poison and Steel. The levitation effect works identically to Levitate ability, making the Pokemon immune to Ground attacks, Spikes, Toxic Spikes, Sticky Web, and Arena Trap. This combination makes the Pokemon exceptionally versatile defensively.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Extended Description (289 characters)
 Grants the mystical powers of the fey, adding Fairy as a third type and enabling magical levitation. The Fairy typing provides key resistances to Fighting, Bug, and Dark moves while the levitation grants complete immunity to Ground-type attacks and entry hazards like Spikes and Sticky Web.
 
-## Mechanics Details
+## Detailed Mechanical Explanation
+
+### Mechanics Details
 - **Type Addition**: Adds Fairy as type3 slot (does not replace existing types)
 - **Levitation**: Provides complete Ground immunity and hazard avoidance
 - **Breakable**: Can be suppressed by Mold Breaker-like abilities

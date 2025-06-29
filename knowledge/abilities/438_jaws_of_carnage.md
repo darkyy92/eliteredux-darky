@@ -13,15 +13,13 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Jaws of Carnage heals the Pokémon when it defeats an opponent. Restores 50% max HP when defeating foes with biting moves (Thunder Fang, Crunch, etc.) or 25% with other moves. Works only when not at full HP. Powerful ability for sustained battles and sweeping teams.
-
-*Character count: 287*
+Jaws of Carnage heals the Pokemon when it defeats an opponent. Restores 50% max HP when defeating foes with biting moves (Thunder Fang, Crunch, etc.) or 25% with other moves. Works only when not at full HP. Powerful ability for sustained battles and sweeping teams.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Jaws of Carnage is a recovery ability that triggers when the Pokémon defeats an opponent, providing different healing amounts based on the move used to secure the knockout.
+Jaws of Carnage is a recovery ability that triggers when the Pokemon defeats an opponent, providing different healing amounts based on the move used to secure the knockout.
 
 ### Activation Conditions
 - **KO requirement**: Must defeat an opponent to trigger

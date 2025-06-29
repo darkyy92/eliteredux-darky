@@ -2,7 +2,7 @@
 id: 88
 name: Download
 status: ai-generated
-character_count: 302
+character_count: 298
 ---
 
 # Download - Ability ID 88
@@ -13,9 +13,7 @@ character_count: 302
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Download analyzes the opposing Pokémon's defenses upon entering battle. If the foe's Defense is higher than Special Defense, it raises Special Attack by one stage. If Special Defense is higher or equal, it raises Attack by one stage. Works on switch-in and analyzes actual stat values including boosts.
-
-*Character count: 298*
+Download analyzes the opposing Pokemon's defenses upon entering battle. If the foe's Defense is higher than Special Defense, it raises Special Attack by one stage. If Special Defense is higher or equal, it raises Attack by one stage. Works on switch-in and uses actual stat values including boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Download analyzes the opposing Pokémon's defenses upon entering battle. If the 
 
 ### Activation Mechanics:
 - **Trigger**: On entry to battle (onEntry hook)
-- **Target Analysis**: Examines the opposing Pokémon's Defense vs Special Defense
+- **Target Analysis**: Examines the opposing Pokemon's Defense vs Special Defense
 - **Stat Comparison**: Uses actual stat values including stat stage modifiers
 - **Boost Applied**: +1 stage to either Attack or Special Attack
 
@@ -37,8 +35,8 @@ Download analyzes the opposing Pokémon's defenses upon entering battle. If the 
 2. **Defense Calculation**:
    - Compares Defense vs Special Defense including stat stages
    - Uses `GetHighestDefendingStatId` function with stat stages included
-   - If Defense > Special Defense → Raises Special Attack
-   - If Special Defense ≥ Defense → Raises Attack
+   - If Defense > Special Defense to Raises Special Attack
+   - If Special Defense ≥ Defense to Raises Attack
 
 3. **Boost Application**:
    - Standard +1 stat stage increase
@@ -69,8 +67,8 @@ The ability performs a simple but effective analysis:
 
 ### Interaction Rules:
 - **Multiple Opponents**: In doubles, only analyzes the direct opponent, not both foes
-- **Substitute**: Ignores substitutes and analyzes the actual Pokémon's stats
-- **Transform/Illusion**: Analyzes the apparent Pokémon's stats (what's visible)
+- **Substitute**: Ignores substitutes and analyzes the actual Pokemon's stats
+- **Transform/Illusion**: Analyzes the apparent Pokemon's stats (what's visible)
 - **Clear Body/White Smoke**: Download's boost to the user is not prevented by opponent's abilities
 
 ### Common Download Users:
@@ -95,7 +93,7 @@ The ability performs a simple but effective analysis:
 - **Abilities**: In Elite Redux, pairs well with offensive innate abilities
 
 ### Counterplay:
-- **Balanced Defenses**: Pokémon with equal Defense/Special Defense minimize Download's effectiveness
+- **Balanced Defenses**: Pokemon with equal Defense/Special Defense minimize Download's effectiveness
 - **Priority Moves**: Strike before Download user can utilize their boost
 - **Intimidate**: Neutralizes Attack boost if Download chooses physical
 - **Weather/Terrain**: Environmental damage can pressure before attacks
@@ -103,4 +101,4 @@ The ability performs a simple but effective analysis:
 ### Version History:
 - Gen 4: Introduced with Porygon-Z
 - Gen 5: Given to Genesect
-- Elite Redux: Available on various Pokémon as regular or innate ability
+- Elite Redux: Available on various Pokemon as regular or innate ability

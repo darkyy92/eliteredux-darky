@@ -2,20 +2,18 @@
 id: 80
 name: Steadfast
 status: ai-generated
-character_count: 313
+character_count: 300
 ---
 
 # Steadfast - Ability ID 80
 
 ## In-Game Description
-"Raises Speed by one stage if this Pokémon flinches."
+"Raises Speed by one stage if this Pokemon flinches."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (exactly 280-300 chars)*
 
-Steadfast boosts Speed by one stage when the Pokémon flinches, turning flinching into a benefit. Works alongside moves like Fake Out and high-flinch chance attacks. The Speed boost occurs immediately after the flinch, potentially allowing faster moves next turn. Combines with Rattled for potential double boosts.
-
-*Character count: 297*
+Steadfast boosts Speed by one stage when the Pokemon flinches, turning flinching into a benefit. Works with moves like Fake Out and high-flinch attacks. The Speed boost occurs immediately after the flinch, potentially allowing faster moves next turn. Can combine with Rattled for double Speed boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,15 +21,15 @@ Steadfast boosts Speed by one stage when the Pokémon flinches, turning flinchin
 **STEADFAST** is a reactive ability that converts flinching from a disadvantage into a Speed boost opportunity.
 
 ### Activation Mechanics:
-- **Trigger**: When the Pokémon flinches due to any move effect
+- **Trigger**: When the Pokemon flinches due to any move effect
 - **Effect**: Raises Speed by one stage (+50% Speed)
 - **Timing**: Activates immediately after the flinch prevents the move
 - **Script**: Displays ability name and "Speed rose!" message
 
 ### Flinch Interaction:
-1. **Flinch Occurs**: Pokémon takes damage and becomes unable to move
+1. **Flinch Occurs**: Pokemon takes damage and becomes unable to move
 2. **Steadfast Triggers**: Speed +1 stage boost applied
-3. **Turn Continues**: Other Pokémon can still act normally
+3. **Turn Continues**: Other Pokemon can still act normally
 4. **Next Turn**: Boosted Speed potentially allows first move
 
 ### Technical Implementation:
@@ -82,7 +80,7 @@ The following abilities prevent flinching entirely, making Steadfast irrelevant:
    - Increases opportunities for Steadfast activation
    - Particularly effective on multi-hit moves
 
-3. **Serene Grace Users**: Facing Pokémon with Serene Grace doubles flinch chances
+3. **Serene Grace Users**: Facing Pokemon with Serene Grace doubles flinch chances
    - Air Slash becomes 60% flinch chance
    - More opportunities for Speed boosts
 
@@ -97,7 +95,7 @@ The following abilities prevent flinching entirely, making Steadfast irrelevant:
 - **Riolu/Lucario**: Steadfast as regular ability option
 - **Meditite/Medicham**: Steadfast as regular ability option
 - **Gallade**: Steadfast as regular ability option
-- Various custom Pokémon in Elite Redux
+- Various custom Pokemon in Elite Redux
 
 ### Competitive Considerations:
 **Advantages:**
@@ -121,9 +119,9 @@ The following abilities prevent flinching entirely, making Steadfast irrelevant:
 ### Version History:
 - **Gen 4**: Introduction of Steadfast ability
 - **Elite Redux**: Maintained original functionality
-- **Elite Redux**: Added to various custom Pokémon as regular or innate ability
+- **Elite Redux**: Added to various custom Pokemon as regular or innate ability
 
 ### Edge Cases:
-- If Pokémon is already at +6 Speed, Steadfast still attempts to activate but shows "won't go higher"
+- If Pokemon is already at +6 Speed, Steadfast still attempts to activate but shows "won't go higher"
 - Multiple sources of flinching in one turn only trigger Steadfast once
 - Flinching from moves like Fake Out on switch-in can provide immediate Speed boost for subsequent turns

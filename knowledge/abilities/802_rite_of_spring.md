@@ -15,8 +15,6 @@ character_count: 295
 
 Boosts Speed by 50% in sun weather while also increasing the higher attacking stat by 50% in sun. Works with all forms of sun including regular sun, harsh sunlight, and Primal Groudon's weather. Both effects activate simultaneously when sun is present.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -116,13 +114,13 @@ All moves benefit from the Speed boost, while only attacking moves benefit from 
 
 **With Sun + Rite of Spring:**
 - Same Victreebel with 1.5x Attack/Special Attack boost
-- Solar Blade: Base 125 power × 1.5 stat boost × no charge turn = ~1.5x damage
+- Solar Blade: Base 125 power x 1.5 stat boost x no charge turn = ~1.5x damage
 - Speed also boosted by 1.5x for better sweep potential
 
 ### Common Users
 Based on current implementation:
 - **Victreebel**: Featured in trainer teams, physical/special mixed sets
-- **Custom species**: Various Grass-type or sun-oriented Pokémon
+- **Custom species**: Various Grass-type or sun-oriented Pokemon
 - **Competitive usage**: Primarily on dedicated sun teams
 
 ### Competitive Usage Notes
@@ -142,7 +140,7 @@ Based on current implementation:
 ### Counters
 
 **Direct Counters:**
-- **Weather changers**: Pokémon with Sand Stream, Snow Warning, Drizzle
+- **Weather changers**: Pokemon with Sand Stream, Snow Warning, Drizzle
 - **Cloud Nine/Air Lock users**: Golduck, Rayquaza (disables weather effects)
 - **Priority moves**: Bypass speed advantage
 - **Haze/Clear Smog**: Reset any stat changes (though ability boosts reapply)

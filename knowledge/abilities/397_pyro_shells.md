@@ -2,16 +2,20 @@
 id: 397
 name: Pyro Shells
 status: ai-generated
-character_count: 0
+character_count: 294
 ---
 
-# Pyro Shells (Ability #397)
+# Pyro Shells - Ability ID 397
 
-## Basic Information
-- **Type**: Follow-up Attack Enhancement
-- **Target**: Same as triggering move
-- **Activation**: After using any Mega Launcher-boosted move
-- **Follow-up Move**: Outburst (50 BP)
+## In-Game Description
+"Triggers 50 BP Outburst after using Mega Launcher moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Pyro Shells adds explosive aftermath to beam and pulse attacks, triggering a 50 BP Normal-type Outburst follow-up after any Mega Launcher-boosted move. This secondary explosion hits immediately after the initial attack without causing self-damage, creating devastating double strikes.
+
+## Detailed Mechanical Explanation
 
 ## Detailed Mechanics
 
@@ -71,10 +75,10 @@ Pyro Shells triggers on any move that benefits from Mega Launcher (1.3x power bo
 - **Chip Damage**: Consistent extra damage accumulates over time
 
 ### Combo Potential
-1. **Water Pulse → Outburst**: Reliable combo with confusion chance
-2. **Aura Sphere → Outburst**: Never-miss Fighting + Normal coverage
-3. **Zap Cannon → Outburst**: Paralysis setup with guaranteed follow-up
-4. **Dark Pulse → Outburst**: Flinch chance with immediate punishment
+1. **Water Pulse to Outburst**: Reliable combo with confusion chance
+2. **Aura Sphere to Outburst**: Never-miss Fighting + Normal coverage
+3. **Zap Cannon to Outburst**: Paralysis setup with guaranteed follow-up
+4. **Dark Pulse to Outburst**: Flinch chance with immediate punishment
 
 ### Competitive Advantages
 - **Pseudo-Parental Bond**: Similar to the banned ability but type-restricted
@@ -82,7 +86,7 @@ Pyro Shells triggers on any move that benefits from Mega Launcher (1.3x power bo
 - **Status Integration**: Even status moves like Heal Pulse trigger the effect
 - **Type Coverage**: Normal follow-up hits most types neutrally
 
-## Pokémon with Pyro Shells
+## Pokemon with Pyro Shells
 
 ### Primary Users
 1. **Magmortar** - Third ability slot
@@ -107,11 +111,11 @@ Pyro Shells triggers on any move that benefits from Mega Launcher (1.3x power bo
 ## Related Abilities
 
 ### Similar Follow-up Mechanics
-- **Volcano Rage (#382)**: Fire moves → 50 BP Eruption
-- **Thundercall (#388)**: Electric moves → 20% power Smite
-- **High Tide (#503)**: Water moves → 50 BP Surf
-- **Frost Burn (#475)**: Fire moves → 40 BP Ice Beam
-- **Aftershock (#491)**: Any powered move → 65 BP Magnitude
+- **Volcano Rage (#382)**: Fire moves to 50 BP Eruption
+- **Thundercall (#388)**: Electric moves to 20% power Smite
+- **High Tide (#503)**: Water moves to 50 BP Surf
+- **Frost Burn (#475)**: Fire moves to 40 BP Ice Beam
+- **Aftershock (#491)**: Any powered move to 65 BP Magnitude
 
 ### Key Differences
 - **Type Restriction**: Only works with Mega Launcher moves
@@ -143,7 +147,7 @@ Pyro Shells triggers on any move that benefits from Mega Launcher (1.3x power bo
 ### Team Synergy
 - **Choice Item Users**: Locked moves become more threatening
 - **Wallbreakers**: Extra damage helps overcome bulky threats
-- **Coverage Pokémon**: Diverse Mega Launcher moves provide type flexibility
+- **Coverage Pokemon**: Diverse Mega Launcher moves provide type flexibility
 - **Setup Sweepers**: More immediate pressure even before boosts
 
 ### Counters and Limitations
@@ -152,8 +156,9 @@ Pyro Shells triggers on any move that benefits from Mega Launcher (1.3x power bo
 - **Priority Moves**: Can interrupt before follow-up resolves
 - **Ability Suppression**: Neutralizing Gas disables the effect
 
+
 ## Conclusion
 
-Pyro Shells is a solid offensive ability that enhances Pokémon focused on beam and pulse attacks. While not as versatile as unrestricted follow-up abilities, its synergy with the diverse Mega Launcher move pool makes it a reliable damage amplifier. The ability shines on special attackers like Magmortar who naturally learn multiple triggering moves, effectively giving them a pseudo-Parental Bond effect for their signature attack style.
+Pyro Shells is a solid offensive ability that enhances Pokemon focused on beam and pulse attacks. While not as versatile as unrestricted follow-up abilities, its synergy with the diverse Mega Launcher move pool makes it a reliable damage amplifier. The ability shines on special attackers like Magmortar who naturally learn multiple triggering moves, effectively giving them a pseudo-Parental Bond effect for their signature attack style.
 
 The 50 BP follow-up provides meaningful damage without being overpowered, making Pyro Shells a well-balanced ability that rewards strategic movepool construction and type coverage planning.

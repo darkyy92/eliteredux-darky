@@ -15,8 +15,6 @@ character_count: 285
 
 When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status conditions.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -57,33 +55,33 @@ When Effect Spore triggers:
 
 ### Immunities and Protections
 **Complete immunity from:**
-- Grass-type Pokémon (powder immunity)
+- Grass-type Pokemon (powder immunity)
 - Overcoat ability
 - Safety Goggles item
 
 **Status-specific immunities:**
 - Electric-types can't be paralyzed
 - Poison/Steel-types can't be poisoned
-- Pokémon with Insomnia/Vital Spirit can't be put to sleep
-- Already statused Pokémon can't receive a second status
+- Pokemon with Insomnia/Vital Spirit can't be put to sleep
+- Already statused Pokemon can't receive a second status
 
 ### Ability Properties
 - **Breakable**: Can be suppressed by Mold Breaker
 - **Powder-based**: Treated as a powder effect for immunity purposes
 - **AI Rating**: 4/10 (moderate defensive value)
 
-### Pokémon with Effect Spore
+### Pokemon with Effect Spore
 **Common users:**
 - Paras/Parasect (mushroom theme)
 - Shroomish/Breloom  
 - Foongus/Amoonguss
 - Morelull/Shiinotic
-- Other mushroom/spore themed Pokémon
+- Other mushroom/spore themed Pokemon
 
 **Also available to:**
 - Cutiefly/Ribombee (innate ability)
 - Gossifleur/Eldegoss (cotton spores)
-- Various Pokémon through Elite Redux's expanded ability system
+- Various Pokemon through Elite Redux's expanded ability system
 
 ### Strategic Implications
 - **Physical deterrent**: Discourages contact moves
@@ -92,7 +90,7 @@ When Effect Spore triggers:
 - **Status roulette**: Opponent can't predict which status they'll receive
 
 ### Synergies
-- **Defensive builds**: Works well on bulky Pokémon that take multiple hits
+- **Defensive builds**: Works well on bulky Pokemon that take multiple hits
 - **Substitute**: Effect Spore still triggers when Substitute is hit
 - **Rocky Helmet**: Stacks chip damage with status chance
 - **Regenerator**: Can switch out and heal while opponent deals with status
@@ -107,7 +105,7 @@ When Effect Spore triggers:
 - Protective Pads item
 
 ### Competitive Usage Notes
-Effect Spore provides decent defensive utility but suffers from unreliability. The 30% activation rate and random status selection make it difficult to build strategies around. However, it can swing matches when it activates at crucial moments, particularly landing sleep. Best used on Pokémon that naturally want to absorb physical hits and can capitalize on any of the three status conditions.
+Effect Spore provides decent defensive utility but suffers from unreliability. The 30% activation rate and random status selection make it difficult to build strategies around. However, it can swing matches when it activates at crucial moments, particularly landing sleep. Best used on Pokemon that naturally want to absorb physical hits and can capitalize on any of the three status conditions.
 
 ### AI Behavior
 The AI considers Effect Spore when deciding whether to use contact moves, applying a small penalty (10% adjusted chance) to account for potential status. It weighs all three possible statuses equally when making decisions.

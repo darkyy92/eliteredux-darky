@@ -2,17 +2,22 @@
 id: 317
 name: Permafrost
 status: ai-generated
-character_count: 287
+character_count: 293
 ---
 
-# Permafrost (Ability #317)
+# Permafrost - Ability ID 317
+
+## In-Game Description
+"Reduces super-effective damage by 35%."
 
 ## Extended In-Game Description
-Character count: 287
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Permafrost creates a protective icy barrier that reduces damage from super-effective attacks by 35%. This defensive ability activates automatically when the Pokémon is hit by any move with 2.0x or greater type effectiveness. The damage reduction applies after type effectiveness calculation but before other damage modifiers. Cannot be bypassed by moves but can be suppressed by Mold Breaker-type abilities.
+Reduces damage from super-effective attacks by 35%. Activates when hit by moves with 2.0x type effectiveness or higher. Damage reduction applies after type calculations but before other defensive modifiers. Can be suppressed by Mold Breaker abilities but cannot be bypassed by moves directly.
 
-## Technical Implementation
+## Detailed Mechanical Explanation
+
+### Technical Implementation
 
 ### Core Mechanics
 - **Trigger Condition**: `typeEffectivenessModifier >= UQ_4_12(2.0)` (2.0x type effectiveness or higher)
@@ -53,7 +58,7 @@ constexpr Ability Permafrost = {
 
 ### Competitive Viability
 - **Tier**: Mid-tier defensive ability
-- **Best Users**: Pokémon with multiple type weaknesses or frail defensive stats
+- **Best Users**: Pokemon with multiple type weaknesses or frail defensive stats
 - **Synergy**: Pairs well with type-resist berries, Assault Vest, or other defensive items
 
 ## Related Abilities
@@ -71,13 +76,13 @@ constexpr Ability Permafrost = {
 | Filter | 25% | Yes | None |
 | Wonder Guard | 100% | Yes | Only allows super-effective damage |
 
-## Pokémon Distribution
+## Pokemon Distribution
 
 ### Primary Users (Notable Examples)
-- Ice-type Pokémon and their evolutionary lines
+- Ice-type Pokemon and their evolutionary lines
 - Legendary/Mythical Ice-types
-- Fossil Pokémon revived forms
-- Select defensive-oriented Pokémon
+- Fossil Pokemon revived forms
+- Select defensive-oriented Pokemon
 
 ### Common Combinations
 - **With Snow Warning**: Ice-types that set up hail/snow
@@ -102,4 +107,4 @@ constexpr Ability Permafrost = {
 - The ability uses the same threshold as Wonder Guard (UQ_4_12(2.0)) to determine super-effectiveness
 - Damage reduction is multiplicative, not additive, with other defensive modifiers
 - The ability is part of Elite Redux's expanded defensive ability pool for balancing offensive power creep
-- Thematically appropriate for Ice-types and cold-weather Pokémon
+- Thematically appropriate for Ice-types and cold-weather Pokemon

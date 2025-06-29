@@ -15,8 +15,6 @@ character_count: 297
 
 Sharp Edges inflicts 1/6 maximum HP damage to attackers using contact moves, making it significantly more punishing than Iron Barbs or Rough Skin which deal 1/8 damage. The retaliation is based on the attacker's max HP and always deals at least 1 damage. Magic Guard prevents this damage entirely.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -90,17 +88,17 @@ Sharp Edges triggers on any move with the contact flag, including but not limite
 ### Damage Calculation Examples
 
 **Example 1**: Garchomp (404 max HP) uses Dragon Claw against Sharp Edges user
-- **Sharp Edges**: 404 ÷ 6 = 67.33 → 67 HP damage to Garchomp
-- **Iron Barbs**: 404 ÷ 8 = 50.5 → 50 HP damage to Garchomp
+- **Sharp Edges**: 404 ÷ 6 = 67.33 to 67 HP damage to Garchomp
+- **Iron Barbs**: 404 ÷ 8 = 50.5 to 50 HP damage to Garchomp
 - **Difference**: Sharp Edges deals 17 more damage (34% increase)
 
 **Example 2**: Shedinja (1 max HP) uses Shadow Sneak against Sharp Edges user
-- Calculation: 1 ÷ 6 = 0.167 → rounds to 0, but minimum is 1
+- Calculation: 1 ÷ 6 = 0.167 to rounds to 0, but minimum is 1
 - Shedinja takes 1 HP damage and faints (same as Iron Barbs)
 
 **Example 3**: Skill Link Cloyster uses Icicle Spear (5 hits) against Sharp Edges user
-- Each hit: 251 ÷ 6 = 41.83 → 41 HP damage per hit
-- Total damage: 41 × 5 = 205 HP damage to Cloyster
+- Each hit: 251 ÷ 6 = 41.83 to 41 HP damage per hit
+- Total damage: 41 x 5 = 205 HP damage to Cloyster
 - Cloyster effectively takes 205/251 = 81.7% of its max HP in retaliation
 
 **Example 4**: Magic Guard Alakazam uses Psycho Cut against Sharp Edges user
@@ -128,10 +126,10 @@ Sharp Edges triggers on any move with the contact flag, including but not limite
 
 ### Current Users in Elite Redux
 
-Based on the codebase analysis, Sharp Edges appears as an innate ability on several Pokémon:
-- **Defensive Steel-types**: Likely used on heavily armored Pokémon
-- **Spiky/Thorny Pokémon**: Fitting thematically with sharp, dangerous exteriors
-- **High-tier competitive Pokémon**: Often appears alongside other powerful innate abilities
+Based on the codebase analysis, Sharp Edges appears as an innate ability on several Pokemon:
+- **Defensive Steel-types**: Likely used on heavily armored Pokemon
+- **Spiky/Thorny Pokemon**: Fitting thematically with sharp, dangerous exteriors
+- **High-tier competitive Pokemon**: Often appears alongside other powerful innate abilities
 
 Common ability combinations include:
 - Sharp Edges + Self Repair (healing to offset damage taken)
@@ -180,7 +178,7 @@ Common ability combinations include:
 
 Sharp Edges (internally called "Double Iron Barbs") is an Elite Redux custom ability that enhances the Iron Barbs concept. It represents the logical evolution of contact punishment abilities, providing more meaningful retaliation against physical attackers.
 
-The ability fills a specific niche in the Elite Redux metagame where physical attackers are extremely powerful, providing a strong defensive tool that can actually threaten offensive Pokémon. Its higher damage output makes it a genuine consideration for team building, both as a defensive tool and as something to play around when using physical attackers.
+The ability fills a specific niche in the Elite Redux metagame where physical attackers are extremely powerful, providing a strong defensive tool that can actually threaten offensive Pokemon. Its higher damage output makes it a genuine consideration for team building, both as a defensive tool and as something to play around when using physical attackers.
 
 ### Conclusion
 

@@ -15,8 +15,6 @@ character_count: 293
 
 Banshee boosts all sound-based moves by 20% damage and converts Normal-type sound moves to Ghost-type. This affects moves like Growl, Roar, Sing, Supersonic, Screech, Snore, Uproar, Hyper Voice, Bug Buzz, Chatter, Round, Echoed Voice, Relic Song, Snarl, Noble Roar, Boomburst, and Parting Shot among others.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -55,8 +53,8 @@ constexpr Ability Banshee = {
 
 ### Interactions with Other Abilities/Mechanics
 - **Soundproof**: Completely blocks Banshee's sound moves, negating both damage boost and type conversion
-- **Normalize**: If a Pokémon with both abilities uses a sound move, Normalize converts it to Normal first, then Banshee converts it to Ghost
-- **STAB (Same Type Attack Bonus)**: Ghost-type Pokémon gain 1.5x STAB on converted moves, stacking multiplicatively with Banshee's 1.2x boost (total 1.8x)
+- **Normalize**: If a Pokemon with both abilities uses a sound move, Normalize converts it to Normal first, then Banshee converts it to Ghost
+- **STAB (Same Type Attack Bonus)**: Ghost-type Pokemon gain 1.5x STAB on converted moves, stacking multiplicatively with Banshee's 1.2x boost (total 1.8x)
 - **Punk Rock**: If paired with Punk Rock (via ability modification), effects would stack for even greater sound move power
 - **Throat Chop**: Pokemon affected by Throat Chop cannot use sound moves, preventing Banshee activation
 
@@ -73,16 +71,16 @@ constexpr Ability Banshee = {
 - Doesn't provide any defensive benefits unlike other signature abilities
 
 ### Example Damage Calculations
-**Boomburst (Base Power 140, Normal → Ghost conversion + 1.2x boost):**
+**Boomburst (Base Power 140, Normal to Ghost conversion + 1.2x boost):**
 - Without Banshee: 140 BP Normal-type move
-- With Banshee: 140 × 1.2 = 168 effective BP Ghost-type move
-- With STAB (Ghost-type user): 168 × 1.5 = 252 effective BP
-- Compared to Boomburst on non-Ghost type: 140 × 1.5 = 210 BP (if same type)
+- With Banshee: 140 x 1.2 = 168 effective BP Ghost-type move
+- With STAB (Ghost-type user): 168 x 1.5 = 252 effective BP
+- Compared to Boomburst on non-Ghost type: 140 x 1.5 = 210 BP (if same type)
 
 **Hyper Voice calculation example:**
 - Base: 90 BP Normal-type
-- With Banshee: 90 × 1.2 = 108 effective BP Ghost-type
-- Super-effective vs Psychic: 108 × 2 = 216 effective BP
+- With Banshee: 90 x 1.2 = 108 effective BP Ghost-type
+- Super-effective vs Psychic: 108 x 2 = 216 effective BP
 
 ### Common Users
 - **Toxtricity Redux Fuzz**: Primary user of this ability in Elite Redux

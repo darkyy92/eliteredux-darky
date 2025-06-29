@@ -15,8 +15,6 @@ character_count: 292
 
 Automatically uses Wish upon entering battle, setting up delayed healing that restores half of the user's max HP on the following turn. This self-healing ability can only be activated 3 times per battle, making it a valuable but limited source of HP recovery.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -90,7 +88,7 @@ constexpr Ability Wishmaker = {
 
 ### Competitive Applications
 - **Defensive walls**: Enhanced staying power
-- **Pivot Pokémon**: Safe switching with recovery
+- **Pivot Pokemon**: Safe switching with recovery
 - **Status absorbers**: Can afford status with healing
 - **Setup sweepers**: Healing support during setup
 - **Stall teams**: Additional recovery layer
@@ -135,7 +133,7 @@ constexpr Ability Wishmaker = {
 - **Switching games**: Excellent for pivot-heavy teams
 - **Defensive cores**: Provides additional recovery layer
 - **Stall teams**: Enhances passive defensive strategies
-- **Balanced teams**: Safety net for key Pokémon
+- **Balanced teams**: Safety net for key Pokemon
 
 ### Version History
 - Elite Redux custom ability for enhanced recovery options

@@ -5,16 +5,17 @@ status: ai-generated
 character_count: 289
 ---
 
-# Fragrant Daze (ID: 618)
+# Fragrant Daze - Ability ID 618
 
-## Current Description
+## In-Game Description
 "30% chance to confuse on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 When hit by a contact move, has a 30% chance to inflict confusion on the attacker. The ability activates during physical attacks that make direct contact with the user. Only affects opponents that can be confused, making it ineffective against certain types or abilities.
 
-## Implementation Analysis
+## Detailed Mechanical Explanation
 
 ### Code Location
 - **File**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc`
@@ -35,7 +36,7 @@ When hit by a contact move, has a 30% chance to inflict confusion on the attacke
 - **Status Disruption**: Can disrupt opponent's offensive momentum through confusion
 - **Type Synergy**: Works well on Pokemon that can tank physical hits
 
-### Pokémon with Fragrant Daze
+### Pokemon with Fragrant Daze
 - **Furfrou Debutante Form**: Has as one of three regular abilities
 - **Flairgrance**: Has as an innate ability (always active)
 

@@ -15,13 +15,11 @@ character_count: 290
 
 Combat Specialist boosts the power of punching and kicking moves by 30%. Affects punches like Fire Punch, Ice Punch, Thunder Punch, Focus Punch, and Mach Punch. Also affects kicks like Double Kick, High Jump Kick, Blaze Kick, and Mega Kick. Combines Iron Fist and Striker effects perfectly.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Combat Specialist is a versatile offensive ability that combines the effects of Iron Fist and Striker abilities, providing a 1.3x (30%) power boost to both punching and kicking moves. This dual-category boost makes it exceptionally valuable for Pokémon with diverse physical movesets.
+Combat Specialist is a versatile offensive ability that combines the effects of Iron Fist and Striker abilities, providing a 1.3x (30%) power boost to both punching and kicking moves. This dual-category boost makes it exceptionally valuable for Pokemon with diverse physical movesets.
 
 ### Activation Conditions
 - **Move requirement**: Must use a move with FLAG_IRON_FIST_BOOST or FLAG_STRIKER_BOOST flags
@@ -97,19 +95,19 @@ int IsStrikerBoosted(int battler, MoveEnum move) {
 - **Movepool versatility**: Supports both punching and kicking moves equally
 - **Type coverage**: Works across multiple types (Normal, Fighting, Fire, Ice, Electric, etc.)
 - **Priority moves**: Boosts Mach Punch and Bullet Punch for priority damage
-- **Mixed attackers**: Valuable for Pokémon with both punching and kicking moves
+- **Mixed attackers**: Valuable for Pokemon with both punching and kicking moves
 - **Physical sweepers**: Excellent for physical attackers with diverse contact moves
 
 ### Common Users
 Combat Specialist is typically found on:
-- Fighting-type Pokémon with diverse physical movesets
-- Pokémon with access to elemental punches and kicks
+- Fighting-type Pokemon with diverse physical movesets
+- Pokemon with access to elemental punches and kicks
 - Physical attackers that learn both move categories
-- Martial arts-themed Pokémon
-- Pokémon designed for close-quarters combat
+- Martial arts-themed Pokemon
+- Pokemon designed for close-quarters combat
 
 ### Competitive Usage Notes
-- **Movepool requirement**: Only valuable if the Pokémon learns multiple boosted moves
+- **Movepool requirement**: Only valuable if the Pokemon learns multiple boosted moves
 - **Contact dependency**: Most boosted moves make contact, vulnerable to Rough Skin, etc.
 - **Physical focus**: Purely beneficial for physical attackers
 - **Type diversity**: Allows effective coverage across multiple types
@@ -134,7 +132,7 @@ Combat Specialist is typically found on:
 - **Setup moves**: Bulk Up, Swords Dance to maximize damage potential
 
 ### Damage Calculations
-- **Base calculation**: (Base Power × 1.3) × other modifiers
+- **Base calculation**: (Base Power x 1.3) x other modifiers
 - **Example**: Fire Punch (75 BP) becomes effectively 97.5 BP before other modifiers
 - **With STAB**: Fire Punch on Fire-type becomes ~146 effective BP
 - **Super effective**: Fire Punch vs Grass becomes ~195 effective BP
@@ -144,7 +142,7 @@ Combat Specialist is typically found on:
 - **Elite Redux exclusive**: Custom ability not found in official games
 - **Design purpose**: Combines Iron Fist and Striker into single ability
 - **Balance consideration**: 30% boost balanced by move type restrictions
-- **Movepool dependency**: Effectiveness varies greatly by Pokémon's available moves
+- **Movepool dependency**: Effectiveness varies greatly by Pokemon's available moves
 
 ### Related Abilities
 - **Iron Fist**: Boosts only punching moves by 1.2x (weaker)

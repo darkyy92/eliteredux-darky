@@ -15,8 +15,6 @@ character_count: 298
 
 Magic Bounce automatically reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Works against moves like Toxic, Leech Seed, Taunt, and Will-O-Wisp but not damaging moves or self-targeting status moves.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -75,11 +73,11 @@ Magic Bounce reflects moves with the `FLAG_MAGIC_COAT_AFFECTED` flag, including:
 ### Moves NOT Affected
 - **Damaging Moves**: Any move that deals direct damage
 - **Self-Targeting Moves**: Moves that target the user (Swords Dance, Recover, etc.)
-- **Multi-Target Moves**: Some moves that target multiple Pokémon
+- **Multi-Target Moves**: Some moves that target multiple Pokemon
 - **Specific Exceptions**: Moves specifically coded to bypass Magic Bounce
 
 ### Interactions with Other Abilities/Mechanics
-- **Prankster Interaction**: If a Dark-type Pokémon uses a Prankster-boosted status move that gets bounced back, the move will fail against the Dark-type user
+- **Prankster Interaction**: If a Dark-type Pokemon uses a Prankster-boosted status move that gets bounced back, the move will fail against the Dark-type user
 - **Magic Coat**: Magic Bounce has the same effect as the move Magic Coat but is automatic
 - **Substitute**: Magic Bounce activates even if the user is behind a Substitute
 - **Mold Breaker**: Abilities like Mold Breaker, Turboblaze, and Teravolt ignore Magic Bounce
@@ -89,7 +87,7 @@ Magic Bounce reflects moves with the `FLAG_MAGIC_COAT_AFFECTED` flag, including:
 **Defensive Utility:**
 - Excellent counter to status-based strategies
 - Forces opponents to use direct damage or switch
-- Particularly effective against support Pokémon
+- Particularly effective against support Pokemon
 
 **Team Building:**
 - Valuable on defensive cores
@@ -101,12 +99,12 @@ Magic Bounce reflects moves with the `FLAG_MAGIC_COAT_AFFECTED` flag, including:
 - Can turn the tables on opponents trying to inflict status conditions
 
 ### Common Users in Elite Redux
-Notable Pokémon with Magic Bounce as a regular or innate ability:
+Notable Pokemon with Magic Bounce as a regular or innate ability:
 - **Natu/Xatu line**: Classic Magic Bounce users with Psychic typing
 - **Espeon**: Fast special attacker with defensive utility
 - **Hattrem/Hatterene line**: Psychic/Fairy types with strong special bulk
 - **Sableye variants**: Defensive Dark/Ghost types
-- **Various Psychic-types**: Many psychic Pokémon have access as innate ability
+- **Various Psychic-types**: Many psychic Pokemon have access as innate ability
 
 ### Competitive Usage Notes
 - **Tier Placement**: Highly valued in defensive team compositions
@@ -123,7 +121,7 @@ Notable Pokémon with Magic Bounce as a regular or innate ability:
 **Strategic Counters:**
 - Physical attackers that don't rely on status moves
 - Multi-hit moves and direct damage
-- Pokémon with Natural Cure or similar status-clearing abilities
+- Pokemon with Natural Cure or similar status-clearing abilities
 
 ### Synergies
 **Ability Combinations:**
@@ -137,4 +135,4 @@ Notable Pokémon with Magic Bounce as a regular or innate ability:
 - **Mental Herb**: Backup protection against mental status effects
 
 ### Version History
-Magic Bounce has been a consistently powerful defensive ability since its introduction, with Elite Redux maintaining its core mechanics while expanding its distribution to various Pokémon as both a regular and innate ability. The ability's value fluctuates with the metagame's reliance on status moves but remains a solid defensive option in most competitive formats.
+Magic Bounce has been a consistently powerful defensive ability since its introduction, with Elite Redux maintaining its core mechanics while expanding its distribution to various Pokemon as both a regular and innate ability. The ability's value fluctuates with the metagame's reliance on status moves but remains a solid defensive option in most competitive formats.

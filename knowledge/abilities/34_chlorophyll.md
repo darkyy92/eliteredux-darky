@@ -8,14 +8,12 @@ character_count: 296
 # Chlorophyll - Ability ID 34
 
 ## In-Game Description
-"This Pokémon's Speed gets a 1.5x boost if sun is active."
+"This Pokemon's Speed gets a 1.5x boost if sun is active."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Chlorophyll harnesses solar energy to boost Speed by 50% in harsh sunlight. Works with all sun forms: regular (8 turns), permanent (Drought), and primal (Desolate Land). This ability excels in sun teams, enabling fast Solar Beam sweeps and outpacing threats. Pairs perfectly with Drought setters.
-
-*Character count: 287*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Dreamscape combines Comatose and Dreamcatcher, keeping the Pokémon in permanent sleep while being fully functional. Gains complete immunity to all status conditions and deals 20% more damage. The sleep state also enables Dreamcatcher, doubling move power for devastating 140% total damage increase.
-
-*Character count: 298*
+Dreamscape combines Comatose and Dreamcatcher, keeping the Pokemon in permanent sleep while being fully functional. Gains complete immunity to all status conditions and deals 20% more damage. The sleep state also enables Dreamcatcher, doubling move power for devastating 140% total damage increase.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,11 +21,11 @@ Dreamscape combines Comatose and Dreamcatcher, keeping the Pokémon in permanent
 ### Core Mechanics
 Dreamscape is a combination ability that merges three distinct effects:
 1. **Comatose component**: Permanent sleep-like state with full functionality and status immunity
-2. **Dreamcatcher component**: Double move power when any Pokémon on field is asleep
+2. **Dreamcatcher component**: Double move power when any Pokemon on field is asleep
 3. **Additional boost**: Extra 20% damage multiplier on top of other effects
 
 **Total Damage Calculation:**
-- Base move power × 2.0 (Dreamcatcher) × 1.2 (additional boost) = **2.4x total multiplier**
+- Base move power x 2.0 (Dreamcatcher) x 1.2 (additional boost) = **2.4x total multiplier**
 - This represents a 140% damage increase over normal move power
 
 ### Activation Conditions
@@ -62,18 +60,18 @@ constexpr Ability Dreamscape = {
 
 **From Dreamcatcher (ID 305):**
 - Doubles move power when any battler on field has sleep status
-- Since this Pokémon has permanent sleep (via Comatose), Dreamcatcher is always active
+- Since this Pokemon has permanent sleep (via Comatose), Dreamcatcher is always active
 - Applies to all damage-dealing moves of any type
 - Checks global battlefield state for sleep status
 
 **Additional Enhancement:**
 - Extra 1.2x damage multiplier applied after Dreamcatcher
-- This stacks multiplicatively: Base × 2.0 × 1.2 = 2.4x total
+- This stacks multiplicatively: Base x 2.0 x 1.2 = 2.4x total
 
 ### Move Interactions
 - **All Damage Moves**: Receive the full 2.4x power boost (Dreamcatcher + bonus)
-- **Wake-Up Slap**: Deals 4x damage due to sleep status (120 BP → 480 BP with Dreamscape)
-- **Dream Eater**: Cannot be used on this Pokémon (no actual sleep, just sleep status)
+- **Wake-Up Slap**: Deals 4x damage due to sleep status (120 BP to 480 BP with Dreamscape)
+- **Dream Eater**: Cannot be used on this Pokemon (no actual sleep, just sleep status)
 - **Sleep Talk**: Cannot be used (Comatose prevents selection)
 - **Rest**: Has no effect (already immune to status conditions)
 - **Snore**: Cannot be used (requires true sleep state)
@@ -107,21 +105,21 @@ constexpr Ability Dreamscape = {
 ### Damage Calculations
 **Example with 100 BP move:**
 - Base: 100 power
-- With Dreamscape: 100 × 2.0 × 1.2 = 240 power
-- With STAB: 240 × 1.5 = 360 power
-- With Life Orb: 360 × 1.3 = 468 power
-- With super effective: 468 × 2.0 = 936 effective power
+- With Dreamscape: 100 x 2.0 x 1.2 = 240 power
+- With STAB: 240 x 1.5 = 360 power
+- With Life Orb: 360 x 1.3 = 468 power
+- With super effective: 468 x 2.0 = 936 effective power
 
 **Example with Wake-Up Slap (60 BP):**
-- Base against sleeper: 60 × 2 = 120 power
-- With Dreamscape: 120 × 2.0 × 1.2 = 288 power
+- Base against sleeper: 60 x 2 = 120 power
+- With Dreamscape: 120 x 2.0 x 1.2 = 288 power
 - Essentially a 480 BP move against sleeping targets
 
 ### Common Users
-- **Highly Restricted**: Dreamscape is typically reserved for legendary or pseudo-legendary Pokémon
-- **Elite Redux Special Events**: May appear on event-exclusive Pokémon
+- **Highly Restricted**: Dreamscape is typically reserved for legendary or pseudo-legendary Pokemon
+- **Elite Redux Special Events**: May appear on event-exclusive Pokemon
 - **Custom Designs**: Used on powerful Elite Redux original species
-- **Late-Game Encounters**: Found on challenging post-game boss Pokémon
+- **Late-Game Encounters**: Found on challenging post-game boss Pokemon
 
 ### Competitive Analysis
 **Strengths:**
@@ -153,7 +151,7 @@ constexpr Ability Dreamscape = {
 
 **Strategic Limitations:**
 - Cannot use sleep-based utility moves effectively
-- Vulnerable to moves that specifically target sleeping Pokémon
+- Vulnerable to moves that specifically target sleeping Pokemon
 - High power may lead to quick battles, reducing strategic depth
 - Extremely rare availability limits practical use
 

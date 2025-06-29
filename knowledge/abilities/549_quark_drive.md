@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Quark Drive boosts the Pokémon's highest stat by 30% (50% for Speed) when Electric Terrain is active or when holding Booster Energy. The boost applies to base stats plus stat stages. Electric Terrain activation is immediate, while Booster Energy is consumed on use for permanent effect.
-
-*Character count: 295*
+Quark Drive boosts the Pokemon's highest stat by 30% (50% for Speed) when Electric Terrain is active or when holding Booster Energy. The boost applies to base stats plus stat stages. Electric Terrain activation is immediate, while Booster Energy is consumed on use for permanent effect.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -81,26 +79,26 @@ if (state.source == PARADOX_BOOST_NOT_ACTIVE && GetBattlerHoldEffect(battler, TR
 ### Strategic Implications
 
 #### Competitive Usage
-- **Electric Terrain Teams**: Synergizes with Electric Surge Pokémon and Electric Terrain setters
+- **Electric Terrain Teams**: Synergizes with Electric Surge Pokemon and Electric Terrain setters
 - **Booster Energy Sets**: Provides immediate power spike with guaranteed activation
 - **Speed Control**: Often boosts Speed stat due to many Quark Drive users having high Speed
 - **Wallbreaking**: Significant boost to offensive stats enables breaking through defensive cores
 
 #### Common Users in Elite Redux
-Based on the codebase analysis, Quark Drive appears on numerous Future Paradox Pokémon:
+Based on the codebase analysis, Quark Drive appears on numerous Future Paradox Pokemon:
 - High-speed attackers (often Speed becomes highest stat)
-- Balanced statted Pokémon where boost varies by stat stages
-- Genderless robotic/mechanical themed Pokémon
+- Balanced statted Pokemon where boost varies by stat stages
+- Genderless robotic/mechanical themed Pokemon
 
 ### Example Damage Calculations
-Assuming a Pokémon with 120 base Attack as highest stat:
+Assuming a Pokemon with 120 base Attack as highest stat:
 - **Without Quark Drive**: 120 base Attack
-- **With Quark Drive**: 120 × 1.3 = 156 effective Attack
+- **With Quark Drive**: 120 x 1.3 = 156 effective Attack
 - **Damage Increase**: ~30% more damage output
 
 For Speed users (130 base Speed):
 - **Without Quark Drive**: 130 base Speed  
-- **With Quark Drive**: 130 × 1.5 = 195 effective Speed
+- **With Quark Drive**: 130 x 1.5 = 195 effective Speed
 - **Speed Advantage**: Significant outspeeding potential
 
 ### Counters
@@ -117,6 +115,6 @@ For Speed users (130 base Speed):
 - **Entry Hazards**: Stealth Rock support for KO ranges with boosted attacks
 
 ### Version History
-- Introduced in Generation 9 as signature ability of Future Paradox Pokémon
+- Introduced in Generation 9 as signature ability of Future Paradox Pokemon
 - Elite Redux implementation follows official mechanics with custom stat detection
 - Works with Elite Redux's 4-ability system as innate ability on many species

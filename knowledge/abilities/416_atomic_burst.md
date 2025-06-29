@@ -15,8 +15,6 @@ character_count: 283
 
 When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with 1.2x power boost and grant STAB if the user is Electric-type. Charged status is consumed after one Electric move use.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -29,7 +27,7 @@ When hit by any move, becomes charged up, doubling the power of the next Electri
 - **Effect**: Grants STATUS3_CHARGED_UP status
 - **Power Boost**: Next Electric-type move deals **2.0x damage** (100% increase)
 - **Single Use**: Charged up status is consumed after using one Electric-type move
-- **Restrictions**: Cannot stack - hitting a already charged Pokémon won't add additional charges
+- **Restrictions**: Cannot stack - hitting a already charged Pokemon won't add additional charges
 
 **2. Galvanize Component (Type Conversion)**
 - **Conversion**: All Normal-type moves become Electric-type moves
@@ -42,7 +40,7 @@ When hit by any move, becomes charged up, doubling the power of the next Electri
 ```cpp
 constexpr Ability AtomicBurst = {
     .onDefender = Electromorphosis.onDefender,  // Charge when hit
-    ATE_ABILITY(TYPE_ELECTRIC),                 // Normal→Electric conversion
+    ATE_ABILITY(TYPE_ELECTRIC),                 // NormaltoElectric conversion
 };
 ```
 
@@ -74,18 +72,18 @@ constexpr Ability AtomicBurst = {
 
 **Base Scenario**: 100 BP Normal move on neutral Electric-type user
 - **Standard**: 100 BP Normal move (no STAB)
-- **With Atomic Burst**: 100 BP → Electric-type → 100 × 1.2 (ate boost) × 1.5 (STAB) = **180 BP**
-- **When Charged**: 180 BP × 2.0 (charged) = **360 BP effective power**
+- **With Atomic Burst**: 100 BP to Electric-type to 100 x 1.2 (ate boost) x 1.5 (STAB) = **180 BP**
+- **When Charged**: 180 BP x 2.0 (charged) = **360 BP effective power**
 
 ### Affected Moves
 
 **High-Value Normal Moves That Benefit**:
-- **Hyper Beam** (150 BP) → 150 × 1.2 × 1.5 × 2.0 = **540 BP when charged**
-- **Giga Impact** (150 BP) → Same as Hyper Beam
-- **Double-Edge** (120 BP) → 432 BP when charged
-- **Body Slam** (85 BP) → 306 BP when charged
-- **Quick Attack** (40 BP) → 144 BP when charged (priority maintained)
-- **Extreme Speed** (80 BP) → 288 BP when charged (priority maintained)
+- **Hyper Beam** (150 BP) to 150 x 1.2 x 1.5 x 2.0 = **540 BP when charged**
+- **Giga Impact** (150 BP) to Same as Hyper Beam
+- **Double-Edge** (120 BP) to 432 BP when charged
+- **Body Slam** (85 BP) to 306 BP when charged
+- **Quick Attack** (40 BP) to 144 BP when charged (priority maintained)
+- **Extreme Speed** (80 BP) to 288 BP when charged (priority maintained)
 
 **Utility Moves**:
 - **Thunder Wave** remains unchanged (already Electric)
@@ -156,6 +154,6 @@ constexpr Ability AtomicBurst = {
 
 **Previous Implementation**: Originally designed as a counter-attack ability that triggered 50 BP Hyper Beam when hit super-effectively.
 
-**Current Implementation**: Redesigned as a combination ability merging Electromorphosis (charge when hit) with Galvanize (Normal→Electric conversion), creating a more versatile and strategically interesting ability.
+**Current Implementation**: Redesigned as a combination ability merging Electromorphosis (charge when hit) with Galvanize (NormaltoElectric conversion), creating a more versatile and strategically interesting ability.
 
 **Design Philosophy**: The change moved from a reactive defensive ability to a proactive offensive tool that rewards both taking hits and utilizing diverse movesets.

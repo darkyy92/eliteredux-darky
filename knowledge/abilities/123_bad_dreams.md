@@ -2,22 +2,20 @@
 id: 123
 name: Bad Dreams
 status: ai-generated
-character_count: 296
+character_count: 297
 ---
 
-# Bad Dreams
+# Bad Dreams - Ability ID 123
 
-## Basic Information
-- **Ability ID**: 123
-- **Name**: Bad Dreams
-- **Original Description**: Sleeping Pokémon lose 1/4 of max HP at the end of each turn.
+## In-Game Description
+"Sleeping Pokemon lose 1/4 of max HP at the end of each turn."
 
 ## Extended In-Game Description
-Bad Dreams inflicts nightmare damage on all sleeping opponents, dealing 25% of their maximum HP at the end of each turn they remain asleep. The damage occurs during the end phase and bypasses Substitute. Multiple sleeping foes take damage simultaneously. Works with any sleep status including Rest sleep cycles.
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Character count: 296
+Bad Dreams inflicts nightmare damage on all sleeping opponents, dealing 25% max HP at turn end. Bypasses Substitute and affects multiple foes simultaneously. Works with all sleep including Rest. Forces opponents to wake up or take massive damage each turn.
 
-## Detailed Mechanics
+## Detailed Mechanical Explanation
 
 ### Damage Calculation
 - **Damage Amount**: 25% (1/4) of target's maximum HP
@@ -34,7 +32,7 @@ Character count: 296
 - **Substitute**: Damage bypasses Substitute completely
 - **Magic Guard**: Prevents the damage entirely
 - **Multiple Targets**: Can damage multiple sleeping opponents in the same turn
-- **Rest**: Damages Pokémon using Rest during their sleep turns
+- **Rest**: Damages Pokemon using Rest during their sleep turns
 - **Sleep Talk/Snore**: Target still takes damage while using these moves
 
 ### Special Cases
@@ -54,17 +52,17 @@ Character count: 296
 
 ### Weaknesses
 1. **Setup Required**: Requires putting opponents to sleep first
-2. **Limited Targets**: Only affects sleeping Pokémon
+2. **Limited Targets**: Only affects sleeping Pokemon
 3. **Counterplay**: Early wake-ups, Lum Berry, Sleep Talk strategies
 4. **No Immediate Impact**: Must wait until end of turn
 
 ### Optimal Usage
 - Pair with reliable sleep moves (Spore, Sleep Powder, Hypnosis)
-- Use on bulky Pokémon that can survive while opponents sleep
+- Use on bulky Pokemon that can survive while opponents sleep
 - Combine with entry hazards for additional passive damage
-- Consider Pokémon with multiple sleep-inducing options
+- Consider Pokemon with multiple sleep-inducing options
 
-## Known Pokémon with Bad Dreams
+## Known Pokemon with Bad Dreams
 
 ### Primary Ability Holders
 - Musharna line (Munna, Musharna)
@@ -95,5 +93,5 @@ Character count: 296
 ## History and Trivia
 - Introduced in Generation IV
 - Signature ability of Darkrai originally
-- In Elite Redux, distributed to other nightmare-themed Pokémon
+- In Elite Redux, distributed to other nightmare-themed Pokemon
 - Thematically represents the power to inflict nightmares

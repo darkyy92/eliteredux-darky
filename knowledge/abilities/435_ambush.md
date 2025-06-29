@@ -13,9 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Ambush guarantees a critical hit on the Pokémon's first turn after switching in or at the start of battle. This powerful ability works with any attacking move, providing immediate offensive pressure. Perfect for hit-and-run tactics and surprise sweeps against unsuspecting opponents.
-
-*Character count: 298*
+Ambush guarantees a critical hit on the Pokemon's first turn after switching in or at the start of battle. This powerful ability works with any attacking move, providing immediate offensive pressure. Perfect for hit-and-run tactics and surprise sweeps against unsuspecting opponents.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,10 +22,10 @@ Ambush guarantees a critical hit on the Pokémon's first turn after switching in
 Ambush is an offensive ability that provides a guaranteed critical hit on the user's first turn after switching into battle. This creates immediate offensive pressure and allows for powerful opening moves.
 
 ### Activation Conditions
-- **Turn requirement**: Only activates on the Pokémon's first turn after entering battle
+- **Turn requirement**: Only activates on the Pokemon's first turn after entering battle
 - **Move requirement**: Works with any attacking move that can deal damage
 - **No type restriction**: Functions with moves of any type
-- **Switch timing**: Resets whenever the Pokémon switches out and back in
+- **Switch timing**: Resets whenever the Pokemon switches out and back in
 
 ### Technical Implementation
 ```c
@@ -57,7 +55,7 @@ The game tracks turn states using `isFirstTurn` values:
 ### Strategic Applications
 
 #### Offensive Strategies
-- **Lead sweeper**: Excellent on lead Pokémon for immediate pressure
+- **Lead sweeper**: Excellent on lead Pokemon for immediate pressure
 - **Switch-in revenge**: Perfect for revenge killing after a teammate faints
 - **U-turn/Volt Switch**: Combines well with pivot moves for repeated first-turn advantage
 - **Choice item abuse**: Maximizes damage output with locked-in choice items
@@ -72,7 +70,7 @@ The game tracks turn states using `isFirstTurn` values:
 ### Competitive Usage
 - **Surprise factor**: Opponents may not expect guaranteed critical hits
 - **Momentum control**: Creates immediate offensive pressure upon entry
-- **Wallbreaking**: Can break through defensive Pokémon on the first turn
+- **Wallbreaking**: Can break through defensive Pokemon on the first turn
 - **Speed tier compression**: Less reliant on outspeeding when damage is guaranteed
 - **Prediction rewarding**: Rewards good switch-in timing
 
@@ -90,10 +88,10 @@ The game tracks turn states using `isFirstTurn` values:
 
 ### Common Users
 Typically found on:
-- Fast offensive Pokémon that benefit from immediate damage
-- Pokémon with high base Attack or Special Attack stats
+- Fast offensive Pokemon that benefit from immediate damage
+- Pokemon with high base Attack or Special Attack stats
 - Species designed for hit-and-run tactics
-- Pokémon with access to powerful STAB moves
+- Pokemon with access to powerful STAB moves
 
 ### Counters and Limitations
 

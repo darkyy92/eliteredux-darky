@@ -2,15 +2,20 @@
 id: 370
 name: Opportunist
 status: ai-generated
-character_count: 0
+character_count: 290
 ---
 
-# Opportunist (Ability #370)
+# Opportunist - Ability ID 370
 
-## Basic Information
-- **ID**: 370
-- **Name**: Opportunist
-- **Description**: "+1 priority vs foes below 1/2 max HP."
+## In-Game Description
+"+1 priority vs foes below 1/2 max HP."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Opportunist grants +1 priority to all moves when targeting opponents with 50% HP or less. This ability excels at revenge killing and finishing off weakened threats before they can strike back. The priority boost stacks with existing move priority.
+
+## Detailed Mechanical Explanation
 
 ## Technical Implementation
 
@@ -117,3 +122,4 @@ constexpr Ability Opportunist = {
 Opportunist represents a unique approach to priority manipulation, rewarding players for accurate damage calculation and positioning. While situational, its ability to secure crucial knockouts makes it a valuable tool in the right hands. The ability excels in revenge killing scenarios and provides consistent late-game pressure, making it particularly effective in longer battles where HP management becomes critical.
 
 The ability's design encourages aggressive play against weakened opponents while maintaining strategic depth through its conditional nature. For Pokemon that can effectively leverage this ability, it provides significant value in competitive environments where securing knockouts at the right moment can determine battle outcomes.
+

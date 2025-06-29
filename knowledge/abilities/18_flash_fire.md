@@ -15,8 +15,6 @@ character_count: 296
 
 Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers. Perfect counter to Fire-types.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -48,19 +46,19 @@ constexpr Ability FlashFire = {
 2. **Power Boost**:
    - Fire-type moves gain 1.5x power after absorbing a Fire attack
    - Uses `RESOURCE_FLAG_FLASH_FIRE` (0x1) to track activation
-   - Boost persists until the Pokémon switches out
+   - Boost persists until the Pokemon switches out
    - Does NOT stack - multiple Fire hits don't increase the multiplier
 
 3. **Battle Messages**:
-   - First activation: "Pokémon's Fire power was raised with Flash Fire!"
-   - Subsequent absorptions: "Pokémon's Flash Fire made the move ineffective!"
+   - First activation: "Pokemon's Fire power was raised with Flash Fire!"
+   - Subsequent absorptions: "Pokemon's Flash Fire made the move ineffective!"
 
 ### Damage Calculations
 With Flash Fire boost active:
 - Base Fire move: 1.5x power
-- Fire move with STAB: 1.5x × 1.5x = 2.25x power
-- Fire move with STAB + Sun: 1.5x × 1.5x × 1.5x = 3.375x power
-- Fire move with STAB + Choice Specs: 1.5x × 1.5x × 1.5x = 3.375x power
+- Fire move with STAB: 1.5x x 1.5x = 2.25x power
+- Fire move with STAB + Sun: 1.5x x 1.5x x 1.5x = 3.375x power
+- Fire move with STAB + Choice Specs: 1.5x x 1.5x x 1.5x = 3.375x power
 
 ### Strategic Implications
 
@@ -86,8 +84,8 @@ The AI is programmed to avoid using Fire-type moves against Flash Fire users unl
 
 This is implemented in `battle_ai_main.c` with specific checks for Flash Fire activation state.
 
-### Pokémon with Flash Fire
-Typically found on Fire-types and Pokémon associated with heat/volcanic environments. The ability provides both defensive utility and offensive potential.
+### Pokemon with Flash Fire
+Typically found on Fire-types and Pokemon associated with heat/volcanic environments. The ability provides both defensive utility and offensive potential.
 
 ### Interactions
 
@@ -105,7 +103,7 @@ Typically found on Fire-types and Pokémon associated with heat/volcanic environ
 
 ### Competitive Usage Notes
 - Excellent on Fire-types for mirror matchups
-- Valuable on Pokémon weak to Fire (Grass, Bug, Steel, Ice)
+- Valuable on Pokemon weak to Fire (Grass, Bug, Steel, Ice)
 - Creates safe switch-ins to predicted Fire moves
 - Can enable Fire-type lures with coverage moves
 
@@ -116,7 +114,7 @@ Typically found on Fire-types and Pokémon associated with heat/volcanic environ
 - Stealth Rock and other hazards
 
 ### Synergies
-- Pokémon with Fire-type coverage moves
+- Pokemon with Fire-type coverage moves
 - Sun teams for maximum Fire damage
 - Defensive cores needing Fire immunity
 - U-turn/Volt Switch to maintain boost while pivoting

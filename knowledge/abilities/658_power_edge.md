@@ -15,8 +15,6 @@ character_count: 290
 
 Power Edge enhances all slashing attacks by 30% while forcing them to target Special Defense instead of Defense. This transforms physical slashing moves into mixed attackers that exploit weaker special bulk. Perfect for breaking through defensive walls.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

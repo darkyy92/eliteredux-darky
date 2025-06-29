@@ -15,8 +15,6 @@ character_count: 282
 
 Iron Barbs deals 1/8 maximum HP damage to attackers using contact moves. Damage is based on the attacker's max HP, not current HP. Magic Guard blocks this retaliation damage. Always deals at least 1 HP damage even if 1/8 calculation rounds to 0. Functions identically to Rough Skin.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -83,15 +81,15 @@ Iron Barbs triggers on any move with the contact flag, including but not limited
 ### Damage Calculation Examples
 
 **Example 1**: Garchomp (404 max HP) uses Earthquake against Iron Barbs user
-- Calculation: 404 ÷ 8 = 50.5 → 50 HP damage to Garchomp
+- Calculation: 404 ÷ 8 = 50.5 to 50 HP damage to Garchomp
 - Note: Earthquake doesn't make contact, so Iron Barbs wouldn't actually trigger
 
 **Example 2**: Garchomp uses Dragon Claw against Iron Barbs user
-- Calculation: 404 ÷ 8 = 50.5 → 50 HP damage to Garchomp
+- Calculation: 404 ÷ 8 = 50.5 to 50 HP damage to Garchomp
 - Dragon Claw makes contact, so Iron Barbs triggers
 
 **Example 3**: Shedinja (1 max HP) uses Shadow Sneak against Iron Barbs user
-- Calculation: 1 ÷ 8 = 0.125 → rounds to 0, but minimum is 1
+- Calculation: 1 ÷ 8 = 0.125 to rounds to 0, but minimum is 1
 - Shedinja takes 1 HP damage and faints
 
 **Example 4**: Magic Guard Alakazam uses Psycho Cut against Iron Barbs user
@@ -111,7 +109,7 @@ Iron Barbs triggers on any move with the contact flag, including but not limited
 - **High Defense**: Survive the initial attack to ensure retaliation triggers
 
 **Common Users in Elite Redux**:
-Iron Barbs appears on many defensive Steel-types and spiky Pokémon:
+Iron Barbs appears on many defensive Steel-types and spiky Pokemon:
 - Forretress, Ferrothorn, Chesnaught
 - Various custom Steel/Ground and Steel/Grass types
 - Often paired with other defensive abilities as innate abilities
@@ -136,6 +134,6 @@ Iron Barbs appears on many defensive Steel-types and spiky Pokémon:
 - Paralysis support slows down physical attackers
 
 ### Version History
-Iron Barbs was introduced in Generation V and has remained largely unchanged. In Elite Redux, it maintains its original mechanics while being distributed to additional Pokémon as both a regular and innate ability, making it more prevalent in competitive play.
+Iron Barbs was introduced in Generation V and has remained largely unchanged. In Elite Redux, it maintains its original mechanics while being distributed to additional Pokemon as both a regular and innate ability, making it more prevalent in competitive play.
 
 The ability is considered one of the most reliable forms of passive damage in the game, with its guaranteed minimum damage ensuring it's never completely useless.

@@ -15,8 +15,6 @@ character_count: 293
 
 30% chance to paralyze on any contact move (both offense and defense in Elite Redux). Halves foe's Speed to 50% with 25% full paralysis chance per turn. Makes Wild Charge/Spark deadly threats. Severely punishes U-turn/Fake Out users. Electric-types and Limber immune. Bypassed by Mold Breaker.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -76,8 +74,8 @@ When Static triggers, the target:
 - Contact move deterrent
 
 ### Overworld Effect
-When a Pokémon with Static leads the party:
-- 50% chance to encounter Electric-type Pokémon
+When a Pokemon with Static leads the party:
+- 50% chance to encounter Electric-type Pokemon
 - Stacks with other encounter rate modifiers
 - Only works in areas with Electric-types
 

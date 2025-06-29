@@ -15,8 +15,6 @@ character_count: 296
 
 Punching moves gain 30% damage boost and target Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches, fighting moves, and Meteor Mash. Allows physical attackers to exploit low Special Defense walls and completely disrupt traditional defensive cores.
 
-*Character count: 296*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -62,19 +60,19 @@ Against a Skarmory (140 Defense, 70 Special Defense):
 - Normal Fire Punch: Targets 140 Defense
 - Power Fists Fire Punch: Targets 70 Special Defense with 1.3x boost
 
-This effectively doubles or triples damage output against physically defensive Pokémon.
+This effectively doubles or triples damage output against physically defensive Pokemon.
 
 ### Common Users:
 - Fighting-types seeking to break through physical walls
 - Mixed attackers that can leverage the unpredictability
-- Pokémon with wide punching move coverage
+- Pokemon with wide punching move coverage
 
 ### Competitive Notes:
 - Pairs excellently with Choice Band for maximum physical damage through Special Defense
-- Countered by specially defensive Pokémon regardless of their physical bulk
+- Countered by specially defensive Pokemon regardless of their physical bulk
 - Creates mind games in team preview - opponents must consider different defensive benchmarks
 - Particularly effective in metas dominated by physically defensive Steel-types
 
 ### Version History:
 - Elite Redux exclusive ability
-- Designed to create unique offensive dynamics not seen in standard Pokémon games
+- Designed to create unique offensive dynamics not seen in standard Pokemon games

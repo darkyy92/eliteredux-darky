@@ -2,13 +2,23 @@
 id: 383
 name: Cold Rebound
 status: ai-generated
-character_count: 0
+character_count: 281
 ---
 
-# Cold Rebound (Ability #383)
+# Cold Rebound - Ability ID 383
 
-## Overview
-Cold Rebound is a defensive ability that triggers an immediate counter-attack when the user is hit by any contact move. Upon being struck by a contact move, the Pokémon automatically uses Icy Wind against the attacker, dealing Ice-type damage and reducing their Speed stat.
+## In-Game Description
+"When hit by contact moves, retaliates with Icy Wind."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When struck by any contact move, Cold Rebound automatically retaliates with Icy Wind (60 BP), dealing Ice-type damage and lowering the attacker's Speed by one stage. This defensive counter-attack creates a powerful deterrent against physical attackers.
+
+## Detailed Mechanical Explanation
+
+### Overview
+Cold Rebound is a defensive ability that triggers an immediate counter-attack when the user is hit by any contact move. Upon being struck by a contact move, the Pokemon automatically uses Icy Wind against the attacker, dealing Ice-type damage and reducing their Speed stat.
 
 ## Technical Implementation
 
@@ -69,7 +79,7 @@ constexpr Ability ColdRebound = {
 5. **Type Coverage**: Ice typing provides super effective coverage against common types
 
 ### Tactical Applications
-- **Physical Wall Support**: Excellent on defensive Pokémon that can tank contact moves
+- **Physical Wall Support**: Excellent on defensive Pokemon that can tank contact moves
 - **Speed Tier Management**: Speed reduction can flip speed tiers in your favor
 - **Revenge Killing Setup**: Slowing down faster threats for teammates
 - **Doubles Utility**: Multi-target effect provides excellent board control
@@ -116,10 +126,10 @@ Cold Rebound occupies a unique niche as the only contact counter-attack ability 
 
 ## Usage Recommendations
 
-### Ideal Pokémon Types
+### Ideal Pokemon Types
 - **Defensive Ice-types**: Maximize STAB damage from Icy Wind
-- **Bulky pivots**: Pokémon that can tank contact moves and benefit from speed control
-- **Support Pokémon**: Those that appreciate the utility of speed manipulation
+- **Bulky pivots**: Pokemon that can tank contact moves and benefit from speed control
+- **Support Pokemon**: Those that appreciate the utility of speed manipulation
 
 ### Team Role Integration
 - **Defensive Core**: Excellent on walls that commonly face physical attackers
@@ -127,10 +137,11 @@ Cold Rebound occupies a unique niche as the only contact counter-attack ability 
 - **Anti-Physical Tech**: Strong choice against contact-heavy metagames
 
 ### Caution Advised
-- Avoid on frail Pokémon that can't survive strong contact moves
+- Avoid on frail Pokemon that can't survive strong contact moves
 - Consider team synergy with Ice-type coverage
 - Be mindful of Special Attack stat for counter-attack effectiveness
 
 ## Conclusion
 
-Cold Rebound represents a high-tier defensive ability that combines immediate retaliation with valuable speed control. Its ability to punish contact moves while simultaneously providing team support through speed manipulation makes it an excellent choice for defensive and support-oriented Pokémon. The combination of respectable damage output and strategic utility places it among the more impactful defensive abilities in Elite Redux's extensive ability roster.
+Cold Rebound represents a high-tier defensive ability that combines immediate retaliation with valuable speed control. Its ability to punish contact moves while simultaneously providing team support through speed manipulation makes it an excellent choice for defensive and support-oriented Pokemon. The combination of respectable damage output and strategic utility places it among the more impactful defensive abilities in Elite Redux's extensive ability roster.
+

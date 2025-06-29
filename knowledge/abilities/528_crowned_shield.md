@@ -15,19 +15,17 @@ character_count: 299
 
 Crowned Shield combines Dauntless Shield and Stamina effects. Boosts Defense by one stage when switching in. When taking damage, raises Defense by one stage or maxes Defense if hit by a critical hit. Provides exceptional defensive presence through stacking Defense boosts.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Crowned Shield is an Elite Redux exclusive ability that combines two powerful defensive abilities: Dauntless Shield (entry effect) and Stamina (on-hit effect). This creates a Pokémon with exceptional defensive scaling potential.
+Crowned Shield is an Elite Redux exclusive ability that combines two powerful defensive abilities: Dauntless Shield (entry effect) and Stamina (on-hit effect). This creates a Pokemon with exceptional defensive scaling potential.
 
 ### Component Abilities
 
 #### Dauntless Shield Component (onEntry)
 - **Effect**: Raises Defense by 1 stage upon switching in
-- **Activation**: Triggers immediately when the Pokémon enters battle
+- **Activation**: Triggers immediately when the Pokemon enters battle
 - **Condition**: Must be able to raise Defense stat (not at +6)
 
 #### Stamina Component (onDefender)
@@ -93,8 +91,8 @@ The AI correctly evaluates both components:
 - **Longevity**: Extended battles favor massive Defense accumulation
 
 ### Exclusive User
-- **Zamazenta-Crowned Shield**: The only Pokémon with this ability
-- **Legendary status**: Befitting of a powerful legendary Pokémon
+- **Zamazenta-Crowned Shield**: The only Pokemon with this ability
+- **Legendary status**: Befitting of a powerful legendary Pokemon
 - **Form-specific**: Only available on the Crowned Shield form
 
 ### Competitive Usage Notes

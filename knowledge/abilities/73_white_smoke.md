@@ -15,8 +15,6 @@ character_count: 298
 
 White Smoke automatically sets Smokescreen on the user's side when entering battle, lasting 3 turns (5 with Light Clay held). Smokescreen obscures the user's party in smoke, increasing their evasiveness by 25% and making all moves targeting them less accurate. Provides team-wide defensive utility.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -30,12 +28,12 @@ White Smoke automatically sets Smokescreen on the user's side when entering batt
 
 ### Smokescreen Effects:
 1. **Evasiveness Boost**:
-   - Increases evasiveness by 25% for all Pokémon on the user's side
+   - Increases evasiveness by 25% for all Pokemon on the user's side
    - Functions as a side-wide accuracy reduction for opposing moves
    - Stacks with individual evasion stat boosts
 
 2. **Move Interactions**:
-   - Affects all moves that target Pokémon on the protected side
+   - Affects all moves that target Pokemon on the protected side
    - Never-miss moves (like Swift) are unaffected
    - Status moves are affected by the accuracy reduction
    - Self-targeting moves are unaffected
@@ -43,7 +41,7 @@ White Smoke automatically sets Smokescreen on the user's side when entering batt
 ### Interaction Rules:
 - **Screen Removal**: Can be removed by Brick Break, Rapid Spin, Defog, and similar screen-clearing moves
 - **Light Clay**: Extends duration from 3 to 5 turns when held by the user
-- **Multiple Activations**: If multiple Pokémon with White Smoke switch in, only refreshes the timer rather than stacking
+- **Multiple Activations**: If multiple Pokemon with White Smoke switch in, only refreshes the timer rather than stacking
 - **Court Change**: Can be swapped to the opponent's side via Court Change
 
 ### Technical Implementation:
@@ -66,7 +64,7 @@ constexpr Ability WhiteSmoke = {
 - Provides immediate defensive utility on switch-in
 - Affects the entire team side, not just the user
 - Can be extended with Light Clay for longer protection
-- Useful for setting up or buying time for frail Pokémon
+- Useful for setting up or buying time for frail Pokemon
 
 **Weaknesses:**
 - Temporary effect that can be removed or expire

@@ -15,8 +15,6 @@ character_count: 291
 
 Magma Eater combines predatory healing with molten type advantages. Restores 25% HP when fainting an opponent through direct attacking moves. Additionally, Fire-type moves deal 2x damage against Rock-type Pokemon instead of normal effectiveness. Excellent for aggressive Fire-type attackers.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Magma Eater combines predatory healing with molten type advantages. Restores 25%
 Magma Eater is a dual-effect offensive ability that combines two powerful combat mechanics: predatory healing and molten type manipulation. This ability makes its user exceptionally dangerous in battle by rewarding successful KOs and providing type advantage coverage.
 
 ### Healing Component (SoulEater Effect)
-- **Trigger**: When the Pokémon with Magma Eater faints an opponent through a direct attacking move
+- **Trigger**: When the Pokemon with Magma Eater faints an opponent through a direct attacking move
 - **Effect**: Restores 25% of the user's maximum HP
 - **Timing**: Healing occurs immediately after the opponent faints
 - **Requirements**: 
@@ -34,7 +32,7 @@ Magma Eater is a dual-effect offensive ability that combines two powerful combat
 
 ### Type Effectiveness Component (MoltenDown Effect)
 - **Trigger**: When using a Fire-type move against a Rock-type target
-- **Effect**: Fire-type moves deal 2x damage to Rock-type Pokémon instead of normal effectiveness
+- **Effect**: Fire-type moves deal 2x damage to Rock-type Pokemon instead of normal effectiveness
 - **Coverage**: Transforms neutral matchup into super effective damage
 - **Stacking**: Works with other damage modifiers and STAB
 
@@ -79,7 +77,7 @@ BattleScript_HandleSoulEaterEffect::
 ### Ideal Users
 - **Fire-type attackers** with diverse movepools
 - **Mixed attackers** who can reliably score KOs
-- **Pokémon with high offensive stats** to secure faints
+- **Pokemon with high offensive stats** to secure faints
 - **Sweepers** who benefit from mid-battle healing
 - **Rock-type coverage seekers** in Fire-type focused teams
 

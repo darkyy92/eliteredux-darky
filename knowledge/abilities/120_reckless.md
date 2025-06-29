@@ -15,8 +15,6 @@ character_count: 291
 
 Reckless increases the damage of moves that cause recoil by 20%, making them deal 1.2x damage. This applies to moves like Double-Edge, Brave Bird, Flare Blitz, Wood Hammer, Volt Tackle, and other recoil-inducing attacks. The recoil damage itself remains unchanged by this ability.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -50,7 +48,7 @@ Reckless affects all moves that cause recoil damage to the user, including but n
 
 **Damage Calculation Example:**
 - Base Brave Bird power: 120
-- With Reckless: 120 × 1.2 = 144 effective power
+- With Reckless: 120 x 1.2 = 144 effective power
 - Recoil damage: Still 33% of damage dealt (not increased)
 
 **Strategic Applications:**
@@ -59,11 +57,11 @@ Reckless affects all moves that cause recoil damage to the user, including but n
 3. **Synergies**: Works exceptionally well with:
    - Rock Head (negates recoil entirely)
    - Recovery moves or items (Roost, Leftovers)
-   - High HP Pokémon that can handle recoil better
+   - High HP Pokemon that can handle recoil better
 
 **Common Users:**
 - Physical attackers with access to multiple recoil moves
-- Pokémon that can learn both Reckless and recovery options
+- Pokemon that can learn both Reckless and recovery options
 - Fast sweepers that aim to KO before recoil becomes problematic
 
 **Competitive Notes:**

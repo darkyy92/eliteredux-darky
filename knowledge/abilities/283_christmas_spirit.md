@@ -13,9 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Christmas Spirit reduces all incoming damage by 50% during hail weather. Works with temporary hail from moves and permanent hail effects. The Pokémon is immune to hail damage. This defensive boost applies to all attack types and stacks with other reduction effects for maximum bulk.
-
-*Character count: 282*
+Christmas Spirit reduces all incoming damage by 50% during hail weather. Works with temporary hail from moves and permanent hail effects. The Pokemon is immune to hail damage. This defensive boost applies to all attack types and stacks with other reduction effects for maximum bulk.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -35,7 +33,7 @@ Christmas Spirit is a powerful defensive ability that provides significant damag
 - Does NOT work with other weather conditions (sun, rain, sandstorm, fog, strong winds)
 
 ### Hail Immunity
-- The Pokémon is completely immune to hail damage (`hailImmune = TRUE`)
+- The Pokemon is completely immune to hail damage (`hailImmune = TRUE`)
 - This immunity is separate from the damage reduction and always active
 - Prevents the typical 1/16 HP loss per turn that non-Ice types suffer in hail
 
@@ -52,8 +50,8 @@ Christmas Spirit is a powerful defensive ability that provides significant damag
 - Particularly effective against mixed attackers since it reduces both physical and special damage equally
 
 ### Example Damage Calculations
-- Super effective move dealing 200 damage → 100 damage with Christmas Spirit
-- With additional 25% resistance: 200 × 0.75 × 0.5 = 75 damage
+- Super effective move dealing 200 damage to 100 damage with Christmas Spirit
+- With additional 25% resistance: 200 x 0.75 x 0.5 = 75 damage
 - Stacks with items like Assault Vest for special attacks
 
-This ability transforms Pokémon into exceptional defensive walls in hail weather, making them nearly impossible to KO with single attacks while providing complete immunity to hail's passive damage.
+This ability transforms Pokemon into exceptional defensive walls in hail weather, making them nearly impossible to KO with single attacks while providing complete immunity to hail's passive damage.

@@ -15,8 +15,6 @@ character_count: 291
 
 Pixilate transforms all Normal-type attacking moves into Fairy-type moves and boosts their power by 20%. The Pokemon gains STAB from these converted moves if it's part Fairy-type. Works with moves like Hyper Beam, Return, and Boomburst, making them powerful Fairy attacks. Perfect for mixed attackers.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -35,7 +33,7 @@ Pixilate is an "ate" ability that fundamentally changes how Normal-type moves fu
 
 ### Calculation:
 For a Fairy-type Pokemon using a converted Normal move:
-- Base damage × 1.2 (Pixilate boost) × 1.5 (STAB) = 1.8x total multiplier
+- Base damage x 1.2 (Pixilate boost) x 1.5 (STAB) = 1.8x total multiplier
 
 ### Strategic Applications:
 - Transforms Normal-type moves like Hyper Beam, Return, Body Slam into powerful Fairy attacks

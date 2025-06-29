@@ -13,21 +13,19 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Berserk DNA sharply raises the higher of Attack or Special Attack by 2 stages upon entering battle. The surge of power causes confusion for 3 turns unless the Pokémon is immune. Powerful entry effect but requires careful confusion management for optimal use.
-
-*Character count: 299*
+Berserk DNA sharply raises the higher of Attack or Special Attack by 2 stages upon entering battle. The surge of power causes confusion for 3 turns unless the Pokemon is immune. Powerful entry effect but requires careful confusion management for optimal use.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Berserk DNA is an aggressive entry ability that provides a significant offensive boost at the cost of self-inflicted confusion. The ability activates immediately when the Pokémon switches into battle.
+Berserk DNA is an aggressive entry ability that provides a significant offensive boost at the cost of self-inflicted confusion. The ability activates immediately when the Pokemon switches into battle.
 
 ### Activation Sequence
-1. **Entry trigger**: Activates when the Pokémon switches into battle
+1. **Entry trigger**: Activates when the Pokemon switches into battle
 2. **Stat comparison**: Compares Attack vs Special Attack stats (including stat stages)
 3. **Stat boost**: Raises the higher attacking stat by +2 stages (sharply raised)
-4. **Confusion check**: If the Pokémon can be confused, applies confusion for 3 turns
+4. **Confusion check**: If the Pokemon can be confused, applies confusion for 3 turns
 5. **Message display**: Shows "POKÉMON goes berserk!" followed by stat boost message
 
 ### Technical Implementation
@@ -82,20 +80,20 @@ The ability uses `GetHighestAttackingStatId(battler, TRUE)` which:
 
 ### Important Interactions
 - **Stat stage comparison**: If both Attack and Special Attack are equal, defaults to Attack
-- **Confusion immunity**: Pokémon with Own Tempo or similar get the boost without confusion
+- **Confusion immunity**: Pokemon with Own Tempo or similar get the boost without confusion
 - **Clear Body/White Smoke**: Prevents the stat boost but may still apply confusion
 - **Mental Herb**: Can cure confusion immediately after ability triggers
 - **Persim Berry**: Automatically cures confusion after the ability activates
 
 ### Strategic Applications
-- **Mixed attackers**: Particularly valuable on Pokémon with similar Attack/Special Attack
+- **Mixed attackers**: Particularly valuable on Pokemon with similar Attack/Special Attack
 - **Late-game sweeping**: +2 boost provides immediate offensive pressure
-- **Pivot usage**: Can be used on switching Pokémon for momentum
+- **Pivot usage**: Can be used on switching Pokemon for momentum
 - **Confusion management**: Pairs well with Lum Berry or Mental Herb
 - **Priority moves**: Use priority moves during confusion turns to minimize risk
 
-### Pokémon with Berserk DNA
-Based on codebase analysis, Pokémon with this ability include:
+### Pokemon with Berserk DNA
+Based on codebase analysis, Pokemon with this ability include:
 - **Mewtwo** (changeable ability alongside Mystic Power and Psychic Surge)
 - **Deoxys-Speed** (as an innate ability)
 - **Infernape-like forms** (as changeable ability with Gorilla Tactics/Anger Point)
@@ -131,10 +129,10 @@ Based on codebase analysis, Pokémon with this ability include:
 - **RestTalk**: Can potentially wake up and use moves through confusion
 
 ### Team Building Considerations
-- Works best on Pokémon that can function as late-game sweepers
+- Works best on Pokemon that can function as late-game sweepers
 - Requires careful positioning to maximize entry opportunities
 - Benefits from team support to handle confusion downside
-- Excellent on Pokémon with good mixed attacking stats
+- Excellent on Pokemon with good mixed attacking stats
 - Can be used as a surprise factor in competitive play
 
 ### Version History

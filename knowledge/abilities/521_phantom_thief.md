@@ -15,13 +15,11 @@ character_count: 295
 
 Phantom Thief automatically uses a 40 BP Spectral Thief when switching in, targeting a random opponent. Steals all positive stat boosts from the target and applies them to the user. Ghost-type attack benefits from STAB on Ghost-types. Cannot miss and ignores Substitute.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Phantom Thief is an aggressive entry ability that automatically uses a modified version of Spectral Thief when the Pokémon switches into battle, forcing immediate offensive pressure and stat theft.
+Phantom Thief is an aggressive entry ability that automatically uses a modified version of Spectral Thief when the Pokemon switches into battle, forcing immediate offensive pressure and stat theft.
 
 ### Activation Conditions
 - **Trigger**: Activates immediately upon switching into battle
@@ -72,10 +70,10 @@ Based on the move's implementation:
 
 ### Common Users
 Based on the ability ID (521), this is likely found on:
-- Ghost-type Pokémon with thieving/sneaky themes
-- Pokémon with high Attack stats to maximize damage
-- Fast Pokémon who can capitalize on stolen Speed boosts
-- Pokémon designed to disrupt setup strategies
+- Ghost-type Pokemon with thieving/sneaky themes
+- Pokemon with high Attack stats to maximize damage
+- Fast Pokemon who can capitalize on stolen Speed boosts
+- Pokemon designed to disrupt setup strategies
 
 ### Competitive Usage Notes
 - **Setup counter**: Excellent against setup sweepers and calm mind users

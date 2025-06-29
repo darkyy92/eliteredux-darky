@@ -2,17 +2,22 @@
 id: 127
 name: Unnerve
 status: ai-generated
-character_count: 293
+character_count: 290
 ---
 
-# Unnerve (Ability #127)
+# Unnerve - Ability ID 127
 
-## Summary
-Unnerve prevents opposing Pokémon from consuming their held items during battle. This affects all consumable items including berries, herbs, and other single-use items.
+## In-Game Description
+"Prevents opposing Pokemon from consuming their held items during battle."
 
-## Effect Details
-- **Trigger**: Active as long as a Pokémon with Unnerve is on the field
-- **Range**: Affects all opposing Pokémon (both enemies in double battles)
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Unnerve prevents all opposing Pokemon from consuming their held items during battle. This powerful disruption ability blocks berries, herbs, seeds, and other consumable items from activating, including crucial defensive tools like Focus Sash and Sitrus Berry. Works in both battle formats.
+
+## Detailed Mechanical Explanation
+- **Trigger**: Active as long as a Pokemon with Unnerve is on the field
+- **Range**: Affects all opposing Pokemon (both enemies in double battles)
 - **Blocked Items**: All consumable held items including:
   - HP restoration berries (Oran Berry, Sitrus Berry, etc.)
   - Status-curing berries (Cheri Berry, Pecha Berry, etc.)
@@ -36,7 +41,7 @@ Unnerve prevents opposing Pokémon from consuming their held items during battle
 ## Usage Strategy
 - **Offensive**: Prevents defensive berries from activating, ensuring KOs on weakened opponents
 - **Anti-Setup**: Stops stat-boosting berries from triggering during setup attempts  
-- **Focus Sash Counter**: Denies Focus Sash activation, allowing OHKOs on frail Pokémon
+- **Focus Sash Counter**: Denies Focus Sash activation, allowing OHKOs on frail Pokemon
 - **Double Battle Synergy**: Affects both opponents simultaneously for maximum disruption
 - **Pivot Support**: Forces opponents to switch or fight without item safety nets
 
@@ -48,12 +53,12 @@ The AI recognizes Unnerve's effect on Focus Sash and factors this into damage ca
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-Unnerve prevents all opposing Pokémon from consuming their held items during battle. This powerful disruption ability blocks berries, herbs, seeds, and other consumable items from activating, including crucial defensive tools like Focus Sash and Sitrus Berry. Works in both single and double battles.
+Unnerve prevents all opposing Pokemon from consuming their held items during battle. This powerful disruption ability blocks berries, herbs, seeds, and other consumable items from activating, including crucial defensive tools like Focus Sash and Sitrus Berry. Works in both single and double battles.
 
-## Known Pokémon
-Several Pokémon can have Unnerve as one of their abilities, often Dark, Bug, or Flying types that thematically intimidate their opponents.
+## Known Pokemon
+Several Pokemon can have Unnerve as one of their abilities, often Dark, Bug, or Flying types that thematically intimidate their opponents.
 
 ## Notes
-- The ability announces itself when the Pokémon enters battle: "X's Unnerve made the opposing team too nervous to eat berries!"
+- The ability announces itself when the Pokemon enters battle: "X's Unnerve made the opposing team too nervous to eat berries!"
 - Despite the message mentioning berries, it affects all consumable items
 - Implemented using a simple flag check that prevents item consumption when an opposing Unnerve user is present

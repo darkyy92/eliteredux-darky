@@ -15,13 +15,11 @@ character_count: 294
 
 Roused Fangs makes biting moves use Special Attack instead of Attack and boosts their damage by 30%. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, and similar moves. Transforms physical biters into special attackers with enhanced power.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Roused Fangs is a unique offensive ability that fundamentally changes how biting moves function for the Pokémon. It serves dual purposes: converting the attacking stat used and providing a damage boost.
+Roused Fangs is a unique offensive ability that fundamentally changes how biting moves function for the Pokemon. It serves dual purposes: converting the attacking stat used and providing a damage boost.
 
 ### Ability Effects
 1. **Stat Conversion**: All biting moves use Special Attack instead of Attack for damage calculation
@@ -56,7 +54,7 @@ if (gBattleMoves[move].flags & FLAG_STRONG_JAW_BOOST) *atkStatToUse = STAT_SPATK
 ```
 
 ### Strategic Implications
-- **Build Flexibility**: Allows physical Pokémon to run special attacking sets
+- **Build Flexibility**: Allows physical Pokemon to run special attacking sets
 - **STAB Synergy**: Dark-types gain special STAB options with Bite/Crunch
 - **Coverage Enhancement**: Elemental fangs become special coverage moves
 - **Stat Optimization**: Invest in Special Attack instead of Attack
@@ -85,8 +83,8 @@ if (gBattleMoves[move].flags & FLAG_STRONG_JAW_BOOST) *atkStatToUse = STAT_SPATK
   - Assault Vest for special bulk while maintaining offense
 - **Move Coverage**: Combine elemental fangs for broad special coverage
 
-### Pokémon Synergy
-Ideal for Pokémon that:
+### Pokemon Synergy
+Ideal for Pokemon that:
 - Have access to multiple biting moves
 - Possess decent Special Attack stats
 - Want to surprise physical walls
@@ -94,11 +92,11 @@ Ideal for Pokémon that:
 - Can benefit from mixed attacking sets
 
 ### Counters and Checks
-- **Special Walls**: High Special Defense Pokémon resist the boosted damage
+- **Special Walls**: High Special Defense Pokemon resist the boosted damage
 - **Ability Suppression**: Mold Breaker, Neutralizing Gas disable the ability
 - **Status Effects**: Sleep, paralysis still affect the user normally
 - **Type Resistances**: Resistant types still take reduced damage despite the boost
-- **Priority Moves**: Faster Pokémon can still outspeed and KO
+- **Priority Moves**: Faster Pokemon can still outspeed and KO
 
 ### Synergies
 - **Choice Specs**: Massive power boost to special attacks
@@ -121,7 +119,7 @@ Ideal for Pokémon that:
 5. **Item Synergy**: Special Attack boosting items maximize potential
 
 ### Notable Users
-Pokémon that commonly have Roused Fangs as an ability option in Elite Redux, typically those with:
+Pokemon that commonly have Roused Fangs as an ability option in Elite Redux, typically those with:
 - Natural access to multiple biting moves
 - Decent Special Attack base stats
 - Mixed offensive potential

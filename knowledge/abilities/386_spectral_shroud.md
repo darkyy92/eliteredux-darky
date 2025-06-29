@@ -15,8 +15,6 @@ character_count: 289
 
 Converts Normal-type moves to Ghost-type, gaining STAB and enhanced power boost. All Ghost-type moves (including converted ones) have 30% chance to badly poison targets after dealing damage. Combines offensive type conversion with dangerous poison status pressure that escalates over time.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -51,7 +49,7 @@ constexpr Ability Spectralize = {
 - **Normal-to-Ghost Conversion**: All Normal-type moves become Ghost-type
 - **STAB Bonus**: Converted moves gain 1.5x damage multiplier when used by Ghost-types (standard STAB)
 - **ATE Boost**: Converted moves likely receive additional 1.1x power boost (based on other ATE abilities)
-- **Cumulative Effect**: Total ~1.65x power for Ghost-types using converted Normal moves (1.5 × 1.1)
+- **Cumulative Effect**: Total ~1.65x power for Ghost-types using converted Normal moves (1.5 x 1.1)
 
 ### Poison Effect
 - **Trigger Condition**: Only activates on Ghost-type moves (including converted Normal moves)
@@ -64,11 +62,11 @@ constexpr Ability Spectralize = {
 
 ### Battle Effects
 **Move Conversions with Poison Chance:**
-- **Return/Frustration**: Normal → Ghost, potential badly poison
-- **Body Slam**: Normal → Ghost with paralysis chance + potential badly poison  
-- **Double-Edge**: Normal → Ghost with recoil + potential badly poison
-- **Hyper Beam**: Normal → Ghost + potential badly poison
-- **Quick Attack**: Normal → Ghost priority + potential badly poison
+- **Return/Frustration**: Normal to Ghost, potential badly poison
+- **Body Slam**: Normal to Ghost with paralysis chance + potential badly poison  
+- **Double-Edge**: Normal to Ghost with recoil + potential badly poison
+- **Hyper Beam**: Normal to Ghost + potential badly poison
+- **Quick Attack**: Normal to Ghost priority + potential badly poison
 
 **Natural Ghost Moves with Poison:**
 - **Shadow Ball**: 30% chance to badly poison
@@ -76,7 +74,7 @@ constexpr Ability Spectralize = {
 - **Hex**: 30% chance to badly poison (increased damage vs already poisoned targets)
 - **Phantom Force**: 30% chance to badly poison
 
-### Pokémon with Spectral Shroud
+### Pokemon with Spectral Shroud
 
 #### As a Changeable Ability:
 1. **Spiritomb (Redux Form)** - Psychic/Poison

@@ -5,9 +5,17 @@ status: ai-generated
 character_count: 290
 ---
 
-# Entrance (ID 611)
+# Entrance - Ability ID 611
 
-## Implementation Analysis
+## In-Game Description
+"When this Pokemon confuses an opponent, it simultaneously infatuates all eligible opposing Pokemon."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When this Pokemon confuses an opponent, it simultaneously infatuates all eligible opposing Pokemon of the opposite gender. The infatuation effect only applies to targets that aren't already infatuated or protected by immunity. This creates devastating dual status combinations in battle.
+
+## Detailed Mechanical Explanation
 
 **Source Code Location:** `/src/abilities.cc` line 6436-6441
 
@@ -27,7 +35,7 @@ constexpr Ability Entrance = {
 
 **Effect:** Uses `BattleScript_Entrance` which sets `MOVE_EFFECT_ATTRACT` (infatuation) via `PoisonPuppeteerClone`.
 
-## Detailed Mechanics
+### Detailed Mechanics
 
 ### Activation Process
 1. User inflicts confusion on opponent(s)
@@ -40,7 +48,7 @@ constexpr Ability Entrance = {
 - Target must be alive
 - Different battlers (cannot infatuate self)
 - Gender compatibility:
-  - Both Pokémon must have genders (not genderless)
+  - Both Pokemon must have genders (not genderless)
   - Must be opposite genders
 - Bypassed by Mycelium Might or Pure Love abilities
 - Blocked by status protection abilities
@@ -50,7 +58,7 @@ constexpr Ability Entrance = {
 - Removes state flags when tracked opponents faint
 - State persists across multiple confusion applications
 
-## Strategic Applications
+### Strategic Applications
 
 **Optimal Usage:**
 - Multi-target confusion moves (e.g., Supersonic in doubles)
@@ -67,5 +75,3 @@ constexpr Ability Entrance = {
 - Countered by same-gender teams
 - Effectiveness reduced by Mental Herb/status immunity
 
-## Extended In-Game Description
-When this Pokémon confuses an opponent, it simultaneously infatuates all eligible opposing Pokémon of the opposite gender. The infatuation effect only applies to targets that aren't already infatuated or protected by immunity. This creates devastating dual status combinations in battle.

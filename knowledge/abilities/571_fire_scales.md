@@ -15,8 +15,6 @@ character_count: 290
 
 Fire Scales provides a 50% damage reduction against all special attacks, effectively halving incoming special damage. Unlike Marvel Scale which boosts defensive stats when afflicted, Fire Scales directly reduces damage from special moves through a multiplicative modifier applied during damage calculation.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -42,7 +40,7 @@ constexpr Ability FireScales = {
 ### Activation Conditions
 - Activates against any special attack (moves with special damage category)
 - No status condition, weather, or HP threshold requirements
-- Always active when the Pokémon has this ability
+- Always active when the Pokemon has this ability
 
 ### Affected Moves
 Fire Scales affects all moves categorized as special attacks, including:
@@ -60,20 +58,20 @@ Fire Scales affects all moves categorized as special attacks, including:
 - **Breakable**: Listed as breakable = TRUE, meaning it can be suppressed by certain effects
 
 ### Strategic Implications
-- **Special Wall**: Transforms Pokémon into effective special walls regardless of base Special Defense
+- **Special Wall**: Transforms Pokemon into effective special walls regardless of base Special Defense
 - **Type Coverage**: Provides universal special defense unlike type-specific resistances
 - **HP Investment**: Allows for more HP investment since special bulk is effectively doubled
 - **Mixed Attackers**: Forces opponents to rely more heavily on physical attacks
 
 ### Example Damage Calculations
-- 100 Base Power special move normally dealing 200 damage → deals 100 damage
-- Super effective special move (2x damage) dealing 400 damage → deals 200 damage
-- Critical hit special move dealing 300 damage → deals 150 damage
+- 100 Base Power special move normally dealing 200 damage to deals 100 damage
+- Super effective special move (2x damage) dealing 400 damage to deals 200 damage
+- Critical hit special move dealing 300 damage to deals 150 damage
 
 ### Common Users
 Based on the codebase analysis, Fire Scales appears on:
 - Charizard Mega Z (as an innate ability alongside Hellblaze and Flame Shield)
-- Several other Fire-type Pokémon as either a regular or innate ability
+- Several other Fire-type Pokemon as either a regular or innate ability
 
 ### Competitive Usage Notes
 - **Team Role**: Excellent for special defensive pivots and walls
@@ -87,7 +85,7 @@ Based on the codebase analysis, Fire Scales appears on:
 - **Ability Suppression**: Gastro Acid, Simple Beam, and similar moves disable the effect
 
 ### Synergies
-- **Physical Bulk**: Pokémon with naturally high Defense benefit most
+- **Physical Bulk**: Pokemon with naturally high Defense benefit most
 - **Recovery Moves**: Pairs excellently with reliable recovery
 - **Status Moves**: Can freely use status moves while tanking special attacks
 - **Entry Hazards**: Can safely set hazards against special attackers

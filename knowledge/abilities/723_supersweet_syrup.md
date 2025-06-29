@@ -13,9 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Supersweet Syrup combines Sticky Hold's item protection with item disruption. The Pokémon's item cannot be removed or stolen. When hit by contact moves, the attacker's item is disabled for 2 turns, preventing item activation and effects during battle.
-
-*Character count: 293*
+Supersweet Syrup combines Sticky Hold's item protection with item disruption. The Pokemon's item cannot be removed or stolen. When hit by contact moves, the attacker's item is disabled for 2 turns, preventing item activation and effects during battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -112,15 +110,15 @@ This means Supersweet Syrup provides identical item protection to pure Sticky Ho
 - **Non-contact moves**: Special attacks, projectiles avoid item disable
 - **Mold Breaker variants**: Bypass ability entirely
 - **Already no item**: Attackers with no items aren't affected
-- **Long-range attackers**: Pokémon that don't rely on contact moves
+- **Long-range attackers**: Pokemon that don't rely on contact moves
 - **Ability suppression**: Neutralizing Gas, Core Enforcer
 
 ### Common Users
 This is a unique signature ability in Elite Redux, typically found on:
-- Defensive Pokémon that expect contact moves
-- Pokémon with valuable items to protect
-- Support Pokémon that want to maintain utility items
-- Sticky/syrup-themed Pokémon (thematically appropriate)
+- Defensive Pokemon that expect contact moves
+- Pokemon with valuable items to protect
+- Support Pokemon that want to maintain utility items
+- Sticky/syrup-themed Pokemon (thematically appropriate)
 
 ### Competitive Viability
 **Strengths**:

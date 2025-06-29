@@ -13,16 +13,14 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Slow Start halves Attack, Special Attack, and Speed for the first 5 turns after switching in. The turn counter resets each time the Pokémon switches out. After 5 turns, stats return to normal and a message displays. This ability simulates a slow warm-up period, encouraging strategic timing.
-
-*Character count: 297*
+Slow Start halves Attack, Special Attack, and Speed for the first 5 turns after switching in. The turn counter resets each time the Pokemon switches out. After 5 turns, stats return to normal and a message displays. This ability simulates a slow warm-up period, encouraging strategic timing.
 
 ## Detailed Mechanical Explanation
-Slow Start is a hindering ability that significantly reduces a Pokémon's offensive capabilities and speed during the initial turns of battle:
+Slow Start is a hindering ability that significantly reduces a Pokemon's offensive capabilities and speed during the initial turns of battle:
 
 ### Core Mechanics
 - **Affected Stats**: Attack, Special Attack, and Speed are all halved (multiplied by 0.5)
-- **Duration**: Exactly 5 turns after the Pokémon enters battle
+- **Duration**: Exactly 5 turns after the Pokemon enters battle
 - **Timer**: Uses `gVolatileStructs[battler].slowStartTimer` which starts at 5 and decrements each turn
 - **Activation**: Triggers immediately upon switching in with an announcement message
 
@@ -33,10 +31,10 @@ Slow Start is a hindering ability that significantly reduces a Pokémon's offens
 4. **End Condition**: When the timer reaches 0, a script (`BattleScript_SlowStartEnds`) executes to notify the player
 
 ### Strategic Implications
-- Requires careful timing when switching in Slow Start Pokémon
-- The halved offenses make the Pokémon vulnerable during early turns
-- Speed reduction can cause the Pokémon to be outsped by threats it would normally outspeed
-- Works best on bulky Pokémon that can survive the initial disadvantaged turns
+- Requires careful timing when switching in Slow Start Pokemon
+- The halved offenses make the Pokemon vulnerable during early turns
+- Speed reduction can cause the Pokemon to be outsped by threats it would normally outspeed
+- Works best on bulky Pokemon that can survive the initial disadvantaged turns
 - Switching out resets the timer, so staying in is often preferable once switched in
 
 ### Interactions

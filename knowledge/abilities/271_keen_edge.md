@@ -15,8 +15,6 @@ character_count: 298
 
 Keen Edge enhances all slashing attacks by 30%, significantly boosting moves that involve cutting, slicing, or slashing motions. Works with claws, blades, leaves, wind slashes, and similar cutting attacks. Includes both physical and special moves. Stacks with other damage modifiers.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -89,15 +87,15 @@ constexpr Ability KeenEdge = {
 ### Example Damage Calculations
 **Base Slash (70 BP):**
 - Without Keen Edge: 70 BP
-- With Keen Edge: 91 BP effective (70 × 1.3)
+- With Keen Edge: 91 BP effective (70 x 1.3)
 
 **Leaf Blade (90 BP):**
 - Without Keen Edge: 90 BP  
-- With Keen Edge: 117 BP effective (90 × 1.3)
+- With Keen Edge: 117 BP effective (90 x 1.3)
 
 **Air Slash (75 BP Special):**
 - Without Keen Edge: 75 BP
-- With Keen Edge: 97.5 BP effective (75 × 1.3)
+- With Keen Edge: 97.5 BP effective (75 x 1.3)
 
 ### Common Users
 - **Grass-types**: Utilize Leaf Blade, Razor Leaf, and other plant-based cutting moves

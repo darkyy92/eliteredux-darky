@@ -13,9 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When hit by contact moves, the Pokémon uses its Speed stat instead of Defense or Special Defense for damage calculations. This makes fast Pokémon extremely tanky against physical attacks like Tackle, Punch moves, and Earthquake while remaining vulnerable to special projectiles.
-
-*Character count: 290*
+When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. This makes fast Pokemon extremely tanky against physical attacks like Tackle, Punch moves, and Earthquake while remaining vulnerable to special projectiles.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,9 +22,9 @@ When hit by contact moves, the Pokémon uses its Speed stat instead of Defense o
 Blur replaces the defender's Defense or Special Defense stat with their Speed stat when calculating damage from contact moves. This stat substitution occurs during the defensive stat calculation phase of damage calculation.
 
 ### Activation Conditions
-- **Trigger**: When the Pokémon with Blur is hit by a contact move
+- **Trigger**: When the Pokemon with Blur is hit by a contact move
 - **Contact Move Definition**: Moves with the `contact = TRUE` flag in their move data
-- **Target Application**: Applied to the Pokémon with Blur when defending
+- **Target Application**: Applied to the Pokemon with Blur when defending
 
 ### Technical Implementation
 ```cpp
@@ -64,11 +62,11 @@ The ability hooks into the `onChooseDefensiveStat` callback which is called duri
 
 ### Damage Calculation Formula
 When hit by contact moves:
-- **Normal**: `Damage = (Attack × Move Power) / Defense`
-- **With Blur**: `Damage = (Attack × Move Power) / Speed`
+- **Normal**: `Damage = (Attack x Move Power) / Defense`
+- **With Blur**: `Damage = (Attack x Move Power) / Speed`
 
 ### Numerical Impact
-For a Pokémon with:
+For a Pokemon with:
 - Defense: 70
 - Special Defense: 70  
 - Speed: 140
@@ -79,8 +77,8 @@ Against a contact move, effective bulk is **doubled** (140 vs 70).
 - **Stat Boosts**: Speed boosts increase defensive effectiveness
 - **Stat Drops**: Speed drops reduce defensive effectiveness
 - **Items**: 
-  - Choice Scarf boosts Speed → increased bulk
-  - Iron Ball reduces Speed → decreased bulk
+  - Choice Scarf boosts Speed to increased bulk
+  - Iron Ball reduces Speed to decreased bulk
   - Assault Vest has no effect on Blur
 - **Abilities**:
   - Speed Boost indirectly increases bulk over time
@@ -96,7 +94,7 @@ Against a contact move, effective bulk is **doubled** (140 vs 70).
 **Strengths**:
 - Excellent against physical sweepers
 - Synergizes with Speed-boosting moves/abilities
-- Makes fast, frail Pokémon surprisingly bulky against contact moves
+- Makes fast, frail Pokemon surprisingly bulky against contact moves
 - Effective against priority contact moves
 
 **Weaknesses**:
@@ -106,15 +104,15 @@ Against a contact move, effective bulk is **doubled** (140 vs 70).
 - Paralysis cripples both offense and defense
 
 ### Example Damage Calculations
-**Scenario**: Opponent's 252 Atk Garchomp Earthquake vs Blur Pokémon
+**Scenario**: Opponent's 252 Atk Garchomp Earthquake vs Blur Pokemon
 - Base Stats: 70 HP / 70 Def / 140 Spe
 - **Without Blur**: 85-100% damage (likely OHKO)
 - **With Blur**: 42-50% damage (easy 2HKO)
 
 ### Common Users
-Based on the codebase, Pokémon with Blur ability include:
-- High-speed Pokémon as regular or innate ability
-- Pokémon with 125+ Speed stats
+Based on the codebase, Pokemon with Blur ability include:
+- High-speed Pokemon as regular or innate ability
+- Pokemon with 125+ Speed stats
 - Often paired with other speed-based abilities like Unburden or Speed Boost
 
 ### Competitive Usage Notes

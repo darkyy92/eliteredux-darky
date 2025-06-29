@@ -15,16 +15,14 @@ character_count: 295
 
 Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as "breakable" - does not ignore protective abilities like Magic Guard or unsuppressable abilities. Bypasses all 4 Elite Redux ability slots.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 **MOLD BREAKER** is an ability-negation ability that allows the user's moves to bypass most defensive and protective abilities on the target.
 
 ### Activation Mechanics:
-- **Trigger**: Automatically active when the Pokémon with Mold Breaker uses any move
-- **Switch-in Message**: "{Pokémon} breaks the mold!" (B_MSG_SWITCHIN_MOLDBREAKER)
+- **Trigger**: Automatically active when the Pokemon with Mold Breaker uses any move
+- **Switch-in Message**: "{Pokemon} breaks the mold!" (B_MSG_SWITCHIN_MOLDBREAKER)
 - **Scope**: Affects both regular abilities and all three innate ability slots in Elite Redux's 4-ability system
 - **Flag**: Sets HITMARKER_MOLD_BREAKER for the duration of the move
 
@@ -73,7 +71,7 @@ Mold Breaker is particularly powerful in Elite Redux because it can suppress:
 - **Slot 2**: Second innate ability
 - **Slot 3**: Third innate ability
 
-This means Pokémon that rely on multiple defensive abilities for bulk can be completely bypassed.
+This means Pokemon that rely on multiple defensive abilities for bulk can be completely bypassed.
 
 ### Technical Implementation:
 ```c
@@ -103,7 +101,7 @@ Based on the species data, Mold Breaker appears on many powerful physical attack
 ### Counters:
 - **Ability Shield**: Completely prevents ability suppression
 - **Non-breakable abilities**: Magic Guard, Wonder Guard still function
-- **Switching**: Opponent can switch to non-ability-reliant Pokémon
+- **Switching**: Opponent can switch to non-ability-reliant Pokemon
 - **Priority moves**: Can KO before Mold Breaker user attacks
 
 ### Synergies:
@@ -113,7 +111,7 @@ Based on the species data, Mold Breaker appears on many powerful physical attack
 - **Contact moves**: Ignore contact-based defensive abilities
 
 ### Competitive Usage Notes:
-Mold Breaker is considered one of the most valuable abilities in Elite Redux due to the prevalence of multiple defensive abilities on most Pokémon. It's particularly effective in higher difficulty tiers where opponents stack defensive abilities.
+Mold Breaker is considered one of the most valuable abilities in Elite Redux due to the prevalence of multiple defensive abilities on most Pokemon. It's particularly effective in higher difficulty tiers where opponents stack defensive abilities.
 
 ### Version History:
 - **Gen 4+**: Original implementation

@@ -15,8 +15,6 @@ character_count: 291
 
 Acidic Slime grants Water-type moves STAB bonus (1.5x damage) regardless of user's actual type and allows Poison moves to hit Steel types for 2x damage instead of immunity. Can poison any type including Steel and Poison. Effectively combines offensive typing flexibility with status utility.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -30,7 +28,7 @@ Acidic Slime is a hybrid ability that combines the effects of Corrosion with add
 - Applied regardless of the user's actual typing
 
 **Corrosion Effects:**
-- Poison-type moves hit Steel-type Pokémon for 2x damage instead of immunity
+- Poison-type moves hit Steel-type Pokemon for 2x damage instead of immunity
 - Can inflict poison status on any type, including Steel and Poison types
 - Bypasses normal type-based status immunities for poison
 
@@ -49,7 +47,7 @@ The implementation references the existing Corrosion ability for type effectiven
 ### Type Effectiveness Changes
 
 **Against Steel Types:**
-- Poison moves: 0x → 2x damage
+- Poison moves: 0x to 2x damage
 - All other type interactions remain unchanged
 
 ### Status Infliction
@@ -86,18 +84,18 @@ The implementation references the existing Corrosion ability for type effectiven
 
 **Surf (90 BP) with Acidic Slime:**
 - Base: 90 BP
-- With STAB: 90 × 1.5 = 135 effective BP
+- With STAB: 90 x 1.5 = 135 effective BP
 
 **Sludge Bomb (90 BP) vs Steel type:**
 - Normal: 0 damage (immune)
-- With Acidic Slime: 90 × 2 = 180 effective BP
+- With Acidic Slime: 90 x 2 = 180 effective BP
 
 ### Common Users
 
 This ability is typically found on:
 - Poison/Water dual types
-- Pokémon with access to both Water and Poison move pools
-- Bulky offensive Pokémon that benefit from status spreading
+- Pokemon with access to both Water and Poison move pools
+- Bulky offensive Pokemon that benefit from status spreading
 
 ### Competitive Usage
 
@@ -121,7 +119,7 @@ This ability is typically found on:
 - Guts (benefits from status conditions)
 
 **Indirect Counters:**
-- Fast offensive Pokémon (bypass slow poison damage)
+- Fast offensive Pokemon (bypass slow poison damage)
 - Special walls with Poison immunity
 - Taunt (prevents status moves)
 
@@ -139,7 +137,7 @@ This ability is typically found on:
 
 **Team Synergies:**
 - Toxic Spikes setters
-- Pokémon that benefit from weakened Steel types
+- Pokemon that benefit from weakened Steel types
 - Water/Poison offensive core partners
 
 ### Version History

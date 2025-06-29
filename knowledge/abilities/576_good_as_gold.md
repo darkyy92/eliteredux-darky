@@ -13,20 +13,18 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Good As Gold grants immunity to all status moves that directly target this Pokémon. The Pokémon remains vulnerable to status moves that affect the entire battlefield, such as Haze or Aromatherapy. This selective immunity creates strategic depth.
-
-*Character count: 286*
+Good As Gold grants immunity to all status moves that directly target this Pokemon. The Pokemon remains vulnerable to status moves that affect the entire battlefield, such as Haze or Aromatherapy. This selective immunity creates strategic depth.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Primary Effect**: Complete immunity to status moves that target the Pokémon directly
-- **Exception**: Field-wide status moves (that affect all Pokémon) can still affect the user
+- **Primary Effect**: Complete immunity to status moves that target the Pokemon directly
+- **Exception**: Field-wide status moves (that affect all Pokemon) can still affect the user
 - **Targeting Check**: Uses `battler != attacker` logic to determine move targeting
 
 ### Activation Conditions
-- Triggers when a status move targets this Pokémon
+- Triggers when a status move targets this Pokemon
 - Does NOT activate for moves that target the user themselves
 - Does NOT activate for moves that affect the entire field
 
@@ -52,15 +50,15 @@ constexpr Ability GoodAsGold = {
 - Leech Seed, Mean Look, Spider Web
 
 **NOT Blocked (Field-Wide Examples):**
-- Haze (affects all Pokémon's stat changes)
+- Haze (affects all Pokemon's stat changes)
 - Aromatherapy (heals all team members)
 - Heal Bell (heals all team members)
 - Entry hazards like Stealth Rock (affect switching)
 
 ### Interactions with Other Abilities/Mechanics
 - **Mold Breaker/Turboblaze/Teravolt**: Can bypass Good As Gold immunity
-- **Magic Bounce**: If both Pokémon have status immunity abilities, interactions depend on move priority
-- **Substitute**: Good As Gold protects the actual Pokémon, not the Substitute
+- **Magic Bounce**: If both Pokemon have status immunity abilities, interactions depend on move priority
+- **Substitute**: Good As Gold protects the actual Pokemon, not the Substitute
 - **Priority**: Immunity occurs before the move hits, so priority doesn't matter
 
 ### Strategic Implications
@@ -75,7 +73,7 @@ constexpr Ability GoodAsGold = {
 - Provides utility in formats with heavy status move usage
 
 ### Common Users
-- Typically found on legendary or pseudo-legendary Pokémon
+- Typically found on legendary or pseudo-legendary Pokemon
 - Gholdengo is the most notable canonical user
 - Often paired with setup moves or sweeping sets
 
@@ -97,7 +95,7 @@ constexpr Ability GoodAsGold = {
 - **Choice Items**: Prevents status moves from forcing switches
 
 ### Version History
-- Introduced in Generation IX (Pokémon Scarlet/Violet)
+- Introduced in Generation IX (Pokemon Scarlet/Violet)
 - Elite Redux Implementation: Uses standard immunity framework
 - **Current Status**: Fully implemented with field-wide move exception noted in description
 

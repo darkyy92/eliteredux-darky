@@ -5,21 +5,27 @@ status: ai-generated
 character_count: 295
 ---
 
-# Scare (Ability #329)
+# Scare - Ability ID 329
 
-## Overview
+## In-Game Description
+Lowers the Special Attack of opposing Pokemon upon switching in.
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Upon entering battle, this Pokemon's intimidating presence strikes fear into opposing Pokemon, causing them to lose confidence in their special attacks. The psychological effect reduces their Special Attack stat by one stage, making their special moves considerably weaker throughout the battle.
+
+## Detailed Mechanical Explanation
+
 Scare is an intimidation-based ability that lowers the Special Attack of opposing Pokemon upon switching in. It functions as a Special Attack counterpart to the standard Intimidate ability, making it particularly effective against special attackers.
 
-## Mechanics
+### Mechanics
 - **Activation**: On switch-in (entry to battle)
 - **Target**: Both opposing Pokemon in double battles, single opponent in single battles
 - **Effect**: Lowers Special Attack by 1 stage (-1)
 - **Immunity**: Blocked by abilities like Oblivious, Own Tempo, Inner Focus, and Scrappy
 
-## Extended In-Game Description
-Upon entering battle, this Pokemon's intimidating presence strikes fear into opposing Pokemon, causing them to lose confidence in their special attacks. The psychological effect reduces their Special Attack stat by one stage, making their special moves considerably weaker throughout the battle.
-
-## Technical Implementation
+### Technical Implementation
 Scare is implemented using the `UseIntimidateClone` system in the game engine. It references the `gIntimidateCloneData` array with the following configuration:
 - `ability`: ABILITY_SCARE
 - `numStatsLowered`: 1

@@ -2,13 +2,23 @@
 id: 369
 name: Bad Company
 status: ai-generated
-character_count: 0
+character_count: 287
 ---
 
-# Bad Company - Ability #369
+# Bad Company - Ability ID 369
 
-## Overview
-Bad Company is a defensive ability that prevents the user from suffering the defensive stat drops typically associated with certain powerful moves. This ability allows Pokémon to use high-power attacks without the usual defensive drawbacks.
+## In-Game Description
+"Prevents defensive stat drops from own moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Bad Company prevents the user from suffering Defense and Special Defense drops when using powerful moves like Close Combat or Dragon Ascent. This ability allows repeated use of these high-power attacks without the usual defensive penalties, maintaining bulk throughout battles.
+
+## Detailed Mechanical Explanation
+
+### Overview
+Bad Company is a defensive ability that prevents the user from suffering the defensive stat drops typically associated with certain powerful moves. This ability allows Pokemon to use high-power attacks without the usual defensive drawbacks.
 
 ## Technical Implementation
 
@@ -66,7 +76,7 @@ Based on the codebase analysis, moves that use `EFFECT_CLOSE_COMBAT` are affecte
 1. **Offensive Consistency**: Allows repeated use of high-power moves without defensive penalties
 2. **Defensive Integrity**: Maintains bulk while using powerful attacks
 3. **Setup Potential**: Can use stat-boosting moves without fear of defensive drops
-4. **Longevity**: Extends the Pokémon's staying power in battles
+4. **Longevity**: Extends the Pokemon's staying power in battles
 
 ### Disadvantages
 1. **Limited Scope**: Only affects specific moves with defensive stat drops
@@ -77,9 +87,9 @@ Based on the codebase analysis, moves that use `EFFECT_CLOSE_COMBAT` are affecte
 ### Competitive Applications
 
 #### Ideal Users
-- **Physical Attackers**: Pokémon that learn Close Combat or Dragon Ascent
+- **Physical Attackers**: Pokemon that learn Close Combat or Dragon Ascent
 - **Mixed Attackers**: Those who want to maintain defensive capabilities
-- **Bulky Sweepers**: Pokémon that rely on both offense and defense
+- **Bulky Sweepers**: Pokemon that rely on both offense and defense
 
 #### Team Synergy
 - **Entry Hazard Weak Teams**: Maintains bulk against hazard damage
@@ -103,16 +113,17 @@ Based on the codebase analysis, moves that use `EFFECT_CLOSE_COMBAT` are affecte
 - Does not protect against opponent-caused stat changes
 - More limited in scope than general stat protection abilities
 
-## Pokémon Distribution
-*Note: Specific Pokémon with this ability would need to be checked in the protobuf species data*
+## Pokemon Distribution
+*Note: Specific Pokemon with this ability would need to be checked in the protobuf species data*
 
 ## Trivia
 - The ability name "Bad Company" likely references the cost-benefit nature of powerful moves
 - This is one of the few abilities that specifically counteracts move-based stat penalties
 - The implementation suggests it was designed specifically for Close Combat-style moves
-- Banned from randomizer to prevent overpowered combinations with certain Pokémon
+- Banned from randomizer to prevent overpowered combinations with certain Pokemon
 
 ## Version History
 - Added in Elite Redux as ability #369
 - Currently marked as "Not implemented right now. Has no effect." in protobuf description, but actually functional in battle code
 - Randomizer banned since implementation
+

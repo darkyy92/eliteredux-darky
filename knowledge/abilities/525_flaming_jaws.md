@@ -15,8 +15,6 @@ character_count: 284
 
 Flaming Jaws gives all biting moves a 50% chance to burn the target on hit. Works with moves boosted by Strong Jaw like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Hyper Fang, Poison Fang, Psychic Fangs, and Jaw Lock. Burn inflicts damage and halves Attack.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -70,10 +68,10 @@ constexpr Ability FlamingJaws = {
 - **Damage**: 1/16 of max HP at the end of each turn
 - **Attack reduction**: Halves physical Attack stat
 - **Duration**: Until switched out, cured, or fainted
-- **Visual**: Fire animation around the Pokémon
+- **Visual**: Fire animation around the Pokemon
 
 ### Important Interactions
-- **Fire-type immunity**: Fire-type Pokémon cannot be burned
+- **Fire-type immunity**: Fire-type Pokemon cannot be burned
 - **Already burned**: Cannot burn a target that's already burned
 - **Substitutes**: Cannot burn through Substitute
 - **Multi-hit moves**: Each hit has independent burn chance
@@ -102,7 +100,7 @@ constexpr Ability FlamingJaws = {
 - **Timing importance**: Burn at the right moment can swing games
 
 ### Counters
-- **Fire-type Pokémon**: Immune to burn status
+- **Fire-type Pokemon**: Immune to burn status
 - **Water Veil**: Ability prevents burn status
 - **Substitute**: Blocks status application
 - **Aromatherapy/Heal Bell**: Team-wide status healing
@@ -126,7 +124,7 @@ constexpr Ability FlamingJaws = {
 - Elite Redux custom ability
 - Part of the expanded ability roster beyond Generation 8
 - Designed to give unique identity to Fire-type physical attackers
-- Available as innate ability on select Pokémon
+- Available as innate ability on select Pokemon
 
 ### Hybrid Abilities
 **Flaming Maw** (separate ability) combines Flaming Jaws with Strong Jaw for both burn chance and power boost on the same moves, creating a potent offensive combination.

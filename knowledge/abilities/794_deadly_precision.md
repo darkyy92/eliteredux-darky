@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When using super-effective moves, this Pokémon gains perfect accuracy and ignores the target's defensive abilities. Works with all moves that deal 2x or higher damage, ensuring they connect and bypass abilities like Levitate, Flash Fire, or Water Absorb for maximum offensive pressure.
-
-*Character count: 285*
+When using super-effective moves, this Pokemon gains perfect accuracy and ignores the target's defensive abilities. Works with all moves that deal 2x or higher damage, ensuring they connect and bypass abilities like Levitate, Flash Fire, or Water Absorb for maximum offensive pressure.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -110,10 +108,10 @@ Deadly Precision bypasses all defensive abilities when landing super-effective h
 - Rock Slide (hits Fire/Ice/Flying/Bug)
 
 ### Common Users
-While the specific Pokémon with this ability aren't definitively known from the code analysis, it would typically be found on:
-- Offensive Pokémon with diverse movepools
+While the specific Pokemon with this ability aren't definitively known from the code analysis, it would typically be found on:
+- Offensive Pokemon with diverse movepools
 - Mixed attackers that can leverage both physical and special super-effective moves
-- Pokémon designed to break through defensive strategies
+- Pokemon designed to break through defensive strategies
 
 ### Competitive Usage Notes
 
@@ -138,7 +136,7 @@ While the specific Pokémon with this ability aren't definitively known from the
 - Switching to resist the super-effective move
 
 **Strategic Counters**:
-- Using Pokémon without easily exploitable weaknesses
+- Using Pokemon without easily exploitable weaknesses
 - Priority moves to revenge kill
 - Defensive pivoting and momentum control
 - Status moves and non-damaging strategies
@@ -166,7 +164,7 @@ Assuming a base 80 BP super-effective move with equal Attack/Special Attack and 
 
 **Without Deadly Precision**:
 - 50% chance to miss against +6 Evasion
-- Reduced damage against Filter/Solid Rock (2.0x → 1.5x effectiveness)
+- Reduced damage against Filter/Solid Rock (2.0x to 1.5x effectiveness)
 - Complete miss against Levitate with Ground moves
 
 **With Deadly Precision**:

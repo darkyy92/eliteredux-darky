@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Doubles the chance of all secondary effects from this Pokémon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely to occur.
-
-*Character count: 284*
+Doubles the chance of all secondary effects from this Pokemon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely to occur.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -40,38 +38,38 @@ The implementation:
 ### Affected Move Properties
 
 **Status effects:**
-- Burn chance (Fire Punch: 10% → 20%)
-- Freeze chance (Ice Beam: 10% → 20%) 
-- Paralysis chance (Thunder: 30% → 60%)
-- Poison chance (Sludge Bomb: 30% → 60%)
+- Burn chance (Fire Punch: 10% to 20%)
+- Freeze chance (Ice Beam: 10% to 20%) 
+- Paralysis chance (Thunder: 30% to 60%)
+- Poison chance (Sludge Bomb: 30% to 60%)
 
 **Stat changes:**
-- Attack drops (Aurora Beam: 10% → 20%)
-- Defense drops (Crunch: 20% → 40%)
-- Speed drops (Icy Wind: 100% → still 100%)
-- Accuracy drops (Muddy Water: 30% → 60%)
+- Attack drops (Aurora Beam: 10% to 20%)
+- Defense drops (Crunch: 20% to 40%)
+- Speed drops (Icy Wind: 100% to still 100%)
+- Accuracy drops (Muddy Water: 30% to 60%)
 
 **Flinch chances:**
-- Bite/Air Slash: 30% → 60%
-- Iron Head: 30% → 60%
-- Headbutt: 30% → 60%
+- Bite/Air Slash: 30% to 60%
+- Iron Head: 30% to 60%
+- Headbutt: 30% to 60%
 
 **Other effects:**
-- Confusion (Water Pulse: 20% → 40%)
+- Confusion (Water Pulse: 20% to 40%)
 - Item removal (Knock Off: always 100%)
 
 ### Notable Move Interactions
 
 **High-impact combinations:**
-- **Thunder**: 30% → 60% paralysis (70% with ParaFlinch builds)
-- **Air Slash**: 30% → 60% flinch (infamous paraflinch)
-- **Iron Head**: 30% → 60% flinch
-- **Rock Slide**: 30% → 60% flinch (doubles)
-- **Scald**: 30% → 60% burn
+- **Thunder**: 30% to 60% paralysis (70% with ParaFlinch builds)
+- **Air Slash**: 30% to 60% flinch (infamous paraflinch)
+- **Iron Head**: 30% to 60% flinch
+- **Rock Slide**: 30% to 60% flinch (doubles)
+- **Scald**: 30% to 60% burn
 
 **Already 100% effects:**
 - Icy Wind, Bulldoze (speed drops)
-- Psychic (rare 10% → 20% SpDef drop)
+- Psychic (rare 10% to 20% SpDef drop)
 
 ### Rainbow Weather Interaction
 - Rainbow weather also doubles effect chances
@@ -128,7 +126,7 @@ While Serene Grace doesn't boost damage, the utility often outweighs raw power:
 - **Taunt**: Prevents setup
 
 ### Competitive Usage Notes
-Serene Grace transforms unreliable secondary effects into core strategies. The ability is most valuable on Pokémon with:
+Serene Grace transforms unreliable secondary effects into core strategies. The ability is most valuable on Pokemon with:
 1. Access to high-flinch moves
 2. Good speed tiers or priority
 3. Moves with powerful secondary effects
@@ -137,10 +135,10 @@ Serene Grace transforms unreliable secondary effects into core strategies. The a
 The psychological impact is significant - opponents must respect even low-chance effects.
 
 ### Mathematical Examples
-- 10% effect → 20% (1 in 5 chance)
-- 20% effect → 40% (2 in 5 chance)
-- 30% effect → 60% (3 in 5 chance)
-- 50% effect → 100% (guaranteed)
+- 10% effect to 20% (1 in 5 chance)
+- 20% effect to 40% (2 in 5 chance)
+- 30% effect to 60% (3 in 5 chance)
+- 50% effect to 100% (guaranteed)
 
 ### AI Behavior
 - Values moves with secondary effects higher

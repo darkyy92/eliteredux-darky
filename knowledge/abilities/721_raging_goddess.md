@@ -15,8 +15,6 @@ character_count: 295
 
 Raging Goddess combines two powerful effects. Moves hit twice with the second hit dealing 25% damage like Hyper Aggressive. Additionally, like Rampage, eliminates recharge after knocking out an opponent from moves that normally require recharge, allowing for relentless combat.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,7 +24,7 @@ Raging Goddess is a combination ability that merges the effects of Rampage and H
 ### Component Abilities
 
 #### Rampage Component 
-- **Recharge elimination**: When this Pokémon knocks out an opponent with a move that normally requires recharge (like Hyper Beam, Blast Burn, etc.), the recharge requirement is completely eliminated
+- **Recharge elimination**: When this Pokemon knocks out an opponent with a move that normally requires recharge (like Hyper Beam, Blast Burn, etc.), the recharge requirement is completely eliminated
 - **Timing**: Activates immediately when the opponent faints from the attack
 - **Effect**: Sets `gVolatileStructs[battler].rechargeTimer = 0` and clears `STATUS2_RECHARGE`
 
@@ -125,9 +123,9 @@ constexpr Ability RagingGoddess = {
 
 ### Notable Users
 Raging Goddess is typically found on:
-- Legendary or pseudo-legendary Pokémon
+- Legendary or pseudo-legendary Pokemon
 - Late-game boss battles
-- Pokémon designed for ultimate offensive presence
+- Pokemon designed for ultimate offensive presence
 - Special event or postgame encounters
 
 ### Version Notes

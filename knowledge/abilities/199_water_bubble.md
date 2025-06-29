@@ -15,8 +15,6 @@ character_count: 295
 
 Water Bubble creates a protective bubble that doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burn status, removing existing burns upon gaining the ability. Elite Redux's multi-ability system.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -66,15 +64,15 @@ constexpr Ability WaterBubble = {
 ### Interactions with Other Abilities/Mechanics
 
 **Positive Synergies:**
-- **STAB (Same Type Attack Bonus)**: Stacks multiplicatively for Water-types (2.0x from ability × 1.5x STAB = 3.0x total)
-- **Weather effects**: Rain boosts stack with Water Bubble (Rain 1.5x × Water Bubble 2.0x = 3.0x)
+- **STAB (Same Type Attack Bonus)**: Stacks multiplicatively for Water-types (2.0x from ability x 1.5x STAB = 3.0x total)
+- **Weather effects**: Rain boosts stack with Water Bubble (Rain 1.5x x Water Bubble 2.0x = 3.0x)
 - **Items**: Life Orb, Choice items, and type-boosting items stack multiplicatively
 - **Abilities**: Swift Swim pairs well for Rain teams
 
 **Ability Interactions:**
 - **Mold Breaker/Turboblaze/Teravolt**: Can ignore Water Bubble's effects
 - **Gastro Acid**: Removes Water Bubble and its benefits
-- **Skill Swap/Role Play**: Can transfer Water Bubble to other Pokémon
+- **Skill Swap/Role Play**: Can transfer Water Bubble to other Pokemon
 
 **Fire Resistance Interactions:**
 - Solar Power self-damage in sun is NOT reduced (not Fire-type damage)
@@ -99,18 +97,18 @@ constexpr Ability WaterBubble = {
 
 **Water move with STAB and Water Bubble:**
 - Base Water move: 100 BP
-- STAB bonus: 100 × 1.5 = 150 BP
-- Water Bubble: 150 × 2.0 = 300 effective BP
+- STAB bonus: 100 x 1.5 = 150 BP
+- Water Bubble: 150 x 2.0 = 300 effective BP
 
 **Fire move against Water Bubble:**
 - Base Fire move: 100 BP
-- Water Bubble resistance: 100 × 0.5 = 50 effective BP received
+- Water Bubble resistance: 100 x 0.5 = 50 effective BP received
 
 ### Common Users
 In Elite Redux, Water Bubble is notably used by:
-- Araquanid (signature Pokémon)
-- Various other Pokémon through the game's expanded ability distribution
-- Pokémon with access through ability-changing mechanics
+- Araquanid (signature Pokemon)
+- Various other Pokemon through the game's expanded ability distribution
+- Pokemon with access through ability-changing mechanics
 
 ### Competitive Usage Notes
 

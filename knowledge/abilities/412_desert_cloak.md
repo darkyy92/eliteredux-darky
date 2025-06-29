@@ -15,13 +15,11 @@ character_count: 295
 
 Desert Cloak provides team-wide protection during sandstorm weather. All allies become immune to status conditions and secondary effects from enemy moves while sand is active. Works with Sand Stream, Sand Spit, and Sandstorm moves. Does not protect from direct status moves or entry hazards. Elite weather ability.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Desert Cloak is an advanced weather-dependent ability that provides team-wide defensive benefits during sandstorm conditions. Unlike most abilities that only affect the user, Desert Cloak extends its protection to all Pokémon on the same side of the field.
+Desert Cloak is an advanced weather-dependent ability that provides team-wide defensive benefits during sandstorm conditions. Unlike most abilities that only affect the user, Desert Cloak extends its protection to all Pokemon on the same side of the field.
 
 ### Activation Conditions
 - **Weather requirement**: Any form of sandstorm weather must be active
@@ -100,9 +98,9 @@ if (IsWeatherSandstorm() && HasAllyWithAbility(ABILITY_DESERT_CLOAK)) {
 
 ### Common Users
 - Defensive Ground/Rock types who can weather sandstorm damage
-- Sand team anchors and support Pokémon
-- Pokémon with Sand Stream as a secondary ability
-- Bulky Pokémon designed for weather team support
+- Sand team anchors and support Pokemon
+- Pokemon with Sand Stream as a secondary ability
+- Bulky Pokemon designed for weather team support
 
 ### Counters
 - **Weather Override**: Change to sun, rain, or hail to disable protection

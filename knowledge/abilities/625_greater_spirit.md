@@ -5,19 +5,25 @@ status: ai-generated
 character_count: 280
 ---
 
-# Greater Spirit (ID: 625)
+# Greater Spirit - Ability ID 625
+
+## In-Game Description
+"Upon entry in fog weather, raises highest base stat by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Upon entry in fog weather, Greater Spirit automatically identifies the holder's highest base stat and raises it by one stage. This weather-conditional ability strategically enhances the Pokemon's strongest attribute, making it valuable for specialized battle roles and fog teams.
 
-## Core Mechanics
+## Detailed Mechanical Explanation
+
+### Core Mechanics
 
 **Trigger Condition**: Pokemon enters battle during fog weather (permanent or temporary)
 **Effect**: Raises the Pokemon's highest stat by +1 stage upon entry
 **Weather Types**: Activates during both `WEATHER_FOG_PERMANENT` and `WEATHER_FOG_TEMPORARY`
 
-## Implementation Details
+### Implementation Details
 
 ```cpp
 constexpr Ability GreaterSpirit = {
@@ -37,7 +43,7 @@ constexpr Ability GreaterSpirit = {
 - `IsBattlerWeatherAffected(battler, WEATHER_FOG_ANY)`: Checks for fog weather conditions
 - `ChangeStatBuffs()`: Applies the +1 stat boost
 
-## Strategic Applications
+### Strategic Applications
 
 ### Pokemon with Greater Spirit
 Based on the codebase analysis, Greater Spirit appears on:
@@ -55,14 +61,14 @@ Based on the codebase analysis, Greater Spirit appears on:
 - **Role Compression**: Eliminates need for separate stat-boosting moves
 - **Weather Team Core**: Essential component of fog-based team compositions
 
-## Similar Abilities
+### Similar Abilities
 Greater Spirit shares design patterns with other weather-conditional stat boosters:
 - **Sea Guardian** (rain + highest stat boost)
 - **Sun Worship** (sun + highest stat boost)
 - **Protosynthesis** (sun + highest stat boost, with additional mechanics)
 - **Quark Drive** (Electric Terrain + highest stat boost)
 
-## Technical Notes
+### Technical Notes
 
 ### Weather Detection
 - Activates under `WEATHER_FOG_ANY` which includes both permanent and temporary fog

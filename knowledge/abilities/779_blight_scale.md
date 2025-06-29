@@ -15,8 +15,6 @@ character_count: 293
 
 When at full HP, takes half damage from attacks. Contact moves have a 30% chance to poison the attacker. Combines defensive durability with punishing counterattack potential, making this Pokemon dangerous to engage in direct combat at maximum health.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

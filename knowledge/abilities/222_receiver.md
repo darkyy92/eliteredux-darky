@@ -15,17 +15,15 @@ character_count: 299
 
 Receiver activates only in Double Battles when an ally faints. It copies the fainted ally's ability, replacing one of Receiver user's current abilities. Cannot copy Wonder Guard, Trace, or another Receiver ability. The copied ability functions normally and persists until switched out.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Receiver is a situational ability that only functions in Double Battles, Multi Battles, and other team-based formats. When an ally Pokémon faints, Receiver triggers and attempts to copy that ally's ability.
+Receiver is a situational ability that only functions in Double Battles, Multi Battles, and other team-based formats. When an ally Pokemon faints, Receiver triggers and attempts to copy that ally's ability.
 
 ### Activation Conditions
 - **Battle Format**: Only works in Double Battles, Multi Battles, or other formats with allies
-- **Trigger**: An ally Pokémon must faint while the Receiver user is still active
+- **Trigger**: An ally Pokemon must faint while the Receiver user is still active
 - **Timing**: Activates immediately when the ally faints, before any other end-of-turn effects
 
 ### Technical Implementation
@@ -59,7 +57,7 @@ According to `sRolePlayBannedAbilities` array:
 ### Ability Replacement Mechanics
 - **Elite Redux Multi-Ability System**: Receiver replaces one of the user's current abilities
 - **Index Selection**: Uses `GetAbilityIndex()` to determine which ability slot to replace
-- **Persistence**: The copied ability remains until the Pokémon switches out
+- **Persistence**: The copied ability remains until the Pokemon switches out
 - **Switch-In Effects**: The copied ability can trigger switch-in effects if applicable
 
 ### Strategic Implications

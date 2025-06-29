@@ -2,7 +2,7 @@
 id: 378
 name: Amplifier
 status: ai-generated
-character_count: 275
+character_count: 289
 ---
 
 # Amplifier - Ability ID 378
@@ -11,11 +11,10 @@ character_count: 275
 "Ups sound moves by 30% and makes them hit both foes."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Amplifier boosts sound-based moves by 30% damage. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokémon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams.
+<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
 
-*Character count: 289*
+Amplifier boosts sound-based moves by 30% damage. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokemon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -28,7 +27,7 @@ Amplifier is a sound-focused offensive ability that provides both damage enhance
 - Stacks multiplicatively with other damage modifiers (STAB, type effectiveness, items, etc.)
 
 **Doubles Battle Targeting:**
-- Single-target sound moves automatically hit both opposing Pokémon
+- Single-target sound moves automatically hit both opposing Pokemon
 - This targeting change is handled in battle_util.c (line 130-132)
 - Provides significant tactical advantage by creating spread damage from normally single-target moves
 - Does not affect moves that are already spread moves (like Boomburst)
@@ -76,7 +75,7 @@ else if ((BATTLER_HAS_ABILITY(battler, ABILITY_AMPLIFIER) ||
 **Key Differences from Related Abilities:**
 - **vs Punk Rock**: Lacks defensive component (no 50% sound move damage reduction)
 - **vs Bass Boosted**: Bass Boosted combines Amplifier + Punk Rock for both offensive and defensive benefits
-- **vs Liquid Voice**: Different conversion mechanic (Normal → Water vs sound enhancement)
+- **vs Liquid Voice**: Different conversion mechanic (Normal to Water vs sound enhancement)
 
 **Competitive Viability:**
 - **Medium tier**: Strong offensive ability but lacks defensive utility
@@ -85,7 +84,7 @@ else if ((BATTLER_HAS_ABILITY(battler, ABILITY_AMPLIFIER) ||
 - **Team support**: Spread damage helps with field control
 
 **Common Users and Synergies:**
-Amplifier appears as an innate ability on select Pokémon with sound-move emphasis. It synergizes well with:
+Amplifier appears as an innate ability on select Pokemon with sound-move emphasis. It synergizes well with:
 - **Throat Spray**: Boosts Special Attack when using sound moves
 - **Choice Specs**: Stacks damage multipliers for extreme power
 - **Sound moves with secondary effects**: Bug Buzz's Sp. Atk drop affects both targets in doubles
@@ -105,8 +104,8 @@ Amplifier appears as an innate ability on select Pokémon with sound-move emphas
 **Power Calculation Example:**
 Base Hyper Voice (90 BP) with Amplifier:
 - Base damage: 90 BP
-- Amplifier boost: 90 × 1.3 = 117 BP effective
-- With STAB: 117 × 1.5 = 175.5 BP effective
+- Amplifier boost: 90 x 1.3 = 117 BP effective
+- With STAB: 117 x 1.5 = 175.5 BP effective
 - In doubles: Hits both opponents at full power
 
 **Version History:**
@@ -116,4 +115,4 @@ Base Hyper Voice (90 BP) with Amplifier:
 - **Targeting innovation**: Unique spread targeting mechanic for sound moves
 
 **Lore and Flavor:**
-Amplifier represents mastery over sound projection and acoustic enhancement, allowing the Pokémon to amplify their vocalizations to reach wider areas and deal increased damage. The name evokes audio equipment and sound engineering, fitting for Pokémon that specialize in sonic attacks and battlefield control through sound manipulation.
+Amplifier represents mastery over sound projection and acoustic enhancement, allowing the Pokemon to amplify their vocalizations to reach wider areas and deal increased damage. The name evokes audio equipment and sound engineering, fitting for Pokemon that specialize in sonic attacks and battlefield control through sound manipulation.

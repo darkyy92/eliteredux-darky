@@ -13,25 +13,23 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Hot Coals sets a burning trap on the opponent's side when the Pokémon switches in. The next opposing Pokémon that switches in will be burned if they are grounded and can be burned. Only affects the first switch-in and is consumed when triggered. Does not stack multiple traps.
-
-*Character count: 295*
+Hot Coals sets a burning trap on the opponent's side when the Pokemon switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Only affects the first switch-in and is consumed when triggered. Does not stack multiple traps.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Hot Coals is an entry hazard ability that creates a one-time burning trap on the opponent's side of the field. Unlike traditional entry hazards, it only affects the next Pokémon that switches in and is immediately consumed upon activation.
+Hot Coals is an entry hazard ability that creates a one-time burning trap on the opponent's side of the field. Unlike traditional entry hazards, it only affects the next Pokemon that switches in and is immediately consumed upon activation.
 
 ### Activation Conditions
-- **Entry trigger**: Activates when the Pokémon with Hot Coals switches into battle
+- **Entry trigger**: Activates when the Pokemon with Hot Coals switches into battle
 - **Target side**: Sets trap on the opposing team's side (opposite side from the user)
 - **Single use**: The trap only affects the next switch-in and is then removed
 - **No stacking**: Multiple Hot Coals users don't stack additional traps
 
 ### Trap Mechanics
-The Hot Coals trap triggers when an opposing Pokémon switches in and meets these conditions:
-- **Grounded requirement**: The switching Pokémon must be grounded (not Flying-type or with Levitate)
+The Hot Coals trap triggers when an opposing Pokemon switches in and meets these conditions:
+- **Grounded requirement**: The switching Pokemon must be grounded (not Flying-type or with Levitate)
 - **Burn susceptibility**: The target must be able to be burned (not Fire-type, not already statused with burn immunity)
 - **Hazard susceptibility**: Normal hazard immunity doesn't apply, but Magic Guard prevents activation
 
@@ -47,7 +45,7 @@ constexpr Ability HotCoals = {
 };
 
 // Trap triggers when opponent switches in (HAZARD_MODE_FIRE_TRAP)
-// Burns the switching Pokémon if conditions are met
+// Burns the switching Pokemon if conditions are met
 // Trap is consumed regardless of whether burn is applied
 ```
 
@@ -64,7 +62,7 @@ When the trap triggers:
 - **Immediate consumption**: Trap is removed even if the burn fails to apply
 - **Grounding requirement**: Flying-types and Levitate users are immune
 - **Fire-type immunity**: Fire-types cannot be burned by the trap
-- **Existing status**: Pokémon with existing status conditions cannot be burned
+- **Existing status**: Pokemon with existing status conditions cannot be burned
 - **Magic Guard**: Prevents the burning effect but still consumes the trap
 
 ### Trap Removal
@@ -91,22 +89,22 @@ The Hot Coals trap can be removed by:
 
 ### Common Users
 Hot Coals is typically found on:
-- Fire-type Pokémon with trapping themes
-- Support Pokémon that can switch in frequently
-- Lead Pokémon designed to set early pressure
-- Pivoting Pokémon that can reset the trap
+- Fire-type Pokemon with trapping themes
+- Support Pokemon that can switch in frequently
+- Lead Pokemon designed to set early pressure
+- Pivoting Pokemon that can reset the trap
 
 ### Competitive Usage Notes
 - **Early game pressure**: Best used early to punish opponent's initial switches
 - **Pivot synergy**: Works well with U-turn/Volt Switch users who can reset it
 - **Burn support**: Helps physical walls by weakening physical attackers
-- **Mind games**: Forces opponents to consider which Pokémon to switch in
+- **Mind games**: Forces opponents to consider which Pokemon to switch in
 - **Limited impact**: Less valuable in late game when switching is reduced
 
 ### Counters
 - **Fire-types**: Immune to burn status from the trap
 - **Flying/Levitate**: Immune due to not being grounded
-- **Status immunity**: Pokémon that cannot be statused
+- **Status immunity**: Pokemon that cannot be statused
 - **Rapid Spin/Defog**: Can clear the trap before it triggers
 - **Magic Guard**: Immune to indirect status effects
 - **Substitute**: May protect from the burning effect

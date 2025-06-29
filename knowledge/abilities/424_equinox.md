@@ -15,13 +15,11 @@ character_count: 282
 
 Equinox dynamically chooses the higher offensive stat for each attack. If Attack is higher, physical moves use Attack stat. If Special Attack is higher, special moves use Special Attack stat. Provides optimal damage output by always using the stronger offensive stat for every move.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Equinox is a unique offensive ability that automatically selects the higher of the user's Attack or Special Attack stats for damage calculation on every move. This allows Pokémon to use their stronger offensive stat regardless of whether they're using physical or special moves.
+Equinox is a unique offensive ability that automatically selects the higher of the user's Attack or Special Attack stats for damage calculation on every move. This allows Pokemon to use their stronger offensive stat regardless of whether they're using physical or special moves.
 
 ### Activation Conditions
 - **Trigger**: Activates before damage calculation for every offensive move
@@ -56,7 +54,7 @@ constexpr Ability Equinox = {
 - **Tie behavior**: When stats are equal, uses the move's natural offensive stat
 
 ### Important Interactions
-- **Mixed attackers**: Transforms any Pokémon into an effective mixed attacker
+- **Mixed attackers**: Transforms any Pokemon into an effective mixed attacker
 - **Stat boosts**: Swords Dance and Nasty Plot become equally valuable
 - **Physical/Special split**: Makes the physical/special distinction less important
 - **Choice items**: Works with Choice Band/Specs - will use whichever stat is higher
@@ -106,7 +104,7 @@ constexpr Ability Equinox = {
 ### Competitive Considerations
 - **Unpredictability**: Opponents can't easily predict damage output
 - **Stat spread optimization**: Requires careful EV distribution
-- **Move selection**: Favors Pokémon with diverse movepools
+- **Move selection**: Favors Pokemon with diverse movepools
 - **Team building**: Reduces need for specialized physical/special roles
 - **Meta adaptation**: Automatically adjusts to opponent's defensive profile
 

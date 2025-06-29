@@ -15,8 +15,6 @@ character_count: 299
 
 Full Metal Body provides complete immunity to all stat reductions from enemy moves, abilities, and effects. Unlike Clear Body, it offers unbreakable protection against stat drops including forced reductions, making it ideal for defensive strategies and maintaining stat advantages throughout battle.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -53,7 +51,7 @@ if (!(BATTLER_HAS_ABILITY(gActiveBattler, ABILITY_CLEAR_BODY) ||
 ```
 
 ### Activation Conditions
-- **Passive Effect**: Always active when the Pokémon has this ability
+- **Passive Effect**: Always active when the Pokemon has this ability
 - **No Announcement**: Does not trigger ability activation messages when preventing stat drops
 - **Battle Only**: Only functions during battle encounters
 
@@ -71,19 +69,19 @@ if (!(BATTLER_HAS_ABILITY(gActiveBattler, ABILITY_CLEAR_BODY) ||
 3. **Code Implementation**: Uses the same battle system checks but with additional coverage
 
 ### Strategic Implications
-- **Setup Sweepers**: Excellent for Pokémon that rely on stat boosts, as opponents cannot reduce their enhanced stats
+- **Setup Sweepers**: Excellent for Pokemon that rely on stat boosts, as opponents cannot reduce their enhanced stats
 - **Defensive Cores**: Maintains defensive stats against repeated stat-dropping attacks
 - **Intimidate Counter**: Perfect answer to Intimidate-based team strategies
 - **Hazard Immunity**: Prevents Sticky Web stat drops on switch-in
 
 ### Common Users
 Full Metal Body is typically found on:
-- **Steel-type Pokémon**: Thematically appropriate for metallic, rigid Pokémon
-- **Defensive Walls**: Pokémon that need to maintain their defensive capabilities
-- **Setup Pokémon**: Those that use stat-boosting moves and need protection
+- **Steel-type Pokemon**: Thematically appropriate for metallic, rigid Pokemon
+- **Defensive Walls**: Pokemon that need to maintain their defensive capabilities
+- **Setup Pokemon**: Those that use stat-boosting moves and need protection
 
 ### Competitive Usage Notes
-- **Priority Target**: Pokémon with Full Metal Body become high-priority targets for direct damage
+- **Priority Target**: Pokemon with Full Metal Body become high-priority targets for direct damage
 - **Status Vulnerability**: Still vulnerable to status conditions (poison, burn, paralysis, etc.)
 - **Taunt Weakness**: Can be shut down by Taunt if relying on setup moves
 - **Entry Hazard Immunity**: Provides indirect Sticky Web immunity
@@ -97,7 +95,7 @@ Full Metal Body is typically found on:
 ### Counters
 - **Direct Damage**: Focus on raw damage output rather than stat manipulation
 - **Status Conditions**: Use poison, burn, paralysis to wear down the opponent
-- **Taunt**: Prevent setup moves if the Pokémon relies on stat boosts
+- **Taunt**: Prevent setup moves if the Pokemon relies on stat boosts
 - **Entry Hazards**: Stealth Rock, Spikes still deal damage on switch-in
 - **Weather**: Sandstorm and Hail chip damage (unless immune)
 

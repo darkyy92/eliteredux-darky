@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Automatically switches the Pokémon out when any of its stats are lowered by an opponent's move or ability. Functions identically to the Eject Pack item but as a permanent ability. Single-use per battle - once triggered, won't activate again if the Pokémon returns to battle.
-
-*Character count: 289*
+Automatically switches the Pokemon out when any of its stats are lowered by an opponent's move or ability. Functions identically to the Eject Pack item but as a permanent ability. Single-use per battle - once triggered, won't activate again if the Pokemon returns to battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,8 +21,8 @@ Automatically switches the Pokémon out when any of its stats are lowered by an 
 ### Core Mechanics
 - **Trigger Condition**: Activates when any stat is lowered (Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, or Evasion)
 - **Timing**: Triggers at the end of the turn during the `MOVEEND_EJECT_PACK` phase
-- **Automatic Switch**: Forces the Pokémon to switch out immediately when triggered
-- **Single-Use**: Uses a single-use ability counter - once triggered, it won't activate again in the same battle even if the Pokémon returns
+- **Automatic Switch**: Forces the Pokemon to switch out immediately when triggered
+- **Single-Use**: Uses a single-use ability counter - once triggered, it won't activate again in the same battle even if the Pokemon returns
 
 ### Persistent Ability Details
 The ability is marked as `persistent = TRUE`, meaning:
@@ -55,8 +53,8 @@ if (IsBattlerAlive(battler) && gRoundStructs[battler].statFell &&
 ### Interaction Details
 - **Stat Lowering Detection**: Uses `gRoundStructs[battler].statFell` flag to detect stat reductions
 - **Disable Mechanism**: Can be disabled by `gRoundStructs[battler].disableEjectPack` flag (set by some abilities)
-- **Switch Requirement**: Only activates if the Pokémon has valid party members to switch into
-- **Speed Priority**: If multiple Pokémon have eject effects, only the fastest one activates
+- **Switch Requirement**: Only activates if the Pokemon has valid party members to switch into
+- **Speed Priority**: If multiple Pokemon have eject effects, only the fastest one activates
 
 ### Competitive Applications
 1. **Pivot Strategy**: Allows safe switching when threatened by stat-lowering moves
@@ -79,5 +77,5 @@ if (IsBattlerAlive(battler) && gRoundStructs[battler].statFell &&
 ### Notable Interactions
 - **Blocked by**: Abilities that set `disableEjectPack` flag
 - **Doesn't Trigger**: If no valid switch targets available
-- **Priority**: Fastest Pokémon's eject effect activates first in multi-target scenarios
+- **Priority**: Fastest Pokemon's eject effect activates first in multi-target scenarios
 - **Ability Popup**: Shows "Tactical Retreat" name when activated

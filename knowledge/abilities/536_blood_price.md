@@ -15,8 +15,6 @@ character_count: 291
 
 Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at turn's end. The HP cost only applies after using damaging moves, not status moves. Magic Guard prevents the HP loss while keeping the damage boost. Risky but rewarding for glass cannon strategies.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -29,8 +27,8 @@ Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at 
 - **For Damage Boost**: Applied to all offensive moves automatically
 - **For HP Loss**: Only triggers if:
   - The last move used was an attacking move (not a status move)
-  - The Pokémon is still alive at end of turn
-  - The Pokémon is not protected by Magic Guard
+  - The Pokemon is still alive at end of turn
+  - The Pokemon is not protected by Magic Guard
 
 ### Technical Implementation
 ```cpp
@@ -53,7 +51,7 @@ Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at 
 ### Numerical Values
 - **Damage Multiplier**: 1.3x (30% increase)
 - **HP Cost**: 10% of max HP per turn (minimum 1 HP)
-- **Example**: A Pokémon with 300 max HP loses 30 HP per turn after attacking
+- **Example**: A Pokemon with 300 max HP loses 30 HP per turn after attacking
 
 ### Affected Moves
 - **Boosted**: All physical, special, and multi-hit attacking moves
@@ -75,9 +73,9 @@ Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at 
 ### Example Damage Calculations
 ```
 Base Move Power: 100
-With Blood Price: 100 × 1.3 = 130 effective power
+With Blood Price: 100 x 1.3 = 130 effective power
 
-Pokémon with 250 Max HP:
+Pokemon with 250 Max HP:
 - Turn 1: Attack deals 130 power, lose 25 HP at end of turn
 - Turn 2: Attack deals 130 power, lose 25 HP at end of turn
 - After 10 turns of attacking: Would have lost 250 HP (full health)
@@ -86,9 +84,9 @@ Pokémon with 250 Max HP:
 ### Common Users
 Based on species analysis, Blood Price appears on:
 - Ghost-type attackers with high offensive stats
-- Pokémon with innate abilities that support aggressive playstyles
+- Pokemon with innate abilities that support aggressive playstyles
 - Mixed attackers that can utilize both physical and special damage boosts
-- Pokémon with access to healing moves or support to offset HP costs
+- Pokemon with access to healing moves or support to offset HP costs
 
 ### Competitive Usage Notes
 - **Best With**: Healing moves, Magic Guard partners, priority moves
@@ -97,7 +95,7 @@ Based on species analysis, Blood Price appears on:
 - **Risk Assessment**: Calculate if the extra damage is worth the HP cost in each situation
 
 ### Counters
-- **Residual Damage**: Pokémon already taking chip damage become extremely vulnerable
+- **Residual Damage**: Pokemon already taking chip damage become extremely vulnerable
 - **Status Moves**: Forcing status moves removes both benefit and cost
 - **Stall Tactics**: Drawing out battles makes the HP cost unsustainable
 - **Priority Moves**: Can revenge kill weakened Blood Price users

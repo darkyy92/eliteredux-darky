@@ -15,8 +15,6 @@ character_count: 289
 
 When this Pokemon is hit by an attack, it raises its Special Attack by 1 stage. If the hit was a critical hit, its Special Attack is immediately maximized to +6 stages instead. This ability triggers after taking damage from offensive moves.
 
-*Character count: 289*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -107,7 +105,7 @@ constexpr Ability TippingPoint = {
 - Turning defense into overwhelming offense
 
 ### Competitive Usage
-- **Special sweepers**: Excellent on Pokémon with diverse special movesets
+- **Special sweepers**: Excellent on Pokemon with diverse special movesets
 - **Bulky setup**: Pairs with high HP/Defense for survival
 - **Anti-physical**: Punishes physical attackers specifically
 - **Momentum control**: Can shift battle flow dramatically

@@ -15,13 +15,11 @@ character_count: 292
 
 Shadow Shield halves damage from all attacks when at full HP. This defensive ability automatically reduces incoming damage by 50% while HP remains at maximum. The protection disappears once any damage is taken, but can be restored by healing back to full HP. Works against all damaging moves.
 
-*Character count: 292*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Shadow Shield is a defensive ability that provides a 50% damage reduction when the Pokémon is at full HP. It shares the same implementation as Multiscale from the official games.
+Shadow Shield is a defensive ability that provides a 50% damage reduction when the Pokemon is at full HP. It shares the same implementation as Multiscale from the official games.
 
 ### Activation Conditions
 - **HP Requirement**: Must be at exactly 100% HP (full HP)
@@ -78,7 +76,7 @@ Critical Hit Scenario: 252 Atk Garchomp Earthquake (Crit) vs 252 HP Lugia
 ```
 
 ### Common Users
-Based on the protobuf data, Shadow Shield appears as an innate ability on several Elite Redux Pokémon, typically high-tier legendary or pseudo-legendary Pokémon that benefit from the defensive utility.
+Based on the protobuf data, Shadow Shield appears as an innate ability on several Elite Redux Pokemon, typically high-tier legendary or pseudo-legendary Pokemon that benefit from the defensive utility.
 
 ### Competitive Usage Notes
 - **Priority Target**: Opponents will prioritize chip damage to break the shield

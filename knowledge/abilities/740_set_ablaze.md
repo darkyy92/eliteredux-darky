@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Set Ablaze causes the Pokémon to inflict fear status alongside burn whenever it successfully burns an opponent. Fear prevents the target from switching out or using status moves. Works with all burn-inflicting moves and abilities. Creates powerful control combinations.
-
-*Character count: 295*
+Set Ablaze causes the Pokemon to inflict fear status alongside burn whenever it successfully burns an opponent. Fear prevents the target from switching out or using status moves. Works with all burn-inflicting moves and abilities. Creates powerful control combinations.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,7 +22,7 @@ Set Ablaze causes the Pokémon to inflict fear status alongside burn whenever it
 Set Ablaze is a unique offensive ability that adds fear status to any successful burn infliction. This creates a dual status condition combo that provides both damage over time and battlefield control.
 
 ### Activation Conditions
-- **Primary trigger**: Whenever the Pokémon successfully inflicts burn on an opponent
+- **Primary trigger**: Whenever the Pokemon successfully inflicts burn on an opponent
 - **Sources include**:
   - Burn-inducing moves (Scald, Flamethrower, Will-O-Wisp, etc.)
   - Contact burns from other abilities like Flame Body
@@ -52,8 +50,8 @@ The ability:
 Fear is a volatile status that:
 - **Prevents switching**: Target cannot switch out normally
 - **Blocks status moves**: Target cannot use non-damaging moves
-- **Temporary effect**: Fear wears off after several turns or when the fear-inflicting Pokémon switches out
-- **No immunity**: Most Pokémon cannot be immune to fear (unlike other statuses)
+- **Temporary effect**: Fear wears off after several turns or when the fear-inflicting Pokemon switches out
+- **No immunity**: Most Pokemon cannot be immune to fear (unlike other statuses)
 
 ### Important Interactions
 - **Burn immunity**: If target is immune to burn, fear is not applied
@@ -102,7 +100,7 @@ Fear is a volatile status that:
 - **Late-game closer**: Powerful endgame control tool
 
 ### Common Users
-Pokémon that benefit most from Set Ablaze:
+Pokemon that benefit most from Set Ablaze:
 - **Fire/Water types**: Natural access to burn moves
 - **Bulky attackers**: Can survive to utilize the control aspect
 - **Hazard setters**: Maximize trapped opponent punishment

@@ -15,13 +15,11 @@ character_count: 299
 
 Frost Burn triggers a 40 BP Ice Beam immediately after using any Fire-type move. The followup Ice Beam targets the same opponent with perfect accuracy. Works with all Fire moves regardless of power or success. Creates unique Fire-Ice combination for surprising opponents with opposite type coverage.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Frost Burn is an offensive ability that provides automatic followup attacks after using Fire-type moves. When the Pokémon uses any Fire-type move, it immediately follows up with a 40 BP Ice Beam against the same target.
+Frost Burn is an offensive ability that provides automatic followup attacks after using Fire-type moves. When the Pokemon uses any Fire-type move, it immediately follows up with a 40 BP Ice Beam against the same target.
 
 ### Activation Conditions
 - **Move type requirement**: Must use a Fire-type move to trigger
@@ -52,17 +50,17 @@ constexpr Ability FrostBurn = {
 
 ### Important Interactions
 - **Type effectiveness**: Ice Beam followup subject to normal type effectiveness
-- **STAB bonus**: Ice Beam gets STAB if the Pokémon is Ice-type
+- **STAB bonus**: Ice Beam gets STAB if the Pokemon is Ice-type
 - **Abilities interaction**: Ice Beam can trigger other abilities (Flash Fire immunity, etc.)
 - **Status effects**: Can potentially inflict frostbite (10% chance)
 - **Multi-hit moves**: Triggers only once per Fire move, not per hit
 - **Failed moves**: Still triggers even if Fire move misses or fails
 
 ### Strategic Applications
-- **Coverage enhancement**: Provides Ice coverage for Fire-type Pokémon
+- **Coverage enhancement**: Provides Ice coverage for Fire-type Pokemon
 - **Damage amplification**: Effectively increases damage output after Fire moves
 - **Type synergy**: Fire + Ice hits many types for neutral or super effective damage
-- **Surprise factor**: Opponents may not expect Ice attacks from Fire-type Pokémon
+- **Surprise factor**: Opponents may not expect Ice attacks from Fire-type Pokemon
 - **Status utility**: Additional chance to inflict frostbite status
 
 ### Move Synergies
@@ -75,12 +73,12 @@ constexpr Ability FrostBurn = {
 ### Counters and Limitations
 - **Ice immunity**: Steel, Fire, Ice, and Water types resist the followup
 - **Ability suppression**: Mold Breaker family bypasses the ability
-- **No Fire moves**: Useless if Pokémon lacks Fire-type moves
+- **No Fire moves**: Useless if Pokemon lacks Fire-type moves
 - **Predictability**: Opponents can predict Ice followup after Fire moves
 - **PP consumption**: Only the Fire move consumes PP, not the followup
 
 ### Competitive Viability
-- **Mixed attackers**: Great for Pokémon with both physical and special Fire moves
+- **Mixed attackers**: Great for Pokemon with both physical and special Fire moves
 - **Fire/non-Ice types**: Provides unexpected Ice coverage
 - **Wallbreaking**: Helps break through bulky Water, Ground, Dragon types
 - **Speed control**: Can potentially slow opponents with frostbite
@@ -88,9 +86,9 @@ constexpr Ability FrostBurn = {
 
 ### Common Users
 This ability would be excellent on:
-- Fire-type Pokémon lacking Ice coverage
+- Fire-type Pokemon lacking Ice coverage
 - Mixed attackers with Fire moves in their movepool
-- Pokémon that want to surprise Water, Ground, Grass, Dragon types
+- Pokemon that want to surprise Water, Ground, Grass, Dragon types
 - Fast Fire attackers that can leverage the surprise factor
 
 ### Optimal Movesets

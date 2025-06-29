@@ -15,8 +15,6 @@ character_count: 294
 
 Dry Skin heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun. Combines Water Absorb's healing with Rain Dish's rain recovery. Sun damage bypasses Substitute but not Magic Guard. Crucial for weather synergy.
 
-*Character count: 298*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -60,8 +58,8 @@ constexpr Ability DrySkin = {
 ### Rain Healing Component:
 - **Healing**: 12.5% max HP (1/8) at end of turn
 - **Condition**: Must be in rain AND not at full HP
-- **Script**: "Rain restored {Pokémon}'s HP!"
-- **First Turn**: No healing on the turn Pokémon enters battle
+- **Script**: "Rain restored {Pokemon}'s HP!"
+- **First Turn**: No healing on the turn Pokemon enters battle
 
 ### Fire Weakness Component:
 - **Damage Multiplier**: 1.25x (25% more damage)
@@ -103,17 +101,17 @@ constexpr Ability DrySkin = {
 - Fire weakness is always active, making Fire coverage extremely threatening
 - Can heal beyond single-hit KO range with multi-hit Water moves
 - Sun teams hard counter Dry Skin users
-- Excellent on defensive Pokémon that can switch into predicted Water attacks
+- Excellent on defensive Pokemon that can switch into predicted Water attacks
 
 ### Canonical Dry Skin Users:
 - Parasect, Croagunk, Toxicroak, Heliolisk, Thirst (fakemon)
-- In Elite Redux: Available as changeable or innate ability on various Pokémon
+- In Elite Redux: Available as changeable or innate ability on various Pokemon
 
 ### Damage/Healing Calculations:
-- 400 HP Pokémon in rain: +50 HP per turn
-- 400 HP Pokémon in sun: -50 HP per turn  
-- 400 HP Pokémon hit by Surf: +100 HP
-- 400 HP Pokémon hit by Flamethrower (neutral): 125 base damage → 156 damage
+- 400 HP Pokemon in rain: +50 HP per turn
+- 400 HP Pokemon in sun: -50 HP per turn  
+- 400 HP Pokemon hit by Surf: +100 HP
+- 400 HP Pokemon hit by Flamethrower (neutral): 125 base damage to 156 damage
 
 ### Version History:
 - Gen 4: Introduced with all current effects

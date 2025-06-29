@@ -13,30 +13,28 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Mimicry changes the Pokémon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokémon switches out, then reverts to original type.
-
-*Character count: 299*
+Mimicry changes the Pokemon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokemon switches out, then reverts to original type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Mimicry is a reactive ability that changes the Pokémon's type based on the active terrain:
+Mimicry is a reactive ability that changes the Pokemon's type based on the active terrain:
 
 ### Terrain Type Mappings:
-- **Electric Terrain** → Electric type
-- **Misty Terrain** → Fairy type  
-- **Grassy Terrain** → Grass type
-- **Psychic Terrain** → Psychic type
-- **No Terrain/Other** → Reverts to original type
+- **Electric Terrain** to Electric type
+- **Misty Terrain** to Fairy type  
+- **Grassy Terrain** to Grass type
+- **Psychic Terrain** to Psychic type
+- **No Terrain/Other** to Reverts to original type
 
 ### Activation Conditions:
-1. **On Entry**: Activates when the Pokémon enters battle if terrain is already active
+1. **On Entry**: Activates when the Pokemon enters battle if terrain is already active
 2. **On Terrain Change**: Activates whenever terrain changes during battle
-3. **Must be alive**: Only works if the Pokémon is conscious
+3. **Must be alive**: Only works if the Pokemon is conscious
 
 ### Type Change Mechanics:
-- Changes the Pokémon's **primary type** to match the terrain
-- If the Pokémon already has the terrain's type, no change occurs
+- Changes the Pokemon's **primary type** to match the terrain
+- If the Pokemon already has the terrain's type, no change occurs
 - The ability stores the original types (both type1 and type2) to restore later
 - Type change is immediate and affects STAB, resistances, and weaknesses
 

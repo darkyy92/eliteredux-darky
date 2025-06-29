@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokémon survive key hits they otherwise couldn't tank.
-
-*Character count: 294*
+Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokemon survive key hits they otherwise couldn't tank.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -48,9 +46,9 @@ constexpr Ability Permafrost = {
 - **Normal/resisted moves**: No effect, damage remains unchanged
 
 ### Example Damage Calculations
-- **Original 2x damage**: 200 HP → **With Thick Skin**: 130 HP (65% of original)
-- **Original 4x damage**: 400 HP → **With Thick Skin**: 260 HP (65% of original)
-- **Original 1x damage**: 100 HP → **With Thick Skin**: 100 HP (no change)
+- **Original 2x damage**: 200 HP to **With Thick Skin**: 130 HP (65% of original)
+- **Original 4x damage**: 400 HP to **With Thick Skin**: 260 HP (65% of original)
+- **Original 1x damage**: 100 HP to **With Thick Skin**: 100 HP (no change)
 
 ### Interactions with Other Abilities/Mechanics
 - **Breakable**: Can be disabled by Mold Breaker, Teravolt, Turboblaze, etc.
@@ -60,20 +58,20 @@ constexpr Ability Permafrost = {
 - **Weather/terrain effects** are calculated separately
 
 ### Strategic Implications
-- **Defensive utility**: Allows normally frail Pokémon to survive super-effective hits
+- **Defensive utility**: Allows normally frail Pokemon to survive super-effective hits
 - **Pivot potential**: Enables safe switching against predicted super-effective moves
 - **Coverage punishment**: Discourages opponents from relying solely on type advantage
 - **Bulk enhancement**: Effectively increases bulk against super-effective attacks only
 
 ### Common Users
 Based on SpeciesList analysis, Thick Skin appears on:
-- Several defensive-oriented Pokémon
+- Several defensive-oriented Pokemon
 - Mixed bulky attackers that benefit from super-effective damage reduction
-- Pokémon with multiple other defensive abilities (as innate abilities)
+- Pokemon with multiple other defensive abilities (as innate abilities)
 
 ### Competitive Usage Notes
-- **Tier placement**: Found on various tier Pokémon including Tier 5 legendaries
-- **Role compression**: Allows offensive Pokémon to check their usual counters
+- **Tier placement**: Found on various tier Pokemon including Tier 5 legendaries
+- **Role compression**: Allows offensive Pokemon to check their usual counters
 - **Prediction rewarded**: Most effective when predicting opponent's super-effective moves
 - **Setup potential**: Provides opportunities to set up against predicted coverage moves
 

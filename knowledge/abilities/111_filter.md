@@ -15,11 +15,9 @@ character_count: 286
 
 Filter reduces damage from super-effective attacks by 35%, making them deal only 65% of their normal damage. This effectively changes a 2x super-effective hit to 1.3x damage. Stacks with other damage reduction. The ability can be bypassed by Mold Breaker, Teravolt, and Turboblaze.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 
-Filter is a defensive ability that triggers when the Pokémon takes damage from a super-effective move. Here's how it works:
+Filter is a defensive ability that triggers when the Pokemon takes damage from a super-effective move. Here's how it works:
 
 1. **Damage Reduction**: When hit by a super-effective move (2x damage or higher), Filter reduces the final damage to 65% of what it would normally be
    - A 2x super-effective move effectively becomes 1.3x damage
@@ -38,6 +36,6 @@ Filter is a defensive ability that triggers when the Pokémon takes damage from 
    - Defensive stat boosts
    - Other damage-reducing abilities or items
 
-5. **Type Coverage**: This ability is particularly valuable for Pokémon with multiple weaknesses, as it provides blanket protection against all super-effective hits regardless of type
+5. **Type Coverage**: This ability is particularly valuable for Pokemon with multiple weaknesses, as it provides blanket protection against all super-effective hits regardless of type
 
-The ability is identical in function to Solid Rock and Prism Armor, differing only in name and which Pokémon can have it.
+The ability is identical in function to Solid Rock and Prism Armor, differing only in name and which Pokemon can have it.

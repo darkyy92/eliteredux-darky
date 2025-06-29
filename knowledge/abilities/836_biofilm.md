@@ -5,12 +5,17 @@ status: ai-generated
 character_count: 295
 ---
 
-# Biofilm
+# Biofilm - Ability ID 836
 
-## Summary
+## In-Game Description
 Biofilm provides a significant defensive boost to the user's Special Defense when Toxic Terrain is active on the battlefield.
 
-## Detailed Mechanics
+## Extended In-Game Description
+Secrets a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves.
+
+## Detailed Mechanical Explanation
+
+### Detailed Mechanics
 
 ### Special Defense Boost
 - **Boost Amount**: 50% increase (1.5x multiplier)
@@ -32,7 +37,3 @@ Biofilm provides a significant defensive boost to the user's Special Defense whe
 ## Pokemon with Biofilm
 - **Vileplume**: Has Biofilm as one of its innate abilities, complementing its Poison typing
 
-## Extended In-Game Description
-"Secretes a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves."
-
-**Character count**: 295

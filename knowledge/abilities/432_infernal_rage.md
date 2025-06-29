@@ -15,8 +15,6 @@ character_count: 286
 
 Infernal Rage boosts Fire-type moves by 35% but inflicts 5% recoil damage after using them. Recoil is calculated from damage dealt with minimum of 1 HP lost. Works with all Fire moves including special and physical attacks. Ideal for aggressive Fire-type sweepers seeking maximum power.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -79,17 +77,17 @@ constexpr Ability InfernalRage = {
 
 ### Damage Calculations
 **Example scenarios:**
-- Deal 200 damage → Take 10 recoil (200/20)
-- Deal 50 damage → Take 3 recoil (50/20 rounded up)
-- Deal 10 damage → Take 1 recoil (minimum)
-- Deal 400 damage → Take 20 recoil (400/20)
+- Deal 200 damage to Take 10 recoil (200/20)
+- Deal 50 damage to Take 3 recoil (50/20 rounded up)
+- Deal 10 damage to Take 1 recoil (minimum)
+- Deal 400 damage to Take 20 recoil (400/20)
 
 ### Common Users
 - Fire-type attackers with high offensive stats
-- Pokémon with access to powerful Fire moves
+- Pokemon with access to powerful Fire moves
 - Glass cannon sweepers
 - Revenge killers needing extra damage
-- Pokémon with Rock Head (negates recoil)
+- Pokemon with Rock Head (negates recoil)
 
 ### Competitive Usage Notes
 - **Life Orb alternative**: Provides similar damage boost without item slot
@@ -101,7 +99,7 @@ constexpr Ability InfernalRage = {
 ### Synergies
 - **Rock Head**: Completely negates recoil drawback
 - **Magic Guard**: Prevents recoil while keeping damage boost
-- **Life Orb**: Stacks for 1.35 × 1.3 = 1.755x damage (with double recoil)
+- **Life Orb**: Stacks for 1.35 x 1.3 = 1.755x damage (with double recoil)
 - **Choice items**: Multiplicative stacking for extreme damage
 - **Sun teams**: Fire moves already boosted in harsh sunlight
 - **Drought**: Pairs well with sun-boosted Fire moves

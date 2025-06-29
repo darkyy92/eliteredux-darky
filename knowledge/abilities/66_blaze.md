@@ -13,9 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blaze enhances Fire-type moves with dynamic power boosts. When the Pokémon has more than 1/3 HP, Fire attacks deal 1.2x damage. When critically injured (1/3 HP or less), the boost increases to 1.5x damage. This ability makes Fire-types increasingly dangerous as they take more damage.
-
-*Character count: 280*
+Blaze enhances Fire-type moves with dynamic power boosts. When the Pokemon has more than 1/3 HP, Fire attacks deal 1.2x damage. When critically injured (1/3 HP or less), the boost increases to 1.5x damage. This ability makes Fire-types increasingly dangerous as they take more damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,7 +21,7 @@ Blaze enhances Fire-type moves with dynamic power boosts. When the Pokémon has 
 **BLAZE** is one of the classic starter abilities, providing conditional offensive boosts to Fire-type moves based on the user's current HP.
 
 ### Activation Mechanics:
-- **Trigger**: Every Fire-type move used by the Pokémon
+- **Trigger**: Every Fire-type move used by the Pokemon
 - **HP Threshold**: Checks current HP vs maximum HP
 - **Boost Type**: Offensive multiplier applied to move damage
 - **Move Restriction**: Only affects Fire-type moves
@@ -41,7 +39,7 @@ Blaze enhances Fire-type moves with dynamic power boosts. When the Pokémon has 
 - **Stacking**: Multiplies with other damage modifiers (STAB, type effectiveness, items, etc.)
 - **Priority**: Calculated after base power but before type effectiveness
 - **Move Types**: Only affects moves that are Fire-type when used (not moves that become Fire-type)
-- **Ability Changes**: If Pokémon loses Blaze mid-battle, boost is immediately removed
+- **Ability Changes**: If Pokemon loses Blaze mid-battle, boost is immediately removed
 
 ### Technical Implementation:
 ```c
@@ -61,12 +59,12 @@ constexpr Ability Blaze = {
 ```
 
 ### Competitive Applications:
-- **Setup Sweeping**: Pokémon can become more dangerous as they take chip damage
+- **Setup Sweeping**: Pokemon can become more dangerous as they take chip damage
 - **Revenge Killing**: Critical HP state makes Fire moves extremely threatening
 - **Life Orb Synergy**: Life Orb recoil can help trigger the 1.5x boost
 - **Substitutes**: Sub + Blaze can create dangerous offensive pressure
 
-### Pokémon with Blaze:
+### Pokemon with Blaze:
 - Primary starter ability for most Fire-type starters
 - Classic examples: Charizard, Blaziken, Infernape
 - Works particularly well on mixed attackers and wallbreakers

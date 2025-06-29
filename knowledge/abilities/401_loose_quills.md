@@ -15,13 +15,11 @@ character_count: 282
 
 Loose Quills automatically sets a layer of Spikes on the opponent's side when hit by any contact move. Can set up to 3 layers maximum. Each layer deals 12.5%, 16.7%, or 25% of max HP damage when opponents switch in. Perfect for punishing physical attackers and controlling switches.
 
-*Character count: 282*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Loose Quills is a defensive ability that automatically sets up Spikes entry hazards when the Pokémon is hit by contact moves. This creates a passive punishment for physical attackers while providing excellent team support through hazard control.
+Loose Quills is a defensive ability that automatically sets up Spikes entry hazards when the Pokemon is hit by contact moves. This creates a passive punishment for physical attackers while providing excellent team support through hazard control.
 
 ### Activation Conditions
 - **Contact requirement**: Only triggers when hit by moves that make physical contact
@@ -54,7 +52,7 @@ constexpr Ability Scrapyard = {
 - **2 layers**: 16.7% of max HP (1/6) 
 - **3 layers**: 25% of max HP (1/4)
 
-Damage is calculated based on the switching Pokémon's maximum HP and is not affected by type effectiveness.
+Damage is calculated based on the switching Pokemon's maximum HP and is not affected by type effectiveness.
 
 ### Contact Move Examples
 **Triggers on:**
@@ -107,7 +105,7 @@ Damage is calculated based on the switching Pokémon's maximum HP and is not aff
 ### Common Users
 - Defensive Grass-types (especially those weak to U-turn)
 - Steel-type walls that can tank physical hits
-- Pokémon with high physical Defense stats
+- Pokemon with high physical Defense stats
 - Team supporters that don't need four attacking moves
 
 ### Version History

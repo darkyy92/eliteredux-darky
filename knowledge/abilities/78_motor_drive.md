@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (exactly 280-300 chars)*
 
-Motor Drive makes the Pokémon immune to Electric-type moves, boosting Speed by 1 stage instead of taking damage. This includes status moves like Thunder Wave. Works against multi-hit Electric moves, boosting Speed for each hit absorbed. Excellent for pivoting into Electric attacks safely.
-
-*Character count: 289*
+Motor Drive makes the Pokemon immune to Electric-type moves, boosting Speed by 1 stage instead of taking damage. This includes status moves like Thunder Wave. Works against multi-hit Electric moves, boosting Speed for each hit absorbed. Excellent for pivoting into Electric attacks safely.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -29,7 +27,7 @@ Motor Drive makes the Pokémon immune to Electric-type moves, boosting Speed by 
 - **Priority**: Activates before damage calculation (onAbsorb hook)
 
 ### Activation Conditions:
-1. **Direct Hits**: Any Electric-type move targeting this Pokémon
+1. **Direct Hits**: Any Electric-type move targeting this Pokemon
 2. **Status Moves**: Thunder Wave, Electric Terrain setup, etc.
 3. **Multi-Hit Moves**: Each hit of moves like Double Kick (if Electric) boosts Speed separately
 4. **Indirect Damage**: Does NOT absorb Electric-type damage from abilities like Static or items
@@ -66,7 +64,7 @@ constexpr Ability MotorDrive = {
 2. **Teravolt/Turboblaze**: Also bypass Motor Drive
 3. **Lightning Rod**: Takes priority over Motor Drive if both are present
 4. **Air Lock/Cloud Nine**: Do not affect Motor Drive (weather-independent)
-5. **Trace/Skill Swap**: Can copy/transfer Motor Drive to other Pokémon
+5. **Trace/Skill Swap**: Can copy/transfer Motor Drive to other Pokemon
 
 ### Strategic Implications:
 - **Pivoting Tool**: Safe switch-in against Electric-type attackers
@@ -82,7 +80,7 @@ constexpr Ability MotorDrive = {
 ### Common Users in Elite Redux:
 Based on the species data, Motor Drive appears on:
 - Various Electric/Fighting-type hybrids
-- Speed-oriented Pokémon with Generator/Transistor abilities
+- Speed-oriented Pokemon with Generator/Transistor abilities
 - Rotom forme variants (Heat, Wash, Frost, Fan forms)
 - Some custom Elite Redux species focusing on speed control
 

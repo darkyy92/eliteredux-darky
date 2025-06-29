@@ -15,8 +15,6 @@ character_count: 293
 
 Sword Of Ruin creates an aura that permanently reduces the Defense stat of all other Pokemon on the battlefield by 25%. This passive effect applies to allies and enemies alike, making physical attacks more effective against all Pokemon except the user throughout the entire battle.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -50,7 +48,7 @@ static void RuinEffect(int ruinStat, int battler, int statId, u32 *stat, NonStac
 ### Numerical Values
 - **Defense Reduction**: 25% (stat multiplied by 0.75)
 - **Affected Stat**: Defense (STAT_DEF = 2)
-- **Calculation**: Final Defense = Base Defense × 0.75
+- **Calculation**: Final Defense = Base Defense x 0.75
 
 ### Non-Stacking Behavior
 - Multiple Ruin abilities of the same type do not stack
@@ -60,7 +58,7 @@ static void RuinEffect(int ruinStat, int battler, int statId, u32 *stat, NonStac
 ### Damage Calculation Impact
 With Sword Of Ruin active, physical damage calculations are modified:
 ```
-Physical Damage = ((2 × Level + 10) ÷ 250) × (Attack ÷ (Defense × 0.75)) × Base Power × Modifiers
+Physical Damage = ((2 x Level + 10) ÷ 250) x (Attack ÷ (Defense x 0.75)) x Base Power x Modifiers
 ```
 
 This effectively increases physical damage by approximately 33.33% against affected Pokemon.

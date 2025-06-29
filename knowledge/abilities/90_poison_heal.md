@@ -13,9 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Poison Heal reverses poison's effects, restoring 1/8 max HP per turn instead of taking damage. Works with both regular poison and toxic poison. The healing occurs at the end of each turn when poison would normally damage. Pokémon with this ability actively benefit from being poisoned.
-
-*Character count: 283*
+Poison Heal reverses poison's effects, restoring 1/8 max HP per turn instead of taking damage. Works with both regular poison and toxic poison. The healing occurs at the end of each turn when poison would normally damage. Pokemon with this ability actively benefit from being poisoned.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,13 +22,13 @@ Poison Heal reverses poison's effects, restoring 1/8 max HP per turn instead of 
 
 ### Activation Mechanics:
 - **Trigger**: End of turn phase (ENDTURN_POISON and ENDTURN_TOXIC)
-- **Condition**: Pokémon must have poison or toxic poison status
+- **Condition**: Pokemon must have poison or toxic poison status
 - **Effect**: Heals 1/8 (12.5%) of max HP instead of taking damage
 - **Minimum Heal**: Always heals at least 1 HP (prevents rounding to 0)
 
 ### Poison Interaction Details:
-1. **Regular Poison**: Normally deals 1/8 max HP damage → Heals 1/8 max HP instead
-2. **Toxic Poison**: Normally deals incremental damage (1/16, 2/16, 3/16...) → Still heals flat 1/8 max HP per turn
+1. **Regular Poison**: Normally deals 1/8 max HP damage to Heals 1/8 max HP instead
+2. **Toxic Poison**: Normally deals incremental damage (1/16, 2/16, 3/16...) to Still heals flat 1/8 max HP per turn
 3. **Field Poison**: Immune to overworld poison damage (checked in field_poison.c)
 4. **Toxic Waste Terrain**: Heals from toxic waste hazards instead of taking damage
 
@@ -55,7 +53,7 @@ case ENDTURN_TOXIC:
 2. **Heal Block**: Healing can be prevented by Heal Block
 3. **Full HP**: No healing occurs if already at max HP
 4. **Toxic Counter**: Toxic's damage counter still increases, but is ignored for healing calculation
-5. **Status Moves**: Pokémon can be poisoned by Toxic, Poison Powder, Toxic Spikes, etc.
+5. **Status Moves**: Pokemon can be poisoned by Toxic, Poison Powder, Toxic Spikes, etc.
 
 ### Synergistic Strategies:
 1. **Toxic Orb**: Core item - automatically inflicts poison for guaranteed healing
@@ -90,10 +88,10 @@ In the overworld, Poison Heal prevents HP loss from poison when walking. The abi
 5. **Substitute**: Blocks status moves
 
 ### Calculation Examples:
-- 400 max HP → Heals 50 HP per turn
-- 300 max HP → Heals 37 HP per turn
-- 100 max HP → Heals 12 HP per turn
-- 8 max HP → Heals 1 HP per turn (minimum)
+- 400 max HP to Heals 50 HP per turn
+- 300 max HP to Heals 37 HP per turn
+- 100 max HP to Heals 12 HP per turn
+- 8 max HP to Heals 1 HP per turn (minimum)
 
 ### Version History:
 - Gen 4: Introduced with Shroomish/Breloom

@@ -2,12 +2,22 @@
 id: 348
 name: North Wind
 status: ai-generated
-character_count: 285
+character_count: 294
 ---
 
-# North Wind - Ability #348
+# North Wind - Ability ID 348
 
-## Overview
+## In-Game Description
+"Automatically sets up Aurora Veil upon entry and immune to Hail."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Automatically sets up Aurora Veil upon entering battle, reducing physical and special damage by 50% for your entire team. Aurora Veil lasts 3 turns, or 5 turns with Light Clay. The user is also immune to Hail damage. Once activated, North Wind cannot trigger again if Aurora Veil is already active.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 North Wind is an extremely powerful defensive ability that automatically sets up Aurora Veil upon entering battle. This ability provides immediate team support by reducing damage from both physical and special attacks by 50% for the user's entire team. Additionally, the user gains complete immunity to Hail damage, making it synergistic with Hail-based strategies.
 
@@ -94,7 +104,7 @@ constexpr Ability NorthWind = {
 - **Advantages**: Automatic activation, no turn cost, can't be Taunted
 - **Disadvantages**: Cannot be used multiple times, no timing control
 
-## Pokémon with North Wind
+## Pokemon with North Wind
 
 ### Primary Ability Holders
 - **Articuno**: Legendary Ice/Flying type, natural weather control synergy
@@ -107,7 +117,7 @@ constexpr Ability NorthWind = {
 - **Dewgong**: Ice/Water type with multiple defensive abilities
 - Various other Ice-type specialists
 
-### Strategic Considerations by Pokémon
+### Strategic Considerations by Pokemon
 - **Articuno**: Combines with Pressure for stall strategies
 - **Suicune**: Excellent for Calm Mind setup sets
 - **Abomasnow**: Natural Hail setter with immediate protection
@@ -156,6 +166,7 @@ constexpr Ability NorthWind = {
 - **Setup Sweepers**: Take advantage of protected setup turns
 - **Entry Hazard Setters**: Safer hazard placement under Aurora Veil
 - **Status Spreaders**: Protected status move usage
+
 
 ## Conclusion
 

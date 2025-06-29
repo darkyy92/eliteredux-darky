@@ -5,11 +5,19 @@ status: ai-generated
 character_count: 285
 ---
 
-# Poison Puppeteer
+# Poison Puppeteer - Ability ID 610
 
-**Effect**: When any Pokémon becomes poisoned, all opponents that can be confused become confused. Triggers from any poison source including moves, abilities, or items. The confusion bypasses Substitute and Safeguard, making it highly disruptive in battles where poison spreads across the field.
+## In-Game Description
+"When any Pokemon becomes poisoned, all opponents that can be confused become confused."
 
-## Implementation Details
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When any Pokemon becomes poisoned, all opponents that can be confused become confused. Triggers from any poison source including moves, abilities, or items. The confusion bypasses Substitute and Safeguard, making it highly disruptive in battles where poison spreads across the field.
+
+## Detailed Mechanical Explanation
+
+### Implementation Details
 
 ### Code Location
 - **Definition**: `src/abilities.cc` line 6423-6434
@@ -30,7 +38,7 @@ character_count: 285
 
 **Counter-Strategy**: Opponents using Poison-type moves or abilities become vulnerable to mass confusion, turning their offensive strategy against them.
 
-## Pokémon with This Ability
+### Pokemon with This Ability
 
 ### Spiritomb Redux (Psychic/Poison)
 - **Role**: Innate ability alongside Scare and Cosmic Daze
@@ -42,12 +50,12 @@ character_count: 285
 - **Stats**: 88/88/160/88/88/88 - Balanced defensive pivot
 - **Synergy**: Toxic Chain provides 30% poison chance, triggering Poison Puppeteer
 
-## Related Abilities
+### Related Abilities
 - **Toxic Chain**: Creates poison opportunities for Poison Puppeteer
 - **Parasitic Spores**: Another poison-based ability that spreads status
 - **Entrance**: Uses same `PoisonPuppeteerClone` framework for attraction
 
-## Battle Applications
+### Battle Applications
 1. **Status Spreading**: Combine with Toxic Spikes or Poison Gas for mass confusion
 2. **Revenge Punishment**: Punish opponent's poison strategies with confusion
 3. **Control Setup**: Use confusion to disrupt opponent's offensive momentum

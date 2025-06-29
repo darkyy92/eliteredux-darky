@@ -2,7 +2,7 @@
 id: 44
 name: Rain Dish
 status: ai-generated
-character_count: 302
+character_count: 292
 ---
 
 # Rain Dish - Ability ID 44
@@ -13,9 +13,7 @@ character_count: 302
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rain Dish gradually restores HP when rain weather is active, healing 1/8 of maximum HP at the end of each turn. Works with all rain types including Drizzle and Primordial Sea. Healing is blocked by Heal Block, Bleed status, Blood Stain effect, or opposing Permanence ability. Enhanced by Big Root item.
-
-*Character count: 291*
+Rain Dish restores HP when rain weather is active, healing 1/8 of maximum HP at the end of each turn. Works with all rain types including Drizzle and Primordial Sea. Healing is blocked by Heal Block, Bleed status, Blood Stain effect, or opposing Permanence ability. Enhanced by Big Root item.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -45,8 +43,8 @@ Rain Dish healing is prevented by:
 - **Heal Block**: STATUS3_HEAL_BLOCK status
 - **Bleed**: STATUS1_BLEED status condition
 - **Blood Stain**: IsBloodStainAffected() returns true
-- **Permanence**: Opposing Pokémon has Permanence ability
-- **Hemolysis**: Poisoned and opposing Pokémon has Hemolysis ability
+- **Permanence**: Opposing Pokemon has Permanence ability
+- **Hemolysis**: Poisoned and opposing Pokemon has Hemolysis ability
 
 ### Item Interactions:
 - **Big Root**: Increases healing from 1/8 to approximately 30% more
@@ -74,12 +72,12 @@ constexpr Ability RainDish = {
 - **Base Healing**: floor(MaxHP / 8)
 - **Minimum**: 1 HP if calculation results in 0
 - **With Big Root**: GetDrainedBigRootHp() applies ~30% bonus
-- **Example**: 400 HP Pokémon heals 50 HP per turn (65 HP with Big Root)
+- **Example**: 400 HP Pokemon heals 50 HP per turn (65 HP with Big Root)
 
 ### Synergies:
 - **Rain Setters**: Drizzle, Primordial Sea users
-- **Rain Dancers**: Pokémon that can use Rain Dance
-- **Swift Swim**: Fast Pokémon that benefit from rain speed boost
+- **Rain Dancers**: Pokemon that can use Rain Dance
+- **Swift Swim**: Fast Pokemon that benefit from rain speed boost
 - **Thunder Users**: Perfect accuracy Thunder in rain
 - **Water Types**: Boosted Water-type moves in rain
 
@@ -92,7 +90,7 @@ constexpr Ability RainDish = {
 
 ### Competitive Usage:
 - **Rain Teams**: Core component of rain-based strategies
-- **Stall Pokémon**: Provides passive healing for defensive builds
+- **Stall Pokemon**: Provides passive healing for defensive builds
 - **Bulky Waters**: Enhances survivability of Water-type tanks
 - **Weather Wars**: Vulnerable to opposing weather control
 

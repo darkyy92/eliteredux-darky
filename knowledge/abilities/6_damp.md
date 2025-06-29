@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact moves from or against this Pokémon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances. Works offensively and defensively - even Fake Out can trigger it. Sets up Electric/Grass coverage perfectly.
-
-*Character count: 294*
+Contact moves from or against this Pokemon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances. Works offensively and defensively - even Fake Out can trigger it. Sets up Electric/Grass coverage perfectly.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -96,8 +94,8 @@ This represents a complete philosophical shift from a defensive/preventative abi
 
 ### Common Users
 The reimagined Damp would logically appear on:
-- Water-type Pokémon with "soaking" themes
-- Pokémon with aquatic or amphibious characteristics
+- Water-type Pokemon with "soaking" themes
+- Pokemon with aquatic or amphibious characteristics
 - Potentially some Poison-types (dampening opponents)
 
 ### Competitive Usage Notes

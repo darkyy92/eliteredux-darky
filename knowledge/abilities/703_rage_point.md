@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Rage Point boosts all offensive moves by 50% while the Pokémon has any status condition. When the Pokémon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
-
-*Character count: 295*
+Rage Point boosts all offensive moves by 50% while the Pokemon has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -27,8 +25,8 @@ Rage Point is a dual-purpose ability that provides both offensive enhancement wh
 3. Negates Attack drop from burn and Special Attack drop from freeze
 
 ### Activation Conditions
-- **Status boost**: Active whenever the Pokémon has any major status condition
-- **Critical hit response**: Triggers when the Pokémon takes (not deals) a critical hit
+- **Status boost**: Active whenever the Pokemon has any major status condition
+- **Critical hit response**: Triggers when the Pokemon takes (not deals) a critical hit
 - **Status drop negation**: Always active for burn and freeze penalties
 
 ### Status Conditions Recognized
@@ -110,9 +108,9 @@ The ability provides additional utility by negating status penalties:
 
 ### Common Users
 - Mixed attackers who benefit from both stat boosts
-- Pokémon with access to status-inducing items
-- Bulky offensive Pokémon that can survive critical hits
-- Pokémon with naturally high critical hit rates (to trigger opponent crits)
+- Pokemon with access to status-inducing items
+- Bulky offensive Pokemon that can survive critical hits
+- Pokemon with naturally high critical hit rates (to trigger opponent crits)
 
 ### Synergies
 - **Status Orbs**: Flame Orb, Toxic Orb for permanent status

@@ -15,8 +15,6 @@ character_count: 286
 
 DNA Scramble transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form (180 Atk/SpAtk), Recover triggers Defense form (160 Def/SpDef), other status moves trigger Speed form (180 Speed). Base form has balanced 150 stats. Form changes occur before attack.
 
-*Character count: 286*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -69,24 +67,24 @@ constexpr Ability DNAScramble = {
 ### Form Change Logic by Current Form
 
 **From Base Form (SPECIES_DEOXYS):**
-- Damaging moves → Attack Form
-- Recover → Defense Form  
-- Other status moves → Speed Form
+- Damaging moves to Attack Form
+- Recover to Defense Form  
+- Other status moves to Speed Form
 
 **From Attack Form:**
-- Recover → Defense Form
-- Status moves (except Recover) → Speed Form
-- Damaging moves → Stay in Attack Form
+- Recover to Defense Form
+- Status moves (except Recover) to Speed Form
+- Damaging moves to Stay in Attack Form
 
 **From Defense Form:**
-- Damaging moves → Attack Form
-- Status moves (except Recover) → Speed Form
-- Recover → Stay in Defense Form
+- Damaging moves to Attack Form
+- Status moves (except Recover) to Speed Form
+- Recover to Stay in Defense Form
 
 **From Speed Form:**
-- Damaging moves → Attack Form
-- Recover → Defense Form
-- Other status moves → Stay in Speed Form
+- Damaging moves to Attack Form
+- Recover to Defense Form
+- Other status moves to Stay in Speed Form
 
 ### Ability Properties
 - **Unsuppressable**: Cannot be suppressed by abilities like Neutralizing Gas
@@ -114,7 +112,7 @@ constexpr Ability DNAScramble = {
 - Can utilize status moves to maintain form
 
 ### Common Users
-DNA Scramble is exclusive to Deoxys and its forms. No other Pokémon can have this ability.
+DNA Scramble is exclusive to Deoxys and its forms. No other Pokemon can have this ability.
 
 ### Competitive Usage Notes
 - **Versatility**: Allows Deoxys to adapt its role mid-battle based on needs
@@ -141,8 +139,8 @@ DNA Scramble is a custom ability created for Elite Redux, designed to showcase D
 
 ### Example Scenarios
 
-**Scenario 1**: Deoxys starts in base form, uses Psycho Boost (damaging move) → transforms to Attack form with 180 SpAtk, then uses Recover → transforms to Defense form with 160 defenses.
+**Scenario 1**: Deoxys starts in base form, uses Psycho Boost (damaging move) to transforms to Attack form with 180 SpAtk, then uses Recover to transforms to Defense form with 160 defenses.
 
-**Scenario 2**: Deoxys in Speed form uses Thunder Wave (status move) → stays in Speed form, then uses Zen Headbutt (damaging move) → transforms to Attack form for maximum damage.
+**Scenario 2**: Deoxys in Speed form uses Thunder Wave (status move) to stays in Speed form, then uses Zen Headbutt (damaging move) to transforms to Attack form for maximum damage.
 
-**Scenario 3**: Deoxys in Attack form faces a powerful physical attacker → uses Recover → immediately transforms to Defense form to tank the incoming attack.
+**Scenario 3**: Deoxys in Attack form faces a powerful physical attacker to uses Recover to immediately transforms to Defense form to tank the incoming attack.

@@ -15,8 +15,6 @@ character_count: 295
 
 Moody triggers at the end of each turn, randomly selecting one stat to sharply raise (+2 stages) and another stat to lower (-1 stage). The same stat cannot be both raised and lowered in the same turn. Only activates if at least one stat change is possible.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -28,7 +26,7 @@ Moody triggers at the end of each turn, randomly selecting one stat to sharply r
 3. If possible, randomly selects a different stat to lower (-1 stage)
 4. The same stat cannot be both raised and lowered in the same turn
 5. If only raising or only lowering is possible, only that effect occurs
-6. Does not activate on the turn the Pokémon switches in
+6. Does not activate on the turn the Pokemon switches in
 
 **Important Notes**:
 - Uses the full stat range (Attack through Speed - 5 stats total)
@@ -40,7 +38,7 @@ Moody triggers at the end of each turn, randomly selecting one stat to sharply r
 **Strategic Applications**:
 - Extremely unpredictable but potentially powerful
 - Can create both advantages and disadvantages
-- Best used on Pokémon that can capitalize on any stat boost
+- Best used on Pokemon that can capitalize on any stat boost
 - Risk vs. reward ability - the stat drops can be as impactful as the boosts
 - Pairs well with moves like Stored Power that scale with stat boosts
 

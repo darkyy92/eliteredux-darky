@@ -5,15 +5,17 @@ status: ai-generated
 character_count: 294
 ---
 
-# Poison Quills
+# Poison Quills - Ability ID 840
 
-## Short Description
+## In-Game Description
 Rough Skin + Poison Point.
 
 ## Extended In-Game Description
 Sharp, venomous barbs cover the user's body, punishing physical contact. When struck by a contact move, the attacker takes damage equal to 1/8 of their maximum HP from the rough quills. Additionally, contact moves have a 30% chance to poison the attacker. This dual defense makes physical attackers think twice before engaging.
 
-## Mechanics
+## Detailed Mechanical Explanation
+
+### Mechanics
 
 ### Components
 - **Rough Skin**: Deal 1/8 max HP damage to attackers using contact moves

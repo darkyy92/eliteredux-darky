@@ -15,8 +15,6 @@ character_count: 297
 
 Mummy spreads when hit by contact moves, replacing the attacker's ability with Mummy unless they have Ability Shield or an unsuppressable ability. Particularly effective against physical attackers, disrupting their strategies and spreading the curse through battle teams.
 
-*Character count: 297*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -79,7 +77,7 @@ constexpr Ability Mummy = {
 
 **Damage Calculations:**
 - Mummy activates AFTER damage is calculated, so the original ability affects the damage dealt
-- Example: Huge Power Machamp hits Dusclops → Machamp deals doubled damage → Machamp loses Huge Power and gains Mummy
+- Example: Huge Power Machamp hits Dusclops to Machamp deals doubled damage to Machamp loses Huge Power and gains Mummy
 
 **Battle Message:**
 - Displays "ATTACKER acquired MUMMY!" when the ability is successfully transferred

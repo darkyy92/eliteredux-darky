@@ -5,24 +5,20 @@ status: ai-generated
 character_count: 295
 ---
 
-# Frostbind (Ability #824)
+# Frostbind - Ability ID 824
+
+## In-Game Description
+Inflicting Frostbite also inflicts Disable.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-"Inflicting Frostbite also inflicts Disable."
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-
-Frostbind inflicts both Frostbite and Disable when an opponent faints from the Pokémon's attacks. Frostbite deals 1/16 max HP damage per turn and halves special attack. Disable prevents the target's last used move for 4 turns. Creates powerful disruption through dual status effects.
-
-*Character count: 295*
+Frostbind inflicts both Frostbite and Disable when an opponent faints from the Pokemon's attacks. Frostbite deals 1/16 max HP damage per turn and halves special attack. Disable prevents the target's last used move for 4 turns. Creates powerful disruption through dual status effects.
 
 ## Detailed Mechanical Explanation
-*For Discord/reference use*
 
 ### Core Mechanics
-Frostbind is a reactive ability that activates when opponents that the Pokémon can affect with frostbite faint. When triggered, it simultaneously applies both the Frostbite status condition and the Disable effect to all eligible opponents on the field.
+Frostbind is a reactive ability that activates when opponents that the Pokemon can affect with frostbite faint. When triggered, it simultaneously applies both the Frostbite status condition and the Disable effect to all eligible opponents on the field.
 
 ### Implementation Details
 ```cpp
@@ -45,7 +41,7 @@ BattleScript_Frostbind::
 ```
 
 ### Activation Conditions
-- **Trigger**: When an opponent faints from the Pokémon's attack
+- **Trigger**: When an opponent faints from the Pokemon's attack
 - **Target check**: Uses `CanGetFrostbite()` function to determine valid targets
 - **Target requirements**: 
   - Must not already have a status condition (STATUS1_ANY)
@@ -58,7 +54,7 @@ BattleScript_Frostbind::
 - **HP damage**: 1/16 maximum HP lost per turn at end of turn
 - **Special Attack reduction**: Special Attack halved during damage calculation (like burn affects physical attack)
 - **Duration**: Permanent until cured
-- **Immunity**: Ice-type Pokémon are immune
+- **Immunity**: Ice-type Pokemon are immune
 - **Curing**: Can be cured by switching out, healing moves, or items
 
 #### Disable Effect
@@ -69,7 +65,7 @@ BattleScript_Frostbind::
 - **Cancellation**: Removed if the disabled move is forgotten/replaced
 
 ### Strategic Applications
-- **Revenge punishment**: Punishes opponents for knocking out the Pokémon
+- **Revenge punishment**: Punishes opponents for knocking out the Pokemon
 - **Dual disruption**: Both health drain and move restriction
 - **Anti-special sweeper**: Frostbite specifically targets special attackers
 - **Move prediction disruption**: Disable can lock out key moves

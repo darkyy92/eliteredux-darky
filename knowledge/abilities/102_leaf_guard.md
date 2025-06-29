@@ -13,9 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Leaf Guard cures the Pokémon's status conditions at the end of each turn during sunny weather. Works with regular sun, harsh sunlight from Drought, and extremely harsh sunlight from Desolate Land. Status healing occurs after damage from burn/poison. Pairs well with sun teams.
-
-*Character count: 289*
+Leaf Guard cures the Pokemon's status conditions at the end of each turn during sunny weather. Works with regular sun, harsh sunlight from Drought, and extremely harsh sunlight from Desolate Land. Status healing occurs after damage from burn/poison. Pairs well with sun teams.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -66,8 +64,8 @@ In Elite Redux, weather effects last 8 turns (not 5 like vanilla), making weathe
 - **Weather dependent**: Vulnerable when sun isn't active
 
 ### Common Users
-- Grass-type Pokémon who benefit from sun
-- Pokémon with Chlorophyll as secondary ability
+- Grass-type Pokemon who benefit from sun
+- Pokemon with Chlorophyll as secondary ability
 - Sun team supporters and sweepers
 - Bulky Grass types that fear status
 
@@ -95,4 +93,4 @@ In Elite Redux, weather effects last 8 turns (not 5 like vanilla), making weathe
 ### Version History
 - Standard ability since Generation IV
 - In Elite Redux, benefits from 8-turn weather duration
-- Can be an innate ability on certain Grass-type Pokémon
+- Can be an innate ability on certain Grass-type Pokemon

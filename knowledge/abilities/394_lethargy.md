@@ -15,8 +15,6 @@ character_count: 234
 
 Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -25,7 +23,7 @@ Resets all stat changes on entry, then severely reduces offensive power for 5 tu
 - **Timer System**: Uses a 5-turn countdown timer that begins upon entry
 - **Damage Reduction**: Offensive moves have drastically reduced power during the timer period
 - **Gradual Recovery**: Power slowly increases each turn following a specific pattern
-- **Switch Reset**: Timer resets to 5 whenever the Pokémon switches back in
+- **Switch Reset**: Timer resets to 5 whenever the Pokemon switches back in
 
 **Technical Implementation:**
 ```cpp
@@ -78,11 +76,11 @@ constexpr Ability Lethargy = {
 **Damage Calculation Examples:**
 ```
 Base move power: 100
-Turn 1-2: 100 × 0.2 = 20 effective power
-Turn 3:   100 × 0.4 = 40 effective power  
-Turn 4:   100 × 0.6 = 60 effective power
-Turn 5:   100 × 0.8 = 80 effective power
-Turn 6+:  100 × 1.0 = 100 effective power
+Turn 1-2: 100 x 0.2 = 20 effective power
+Turn 3:   100 x 0.4 = 40 effective power  
+Turn 4:   100 x 0.6 = 60 effective power
+Turn 5:   100 x 0.8 = 80 effective power
+Turn 6+:  100 x 1.0 = 100 effective power
 ```
 
 ## Strategic Analysis
@@ -102,7 +100,7 @@ Turn 6+:  100 × 1.0 = 100 effective power
 
 **Usage Scenarios:**
 - **Stall Teams**: Can function as a defensive pivot that eventually gains offensive presence
-- **Setup Sweepers**: May work with extremely bulky Pokémon that can survive the early turns
+- **Setup Sweepers**: May work with extremely bulky Pokemon that can survive the early turns
 - **Specific Counters**: Against setup opponents where stat clearing is valuable
 
 **Team Support Required:**
@@ -142,16 +140,16 @@ Turn 6+:  100 × 1.0 = 100 effective power
 - Stat clearing occurs before the timer is set, ensuring clean slate
 - No interaction with abilities that modify damage calculations (stacks multiplicatively)
 
-## Recommended Pokémon
+## Recommended Pokemon
 
 **Ideal Candidates:**
-- Extremely bulky Pokémon with high HP and defensive stats
-- Pokémon with access to reliable recovery moves
-- Pokémon that can function with support/utility moves early game
-- Pokémon with powerful offensive movesets to capitalize on late-game power
+- Extremely bulky Pokemon with high HP and defensive stats
+- Pokemon with access to reliable recovery moves
+- Pokemon that can function with support/utility moves early game
+- Pokemon with powerful offensive movesets to capitalize on late-game power
 
 **Poor Candidates:**
-- Fast, frail offensive Pokémon
-- Pokémon reliant on early-game pressure
+- Fast, frail offensive Pokemon
+- Pokemon reliant on early-game pressure
 - Setup sweepers that need immediate offensive presence
-- Pokémon without recovery or defensive utility moves
+- Pokemon without recovery or defensive utility moves

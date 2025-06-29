@@ -15,8 +15,6 @@ character_count: 288
 
 Neuroforce amplifies super-effective moves with an additional 1.35x damage multiplier on top of the normal 2x type effectiveness. This turns normally strong moves into devastating attacks, making 2x effective moves deal 2.7x damage total. Excellent for breaking through bulky opponents and securing KOs.
 
-*Character count: 288*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -39,8 +37,8 @@ constexpr Ability Neuroforce = {
 ```
 
 ### Numerical Values:
-- **2x Super Effective**: 2.0 × 1.35 = **2.7x total damage**
-- **4x Double Super Effective**: 4.0 × 1.35 = **5.4x total damage**
+- **2x Super Effective**: 2.0 x 1.35 = **2.7x total damage**
+- **4x Double Super Effective**: 4.0 x 1.35 = **5.4x total damage**
 - **Neutral/Resisted**: No boost applied (1x and 0.5x moves unchanged)
 
 ### Complete List of Affected Moves:
@@ -60,9 +58,9 @@ constexpr Ability Neuroforce = {
    - Tinted Lens: Works independently (Tinted Lens affects resisted moves, Neuroforce affects super-effective)
 
 3. **Other Damage Multipliers**:
-   - **STAB**: 1.5x × 2x (type) × 1.35x (Neuroforce) = 4.05x total
-   - **Life Orb**: 1.3x × 2x (type) × 1.35x (Neuroforce) = 3.51x total
-   - **Choice Items**: 1.5x × 2x (type) × 1.35x (Neuroforce) = 4.05x total
+   - **STAB**: 1.5x x 2x (type) x 1.35x (Neuroforce) = 4.05x total
+   - **Life Orb**: 1.3x x 2x (type) x 1.35x (Neuroforce) = 3.51x total
+   - **Choice Items**: 1.5x x 2x (type) x 1.35x (Neuroforce) = 4.05x total
 
 ### Strategic Implications:
 - **Wallbreaking**: Turns moderate super-effective hits into devastating attacks
@@ -71,10 +69,10 @@ constexpr Ability Neuroforce = {
 - **Synergy with Mixed Attackers**: Benefits both physical and special super-effective moves
 
 ### Example Damage Calculations:
-**Scenario**: Neuroforce Pokémon with 100 Attack using 80 BP move
-- **Against Normal Effectiveness**: 80 BP × 1.0 = 80 effective BP
-- **Against Super Effective**: 80 BP × 2.0 × 1.35 = 216 effective BP
-- **Against Double Super Effective**: 80 BP × 4.0 × 1.35 = 432 effective BP
+**Scenario**: Neuroforce Pokemon with 100 Attack using 80 BP move
+- **Against Normal Effectiveness**: 80 BP x 1.0 = 80 effective BP
+- **Against Super Effective**: 80 BP x 2.0 x 1.35 = 216 effective BP
+- **Against Double Super Effective**: 80 BP x 4.0 x 1.35 = 432 effective BP
 
 ### Common Users in Elite Redux:
 Based on the species analysis, notable Neuroforce users include:
@@ -87,13 +85,13 @@ Based on the species analysis, notable Neuroforce users include:
 
 ### Competitive Usage Notes:
 - **Team Role**: Excellent on wallbreakers and late-game sweepers
-- **Movepool Importance**: More valuable on Pokémon with diverse type coverage
-- **Speed Considerations**: Most effective on fast Pokémon that can outspeed and OHKO
+- **Movepool Importance**: More valuable on Pokemon with diverse type coverage
+- **Speed Considerations**: Most effective on fast Pokemon that can outspeed and OHKO
 - **Item Synergy**: Works well with Life Orb, Choice items, and Z-Moves (if implemented)
 
 ### Counters and Defensive Strategies:
-- **Resist Super-Effective Moves**: Use Pokémon that resist the user's main STAB
-- **Bulk Up**: Extremely bulky Pokémon can still survive boosted super-effective hits
+- **Resist Super-Effective Moves**: Use Pokemon that resist the user's main STAB
+- **Bulk Up**: Extremely bulky Pokemon can still survive boosted super-effective hits
 - **Priority Moves**: Revenge kill with priority before the Neuroforce user can attack
 - **Status Conditions**: Burn halves physical attack power, negating much of the boost
 
@@ -110,5 +108,5 @@ Based on the species analysis, notable Neuroforce users include:
 
 ### Version History:
 - **Gen 7**: Introduced as Necrozma's signature ability with 1.25x multiplier
-- **Elite Redux**: Enhanced to 1.35x multiplier and distributed to multiple Pokémon through the expanded ability system
+- **Elite Redux**: Enhanced to 1.35x multiplier and distributed to multiple Pokemon through the expanded ability system
 - **Current**: Maintains 1.35x boost, available as both regular and innate ability on various species

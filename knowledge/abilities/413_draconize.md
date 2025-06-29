@@ -15,8 +15,6 @@ character_count: 295
 
 Draconize converts all Normal-type moves into Dragon-type moves and grants STAB bonus for Dragon-type attacks. The converted moves receive a 20% power boost from the type change. Perfect for mixed attackers utilizing both Natural moves and Dragon coverage for consistent offensive pressure.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -48,12 +46,12 @@ constexpr Ability Draconize = {
 
 ### Move Conversions
 **Common Normal moves that become Dragon:**
-- **Hyper Beam** → Dragon Hyper Beam (150 → 180 power with boost)
-- **Body Slam** → Dragon Body Slam (85 → 102 power with boost)
-- **Quick Attack** → Dragon Quick Attack (40 → 48 power with boost)
-- **Extreme Speed** → Dragon Extreme Speed (80 → 96 power with boost)
-- **Boomburst** → Dragon Boomburst (140 → 168 power with boost)
-- **Return/Frustration** → Dragon Return/Frustration (variable power + 20%)
+- **Hyper Beam** to Dragon Hyper Beam (150 to 180 power with boost)
+- **Body Slam** to Dragon Body Slam (85 to 102 power with boost)
+- **Quick Attack** to Dragon Quick Attack (40 to 48 power with boost)
+- **Extreme Speed** to Dragon Extreme Speed (80 to 96 power with boost)
+- **Boomburst** to Dragon Boomburst (140 to 168 power with boost)
+- **Return/Frustration** to Dragon Return/Frustration (variable power + 20%)
 
 ### Damage Calculations
 1. **Base conversion**: Normal move becomes Dragon-type
@@ -63,8 +61,8 @@ constexpr Ability Draconize = {
 
 **Example calculation (Body Slam on Dragon-type user):**
 - Base power: 85
-- Ate boost: 85 × 1.2 = 102
-- STAB: 102 × 1.5 = 153 effective power
+- Ate boost: 85 x 1.2 = 102
+- STAB: 102 x 1.5 = 153 effective power
 - Final damage depends on stats and type effectiveness
 
 ### Strategic Implications
@@ -82,9 +80,9 @@ constexpr Ability Draconize = {
 - **Weak to**: Ice, Dragon, Fairy
 
 ### Common Users
-- Dragon-type Pokémon with diverse Normal movepools
+- Dragon-type Pokemon with diverse Normal movepools
 - Mixed attackers wanting reliable Dragon coverage
-- Pokémon with powerful Normal-type signature moves
+- Pokemon with powerful Normal-type signature moves
 - Speedy Dragon types utilizing priority Normal moves
 
 ### Competitive Usage Notes
@@ -122,8 +120,8 @@ constexpr Ability Draconize = {
 - Provides unique Dragon-type priority and coverage options
 
 ### Comparison to Similar Abilities
-- **Refrigerate**: Normal → Ice conversion (similar mechanism)
-- **Pixilate**: Normal → Fairy conversion (similar power boost)
-- **Aerilate**: Normal → Flying conversion (same ate boost)
-- **Galvanize**: Normal → Electric conversion (consistent power boost)
+- **Refrigerate**: Normal to Ice conversion (similar mechanism)
+- **Pixilate**: Normal to Fairy conversion (similar power boost)
+- **Aerilate**: Normal to Flying conversion (same ate boost)
+- **Galvanize**: Normal to Electric conversion (consistent power boost)
 - **Normalize**: Converts all moves to Normal (opposite effect)

@@ -13,9 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Berserker Rage combines Tipping Point and Rampage effects. When hit, raises Special Attack by 1 stage normally or maximizes it on critical hits. When the Pokémon KOs an opponent, it instantly recovers from recharge status, allowing immediate use of moves like Hyper Beam without waiting.
-
-*Character count: 287*
+Berserker Rage combines Tipping Point and Rampage effects. When hit, raises Special Attack by 1 stage normally or maximizes it on critical hits. When the Pokemon KOs an opponent, it instantly recovers from recharge status, allowing immediate use of moves like Hyper Beam without waiting.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,14 +24,14 @@ Berserker Rage is a hybrid ability that combines two distinct effects from the T
 ### Dual Effect Components
 
 #### Tipping Point Component (.onDefender)
-- **Triggers**: When the Pokémon is hit by an attack
+- **Triggers**: When the Pokemon is hit by an attack
 - **Condition**: Must be a hit that can apply on-hit effects (ShouldApplyOnHitAffect)
 - **Normal hits**: Raises Special Attack by 1 stage
 - **Critical hits**: Maximizes Special Attack (sets to +6 stages instantly)
 - **Stat requirements**: Only works if Special Attack can be raised further
 
 #### Rampage Component (.onBattlerFaints)
-- **Triggers**: When the Pokémon KOs an opponent (APPLY_ON_ATTACKER)
+- **Triggers**: When the Pokemon KOs an opponent (APPLY_ON_ATTACKER)
 - **Effect**: Instantly removes recharge status
 - **Mechanics**: 
   - Sets rechargeTimer to 0
@@ -82,8 +80,8 @@ The Rampage component works with any move that causes recharge status:
 
 ### Critical Hit Synergy
 The ability heavily rewards landing critical hits:
-- **Normal scenario**: Take damage → gain +1 Special Attack
-- **Critical hit scenario**: Take damage → instantly max Special Attack (+6)
+- **Normal scenario**: Take damage to gain +1 Special Attack
+- **Critical hit scenario**: Take damage to instantly max Special Attack (+6)
 - **Follow-up potential**: High Special Attack enables powerful special moves
 - **Recharge recovery**: Can immediately use powerful moves after KOs
 
@@ -150,7 +148,7 @@ The ability heavily rewards landing critical hits:
 - **High-risk high-reward**: Rewards aggressive play patterns
 
 ### Pokemon Suitability
-Ideal for Pokémon with:
+Ideal for Pokemon with:
 - **High Special Attack**: Can utilize the stat boosts effectively
 - **Mixed movepool**: Access to both physical recharge and special moves
 - **Good bulk**: Can survive hits to trigger Tipping Point effect

@@ -15,8 +15,6 @@ character_count: 291
 
 Sand Guard blocks priority moves and reduces special attack damage by 50% during sandstorm weather. Works with all sandstorm forms including Sand Stream. Priority blocking protects user and allies, while damage reduction applies only to special moves targeting the user in sandstorm weather.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -26,13 +24,13 @@ Sand Guard is a dual-defensive ability that provides both priority move immunity
 ### Priority Move Blocking
 - **Weather requirement**: Sandstorm must be active to block priority moves
 - **Effect**: Completely blocks all priority moves (priority > 0) from opponents
-- **Range**: Protects both the user and allied Pokémon (onImmuneFor = APPLY_ON_ALLY)
+- **Range**: Protects both the user and allied Pokemon (onImmuneFor = APPLY_ON_ALLY)
 - **Mechanism**: Uses the same priority blocking system as Queenly Majesty and Dazzling
 - **Message**: Shows "Dazzling" protection message when blocking
 
 ### Special Damage Reduction
 - **Weather requirement**: Sandstorm must be active for damage reduction
-- **Attacker condition**: The attacking Pokémon must be affected by sandstorm
+- **Attacker condition**: The attacking Pokemon must be affected by sandstorm
 - **Move type**: Only applies to special attacks (IS_MOVE_SPECIAL)
 - **Damage reduction**: Multiplies incoming special damage by 0.5 (50% reduction)
 - **Target**: Only applies to the Sand Guard user, not allies
@@ -75,9 +73,9 @@ Sand Guard activates under any sandstorm weather:
 - Fake Out, Sucker Punch
 
 ### Special Damage Reduction Examples
-- **Blocked**: Hydro Pump from Pokémon in sandstorm (50% damage)
-- **Not blocked**: Earthquake from Pokémon in sandstorm (physical move)
-- **Not blocked**: Surf from Pokémon not in sandstorm (clear weather)
+- **Blocked**: Hydro Pump from Pokemon in sandstorm (50% damage)
+- **Not blocked**: Earthquake from Pokemon in sandstorm (physical move)
+- **Not blocked**: Surf from Pokemon not in sandstorm (clear weather)
 - **Blocked**: Thunderbolt from Garchomp with Sand Stream active
 
 ### Strategic Implications
@@ -95,10 +93,10 @@ Sand Guard activates under any sandstorm weather:
 - **Tank role**: Functions as special wall in sandstorm teams
 
 ### Common Users
-Sand Guard is a custom Elite Redux ability, so usage depends on which Pokémon receive it:
+Sand Guard is a custom Elite Redux ability, so usage depends on which Pokemon receive it:
 - Likely Ground/Rock/Steel types that fit sandstorm teams
-- Pokémon that naturally benefit from sandstorm conditions
-- Defensive Pokémon that can utilize both protective effects
+- Pokemon that naturally benefit from sandstorm conditions
+- Defensive Pokemon that can utilize both protective effects
 
 ### Synergies
 - **Sand Stream/Sand Spit**: Essential weather setters

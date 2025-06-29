@@ -15,8 +15,6 @@ character_count: 295
 
 Molten Core combines Furnace effects with Rock-type absorption. On switch-in, gains +2 Speed from Stealth Rock and removes team's Stealth Rock. When hit by Rock moves, gains +2 Speed instead of taking damage. Perfect for handling Rock-type attacks and entry hazards.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -24,7 +22,7 @@ Molten Core combines Furnace effects with Rock-type absorption. On switch-in, ga
 Molten Core is a hybrid defensive ability that combines the effects of Furnace with powerful Rock-type move absorption. It provides both entry hazard control and offensive momentum through Speed boosts.
 
 ### Activation Conditions
-- **Switch-in effects**: Activates when the Pokémon enters battle
+- **Switch-in effects**: Activates when the Pokemon enters battle
   - If Stealth Rock is on the user's side, gains +2 Speed boost
   - Completely removes Stealth Rock from the user's side of the field
 - **Rock-type absorption**: When targeted by Rock-type moves
@@ -78,7 +76,7 @@ The Furnace component provides:
 - **Ability suppression**: Doesn't work if ability is suppressed by Mold Breaker
 
 ### Switch-In Sequence
-1. Pokémon enters battle with Molten Core
+1. Pokemon enters battle with Molten Core
 2. Check if Stealth Rock is present on user's side
 3. If present: Gain +2 Speed boost and trigger Furnace message
 4. Remove Stealth Rock from user's side completely
@@ -92,9 +90,9 @@ The Furnace component provides:
 - **Momentum generation**: Turns defensive switches into offensive opportunities
 
 ### Common Users
-- Fire/Rock-type Pokémon who benefit from Rock immunity
+- Fire/Rock-type Pokemon who benefit from Rock immunity
 - Fast sweepers who can utilize Speed boosts
-- Pokémon weak to Stealth Rock who need hazard control
+- Pokemon weak to Stealth Rock who need hazard control
 - Team cores that struggle with Rock-type coverage
 
 ### Competitive Usage Notes

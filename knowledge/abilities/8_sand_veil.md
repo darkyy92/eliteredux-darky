@@ -13,9 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-During sandstorm, this Pokémon gains 25% evasion (foes have 80% accuracy) and immunity to sand damage. Synergizes with Sand Stream setters like Tyranitar. Enables SubVeil strategies with Substitute. Allows non-Rock/Ground/Steel types on sand teams. Bypassed by No Guard/Mold Breaker.
-
-*Character count: 283*
+During sandstorm, this Pokemon gains 25% evasion (foes have 80% accuracy) and immunity to sand damage. Synergizes with Sand Stream setters like Tyranitar. Enables SubVeil strategies with Substitute. Allows non-Rock/Ground/Steel types on sand teams. Bypassed by No Guard/Mold Breaker.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -95,7 +93,7 @@ With opponent's Hone Claws (+1 accuracy):
 - Requires weather support to function
 - Can frustrate opponents with miss streaks
 
-### Example Pokémon with Sand Veil
+### Example Pokemon with Sand Veil
 - **Garchomp**: Fast physical attacker with ground immunity
 - **Sandslash**: Physical wall with sand synergy
 - **Gliscor**: Defensive pivot with recovery

@@ -5,13 +5,19 @@ status: ai-generated
 character_count: 289
 ---
 
-# Petrify
+# Petrify - Ability ID 677
 
-**Base Description**: "Clears stat buffs then lowers speed by one stage on entry." (Note: Implementation actually lowers Attack like Intimidate)
+## In-Game Description
+Clears stat buffs then lowers attack by one stage on entry.
 
-**Extended Description**: Upon switching in, Petrify activates both Intimidate-like effects and buff clearing simultaneously. It lowers the Attack stat of opposing Pokemon by one stage through its intimidate component, then completely strips away all positive stat boosts from enemy Pokemon, neutralizing any setup.
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-**Mechanical Details**:
+Upon switching in, Petrify activates both Intimidate-like effects and buff clearing simultaneously. It lowers the Attack stat of opposing Pokemon by one stage through its intimidate component, then completely strips away all positive stat boosts from enemy Pokemon, neutralizing any setup.
+
+## Detailed Mechanical Explanation
+
+### Mechanical Details
 - **Entry Effect Combination**: Uses `UseIntimidateClone()` for intimidate effect + `TryResetBattlerStatChanges()` for buff clearing
 - **Intimidate Component**: Lowers opposing Pokemon's Attack by 1 stage
 - **Buff Clearing**: Removes all positive stat changes (`RESET_STAT_BUFFS`) from opposing Pokemon
@@ -20,7 +26,7 @@ character_count: 289
 - **Battle Script**: Uses `BattleScript_Petrify` when stats are cleared
 - **Return Logic**: Returns true if either intimidate worked OR buffs were cleared
 
-**Strategic Applications**:
+### Strategic Applications
 - **Setup Counter**: Completely shuts down opponents who have been setting up with stat boosts
 - **Entry Hazard**: Creates immediate pressure with Attack reduction plus boost removal
 - **Reset Tool**: Forces opponents back to neutral stat stages while imposing Attack penalty

@@ -15,8 +15,6 @@ character_count: 293
 
 Devourer combines Strong Jaw and Primal Maw effects. Boosts biting, jaw, and fang moves by 30% damage. When using these moves, the second hit of multi-hit abilities deals 40% damage instead of the usual 25%, making jaw-based attacks devastatingly powerful in combat.
 
-*Character count: 293*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -75,20 +73,20 @@ All moves with the FLAG_STRONG_JAW_BOOST flag receive both benefits:
 - **Versatile offense**: Combines immediate damage boost with multi-hit potential
 
 ### Damage Calculations
-- **Single hit**: Base damage × 1.3 (Strong Jaw boost)
-- **Multi-hit first**: Base damage × 1.3 (Strong Jaw boost)  
-- **Multi-hit second**: (Base damage × 1.3) × 0.4 = Base damage × 0.52
-- **Total multi-hit**: Base damage × 1.82 (vs normal 1.55)
+- **Single hit**: Base damage x 1.3 (Strong Jaw boost)
+- **Multi-hit first**: Base damage x 1.3 (Strong Jaw boost)  
+- **Multi-hit second**: (Base damage x 1.3) x 0.4 = Base damage x 0.52
+- **Total multi-hit**: Base damage x 1.82 (vs normal 1.55)
 
 ### Common Users
 - Physical attackers with diverse jaw-based movesets
-- Pokémon with natural multi-hit abilities
+- Pokemon with natural multi-hit abilities
 - Mixed attackers who can utilize type coverage
 - Bulky physical attackers who benefit from sustained damage
 
 ### Competitive Usage Notes
 - **Setup sweeper potential**: Strong consistent damage boost across move types
-- **Wall breaking**: Enhanced damage helps break through defensive Pokémon
+- **Wall breaking**: Enhanced damage helps break through defensive Pokemon
 - **Type coverage**: Multiple move types prevent easy switching
 - **Multi-hit synergy**: Exceptional with abilities that enable multi-hit attacks
 

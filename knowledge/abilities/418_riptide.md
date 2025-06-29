@@ -15,8 +15,6 @@ character_count: 295
 
 Riptide boosts the power of all Water-type moves by 30% when above 1/3 HP, increasing to 80% when at or below 1/3 HP. This powerful offensive ability rewards aggressive play and creates comeback potential when health is low. Works with any Water move regardless of the user's typing for versatile damage output.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -77,10 +75,10 @@ constexpr Ability Riptide = {
 - **Z-moves/Max moves**: Massive damage potential with the 1.8x multiplier
 
 ### Calculation Examples
-- **Base 80 Water move at full HP**: 80 × 1.3 = 104 effective power
-- **Base 80 Water move at low HP**: 80 × 1.8 = 144 effective power
-- **With STAB and low HP**: 80 × 1.5 × 1.8 = 216 effective power
-- **Surf with STAB at low HP**: 90 × 1.5 × 1.8 = 243 effective power
+- **Base 80 Water move at full HP**: 80 x 1.3 = 104 effective power
+- **Base 80 Water move at low HP**: 80 x 1.8 = 144 effective power
+- **With STAB and low HP**: 80 x 1.5 x 1.8 = 216 effective power
+- **Surf with STAB at low HP**: 90 x 1.5 x 1.8 = 243 effective power
 
 ### Competitive Viability
 - **Offensive presence**: Provides significant damage output throughout the match

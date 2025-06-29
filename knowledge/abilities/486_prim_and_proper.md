@@ -15,8 +15,6 @@ character_count: 285
 
 When hit by contact moves, has a 50% chance to infatuate the attacker (attract them). This only works on Pokemon of the opposite gender. Also immune to all offensive ability effects from opponents, making it extremely defensive.
 
-*Character count: 285*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

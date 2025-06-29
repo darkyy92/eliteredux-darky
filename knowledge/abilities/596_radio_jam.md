@@ -5,11 +5,20 @@ status: ai-generated
 character_count: 300
 ---
 
-# Radio Jam (ID: 596)
+# Radio Jam - Ability ID 596
 
-## Implementation Analysis
+## In-Game Description
+"20% chance to disable opponent's last move when hitting with sound moves."
 
-### Core Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When this Pokemon hits opponents with sound-based moves, there's a 20% chance to disable their last used move. This electromagnetic interference disrupts the target's ability to repeat their previous attack, making it excellent for disrupting setup sweepers and forcing switches in competitive play.
+
+## Detailed Mechanical Explanation
+
+### Implementation Analysis
+
 Radio Jam is implemented as an `onAttacker` callback in `src/abilities.cc`. The ability triggers when the user successfully hits an opponent with a sound-based move.
 
 ### Trigger Conditions
@@ -21,7 +30,7 @@ Radio Jam is implemented as an `onAttacker` callback in `src/abilities.cc`. The 
 ### Effect
 When all conditions are met, the ability applies `MOVE_EFFECT_DISABLE` via `AbilityStatusEffect()`, which calls `DisableLastUsedMove()` on the target.
 
-## Sound Move Types
+### Sound Move Types
 Sound moves include moves with the `FLAG_SOUND` flag such as:
 - Hyper Voice
 - Roar
@@ -31,7 +40,7 @@ Sound moves include moves with the `FLAG_SOUND` flag such as:
 - Sing
 - And many others
 
-## Strategic Applications
+### Strategic Applications
 
 ### Offensive Use
 - Excellent for disrupting setup sweepers who rely on specific moves
@@ -49,7 +58,7 @@ Sound moves include moves with the `FLAG_SOUND` flag such as:
 - Works with sound moves that have additional effects
 - Can be combined with moves that force the opponent to use specific moves
 
-## Competitive Considerations
+### Competitive Considerations
 
 ### Strengths
 - 20% chance provides consistent pressure without being overpowered
@@ -69,6 +78,3 @@ Sound moves include moves with the `FLAG_SOUND` flag such as:
 - Substitute blocks the disable effect
 - Pokemon with diverse movepools are less affected
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-When this Pokemon hits opponents with sound-based moves, there's a 20% chance to disable their last used move. This electromagnetic interference disrupts the target's ability to repeat their previous attack, making it excellent for disrupting setup sweepers and forcing switches in competitive play.

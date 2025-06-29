@@ -15,8 +15,6 @@ character_count: 287
 
 Purifying Salt provides complete immunity to all major status conditions including sleep, paralysis, burn, freeze, and poison. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured. Suppressible by Mold Breaker.
 
-*Character count: 287*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -71,13 +69,13 @@ All Ghost-type attacks including:
 
 ### Damage Calculation Examples:
 **Ghost-type move vs Normal-type with Purifying Salt:**
-- Base damage × 1.0 (neutral) × 0.5 (ability) = 0.5x damage
+- Base damage x 1.0 (neutral) x 0.5 (ability) = 0.5x damage
 
 **Ghost-type move vs Psychic-type with Purifying Salt:**
-- Base damage × 2.0 (super effective) × 0.5 (ability) = 1.0x damage
+- Base damage x 2.0 (super effective) x 0.5 (ability) = 1.0x damage
 
 **Ghost-type move vs Dark-type with Purifying Salt:**
-- Base damage × 0.5 (not very effective) × 0.5 (ability) = 0.25x damage
+- Base damage x 0.5 (not very effective) x 0.5 (ability) = 0.25x damage
 
 ### Ability Properties:
 - **breakable = TRUE**: Suppressed by Mold Breaker, Teravolt, Turboblaze
@@ -88,7 +86,7 @@ All Ghost-type attacks including:
 
 **With Mold Breaker Effects:**
 - Both status immunity and Ghost resistance are completely bypassed
-- Pokémon with suppressing abilities can inflict status and deal full Ghost damage
+- Pokemon with suppressing abilities can inflict status and deal full Ghost damage
 
 **With Corrosion:**
 - Status immunity still applies (Corrosion only bypasses poison immunity specifically)
@@ -113,7 +111,7 @@ All Ghost-type attacks including:
 
 **Team Support:**
 1. **Pivot Safety**: Can switch into predicted status moves
-2. **Anti-Lead**: Counters status-spreading lead Pokémon
+2. **Anti-Lead**: Counters status-spreading lead Pokemon
 3. **Hazard Immunity**: Safe from Toxic Spikes
 4. **Coverage Check**: Resists common Ghost-type coverage moves
 
@@ -124,7 +122,7 @@ All Ghost-type attacks including:
 - **Niche**: Particularly valuable against status-heavy metagames
 
 ### Common Users:
-Pokémon with Purifying Salt benefit significantly from:
+Pokemon with Purifying Salt benefit significantly from:
 - High defensive stats to capitalize on Ghost resistance
 - Movepool that appreciates status immunity
 - Role as defensive pivot or wall

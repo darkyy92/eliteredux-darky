@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokémon's actual typing. Additionally, the Pokémon is treated as if it's always in hail weather for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
-
-*Character count: 295*
+Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's actual typing. Additionally, the Pokemon is treated as if it's always in hail weather for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -24,8 +22,8 @@ Aurora Borealis is a unique weather-manipulation ability that provides two key b
 
 ### Core Mechanics
 
-1. **Ice-type STAB**: All Ice-type moves gain Same Type Attack Bonus (1.5x damage) regardless of the Pokémon's actual typing
-2. **Permanent Hail Benefits**: The Pokémon is treated as if it's in hail weather for all move calculations and effects
+1. **Ice-type STAB**: All Ice-type moves gain Same Type Attack Bonus (1.5x damage) regardless of the Pokemon's actual typing
+2. **Permanent Hail Benefits**: The Pokemon is treated as if it's in hail weather for all move calculations and effects
 
 ### Implementation Details
 
@@ -38,7 +36,7 @@ constexpr Ability AuroraBorealis = {
 
 ### Weather-Related Benefits (Always Active)
 
-The ability makes the Pokémon count as being in hail weather through the `HasAuroraBorealis()` function, which provides:
+The ability makes the Pokemon count as being in hail weather through the `HasAuroraBorealis()` function, which provides:
 
 - **Weather Ball**: Becomes Ice-type with doubled power (120 base power instead of 50)
 - **Aurora Veil**: Can be used without actual hail weather
@@ -74,7 +72,7 @@ if (!(IsBattlerWeatherAffected(gActiveBattler, WEATHER_HAIL_ANY) || HasAuroraBor
 **Defensive Applications:**
 - Hail immunity prevents passive damage
 - Can set up Aurora Veil for team support without weather dependency
-- Enables defensive Ice-type strategies on non-Ice Pokémon
+- Enables defensive Ice-type strategies on non-Ice Pokemon
 
 ### Numerical Values
 - STAB bonus: 1.5x damage multiplier for Ice moves
@@ -95,7 +93,7 @@ if (!(IsBattlerWeatherAffected(gActiveBattler, WEATHER_HAIL_ANY) || HasAuroraBor
 - **Infiltrator**: Bypasses Aurora Veil protection
 
 ### Common Users
-This is a custom Elite Redux ability, so usage depends on which Pokémon are assigned this ability in the ROM hack's design.
+This is a custom Elite Redux ability, so usage depends on which Pokemon are assigned this ability in the ROM hack's design.
 
 ### Competitive Usage Notes
 - Excellent for providing Ice coverage to non-Ice types
@@ -106,9 +104,9 @@ This is a custom Elite Redux ability, so usage depends on which Pokémon are ass
 ### Example Damage Calculations
 Assuming 100 Attack/Special Attack stat against 100 Defense/Special Defense:
 
-- **Ice Punch** (75 base power): ~56 damage → ~84 damage with Aurora Borealis STAB
-- **Weather Ball** (50/120 base power): ~37 damage → ~89 damage with Aurora Borealis
-- **Blizzard** (110 base power): ~82 damage → ~123 damage with Aurora Borealis STAB + guaranteed hit
+- **Ice Punch** (75 base power): ~56 damage to ~84 damage with Aurora Borealis STAB
+- **Weather Ball** (50/120 base power): ~37 damage to ~89 damage with Aurora Borealis
+- **Blizzard** (110 base power): ~82 damage to ~123 damage with Aurora Borealis STAB + guaranteed hit
 
 ### Version History
 - Introduced in Elite Redux as a custom ability

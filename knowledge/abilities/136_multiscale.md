@@ -13,16 +13,14 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Multiscale provides a powerful defensive barrier, reducing all incoming damage by 50% when the Pokémon is at maximum HP. This protection applies to all attack types including physical, special, and fixed damage moves. The ability deactivates after taking any damage but resets when healed to full.
-
-*Character count: 291*
+Multiscale provides a powerful defensive barrier, reducing all incoming damage by 50% when the Pokemon is at maximum HP. This protection applies to all attack types including physical, special, and fixed damage moves. The ability deactivates after taking any damage but resets when healed to full.
 
 ## Detailed Mechanical Explanation
 
 Multiscale is a defensive ability that provides substantial damage reduction under specific conditions:
 
 ### Core Mechanics
-- **Activation Condition**: Only active when the Pokémon is at exactly 100% HP
+- **Activation Condition**: Only active when the Pokemon is at exactly 100% HP
 - **Damage Reduction**: Reduces all incoming damage by 50% (multiplier of 0.5)
 - **Universal Coverage**: Works against all damage types:
   - Physical moves
@@ -44,7 +42,7 @@ The `BATTLER_MAX_HP` check ensures the ability only triggers at full HP, and the
 
 ### Important Properties
 - **Breakable**: The ability can be suppressed by moves like Gastro Acid or abilities like Mold Breaker
-- **Single-Use Per Full Heal**: Once damaged, the ability won't reactivate until the Pokémon is healed back to 100% HP
+- **Single-Use Per Full Heal**: Once damaged, the ability won't reactivate until the Pokemon is healed back to 100% HP
 - **No Type Restrictions**: Unlike type-resist berries or other defensive abilities, Multiscale works on all move types
 - **Stacks with Other Modifiers**: The 50% reduction is applied alongside other damage modifiers like type resistances, screens, or weather effects
 
@@ -54,5 +52,5 @@ The `BATTLER_MAX_HP` check ensures the ability only triggers at full HP, and the
 - Multi-hit moves only get the reduction on the first hit
 - Mold Breaker and similar abilities bypass this protection entirely
 
-### Common Pokémon with Multiscale
-While the ability distribution may vary in Elite Redux, Multiscale is typically associated with bulky Pokémon that can leverage the initial damage reduction to set up or strike back.
+### Common Pokemon with Multiscale
+While the ability distribution may vary in Elite Redux, Multiscale is typically associated with bulky Pokemon that can leverage the initial damage reduction to set up or strike back.

@@ -15,8 +15,6 @@ character_count: 293
 
 Poison Point has a 30% chance to poison opponents when making or receiving contact moves. Works both defensively when attacked with contact moves and offensively when using contact moves. The poison inflicts 1/8 max HP damage each turn. Bypasses Safeguard protection when triggered by ability.
 
-*Character count: 295*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -48,15 +46,15 @@ Poison Point has a 30% chance to poison opponents when making or receiving conta
 
 ### Status Effect Details:
 - **Poison Type**: Regular poison (not badly poisoned)
-- **Damage**: 1/8 of poisoned Pokémon's max HP per turn
+- **Damage**: 1/8 of poisoned Pokemon's max HP per turn
 - **Duration**: Until switched out, cured, or KO'd
 - **Script**: Uses `AbilityStatusEffectSafe(MOVE_EFFECT_POISON, battler, opponent)`
 - **Safeguard Override**: Sets `HITMARKER_IGNORE_SAFEGUARD` flag
 
 ### Immunities and Interactions:
-- **Poison Types**: Cannot poison Poison-type Pokémon
-- **Steel Types**: Cannot poison Steel-type Pokémon (unless affected by special conditions)
-- **Already Poisoned**: Cannot poison already poisoned Pokémon
+- **Poison Types**: Cannot poison Poison-type Pokemon
+- **Steel Types**: Cannot poison Steel-type Pokemon (unless affected by special conditions)
+- **Already Poisoned**: Cannot poison already poisoned Pokemon
 - **Substitutes**: Blocked by Substitute
 - **Magic Guard**: Does not protect from the poison infliction itself
 
@@ -95,13 +93,13 @@ constexpr Ability PoisonPoint = {
 
 ### Competitive Notes:
 - Excellent deterrent against physical attackers
-- Works well on defensive Pokémon that can survive contact moves
+- Works well on defensive Pokemon that can survive contact moves
 - Particularly effective against multi-hit moves (each hit can trigger)
 - Can be used offensively with contact moves for extra status pressure
 - Synergizes well with other poison-based strategies
 
-### Pokémon That Learn This:
-Common on Poison-type Pokémon like Nidoran lines, Qwilfish, and various Poison-type species in the Elite Redux roster.
+### Pokemon That Learn This:
+Common on Poison-type Pokemon like Nidoran lines, Qwilfish, and various Poison-type species in the Elite Redux roster.
 
 ### Version History:
 - Gen 3+: 30% chance to poison on contact

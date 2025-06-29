@@ -13,9 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Energy Tap heals the Pokémon for 1/8 of all damage dealt to opponents. Works with any damaging move that successfully hits and deals damage. Healing occurs immediately after damage calculation. Does not heal if already at maximum HP. Excellent for sustaining offensive Pokémon in battle.
-
-*Character count: 299*
+Energy Tap heals the Pokemon for 1/8 of all damage dealt to opponents. Works with any damaging move that successfully hits and deals damage. Healing occurs immediately after damage calculation. Does not heal if already at maximum HP. Excellent for sustaining offensive Pokemon in battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -72,7 +70,7 @@ constexpr Ability EnergyTap = {
 - **Offensive sustainability**: Allows sweepers to maintain health during long battles
 - **Life Orb synergy**: Offsets Life Orb recoil damage partially
 - **Multi-hit moves**: Particularly effective with moves like Bullet Seed or Rock Blast
-- **High-damage moves**: More effective on Pokémon with powerful single-target moves
+- **High-damage moves**: More effective on Pokemon with powerful single-target moves
 - **Mixed attackers**: Benefits from both physical and special damage output
 
 ### Competitive Usage
@@ -93,15 +91,15 @@ constexpr Ability EnergyTap = {
 - **Heal Block**: Completely negates the ability
 - **Max HP condition**: No benefit when already at full health
 - **Status moves**: Provides no healing from non-damaging moves
-- **Low damage output**: Less effective on defensive or utility Pokémon
+- **Low damage output**: Less effective on defensive or utility Pokemon
 - **Ability suppression**: Mold Breaker effects disable Energy Tap
 
 ### Optimal Users
-- High-attack Pokémon that benefit from sustain
+- High-attack Pokemon that benefit from sustain
 - Mixed attackers with diverse move coverage
-- Pokémon that use recoil moves or hold Life Orb
+- Pokemon that use recoil moves or hold Life Orb
 - Setup sweepers that need longevity
-- Pokémon with multi-hit signature moves
+- Pokemon with multi-hit signature moves
 
 ### Comparison to Similar Abilities
 - **Drain moves**: Energy Tap works with all damaging moves, not just specific ones

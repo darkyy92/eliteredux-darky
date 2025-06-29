@@ -15,8 +15,6 @@ character_count: 299
 
 Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly. Works with all charging moves including Solar Beam, Sky Attack, Skull Bash, Fly, Dig, Dive, Bounce, Shadow Force, and others. The Pokemon can immediately unleash powerful moves without delay.
 
-*Character count: 299*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 

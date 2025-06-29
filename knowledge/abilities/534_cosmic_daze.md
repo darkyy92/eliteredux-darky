@@ -5,15 +5,15 @@ status: ai-generated
 character_count: 274
 ---
 
-# Cosmic Daze
+# Cosmic Daze - Ability ID 534
 
 ## In-Game Description
-2x damage vs confused. Enemies take 2x confusion damage.
+"2x damage vs confused. Enemies take 2x confusion damage."
 
-## Extended In-Game Description (280-300 chars)
-"Amplifies the disorientation of confused foes. All attacks against confused targets deal double damage, creating devastating combo potential. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion, making confusion punishing."
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
-*Character count: 298*
+Amplifies the disorientation of confused foes. All attacks against confused targets deal double damage, creating devastating combo potential. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion, making confusion punishing.
 
 ## Detailed Mechanical Explanation
 

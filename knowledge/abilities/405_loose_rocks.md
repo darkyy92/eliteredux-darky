@@ -13,9 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Loose Rocks deploys Stealth Rock entry hazards on the opponent's side when the Pokémon is hit by any contact move. Only triggers once per battle per side. Does not activate if opponent already has Stealth Rock up. Punishes physical attackers and discourages switching.
-
-*Character count: 294*
+Loose Rocks deploys Stealth Rock entry hazards on the opponent's side when the Pokemon is hit by any contact move. Only triggers once per battle per side. Does not activate if opponent already has Stealth Rock up. Punishes physical attackers and discourages switching.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -58,20 +56,20 @@ constexpr Ability LooseRocks = {
 
 ### Stealth Rock Mechanics
 When Loose Rocks triggers, it sets up Stealth Rock on the opponent's side:
-- **Entry hazard**: Damages switching Pokémon based on Rock-type effectiveness
-- **Damage calculation**: 1/8 max HP × type effectiveness multiplier
+- **Entry hazard**: Damages switching Pokemon based on Rock-type effectiveness
+- **Damage calculation**: 1/8 max HP x type effectiveness multiplier
 - **Type effectiveness**: 
-  - 2× damage to Fire, Flying, Bug, Ice types
-  - 1× damage to most types
-  - 0.5× damage to Steel, Fire types with resist
-  - 0.25× damage to Steel types that resist
+  - 2x damage to Fire, Flying, Bug, Ice types
+  - 1x damage to most types
+  - 0.5x damage to Steel, Fire types with resist
+  - 0.25x damage to Steel types that resist
 
 ### Strategic Implications
 - **Physical deterrent**: Discourages opponents from using contact moves
 - **Switching punishment**: Forces opponents to take hazard damage when switching
 - **One-time use**: Can only set Stealth Rock once per battle per side
 - **Passive setup**: Requires no turns or move slots to deploy hazards
-- **Defensive value**: Provides utility even on defensive Pokémon
+- **Defensive value**: Provides utility even on defensive Pokemon
 
 ### Important Limitations
 - **Single activation**: Only works once per battle per opposing side
@@ -89,19 +87,19 @@ When Loose Rocks triggers, it sets up Stealth Rock on the opponent's side:
 - **Hazard stacking**: Combines well with other hazard setters (Spikes, Toxic Spikes)
 - **Spinner blocking**: Pairs with Ghost types that block Rapid Spin
 - **Pressure builds**: Works well on teams that force switches
-- **Defensive cores**: Excellent on bulky Pokémon that expect physical hits
+- **Defensive cores**: Excellent on bulky Pokemon that expect physical hits
 
 ### Competitive Applications
-- **Physical walls**: Great on defensive Pokémon that wall physical attackers
+- **Physical walls**: Great on defensive Pokemon that wall physical attackers
 - **Hazard support**: Provides passive hazard setting without moveslot investment
 - **Meta dependent**: More valuable in metas with common contact moves
 - **Surprise factor**: Opponents may not expect immediate Stealth Rock setup
 
 ### Common Users
-- **Rock-type Pokémon**: Thematically fits Rock types that might shed stones
-- **Defensive Pokémon**: Bulky defensive walls that can survive contact moves
-- **Ground types**: Pokémon associated with rocky terrain and debris
-- **Physically defensive**: Pokémon built to take physical hits repeatedly
+- **Rock-type Pokemon**: Thematically fits Rock types that might shed stones
+- **Defensive Pokemon**: Bulky defensive walls that can survive contact moves
+- **Ground types**: Pokemon associated with rocky terrain and debris
+- **Physically defensive**: Pokemon built to take physical hits repeatedly
 
 ### Counters and Counterplay
 - **Special attacks**: Use special moves that don't make contact

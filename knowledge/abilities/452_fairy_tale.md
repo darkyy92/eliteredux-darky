@@ -13,20 +13,18 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Fairy Tale adds the Fairy type upon entering battle, granting a third type. This provides Fairy resistances to Fighting, Bug, and Dark moves plus immunity to Dragon attacks. The added type persists until switching out or fainting. Ideal for non-Fairy Pokémon needing better coverage.
-
-*Character count: 283*
+Fairy Tale adds the Fairy type upon entering battle, granting a third type. This provides Fairy resistances to Fighting, Bug, and Dark moves plus immunity to Dragon attacks. The added type persists until switching out or fainting. Ideal for non-Fairy Pokemon needing better coverage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Fairy Tale is a unique type-adding ability that grants the Pokémon an additional Fairy type upon switching into battle. This creates a triple-type Pokémon for the duration of their time on the field.
+Fairy Tale is a unique type-adding ability that grants the Pokemon an additional Fairy type upon switching into battle. This creates a triple-type Pokemon for the duration of their time on the field.
 
 ### Activation Conditions
-- **Trigger**: Automatically activates when the Pokémon enters battle
+- **Trigger**: Automatically activates when the Pokemon enters battle
 - **Type addition**: Adds Fairy as a third type (stored in type3 slot)
-- **Duration**: Persists until the Pokémon switches out or faints
+- **Duration**: Persists until the Pokemon switches out or faints
 - **Reactivation**: Triggers again on each switch-in
 
 ### Technical Implementation
@@ -45,7 +43,7 @@ static int AddBattlerType(int battler, int type) {
 ```
 
 ### Type Interactions
-When Fairy type is added, the Pokémon gains all Fairy-type interactions:
+When Fairy type is added, the Pokemon gains all Fairy-type interactions:
 
 **Resistances (0.5x damage):**
 - Fighting-type moves
@@ -68,9 +66,9 @@ When Fairy type is added, the Pokémon gains all Fairy-type interactions:
 
 ### Strategic Applications
 - **Defensive utility**: Provides key resistances and Dragon immunity
-- **Coverage enhancement**: Allows non-Fairy Pokémon to benefit from Fairy typing
+- **Coverage enhancement**: Allows non-Fairy Pokemon to benefit from Fairy typing
 - **Team synergy**: Can help cover team weaknesses to Dragon/Fighting/Bug
-- **Flexibility**: Works on any Pokémon regardless of original typing
+- **Flexibility**: Works on any Pokemon regardless of original typing
 
 ### Similar Abilities
 - **Turboblaze**: Adds Fire type on entry
@@ -83,17 +81,17 @@ When Fairy type is added, the Pokémon gains all Fairy-type interactions:
 - **Phantom**: Adds Ghost type on entry
 
 ### Limitations
-- **Poison weakness**: Makes Pokémon vulnerable to Poison moves
-- **Steel weakness**: Makes Pokémon vulnerable to Steel moves
+- **Poison weakness**: Makes Pokemon vulnerable to Poison moves
+- **Steel weakness**: Makes Pokemon vulnerable to Steel moves
 - **Temporary effect**: Lost when switching out
-- **No offensive benefit**: Doesn't change the Pokémon's move types
-- **Already Fairy-types**: Has no effect on Pokémon that are already Fairy-type
+- **No offensive benefit**: Doesn't change the Pokemon's move types
+- **Already Fairy-types**: Has no effect on Pokemon that are already Fairy-type
 
 ### Competitive Usage
-- **Defensive pivots**: Excellent on bulky Pokémon that can utilize the resistances
+- **Defensive pivots**: Excellent on bulky Pokemon that can utilize the resistances
 - **Dragon immunity**: Provides safe switch-ins against Dragon-type attackers
 - **Type coverage**: Helps round out team defensive profiles
-- **Flexible application**: Works well on various Pokémon archetypes
+- **Flexible application**: Works well on various Pokemon archetypes
 
 ### Counters
 - **Poison-type moves**: Exploits the newly gained weakness
@@ -106,11 +104,11 @@ When Fairy type is added, the Pokémon gains all Fairy-type interactions:
 - **Assault Vest**: Enhanced special bulk to take advantage of resistances
 - **Leftovers**: Passive recovery to maintain longevity
 - **Rocky Helmet**: Punishes contact moves that now deal reduced damage
-- **Fairy-type moves**: Though the Pokémon doesn't gain STAB, can still utilize coverage
+- **Fairy-type moves**: Though the Pokemon doesn't gain STAB, can still utilize coverage
 - **Bulk Up/Calm Mind**: Stat boosts pair well with improved resistances
 
 ### Design Philosophy
-Fairy Tale represents the concept of transformation and adaptation, allowing Pokémon to temporarily embrace Fairy-type characteristics. This ability enables creative team building by providing Fairy-type benefits to non-Fairy Pokémon, opening up new strategic possibilities while maintaining the temporary nature that requires careful positioning.
+Fairy Tale represents the concept of transformation and adaptation, allowing Pokemon to temporarily embrace Fairy-type characteristics. This ability enables creative team building by providing Fairy-type benefits to non-Fairy Pokemon, opening up new strategic possibilities while maintaining the temporary nature that requires careful positioning.
 
 ### Version History
 - Custom ability introduced in Elite Redux

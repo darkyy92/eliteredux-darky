@@ -5,12 +5,19 @@ status: ai-generated
 character_count: 293
 ---
 
-# Dead Power (Ability #599)
+# Dead Power - Ability ID 599
 
-**Extended Description (293 characters):**
+## In-Game Description
+"1.5x Attack boost. 20% chance to curse on contact moves."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Grants a 1.5x Attack boost and 20% chance to inflict curse on contact moves. Cursed enemies lose 25% max HP each turn. Only affects contact moves like Tackle, Punch, and Bite. Cannot curse already cursed targets. Great for physical attackers seeking sustained damage pressure.
 
-## Implementation Details
+## Detailed Mechanical Explanation
+
+### Implementation Details
 
 ### Core Mechanics
 From `src/abilities.cc`:
@@ -39,7 +46,7 @@ name: "Dead Power"
 description: "1.5x Attack boost. 20% chance to curse on contact moves."
 ```
 
-## Detailed Analysis
+### Detailed Analysis
 
 ### Attack Boost Component
 - **Effect**: 1.5x multiplier to Attack stat
@@ -73,7 +80,7 @@ case ENDTURN_CURSE:  // curse
 - **Interaction**: Blocked by Magic Guard ability
 - **Duration**: Permanent until switched out or cured
 
-## Strategic Applications
+### Strategic Applications
 
 ### Offensive Synergy
 1. **Physical Sweeper Setup**: 1.5x Attack boost makes physical moves significantly stronger
@@ -97,7 +104,7 @@ case ENDTURN_CURSE:  // curse
 2. **Wallbreaker Role**: High Attack boost breaks through defensive walls
 3. **Status Spreading**: Curse multiple targets across the battle
 
-## Comparative Analysis
+### Comparative Analysis
 
 ### Similar Abilities
 - **Poison Touch**: 30% poison chance on contact (vs 20% curse)
@@ -109,7 +116,7 @@ case ENDTURN_CURSE:  // curse
 2. **Severe Punishment**: 25% max HP per turn is extremely threatening
 3. **Permanent Effect**: Curse persists until cured or switched
 
-## Competitive Viability
+### Competitive Viability
 
 ### Strengths
 - **Immediate Power**: 1.5x Attack makes all physical moves significantly stronger
@@ -129,7 +136,7 @@ case ENDTURN_CURSE:  // curse
 3. **Bulky Attackers**: Can stay in to apply multiple curse attempts
 4. **Pivot Pokemon**: Apply curse then switch for team support
 
-## Code Integration Notes
+### Code Integration Notes
 
 ### Implementation Pattern
 - Uses standard `ON_ATTACKER` hook for contact-based effects

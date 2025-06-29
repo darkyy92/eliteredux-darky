@@ -13,18 +13,16 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Monster Hunter grants 1.5x damage when attacking Dark-type Pokémon and takes 0.5x damage from Dark-type attacks. The damage bonus applies to all moves used against Dark types. The damage reduction works against all Dark-type moves regardless of category. Breakable by Mold Breaker.
-
-*Character count: 291*
+Monster Hunter grants 1.5x damage when attacking Dark-type Pokemon and takes 0.5x damage from Dark-type attacks. The damage bonus applies to all moves used against Dark types. The damage reduction works against all Dark-type moves regardless of category. Breakable by Mold Breaker.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Monster Hunter is a specialized combat ability that provides both offensive and defensive advantages specifically against Dark-type Pokémon and moves. It functions as both a damage amplifier and damage reducer.
+Monster Hunter is a specialized combat ability that provides both offensive and defensive advantages specifically against Dark-type Pokemon and moves. It functions as both a damage amplifier and damage reducer.
 
 ### Activation Conditions
-- **Offensive bonus**: Activates when attacking any Dark-type Pokémon
+- **Offensive bonus**: Activates when attacking any Dark-type Pokemon
   - Applies 1.5x damage multiplier to all moves
   - Works on both physical and special attacks
   - Affects status moves that deal damage
@@ -58,21 +56,21 @@ constexpr Ability MonsterHunter = {
 - **Status moves**: Damage-dealing status moves get offensive bonus
 
 ### Damage Calculations
-- **Against Dark-type**: Base damage × 1.5 × other modifiers
-- **From Dark-type**: Base damage × 0.5 × other modifiers
-- **Combined example**: If a Dark-type attacks this Pokémon with a Dark move:
-  - Offensive: 1.5x (if this Pokémon attacks back)
+- **Against Dark-type**: Base damage x 1.5 x other modifiers
+- **From Dark-type**: Base damage x 0.5 x other modifiers
+- **Combined example**: If a Dark-type attacks this Pokemon with a Dark move:
+  - Offensive: 1.5x (if this Pokemon attacks back)
   - Defensive: 0.5x (when taking the Dark move)
 
 ### Strategic Implications
 - **Dark-type counter**: Excellent against Dark-type heavy teams
 - **Pivot potential**: Can switch into Dark-type attacks safely
 - **Offensive pressure**: Threatens Dark-types with increased damage
-- **Type synergy**: Best on Pokémon weak to Dark types normally
+- **Type synergy**: Best on Pokemon weak to Dark types normally
 - **Limited scope**: Only useful against Dark-type presence
 
 ### Meta Considerations
-Elite Redux features many Dark-type Pokémon and moves, making Monster Hunter more valuable than in standard formats. The ability provides significant utility in both offensive and defensive roles.
+Elite Redux features many Dark-type Pokemon and moves, making Monster Hunter more valuable than in standard formats. The ability provides significant utility in both offensive and defensive roles.
 
 ### Common Matchups
 - **Umbreon**: Takes half damage from Dark Pulse, deals 1.5x back
@@ -85,7 +83,7 @@ Elite Redux features many Dark-type Pokémon and moves, making Monster Hunter mo
 - **Dark-heavy metagame**: Most valuable in Dark-type rich environments
 - **Coverage moves**: Pairs well with moves that hit Dark types super-effectively
 - **Defensive core**: Can serve as a Dark-type check for teams
-- **Offensive threats**: Gives offensive Pokémon an edge against Dark types
+- **Offensive threats**: Gives offensive Pokemon an edge against Dark types
 
 ### Counters and Limitations
 - **Non-Dark types**: Provides no benefit against other types
@@ -101,8 +99,8 @@ Elite Redux features many Dark-type Pokémon and moves, making Monster Hunter mo
 - **Recovery moves**: Pairs well with defensive sets that can tank Dark hits
 - **Priority moves**: Boosted priority against Dark types
 
-### Pokémon Usage
-Monster Hunter is typically found on Pokémon that either:
+### Pokemon Usage
+Monster Hunter is typically found on Pokemon that either:
 - Need help against Dark-type threats
 - Want to specialize in Dark-type matchups
 - Serve as dedicated Dark-type counters

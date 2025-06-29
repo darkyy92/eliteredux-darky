@@ -15,8 +15,6 @@ character_count: 283
 
 Pyromancy multiplies the burn chance of all moves by 5x. Moves with 10% burn chance become 50%, and 30% burn chance becomes 100% guaranteed. This affects all burn-inducing moves including Fire-type attacks, certain physical moves, and secondary effects, making burn a reliable strategy.
 
-*Character count: 283*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -27,9 +25,9 @@ Pyromancy multiplies the burn chance of all moves by 5x. Moves with 10% burn cha
 
 ### Practical Applications
 **Common Burn Chances:**
-- 10% burn chance → 50% burn chance (e.g., many Fire-type attacks)
-- 20% burn chance → 100% burn chance (guaranteed)
-- 30% burn chance → 100% burn chance (guaranteed, capped at 100%)
+- 10% burn chance to 50% burn chance (e.g., many Fire-type attacks)
+- 20% burn chance to 100% burn chance (guaranteed)
+- 30% burn chance to 100% burn chance (guaranteed, capped at 100%)
 
 **Strategic Value:**
 - Transforms unreliable burn effects into consistent status application
@@ -51,7 +49,7 @@ constexpr Ability Pyromancy = {
 - **Caps at 100%**: Burn chances cannot exceed 100% even with the 5x multiplier
 - **Works with all burn sources**: Affects primary effects, secondary effects, and ability-triggered burns
 - **Stacks with other effects**: Works alongside other burn chance modifiers
-- **No immunity bypass**: Still cannot burn Fire-types or Pokémon with burn immunity
+- **No immunity bypass**: Still cannot burn Fire-types or Pokemon with burn immunity
 
 ### Competitive Considerations
 - **Offensive utility**: Makes burn a reliable damage-over-time option

@@ -13,16 +13,14 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-When at full HP, this Pokémon's sound-based moves gain increased priority, striking first in battle. The musical mastery grants tactical advantage by accelerating harmonious attacks when the performer is in perfect condition, turning melodies into swift strikes that resonate with enhanced tempo.
-
-*Character count: 296*
+When at full HP, this Pokemon's sound-based moves gain increased priority, striking first in battle. The musical mastery grants tactical advantage by accelerating harmonious attacks when the performer is in perfect condition, turning melodies into swift strikes that resonate with enhanced tempo.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
 Presto grants +1 priority to all sound-based moves when the user is at maximum HP. This ability functions through the `onPriority` callback, which checks two conditions:
-1. **Full HP Check**: `BATTLER_MAX_HP(battler)` - The Pokémon must be at 100% HP
+1. **Full HP Check**: `BATTLER_MAX_HP(battler)` - The Pokemon must be at 100% HP
 2. **Sound Move Check**: `IsSoundMove(battler, move)` - The move must have the sound flag
 
 ### Sound Move Classification
@@ -62,4 +60,4 @@ Common sound moves include Growl, Roar, Sing, Supersonic, Screech, Snore, Uproar
 - **Opportunist**: Gives +1 priority when targeting low HP opponents
 - **Quick Feet**: Boosts speed under status conditions (different activation condition)
 
-Presto represents a unique "perfect condition" ability that rewards maintaining full HP with enhanced musical combat prowess, perfectly thematic for performance-based Pokémon like Mega Primarina.
+Presto represents a unique "perfect condition" ability that rewards maintaining full HP with enhanced musical combat prowess, perfectly thematic for performance-based Pokemon like Mega Primarina.

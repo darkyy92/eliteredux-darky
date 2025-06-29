@@ -13,18 +13,16 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Ill Will completely drains the PP of contact moves that defeat this Pokémon. When fainting to direct physical contact, the attacking move loses all remaining PP permanently. This vengeful ability punishes physical attackers for delivering the final blow.
-
-*Character count: 295*
+Ill Will completely drains the PP of contact moves that defeat this Pokemon. When fainting to direct physical contact, the attacking move loses all remaining PP permanently. This vengeful ability punishes physical attackers for delivering the final blow.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-- **Activation Trigger**: Only when the Pokémon with Ill Will is knocked out (HP reaches 0)
+- **Activation Trigger**: Only when the Pokemon with Ill Will is knocked out (HP reaches 0)
 - **Move Requirement**: The finishing move must make contact with the defender
 - **PP Effect**: Sets the attacking move's PP to 0 (complete deletion, not reduction)
-- **Timing**: Activates immediately after the Pokémon faints from the contact move
+- **Timing**: Activates immediately after the Pokemon faints from the contact move
 
 ### Activation Conditions
 ```cpp
@@ -61,13 +59,13 @@ CHECK_NOT(IsBattlerAlive(battler))          // Defender must be defeated
 - **Sweeper Counter**: Particularly effective against physical setup sweepers
 
 ### Common Users
-Based on the species data, Ill Will appears on various Pokémon including:
+Based on the species data, Ill Will appears on various Pokemon including:
 - Ghost-types (thematically appropriate for vengeful spirits)
 - Dark-types (fits the malicious nature)
-- Pokémon with low defenses but high offensive potential
+- Pokemon with low defenses but high offensive potential
 
 ### Competitive Usage Notes
-- **Suicide Leads**: Particularly effective on Pokémon designed to trade favorably
+- **Suicide Leads**: Particularly effective on Pokemon designed to trade favorably
 - **Revenge Killer Deterrent**: Makes opponents think twice about using contact moves
 - **Team Support**: Protects teammates by punishing physical attackers
 - **Anti-Meta**: Counters physical-heavy metagames

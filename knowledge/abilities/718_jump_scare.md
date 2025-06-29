@@ -13,9 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Jump Scare automatically uses Astonish when the Pokémon switches into battle, but only on the first entry per battle. Astonish is a 40 power Ghost-type move with priority +3 that causes flinching. The one-time restriction prevents repeated switch abuse while maintaining surprise factor.
-
-*Character count: 295*
+Jump Scare automatically uses Astonish when the Pokemon switches into battle, but only on the first entry per battle. Astonish is a 40 power Ghost-type move with priority +3 that causes flinching. The one-time restriction prevents repeated switch abuse while maintaining surprise factor.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -66,14 +64,14 @@ constexpr Ability JumpScare = {
 - **Type coverage**: Ghost-type attack provides unique damage typing
 
 ### Battle Timing
-1. Pokémon switches into battle
+1. Pokemon switches into battle
 2. Jump Scare checks if already used this battle
 3. If not used, sets counter and uses Astonish
-4. Astonish targets opposing Pokémon with +3 priority
+4. Astonish targets opposing Pokemon with +3 priority
 5. 40 damage dealt (if not immune) and 100% flinch applied
 
 ### Competitive Usage
-- **Lead potential**: Strong on lead Pokémon for immediate pressure
+- **Lead potential**: Strong on lead Pokemon for immediate pressure
 - **Pivot abuse**: One-time strong switch-in option
 - **Setup disruption**: Can interrupt opponent's setup attempts
 - **Psychological pressure**: Opponents must respect the threat
@@ -95,9 +93,9 @@ constexpr Ability JumpScare = {
 - **Entry hazards**: Combines with Stealth Rock for chip damage
 
 ### Pokemon Distribution
-- Found as innate ability on certain Ghost-type Pokémon
-- Typically on Pokémon with mischievous or startling themes
-- Complements naturally bulky or support-oriented Pokémon
+- Found as innate ability on certain Ghost-type Pokemon
+- Typically on Pokemon with mischievous or startling themes
+- Complements naturally bulky or support-oriented Pokemon
 - Often paired with other entry abilities or intimidation effects
 
 ### Version History

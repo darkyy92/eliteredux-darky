@@ -15,8 +15,6 @@ character_count: 294
 
 Primal Maw causes all biting moves to hit twice in succession. The first hit deals full damage while the second hit deals 40% damage. Works with any move that has the Strong Jaw flag including Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, and Poison Fang.
 
-*Character count: 294*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -66,7 +64,7 @@ Various custom moves in Elite Redux also have the Strong Jaw flag and will trigg
 - **Contact moves**: Both hits make contact if the original move does
 - **Abilities**: Abilities that trigger on contact activate for both hits
 - **Life Orb/Rocky Helmet**: Damage/recoil applies for both hits
-- **Substitute**: Can break substitute with first hit, damage Pokémon with second
+- **Substitute**: Can break substitute with first hit, damage Pokemon with second
 - **Focus Sash/Band**: First hit can trigger Focus Sash, second hit can KO
 - **King's Rock/Razor Fang**: Each hit can trigger flinch chance
 
@@ -86,12 +84,12 @@ Total damage output: **140% of original move damage**
 
 ### Common Users
 - Physical attackers with access to biting moves
-- Pokémon with naturally high Attack stats
+- Pokemon with naturally high Attack stats
 - Dragon and Dark types with strong jaw-based movesets
-- Pokémon that rely on fang moves for coverage
+- Pokemon that rely on fang moves for coverage
 
 ### Competitive Usage Notes
-- **Meta positioning**: Strong against bulky defensive Pokémon
+- **Meta positioning**: Strong against bulky defensive Pokemon
 - **Item synergy**: Life Orb provides damage to both hits
 - **Coverage moves**: Makes weaker coverage fangs more viable
 - **Breaking point**: Can push certain matchups from 2HKO to OHKO
@@ -113,7 +111,7 @@ Total damage output: **140% of original move damage**
 - **Tough Claws**: Boosts contact biting moves further
 
 ### Ability Interactions
-- **Does NOT stack with**: Strong Jaw (different Pokémon would need both)
+- **Does NOT stack with**: Strong Jaw (different Pokemon would need both)
 - **Blocked by**: Mold Breaker effects that suppress abilities
 - **Enhanced by**: Items that boost physical attacks
 - **Countered by**: Abilities that punish contact (if biting move makes contact)

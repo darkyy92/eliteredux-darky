@@ -5,13 +5,9 @@ status: ai-generated
 character_count: 281
 ---
 
-# Snowy Wrath
+# Snowy Wrath - Ability ID 666
 
-**ID:** 666  
-**Type:** Combination Ability  
-**Components:** Snow Warning + Cryomancy
-
-## Short Description
+## In-Game Description
 Snow Warning + Cryomancy.
 
 ## Extended In-Game Description

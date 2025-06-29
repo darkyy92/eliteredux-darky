@@ -15,8 +15,6 @@ character_count: 291
 
 Own Tempo maintains perfect composure, granting immunity to confusion from all sources. Also blocks Intimidate's Attack drop and prevents the custom Scared status effect. Works against Swagger, Teeter Dance, and all confusion-inducing moves. Elite Redux expanded immunities beyond confusion.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -37,7 +35,7 @@ Handled through the `checktargetowntempoprotects` battle script macro:
 - **Attract**: Listed in some battle scripts suggesting possible interaction
 - **Self-Inflicted**: Prevents Outrage/Petal Dance confusion
 
-**Battle Message**: "Pokémon prevents confusion with [Own Tempo]!"
+**Battle Message**: "Pokemon prevents confusion with [Own Tempo]!"
 
 ### 2. Intimidate Immunity
 
@@ -81,8 +79,8 @@ Protects against the custom "Scared" status effect:
 - Grouped with other confusion-preventing abilities
 - Custom status immunities added for Elite Redux
 
-### Pokémon with Own Tempo
-Many Pokémon have access to Own Tempo as a changeable ability option in Elite Redux, significantly more than in the original games.
+### Pokemon with Own Tempo
+Many Pokemon have access to Own Tempo as a changeable ability option in Elite Redux, significantly more than in the original games.
 
 ### Competitive Usage Notes
 

@@ -2,24 +2,28 @@
 id: 398
 name: Fungal Infection
 status: ai-generated
-character_count: 0
+character_count: 289
 ---
 
-# Fungal Infection (Ability #398)
+# Fungal Infection - Ability ID 398
 
-## Basic Information
+## In-Game Description
+"Contact moves inflict Leech Seed on the target."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+When this Pokemon makes physical contact with an opponent, spores infect the target and begin draining health each turn. The parasitic infection saps 1/8 of the victim's max HP and transfers it to the attacker, creating a constant drain that weakens foes.
+
+## Detailed Mechanical Explanation
+
+### Basic Information
 - **ID**: 398
 - **Name**: Fungal Infection
 - **Type**: Contact-based Status Infliction
 - **Category**: Uncategorized
 
-## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
-**Official**: Contact moves inflict Leech Seed on the target.
-
-**Extended (289 chars)**: When this Pokemon makes physical contact with an opponent, spores infect the target and begin draining health each turn. The parasitic infection saps 1/8 of the victim's max HP and transfers it to the attacker, creating a constant drain that weakens foes.
-
-## Technical Implementation
+### Technical Implementation
 
 ### Code Location
 - **File**: `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc`

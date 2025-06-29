@@ -13,19 +13,17 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (exactly 280-300 chars)*
 
-Unburden doubles Speed when the Pokémon's held item is consumed or removed. The boost persists until the Pokémon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
-
-*Character count: 296*
+Unburden doubles Speed when the Pokemon's held item is consumed or removed. The boost persists until the Pokemon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-**UNBURDEN** is a Speed-boosting ability that activates when the Pokémon loses its held item through any means.
+**UNBURDEN** is a Speed-boosting ability that activates when the Pokemon loses its held item through any means.
 
 ### Activation Mechanics:
-- **Trigger**: When the Pokémon's held item becomes ITEM_NONE (removed/consumed)
+- **Trigger**: When the Pokemon's held item becomes ITEM_NONE (removed/consumed)
 - **Speed Boost**: Doubles Speed stat (2x multiplier)
-- **Duration**: Until the Pokémon switches out or gains a new item
+- **Duration**: Until the Pokemon switches out or gains a new item
 - **State Management**: Uses SetAbilityState/GetAbilityState system
 
 ### Technical Implementation:
@@ -68,8 +66,8 @@ else if (newItem == ITEM_NONE)
 ```
 
 ### Interaction Rules:
-- **Gaining Items**: Speed boost immediately deactivates if Pokémon receives any item
-- **Switch Out**: Speed boost is lost when Pokémon leaves battle
+- **Gaining Items**: Speed boost immediately deactivates if Pokemon receives any item
+- **Switch Out**: Speed boost is lost when Pokemon leaves battle
 - **Multiple Activations**: Can activate multiple times per battle if item is lost again
 - **Sticky Hold**: Prevents forced item removal, so Unburden won't activate from Knock Off/etc.
 
@@ -100,7 +98,7 @@ Unburden applies during stat calculation phase:
 - **Treecko line**: Fast Grass types with access to berries
 - **Slurpuff**: Fairy type with natural berry synergy
 - **Hitmonlee**: Fast Fighting type for physical sweeping
-- **Various custom Elite Redux Pokémon**: Speed-focused builds
+- **Various custom Elite Redux Pokemon**: Speed-focused builds
 
 ### Competitive Interactions:
 - **Acrobatics Synergy**: Flying move doubles power when user has no item
@@ -109,10 +107,10 @@ Unburden applies during stat calculation phase:
 - **Choice Items**: Cannot benefit as item isn't consumed, only locked
 
 ### Counters:
-1. **Trick/Switcheroo**: Force an item onto the Pokémon
+1. **Trick/Switcheroo**: Force an item onto the Pokemon
 2. **Priority Moves**: Bypass Speed advantage
 3. **Status Moves**: Paralysis cuts Speed, burns reduce Attack
-4. **Sticky Hold**: Prevents item removal on opposing Pokémon
+4. **Sticky Hold**: Prevents item removal on opposing Pokemon
 
 ### Synergies:
 - **White Herb**: Remove negative stat drops and gain Speed
@@ -129,7 +127,7 @@ Unburden applies during stat calculation phase:
 **Hawlucha @ Flying Gem**
 - Base Speed: 118
 - After Flying Gem consumed: 236 effective Speed
-- Acrobatics: 55 BP → 110 BP (no item) + STAB + gem boost
+- Acrobatics: 55 BP to 110 BP (no item) + STAB + gem boost
 - Result: Extremely fast, powerful Flying attack
 
 **Common Competitive Set:**

@@ -5,9 +5,19 @@ status: ai-generated
 character_count: 280
 ---
 
-# Sage Power (Ability #352)
+# Sage Power - Ability ID 352
 
-## Overview
+## In-Game Description
+"Boosts Special Attack by 50% but locks into first move used."
+
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Boosts Special Attack by 50% but locks into the first move used each battle. Functions like built-in Choice Specs. After selecting any move, you're stuck with it until switching out. Offers massive immediate power at the cost of flexibility. Perfect for dedicated special wallbreakers.
+
+## Detailed Mechanical Explanation
+
+### Overview
 
 Sage Power is a powerful ability that provides a substantial 50% boost to Special Attack damage at the cost of move flexibility. This ability combines the offensive power of Choice Specs with the permanence of an ability slot, making it ideal for specialized special attackers who can afford to commit to a single powerful move.
 
@@ -117,3 +127,4 @@ Based on the base stats data, the following Pokemon can have Sage Power as one o
 - The ability provides more immediate power than most other special attack boosting abilities
 - Careful team building is essential to support the move restriction limitation
 - Consider pairing with Pokemon that can remove or weaken the Pokemon's counters before bringing in the Sage Power user
+

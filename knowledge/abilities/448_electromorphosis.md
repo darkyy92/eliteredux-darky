@@ -13,19 +13,17 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Electromorphosis charges up the Pokémon when it takes damage from any attack. Once charged, the next Electric-type move used by the Pokémon deals double damage. The charge effect is consumed after using an Electric-type move with base power, resetting the cycle.
-
-*Character count: 284*
+Electromorphosis charges up the Pokemon when it takes damage from any attack. Once charged, the next Electric-type move used by the Pokemon deals double damage. The charge effect is consumed after using an Electric-type move with base power, resetting the cycle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Electromorphosis is an offensive ability that transforms damage taken into offensive power. When the Pokémon is hit by any damaging move, it gains a "charged up" status that doubles the power of its next Electric-type attack.
+Electromorphosis is an offensive ability that transforms damage taken into offensive power. When the Pokemon is hit by any damaging move, it gains a "charged up" status that doubles the power of its next Electric-type attack.
 
 ### Activation Conditions
 - **Trigger**: Taking damage from any attack that triggers the onDefender callback
-- **Status check**: Only activates if the Pokémon is not already charged up
+- **Status check**: Only activates if the Pokemon is not already charged up
 - **Hit requirement**: Must pass the `ShouldApplyOnHitAffect` check
 - **One-time effect**: Cannot stack multiple charges
 
@@ -65,7 +63,7 @@ if (currentMoveType == TYPE_ELECTRIC && gBattleMoves[gCurrentMove].power)
 - **Ability bypass**: Mold Breaker and similar abilities don't prevent the charge gain
 
 ### Charge Duration
-- **Persistence**: The charge lasts until consumed or the Pokémon switches out
+- **Persistence**: The charge lasts until consumed or the Pokemon switches out
 - **Switch out**: Charge is lost when switching out
 - **Fainting**: Charge is lost when fainting
 - **Turn limit**: No turn limit - charge persists indefinitely until used
@@ -93,13 +91,13 @@ if (currentMoveType == TYPE_ELECTRIC && gBattleMoves[gCurrentMove].power)
 - **Offensive pressure**: Creates immediate threat after taking damage
 - **Unpredictable**: Opponents must consider the charged state in their calculations
 - **Risk/reward**: Requires taking damage to gain benefit
-- **Electric synergy**: Most effective on Pokémon with strong Electric-type movesets
+- **Electric synergy**: Most effective on Pokemon with strong Electric-type movesets
 
 ### Common Users
-- Electric-type Pokémon with good mixed bulk
-- Pokémon with powerful Electric-type coverage moves
+- Electric-type Pokemon with good mixed bulk
+- Pokemon with powerful Electric-type coverage moves
 - Defensive pivots that can absorb hits reliably
-- Pokémon with recovery moves to maintain longevity
+- Pokemon with recovery moves to maintain longevity
 
 ### Counters
 - **Status moves**: Use non-damaging moves to avoid triggering the ability

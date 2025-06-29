@@ -15,8 +15,6 @@ character_count: 291
 
 Whiplash lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. Works with all physical moves including multi-hit attacks. The Defense drop occurs after damage, helping break through defensive walls and support teammates.
 
-*Character count: 291*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -64,7 +62,7 @@ constexpr Ability Whiplash = {
 - **Non-contact physical**: Rock Slide, Earthquake, etc.
 
 ### Strategic Applications
-- **Wall breaking**: Excellent for wearing down defensive Pokémon
+- **Wall breaking**: Excellent for wearing down defensive Pokemon
 - **Team support**: Weakens targets for teammates to finish
 - **Sweeper setup**: Creates opportunities for physical sweepers
 - **Pivot utility**: Can weaken foes before switching
@@ -87,10 +85,10 @@ constexpr Ability Whiplash = {
 
 ### Common Users
 - Physical attackers who want utility beyond just damage
-- Pokémon with good Speed and multiple physical moves
-- Lead Pokémon that can pressure early game
-- Pivot Pokémon that switch frequently
-- Pokémon with priority moves for guaranteed activation
+- Pokemon with good Speed and multiple physical moves
+- Lead Pokemon that can pressure early game
+- Pivot Pokemon that switch frequently
+- Pokemon with priority moves for guaranteed activation
 
 ### Competitive Usage Notes
 - **Early game pressure**: Excellent for gaining early advantages

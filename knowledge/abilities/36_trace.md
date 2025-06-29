@@ -13,9 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Trace copies the ability of an opposing Pokémon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, Receiver, or persistent abilities. In doubles, targets the first valid opponent. Does not copy innate abilities. Shows ability popup.
-
-*Character count: 282*
+Trace copies the ability of an opposing Pokemon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, Receiver, or persistent abilities. In doubles, targets the first valid opponent. Does not copy innate abilities. Shows ability popup.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,7 +24,7 @@ Trace copies the ability of an opposing Pokémon when entering battle, replacing
 - **Trigger**: Immediately upon entering battle (onEntry hook)
 - **Target Selection**: First checks direct opponent, then their partner if invalid
 - **Replacement**: Overwrites the Trace ability in its current slot
-- **Message**: "{Pokémon} Traced {Target}'s {Ability}!" followed by copied ability popup
+- **Message**: "{Pokemon} Traced {Target}'s {Ability}!" followed by copied ability popup
 - **Script**: Uses BattleScript_TraceActivatesEnd3 for display
 
 ### Target Selection Logic:
@@ -42,7 +40,7 @@ Trace copies the ability of an opposing Pokémon when entering battle, replacing
 - **Receiver** (ability copying ability)
 - **Persistent Abilities** (marked as persistent in ability data)
 - **Unsuppressable Abilities** (marked as unsuppressable)
-- **Abilities from fainted Pokémon**
+- **Abilities from fainted Pokemon**
 
 ### Elite Redux Multi-Ability Integration:
 - **Slot Replacement**: Replaces Trace in its current ability slot only
@@ -93,7 +91,7 @@ constexpr Ability Trace = {
 - **Scouting**: Reveals opponent's ability selection
 - **Momentum**: Can gain powerful abilities like Intimidate or weather setting
 - **Weakness**: Predictable targeting and slot replacement
-- **Synergy**: Best with Pokémon that can utilize diverse abilities effectively
+- **Synergy**: Best with Pokemon that can utilize diverse abilities effectively
 
 ### Common Strategies:
 - **Lead Usage**: Copy setup abilities like Drought or Drizzle

@@ -13,31 +13,29 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
 
-Gleam Eyes combines Frisk and Scare effects on entry. Checks and disables all opposing Pokémon's held items for two turns while lowering their Special Attack by one stage. This dual intimidation effect disrupts item-dependent strategies and weakens special attackers simultaneously.
-
-*Character count: 284*
+Gleam Eyes combines Frisk and Scare effects on entry. Checks and disables all opposing Pokemon's held items for two turns while lowering their Special Attack by one stage. This dual intimidation effect disrupts item-dependent strategies and weakens special attackers simultaneously.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Gleam Eyes is a combination ability that triggers two separate effects when the Pokémon enters battle:
-1. **Frisk Effect**: Reveals and disables opposing Pokémon's held items
-2. **Scare Effect**: Lowers opposing Pokémon's Special Attack by one stage
+Gleam Eyes is a combination ability that triggers two separate effects when the Pokemon enters battle:
+1. **Frisk Effect**: Reveals and disables opposing Pokemon's held items
+2. **Scare Effect**: Lowers opposing Pokemon's Special Attack by one stage
 
 ### Activation Conditions
-- **Trigger**: Activates automatically when the Pokémon switches into battle
-- **Targets**: Affects all opposing Pokémon on the field
+- **Trigger**: Activates automatically when the Pokemon switches into battle
+- **Targets**: Affects all opposing Pokemon on the field
 - **Priority**: Both effects trigger simultaneously on entry
 
 ### Frisk Component
-- **Item Detection**: Reveals what items the opposing Pokémon are holding
-- **Item Disable**: Disables the effects of opposing Pokémon's held items for 2 turns
-- **Scope**: Affects all opposing Pokémon currently on the field
+- **Item Detection**: Reveals what items the opposing Pokemon are holding
+- **Item Disable**: Disables the effects of opposing Pokemon's held items for 2 turns
+- **Scope**: Affects all opposing Pokemon currently on the field
 - **Message**: Displays item information to the player
 
 ### Scare Component  
-- **Stat Reduction**: Lowers opposing Pokémon's Special Attack by one stage
+- **Stat Reduction**: Lowers opposing Pokemon's Special Attack by one stage
 - **Implementation**: Uses the same mechanism as Intimidate but targets Sp. Attack instead of Attack
 - **Resistance**: Can be blocked by abilities that prevent stat reduction (Clear Body, White Smoke, etc.)
 - **Immunities**: Inner Focus, Own Tempo, Oblivious, Scrappy, and Overwhelm provide immunity
@@ -73,7 +71,7 @@ constexpr Ability GleamEyes = {
 ### Strategic Applications
 - **Special Wall Counter**: Weakens special attackers before they can set up
 - **Item Disruption**: Disables key items like Leftovers, Choice items, and berries
-- **Lead Pokémon**: Excellent for leading to cripple opposing team setup
+- **Lead Pokemon**: Excellent for leading to cripple opposing team setup
 - **Pivot Support**: Great for switching in to disrupt opposing strategies
 - **Doubles/Triples**: Affects multiple opponents simultaneously
 
@@ -94,7 +92,7 @@ constexpr Ability GleamEyes = {
 - **Entry Hazards**: Consider Stealth Rock damage when switching in frequently
 - **Prediction Required**: Best used when opponent likely to stay in
 - **Late Game**: Less effective when items already consumed
-- **Speed Control**: Pair with faster Pokémon to capitalize on weakened foes
+- **Speed Control**: Pair with faster Pokemon to capitalize on weakened foes
 
 ### Version History
 - Custom ability in Elite Redux

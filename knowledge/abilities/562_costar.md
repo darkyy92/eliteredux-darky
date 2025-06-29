@@ -15,8 +15,6 @@ character_count: 284
 
 Costar copies all stat stage changes from the ally when switching in during doubles battles. If the ally has +2 Attack and -1 Defense, the Costar user gains the exact same stat modifications. Only works with a living ally and applies to all seven battle stats including accuracy and evasion.
 
-*Character count: 284*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -47,7 +45,7 @@ constexpr Ability Costar = {
 ```
 
 ### Battle Message
-When activated: "{Pokémon} copied its ally's stat changes!"
+When activated: "{Pokemon} copied its ally's stat changes!"
 
 ### Doubles Battle Mechanics
 - **Partner Detection**: Uses `BATTLE_PARTNER(battler)` to identify ally
@@ -62,7 +60,7 @@ When activated: "{Pokémon} copied its ally's stat changes!"
 - **Double Intimidate**: Can copy ally's Attack drops from opposing Intimidate
 
 ### Strategic Team Building
-- **Setup Partners**: Pokémon with boosting moves (Swords Dance, Calm Mind, etc.)
+- **Setup Partners**: Pokemon with boosting moves (Swords Dance, Calm Mind, etc.)
 - **Baton Pass**: Combines well with Baton Pass teams in doubles
 - **Stat Boost Abuse**: Maximizes value of temporary stat increases
 - **Entry Hazard Support**: Switch-in timing becomes crucial with hazards present

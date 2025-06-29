@@ -5,26 +5,22 @@ status: ai-generated
 character_count: 285
 ---
 
-# Last Stand
+# Last Stand - Ability ID 634
 
-**Ability ID**: 634
-**Type**: Regular Ability
-
-**In-Game Description**: "Def and SpDef increase as HP drops. Max 1.6x."
+## In-Game Description
+"Def and SpDef increase as HP drops. Max 1.6x."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 × missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
+Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 x missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
 
-*Character count: 295*
+## Detailed Mechanical Explanation
 
-## Detailed Mechanical Explanation (Discord/Reference)
-
-**Last Stand** provides a dynamic defensive boost that scales continuously with missing HP percentage, making the Pokémon more defensive as it becomes more damaged.
+**Last Stand** provides a dynamic defensive boost that scales continuously with missing HP percentage, making the Pokemon more defensive as it becomes more damaged.
 
 ### Core Formula
-`stat × (1 + 0.6 × missingHPPercent)`
+`stat x (1 + 0.6 x missingHPPercent)`
 
 Where `missingHPPercent` is calculated as `(maxHP - currentHP) / maxHP`
 

@@ -15,8 +15,6 @@ character_count: 290
 
 Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, and Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers bypassing physical walls and gaining diverse coverage.
 
-*Character count: 290*
-
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
@@ -75,7 +73,7 @@ constexpr Ability MysticBlades = {
 - **Solar Blade**: Becomes a 125 BP special Grass move in sun (162.5 BP after boost)
 - **Sacred Sword**: Ignores defense boosts as a special move
 - **Night Slash**: High crit special Dark move
-- **Leaf Blade**: 90 BP → 117 BP special Grass with high crit
+- **Leaf Blade**: 90 BP to 117 BP special Grass with high crit
 
 ### Damage Comparisons:
 **Example: Alakazam with Mystic Blades** (135 Special Attack):

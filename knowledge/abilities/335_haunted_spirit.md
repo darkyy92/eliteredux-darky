@@ -2,33 +2,43 @@
 id: 335
 name: Haunted Spirit
 status: ai-generated
-character_count: 0
+character_count: 297
 ---
 
-# Haunted Spirit (Ability #335)
+# Haunted Spirit - Ability ID 335
 
-## Overview
-Haunted Spirit is a defensive retaliation ability that punishes opponents for knocking out its user with contact moves. When the Pokémon with this ability faints, it leaves behind a spiritual curse that continuously damages the attacker.
+## In-Game Description
+"Curses the attacker when knocked out by a contact move."
 
-## Mechanics
+## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
+Haunted Spirit curses the attacker when knocked out by a contact move. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse. The ability only triggers when the user is KO'd by contact moves, not special moves.
+
+## Detailed Mechanical Explanation
+
+### Overview
+Haunted Spirit is a defensive retaliation ability that punishes opponents for knocking out its user with contact moves. When the Pokemon with this ability faints, it leaves behind a spiritual curse that continuously damages the attacker.
+
+### Mechanics
 
 ### Activation Conditions
-1. **KO Requirement**: The Pokémon must be knocked out (reduced to 0 HP)
+1. **KO Requirement**: The Pokemon must be knocked out (reduced to 0 HP)
 2. **Contact Move**: The move that deals the final blow must make contact
-3. **Attacker Type**: The attacker cannot be a Ghost-type Pokémon
+3. **Attacker Type**: The attacker cannot be a Ghost-type Pokemon
 4. **Status Check**: The attacker must not already be cursed
 
 ### Curse Effect Details
-- **Damage**: 1/4 of the cursed Pokémon's maximum HP per turn
+- **Damage**: 1/4 of the cursed Pokemon's maximum HP per turn
 - **Timing**: Damage occurs at the end of each turn during the "curse damage" phase
-- **Duration**: Persists until the cursed Pokémon switches out or faints
+- **Duration**: Persists until the cursed Pokemon switches out or faints
 - **Minimum Damage**: At least 1 HP if calculated damage would be 0
 - **Protection**: Magic Guard and similar abilities prevent curse damage
 
 ### Implementation Specifics
 The ability uses the `onDefender` trigger with the following checks:
 - `ShouldApplyOnHitAffect(attacker)` - Standard hit effect validation
-- `!IsBattlerAlive(battler)` - Pokémon must be KO'd
+- `!IsBattlerAlive(battler)` - Pokemon must be KO'd
 - `!IS_BATTLER_OF_TYPE(attacker, TYPE_GHOST)` - Ghost-types are immune
 - `!(gBattleMons[attacker].status2 & STATUS2_CURSED)` - No double cursing
 - `IsMoveMakingContact(move, attacker)` - Contact move requirement
@@ -36,7 +46,7 @@ The ability uses the `onDefender` trigger with the following checks:
 ## Strategic Applications
 
 ### Defensive Usage
-- **Tank Punishment**: Forces opponents to think twice about using contact moves to finish off bulky Pokémon
+- **Tank Punishment**: Forces opponents to think twice about using contact moves to finish off bulky Pokemon
 - **Physical Wall Counter**: Particularly effective against physical attackers who rely on contact moves
 - **Entry Hazard Synergy**: Combines well with hazards to wear down switch-ins after the curse
 
@@ -62,8 +72,8 @@ The ability uses the `onDefender` trigger with the following checks:
 
 ### Status Mechanics
 - Curse stacks with other damage-over-time effects (poison, burn, etc.)
-- Does not prevent the cursed Pokémon from using moves
-- Visual indicator appears on the cursed Pokémon during battle
+- Does not prevent the cursed Pokemon from using moves
+- Visual indicator appears on the cursed Pokemon during battle
 - AI recognizes curse status when calculating move values
 
 ### Battle Scenarios
@@ -80,7 +90,7 @@ The ability uses the `onDefender` trigger with the following checks:
 - Psychological deterrent effect
 
 ### Weaknesses
-- Requires the Pokémon to faint to activate
+- Requires the Pokemon to faint to activate
 - Limited to contact moves only
 - Ghost-types completely bypass the effect
 - One-time use per battle appearance
@@ -88,8 +98,8 @@ The ability uses the `onDefender` trigger with the following checks:
 ### Tier Placement: B-tier
 While situational, Haunted Spirit provides valuable utility in the right circumstances. The ability to guarantee significant damage after fainting makes it a respectable defensive option, though its reliance on specific conditions prevents it from reaching higher tiers.
 
-## Pokémon Distribution
-This ability appears on Ghost-type Pokémon that thematically align with spiritual revenge concepts. Check the species data files for current distribution.
+## Pokemon Distribution
+This ability appears on Ghost-type Pokemon that thematically align with spiritual revenge concepts. Check the species data files for current distribution.
 
 ## Related Abilities
 - **Aftermath**: Damages attackers when KO'd by contact moves (fixed damage)
@@ -102,3 +112,4 @@ This ability appears on Ghost-type Pokémon that thematically align with spiritu
 - **Battle Script**: `data/battle_scripts_1.s` (BattleScript_HauntedSpiritActivated)
 - **Status Handling**: `src/battle_util.c` (ENDTURN_CURSE case)
 - **Ability ID**: 335 (ABILITY_HAUNTED_SPIRIT)
+
