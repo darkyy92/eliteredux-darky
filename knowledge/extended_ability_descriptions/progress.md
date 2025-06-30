@@ -10,7 +10,7 @@ In Progress: 0
 |-----|----------------------------|---------|----------|
 |   0 | None                       | ❌       | ❌        |
 |   1 | Stench                     | ✅       | ✅        |
-|   2 | Drizzle                    | ✅       | ❌        |
+|   2 | Drizzle                    | ✅       | ✅        |
 |   3 | Speed Boost                | ✅       | ❌        |
 |   4 | Battle Armor               | ✅       | ✅        |
 |   5 | Sturdy                     | ✅       | ✅        |

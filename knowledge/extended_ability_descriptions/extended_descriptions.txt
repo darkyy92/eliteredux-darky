@@ -2,7 +2,7 @@
 Damaging moves gain +10% flinch chance, which stacks additively with existing flinch chances and King's Rock. This affects all damaging moves, including each hit of multihit moves. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party.
 
 # ID: 2
-Drizzle summons rain weather when the Pokemon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Thunder and Hurricane never miss. Activates Swift Swim, Rain Dish, and Dry Skin abilities. Cannot override primal weather conditions.
+Drizzle summons rain weather when the Pokemon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Certain moves and abilities have special interactions with rain. Cannot override primal weather conditions.
 
 # ID: 3
 Speed Boost raises user's Speed by one stage at end of each turn they remain on field. Doesn't activate on entry turn or when switching in. Continues building speed until reaching maximum (+6 stages). Creates powerful momentum and makes user increasingly threatening in extended battles.

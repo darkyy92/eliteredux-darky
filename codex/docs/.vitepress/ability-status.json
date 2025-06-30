@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 4,
+    "completed": 5,
     "written": 875,
     "pending": 1,
     "generated_at": null
@@ -25,8 +25,8 @@
       "id": 2,
       "name": "Drizzle",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "3": {
       "id": 3,
@@ -6154,10 +6154,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "2": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "3": {
       "indicator": "🟠",
