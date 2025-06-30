@@ -1,8 +1,8 @@
 ---
 id: 15
 name: Insomnia
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 295
 ---
 
 # Insomnia - Ability ID 15
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities.
+Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities. TEST
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
