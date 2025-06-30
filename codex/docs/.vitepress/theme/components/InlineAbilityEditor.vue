@@ -219,6 +219,27 @@ function stripFrontmatter(content) {
   return content
 }
 
+// Helper function to update status in frontmatter
+function updateStatusToReviewed(content) {
+  if (!content.startsWith('---\n')) return content
+  
+  const match = content.match(/^---\n(.*?)\n---\n(.*)$/s)
+  if (!match) return content
+  
+  let frontmatter = match[1]
+  const body = match[2]
+  
+  // Update status to reviewed
+  if (frontmatter.includes('status:')) {
+    frontmatter = frontmatter.replace(/status:\s*[^\n]+/, 'status: reviewed')
+  } else {
+    // Add status if it doesn't exist
+    frontmatter += '\nstatus: reviewed'
+  }
+  
+  return `---\n${frontmatter}\n---\n${body}`
+}
+
 // Improved function to extract extended description
 function extractExtendedDescription(content) {
   if (!content) return ''
@@ -571,6 +592,9 @@ async function submitToGitHub() {
     
     const fileData = await response.json()
     
+    // Update status to reviewed before saving
+    const contentWithReviewedStatus = updateStatusToReviewed(editedContent.value)
+    
     // Commit the updated content
     const commitResponse = await fetch(
       `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
@@ -583,7 +607,7 @@ async function submitToGitHub() {
         },
         body: JSON.stringify({
           message: `docs: Update ${abilityInfo.value.name} ability description`,
-          content: btoa(editedContent.value),
+          content: btoa(contentWithReviewedStatus),
           sha: fileData.sha,
           branch: 'main'
         })
@@ -595,8 +619,9 @@ async function submitToGitHub() {
       throw new Error(errorData.message || 'Failed to save changes')
     }
     
-    // Update original content to reflect saved state
-    originalContent.value = editedContent.value
+    // Update original content to reflect saved state (with reviewed status)
+    originalContent.value = contentWithReviewedStatus
+    editedContent.value = contentWithReviewedStatus
     
     alert(`Successfully saved changes to ${abilityInfo.value.name}!`)
     collapseEditor()
