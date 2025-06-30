@@ -144,3 +144,85 @@ td {
 .status-pending {
   color: #9E9E9E;
 }
+
+/* Enhanced active sidebar item styling */
+.VPSidebarItem.is-active > .item {
+  position: relative;
+  background-color: var(--vp-c-brand-soft);
+  border-left: 4px solid var(--vp-c-brand);
+  margin-left: -4px;
+  font-weight: 600;
+  transition: all 0.25s ease;
+}
+
+/* Active item background colors */
+:root:not(.dark) .VPSidebarItem.is-active > .item {
+  background-color: rgba(100, 108, 255, 0.12);
+}
+
+.dark .VPSidebarItem.is-active > .item {
+  background-color: rgba(100, 108, 255, 0.18);
+}
+
+/* Ensure proper padding for active items */
+.VPSidebarItem.is-active > .item .link {
+  padding-left: 20px; /* Compensate for border */
+}
+
+/* Hover state for active items */
+.VPSidebarItem.is-active > .item:hover {
+  background-color: var(--vp-c-brand-light);
+}
+
+:root:not(.dark) .VPSidebarItem.is-active > .item:hover {
+  background-color: rgba(100, 108, 255, 0.18);
+}
+
+.dark .VPSidebarItem.is-active > .item:hover {
+  background-color: rgba(100, 108, 255, 0.25);
+}
+
+/* Active item text color for better contrast */
+.VPSidebarItem.is-active .text {
+  color: var(--vp-c-brand) !important;
+}
+
+/* Add subtle animation when item becomes active */
+@keyframes activeHighlight {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(2px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.VPSidebarItem.is-active > .item {
+  animation: activeHighlight 0.3s ease-out;
+}
+
+/* Ensure scrollbar is visible in sidebar for better UX */
+.VPSidebar .content {
+  scrollbar-width: thin;
+  scrollbar-color: var(--vp-c-divider) transparent;
+}
+
+.VPSidebar .content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.VPSidebar .content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.VPSidebar .content::-webkit-scrollbar-thumb {
+  background-color: var(--vp-c-divider);
+  border-radius: 3px;
+}
+
+.VPSidebar .content::-webkit-scrollbar-thumb:hover {
+  background-color: var(--vp-c-divider-light);
+}
