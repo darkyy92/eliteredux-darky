@@ -9,7 +9,7 @@ In Progress: 0
 | ID  | Ability Name               | Written | Reviewed |
 |-----|----------------------------|---------|----------|
 |   0 | None                       | ❌       | ❌        |
-|   1 | Stench                     | ✅       | ❌        |
+|   1 | Stench                     | ✅       | ✅        |
 |   2 | Drizzle                    | ✅       | ❌        |
 |   3 | Speed Boost                | ✅       | ❌        |
 |   4 | Battle Armor               | ✅       | ✅        |

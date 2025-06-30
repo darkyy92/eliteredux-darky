@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 1,
+    "completed": 2,
     "written": 875,
     "pending": 1,
     "generated_at": null
@@ -18,8 +18,8 @@
       "id": 1,
       "name": "Stench",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "2": {
       "id": 2,
@@ -6148,10 +6148,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "1": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "2": {
       "indicator": "🟠",
