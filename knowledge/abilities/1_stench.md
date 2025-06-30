@@ -1,8 +1,8 @@
 ---
 id: 1
 name: Stench
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 268
 ---
 
 # Stench - Ability ID 1
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Moves that can flinch now have an extra 10% chance to make the target unable to move this turn. Works on both contact and non-contact moves affected by King's Rock. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party. Stacks with existing flinch chances.
+Damaging moves gain +10% flinch chance, which stacks additively with existing flinch chances and King's Rock. This affects all damaging moves, including each hit of multihit moves. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
