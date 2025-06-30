@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 5,
+    "completed": 6,
     "written": 875,
     "pending": 1,
     "generated_at": null
@@ -116,8 +116,8 @@
       "id": 15,
       "name": "Insomnia",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "16": {
       "id": 16,
@@ -6232,10 +6232,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "15": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "16": {
       "indicator": "🟠",
