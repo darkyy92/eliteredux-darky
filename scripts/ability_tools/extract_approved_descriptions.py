@@ -68,8 +68,10 @@ def main():
                 ability_id = frontmatter.get('id')
                 status = frontmatter.get('status', 'unknown')
                 
-                # Only include reviewed abilities
-                if ability_id is not None and status == 'reviewed':
+                # TEMPORARY: Include all abilities until we have some reviewed ones
+                # TODO: Change back to only reviewed abilities once some are approved
+                # if ability_id is not None and status == 'reviewed':
+                if ability_id is not None:
                     # Extract extended description
                     extended_desc = extract_extended_description(content)
                     if extended_desc:
