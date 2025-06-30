@@ -3,9 +3,9 @@ name: Regenerate Ability Files
 on:
   push:
     branches:
-      - upcoming
+      - main
     paths:
-      - 'eliteredux-darky/knowledge/abilities/*.md'
+      - 'knowledge/abilities/*.md'
   workflow_dispatch:
 
 jobs:
@@ -29,8 +29,6 @@ jobs:
           
       - name: Run regeneration scripts
         run: |
-          cd eliteredux-darky
-          
           echo "🔄 Regenerating progress.md..."
           python scripts/ability_tools/generate_progress.py
           
@@ -45,9 +43,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add eliteredux-darky/knowledge/extended_ability_descriptions/progress.md
-          git add eliteredux-darky/knowledge/extended_ability_descriptions/extended_descriptions.txt
-          git add eliteredux-darky/codex/docs/.vitepress/ability-status.json
+          git add knowledge/extended_ability_descriptions/progress.md
+          git add knowledge/extended_ability_descriptions/extended_descriptions.txt
+          git add codex/docs/.vitepress/ability-status.json
           
           if git diff --staged --quiet; then
             echo "No changes to commit"

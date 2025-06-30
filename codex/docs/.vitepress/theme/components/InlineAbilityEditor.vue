@@ -188,8 +188,8 @@ const approving = ref(false)
 // The token is loaded from environment variable VITE_GITHUB_TOKEN
 // Set this in your .env.local file: VITE_GITHUB_TOKEN=ghp_yourtoken
 const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN || ''
-const REPO_OWNER = 'Elite-Redux'
-const REPO_NAME = 'eliteredux-source'
+const REPO_OWNER = 'darkyy92'
+const REPO_NAME = 'eliteredux-darky'
 
 // Check if this is an ability page
 const isAbilityPage = computed(() => {
@@ -537,20 +537,27 @@ async function submitToGitHub() {
   error.value = ''
   
   try {
-    const filePath = `eliteredux-darky/knowledge/abilities/${abilityInfo.value.filename}.md`
+    const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
+    const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`
+    
+    console.log('Saving to repository:', `${REPO_OWNER}/${REPO_NAME}`)
+    console.log('File path:', filePath)
+    console.log('API URL:', apiUrl)
+    console.log('Token present:', GITHUB_TOKEN ? 'Yes' : 'No')
     
     // Get current file info from GitHub
-    const response = await fetch(
-      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
-      {
-        headers: {
-          'Authorization': `token ${GITHUB_TOKEN}`,
-          'Accept': 'application/vnd.github.v3+json'
-        }
+    const response = await fetch(apiUrl, {
+      headers: {
+        'Authorization': `token ${GITHUB_TOKEN}`,
+        'Accept': 'application/vnd.github.v3+json'
       }
-    )
+    })
+    
+    console.log('Response status:', response.status)
     
     if (!response.ok) {
+      const errorData = await response.json()
+      console.error('GitHub API error:', errorData)
       throw new Error(`Failed to get file info: ${response.statusText}`)
     }
     
@@ -570,7 +577,7 @@ async function submitToGitHub() {
           message: `docs: Update ${abilityInfo.value.name} ability description`,
           content: btoa(editedContent.value),
           sha: fileData.sha,
-          branch: 'upcoming'
+          branch: 'main'
         })
       }
     )
@@ -633,7 +640,7 @@ async function approveAbility() {
   approving.value = true
   
   try {
-    const filePath = `eliteredux-darky/knowledge/abilities/${abilityInfo.value.filename}.md`
+    const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
     
     // Step 1: Get current file content from GitHub
     const getResponse = await fetch(
@@ -673,7 +680,7 @@ async function approveAbility() {
           message: `Approved ability ${abilityInfo.value.id} ${abilityInfo.value.name}`,
           content: btoa(updatedContent),
           sha: fileData.sha,
-          branch: 'upcoming'
+          branch: 'main'
         })
       }
     )
@@ -786,7 +793,7 @@ onMounted(async () => {
   if (isAbilityPage.value && abilityInfo.value.filename) {
     try {
       // Try to load content from GitHub to check status
-      const filePath = `eliteredux-darky/knowledge/abilities/${abilityInfo.value.filename}.md`
+      const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
       const response = await fetch(
         `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
         {
