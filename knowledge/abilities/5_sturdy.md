@@ -1,8 +1,8 @@
 ---
 id: 5
 name: Sturdy
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 171
 ---
 
 # Sturdy - Ability ID 5
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks. Perfect for hazard leads to guarantee Stealth Rock, or Shell Smash users for a safe setup turn at full health.
+When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
