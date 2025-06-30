@@ -632,7 +632,7 @@ async function submitToGitHub() {
     originalContent.value = contentWithReviewedStatus
     editedContent.value = contentWithReviewedStatus
     
-    alert(`Successfully saved changes to ${abilityInfo.value.name}!\n\nNote: Changes may take 3-5 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
+    alert(`Successfully saved changes to ${abilityInfo.value.name}!\n\nNote: Changes may take up to 3 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
     collapseEditor()
     
   } catch (err) {
@@ -736,9 +736,9 @@ async function approveAbility() {
     editedContent.value = updatedContent
     
     // Step 5: Show success message
-    alert(`Successfully approved ${abilityInfo.value.name}!\n\nNote: Changes may take 3-5 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
+    alert(`Successfully approved ${abilityInfo.value.name}!\n\nNote: Changes may take up to 3 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
     
-    // Don't auto-reload since changes take 3-5 minutes to propagate
+    // Don't auto-reload since changes take up to 3 minutes to propagate
     
   } catch (error) {
     console.error('Error approving ability:', error)
