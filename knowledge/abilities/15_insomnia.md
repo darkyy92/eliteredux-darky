@@ -1,7 +1,7 @@
 ---
 id: 15
 name: Insomnia
-status: ai-generated
+status: reviewed
 character_count: 290
 ---
 
