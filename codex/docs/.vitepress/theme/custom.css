@@ -122,6 +122,16 @@ td {
   gap: 0.25rem;
 }
 
+/* Add subtle hover effect to all sidebar items */
+.VPSidebarItem > .item {
+  border-radius: 6px;
+  margin: 1px 8px;
+}
+
+.VPSidebarItem:not(.is-active) > .item:hover {
+  background-color: var(--vp-c-bg-soft);
+}
+
 /* Completed abilities (green checkmark) */
 .VPSidebarItem .text:has(✅) {
   color: var(--vp-c-text-1);
@@ -145,64 +155,67 @@ td {
   color: #9E9E9E;
 }
 
-/* Enhanced active sidebar item styling */
+/* Enhanced active sidebar item styling - Clean modern design */
 .VPSidebarItem.is-active > .item {
   position: relative;
-  background-color: var(--vp-c-brand-soft);
-  border-left: 4px solid var(--vp-c-brand);
-  margin-left: -4px;
+  margin: 3px 10px 3px 6px;
+  border-radius: 10px;
   font-weight: 600;
-  transition: all 0.25s ease;
+  overflow: hidden;
 }
 
-/* Active item background colors */
+/* Create the left accent bar */
+.VPSidebarItem.is-active > .item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--vp-c-brand);
+}
+
+/* Light theme active item */
 :root:not(.dark) .VPSidebarItem.is-active > .item {
-  background-color: rgba(100, 108, 255, 0.12);
+  background: linear-gradient(to right, 
+    rgba(100, 108, 255, 0.1) 0%, 
+    rgba(100, 108, 255, 0.05) 100%);
+  box-shadow: 0 1px 4px rgba(100, 108, 255, 0.1);
 }
 
+/* Dark theme active item */
 .dark .VPSidebarItem.is-active > .item {
-  background-color: rgba(100, 108, 255, 0.18);
-}
-
-/* Ensure proper padding for active items */
-.VPSidebarItem.is-active > .item .link {
-  padding-left: 20px; /* Compensate for border */
+  background: linear-gradient(to right, 
+    rgba(100, 108, 255, 0.18) 0%, 
+    rgba(100, 108, 255, 0.08) 100%);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* Hover state for active items */
-.VPSidebarItem.is-active > .item:hover {
-  background-color: var(--vp-c-brand-light);
-}
-
 :root:not(.dark) .VPSidebarItem.is-active > .item:hover {
-  background-color: rgba(100, 108, 255, 0.18);
+  background: linear-gradient(to right, 
+    rgba(100, 108, 255, 0.15) 0%, 
+    rgba(100, 108, 255, 0.08) 100%);
 }
 
 .dark .VPSidebarItem.is-active > .item:hover {
-  background-color: rgba(100, 108, 255, 0.25);
+  background: linear-gradient(to right, 
+    rgba(100, 108, 255, 0.22) 0%, 
+    rgba(100, 108, 255, 0.1) 100%);
 }
 
-/* Active item text color for better contrast */
+/* Active item text - keep it clean */
 .VPSidebarItem.is-active .text {
-  color: var(--vp-c-brand) !important;
+  color: var(--vp-c-text-1);
+  position: relative;
 }
 
-/* Add subtle animation when item becomes active */
-@keyframes activeHighlight {
-  0% {
-    transform: translateX(0);
-  }
-  50% {
-    transform: translateX(2px);
-  }
-  100% {
-    transform: translateX(0);
-  }
+/* Ensure proper spacing for the link text */
+.VPSidebarItem.is-active > .item .link {
+  padding-left: 16px;
+  padding-right: 12px;
 }
 
-.VPSidebarItem.is-active > .item {
-  animation: activeHighlight 0.3s ease-out;
-}
 
 /* Ensure scrollbar is visible in sidebar for better UX */
 .VPSidebar .content {
