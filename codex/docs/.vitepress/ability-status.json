@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 2,
+    "completed": 3,
     "written": 875,
     "pending": 1,
     "generated_at": null
@@ -46,8 +46,8 @@
       "id": 5,
       "name": "Sturdy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "6": {
       "id": 6,
@@ -6172,10 +6172,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "5": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "6": {
       "indicator": "🟠",

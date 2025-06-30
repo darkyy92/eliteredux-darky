@@ -13,7 +13,7 @@ In Progress: 0
 |   2 | Drizzle                    | ✅       | ❌        |
 |   3 | Speed Boost                | ✅       | ❌        |
 |   4 | Battle Armor               | ✅       | ✅        |
-|   5 | Sturdy                     | ✅       | ❌        |
+|   5 | Sturdy                     | ✅       | ✅        |
 |   6 | Damp                       | ✅       | ❌        |
 |   7 | Limber                     | ✅       | ❌        |
 |   8 | Sand Veil                  | ✅       | ❌        |
