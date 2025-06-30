@@ -237,6 +237,15 @@ function updateStatusToReviewed(content) {
     frontmatter += '\nstatus: reviewed'
   }
   
+  // Update character count
+  const charCount = extractExtendedDescription(content).length
+  if (frontmatter.includes('character_count:')) {
+    frontmatter = frontmatter.replace(/character_count:\s*[^\n]+/, `character_count: ${charCount}`)
+  } else {
+    // Add character_count if it doesn't exist
+    frontmatter += `\ncharacter_count: ${charCount}`
+  }
+  
   return `---\n${frontmatter}\n---\n${body}`
 }
 
