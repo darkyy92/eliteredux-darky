@@ -41,7 +41,7 @@ Cloud Nine clears all weather upon switch-in and nullifies weather effects while
 Compound Eyes grants a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokemon are 4x more likely to hold items when this leads your party. Essential for status users.
 
 # ID: 15
-Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities.
+Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities. TEST
 
 # ID: 16
 Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major defensive upgrade from original ability.
