@@ -2,7 +2,7 @@
 id: 854
 name: Gnashing Cannon
 status: ai-generated
-character_count: 292
+character_count: 272
 ---
 
 # Gnashing Cannon - Ability ID 854
@@ -12,6 +12,7 @@ Mega Launcher + Mind Crunch.
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Boosts the power of aura and pulse moves by 30%. Additionally, biting moves get a 30% power boost and use Special Attack instead of Attack for damage calculation. This devastating combination transforms both projectile-based and jaw attacks into fearsome special assaults.
 
 ## Detailed Mechanical Explanation

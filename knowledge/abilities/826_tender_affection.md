@@ -2,7 +2,7 @@
 id: 826
 name: Tender Affection
 status: ai-generated
-character_count: 294
+character_count: 296
 ---
 
 # Tender Affection - Ability ID 826
@@ -12,6 +12,7 @@ Cute Charm + Fairy STAB.
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Combines Cute Charm's 50% chance to infatuate attackers on contact with Same Type Attack Bonus for Fairy-type moves. The infatuation effect triggers when hit by physical contact moves from opposite gender Pokemon. Fairy-type moves gain 1.5x damage multiplier regardless of the user's actual type.
 
 ## Detailed Mechanical Explanation

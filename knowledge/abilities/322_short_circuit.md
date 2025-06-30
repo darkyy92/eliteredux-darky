@@ -12,6 +12,7 @@ character_count: 295
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Short Circuit functions as a type-specific swarm ability for Electric-type moves. When the Pokemon's HP is above 1/3 of its maximum HP, Electric-type moves receive a 1.2x power boost. When HP drops to 1/3 or below, the boost increases to 1.5x, providing extra power when the Pokemon is weakened.
 
 ## Implementation Details

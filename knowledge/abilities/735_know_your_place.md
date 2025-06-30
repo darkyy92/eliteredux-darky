@@ -2,7 +2,7 @@
 id: 735
 name: Know Your Place
 status: ai-generated
-character_count: 286
+character_count: 262
 ---
 
 # Know Your Place - Ability ID 735
@@ -12,6 +12,7 @@ character_count: 286
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Contact moves inflict dazed status for 5 turns. Dazed Pokemon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokemon compete normally among themselves. Status effect does not stack or refresh on already dazed targets.
 
 ## Detailed Mechanical Explanation
