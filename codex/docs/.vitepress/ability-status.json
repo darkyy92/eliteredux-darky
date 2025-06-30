@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 0,
+    "completed": 1,
     "written": 875,
     "pending": 1,
     "generated_at": null
@@ -39,8 +39,8 @@
       "id": 4,
       "name": "Battle Armor",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "5": {
       "id": 5,
@@ -6166,10 +6166,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "4": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "5": {
       "indicator": "🟠",

@@ -8,7 +8,7 @@ Drizzle summons rain weather when the Pokemon enters battle, lasting 8 turns (12
 Speed Boost raises user's Speed by one stage at end of each turn they remain on field. Doesn't activate on entry turn or when switching in. Continues building speed until reaching maximum (+6 stages). Creates powerful momentum and makes user increasingly threatening in extended battles.
 
 # ID: 4
-This Pokemon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokemon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by a good amount.
+This Pokemon's armor prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokemon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk.
 
 # ID: 5
 When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks. Perfect for hazard leads to guarantee Stealth Rock, or Shell Smash users for a safe setup turn at full health.
