@@ -15,7 +15,7 @@ In Progress: 0
 |   4 | Battle Armor               | ✅       | ✅        |
 |   5 | Sturdy                     | ✅       | ✅        |
 |   6 | Damp                       | ✅       | ❌        |
-|   7 | Limber                     | ✅       | ❌        |
+|   7 | Limber                     | ✅       | ✅        |
 |   8 | Sand Veil                  | ✅       | ❌        |
 |   9 | Static                     | ✅       | ❌        |
 |  10 | Volt Absorb                | ✅       | ❌        |

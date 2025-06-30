@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 3,
+    "completed": 4,
     "written": 875,
     "pending": 1,
     "generated_at": null
@@ -60,8 +60,8 @@
       "id": 7,
       "name": "Limber",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "8": {
       "id": 8,
@@ -6184,10 +6184,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "7": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "8": {
       "indicator": "🟠",
