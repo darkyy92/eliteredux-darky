@@ -1397,11 +1397,9 @@ Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turn
 Serpent Bind gives attacks a 50% chance to trap the target, preventing escape or switching. Once trapped, the victim's speed drops by one stage each turn they remain on the field. The binding effect persists until the user faints or switches out, maintaining constant pressure.
 
 # ID: 663
-White Noise combines Static's paralysis-inducing contact effects with Peaceful Rest's restorative healing properties. When opponents make physical contact, this ability has a 30% chance to paralyze the attacker. Additionally, during fog weather, it heals 1/8 max HP at the end of each turn.
-
+Funeral Pyre creates a supernatural field that burns the life force of all Pokémon except Ghost and Dark-types. Affected Pokémon lose 25% of their max HP at the end of each turn. The damage ignores type immunities but is blocked by Magic Guard. Creates persistent pressure forcing switches.
 # ID: 664
-This ability grants enhanced evasiveness in foggy conditions. When fog weather is active (permanent or temporary), opponents' accuracy against this Pokemon is reduced by 25%, making it harder to hit. This defensive boost makes the Pokemon particularly effective in fog-based weather teams.
-
+Flame Bubble combines Water Bubble and Flaming Soul for unique type coverage. Halves Fire damage and doubles Water move power while preventing burns. Additionally, Fire-type moves gain +1 priority at full HP. Perfect for mixed Fire/Water attackers like Mega Reuniclus Redux who can exploit both benefits.
 # ID: 665
 Elemental Vortex combines the power of Flash Fire and Water Absorb into one devastating ability. When hit by Fire-type attacks, this Pokémon not only negates all damage but gains a 1.5x boost to its Fire-type moves. Meanwhile, Water-type attacks heal 25% HP instead of dealing damage.
 
@@ -1463,8 +1461,7 @@ Way of Precision combines Inner Focus with Precise Fist for martial arts mastery
 Way of Swiftness combines arrogant confidence with aquatic agility for devastating momentum. When defeating opponents, the Pokemon gains +1 critical hit stage per victory, building dangerous power. During rainy weather conditions, Speed doubles for swift pursuit and enhanced battlefield control.
 
 # ID: 681
-This ability enhances ally combat effectiveness in close-quarters battle scenarios. Allied Pokemon receive enhanced damage boosts to their attacks, with recoil moves gaining maximum benefit. Perfect for aggressive team strategies prioritizing coordinated high-damage assault tactics.
-
+Atomic Punch merges Iron Fist's 30% boost to punching moves with a 30% Steel-type damage increase. Steel-type punching moves like Bullet Punch and Meteor Mash stack both effects multiplicatively for 1.69x total damage. Enables devastating physical Steel offense through enhanced fist strikes.
 # ID: 682
 Iron Giant merges Heatproof and Juggernaut into mechanical supremacy. Fire attacks deal half damage and burning becomes impossible, while contact moves gain 20% of Defense as additional Attack power. This creates a defensive juggernaut that grows stronger through metallic durability.
 

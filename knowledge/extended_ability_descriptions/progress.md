@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 872
+Completed: 875
 In Progress: 0
 
 ## Progress Tracking
@@ -671,8 +671,8 @@ In Progress: 0
 | 660 | Ultra Instinct             | ✅          | ✅       | ❌        | 291             |
 | 661 | Unlocked Potential         | ✅          | ✅       | ❌        | 279             |
 | 662 | Higher Rank                | ✅          | ✅       | ❌        | 292             |
-| 663 | Ability 663                | ❌          | ❌       | ❌        | -               |
-| 664 | Ability 664                | ❌          | ❌       | ❌        | -               |
+| 663 | Funeral Pyre               | ✅          | ✅       | ❌        | 299             |
+| 664 | Flame Bubble               | ✅          | ✅       | ❌        | 296             |
 | 665 | Elemental Vortex           | ✅          | ✅       | ❌        | 286             |
 | 666 | Snowy Wrath                | ✅          | ✅       | ❌        | 281             |
 | 667 | Pattern Change             | ✅          | ✅       | ❌        | 280             |
@@ -689,7 +689,7 @@ In Progress: 0
 | 678 | Fluffiest                  | ✅          | ✅       | ❌        | 299             |
 | 679 | Way of Precision           | ✅          | ✅       | ❌        | 288             |
 | 680 | Way of Swiftness           | ✅          | ✅       | ❌        | 280             |
-| 681 | Ability 681                | ❌          | ❌       | ❌        | -               |
+| 681 | Atomic Punch               | ✅          | ✅       | ❌        | 289             |
 | 682 | Iron Giant                 | ✅          | ✅       | ❌        | 295             |
 | 683 | Master Hand                | ✅          | ✅       | ❌        | 286             |
 | 684 | Final Blow                 | ✅          | ✅       | ❌        | 283             |
