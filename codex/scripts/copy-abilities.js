@@ -23,17 +23,15 @@ if (!fs.existsSync(targetDir)) {
   fs.mkdirSync(targetDir, { recursive: true });
 }
 
-// Get all markdown files from source directory
-const files = fs.readdirSync(sourceDir).filter(file => file.endsWith('.md'));
+// Get only ability files (pattern: number_name.md) from source directory
+const files = fs.readdirSync(sourceDir).filter(file => {
+  return /^\d+_/.test(file) && file.endsWith('.md');
+});
 
 console.log(`Copying ${files.length} ability files...`);
 
 // Copy each file
 files.forEach(file => {
-  if (file === 'index.md' || file === 'README.md') {
-    // Skip index.md and README.md as we have our own
-    return;
-  }
   
   const sourcePath = path.join(sourceDir, file);
   const targetPath = path.join(targetDir, file);

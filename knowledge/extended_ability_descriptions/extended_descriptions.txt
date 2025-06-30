@@ -1789,6 +1789,15 @@ Embody Aspect (Wellspring) raises the Pokémon's Special Defense by one stage wh
 # ID: 799
 Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When the Pokemon drops below 1/3 of its maximum HP, the boost increases to 1.8x damage. This works with any Rock-type move regardless of category. The ability activates automatically based on current HP percentage.
 
+# ID: 839
+Neutralizing Fog automatically uses Defog when the Pokemon enters battle. Clears entry hazards (Stealth Rock, Spikes, Toxic Spikes, Sticky Web), screens (Light Screen, Reflect, Aurora Veil), and terrain effects from both sides. Lowers opponent's evasion by 1. Excellent hazard control.
+
+# ID: 845
+Impaler combines the power of Mighty Horn to boost all horn-based moves by 30% with a dangerous bleeding effect. Each horn move has a 30% chance to inflict Bleed status on the target. The bleed damage stacks with the boosted move damage for truly devastating offensive potential in battle.
+
+# ID: 855
+Hyper Cleanse provides complete immunity to all status conditions including burn, freeze, paralysis, poison, and sleep. Additionally reduces damage from poison-type moves by 50%. The status immunity cannot be bypassed by Mold Breaker. Perfect for defensive pivots and status absorbers.
+
 # ID: 870
 Molten Core combines Furnace effects with Rock-type absorption. On switch-in, gains +2 Speed from Stealth Rock and removes team's Stealth Rock. When hit by Rock moves, gains +2 Speed instead of taking damage. Perfect for handling Rock-type attacks and entry hazards.
 

@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
-Total Abilities: 875
-Completed: 875
+Total Abilities: 876
+Completed: 872
 In Progress: 0
 
 ## Progress Tracking
@@ -51,34 +51,34 @@ In Progress: 0
 |  40 | Magma Armor                | ✅          | ✅       | ❌        | 289             |
 |  41 | Water Veil                 | ✅          | ✅       | ❌        | 283             |
 |  42 | Magnet Pull                | ✅          | ✅       | ❌        | 285             |
-|  43 | Soundproof                 | ✅          | ✅       | ❌        | 325             |
-|  44 | Rain Dish                  | ✅          | ✅       | ❌        | 302             |
-|  45 | Sand Stream (Ability ID: 45) | ✅          | ✅       | ❌        | 261             |
+|  43 | Soundproof                 | ✅          | ✅       | ❌        | 285             |
+|  44 | Rain Dish                  | ✅          | ✅       | ❌        | 292             |
+|  45 | Sand Stream                | ✅          | ✅       | ❌        | 291             |
 |  46 | Pressure                   | ✅          | ✅       | ❌        | 289             |
 |  47 | Thick Fat                  | ✅          | ✅       | ❌        | 283             |
-|  48 | Early Bird                 | ✅          | ✅       | ❌        | 311             |
+|  48 | Early Bird                 | ✅          | ✅       | ❌        | 297             |
 |  49 | Flame Body                 | ✅          | ✅       | ❌        | 289             |
 |  50 | Run Away                   | ✅          | ✅       | ❌        | 287             |
 |  51 | Keen Eye                   | ✅          | ✅       | ❌        | 288             |
-|  52 | Hyper Cutter               | ✅          | ✅       | ❌        | 313             |
+|  52 | Hyper Cutter               | ✅          | ✅       | ❌        | 296             |
 |  53 | Pickup                     | ✅          | ✅       | ❌        | 296             |
-|  54 | Truant                     | ✅          | ✅       | ❌        | 359             |
+|  54 | Truant                     | ✅          | ✅       | ❌        | 297             |
 |  55 | Hustle                     | ✅          | ✅       | ❌        | 288             |
 |  56 | Cute Charm                 | ✅          | ✅       | ❌        | 289             |
 |  57 | Plus                       | ✅          | ✅       | ❌        | 289             |
-|  58 | Minus                      | ✅          | ✅       | ❌        | 303             |
-|  59 | Forecast (Ability ID: 59)  | ✅          | ✅       | ❌        | 262             |
+|  58 | Minus                      | ✅          | ✅       | ❌        | 298             |
+|  59 | Forecast                   | ✅          | ✅       | ❌        | 262             |
 |  60 | Sticky Hold                | ✅          | ✅       | ❌        | 288             |
 |  61 | Shed Skin                  | ✅          | ✅       | ❌        | 294             |
 |  62 | Guts                       | ✅          | ✅       | ❌        | 283             |
-|  63 | Marvel Scale               | ✅          | ✅       | ❌        | 301             |
+|  63 | Marvel Scale               | ✅          | ✅       | ❌        | 299             |
 |  64 | Liquid Ooze                | ✅          | ✅       | ❌        | 278             |
 |  65 | Overgrow                   | ✅          | ✅       | ❌        | 280             |
 |  66 | Blaze                      | ✅          | ✅       | ❌        | 284             |
 |  67 | Torrent                    | ✅          | ✅       | ❌        | 280             |
 |  68 | Swarm                      | ✅          | ✅       | ❌        | 295             |
 |  69 | Rock Head                  | ✅          | ✅       | ❌        | 281             |
-|  70 | Drought (Ability ID: 70)   | ✅          | ✅       | ❌        | 268             |
+|  70 | Drought                    | ✅          | ✅       | ❌        | 268             |
 |  71 | Arena Trap                 | ✅          | ✅       | ❌        | 280             |
 |  72 | Vital Spirit               | ✅          | ✅       | ❌        | 286             |
 |  73 | White Smoke                | ✅          | ✅       | ❌        | 298             |
@@ -87,29 +87,29 @@ In Progress: 0
 |  76 | Air Lock                   | ✅          | ✅       | ❌        | 297             |
 |  77 | Tangled Feet               | ✅          | ✅       | ❌        | 283             |
 |  78 | Motor Drive                | ✅          | ✅       | ❌        | 289             |
-|  79 | Rivalry                    | ✅          | ✅       | ❌        | 318             |
-|  80 | Steadfast                  | ✅          | ✅       | ❌        | 313             |
+|  79 | Rivalry                    | ✅          | ✅       | ❌        | 288             |
+|  80 | Steadfast                  | ✅          | ✅       | ❌        | 300             |
 |  81 | Snow Cloak                 | ✅          | ✅       | ❌        | 258             |
 |  82 | Gluttony                   | ✅          | ✅       | ❌        | 255             |
 |  83 | Anger Point                | ✅          | ✅       | ❌        | 292             |
 |  84 | Unburden                   | ✅          | ✅       | ❌        | 277             |
-|  85 | Heatproof (Ability ID: 85) | ✅          | ✅       | ❌        | 260             |
+|  85 | Heatproof                  | ✅          | ✅       | ❌        | 260             |
 |  86 | Simple                     | ✅          | ✅       | ❌        | 293             |
 |  87 | Dry Skin                   | ✅          | ✅       | ❌        | 294             |
-|  88 | Download                   | ✅          | ✅       | ❌        | 302             |
-|  89 | Iron Fist                  | ✅          | ✅       | ❌        | 306             |
+|  88 | Download                   | ✅          | ✅       | ❌        | 298             |
+|  89 | Iron Fist                  | ✅          | ✅       | ❌        | 296             |
 |  90 | Poison Heal                | ✅          | ✅       | ❌        | 285             |
 |  91 | Adaptability               | ✅          | ✅       | ❌        | 295             |
-|  92 | Skill Link                 | ✅          | ✅       | ❌        | 426             |
-|  93 | Hydration - Ability        | ✅          | ✅       | ❌        | 314             |
-|  94 | Solar Power (94)           | ✅          | ✅       | ❌        | 419             |
-|  95 | Quick Feet                 | ✅          | ✅       | ❌        | 314             |
-|  96 | Ability: Normalize         | ✅          | ✅       | ❌        | 382             |
-|  97 | Sniper (Ability            | ✅          | ✅       | ❌        | 364             |
-|  98 | Magic Guard                | ✅          | ✅       | ❌        | 405             |
+|  92 | Skill Link                 | ✅          | ✅       | ❌        | 294             |
+|  93 | Hydration                  | ✅          | ✅       | ❌        | 293             |
+|  94 | Solar Power                | ✅          | ✅       | ❌        | 290             |
+|  95 | Quick Feet                 | ✅          | ✅       | ❌        | 293             |
+|  96 | Normalize                  | ✅          | ✅       | ❌        | 293             |
+|  97 | Sniper                     | ✅          | ✅       | ❌        | 285             |
+|  98 | Magic Guard                | ✅          | ✅       | ❌        | 292             |
 |  99 | No Guard                   | ✅          | ✅       | ❌        | 285             |
-| 100 | Ability Analysis: Stall    | ✅          | ✅       | ❌        | 377             |
-| 101 | Ability: Technician        | ✅          | ✅       | ❌        | 347             |
+| 100 | Stall                      | ✅          | ✅       | ❌        | 296             |
+| 101 | Technician                 | ✅          | ✅       | ❌        | 296             |
 | 102 | Leaf Guard                 | ✅          | ✅       | ❌        | 289             |
 | 103 | Klutz                      | ✅          | ✅       | ❌        | 289             |
 | 104 | Mold Breaker               | ✅          | ✅       | ❌        | 295             |
@@ -125,20 +125,20 @@ In Progress: 0
 | 114 | Storm Drain                | ✅          | ✅       | ❌        | 297             |
 | 115 | Ice Body                   | ✅          | ✅       | ❌        | 289             |
 | 116 | Solid Rock                 | ✅          | ✅       | ❌        | 288             |
-| 117 | Snow Warning (Ability ID: 117) | ✅          | ✅       | ❌        | 272             |
+| 117 | Snow Warning               | ✅          | ✅       | ❌        | 273             |
 | 118 | Honey Gather               | ✅          | ✅       | ❌        | 280             |
 | 119 | Frisk                      | ✅          | ✅       | ❌        | 282             |
 | 120 | Reckless                   | ✅          | ✅       | ❌        | 291             |
-| 121 | Multitype                  | ✅          | ✅       | ❌        | 299             |
+| 121 | Multitype                  | ✅          | ✅       | ❌        | 300             |
 | 122 | Flower Gift                | ✅          | ✅       | ❌        | 294             |
-| 123 | Bad Dreams                 | ✅          | ✅       | ❌        | 296             |
-| 124 | Pickpocket                 | ✅          | ✅       | ❌        | 290             |
+| 123 | Bad Dreams                 | ✅          | ✅       | ❌        | 297             |
+| 124 | Pickpocket                 | ✅          | ✅       | ❌        | 293             |
 | 125 | Sheer Force                | ✅          | ✅       | ❌        | 290             |
 | 126 | Contrary                   | ✅          | ✅       | ❌        | 292             |
-| 127 | Unnerve                    | ✅          | ✅       | ❌        | 293             |
-| 128 | Defiant                    | ✅          | ✅       | ❌        | 299             |
-| 129 | Defeatist                  | ✅          | ✅       | ❌        | 299             |
-| 130 | Cursed Body                | ✅          | ✅       | ❌        | 290             |
+| 127 | Unnerve                    | ✅          | ✅       | ❌        | 290             |
+| 128 | Defiant                    | ✅          | ✅       | ❌        | 300             |
+| 129 | Defeatist                  | ✅          | ✅       | ❌        | 287             |
+| 130 | Cursed Body                | ✅          | ✅       | ❌        | 280             |
 | 131 | Healer                     | ✅          | ✅       | ❌        | 293             |
 | 132 | Friend Guard               | ✅          | ✅       | ❌        | 291             |
 | 133 | Weak Armor                 | ✅          | ✅       | ❌        | 290             |
@@ -155,7 +155,7 @@ In Progress: 0
 | 144 | Regenerator                | ✅          | ✅       | ❌        | 296             |
 | 145 | Big Pecks                  | ✅          | ✅       | ❌        | 284             |
 | 146 | Sand Rush                  | ✅          | ✅       | ❌        | 298             |
-| 147 | Wonder Skin (Ability ID: 147) | ✅          | ✅       | ❌        | 262             |
+| 147 | Wonder Skin                | ✅          | ✅       | ❌        | 281             |
 | 148 | Analytic                   | ✅          | ✅       | ❌        | 297             |
 | 149 | Illusion                   | ✅          | ✅       | ❌        | 289             |
 | 150 | Imposter                   | ✅          | ✅       | ❌        | 297             |
@@ -169,16 +169,16 @@ In Progress: 0
 | 158 | Prankster                  | ✅          | ✅       | ❌        | 295             |
 | 159 | Sand Force                 | ✅          | ✅       | ❌        | 288             |
 | 160 | Iron Barbs                 | ✅          | ✅       | ❌        | 282             |
-| 161 | Zen Mode                   | ✅          | ✅       | ❌        | 293             |
-| 162 | Victory Star               | ✅          | ✅       | ❌        | 293             |
-| 163 | Turboblaze                 | ✅          | ✅       | ❌        | 283             |
-| 164 | Teravolt                   | ✅          | ✅       | ❌        | 284             |
-| 165 | Aroma Veil                 | ✅          | ✅       | ❌        | 300             |
-| 166 | Flower Veil                | ✅          | ✅       | ❌        | 276             |
+| 161 | Zen Mode                   | ✅          | ✅       | ❌        | 285             |
+| 162 | Victory Star               | ✅          | ✅       | ❌        | 294             |
+| 163 | Turboblaze                 | ✅          | ✅       | ❌        | 284             |
+| 164 | Teravolt                   | ✅          | ✅       | ❌        | 285             |
+| 165 | Aroma Veil                 | ✅          | ✅       | ❌        | 283             |
+| 166 | Flower Veil                | ✅          | ✅       | ❌        | 277             |
 | 167 | Cheek Pouch                | ✅          | ✅       | ❌        | 284             |
-| 168 | Protean                    | ✅          | ✅       | ❌        | 280             |
-| 169 | Fur Coat                   | ✅          | ✅       | ❌        | 295             |
-| 170 | Magician                   | ✅          | ✅       | ❌        | 289             |
+| 168 | Protean                    | ✅          | ✅       | ❌        | 281             |
+| 169 | Fur Coat                   | ✅          | ✅       | ❌        | 296             |
+| 170 | Magician                   | ✅          | ✅       | ❌        | 290             |
 | 171 | Bulletproof                | ✅          | ✅       | ❌        | 296             |
 | 172 | Competitive                | ✅          | ✅       | ❌        | 297             |
 | 173 | Strong Jaw                 | ✅          | ✅       | ❌        | 284             |
@@ -186,24 +186,24 @@ In Progress: 0
 | 175 | Sweet Veil                 | ✅          | ✅       | ❌        | 292             |
 | 176 | Stance Change              | ✅          | ✅       | ❌        | 282             |
 | 177 | Gale Wings                 | ✅          | ✅       | ❌        | 291             |
-| 178 | Mega Launcher (Ability ID: 178) | ✅          | ✅       | ❌        | 261             |
+| 178 | Mega Launcher              | ✅          | ✅       | ❌        | 284             |
 | 179 | Grass Pelt                 | ✅          | ✅       | ❌        | 290             |
 | 180 | Symbiosis                  | ✅          | ✅       | ❌        | 283             |
 | 181 | Tough Claws                | ✅          | ✅       | ❌        | 295             |
 | 182 | Pixilate                   | ✅          | ✅       | ❌        | 291             |
-| 183 | Gooey                      | ✅          | ✅       | ❌        | 301             |
+| 183 | Gooey                      | ✅          | ✅       | ❌        | 292             |
 | 184 | Aerilate                   | ✅          | ✅       | ❌        | 283             |
-| 185 | Parental Bond              | ✅          | ✅       | ❌        | 296             |
-| 186 | Dark Aura                  | ✅          | ✅       | ❌        | 281             |
-| 187 | Fairy Aura                 | ✅          | ✅       | ❌        | 282             |
-| 188 | Aura Break                 | ✅          | ✅       | ❌        | 298             |
-| 189 | Primordial Sea (Ability ID: 189) | ✅          | ✅       | ❌        | 262             |
-| 190 | Desolate Land (Ability ID: 190) | ✅          | ✅       | ❌        | 273             |
-| 191 | Delta Stream (Ability ID: 191) | ✅          | ✅       | ❌        | 269             |
-| 192 | Stamina                    | ✅          | ✅       | ❌        | -               |
-| 193 | Wimp Out                   | ✅          | ✅       | ❌        | 242             |
-| 194 | Emergency Exit             | ✅          | ✅       | ❌        | 285             |
-| 195 | Water Compaction           | ✅          | ✅       | ❌        | 289             |
+| 185 | Parental Bond              | ✅          | ✅       | ❌        | 297             |
+| 186 | Dark Aura                  | ✅          | ✅       | ❌        | 282             |
+| 187 | Fairy Aura                 | ✅          | ✅       | ❌        | 283             |
+| 188 | Aura Break                 | ✅          | ✅       | ❌        | 299             |
+| 189 | Primordial Sea             | ✅          | ✅       | ❌        | 263             |
+| 190 | Desolate Land              | ✅          | ✅       | ❌        | 274             |
+| 191 | Delta Stream               | ✅          | ✅       | ❌        | 270             |
+| 192 | Stamina                    | ✅          | ✅       | ❌        | 282             |
+| 193 | Wimp Out                   | ✅          | ✅       | ❌        | 299             |
+| 194 | Emergency Exit             | ✅          | ✅       | ❌        | 286             |
+| 195 | Water Compaction           | ✅          | ✅       | ❌        | 291             |
 | 196 | Merciless                  | ✅          | ✅       | ❌        | 281             |
 | 197 | Shields Down               | ✅          | ✅       | ❌        | 289             |
 | 198 | Stakeout                   | ✅          | ✅       | ❌        | 281             |
@@ -231,13 +231,13 @@ In Progress: 0
 | 220 | Soul-Heart                 | ✅          | ✅       | ❌        | 288             |
 | 221 | Tangling Hair              | ✅          | ✅       | ❌        | 288             |
 | 222 | Receiver                   | ✅          | ✅       | ❌        | 299             |
-| 223 | Power of Alchemy (Ability ID: 223) | ✅          | ✅       | ❌        | 265             |
+| 223 | Power of Alchemy           | ✅          | ✅       | ❌        | 290             |
 | 224 | Beast Boost                | ✅          | ✅       | ❌        | 298             |
 | 225 | RKS System                 | ✅          | ✅       | ❌        | 266             |
-| 226 | Electric Surge             | ✅          | ✅       | ❌        | 300             |
-| 227 | Psychic Surge (Ability ID: 227) | ✅          | ✅       | ❌        | 272             |
+| 226 | Electric Surge             | ✅          | ✅       | ❌        | 299             |
+| 227 | Psychic Surge              | ✅          | ✅       | ❌        | 273             |
 | 228 | Misty Surge                | ✅          | ✅       | ❌        | 295             |
-| 229 | Grassy Surge (Ability ID: 229) | ✅          | ✅       | ❌        | 273             |
+| 229 | Grassy Surge               | ✅          | ✅       | ❌        | 274             |
 | 230 | Full Metal Body            | ✅          | ✅       | ❌        | 299             |
 | 231 | Shadow Shield              | ✅          | ✅       | ❌        | 292             |
 | 232 | Prism Armor                | ✅          | ✅       | ❌        | 295             |
@@ -249,7 +249,7 @@ In Progress: 0
 | 238 | Cotton Down                | ✅          | ✅       | ❌        | 295             |
 | 239 | Propeller Tail             | ✅          | ✅       | ❌        | 289             |
 | 240 | Mirror Armor               | ✅          | ✅       | ❌        | 289             |
-| 241 | Gulp Missile               | ✅          | ✅       | ❌        | 273             |
+| 241 | Gulp Missile               | ✅          | ✅       | ❌        | 276             |
 | 242 | Stalwart                   | ✅          | ✅       | ❌        | 288             |
 | 243 | Steam Engine               | ✅          | ✅       | ❌        | 286             |
 | 244 | Punk Rock                  | ✅          | ✅       | ❌        | 289             |
@@ -321,93 +321,93 @@ In Progress: 0
 | 310 | Half Drake                 | ✅          | ✅       | ❌        | 295             |
 | 311 | Liquified                  | ✅          | ✅       | ❌        | 287             |
 | 312 | Dragonfly                  | ✅          | ✅       | ❌        | 295             |
-| 313 | Dragonslayer (ID: 313)     | ✅          | ✅       | ❌        | 269             |
+| 313 | Dragonslayer               | ✅          | ✅       | ❌        | 270             |
 | 314 | Mountaineer                | ✅          | ✅       | ❌        | 289             |
-| 315 | Hydrate                    | ✅          | ✅       | ❌        | 296             |
-| 316 | Metallic                   | ✅          | ✅       | ❌        | 298             |
-| 317 | Permafrost                 | ✅          | ✅       | ❌        | 287             |
-| 318 | Primal Armor               | ✅          | ✅       | ❌        | 297             |
-| 319 | Raging Boxer               | ✅          | ✅       | ❌        | 280             |
-| 320 | Air Blower                 | ✅          | ✅       | ❌        | 290             |
-| 321 | Juggernaut                 | ✅          | ✅       | ❌        | 287             |
+| 315 | Hydrate                    | ✅          | ✅       | ❌        | 284             |
+| 316 | Metallic                   | ✅          | ✅       | ❌        | 299             |
+| 317 | Permafrost                 | ✅          | ✅       | ❌        | 293             |
+| 318 | Primal Armor               | ✅          | ✅       | ❌        | 298             |
+| 319 | Raging Boxer               | ✅          | ✅       | ❌        | 281             |
+| 320 | Air Blower                 | ✅          | ✅       | ❌        | 291             |
+| 321 | Juggernaut                 | ✅          | ✅       | ❌        | 288             |
 | 322 | Short Circuit              | ✅          | ✅       | ❌        | 295             |
 | 323 | Majestic Bird              | ✅          | ✅       | ❌        | 288             |
 | 324 | Phantom                    | ✅          | ✅       | ❌        | 287             |
-| 325 | Intoxicate                 | ✅          | ✅       | ❌        | 0               |
-| 326 | Impenetrable               | ✅          | ✅       | ❌        | 838             |
+| 325 | Intoxicate                 | ✅          | ✅       | ❌        | 287             |
+| 326 | Impenetrable               | ✅          | ✅       | ❌        | 294             |
 | 327 | Hypnotist                  | ✅          | ✅       | ❌        | 284             |
 | 328 | Overwhelm                  | ✅          | ✅       | ❌        | 289             |
 | 329 | Scare                      | ✅          | ✅       | ❌        | 295             |
-| 330 | Majestic Moth              | ✅          | ✅       | ❌        | 0               |
-| 331 | Soul Eater                 | ✅          | ✅       | ❌        | 287             |
-| 332 | Soul Linker                | ✅          | ✅       | ❌        | 283             |
-| 333 | Sweet Dreams               | ✅          | ✅       | ❌        | 282             |
-| 334 | Bad Luck (ID: 334)         | ✅          | ✅       | ❌        | 263             |
-| 335 | Haunted Spirit             | ✅          | ✅       | ❌        | 0               |
-| 336 | Electric Burst             | ✅          | ✅       | ❌        | 280             |
+| 330 | Majestic Moth              | ✅          | ✅       | ❌        | 291             |
+| 331 | Soul Eater                 | ✅          | ✅       | ❌        | 288             |
+| 332 | Soul Linker                | ✅          | ✅       | ❌        | 284             |
+| 333 | Sweet Dreams               | ✅          | ✅       | ❌        | 283             |
+| 334 | Bad Luck                   | ✅          | ✅       | ❌        | 283             |
+| 335 | Haunted Spirit             | ✅          | ✅       | ❌        | 297             |
+| 336 | Electric Burst             | ✅          | ✅       | ❌        | 299             |
 | 337 | Raw Wood                   | ✅          | ✅       | ❌        | 267             |
-| 338 | Solenoglyphs               | ✅          | ✅       | ❌        | 0               |
-| 339 | Spider Lair                | ✅          | ✅       | ❌        | 0               |
-| 340 | Fatal Precision            | ✅          | ✅       | ❌        | 0               |
+| 338 | Solenoglyphs               | ✅          | ✅       | ❌        | 290             |
+| 339 | Spider Lair                | ✅          | ✅       | ❌        | 294             |
+| 340 | Fatal Precision            | ✅          | ✅       | ❌        | 295             |
 | 341 | Fort Knox                  | ✅          | ✅       | ❌        | 299             |
-| 342 | Seaweed                    | ✅          | ✅       | ❌        | 0               |
-| 343 | Psychic Mind               | ✅          | ✅       | ❌        | 0               |
-| 344 | Poison Absorb              | ✅          | ✅       | ❌        | 0               |
-| 345 | Scavenger                  | ✅          | ✅       | ❌        | 265             |
-| 346 | Twisted Dimension          | ✅          | ✅       | ❌        | 0               |
-| 347 | Multi Headed               | ✅          | ✅       | ❌        | 0               |
-| 348 | North Wind                 | ✅          | ✅       | ❌        | 285             |
-| 349 | Overcharge                 | ✅          | ✅       | ❌        | 0               |
-| 350 | Violent Rush               | ✅          | ✅       | ❌        | 0               |
-| 351 | Flaming Soul               | ✅          | ✅       | ❌        | 0               |
+| 342 | Seaweed                    | ✅          | ✅       | ❌        | 292             |
+| 343 | Psychic Mind               | ✅          | ✅       | ❌        | 289             |
+| 344 | Poison Absorb              | ✅          | ✅       | ❌        | 297             |
+| 345 | Scavenger                  | ✅          | ✅       | ❌        | 291             |
+| 346 | Twisted Dimension          | ✅          | ✅       | ❌        | 294             |
+| 347 | Multi Headed               | ✅          | ✅       | ❌        | 292             |
+| 348 | North Wind                 | ✅          | ✅       | ❌        | 294             |
+| 349 | Overcharge                 | ✅          | ✅       | ❌        | 292             |
+| 350 | Violent Rush               | ✅          | ✅       | ❌        | 292             |
+| 351 | Flaming Soul               | ✅          | ✅       | ❌        | 286             |
 | 352 | Sage Power                 | ✅          | ✅       | ❌        | 280             |
-| 353 | Bone Zone                  | ✅          | ✅       | ❌        | 0               |
+| 353 | Bone Zone                  | ✅          | ✅       | ❌        | 292             |
 | 354 | Weather Control            | ✅          | ✅       | ❌        | 290             |
-| 355 | Speed Force                | ✅          | ✅       | ❌        | 0               |
-| 356 | Sea Guardian               | ✅          | ✅       | ❌        | 0               |
+| 355 | Speed Force                | ✅          | ✅       | ❌        | 283             |
+| 356 | Sea Guardian               | ✅          | ✅       | ❌        | 294             |
 | 357 | Molten Down                | ✅          | ✅       | ❌        | 285             |
-| 358 | Hyper Aggressive           | ✅          | ✅       | ❌        | 279             |
-| 359 | Flock                      | ✅          | ✅       | ❌        | 280             |
-| 360 | Field Explorer             | ✅          | ✅       | ❌        | 0               |
-| 361 | Striker                    | ✅          | ✅       | ❌        | 0               |
-| 362 | Frozen Soul                | ✅          | ✅       | ❌        | 0               |
-| 363 | Predator                   | ✅          | ✅       | ❌        | 274             |
-| 364 | Looter                     | ✅          | ✅       | ❌        | 287             |
-| 365 | Lunar Eclipse              | ✅          | ✅       | ❌        | 0               |
+| 358 | Hyper Aggressive           | ✅          | ✅       | ❌        | 285             |
+| 359 | Flock                      | ✅          | ✅       | ❌        | 296             |
+| 360 | Field Explorer             | ✅          | ✅       | ❌        | 281             |
+| 361 | Striker                    | ✅          | ✅       | ❌        | 297             |
+| 362 | Frozen Soul                | ✅          | ✅       | ❌        | 299             |
+| 363 | Predator                   | ✅          | ✅       | ❌        | 280             |
+| 364 | Looter                     | ✅          | ✅       | ❌        | 292             |
+| 365 | Lunar Eclipse              | ✅          | ✅       | ❌        | 285             |
 | 366 | Solar Flare                | ✅          | ✅       | ❌        | 296             |
-| 367 | Power Core                 | ✅          | ✅       | ❌        | 272             |
-| 368 | Sighting System            | ✅          | ✅       | ❌        | 0               |
-| 369 | Bad Company                | ✅          | ✅       | ❌        | 0               |
-| 370 | Opportunist                | ✅          | ✅       | ❌        | 0               |
-| 371 | Giant Wings                | ✅          | ✅       | ❌        | 0               |
+| 367 | Power Core                 | ✅          | ✅       | ❌        | 290             |
+| 368 | Sighting System            | ✅          | ✅       | ❌        | 290             |
+| 369 | Bad Company                | ✅          | ✅       | ❌        | 287             |
+| 370 | Opportunist                | ✅          | ✅       | ❌        | 290             |
+| 371 | Giant Wings                | ✅          | ✅       | ❌        | 294             |
 | 372 | Momentum                   | ✅          | ✅       | ❌        | 290             |
-| 373 | Grip Pincer                | ✅          | ✅       | ❌        | 271             |
-| 374 | Big Leaves                 | ✅          | ✅       | ❌        | 275             |
-| 375 | Precise Fist               | ✅          | ✅       | ❌        | 295             |
-| 376 | Deadeye                    | ✅          | ✅       | ❌        | 262             |
-| 377 | Artillery                  | ✅          | ✅       | ❌        | 268             |
-| 378 | Amplifier                  | ✅          | ✅       | ❌        | 275             |
-| 379 | Ice Dew                    | ✅          | ✅       | ❌        | 0               |
-| 380 | Sun Worship                | ✅          | ✅       | ❌        | 0               |
-| 381 | Pollinate                  | ✅          | ✅       | ❌        | 263             |
-| 382 | Volcano Rage               | ✅          | ✅       | ❌        | 0               |
-| 383 | Cold Rebound               | ✅          | ✅       | ❌        | 0               |
-| 384 | Low Blow                   | ✅          | ✅       | ❌        | 271             |
-| 385 | Air Lock                   | ✅          | ✅       | ❌        | 443             |
+| 373 | Grip Pincer                | ✅          | ✅       | ❌        | 297             |
+| 374 | Big Leaves                 | ✅          | ✅       | ❌        | 291             |
+| 375 | Precise Fist               | ✅          | ✅       | ❌        | 294             |
+| 376 | Deadeye                    | ✅          | ✅       | ❌        | 295             |
+| 377 | Artillery                  | ✅          | ✅       | ❌        | 280             |
+| 378 | Amplifier                  | ✅          | ✅       | ❌        | 289             |
+| 379 | Ice Dew                    | ✅          | ✅       | ❌        | 298             |
+| 380 | Sun Worship                | ✅          | ✅       | ❌        | 295             |
+| 381 | Pollinate                  | ✅          | ✅       | ❌        | 292             |
+| 382 | Volcano Rage               | ✅          | ✅       | ❌        | 287             |
+| 383 | Cold Rebound               | ✅          | ✅       | ❌        | 281             |
+| 384 | Low Blow                   | ✅          | ✅       | ❌        | 285             |
+| 385 | Air Lock                   | ✅          | ✅       | ❌        | 295             |
 | 386 | Spectral Shroud            | ✅          | ✅       | ❌        | 289             |
 | 387 | Discipline                 | ✅          | ✅       | ❌        | 265             |
-| 388 | Thundercall                | ✅          | ✅       | ❌        | 0               |
-| 389 | Marine Apex                | ✅          | ✅       | ❌        | 0               |
-| 390 | Mighty Horn                | ✅          | ✅       | ❌        | 0               |
-| 391 | Hardened Sheath            | ✅          | ✅       | ❌        | 0               |
-| 392 | Arctic Fur                 | ✅          | ✅       | ❌        | 284             |
+| 388 | Thundercall                | ✅          | ✅       | ❌        | 290             |
+| 389 | Marine Apex                | ✅          | ✅       | ❌        | 283             |
+| 390 | Mighty Horn                | ✅          | ✅       | ❌        | 285             |
+| 391 | Hardened Sheath            | ✅          | ✅       | ❌        | 293             |
+| 392 | Arctic Fur                 | ✅          | ✅       | ❌        | 290             |
 | 393 | Spectralize                | ✅          | ✅       | ❌        | 289             |
 | 394 | Lethargy                   | ✅          | ✅       | ❌        | 234             |
-| 395 | Iron Barrage               | ✅          | ✅       | ❌        | 0               |
-| 396 | Liquid Voice               | ✅          | ✅       | ❌        | 0               |
-| 397 | Pyro Shells                | ✅          | ✅       | ❌        | 0               |
-| 398 | Fungal Infection           | ✅          | ✅       | ❌        | 0               |
-| 399 | Parry                      | ✅          | ✅       | ❌        | 0               |
+| 395 | Iron Barrage               | ✅          | ✅       | ❌        | 299             |
+| 396 | Liquid Voice               | ✅          | ✅       | ❌        | 231             |
+| 397 | Pyro Shells                | ✅          | ✅       | ❌        | 294             |
+| 398 | Fungal Infection           | ✅          | ✅       | ❌        | 289             |
+| 399 | Parry                      | ✅          | ✅       | ❌        | 342             |
 | 400 | Scrapyard                  | ✅          | ✅       | ❌        | 292             |
 | 401 | Loose Quills               | ✅          | ✅       | ❌        | 282             |
 | 402 | Toxic Debris               | ✅          | ✅       | ❌        | 298             |
@@ -415,7 +415,7 @@ In Progress: 0
 | 404 | Mineralize                 | ✅          | ✅       | ❌        | 297             |
 | 405 | Loose Rocks                | ✅          | ✅       | ❌        | 294             |
 | 406 | Spinning Top               | ✅          | ✅       | ❌        | 296             |
-| 407 | Retribution Blow           | ✅          | ✅       | ❌        | 285             |
+| 407 | Retribution Blow           | ✅          | ✅       | ❌        | 287             |
 | 408 | Fearmonger                 | ✅          | ✅       | ❌        | 296             |
 | 409 | King's Wrath               | ✅          | ✅       | ❌        | 287             |
 | 410 | Queen's Mourning           | ✅          | ✅       | ❌        | 284             |
@@ -463,7 +463,7 @@ In Progress: 0
 | 452 | Fairy Tale                 | ✅          | ✅       | ❌        | 283             |
 | 453 | Raging Moth                | ✅          | ✅       | ❌        | 296             |
 | 454 | Adrenaline Rush            | ✅          | ✅       | ❌        | 295             |
-| 455 | Archmage (Ability ID: 455) | ✅          | ✅       | ❌        | 267             |
+| 455 | Archmage                   | ✅          | ✅       | ❌        | 290             |
 | 456 | Cryomancy                  | ✅          | ✅       | ❌        | 290             |
 | 457 | Phantom Pain               | ✅          | ✅       | ❌        | 294             |
 | 458 | Purgatory                  | ✅          | ✅       | ❌        | 292             |
@@ -523,7 +523,7 @@ In Progress: 0
 | 512 | Combustion                 | ✅          | ✅       | ❌        | 294             |
 | 513 | Pony Power                 | ✅          | ✅       | ❌        | 286             |
 | 514 | Powder Burst               | ✅          | ✅       | ❌        | 296             |
-| 515 | Retriever (ID: 515)        | ✅          | ✅       | ❌        | 258             |
+| 515 | Retriever                  | ✅          | ✅       | ❌        | 282             |
 | 516 | Monster Mash               | ✅          | ✅       | ❌        | 292             |
 | 517 | Two Step                   | ✅          | ✅       | ❌        | 295             |
 | 518 | Spiteful                   | ✅          | ✅       | ❌        | 295             |
@@ -554,7 +554,7 @@ In Progress: 0
 | 543 | Seed Sower                 | ✅          | ✅       | ❌        | 295             |
 | 544 | Airborne                   | ✅          | ✅       | ❌        | 283             |
 | 545 | Parroting                  | ✅          | ✅       | ❌        | 294             |
-| 546 | Salt Circle (ID: 546)      | ✅          | ✅       | ❌        | 264             |
+| 546 | Salt Circle                | ✅          | ✅       | ❌        | 288             |
 | 547 | Purifying Salt             | ✅          | ✅       | ❌        | 287             |
 | 548 | Protosynthesis             | ✅          | ✅       | ❌        | 296             |
 | 549 | Quark Drive                | ✅          | ✅       | ❌        | 295             |
@@ -576,7 +576,7 @@ In Progress: 0
 | 565 | Vengeful Spirit            | ✅          | ✅       | ❌        | 296             |
 | 566 | Cud Chew                   | ✅          | ✅       | ❌        | 289             |
 | 567 | Armor Tail                 | ✅          | ✅       | ❌        | 297             |
-| 568 | Mind Crush (ID: 568)       | ✅          | ✅       | ❌        | 264             |
+| 568 | Mind Crush                 | ✅          | ✅       | ❌        | 288             |
 | 569 | Supreme Overlord           | ✅          | ✅       | ❌        | 294             |
 | 570 | Ill Will                   | ✅          | ✅       | ❌        | 295             |
 | 571 | Fire Scales                | ✅          | ✅       | ❌        | 290             |
@@ -596,7 +596,7 @@ In Progress: 0
 | 585 | Sun Basking                | ✅          | ✅       | ❌        | 283             |
 | 586 | Winged King                | ✅          | ✅       | ❌        | 293             |
 | 587 | Hadron Engine              | ✅          | ✅       | ❌        | 281             |
-| 588 | Iron Serpent               | ✅          | ✅       | ❌        | 300             |
+| 588 | Iron Serpent               | ✅          | ✅       | ❌        | 299             |
 | 589 | Weather Double Boost       | ✅          | ✅       | ❌        | 298             |
 | 590 | Sweeping Edge Plus         | ✅          | ✅       | ❌        | 285             |
 | 591 | Celestial Blessing         | ✅          | ✅       | ❌        | 295             |
@@ -630,7 +630,7 @@ In Progress: 0
 | 619 | Low Visibility             | ✅          | ✅       | ❌        | 299             |
 | 620 | Old Mariner                | ✅          | ✅       | ❌        | 284             |
 | 621 | Ectoplasm                  | ✅          | ✅       | ❌        | 281             |
-| 622 | Beautiful Music (ID: 622)  | ✅          | ✅       | ❌        | 258             |
+| 622 | Beautiful Music            | ✅          | ✅       | ❌        | 282             |
 | 623 | Surprise                   | ✅          | ✅       | ❌        | 282             |
 | 624 | Snow Song                  | ✅          | ✅       | ❌        | 299             |
 | 625 | Greater Spirit             | ✅          | ✅       | ❌        | 280             |
@@ -662,8 +662,8 @@ In Progress: 0
 | 651 | Eternal Blessing           | ✅          | ✅       | ❌        | 296             |
 | 652 | Sugar Rush                 | ✅          | ✅       | ❌        | 285             |
 | 653 | Peaceful Rest              | ✅          | ✅       | ❌        | 282             |
-| 654 | White Noise                | ✅          | ✅       | ❌        | 291             |
-| 655 | Smokey Maneuvers           | ✅          | ✅       | ❌        | 290             |
+| 654 | White Noise                | ✅          | ✅       | ❌        | 296             |
+| 655 | Smokey Maneuvers           | ✅          | ✅       | ❌        | 282             |
 | 656 | Tag                        | ✅          | ✅       | ❌        | 280             |
 | 657 | Power Metal                | ✅          | ✅       | ❌        | 298             |
 | 658 | Power Edge                 | ✅          | ✅       | ❌        | 290             |
@@ -671,8 +671,8 @@ In Progress: 0
 | 660 | Ultra Instinct             | ✅          | ✅       | ❌        | 291             |
 | 661 | Unlocked Potential         | ✅          | ✅       | ❌        | 279             |
 | 662 | Higher Rank                | ✅          | ✅       | ❌        | 292             |
-| 663 | White Noise                | ✅          | ✅       | ❌        | 296             |
-| 664 | Smokey Maneuvers           | ✅          | ✅       | ❌        | 282             |
+| 663 | Ability 663                | ❌          | ❌       | ❌        | -               |
+| 664 | Ability 664                | ❌          | ❌       | ❌        | -               |
 | 665 | Elemental Vortex           | ✅          | ✅       | ❌        | 286             |
 | 666 | Snowy Wrath                | ✅          | ✅       | ❌        | 281             |
 | 667 | Pattern Change             | ✅          | ✅       | ❌        | 280             |
@@ -680,7 +680,7 @@ In Progress: 0
 | 669 | Flammable Coat             | ✅          | ✅       | ❌        | 298             |
 | 670 | Draco Morale               | ✅          | ✅       | ❌        | 298             |
 | 671 | Bad Omen                   | ✅          | ✅       | ❌        | 289             |
-| 672 | Mosh Pit                   | ✅          | ✅       | ❌        | 287             |
+| 672 | Mosh Pit                   | ✅          | ✅       | ❌        | 289             |
 | 673 | Blood Stain                | ✅          | ✅       | ❌        | 299             |
 | 674 | Blood Stigma               | ✅          | ✅       | ❌        | 295             |
 | 675 | Max Acceleration           | ✅          | ✅       | ❌        | 300             |
@@ -689,14 +689,14 @@ In Progress: 0
 | 678 | Fluffiest                  | ✅          | ✅       | ❌        | 299             |
 | 679 | Way of Precision           | ✅          | ✅       | ❌        | 288             |
 | 680 | Way of Swiftness           | ✅          | ✅       | ❌        | 280             |
-| 681 | Mosh Pit                   | ✅          | ✅       | ❌        | 289             |
+| 681 | Ability 681                | ❌          | ❌       | ❌        | -               |
 | 682 | Iron Giant                 | ✅          | ✅       | ❌        | 295             |
 | 683 | Master Hand                | ✅          | ✅       | ❌        | 286             |
 | 684 | Final Blow                 | ✅          | ✅       | ❌        | 283             |
 | 685 | Hospitality                | ✅          | ✅       | ❌        | 286             |
 | 686 | Butter Up                  | ✅          | ✅       | ❌        | 296             |
 | 687 | Vitality Strike            | ✅          | ✅       | ❌        | 291             |
-| 688 | Imposing Wings             | ✅          | ✅       | ❌        | 286             |
+| 688 | Huge Wings                 | ✅          | ✅       | ❌        | 286             |
 | 689 | Sword of Damnation         | ✅          | ✅       | ❌        | 293             |
 | 690 | Restraining Order          | ✅          | ✅       | ❌        | 293             |
 | 691 | Assassin's Tools           | ✅          | ✅       | ❌        | 286             |
@@ -705,7 +705,7 @@ In Progress: 0
 | 694 | Blind Rage                 | ✅          | ✅       | ❌        | 295             |
 | 695 | Slipstream                 | ✅          | ✅       | ❌        | 284             |
 | 696 | Apex Predator              | ✅          | ✅       | ❌        | 283             |
-| 697 | Imposing Wings             | ✅          | ✅       | ❌        | 294             |
+| 697 | Dragon's Ritual            | ✅          | ✅       | ❌        | 294             |
 | 698 | Pinnacle Blade             | ✅          | ✅       | ❌        | 298             |
 | 699 | Energized                  | ✅          | ✅       | ❌        | 284             |
 | 700 | Color Spectrum             | ✅          | ✅       | ❌        | 281             |
@@ -751,7 +751,7 @@ In Progress: 0
 | 740 | Set Ablaze                 | ✅          | ✅       | ❌        | 295             |
 | 741 | Breakwater                 | ✅          | ✅       | ❌        | 287             |
 | 742 | Magical Fists              | ✅          | ✅       | ❌        | 287             |
-| 743 | Cutthroat (ID: 743)        | ✅          | ✅       | ❌        | 263             |
+| 743 | Cutthroat                  | ✅          | ✅       | ❌        | 287             |
 | 744 | Sand Bender                | ✅          | ✅       | ❌        | 298             |
 | 745 | Sand Pit                   | ✅          | ✅       | ❌        | 291             |
 | 746 | Desolate Sun               | ✅          | ✅       | ❌        | 294             |
@@ -781,7 +781,7 @@ In Progress: 0
 | 770 | Gladiator                  | ✅          | ✅       | ❌        | 299             |
 | 771 | Forsaken Heart             | ✅          | ✅       | ❌        | 291             |
 | 772 | Relentless                 | ✅          | ✅       | ❌        | 289             |
-| 773 | Soothsayer (ID: 773)       | ✅          | ✅       | ❌        | 258             |
+| 773 | Soothsayer                 | ✅          | ✅       | ❌        | 282             |
 | 774 | Corrupted Mind             | ✅          | ✅       | ❌        | 285             |
 | 775 | Flame Coat                 | ✅          | ✅       | ❌        | 293             |
 | 776 | Unown Power                | ✅          | ✅       | ❌        | 289             |
@@ -829,31 +829,31 @@ In Progress: 0
 | 818 | Tentalock (N)              | ✅          | ✅       | ❌        | 289             |
 | 819 | Serpent Bind (N)           | ✅          | ✅       | ❌        | 297             |
 | 820 | Soul Tap                   | ✅          | ✅       | ❌        | 292             |
-| 821 | Scarecrow                  | ✅          | ✅       | ❌        | 295             |
+| 821 | Scarecrow                  | ✅          | ✅       | ❌        | 284             |
 | 822 | Ominous Shroud             | ✅          | ✅       | ❌        | 295             |
 | 823 | Chilling Presence          | ✅          | ✅       | ❌        | 292             |
 | 824 | Frostbind                  | ✅          | ✅       | ❌        | 295             |
 | 825 | Glacial Ghost              | ✅          | ✅       | ❌        | 296             |
 | 826 | Tender Affection           | ✅          | ✅       | ❌        | 294             |
 | 827 | Wonder Scale               | ✅          | ✅       | ❌        | 293             |
-| 828 | Overzealous (N)            | ✅          | ✅       | ❌        | 285             |
+| 828 | Overzealous                | ✅          | ✅       | ❌        | 285             |
 | 829 | Stainless Steel            | ✅          | ✅       | ❌        | 297             |
-| 830 | Temporal Rupture (N)       | ✅          | ✅       | ❌        | 294             |
+| 830 | Temporal Rupture           | ✅          | ✅       | ❌        | 294             |
 | 831 | Grass Flute                | ✅          | ✅       | ❌        | 288             |
 | 832 | Hemotoxin                  | ✅          | ✅       | ❌        | 289             |
-| 833 | Harukaze (N)               | ✅          | ✅       | ❌        | 282             |
+| 833 | Harukaze                   | ✅          | ✅       | ❌        | 282             |
 | 834 | Toxic Surge                | ✅          | ✅       | ❌        | 296             |
 | 835 | Atlantic Ruler             | ✅          | ✅       | ❌        | 290             |
 | 836 | Biofilm                    | ✅          | ✅       | ❌        | 295             |
-| 837 | Chokehold (N)              | ✅          | ✅       | ❌        | 298             |
+| 837 | Chokehold                  | ✅          | ✅       | ❌        | 287             |
 | 838 | Guardian Coat              | ✅          | ✅       | ❌        | 294             |
-| 839 | Neutralizing Fog           | ✅          | ✅       | ❌        | 290             |
+| 839 | Neutralizing Fog           | ✅          | ✅       | ❌        | 285             |
 | 840 | Poison Quills              | ✅          | ✅       | ❌        | 294             |
 | 841 | Draconic Might             | ✅          | ✅       | ❌        | 285             |
 | 842 | Festivities (N)            | ✅          | ✅       | ❌        | 296             |
 | 843 | Fey Flight                 | ✅          | ✅       | ❌        | 289             |
 | 844 | Best Offense               | ✅          | ✅       | ❌        | 296             |
-| 845 | Impaler                    | ✅          | ✅       | ❌        | 296             |
+| 845 | Impaler                    | ✅          | ✅       | ❌        | 289             |
 | 846 | Magus Blades               | ✅          | ✅       | ❌        | 293             |
 | 847 | Lightning Born             | ✅          | ✅       | ❌        | 293             |
 | 848 | Superheavy (N)             | ✅          | ✅       | ❌        | 286             |
@@ -863,7 +863,7 @@ In Progress: 0
 | 852 | Envenom                    | ✅          | ✅       | ❌        | 289             |
 | 853 | Purple Haze                | ✅          | ✅       | ❌        | 290             |
 | 854 | Gnashing Cannon            | ✅          | ✅       | ❌        | 292             |
-| 855 | Hyper Cleanse              | ✅          | ✅       | ❌        | 296             |
+| 855 | Hyper Cleanse              | ✅          | ✅       | ❌        | 285             |
 | 856 | Molten Coat                | ✅          | ✅       | ❌        | 295             |
 | 857 | Royal Decree               | ✅          | ✅       | ❌        | 285             |
 | 858 | Breezy Neigh               | ✅          | ✅       | ❌        | 287             |
@@ -878,3 +878,9 @@ In Progress: 0
 | 867 | Supercell                  | ✅          | ✅       | ❌        | 294             |
 | 868 | Lightning Aspect           | ✅          | ✅       | ❌        | 280             |
 | 869 | Blistering Sun             | ✅          | ✅       | ❌        | 284             |
+| 870 | Molten Core                | ✅          | ✅       | ❌        | 295             |
+| 871 | Fire Aspect                | ✅          | ✅       | ❌        | 293             |
+| 872 | Aurora's Gale              | ✅          | ✅       | ❌        | 292             |
+| 873 | Ice Plumes                 | ✅          | ✅       | ❌        | 297             |
+| 874 | Winter Throne              | ✅          | ✅       | ❌        | 290             |
+| 875 | Energy Tap                 | ✅          | ✅       | ❌        | 299             |

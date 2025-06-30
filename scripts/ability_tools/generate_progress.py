@@ -94,8 +94,13 @@ def main():
     # Sort by ID
     abilities.sort(key=lambda x: x.get('id', 999999))
     
+    # Find the actual highest ability ID
+    max_id = max((a.get('id', 0) for a in abilities), default=0)
+    
+    # Total abilities is from 0 to max_id inclusive
+    total_abilities = max_id + 1  # This should be 876 (0-875)
+    
     # Count statistics
-    total_abilities = 869  # Known total
     completed = len(abilities)
     reviewed = sum(1 for a in abilities if a.get('status') == 'reviewed')
     
@@ -111,8 +116,8 @@ def main():
     # Track which IDs we've seen
     seen_ids = set()
     
-    # Add entries for all 869 abilities
-    for i in range(870):  # 0-869
+    # Add entries for all abilities from 0 to max_id
+    for i in range(total_abilities):  # 0 to max_id inclusive
         ability_data = None
         
         # Find matching ability data

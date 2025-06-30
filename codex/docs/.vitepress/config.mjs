@@ -14,13 +14,21 @@ function getAbilityFiles() {
   
   try {
     files = readdirSync(abilitiesDir)
-      .filter(file => file.endsWith('.md') && file !== 'index.md')
+      .filter(file => {
+        // Only include files that match the pattern: number_name.md
+        const isAbilityFile = /^\d+_/.test(file) && file.endsWith('.md')
+        return isAbilityFile
+      })
   } catch {
     // If that fails, try reading from knowledge/abilities
     try {
       abilitiesDir = join(__dirname, '../../../knowledge/abilities')
       files = readdirSync(abilitiesDir)
-        .filter(file => file.endsWith('.md') && file !== 'index.md' && file !== 'README.md')
+        .filter(file => {
+          // Only include files that match the pattern: number_name.md
+          const isAbilityFile = /^\d+_/.test(file) && file.endsWith('.md')
+          return isAbilityFile
+        })
     } catch {
       console.warn('No ability files found in either location')
       return []
