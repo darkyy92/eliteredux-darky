@@ -165,6 +165,29 @@
         <button class="editor-button secondary" @click="retryLoad">Retry</button>
       </div>
     </div>
+    
+    <!-- Save Modal -->
+    <Modal
+      v-model:isOpen="saveModalOpen"
+      title="Save Changes"
+      :message="saveModalMessage"
+      confirmText="Save Changes"
+      cancelText="Cancel"
+      @confirm="handleSaveConfirm"
+      @cancel="saveModalOpen = false"
+    />
+    
+    <!-- Approve Modal -->
+    <Modal
+      v-model:isOpen="approveModalOpen"
+      title="Approve Ability"
+      :message="approveModalMessage"
+      confirmText="Approve Ability"
+      cancelText="Cancel"
+      :danger="true"
+      @confirm="handleApproveConfirm"
+      @cancel="approveModalOpen = false"
+    />
   </div>
 </template>
 
@@ -172,8 +195,11 @@
 import { ref, computed, onMounted, onUnmounted, watch, nextTick } from 'vue'
 import { useData } from 'vitepress'
 import * as Diff from 'diff'
+import Modal from './Modal.vue'
+import { useUIState } from '../composables/useUIState'
 
 const { page } = useData()
+const { showToast, showConfirm, showSuccess, showError } = useUIState()
 
 // State
 const isExpanded = ref(false)
@@ -183,6 +209,19 @@ const activeTab = ref('edit')
 const originalContent = ref('')
 const editedContent = ref('')
 const approving = ref(false)
+
+// Modal states
+const saveModalOpen = ref(false)
+const approveModalOpen = ref(false)
+
+// Modal messages
+const saveModalMessage = computed(() => {
+  return `Are you sure you want to save changes to "${abilityInfo.value.name}"?\n\nExtended description: ${extendedDescCharCount.value} characters (max 300)`
+})
+
+const approveModalMessage = computed(() => {
+  return `Are you sure you want to approve "${abilityInfo.value.name}" (ID: ${abilityInfo.value.id})?\n\nThis will mark the ability as reviewed and include it in the game.\n\nPlease ensure:\n• The extended description is accurate\n• Character count is under 300 (currently: ${extendedDescCharCount.value})\n• No typos or errors exist`
+})
 
 // GitHub configuration for direct commits (trusted staff only)
 // The token should be set in .env.local as VITE_GITHUB_TOKEN
@@ -547,7 +586,7 @@ function resetContent() {
   activeTab.value = 'edit'
 }
 
-async function submitToGitHub() {
+function submitToGitHub() {
   if (!hasChanges.value || !isValidContent.value) return
   
   // Prevent double-clicks
@@ -557,18 +596,16 @@ async function submitToGitHub() {
   }
   
   if (!GITHUB_TOKEN) {
-    alert('Direct saving requires GitHub token configuration. Please use "Report Issue" instead.')
+    showError('Direct saving requires GitHub token configuration. Please use "Report Issue" instead.')
     return
   }
   
-  // Safety confirmation
-  const confirmed = confirm(
-    `Are you sure you want to save changes to "${abilityInfo.value.name}"?\n\n` +
-    `Extended description: ${extendedDescCharCount.value} characters (max 300)`
-  )
-  
-  if (!confirmed) return
-  
+  // Show save modal
+  saveModalOpen.value = true
+}
+
+async function handleSaveConfirm() {
+  saveModalOpen.value = false
   loading.value = true
   error.value = ''
   
@@ -632,7 +669,9 @@ async function submitToGitHub() {
     originalContent.value = contentWithReviewedStatus
     editedContent.value = contentWithReviewedStatus
     
-    alert(`Successfully saved changes to ${abilityInfo.value.name}!\n\nNote: Changes may take up to 3 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
+    showSuccess(`Successfully saved changes to ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
+      duration: 8000
+    })
     collapseEditor()
     
   } catch (err) {
@@ -657,28 +696,25 @@ function createSimpleIssue() {
   })
   
   const url = `${repoUrl}/issues/new?${params.toString()}`
+  
+  // For now, just open directly since it's less critical
   window.open(url, '_blank')
+  showSuccess('Opening GitHub to create issue...', { duration: 2000 })
 }
 
 function retryLoad() {
   loadOriginalContent()
 }
 
-async function approveAbility() {
+function approveAbility() {
   if (approving.value || isReviewed.value) return
   
-  // Safety confirmation
-  const confirmed = confirm(
-    `Are you sure you want to approve "${abilityInfo.value.name}" (ID: ${abilityInfo.value.id})?\n\n` +
-    `This will mark the ability as reviewed and include it in the game.\n\n` +
-    `Please ensure:\n` +
-    `• The extended description is accurate\n` +
-    `• Character count is under 300 (currently: ${extendedDescCharCount.value})\n` +
-    `• No typos or errors exist`
-  )
-  
-  if (!confirmed) return
-  
+  // Show approve modal
+  approveModalOpen.value = true
+}
+
+async function handleApproveConfirm() {
+  approveModalOpen.value = false
   approving.value = true
   
   try {
@@ -736,13 +772,15 @@ async function approveAbility() {
     editedContent.value = updatedContent
     
     // Step 5: Show success message
-    alert(`Successfully approved ${abilityInfo.value.name}!\n\nNote: Changes may take up to 3 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
+    showSuccess(`Successfully approved ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
+      duration: 8000
+    })
     
     // Don't auto-reload since changes take up to 3 minutes to propagate
     
   } catch (error) {
     console.error('Error approving ability:', error)
-    alert(`Failed to approve ability: ${error.message}`)
+    showError(`Failed to approve ability: ${error.message}`)
   } finally {
     approving.value = false
   }

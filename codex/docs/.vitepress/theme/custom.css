@@ -3,9 +3,28 @@
   --vp-c-brand: #646cff;
   --vp-c-brand-light: #747bff;
   --vp-c-brand-dark: #535bf2;
+  --vp-c-brand-dimm: rgba(100, 108, 255, 0.16);
   
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(120deg, #646cff 30%, #747bff);
+  
+  /* UI Component colors */
+  --vp-c-success: #10b981;
+  --vp-c-success-dimm: rgba(16, 185, 129, 0.16);
+  --vp-c-green: #10b981;
+  --vp-c-green-dimm: rgba(16, 185, 129, 0.16);
+  
+  --vp-c-danger: #ef4444;
+  --vp-c-danger-dark: #dc2626;
+  --vp-c-danger-dimm: rgba(239, 68, 68, 0.16);
+  
+  --vp-c-warning: #f59e0b;
+  --vp-c-warning-dimm: rgba(245, 158, 11, 0.16);
+  
+  --vp-c-gray: #6b7280;
+  --vp-c-gray-soft: #e5e7eb;
+  
+  --vp-c-white: #ffffff;
 }
 
 /* Light theme variables */
@@ -36,6 +55,10 @@
   --vp-c-text-1: #e1e1e1;
   --vp-c-text-2: #b8b8b8;
   --vp-c-text-3: #8e8e8e;
+  
+  /* Dark theme gray overrides */
+  --vp-c-gray: #9ca3af;
+  --vp-c-gray-soft: #374151;
 }
 
 /* Better mobile experience */

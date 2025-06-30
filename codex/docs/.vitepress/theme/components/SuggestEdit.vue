@@ -85,6 +85,7 @@ function createGitHubIssue() {
   
   const url = `${repoUrl}/issues/new?${params.toString()}`
   
+  // Just open directly
   window.open(url, '_blank')
 }
 
