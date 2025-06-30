@@ -8,13 +8,26 @@ on:
       - 'knowledge/abilities/*.md'
   workflow_dispatch:
 
+# Prevent concurrent runs
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   regenerate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    # Skip if the commit was made by the bot
+    if: github.actor != 'Ability Bot'
     
     steps:
+      - name: Debug trigger info
+        run: |
+          echo "Workflow triggered by: ${{ github.actor }}"
+          echo "Commit message: ${{ github.event.head_commit.message }}"
+          echo "Files changed: ${{ toJson(github.event.head_commit.modified) }}"
+      
       - name: Checkout
         uses: actions/checkout@v4
           
@@ -38,7 +51,23 @@ jobs:
           echo "🔄 Extracting approved descriptions..."
           python scripts/ability_tools/extract_approved_descriptions.py
           
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add -N knowledge/extended_ability_descriptions/progress.md
+          git add -N knowledge/extended_ability_descriptions/extended_descriptions.txt
+          git add -N codex/docs/.vitepress/ability-status.json
+          
+          if git diff --exit-code; then
+            echo "No changes detected"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config user.name "Ability Bot"
           git config user.email "ability-bot@elite-redux.com"
@@ -47,9 +76,5 @@ jobs:
           git add knowledge/extended_ability_descriptions/extended_descriptions.txt
           git add codex/docs/.vitepress/ability-status.json
           
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: Auto-regenerate ability tracking files"
-            git push origin main
-          fi
+          git commit -m "chore: Auto-regenerate ability tracking files [skip ci]"
+          git push origin main

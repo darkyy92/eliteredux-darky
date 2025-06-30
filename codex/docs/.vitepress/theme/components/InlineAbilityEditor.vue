@@ -520,6 +520,12 @@ function resetContent() {
 async function submitToGitHub() {
   if (!hasChanges.value || !isValidContent.value) return
   
+  // Prevent double-clicks
+  if (loading.value) {
+    console.log('Save already in progress, ignoring duplicate request')
+    return
+  }
+  
   if (!GITHUB_TOKEN) {
     alert('Direct saving requires GitHub token configuration. Please use "Report Issue" instead.')
     return
@@ -540,6 +546,8 @@ async function submitToGitHub() {
     const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
     const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`
     
+    const saveTimestamp = new Date().toISOString()
+    console.log(`[${saveTimestamp}] Starting save operation`)
     console.log('Saving to repository:', `${REPO_OWNER}/${REPO_NAME}`)
     console.log('File path:', filePath)
     console.log('API URL:', apiUrl)

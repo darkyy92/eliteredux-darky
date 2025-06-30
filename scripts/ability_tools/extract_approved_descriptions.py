@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Extract approved extended descriptions for game implementation.
-Reads all ability files with status: reviewed and generates extended_descriptions.txt
+Extract extended descriptions for game implementation.
+Reads all ability files and generates extended_descriptions.txt
+TODO: Once approval system is active, only extract status: reviewed
 """
 
 import os
@@ -64,15 +65,21 @@ def main():
             # Extract frontmatter
             frontmatter = extract_frontmatter(content)
             
-            if frontmatter and frontmatter.get('status') == 'reviewed':
+            if frontmatter:
                 ability_id = frontmatter.get('id')
+                status = frontmatter.get('status', 'unknown')
+                
+                # TODO: Once approval system is active, only include reviewed abilities
+                # For now, include all abilities with valid extended descriptions
                 if ability_id is not None:
                     # Extract extended description
                     extended_desc = extract_extended_description(content)
                     if extended_desc:
                         approved_descriptions[ability_id] = extended_desc
+                        if status != 'reviewed':
+                            print(f"   Including {status} ability {ability_id} (not yet reviewed)")
                     else:
-                        print(f"⚠️  Warning: No extended description found for approved ability {ability_id}")
+                        print(f"⚠️  Warning: No extended description found for ability {ability_id}")
                         
         except Exception as e:
             print(f"❌ Error reading {file_path}: {e}")
@@ -93,19 +100,30 @@ def main():
         f.write('\n'.join(output_lines))
     
     print(f"✅ Generated extended_descriptions.txt")
-    print(f"   Total approved abilities: {len(approved_descriptions)}")
+    print(f"   Total abilities with descriptions: {len(approved_descriptions)}")
     print(f"   Output file: {output_file}")
     
     # Character count validation
     invalid_count = 0
+    too_short = 0
+    too_long = 0
+    
     for ability_id, desc in approved_descriptions.items():
         char_count = len(desc)
-        if char_count < 280 or char_count > 300:
-            print(f"   ⚠️  ID {ability_id}: {char_count} chars (outside 280-300 range)")
+        if char_count < 280:
+            too_short += 1
+            invalid_count += 1
+        elif char_count > 300:
+            print(f"   ⚠️  ID {ability_id}: {char_count} chars (TOO LONG - max 300)")
+            too_long += 1
             invalid_count += 1
     
     if invalid_count > 0:
-        print(f"   ⚠️  {invalid_count} abilities have invalid character counts")
+        print(f"   ⚠️  {invalid_count} abilities have invalid character counts:")
+        if too_short > 0:
+            print(f"      - {too_short} too short (< 280 chars)")
+        if too_long > 0:
+            print(f"      - {too_long} too long (> 300 chars)")
 
 if __name__ == "__main__":
     main()
