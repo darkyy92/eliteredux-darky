@@ -11,7 +11,7 @@ character_count: 299
 "Dauntless Shield + Stamina."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Crowned Shield combines Dauntless Shield and Stamina effects. Boosts Defense by one stage when switching in. When taking damage, raises Defense by one stage or maxes Defense if hit by a critical hit. Provides exceptional defensive presence through stacking Defense boosts.
 

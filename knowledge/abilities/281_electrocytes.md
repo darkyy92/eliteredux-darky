@@ -11,7 +11,7 @@ character_count: 294
 "Boosts the power of Electric-type moves by 1.25x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Electrocytes enhances the Pokemon's Electric-type moves by 25% damage. This ability activates for all Electric-type attacks regardless of physical or special classification. Works consistently in all battle conditions and weather. Stacks multiplicatively with items and other damage modifiers for enhanced electrical power.
 

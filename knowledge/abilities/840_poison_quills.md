@@ -11,6 +11,8 @@ character_count: 294
 Rough Skin + Poison Point.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Sharp, venomous barbs cover the user's body, punishing physical contact. When struck by a contact move, the attacker takes damage equal to 1/8 of their maximum HP from the rough quills. Additionally, contact moves have a 30% chance to poison the attacker. This dual defense makes physical attackers think twice before engaging.
 
 ## Detailed Mechanical Explanation

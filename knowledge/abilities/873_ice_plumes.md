@@ -11,7 +11,7 @@ character_count: 297
 "Halves damage taken by Special moves. Does NOT double SpDef."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ice Plumes reduces damage from all special moves by 50% through damage calculation rather than stat boosts. Works against all special attacks including Hidden Power and Weather Ball. Does not affect physical moves or entry hazards. Provides reliable special bulk without stat modification stacking.
 

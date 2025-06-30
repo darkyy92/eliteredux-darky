@@ -11,7 +11,7 @@ character_count: 284
 "Biting moves have 50% chance to burn the target."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Flaming Jaws gives all biting moves a 50% chance to burn the target on hit. Works with moves boosted by Strong Jaw like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Hyper Fang, Poison Fang, Psychic Fangs, and Jaw Lock. Burn inflicts damage and halves Attack.
 

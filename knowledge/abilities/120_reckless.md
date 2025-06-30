@@ -11,7 +11,7 @@ character_count: 291
 "Moves causing recoil damage deal 1.2x more damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Reckless increases the damage of moves that cause recoil by 20%, making them deal 1.2x damage. This applies to moves like Double-Edge, Brave Bird, Flare Blitz, Wood Hammer, Volt Tackle, and other recoil-inducing attacks. The recoil damage itself remains unchanged by this ability.
 

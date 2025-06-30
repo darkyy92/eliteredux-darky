@@ -11,7 +11,7 @@ character_count: 290
 "1/8 Damage each turn to non-ice. Heals Ice 1/8 each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Winter Throne creates a freezing field that damages all non-Ice type Pokemon for 1/8 maximum HP each turn while healing all Ice-type Pokemon for 1/8 HP. Affects every Pokemon on the battlefield regardless of position. Ice types gain significant survivability advantage in prolonged battles.
 

@@ -11,7 +11,7 @@ character_count: 294
 "Trapping moves last 6 turns. Trapping deals 1/6 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grappler extends trapping moves to last 6 turns instead of 4-5 turns and increases damage to 1/6 max HP per turn. Affects moves like Bind, Wrap, Fire Spin, and Sand Tomb. Trapping damage occurs at end of turn. Makes binding strategies more potent and reliable.
 

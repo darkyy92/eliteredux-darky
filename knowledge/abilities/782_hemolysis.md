@@ -11,7 +11,7 @@ character_count: 289
 "Poisoned foes lose all stat buffs and can't heal."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon is on the field, poisoned enemies cannot heal HP through any means and lose all benefits from stat-boosting moves and abilities. This blood-corrupting ability disrupts the opponent's recovery strategies and neutralizes their stat advantages.
 

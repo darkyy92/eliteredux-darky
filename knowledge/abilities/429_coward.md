@@ -11,7 +11,7 @@ character_count: 280
 "Sets up Protect on switch-in. Only works once."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Coward automatically activates Protect on switch-in, providing complete immunity to attacks, status moves, and damage for one full turn. This protection only works once per battle entry, making it a powerful but limited defensive tool for fragile Pokemon or setting up strategies.
 

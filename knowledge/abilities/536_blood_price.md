@@ -11,7 +11,7 @@ character_count: 291
 "Does 30% more damage but lose 10% HP when attacking."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at turn's end. The HP cost only applies after using damaging moves, not status moves. Magic Guard prevents the HP loss while keeping the damage boost. Risky but rewarding for glass cannon strategies.
 

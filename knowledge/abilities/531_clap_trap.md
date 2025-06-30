@@ -11,7 +11,7 @@ character_count: 288
 "Counters contact with 50BP Snap Trap."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Clap Trap counters contact moves by immediately using Snap Trap with 50 base power against the attacker. The Steel-type retaliation traps opponents for 4-5 turns while dealing damage. Only activates when hit by contact moves, providing excellent defensive utility and battlefield control.
 

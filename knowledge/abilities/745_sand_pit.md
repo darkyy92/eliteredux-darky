@@ -11,7 +11,7 @@ character_count: 291
 "Attacks with 20BP Sand Tomb on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sand Pit automatically uses Sand Tomb with 20 base power when the Pokemon switches into battle. The attack targets all opposing Pokemon and traps them in quicksand for 2-5 turns, dealing Ground-type damage each turn. Cannot miss and ignores accuracy checks. Perfect for entry hazard control.
 

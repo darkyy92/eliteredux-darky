@@ -11,7 +11,7 @@ character_count: 296
 "Water Bubble + Flaming Soul."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Flame Bubble combines Water Bubble and Flaming Soul effects. Fire damage taken is halved, Water moves deal double damage, and the Pokémon is immune to burns. Additionally, Fire-type moves gain +1 priority when at full HP. Perfect for mixed Fire/Water attackers needing defensive utility.
 

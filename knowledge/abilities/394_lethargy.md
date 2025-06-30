@@ -11,7 +11,7 @@ character_count: 234
 "Damage drops 20% each turn to 20%. Resets on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching.
 

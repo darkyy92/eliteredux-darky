@@ -11,7 +11,7 @@ character_count: 286
 "Before using a move, changes its type to the move's type."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Libero changes the user's type to match the move being used before attacking, but only once per turn. The type change grants STAB bonus to the attack and affects defensive matchups. Cannot activate on Struggle moves. Perfect for unpredictable offensive coverage.
 

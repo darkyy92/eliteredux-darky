@@ -11,7 +11,7 @@ character_count: 299
 "Immune to stat drops."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Full Metal Body provides complete immunity to all stat reductions from enemy moves, abilities, and effects. Unlike Clear Body, it offers unbreakable protection against stat drops including forced reductions, making it ideal for defensive strategies and maintaining stat advantages throughout battle.
 

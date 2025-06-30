@@ -11,7 +11,7 @@ character_count: 291
 "Reduces damage that ally takes by 50% in double battles."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Friend Guard provides powerful team support by reducing damage taken by your ally Pokemon by 50% in double battles. This protective aura only works when both Pokemon are active and conscious on the field. Does not stack with multiple Friend Guard users but combines with other damage reduction.
 

@@ -11,7 +11,7 @@ character_count: 286
 "Nulls Psychic weakness; status moves always hit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokemon never miss. These three types are the primary weaknesses of Psychic-types, providing defensive immunity alongside perfect accuracy for utility moves.
 

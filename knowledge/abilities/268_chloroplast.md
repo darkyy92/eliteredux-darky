@@ -11,7 +11,7 @@ character_count: 295
 "Weather Ball, Solar Beam/Blade, Growth act as if used in sun."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Chloroplast lets Weather Ball, Solar Beam, Solar Blade, and Growth act as if used in harsh sunlight. Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages each instead of 1.
 

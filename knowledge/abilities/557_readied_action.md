@@ -11,7 +11,7 @@ character_count: 292
 "Doubles attack on first turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Readied Action doubles the Pokemon's Attack stat on the first turn after switching in. This boost applies to all physical moves used during that turn, making it excellent for immediate offensive pressure. The effect lasts only for one turn and resets upon switching out.
 

@@ -11,7 +11,7 @@ character_count: 294
 "Suppresses attacker's abilities on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by a contact move, Malodor suppresses the attacker's ability until they switch out, similar to Gastro Acid. This prevents abilities like Poison Touch, Static, or Flame Body from activating on subsequent turns. The suppression persists even if the Malodor user faints.
 

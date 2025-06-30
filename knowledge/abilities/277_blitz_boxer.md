@@ -11,7 +11,7 @@ character_count: 298
 "At full HP, gives +1 priority to this Pokemon's punching moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Blitz Boxer grants +1 priority to all punching moves when at full HP. This includes Mach Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Punch, Focus Punch, Dynamic Punch, and other Iron Fist moves. The ability only activates at maximum HP, making HP management crucial for optimal effectiveness.
 

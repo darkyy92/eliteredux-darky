@@ -11,7 +11,7 @@ character_count: 289
 "If hit, summons a sandstorm that lasts 8 turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sand Spit activates when the Pokemon takes damage from any attack. Upon activation, it summons an 8-turn sandstorm that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage and benefits from all sandstorm-based abilities.
 

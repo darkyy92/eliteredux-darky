@@ -11,7 +11,7 @@ character_count: 288
 "Deals 1.25x to same gender. Takes .75x from opposite gender."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rivalry boosts damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon. Creates strategic matchups where same-gender battles favor offense while opposite-gender encounters improve defense for tactical play.
 

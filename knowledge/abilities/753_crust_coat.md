@@ -11,7 +11,7 @@ character_count: 293
 "Immune to critical hits. Takes 20% less damage from attacks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Crust Coat provides comprehensive defensive protection by making the Pokemon immune to critical hits and reducing all incoming damage by 20%. This dual defense mechanism is particularly effective against high-critical-hit-ratio moves and strong attackers, making it excellent for tanky builds.
 

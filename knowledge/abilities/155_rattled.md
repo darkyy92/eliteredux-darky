@@ -11,7 +11,7 @@ character_count: 297
 "If hit by Bug, Dark or Ghost move, or flinches: +1 Speed."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only triggers on moves that deal damage and doesn't activate if the Pokemon faints from the hit. Provides defensive utility by turning weaknesses into opportunities.
 

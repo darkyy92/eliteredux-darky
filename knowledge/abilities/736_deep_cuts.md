@@ -11,7 +11,7 @@ character_count: 295
 "Slashing moves have a 50% chance to inflict bleeding."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Deep Cuts gives all slashing moves a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage each turn until healed. Only affects moves with the Keen Edge flag like Slash, Fury Cutter, and Razor Wind. Rock and Ghost types are immune to bleeding.
 

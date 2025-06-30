@@ -11,7 +11,7 @@ character_count: 289
 "Mystic Power + Hidden and Secret Power hit Super-effectively."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grants STAB to all moves (Mystic Power effect) and makes Hidden Power and Secret Power deal super-effective damage against all targets regardless of type matchups. This ability transforms these variable-type moves into universally effective attacks while providing STAB on every move used.
 

@@ -11,7 +11,7 @@ character_count: 293
 "Applies Shell Smash when reduced below 1/2 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon's HP drops below half from an attack, it triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle when crossing the threshold.
 

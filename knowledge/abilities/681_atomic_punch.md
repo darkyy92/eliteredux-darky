@@ -11,7 +11,7 @@ character_count: 289
 "Iron Fist + 30% Steel type damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Atomic Punch combines Iron Fist's 30% boost to punching moves with an additional 30% boost to all Steel-type moves. When using Steel-type punching moves like Meteor Mash or Bullet Punch, both effects apply multiplicatively for massive damage. Perfect for physical Steel attackers who specialize in punching.
 

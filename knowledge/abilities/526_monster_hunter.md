@@ -11,7 +11,7 @@ character_count: 291
 "Deals 1.5x damage to Dark. Takes 0.5x damage from Dark."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Monster Hunter grants 1.5x damage when attacking Dark-type Pokemon and takes 0.5x damage from Dark-type attacks. The damage bonus applies to all moves used against Dark types. The damage reduction works against all Dark-type moves regardless of category. Breakable by Mold Breaker.
 

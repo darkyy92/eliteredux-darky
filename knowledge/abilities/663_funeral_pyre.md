@@ -11,7 +11,7 @@ character_count: 299
 "Non-Ghost and Dark-types take 1/4 damage every turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Funeral Pyre creates a supernatural field that burns the life force of all Pokémon except Ghost and Dark-types. Affected Pokémon lose 25% of their max HP at the end of each turn. The damage ignores type immunities but is blocked by Magic Guard. Creates persistent pressure forcing switches.
 

@@ -11,7 +11,7 @@ character_count: 297
 "50% chance to trap, then drop the their speed by -1 each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Serpent Bind gives attacks a 50% chance to trap the target, preventing escape or switching. Once trapped, the victim's speed drops by one stage each turn they remain on the field. The binding effect persists until the user faints or switches out, maintaining constant pressure.
 

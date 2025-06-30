@@ -11,7 +11,7 @@ character_count: 289
 "Striker + Dancer"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines the power of Striker and elegance of Dancer. Moves with striking techniques deal 30% more damage, while all dance moves are automatically copied when used by any Pokemon on the field. Perfect fusion of offense and rhythm.
 

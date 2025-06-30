@@ -11,7 +11,7 @@ character_count: 283
 "Moves inflict burn 5x as often."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Pyromancy multiplies the burn chance of all moves by 5x. Moves with 10% burn chance become 50%, and 30% burn chance becomes 100% guaranteed. This affects all burn-inducing moves including Fire-type attacks, certain physical moves, and secondary effects, making burn a reliable strategy.
 

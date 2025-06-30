@@ -11,7 +11,7 @@ character_count: 283
 "Protects once against an attack. Restores protection in fog."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Disguise blocks the first damaging move that hits the Pokemon, breaking the disguise and changing its form. Only non-status moves are blocked, and certain moves bypass this protection. In fog weather, the disguise is restored, returning to the original form.
 

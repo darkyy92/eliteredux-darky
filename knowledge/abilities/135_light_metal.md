@@ -11,7 +11,7 @@ character_count: 299
 "Boosts Speed by 1.3x and halves this Pokemon's weight."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Light Metal makes the Pokemon lighter and faster by halving its weight and boosting Speed by 30%. The weight reduction affects weight-based moves like Low Kick, Grass Knot, Heavy Slam, and Heat Crash. Lower weight reduces damage taken from opposing weight moves but also reduces damage dealt by the user's weight moves.
 

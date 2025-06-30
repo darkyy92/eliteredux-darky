@@ -11,7 +11,7 @@ character_count: 285
 "Psychic moves ignore resists and get 1.4x effect chance."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Psychic-type moves bypass all type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%, making status infliction more reliable.
 

@@ -11,7 +11,7 @@ character_count: 298
 "Bounces back the effect of status moves to their user."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Magic Bounce automatically reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Works against moves like Toxic, Leech Seed, Taunt, and Will-O-Wisp but not damaging moves or self-targeting status moves.
 

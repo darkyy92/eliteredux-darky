@@ -11,7 +11,7 @@ character_count: 296
 "Negates Weather, Rooms and Terrains."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Clueless negates all weather, terrain, and room effects while active on the field. Blocks sun, rain, sandstorm, hail, and all terrain types. Prevents Trick Room, Wonder Room, Magic Room, Inverse Room, and Gravity. Provides complete immunity to field-altering effects and environmental conditions.
 

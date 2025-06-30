@@ -11,7 +11,7 @@ character_count: 295
 "Sand reduces damage by 35%. Boosts Ground moves by 20%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dune Terror reduces damage taken by 35% during sandstorm weather and boosts Ground-type moves by 20%. Works with all forms of sandstorm including regular sandstorm and enhanced variants. The damage reduction applies to all incoming attacks while Ground-type boost remains active in sandstorms.
 

@@ -11,7 +11,7 @@ character_count: 283
 "Casts Sticky Web on entry. Lasts 7 turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, automatically sets up Sticky Web on the opponent's side for exactly 7 turns. This enhanced hazard lowers the Speed stat of any enemy Pokemon that switches in by one stage, providing extended entry control without turn investment until the webs naturally expire.
 

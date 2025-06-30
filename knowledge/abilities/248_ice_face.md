@@ -11,7 +11,7 @@ character_count: 293
 "Protects once against an attack. Restores protection under hail."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. Under hail weather, the Pokemon regenerates its Ice Face form, regaining the protective disguise. Only physical attacks trigger the transformation. Special attacks bypass the protection entirely.
 

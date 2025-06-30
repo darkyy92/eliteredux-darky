@@ -11,7 +11,7 @@ character_count: 286
 "Ambush + Violent Rush."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Showdown Mode combines the devastating effects of Ambush and Violent Rush on the first turn after switching in. The Pokemon gains guaranteed critical hits on all attacks plus boosts Attack by 20% and Speed by 50% for explosive opening turns that can catch opponents off guard.
 

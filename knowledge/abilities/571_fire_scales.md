@@ -11,7 +11,7 @@ character_count: 290
 "Halves damage taken by Special moves. Does NOT double SpDef."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fire Scales provides a 50% damage reduction against all special attacks, effectively halving incoming special damage. Unlike Marvel Scale which boosts defensive stats when afflicted, Fire Scales directly reduces damage from special moves through a multiplicative modifier applied during damage calculation.
 

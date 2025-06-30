@@ -11,7 +11,7 @@ character_count: 294
 "Normal-type moves become Electric and Electric gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokemon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
 

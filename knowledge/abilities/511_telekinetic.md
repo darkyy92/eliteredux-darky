@@ -11,7 +11,7 @@ character_count: 294
 "Casts Telekinesis on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet off the ground for 3 turns. While levitating, all attacks targeting the user have perfect accuracy, but the user becomes immune to Ground-type moves and terrain effects. Cannot affect grounded Pokemon.
 

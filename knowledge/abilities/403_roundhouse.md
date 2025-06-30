@@ -11,7 +11,7 @@ character_count: 289
 "Kicks always hit. Damages foes' weaker defenses."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Roundhouse makes all kicking moves never miss and target the opponent's weaker defense stat. Kick moves with striker boost gain perfect accuracy and automatically hit Defense or Special Defense, whichever is lower. This ability transforms unreliable kicks into devastating attacks.
 

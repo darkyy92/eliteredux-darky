@@ -11,7 +11,7 @@ character_count: 292
 "KOs raise Attack by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
 

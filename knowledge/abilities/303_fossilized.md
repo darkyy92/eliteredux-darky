@@ -11,7 +11,7 @@ character_count: 295
 "Halves dmg taken by Rock moves. Boosts own Rock moves by 1.2x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fossilized grants dual Rock-type synergy, reducing incoming Rock-type damage by 50% while boosting the power of the user's Rock-type moves by 20%. This ancient adaptation reflects millions of years of geological pressure and crystallization, providing both defensive resilience and offensive enhancement to fossil Pokemon.
 

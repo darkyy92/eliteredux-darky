@@ -11,6 +11,8 @@ character_count: 295
 Biofilm provides a significant defensive boost to the user's Special Defense when Toxic Terrain is active on the battlefield.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Secrets a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves.
 
 ## Detailed Mechanical Explanation

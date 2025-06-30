@@ -11,7 +11,7 @@ character_count: 286
 "Biting moves have 50% chance to paralyze the target."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Shocking Jaws gives all biting moves exactly a 50% chance to paralyze the target on hit. Affects moves like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Poison Fang, Psychic Fangs, and many others. Paralysis reduces Speed by 50% and causes 25% chance to be unable to move each turn.
 

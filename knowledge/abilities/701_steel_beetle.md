@@ -11,7 +11,7 @@ character_count: 295
 "Raging Boxer + Pollinate."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Steel Beetle combines Raging Boxer and Pollinate effects. Punching moves hit twice with first hit at 100% power and second at 40%. Normal-type moves become Bug-type with 1.2x power boost. Bug-type moves always receive STAB regardless of Pokemon's actual typing.
 

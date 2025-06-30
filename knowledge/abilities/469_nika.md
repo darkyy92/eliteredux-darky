@@ -11,7 +11,7 @@ character_count: 295
 "Iron fist + Water moves function normally under sun."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Nika combines Iron Fist's 30% power boost to punching moves with protection for Water-type attacks in sunny weather. While Water moves normally deal reduced damage in sun, Nika prevents this penalty, allowing them to function at full power. Perfect for mixed attackers.
 

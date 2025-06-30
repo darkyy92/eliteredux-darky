@@ -11,7 +11,7 @@ character_count: 284
 "Ups highest attacking stat by 1.5x in hail."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Whiteout boosts the Pokemon's highest attacking stat by 50% during hail weather. The boost applies to either Attack or Special Attack, whichever is higher. Also grants immunity to hail damage. Ideal for mixed attackers in hail teams.
 

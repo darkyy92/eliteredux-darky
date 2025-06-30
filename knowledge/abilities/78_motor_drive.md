@@ -11,7 +11,7 @@ character_count: 289
 "Boosts Speed instead of being hit by Electric-type moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Motor Drive makes the Pokemon immune to Electric-type moves, boosting Speed by 1 stage instead of taking damage. This includes status moves like Thunder Wave. Works against multi-hit Electric moves, boosting Speed for each hit absorbed. Excellent for pivoting into Electric attacks safely.
 

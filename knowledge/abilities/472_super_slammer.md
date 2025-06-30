@@ -11,7 +11,7 @@ character_count: 285
 "Boosts the power of hammer and slamming moves by 1.3x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Super Slammer boosts the power of hammer-based moves by 30%. Hammer moves include Wood Hammer, Hammer Arm, Crabhammer, Dragon Hammer, Gigaton Hammer, and many custom moves. Works with contact moves that use hammering, slamming, or striking motions to deal physical damage to opponents.
 

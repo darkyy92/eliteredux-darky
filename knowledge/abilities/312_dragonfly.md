@@ -11,7 +11,7 @@ character_count: 295
 "Adds Dragon type to itself. Avoids Ground attacks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dragonfly grants the Dragon type to the Pokemon on switch-in, creating dual or triple typing. The ability also provides complete immunity to Ground-type moves through levitation, making the Pokemon unaffected by moves like Earthquake and Spikes.
 

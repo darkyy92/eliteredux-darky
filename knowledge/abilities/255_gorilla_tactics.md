@@ -11,7 +11,7 @@ character_count: 294
 "Boosts physical moves but restricts choice like Choice Band."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Gorilla Tactics boosts physical move power by 50% but locks the Pokemon into using the first move selected, preventing other moves until switching out. Similar to Choice Band but as an ability. Forces strategic commitment to one physical attack per battle appearance, rewarding decisive play.
 

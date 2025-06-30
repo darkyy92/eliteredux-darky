@@ -11,7 +11,7 @@ character_count: 296
 "Lowers the Special Defense of other Pokemon by 25%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Beads of Ruin creates a passive aura that reduces the Special Defense of all other Pokemon on the field by 25%. This effect applies immediately when entering battle and persists while on the field. Cannot be suppressed by abilities like Neutralizing Gas. Stacks with other stat reduction effects.
 

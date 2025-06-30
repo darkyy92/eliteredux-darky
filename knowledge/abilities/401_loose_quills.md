@@ -11,7 +11,7 @@ character_count: 282
 "Sets a layer of Spikes when hit (contact move)."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Loose Quills automatically sets a layer of Spikes on the opponent's side when hit by any contact move. Can set up to 3 layers maximum. Each layer deals 12.5%, 16.7%, or 25% of max HP damage when opponents switch in. Perfect for punishing physical attackers and controlling switches.
 

@@ -11,6 +11,8 @@ character_count: 286
 Steadfast + blocks phasing moves.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This innate ability combines two powerful defensive effects. When flinched, the Pokemon's Speed stat increases by one stage, helping it act faster on subsequent turns. Additionally, the Pokemon's immense weight prevents forced switching from moves like Roar, Whirlwind, Circle Throw, and Dragon Tail, maintaining field control even against disruption tactics.
 
 ## Key Mechanics

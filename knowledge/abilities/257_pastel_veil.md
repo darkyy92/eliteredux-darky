@@ -11,7 +11,7 @@ character_count: 287
 "Casts Safeguard on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions including burn, freeze, paralysis, poison, and sleep. Does not activate if Safeguard is already active.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Drastically alters all of the users moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Angel's Wrath completely transforms six basic moves into powerful variants with unique effects. Tackle gains Encore+Disable, String Shot sets all entry hazards, Harden boosts all stats except Defense, Iron Defense grants protection, Electroweb traps and minimizes Speed, Bug Bite heals damage dealt.
 

@@ -11,7 +11,7 @@ character_count: 293
 "Boosts Speed instead of being hit by Flying-type moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When targeted by Flying-type moves, Aerodynamics absorbs the attack completely and raises the user's Speed stat by one stage instead of taking damage. This works similarly to abilities like Motor Drive or Lightning Rod, providing both defensive utility and offensive setup opportunities.
 

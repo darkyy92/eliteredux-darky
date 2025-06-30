@@ -11,6 +11,8 @@ character_count: 295
 This Pokemon's bite and jaw moves are boosted by 30%, with healing on KO.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This Pokemon's bite and jaw moves are boosted by 30%. When KOing opponents with these moves, it heals 50% of its max HP, but only 25% when using other moves.
 
 ## Detailed Mechanical Explanation

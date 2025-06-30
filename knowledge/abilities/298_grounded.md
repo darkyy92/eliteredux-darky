@@ -11,7 +11,7 @@ character_count: 288
 "Adds Ground type to itself."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grounded adds Ground type to the Pokemon upon entry, creating dual or triple typing. Provides Electric immunity and Ground STAB. Exceptional on Flying types like Dodrio, negating their Electric weakness while keeping aerial advantages. Synergizes with Earthbound for boosted Ground moves.
 

@@ -11,7 +11,7 @@ character_count: 294
 "Immune to critical hits. Takes 20% less damage from attacks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dream State grants complete immunity to critical hits and reduces all incoming damage by 20%. The damage reduction stacks with resistances and items. Critical immunity blocks all crit sources including abilities and held items, making it excellent against high-crit Pokemon and luck strategies.
 

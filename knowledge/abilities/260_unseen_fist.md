@@ -11,7 +11,7 @@ character_count: 299
 "Contact moves strike through protection."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokemon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.
 

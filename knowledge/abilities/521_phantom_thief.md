@@ -11,7 +11,7 @@ character_count: 295
 "Attacks with 40BP Spectral Thief on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Phantom Thief automatically uses a 40 BP Spectral Thief when switching in, targeting a random opponent. Steals all positive stat boosts from the target and applies them to the user. Ghost-type attack benefits from STAB on Ghost-types. Cannot miss and ignores Substitute.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Sets Gravity on entry for 8 turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Atlas sets Gravity field effect upon entering battle for 8 turns. Gravity prevents levitating moves like Fly and Bounce, grounds all Pokemon making them vulnerable to Ground moves, and boosts move accuracy by 66%. Superior to regular Gravity's 5-turn duration.
 

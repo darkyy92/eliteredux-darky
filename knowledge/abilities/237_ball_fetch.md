@@ -11,7 +11,7 @@ character_count: 299
 "No effect in battle."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ball Fetch is a utility ability that functions only outside of battle. When a Pokemon with Ball Fetch participates in a battle where a Poké Ball is thrown but fails to catch the wild Pokemon, the Pokemon will retrieve the first used Poké Ball after the battle ends. This ability is completely inactive during trainer battles.
 

@@ -11,6 +11,8 @@ character_count: 289
 Moves have a 30% chance to poison the target.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 When this Pokemon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.
 
 ## Detailed Mechanical Explanation

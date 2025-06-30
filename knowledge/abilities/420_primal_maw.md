@@ -11,7 +11,7 @@ character_count: 294
 "Biting moves hit twice. 2nd hit does 0.4x damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Primal Maw causes all biting moves to hit twice in succession. The first hit deals full damage while the second hit deals 40% damage. Works with any move that has the Strong Jaw flag including Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, and Poison Fang.
 

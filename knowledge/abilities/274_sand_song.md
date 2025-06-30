@@ -11,7 +11,7 @@ character_count: 294
 "Sound moves get a 1.2x boost and become Ground if Normal."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. This includes moves like Hyper Voice, Boomburst, and Uproar becoming powerful Ground attacks. The type change occurs before damage calculation, allowing STAB and type effectiveness.
 

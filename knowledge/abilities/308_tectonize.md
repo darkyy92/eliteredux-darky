@@ -11,7 +11,7 @@ character_count: 296
 "Normal-type moves become Ground and Ground gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves. This allows Pokemon to use moves like Tackle, Hyper Beam, and Boomburst as powerful Ground-type attacks. The converted moves retain their original power and effects while gaining Ground typing benefits.
 

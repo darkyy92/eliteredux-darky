@@ -11,7 +11,7 @@ character_count: 290
 "Entry heals all party status if any exists."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 On entry, if any Pokemon in the user's party has a status condition (sleep, poison, burn, freeze, paralysis, toxic, frostbite, or bleed), this ability automatically heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.
 

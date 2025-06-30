@@ -11,7 +11,7 @@ character_count: 283
 "Passes own item to its ally if said ally consumes its item."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Symbiosis automatically transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. Only works in Double/Multi battles with teammates on the same side. Perfect for supporting strategies.
 

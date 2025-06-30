@@ -11,7 +11,7 @@ character_count: 296
 "Fire moves hits twice, both hits at 70% power."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Raging Moth causes all Fire-type moves to hit twice consecutively, with each hit dealing 70% of the move's original power. This results in 140% total damage output. Both hits can trigger effects like Flame Body or items like Focus Sash separately. Perfect for breaking through defensive tactics.
 

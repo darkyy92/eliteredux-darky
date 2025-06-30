@@ -11,7 +11,7 @@ character_count: 258
 "Evasion is boosted by 1.25x under hail."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Snow Cloak reduces opponent accuracy by 20% during hail weather, providing a defensive boost through evasion. The Pokemon is also immune to hail damage. This ability is breakable by moves like Mold Breaker but still grants hail immunity even when suppressed.
 

@@ -11,7 +11,7 @@ character_count: 299
 "Sweet Dreams + Self Sufficient."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Sweet Dreams and Self Sufficient healing effects. When asleep, restores 1/8 max HP minus 1/16 max HP (net 1/16 HP). When awake, restores 1/16 max HP at end of turn except on the first turn. Provides consistent healing regardless of sleep status.
 

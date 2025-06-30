@@ -11,7 +11,7 @@ character_count: 284
 "Lowering any stats on its side raises SpAtk and SpDef."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Queen's Mourning activates when any stat is lowered on the Pokemon's side of the field, not just the Pokemon with this ability. When triggered, it raises both Special Attack and Special Defense by one stage each. Works with partner Pokemon in doubles, making it excellent for support.
 

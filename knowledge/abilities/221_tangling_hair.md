@@ -11,7 +11,7 @@ character_count: 288
 "Lowers Speed of enemies that make contact with this Pokemon."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by a contact move, the attacker becomes tangled in the user's hair, reducing their Speed by one stage. This sticky hair trap punishes physical contact attackers by slowing them down, making it harder for fast physical sweepers to maintain momentum. Bypasses Safeguard protection.
 

@@ -11,7 +11,7 @@ character_count: 291
 "At full HP, halves damage taken from attacks"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Multiscale provides a powerful defensive barrier, reducing all incoming damage by 50% when the Pokemon is at maximum HP. This protection applies to all attack types including physical, special, and fixed damage moves. The ability deactivates after taking any damage but resets when healed to full.
 

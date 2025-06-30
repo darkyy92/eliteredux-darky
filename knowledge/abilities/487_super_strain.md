@@ -11,7 +11,7 @@ character_count: 287
 "KOs lower Attack by 1. Take 25% recoil damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 This ability modifies recoil damage calculation and triggers when the user causes an opponent to faint. Recoil moves deal 25% damage to user instead of normal recoil rates. When user KOs opponent, attacker's Attack stat drops by 1 stage automatically.
 

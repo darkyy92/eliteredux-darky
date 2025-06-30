@@ -11,7 +11,7 @@ character_count: 288
 "Uses Forest's Curse on Entry. Adds Grass type on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokemon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.
 

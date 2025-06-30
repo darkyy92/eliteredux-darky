@@ -11,7 +11,7 @@ character_count: 293
 "Raises critical-hit ratio of own moves by +1."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Super Luck adds +1 to the critical hit stage of all the Pokemon's damaging moves. This effectively doubles the critical hit chance for most moves (from 1/16 to 1/8). Stacks with high-crit moves like Slash and items like Scope Lens. Maximum crit stage is still capped at +4 for guaranteed crits.
 

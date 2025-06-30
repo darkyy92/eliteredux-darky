@@ -11,7 +11,7 @@ character_count: 296
 "Spreads two layers of Spikes on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon switching in, the Pokemon scatters sharp spikes across the opponent's battlefield, creating two layers of Spikes that damage grounded enemies who switch in. Each layer increases the damage dealt by enemy hazards.
 

@@ -11,7 +11,7 @@ character_count: 295
 "After using a dance move, uses Revelation Dance at 50% power."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Two Step triggers after successfully using any dance move, automatically following up with Revelation Dance at 50% power. The follow-up move matches the user's primary type and targets the same foe. Works with moves like Quiver Dance, Swords Dance, and other dance attacks for combo potential.
 

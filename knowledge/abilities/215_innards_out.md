@@ -11,7 +11,7 @@ character_count: 287
 "If KO'd, deals as much damage as what the fatal attack dealt."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Innards Out activates when the Pokemon is knocked out by an opponent's direct attack. It inflicts the exact same amount of damage the fatal attack dealt back to the attacker. Works with physical and special moves but not indirect damage. Cannot affect attackers protected by Magic Guard.
 

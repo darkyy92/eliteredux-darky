@@ -11,7 +11,7 @@ character_count: 296
 "Immune to projectile, ball, or bomb-based moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Provides complete immunity to ball, bomb, and projectile moves. Blocks Shadow Ball, Focus Blast, Aura Sphere, Sludge Bomb, Energy Ball, Bullet Seed, and similar ballistic attacks. The immunity prevents all damage and effects from these moves, working against both physical and special variants.
 

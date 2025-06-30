@@ -11,7 +11,7 @@ character_count: 294
 "Takes 35% less damage from Super-effective moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokemon survive key hits they otherwise couldn't tank.
 

@@ -11,7 +11,7 @@ character_count: 289
 "Water Absorb + Storm Drain."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Reservoir combines Water Absorb and Storm Drain effects. When hit by Water-type moves, the Pokemon recovers 25% HP and boosts its highest attacking stat by one stage. Single-target Water moves are redirected to this Pokemon. Perfect for mixed attackers on water-weak teams needing sustain.
 

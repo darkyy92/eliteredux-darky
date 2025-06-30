@@ -11,7 +11,7 @@ character_count: 292
 "Getting hit raises Atk by +1. Critical hits maximize Attack."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Anger Point raises Attack by +1 stage when taking damage from any move. When hit by a critical hit, Attack is maximized to +6 stages instantly. Only triggers if the Pokemon survives the hit and can have its Attack raised. Perfect for turning defensive situations into offensive opportunities.
 

@@ -11,7 +11,7 @@ character_count: 297
 "Protects itself and ally from priority moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Armor Tail prevents priority moves from targeting the user and their ally. Works against all positive priority moves like Quick Attack, Bullet Punch, and Extreme Speed. The protection applies to both single and double battles. This breakable ability can be bypassed by Mold Breaker effects.
 

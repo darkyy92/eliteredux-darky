@@ -11,7 +11,7 @@ character_count: 287
 "Takes 1/2 dmg from contact moves but Water moves hurt it 2x more."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. The ability activates on physical contact moves like Tackle, Punch moves, and Bite, but not on ranged moves like Thunderbolt or Flamethrower. This creates a unique risk-reward dynamic.
 

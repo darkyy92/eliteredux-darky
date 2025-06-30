@@ -11,7 +11,7 @@ character_count: 294
 "Combines Aftermath and Inflatable effects."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokemon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.
 

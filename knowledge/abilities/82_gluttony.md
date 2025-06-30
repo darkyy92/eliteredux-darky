@@ -11,7 +11,7 @@ character_count: 255
 "Eats berries early. Berries also restore 1/3 of max HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. This includes both held berries and berries consumed through moves like Pluck or Natural Gift.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Boosts Attack instead of being hit by Dark-type moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Justified activates when hit by Dark-type moves, granting immunity to damage and raising the user's highest attacking stat by 1 stage. Whether Attack or Special Attack increases depends on which is naturally higher with stat boosts considered. Pairs well with switch-ins.
 

@@ -11,7 +11,7 @@ character_count: 295
 "All attacks are dances."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Taekkyeon makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects. This includes all physical and special attacking moves but excludes pure status moves. Creates powerful synergy with teammates who have Dancer or dance-triggered abilities.
 

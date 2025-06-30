@@ -11,7 +11,7 @@ character_count: 297
 "+20% accuracy; Dark moves fail when user is present."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Radiance increases the Pokemon's accuracy by 20% for all moves and provides complete immunity to Dark-type attacks when the user is present on the field. The accuracy boost applies to all moves used by the Pokemon. Dark-type moves targeting this Pokemon will fail entirely and deal no damage.
 

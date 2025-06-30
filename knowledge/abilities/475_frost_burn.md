@@ -11,7 +11,7 @@ character_count: 299
 "Triggers 40BP Ice Beam after using a Fire-type move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Frost Burn triggers a 40 BP Ice Beam immediately after using any Fire-type move. The followup Ice Beam targets the same opponent with perfect accuracy. Works with all Fire moves regardless of power or success. Creates unique Fire-Ice combination for surprising opponents with opposite type coverage.
 

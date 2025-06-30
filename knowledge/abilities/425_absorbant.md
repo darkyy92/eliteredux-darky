@@ -11,7 +11,7 @@ character_count: 287
 "Drain moves recover +50% HP & apply Leech Seed."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target. Affects moves like Absorb, Mega Drain, Giga Drain, and Drain Punch. Leech Seed won't apply to Grass-types or already seeded targets. Excellent for sustain-focused strategies.
 

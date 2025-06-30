@@ -11,6 +11,8 @@ character_count: 284
 Sound moves cause bleeding.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Piercing Solo turns the user into a sound-based predator. When any sound move hits an opponent, the intense vibrations pierce through defenses and cause internal bleeding. This transforms utility sound moves into damaging threats over time, making Pokemon with this ability dangerous.
 
 ## Detailed Mechanical Explanation

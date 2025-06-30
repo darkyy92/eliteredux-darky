@@ -11,7 +11,7 @@ character_count: 284
 "Attacks trap and have a 20% flinch chance when moving first."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 From the Shadows traps the target with every attack, preventing escape like Block. When the user moves first in a turn, attacks gain a 20% chance to flinch. The trap effect applies regardless of flinch success. Creates pressure through speed control and escape denial.
 

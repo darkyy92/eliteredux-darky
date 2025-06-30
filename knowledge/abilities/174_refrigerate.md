@@ -11,7 +11,7 @@ character_count: 285
 "Normal-type moves become Ice and Ice gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Refrigerate converts all Normal-type moves to Ice-type. The Pokemon gains STAB (1.5x power) for Ice moves regardless of its original typing. Unlike the main series, this ability does not provide an additional 1.2x power boost to converted moves, only type conversion and STAB access.
 

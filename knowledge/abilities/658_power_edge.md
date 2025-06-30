@@ -11,7 +11,7 @@ character_count: 290
 "Keen Edge moves target Special Defense and get a 1.3x boost."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Power Edge enhances all slashing attacks by 30% while forcing them to target Special Defense instead of Defense. This transforms physical slashing moves into mixed attackers that exploit weaker special bulk. Perfect for breaking through defensive walls.
 

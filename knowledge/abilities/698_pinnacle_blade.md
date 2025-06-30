@@ -11,6 +11,8 @@ character_count: 298
 Slashing moves always hit and break protection and barriers.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This elite ability makes the user an unstoppable blade master. All slashing moves bypass accuracy checks for guaranteed hits and ignore protective measures, shattering screens like Reflect and Light Screen, destroying Substitutes, and penetrating Protect. Only affects moves with the slashing flag.
 
 ## Detailed Mechanical Explanation

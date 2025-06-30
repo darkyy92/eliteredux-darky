@@ -11,7 +11,7 @@ character_count: 297
 "Nulls abilities when confused except others with this ability."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mental Pollution renders all opposing Pokemon's abilities completely inactive while they are confused. Only other Pokemon with Mental Pollution remain unaffected. This creates powerful disruption against ability-reliant teams but requires inflicting confusion first to take effect.
 

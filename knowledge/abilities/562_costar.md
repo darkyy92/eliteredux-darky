@@ -11,7 +11,7 @@ character_count: 284
 "Copies its ally's stat changes on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Costar copies all stat stage changes from the ally when switching in during doubles battles. If the ally has +2 Attack and -1 Defense, the Costar user gains the exact same stat modifications. Only works with a living ally and applies to all seven battle stats including accuracy and evasion.
 

@@ -11,7 +11,7 @@ character_count: 289
 "Self Sufficient + Ripen."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Apple Pie combines Self Sufficient and Ripen effects. Heals 1/16 of max HP at the end of each turn and doubles all berry effects including healing, stat boosts, and damage from offensive berries. Perfect for sustained battles with berry-based strategies and natural recovery.
 

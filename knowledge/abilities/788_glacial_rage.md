@@ -11,7 +11,7 @@ character_count: 297
 "Triggers 50 BP Blizzard after using a Ice-type move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 After using any Ice-type move, the Pokemon automatically follows up with a 50 BP Blizzard that can hit both opponents in double battles. This creates a devastating combo that turns every Ice attack into a potential freeze opportunity.
 

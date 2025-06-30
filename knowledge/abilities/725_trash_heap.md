@@ -11,7 +11,7 @@ character_count: 294
 "Corrosion + Toxic Spill."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Trash Heap combines Corrosion and Toxic Spill effects. Poison-type moves hit Steel-types for super effective damage and can poison any type. Upon entry, creates toxic waste that damages all non-Poison types by 1/8 HP each turn. Poison Heal users recover instead. Waste disappears when switched out.
 

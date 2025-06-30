@@ -11,7 +11,7 @@ character_count: 285
 "Inflicting poison also lowers Attack, SpAtk, and Speed."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon poisons an opponent, the toxic effects also weaken their offensive capabilities and mobility. Each poisoned foe has their Attack, Special Attack, and Speed lowered by one stage immediately upon being poisoned.
 

@@ -11,7 +11,7 @@ character_count: 290
 "Raises its own stats when foes raise theirs."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. When any opponent increases their Attack, Defense, Speed, Special Attack, Special Defense, or Accuracy, the Egoist user gains the same stat boosts instantly. Perfect for countering setup sweepers.
 

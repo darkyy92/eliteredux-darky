@@ -11,7 +11,7 @@ character_count: 285
 "At 1/2 of max HP or below, transforms into Complete form."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Power Construct transforms Zygarde 50% or 10% forms into Complete form when HP drops to 50% or below at the end of any turn. Complete form has massive 216 HP (doubled from 108), making it an extremely bulky tank. The transformation is permanent for the battle and cannot be suppressed.
 

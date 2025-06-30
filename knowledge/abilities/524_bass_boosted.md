@@ -11,7 +11,7 @@ character_count: 299
 "Amplifier + Punk Rock."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Bass Boosted combines Amplifier and Punk Rock effects. Boosts sound-based moves by 30% damage and reduces incoming sound move damage by 50%. Sound moves also hit both opposing Pokemon in doubles. Powerful combo ability for sound-based attackers and defensive utility.
 

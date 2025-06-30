@@ -11,7 +11,7 @@ character_count: 290
 "This Pokemon's Defense gets a 1.5x boost in Grassy Terrain."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grass Pelt boosts the Pokemon's Defense stat by 50% when Grassy Terrain is active. Works with terrain from moves like Grassy Terrain or abilities like Grassy Surge. The boost applies immediately when terrain becomes active and disappears when terrain ends. Stacks with other Defense boosts.
 

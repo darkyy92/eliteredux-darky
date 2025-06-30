@@ -11,7 +11,7 @@ character_count: 283
 "Doubles Evasion when confused."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tangled Feet halves opponents' accuracy when this Pokemon is confused. The chaotic, unsteady movements from confusion make the Pokemon harder to hit. Works against all moves targeting this Pokemon, including status moves. Only functions while confused; provides no benefit otherwise.
 

@@ -11,7 +11,7 @@ character_count: 297
 "Halves Offenses and Speed during the first 5 turns out."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Slow Start halves Attack, Special Attack, and Speed for the first 5 turns after switching in. The turn counter resets each time the Pokemon switches out. After 5 turns, stats return to normal and a message displays. This ability simulates a slow warm-up period, encouraging strategic timing.
 

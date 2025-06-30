@@ -11,7 +11,7 @@ character_count: 293
 "Trades ability with attacker on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon permanently exchange their abilities for the remainder of battle. Cannot affect Pokemon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
 

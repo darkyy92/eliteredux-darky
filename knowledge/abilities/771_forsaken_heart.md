@@ -11,7 +11,7 @@ character_count: 291
 "KOs dealt anywhere on the field raise Attack by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Whenever any Pokemon faints on the battlefield, this Pokemon's Attack rises by one stage. Unlike abilities such as Moxie that only activate when the user defeats an opponent, Forsaken Heart triggers from any KO that occurs during battle, including ally defeats.
 

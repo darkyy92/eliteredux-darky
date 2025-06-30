@@ -11,7 +11,7 @@ character_count: 285
 "Critical hits get a 1.5x boost and inflict bleeding."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 To The Bone boosts critical hit damage by 50% and causes all critical hits to inflict bleeding. Bleeding deals 1/16 max HP damage each turn like poison. Only critical hits can trigger bleeding through this ability. Excellent for high crit rate Pokemon.
 

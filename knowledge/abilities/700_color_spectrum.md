@@ -11,7 +11,7 @@ character_count: 281
 "Same-type attacks get a 1.2x boost. Changes type each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Color Spectrum gives same-type attacks a 1.2x damage boost instead of the usual 1.5x STAB multiplier. At the end of each turn, the Pokemon randomly changes to a completely new type, avoiding Mystery and Stellar types. Both primary and secondary typing become the newly chosen type.
 

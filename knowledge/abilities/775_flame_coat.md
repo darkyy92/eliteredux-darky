@@ -11,7 +11,7 @@ character_count: 293
 "Non-Fire-types take 1/8 dmg every turn when on field."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Creates a blazing aura that scorches all non-Fire-type Pokemon on the battlefield. At the end of each turn, all non-Fire-types suffer burns equivalent to 1/8 of their maximum HP, creating a punishing environment that favors Fire-types and forces strategic switching.
 

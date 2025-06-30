@@ -11,7 +11,7 @@ character_count: 294
 "Boosts the power of Fire-type moves by 1.5x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combustion increases the power of all Fire-type moves by 50%. This ability amplifies the base power of Fire attacks before damage calculations, making every flame-based move significantly stronger. Excellent for Fire-type attackers who want consistent damage boosts.
 

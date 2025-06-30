@@ -11,7 +11,7 @@ character_count: 293
 "Doubles own Sp. Atk stat. Boosts raw stat, not base stat."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Feline Prowess doubles the Pokemon's Special Attack stat by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.
 

@@ -11,7 +11,7 @@ character_count: 289
 "At full HP, gives +1 priority to its Electric-type moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP. Works with all Electric moves including special and physical attacks. Priority is lost immediately when HP drops below maximum. Returns when HP is restored to full through healing moves or items.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Normal-type moves become Dragon and Dragon gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Draconize converts all Normal-type moves into Dragon-type moves and grants STAB bonus for Dragon-type attacks. The converted moves receive a 20% power boost from the type change. Perfect for mixed attackers utilizing both Natural moves and Dragon coverage for consistent offensive pressure.
 

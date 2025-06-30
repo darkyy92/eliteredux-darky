@@ -11,6 +11,8 @@ character_count: 296
 Sets Toxic Terrain on entry.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Toxic Surge automatically sets Toxic Terrain when the Pokemon enters battle. The toxic sludge covers the battlefield for 5 turns (8 with Terrain Extender). Each turn, grounded Pokemon that aren't Poison or Steel-type take damage equal to 1/16 of their max HP. Flying-types and Levitate users avoid damage unless grounded.
 
 ## Detailed Mechanical Explanation

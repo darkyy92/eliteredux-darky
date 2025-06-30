@@ -11,7 +11,7 @@ character_count: 291
 "Physical attacks lower defense."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Whiplash lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. Works with all physical moves including multi-hit attacks. The Defense drop occurs after damage, helping break through defensive walls and support teammates.
 

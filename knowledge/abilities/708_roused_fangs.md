@@ -11,7 +11,7 @@ character_count: 294
 "Biting moves use SpAtk and deal 30% more damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Roused Fangs makes biting moves use Special Attack instead of Attack and boosts their damage by 30%. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, and similar moves. Transforms physical biters into special attackers with enhanced power.
 

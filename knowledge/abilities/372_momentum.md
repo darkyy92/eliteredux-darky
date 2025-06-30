@@ -11,6 +11,7 @@ character_count: 290
 "Contact moves use the Speed stat for damage calculation."
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 <!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
 

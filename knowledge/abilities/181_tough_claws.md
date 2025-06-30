@@ -11,7 +11,7 @@ character_count: 295
 "Boosts the power of contact moves by 1.3x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tough Claws enhances the user's close-range attacks. It boosts the power of all moves that make direct contact with the target by 30%. This includes many powerful physical attacks, allowing the user to inflict significantly more damage in battle. A formidable ability for any Pokemon specializing in melee combat.
 

@@ -11,7 +11,7 @@ character_count: 299
 "Changes type depending on active Terrain."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mimicry changes the Pokemon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokemon switches out, then reverts to original type.
 

@@ -11,7 +11,7 @@ character_count: 299
 "Moves that need a charge turn are now used instantly."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly. Works with all charging moves including Solar Beam, Sky Attack, Skull Bash, Fly, Dig, Dive, Bounce, Shadow Force, and others. The Pokemon can immediately unleash powerful moves without delay.
 

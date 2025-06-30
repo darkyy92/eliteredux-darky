@@ -11,7 +11,7 @@ character_count: 290
 "Boosts SpDef +1 when hit. Maxes SpDef on crit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fortitude raises Special Defense by 1 stage when hit by any move. If the attack is a critical hit, Special Defense is maxed out to +6 stages instead. The boost applies before damage calculation, making each hit progressively weaker against special attacks.
 

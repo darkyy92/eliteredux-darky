@@ -11,7 +11,7 @@ character_count: 297
 "1/6 HP damage when touched."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sharp Edges inflicts 1/6 maximum HP damage to attackers using contact moves, making it significantly more punishing than Iron Barbs or Rough Skin which deal 1/8 damage. The retaliation is based on the attacker's max HP and always deals at least 1 damage. Magic Guard prevents this damage entirely.
 

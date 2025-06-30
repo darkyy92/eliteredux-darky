@@ -11,7 +11,7 @@ character_count: 290
 "Protects Grass-type allies from status and stat drops."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Jungle's Guard shields Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun. Combines Flower Veil protection with Leaf Guard healing. Ideal for sun teams needing comprehensive status and stat protection for Grass allies.
 

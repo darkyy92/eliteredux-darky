@@ -11,7 +11,7 @@ character_count: 297
 "Does 50% more damage if the target has any lowered stat."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Pretty Princess increases the Pokemon's attack power by 50% against targets with any stat stage below zero. Triggers against debuffed opponents from moves like Intimidate, Growl, or self-inflicted stat drops. Works with all attack types and stacks with other damage modifiers.
 

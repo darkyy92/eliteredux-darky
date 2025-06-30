@@ -11,7 +11,7 @@ character_count: 295
 "On entry, raises Defense by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dauntless Shield immediately raises the Pokemon's Defense by one stage when it enters battle. This boost applies to all forms of entry including switching in, starting battles, and reviving. The defense increase stacks with other stat boosts and cannot be prevented by Clear Body or similar abilities.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Sets Grassy Terrain when hit. Heals party status when it does."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5/8 turns depending on item. Simultaneously heals all party Pokemon's status conditions including poison, burn, paralysis, sleep, freeze, frostbite, and bleeding, plus nightmare.
 

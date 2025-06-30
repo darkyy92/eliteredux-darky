@@ -11,6 +11,8 @@ character_count: 287
 KOs raise Speed by one stage.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 When this Pokemon knocks out an opponent with a direct attack, its Speed stat increases by one stage. This boost occurs immediately after the target faints, potentially allowing the user to outspeed previously faster opponents. The effect activates only when the Pokemon with this ability directly causes a knockout through damage.
 
 ## Detailed Mechanical Explanation

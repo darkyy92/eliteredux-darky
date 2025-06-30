@@ -11,7 +11,7 @@ character_count: 297
 "Tinted Lens + Rampage"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Doubles damage of not very effective moves like Tinted Lens. When this Pokemon knocks out a foe, it immediately recovers from recharge effects and removes recharge status, allowing consecutive use of powerful moves like Hyper Beam without the mandatory rest turn.
 

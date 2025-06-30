@@ -11,7 +11,7 @@ character_count: 295
 "Leaf Guard + Harvest."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sun's Bounty combines two powerful abilities: Leaf Guard heals all status conditions at the end of each turn during harsh sunlight, while Harvest restores consumed berries. In sun, berry restoration is guaranteed; otherwise it's 50%. Perfect for sustainable recovery.
 

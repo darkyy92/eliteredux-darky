@@ -11,7 +11,7 @@ character_count: 295
 "Freezing Point + summons hail on contact + hail immunity."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon makes contact with an opponent, there's a 30% chance to inflict frostbite. Additionally, on successful contact hits, this Pokemon summons hail if no hail is active. The Pokemon is immune to hail damage, allowing it to thrive in the icy conditions it creates.
 

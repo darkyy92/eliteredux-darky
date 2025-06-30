@@ -11,7 +11,7 @@ character_count: 298
 "Normal moves are flagged as Punch + Kick moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, allowing them to benefit from abilities like Iron Fist, Strong Jaw, and similar move-type-based enhancements. This transforms typical Normal attacks into martial arts techniques with increased power and special interactions.
 

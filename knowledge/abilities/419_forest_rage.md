@@ -11,7 +11,7 @@ character_count: 295
 "Boosts Grass-type moves by 1.3x, or 1.8x when below 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Forest Rage boosts the power of all Grass-type moves by 30% when healthy. When the Pokemon drops below 1/3 HP, the multiplier increases to 80%. This ability activates for any move with Grass typing regardless of user's type. Stacks with other damage modifiers.
 

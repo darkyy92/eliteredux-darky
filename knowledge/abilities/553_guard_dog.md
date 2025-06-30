@@ -11,7 +11,7 @@ character_count: 290
 "Can't be forced out. Inverts Intimidate effects."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Guard Dog prevents forced switching from moves like Roar, Whirlwind, Dragon Tail, and Circle Throw, plus items like Red Card. When affected by Intimidate, it boosts Attack by one stage instead of lowering it. Perfect immunity to switch-forcing effects and stat control.
 

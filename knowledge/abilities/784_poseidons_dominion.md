@@ -11,7 +11,7 @@ character_count: 282
 "Attacks with Whirlpool on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon switching in, the Pokemon immediately summons a powerful whirlpool that targets any opposing Pokemon present. This Water-type attack traps the opponent for 2-5 turns, dealing damage each turn while preventing escape.
 

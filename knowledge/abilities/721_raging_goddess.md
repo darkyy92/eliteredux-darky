@@ -11,7 +11,7 @@ character_count: 295
 "Rampage + Hyper Aggressive."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Raging Goddess combines two powerful effects. Moves hit twice with the second hit dealing 25% damage like Hyper Aggressive. Additionally, like Rampage, eliminates recharge after knocking out an opponent from moves that normally require recharge, allowing for relentless combat.
 

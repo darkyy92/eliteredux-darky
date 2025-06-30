@@ -11,7 +11,7 @@ character_count: 284
 "Normal moves are Sound moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Reverbate converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions. Sound moves can target multiple foes with Amplifier or Bass Boosted abilities, but are blocked by Throat Chop for 2 turns.
 

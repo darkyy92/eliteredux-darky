@@ -11,7 +11,7 @@ character_count: 289
 "Own held item has no effect. Mega Stones are unaffected."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Klutz disables all held item effects including berries, stat boosts, damage multipliers, and special abilities. Items can still be knocked off or stolen but give no benefits. Item-based moves like Fling fail. Mega Stones bypass this restriction allowing mega evolution despite the ability.
 

@@ -11,7 +11,7 @@ character_count: 282
 "Boosts Atk or SpAtk to match the higher value."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Equinox dynamically chooses the higher offensive stat for each attack. If Attack is higher, physical moves use Attack stat. If Special Attack is higher, special moves use Special Attack stat. Provides optimal damage output by always using the stronger offensive stat for every move.
 

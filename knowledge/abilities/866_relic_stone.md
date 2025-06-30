@@ -11,6 +11,8 @@ character_count: 295
 Other battlers don't benefit from STAB.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 While this ability is active on the field, all other battlers lose their Same Type Attack Bonus, dealing normal damage instead of 1.5x with type matching moves. Even battlers with Adaptability cannot achieve 2x STAB. Only affects opponents - the user retains their own STAB bonus. Suppressed by Mold Breaker abilities.
 
 ## Detailed Mechanical Explanation

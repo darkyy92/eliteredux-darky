@@ -11,7 +11,7 @@ character_count: 297
 "Electric type moves now inflict burn instead of paralysis."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Cold Plasma converts Electric-type moves to inflict burn status instead of paralysis. This includes all Electric moves with paralysis chances like Thunderbolt, Discharge, and Thunder Wave. The burn applies the same probability as the original paralysis effect. Great for disrupting bulky foes.
 

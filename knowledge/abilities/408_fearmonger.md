@@ -11,7 +11,7 @@ character_count: 296
 "Intimidate + Scare; 10% para chance on contact moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fearmonger combines Intimidate and Scare effects, lowering both Attack and Special Attack of opposing Pokemon upon entry. Additionally provides a 10% chance to inflict paralysis when making contact moves. Excellent for disrupting offensive threats and setup sweepers with dual intimidation.
 

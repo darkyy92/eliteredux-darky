@@ -11,7 +11,7 @@ character_count: 295
 "Triggers 50 BP Surf after using a Water-type move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 High Tide triggers a 50 BP Surf attack immediately after the Pokemon uses any Water-type move. The followup Surf uses the same target as the original move and cannot miss. Works with all Water-type attacks including status moves. Creates powerful two-hit combos for sustained offensive pressure.
 

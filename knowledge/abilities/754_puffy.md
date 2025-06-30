@@ -11,7 +11,7 @@ character_count: 296
 "Takes 1/2 dmg from contact moves but Fire moves hurt it 2x more."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Puffy reduces damage from contact moves by 50%, providing excellent protection against physical attackers. However, Fire-type moves deal double damage to Puffy users, creating a significant vulnerability. The contact protection works against all physical contact moves.
 

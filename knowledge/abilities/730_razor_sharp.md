@@ -11,7 +11,7 @@ character_count: 294
 "Critical hits also inflict bleeding."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Razor Sharp inflicts bleeding status on opponents when the Pokemon lands a critical hit. Bleeding deals 1/16 max HP damage per turn and prevents healing until cured. Only affects Pokemon that can normally be afflicted with status conditions. Rock and Ghost types are immune to bleeding effects.
 

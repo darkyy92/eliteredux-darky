@@ -11,7 +11,7 @@ character_count: 294
 "Uses Tar Shot on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tar Toss automatically uses Tar Shot when switching into battle. The tar covers opponents, lowering their Speed by one stage and making them take double damage from Fire-type moves. Only works once per target per battle. Excellent for setting up Fire-type teammates or sweepers.
 

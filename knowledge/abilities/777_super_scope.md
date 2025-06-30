@@ -11,7 +11,7 @@ character_count: 288
 "Mega Launcher + Artillery."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Mega Launcher and Artillery for the ultimate projectile mastery. Boosts pulse, beam, ball, and aura moves by 30% while ensuring they always hit and strike both opponents simultaneously. Perfect accuracy meets devastating power for comprehensive battlefield dominance.
 

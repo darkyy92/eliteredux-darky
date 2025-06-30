@@ -11,6 +11,8 @@ character_count: 290
 Aquatic Dweller + Swift Swim.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Empowers the user with mastery over aquatic environments. Water-type moves gain a 1.5x power boost, allowing for devastating oceanic attacks. During rain, the user's Speed is multiplied by 1.5x, enabling swift underwater maneuvers. This dual enhancement makes the bearer a true ruler of the seas.
 
 ## Detailed Mechanical Explanation

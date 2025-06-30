@@ -11,7 +11,7 @@ character_count: 290
 "+1 Attack on Entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Embody Aspect (Hearthflame) raises the Pokemon's Attack stat by one stage upon entering battle. This boost applies immediately when switching in or at the start of battle. The ability activates before any other switch-in effects and provides a permanent +50% damage boost to physical moves.
 

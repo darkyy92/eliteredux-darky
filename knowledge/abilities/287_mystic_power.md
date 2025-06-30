@@ -11,7 +11,7 @@ character_count: 284
 "All moves gain the 1.5x power boost from STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type matching. Every attack gains the Same Type Attack Bonus that normally only applies to moves matching the Pokemon's type. This makes every move hit significantly harder with universal offensive power.
 

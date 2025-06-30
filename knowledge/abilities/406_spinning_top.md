@@ -11,7 +11,7 @@ character_count: 296
 "Fighting moves up speed +1 and clear hazards."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Spinning Top grants a +1 Speed boost and removes entry hazards from the user's side when using Fighting-type moves. Clears Stealth Rock, Spikes, Toxic Spikes, Sticky Web, Hot Coals, and Caltrops. The speed boost and hazard removal both activate after landing the Fighting move. Excellent for offensive sweepers.
 

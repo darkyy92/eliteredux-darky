@@ -11,7 +11,7 @@ character_count: 298
 "Special moves use 20% of its Speed stat additionally."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Terminal Velocity adds 20% of the Pokemon's Speed stat to its Special Attack when using special moves. This bonus is calculated after stat stages and applies to the entire damage formula. Works with all special attacks including signature moves and Hidden Power. Particularly devastating on fast special sweepers.
 

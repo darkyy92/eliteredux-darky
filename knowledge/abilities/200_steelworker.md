@@ -11,7 +11,7 @@ character_count: 292
 "Normal becomes Steel + Steel gains STAB. Resists Ghost/Dark."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves. This unique combination of offensive type conversion and defensive resistances provides exceptional versatility in battle.
 

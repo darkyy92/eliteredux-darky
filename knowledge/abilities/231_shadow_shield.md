@@ -11,7 +11,7 @@ character_count: 292
 "At full HP, halves damage taken from attacks"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Shadow Shield halves damage from all attacks when at full HP. This defensive ability automatically reduces incoming damage by 50% while HP remains at maximum. The protection disappears once any damage is taken, but can be restored by healing back to full HP. Works against all damaging moves.
 

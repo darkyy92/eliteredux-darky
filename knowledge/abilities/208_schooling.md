@@ -11,7 +11,7 @@ character_count: 295
 "If Lv. 20 or more: changes into School form until 1/4 HP or less."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When at level 20 or above, transforms into School Form with improved stats and abilities. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot transform if already transformed by other effects.
 

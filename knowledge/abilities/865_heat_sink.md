@@ -11,6 +11,8 @@ character_count: 283
 Redirects Fire moves. Absorbs them, ups highest Atk.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Heat Sink redirects Fire-type moves targeting allies to this Pokemon. When hit by a Fire move, the attack is completely absorbed (no damage taken), and this Pokemon raises its highest attacking stat by one stage (Attack or Special Attack, whichever is higher at the time of absorption).
 
 ## Detailed Mechanical Explanation

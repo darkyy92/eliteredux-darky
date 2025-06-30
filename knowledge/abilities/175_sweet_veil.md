@@ -11,7 +11,7 @@ character_count: 292
 "This Pokemon and its ally are immune to sleep."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sweet Veil provides sleep immunity to both the user and their ally in doubles battles. This ability prevents Sleep status from moves like Sleep Powder, Hypnosis, and Spore. The protection extends to the ally even if they don't have Sweet Veil themselves. Cannot be suppressed but can be broken.
 

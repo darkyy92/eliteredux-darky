@@ -11,7 +11,7 @@ character_count: 296
 "Reduces damage taken by 40%, but lowers speed by 20%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Terastal Treasure reduces incoming damage by 40% while lowering the Pokemon's Speed by 20%. This defensive trade-off allows tanks to survive powerful attacks at the cost of reduced priority. The damage reduction applies to all forms of damage including physical, special, and status-based damage.
 

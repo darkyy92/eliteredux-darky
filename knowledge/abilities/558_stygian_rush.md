@@ -11,7 +11,7 @@ character_count: 291
 "Dark-type moves get +1 priority at max HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Stygian Rush grants +1 priority to all Dark-type moves when the Pokemon is at maximum HP. This allows Dark-type attacks to move before most other moves in battle. The priority boost is lost if the Pokemon takes any damage, making it a high-risk, high-reward ability.
 

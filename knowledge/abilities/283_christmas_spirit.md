@@ -11,7 +11,7 @@ character_count: 282
 "Takes 50% less damage if hail is active."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Christmas Spirit reduces all incoming damage by 50% during hail weather. Works with temporary hail from moves and permanent hail effects. The Pokemon is immune to hail damage. This defensive boost applies to all attack types and stacks with other reduction effects for maximum bulk.
 

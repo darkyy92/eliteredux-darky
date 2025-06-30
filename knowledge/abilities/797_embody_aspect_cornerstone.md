@@ -11,7 +11,7 @@ character_count: 291
 "+1 Defense on Entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Embody Aspect (Cornerstone) raises the Pokemon's Defense by one stage immediately upon switching into battle. This defensive boost occurs regardless of how the Pokemon enters battle, whether through normal switching, forced switching, or other entry methods.
 

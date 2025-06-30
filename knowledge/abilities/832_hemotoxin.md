@@ -11,7 +11,7 @@ character_count: 289
 "Supresses abilities of the target when they're poisoned."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Hemotoxin seeps into poisoned foes, temporarily neutralizing their abilities while they suffer from poison status. The toxic compounds disrupt the target's natural powers, leaving them unable to utilize their ability effects until the poison is cured or they switch out.
 

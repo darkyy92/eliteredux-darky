@@ -11,7 +11,7 @@ character_count: 297
 "Raises Sp. Atk by two stages if stats are lowered by an enemy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokemon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.
 

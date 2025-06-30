@@ -11,7 +11,7 @@ character_count: 282
 "Doubles resistance, healing and stat raises provided by Berries."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages instead of 1, resist berries reduce super-effective damage by 75% instead of 50%, and PP-restoring berries restore twice as much PP.
 

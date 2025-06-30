@@ -11,7 +11,7 @@ character_count: 297
 "Electric moves +50%; Water moves siphon 25% damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Hydro Circuit boosts Electric-type moves by 50% and heals the user for 25% of damage dealt when using Water-type moves. Both effects work simultaneously on Water/Electric attacks. Healing requires the target not be at full HP and can heal the user. Great for dual-type coverage.
 

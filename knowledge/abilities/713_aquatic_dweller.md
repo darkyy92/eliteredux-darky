@@ -11,7 +11,7 @@ character_count: 281
 "Aquatic + Boosts the power of Water-type moves by 1.5x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Aquatic Dweller combines two powerful effects: adds Water typing to the Pokemon and boosts all Water-type moves by 50%. The additional Water typing provides STAB bonuses and resistances while the damage boost makes Water attacks significantly stronger. Perfect for mixed attackers.
 

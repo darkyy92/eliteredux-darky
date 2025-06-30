@@ -11,7 +11,7 @@ character_count: 296
 "Reduces special damage taken by 40%, but decreases Speed by 10%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Chrome Coat provides substantial special defensive bulk by reducing all incoming special attack damage by 40%. This reflective metallic coating comes at the cost of mobility, decreasing the Pokemon's Speed stat by 10%. Perfect for defensive tanks that need to wall special attackers consistently.
 

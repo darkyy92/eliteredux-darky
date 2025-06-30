@@ -11,7 +11,7 @@ character_count: 287
 "Soul Eater + Phantom Pain"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokemon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokemon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
 

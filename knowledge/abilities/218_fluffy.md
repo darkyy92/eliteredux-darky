@@ -11,7 +11,7 @@ character_count: 295
 "Takes 1/2 dmg from contact moves but Fire moves hurt it 2x more."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fluffy fur reduces damage from physical contact moves by 50%, making the Pokemon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
 

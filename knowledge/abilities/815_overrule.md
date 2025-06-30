@@ -11,7 +11,7 @@ character_count: 293
 "Crits ignore resists and bypass abilities"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon's moves land critical hits, they completely ignore type resistances and defensive abilities that would normally reduce damage. Super-effective moves stay super-effective, but not-very-effective and immune matchups are treated as neutral damage instead.
 

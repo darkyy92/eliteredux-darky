@@ -11,7 +11,7 @@ character_count: 299
 "Casts an 80 BP Future Sight on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Forewarn automatically casts an 80 BP Future Sight on the opposing Pokemon when switching in. The psychic attack strikes 2 turns later, dealing damage regardless of type immunities. If one foe has Future Sight pending, targets the other. Cannot stack multiple Future Sights on same target.
 

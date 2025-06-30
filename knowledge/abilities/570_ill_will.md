@@ -11,7 +11,7 @@ character_count: 295
 "Deletes the PP of the move that faints this Pokemon."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ill Will completely drains the PP of contact moves that defeat this Pokemon. When fainting to direct physical contact, the attacking move loses all remaining PP permanently. This vengeful ability punishes physical attackers for delivering the final blow.
 

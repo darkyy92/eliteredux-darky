@@ -11,7 +11,7 @@ character_count: 287
 "Lowering any stats on its side raises Atk and Def."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 King's Wrath triggers when any ally on the same side has their stats lowered, immediately boosting the user's Attack and Defense by one stage each. Works in both singles and doubles battles. Activates from enemy stat-lowering moves, abilities, or items affecting any teammate.
 

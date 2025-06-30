@@ -11,7 +11,7 @@ character_count: 280
 "Adds Ice type to itself."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ice Age grants the Pokemon an additional Ice typing upon entering battle, creating new STAB opportunities and coverage. The added Ice type stacks with existing types, allowing for triple-typed Pokemon with expanded offensive potential and strategic flexibility for coverage moves.
 

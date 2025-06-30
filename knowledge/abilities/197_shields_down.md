@@ -11,7 +11,7 @@ character_count: 289
 "At 1/2 of max HP or below, transforms into Core form."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert back to Meteor Form once transformed during battle.
 

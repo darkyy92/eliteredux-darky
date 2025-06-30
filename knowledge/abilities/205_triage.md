@@ -11,7 +11,7 @@ character_count: 295
 "Moves that have a healing effect gain +3 priority."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing effects.
 

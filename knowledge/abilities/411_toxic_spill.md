@@ -11,7 +11,7 @@ character_count: 286
 "Non-Poison-types take 1/8 dmg every turn when on field."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Toxic Spill creates a toxic waste field that damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. The toxic waste appears on entry and disappears when the user leaves. Bypasses Magic Guard immunity.
 

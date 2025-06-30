@@ -11,7 +11,7 @@ character_count: 293
 "Attacks deal double damage if resisted."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tinted Lens doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x, turning weak hits into normal damage. This makes the Pokemon's attacks much harder to wall and improves coverage against defensive switch-ins.
 

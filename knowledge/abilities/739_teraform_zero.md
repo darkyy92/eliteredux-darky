@@ -11,7 +11,7 @@ character_count: 285
 "Tera Shell + clears weather and terrain on first entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Teraform Zero reduces super effective damage to 50% when at full HP like Tera Shell, and clears all weather and terrain upon first entry. Only activates once per battle entry. Provides both defensive protection and field control by neutralizing environmental hazards.
 

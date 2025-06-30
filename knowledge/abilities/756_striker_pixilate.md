@@ -11,7 +11,7 @@ character_count: 289
 "Boosts the power of kicking moves by 1.3x + Pixilate."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Striker and Pixilate effects. Boosts the power of kicking moves by 30% and converts all Normal-type moves to Fairy-type with a 20% power boost. This dual enhancement makes the Pokemon excel at both physical kicking attacks and special Fairy-type moves.
 

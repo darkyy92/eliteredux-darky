@@ -11,7 +11,7 @@ character_count: 295
 "Protects its side from status and secondary effects in sand."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Desert Cloak provides team-wide protection during sandstorm weather. All allies become immune to status conditions and secondary effects from enemy moves while sand is active. Works with Sand Stream, Sand Spit, and Sandstorm moves. Does not protect from direct status moves or entry hazards. Elite weather ability.
 

@@ -11,7 +11,7 @@ character_count: 286
 "Keen Edge + Mystic Blades."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Blade's Essence combines Keen Edge and Mystic Blades effects. Boosts slicing moves by 30% and allows physical slicing moves to use the higher of Attack or Special Attack. This includes moves like Slash, Leaf Blade, Air Slash, and Night Slash. Perfect for mixed attackers wanting versatility.
 

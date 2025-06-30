@@ -11,7 +11,7 @@ character_count: 289
 "Immune to Rock-type attacks and Stealth Rock damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mountaineer grants complete immunity to all Rock-type moves and Stealth Rock entry hazard damage. The Pokemon takes no damage from moves like Stone Edge, Rock Slide, or Ancient Power. Also prevents chip damage from Stealth Rock when switching in, making it ideal for hazard-heavy battles.
 

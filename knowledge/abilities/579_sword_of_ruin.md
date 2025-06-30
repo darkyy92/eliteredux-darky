@@ -11,7 +11,7 @@ character_count: 293
 "Lowers the Defense of other Pokemon by 25%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sword Of Ruin creates an aura that permanently reduces the Defense stat of all other Pokemon on the battlefield by 25%. This passive effect applies to allies and enemies alike, making physical attacks more effective against all Pokemon except the user throughout the entire battle.
 

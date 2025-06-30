@@ -11,7 +11,7 @@ character_count: 299
 "Boosts own Dark moves by 1.25x. Takes -25% dmg from Dark/Fairy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Nocturnal enhances the Pokemon's connection to darkness and shadow magic. Dark-type moves receive a 25% power boost, making Night Slash, Crunch, and Dark Pulse significantly stronger. Additionally, the Pokemon gains defensive benefits against Dark and Fairy moves, taking 25% less damage from these types.
 

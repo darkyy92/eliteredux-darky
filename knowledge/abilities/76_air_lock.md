@@ -11,7 +11,7 @@ character_count: 297
 "Clears weather and prevents its effects."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Air Lock clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
 

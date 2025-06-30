@@ -11,7 +11,7 @@ character_count: 285
 "Sweeping Edge + Keen Edge."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sweeping Edge Plus combines the power of both Keen Edge and Sweeping Edge abilities. All Keen Edge moves gain 30% damage boost, perfect accuracy, and hit both opposing Pokemon in double battles. This transforms single-target slicing moves into devastating multi-target blade attacks.
 

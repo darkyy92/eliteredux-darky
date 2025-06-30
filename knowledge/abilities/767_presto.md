@@ -11,7 +11,7 @@ character_count: 296
 "Sound moves get +1 priority at full HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When at full HP, this Pokemon's sound-based moves gain increased priority, striking first in battle. The musical mastery grants tactical advantage by accelerating harmonious attacks when the performer is in perfect condition, turning melodies into swift strikes that resonate with enhanced tempo.
 

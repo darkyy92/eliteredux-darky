@@ -11,7 +11,7 @@ character_count: 298
 "User gains +2 Speed when when hit by rocks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Rock-type Stealth Rock present. The boost activates on damage from Rock moves or entry hazards. Turns Rock weakness into Speed advantage for sweeping potential with doubled speed.
 

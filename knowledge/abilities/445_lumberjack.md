@@ -11,7 +11,7 @@ character_count: 291
 "Deals 1.5x damage to Grass. Takes 0.5x damage from Grass."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Lumberjack deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage from Grass-type attacks. Both offensive and defensive effects activate against any Pokemon with Grass typing, including dual-types. Perfect for countering Grass-heavy teams and walls. Also affects Forest Curse victims.
 

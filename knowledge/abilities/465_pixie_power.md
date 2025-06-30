@@ -11,7 +11,7 @@ character_count: 280
 "1.2x accuracy. Boosts Fairy moves by 1.33x for all."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Pixie Power combines fairy aura with accuracy boost. All Fairy moves get 1.33x power field-wide like Fairy Aura, affected by Aura Break. This Pokemon also gains 1.2x accuracy on all moves for improved hit rates. Strong support ability for fairy-focused teams and reliable offense.
 

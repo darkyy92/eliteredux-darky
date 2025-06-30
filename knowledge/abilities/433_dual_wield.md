@@ -11,7 +11,7 @@ character_count: 294
 "Mega Launcher and Keen Edge moves hit twice for 70% damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dual Wield causes moves boosted by Mega Launcher or Keen Edge to hit twice, with each hit dealing 70% of the move's normal damage. Works with beam moves, pulse moves, cannon moves, and blade moves. Total damage is 140% compared to single hit. Maintains secondary effects on both hits.
 

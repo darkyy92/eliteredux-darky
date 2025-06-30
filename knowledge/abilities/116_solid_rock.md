@@ -11,7 +11,7 @@ character_count: 288
 "Takes 35% less damage from Super-effective moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Solid Rock reduces damage from super-effective moves by 35%, providing excellent defensive utility against type disadvantages. This breakable ability helps survival against 2x or higher effectiveness attacks, making it essential for defensive builds requiring endurance and survivability.
 

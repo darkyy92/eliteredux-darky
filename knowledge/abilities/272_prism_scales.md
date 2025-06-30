@@ -11,7 +11,7 @@ character_count: 284
 "Takes 30% less damage from Special attacks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Prism Scales reduces damage from all Special attacks by 30%. This defensive ability provides excellent protection against special sweepers and powerful special moves. Works against all forms of special damage including status moves that deal damage. The ability is breakable by Mold Breaker effects.
 

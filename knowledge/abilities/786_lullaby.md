@@ -11,7 +11,7 @@ character_count: 290
 "Sing accuracy is 90% when used by this Pokemon."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 This Pokemon's soothing voice enhances the effectiveness of Sing, boosting its accuracy from a normally unreliable 60% to a much more dependable 90%. This makes sleep-inducing strategies far more viable in battle, especially against faster foes.
 

@@ -11,7 +11,7 @@ character_count: 291
 "Normal-type moves become Fairy and Fairy gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Pixilate transforms all Normal-type attacking moves into Fairy-type moves and boosts their power by 20%. The Pokemon gains STAB from these converted moves if it's part Fairy-type. Works with moves like Hyper Beam, Return, and Boomburst, making them powerful Fairy attacks. Perfect for mixed attackers.
 

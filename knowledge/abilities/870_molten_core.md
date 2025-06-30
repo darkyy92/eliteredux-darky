@@ -11,7 +11,7 @@ character_count: 295
 "Furnace + Absorbs Rock-moves/Stealth Rocks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Molten Core combines Furnace effects with Rock-type absorption. On switch-in, gains +2 Speed from Stealth Rock and removes team's Stealth Rock. When hit by Rock moves, gains +2 Speed instead of taking damage. Perfect for handling Rock-type attacks and entry hazards.
 

@@ -11,7 +11,7 @@ character_count: 292
 "Summons sun on entry. Raises Atk by 1.33x in sun."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Orichalcum Pulse automatically creates intense sunlight when the Pokemon enters battle. While sunlight is active, this ability amplifies the Pokemon's physical Attack power by exactly 33% (1.33x multiplier). Works with all sun forms: regular, permanent, and Desolate Land.
 

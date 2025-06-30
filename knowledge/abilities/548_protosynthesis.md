@@ -11,7 +11,7 @@ character_count: 296
 "Boosts highest stat in Sun or with Booster Energy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Protosynthesis boosts the Pokemon's highest stat by 50% for Speed or 30% for other stats during any form of sun weather. Works with regular sun, permanent sun, and Desolate Land. When sun ends, switches to Booster Energy if held. Highest stat is recalculated each activation.
 

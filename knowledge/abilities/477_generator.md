@@ -11,7 +11,7 @@ character_count: 292
 "Charges up once on entry or when electric terrain is active."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Generator charges up the Pokemon once upon switching in, doubling Electric-type move power for the next Electric attack. Can recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out but can be regained with terrain activation.
 

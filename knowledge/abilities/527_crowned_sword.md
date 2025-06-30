@@ -11,7 +11,7 @@ character_count: 293
 "Intrepid Sword + Anger Point."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Crowned Sword combines Intrepid Sword and Anger Point effects. Raises Attack by 1 stage upon switching in. When hit by any attack, raises Attack by 1 stage, or maximizes Attack if hit by a critical hit. Transforms defensive play into offensive pressure.
 

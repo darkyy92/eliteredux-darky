@@ -11,7 +11,7 @@ character_count: 293
 "+1 Spdef on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Headstrong raises the Pokemon's Special Defense by one stage when it switches into battle. This defensive boost activates automatically upon entry and can be prevented by abilities like Mold Breaker. The stat boost is permanent until the Pokemon switches out or faints.
 

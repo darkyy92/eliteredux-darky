@@ -11,7 +11,7 @@ character_count: 298
 "Sand Stream + Sand Force."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sand Bender combines Sand Stream and Sand Force effects. Automatically summons an 8-turn sandstorm on entry, then boosts the Pokemon's highest attacking stat by 50% while in sandstorm weather. The user is immune to sandstorm damage. Perfect for offensive sand sweepers and setters.
 

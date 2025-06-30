@@ -11,7 +11,7 @@ character_count: 286
 "Gets no damage for the first two hits."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Negates all damage for the first 2 hits received. Works exactly like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards.
 

@@ -11,7 +11,7 @@ character_count: 282
 "Changes between Full and Hangry forms after each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Automatically switches between Full and Hangry forms at the end of each turn. Morpeko's Full form has different abilities than its Hangry form. This form change cannot be prevented and affects the Pokemon's appearance, typing, and available abilities in battle.
 

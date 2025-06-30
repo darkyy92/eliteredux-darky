@@ -11,7 +11,7 @@ character_count: 289
 "Raises all stats becomes immune to sleep after waking up."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rude Awakening activates when the Pokemon wakes up from sleep naturally or forced awake. Upon awakening, the Pokemon permanently gains immunity to sleep status and receives a boost to all stats. The ability only triggers once per battle after first wake-up event.
 

@@ -11,7 +11,7 @@ character_count: 293
 "Boost accuracy & power of Fire & Electric type moves by 1.2x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20% each. The power boost affects damage calculations while the accuracy boost reduces the chance of missing. Works on all Fire moves like Flamethrower and Electric moves like Thunderbolt. Ideal for mixed attackers.
 

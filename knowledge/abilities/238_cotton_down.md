@@ -11,7 +11,7 @@ character_count: 295
 "Lowers the Speed of all foes by one stage when hit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Cotton Down triggers when the Pokemon is hit by any damaging move, lowering the Speed of ALL opposing Pokemon by one stage. This affects all enemies on the field in doubles, singles, or multi battles regardless of position. Helpful for speed control support.
 

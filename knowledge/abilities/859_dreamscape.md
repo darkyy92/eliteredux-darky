@@ -11,7 +11,7 @@ character_count: 298
 "Comatose + Dreamcatcher + Deal 20% more damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dreamscape combines Comatose and Dreamcatcher, keeping the Pokemon in permanent sleep while being fully functional. Gains complete immunity to all status conditions and deals 20% more damage. The sleep state also enables Dreamcatcher, doubling move power for devastating 140% total damage increase.
 

@@ -11,7 +11,7 @@ character_count: 289
 "Boosts Rock-type moves by 1.3x, or 1.8x when below 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When the Pokemon drops below 1/3 of its maximum HP, the boost increases to 1.8x damage. This works with any Rock-type move regardless of category. The ability activates automatically based on current HP percentage.
 

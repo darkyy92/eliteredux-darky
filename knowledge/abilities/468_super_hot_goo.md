@@ -11,7 +11,7 @@ character_count: 295
 "Inflicts burn and lowers Speed on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Super Hot Goo combines Flame Body and Gooey effects. Contact moves have a 30% chance to inflict burn and always lower the attacker's Speed by one stage. Burns deal 1/16 max HP damage per turn. Speed reduction bypasses Substitute and ignores stat-lowering immunities through Mirror Armor.
 

@@ -11,7 +11,7 @@ character_count: 283
 "Magic Guard + Magic Bounce"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Magic Guard and Magic Bounce effects. Prevents all indirect damage from status conditions, weather, entry hazards, recoil, and items. Additionally bounces back all status moves and entry hazard moves to the user, making this Pokemon nearly untouchable by most support moves.
 

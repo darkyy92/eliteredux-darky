@@ -11,7 +11,7 @@ character_count: 289
 "Shell Armor + 50BP Thunder Cage when hit by contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Protects from critical hits and reduces physical damage by 20%. When hit by contact moves, automatically uses Thunder Cage at 50 power to trap the attacker in electricity for 2-5 turns, dealing damage at the end of each turn and preventing escape.
 

@@ -11,7 +11,7 @@ character_count: 287
 "Immune to status conditions. Take 1/2 damage from Ghost."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Purifying Salt provides complete immunity to all major status conditions including sleep, paralysis, burn, freeze, and poison. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured. Suppressible by Mold Breaker.
 

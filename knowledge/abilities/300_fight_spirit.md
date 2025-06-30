@@ -11,7 +11,7 @@ character_count: 289
 "Normal-type moves become Fighting and Fighting gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. The type conversion applies to all Normal moves used by the Pokemon, including physical and special attacks. Perfect for mixed attackers wanting consistent STAB coverage.
 

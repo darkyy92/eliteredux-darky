@@ -11,7 +11,7 @@ character_count: 284
 "Raises Attack by one stage after using a biting move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Growing Tooth boosts the user's Attack by one stage whenever they successfully use a biting move. This includes all fang attacks like Thunder Fang and Ice Fang, plus bite attacks like Crunch and Hyper Fang. The boost activates after damage calculation, building momentum for future attacks.
 

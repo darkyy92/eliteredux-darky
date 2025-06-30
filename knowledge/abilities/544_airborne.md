@@ -11,7 +11,7 @@ character_count: 283
 "Boosts own & ally's Flying-type moves by 1.3x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Airborne provides a 1.3x power boost to all Flying-type moves used by both the Pokemon with this ability and its allies in double battles. This boost applies to any Flying-type move regardless of category or base power. Works perfectly with strategies involving Flying-type teams.
 

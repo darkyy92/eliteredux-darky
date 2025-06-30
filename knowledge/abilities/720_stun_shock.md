@@ -11,7 +11,7 @@ character_count: 295
 "Attacks have a 60% chance to Paralyze or Poison."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Stun Shock gives each attack a 60% chance to inflict either Paralysis or Poison on the target, chosen randomly. The status effect is determined by a coin flip when the ability triggers. Only works on moves that make contact or deal damage. Perfect for disrupting opposing teams.
 

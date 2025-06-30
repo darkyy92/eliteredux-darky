@@ -11,6 +11,8 @@ character_count: 296
 Combines two powerful offensive mechanics with Keen Edge effect and Mystic Blades component.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This ability combines two powerful offensive mechanics. First, it applies the Keen Edge effect, boosting damage by 30% on all slashing, cutting, and blade-based moves. Second, during damage calculation, it adds 20% of the user's Special Defense stat to supplement the primary attacking stat, providing extra damage based on defensive investment.
 
 ## Detailed Mechanical Explanation

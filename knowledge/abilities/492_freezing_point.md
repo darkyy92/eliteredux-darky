@@ -11,7 +11,7 @@ character_count: 296
 "Contact moves have 30% chance to inflict frostbite."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Contact with this Pokemon has a 30% chance to inflict frostbite. Frostbitten Pokemon lose 1/8 HP each turn and have their Special Attack halved. Fire-type moves that thaw can cure frostbite. The frostbite effect is similar to burn but affects Special Attack instead of Attack.
 

@@ -11,7 +11,7 @@ character_count: 298
 "Deals 1.5x damage to Fairy. Takes 0.5x damage from Fairy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fae Hunter deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage from Fairy-type attacks. This dual offensive and defensive type effectiveness modification makes it excellent against Fairy-types while providing resistance to their moves. Works on Fairy moves regardless of secondary typing.
 

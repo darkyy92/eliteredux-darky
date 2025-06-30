@@ -11,7 +11,7 @@ character_count: 288
 "Isn't affected by target redirection."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Stalwart prevents the Pokemon from being affected by target redirection effects. This includes abilities like Lightning Rod, Storm Drain, and Sap Sipper that draw certain move types, as well as moves like Follow Me and Rage Powder that force attacks to target them instead.
 

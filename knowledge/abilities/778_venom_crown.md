@@ -11,7 +11,7 @@ character_count: 284
 "Poison Point + Mighty Horn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by contact moves, has 30% chance to poison the attacker. Additionally, all horn-based moves gain 30% power boost. Combines poison immunity with devastating jabbing attacks for royal dominance.
 

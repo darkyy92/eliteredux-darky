@@ -11,7 +11,7 @@ character_count: 286
 "Attacks with a 100BP Fire-type Explosion on fainting."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Victory Bomb triggers when the Pokemon faints, causing it to retaliate with a 100 Base Power Fire-type Explosion targeting the attacker. The explosion occurs after fainting and cannot miss. Works regardless of how the Pokemon was KOed, making it a dangerous last-resort revenge ability.
 

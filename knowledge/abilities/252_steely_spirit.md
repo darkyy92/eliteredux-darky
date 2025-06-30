@@ -11,7 +11,7 @@ character_count: 285
 "Boosts own & ally's Steel-type moves by 1.3x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Steely Spirit increases the power of Steel-type moves by 30% for both the user and its allies in battle. This ability supports team coordination by boosting ally Steel attacks, making it valuable in doubles battles and multi-Pokemon encounters for shared offensive power.
 

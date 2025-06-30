@@ -11,7 +11,7 @@ character_count: 294
 "Protects itself and ally from priority moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0. Moves like Quick Attack (+2), Fake Out (+3), Sucker Punch (+1), and Bullet Punch (+1) fail completely. The ability can be bypassed by Mold Breaker effects.
 

@@ -11,7 +11,7 @@ character_count: 293
 "20% chance to BRN/FRZ/PARA with respective types."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Elemental Charge gives attacking moves a 20% chance to inflict status conditions based on move type: Electric moves cause paralysis, Fire moves cause burn, and Ice moves cause frostbite. Only affects moves that deal damage to the target. Works with any damaging move of the three types.
 

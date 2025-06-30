@@ -11,7 +11,7 @@ character_count: 295
 "Changes forms after switching out."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Zero To Hero triggers Palafin's heroic transformation after being switched out and back in. Upon re-entry, Palafin transforms from its Zero Form to its mighty Hero Form, gaining massive stat boosts to Attack, Defense, Special Attack, and Special Defense while keeping the same HP and Speed stats.
 

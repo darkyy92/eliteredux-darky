@@ -11,7 +11,7 @@ character_count: 294
 "Ups Atk by 1.5x if poisoned. Immune to Poison status damage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Toxic Boost increases the Pokemon's physical Attack by 50% when poisoned (regular or badly poisoned). The ability completely prevents poison damage both in battle and in the field. Works with self-inflicted poison from Toxic Orb. The Attack boost applies immediately upon becoming poisoned.
 

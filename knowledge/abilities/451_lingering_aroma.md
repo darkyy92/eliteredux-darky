@@ -11,7 +11,7 @@ character_count: 292
 "If hit, makes the attacker's ability Lingering Aroma."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Lingering Aroma changes the attacker's ability to Lingering Aroma when hit by a contact move. Functions identically to Mummy, spreading on contact. Overrides most abilities except unsuppressable ones like Multitype. Blocked by Ability Shield item. Creates ability chain reactions when spread.
 

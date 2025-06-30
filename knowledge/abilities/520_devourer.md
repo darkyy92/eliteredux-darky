@@ -11,7 +11,7 @@ character_count: 293
 "Strong Jaw + Primal Maw."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Devourer combines Strong Jaw and Primal Maw effects. Boosts biting, jaw, and fang moves by 30% damage. When using these moves, the second hit of multi-hit abilities deals 40% damage instead of the usual 25%, making jaw-based attacks devastatingly powerful in combat.
 

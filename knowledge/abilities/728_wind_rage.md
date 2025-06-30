@@ -11,7 +11,7 @@ character_count: 298
 "Uses Defog on switch-in. Air-based moves get a 1.3x boost."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Wind Rage automatically uses Defog when switching into battle, clearing all entry hazards and screens. Additionally, all air-based moves receive a 1.3x damage boost. Air-based moves include Flying-type attacks and moves with the air-based flag. Great for hazard control and boosting aerial attacks.
 

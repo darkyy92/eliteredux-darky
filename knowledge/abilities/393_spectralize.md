@@ -11,7 +11,7 @@ character_count: 289
 "Normal-type moves become Ghost and Ghost gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage.
 

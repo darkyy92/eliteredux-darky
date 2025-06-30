@@ -11,7 +11,7 @@ character_count: 294
 "Boosts Attack and Def when hit by Water or Ice."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by Water-type moves, immediately boosts Attack by 1 stage and triggers an additional Defense boost at the end of turn. When hit by Ice-type moves, immediately raises both Attack and Defense by 1 stage each. Creates excellent synergy with defensive Ice-types seeking offensive presence.
 

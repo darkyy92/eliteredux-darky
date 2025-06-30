@@ -11,7 +11,7 @@ character_count: 289
 "Poison is super effective vs Steel. Can poison any type."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Poison-type moves become super effective against Steel-type Pokemon (2x damage instead of 0.5x). Additionally, this Pokemon can inflict poison status on any type, including Steel and Poison types that are normally immune. Useful for breaking through traditional poison immunities.
 

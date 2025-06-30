@@ -11,7 +11,7 @@ character_count: 286
 "Sets Gravity on entry for 5 turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Gravity Well automatically sets Gravity field effect on entry for 5 turns. Prevents Flying moves like Bounce, Fly, and Sky Drop while grounding airborne Pokemon including Levitate users. Increases move accuracy and allows Ground moves to hit Flying types for enhanced strategic control.
 

@@ -11,7 +11,7 @@ character_count: 297
 "Impenetrable + Sturdy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 This Pokemon combines the defensive properties of both Impenetrable and Sturdy abilities. It is completely immune to all forms of indirect damage including poison, burn, weather effects, and entry hazards, while also surviving any attack that would knock it out from full HP with 1 HP remaining.
 

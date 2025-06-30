@@ -11,7 +11,7 @@ character_count: 298
 "30% chance to move first."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Quick Draw gives a 30% chance to move first in any turn, regardless of move priority or Speed stats. When activated, the Pokemon gains priority similar to Quick Claw but as an ability. This priority boost works independently of move selection and can activate on any turn.
 

@@ -11,7 +11,7 @@ character_count: 296
 "Own moves bypass Substitutes and damage reduction screens."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Infiltrator allows moves to bypass protective effects that would normally block or reduce damage. All moves ignore Substitute dolls and damage reduction screens like Reflect, Light Screen, and Aurora Veil. Also bypasses Mist when using stat-lowering moves, ensuring attacks connect at full power.
 

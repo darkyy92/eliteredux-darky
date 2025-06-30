@@ -11,7 +11,7 @@ character_count: 281
 "Always crits slowed, poisoned, paralyzed, or bleeding foes."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Merciless guarantees critical hits against targets with status conditions or speed penalties. Affected targets include poisoned, paralyzed, bleeding foes, Pokemon with lowered Speed stats, or those holding Iron Ball. Absolutely devastating when facing debuffed opponents in battle.
 

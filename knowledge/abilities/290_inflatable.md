@@ -11,7 +11,7 @@ character_count: 297
 "Ups Def and Sp. Def by one stage if hit by Flying or Fire moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by Fire or Flying-type moves, this Pokemon inflates like a balloon, boosting both Defense and Special Defense by one stage each. The defensive boost applies immediately after taking damage, making the Pokemon more resilient to follow-up attacks. Perfect for bulky Pokemon that can capitalize on the stat increases.
 

@@ -11,7 +11,7 @@ character_count: 299
 "Boosts Speed by 50% + SpAtk by 20% on first turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rapid Response provides a crucial first-turn advantage by boosting Speed by 50% and Special Attack by 20% only on the first turn after switch-in. The Speed boost allows outspeeding opponents, while the Special Attack boost enhances offensive power, making it ideal for sweepers.
 

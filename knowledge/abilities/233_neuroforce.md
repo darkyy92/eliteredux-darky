@@ -11,7 +11,7 @@ character_count: 288
 "Grants an additional 1.35x boost to Super-effective moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Neuroforce amplifies super-effective moves with an additional 1.35x damage multiplier on top of the normal 2x type effectiveness. This turns normally strong moves into devastating attacks, making 2x effective moves deal 2.7x damage total. Excellent for breaking through bulky opponents and securing KOs.
 

@@ -11,7 +11,7 @@ character_count: 286
 "Recovers 1/16 of max HP at the end of each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Self Sufficient restores 1/16 of the Pokemon's maximum HP at the end of each turn, providing reliable passive healing without requiring any weather, terrain, or status conditions. This gradual recovery helps with sustained battles and stall strategies.
 

@@ -11,7 +11,7 @@ character_count: 298
 "Charges up when hit by wind moves or Tailwind starts."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Wind Power grants the Pokemon the Charged status when hit by wind-based moves like Gust, Tailwind, Whirlwind, or Blizzard. The Charged status doubles the power of Electric-type moves until used. Only activates once per battle unless status is consumed, making it ideal for Electric sweepers.
 

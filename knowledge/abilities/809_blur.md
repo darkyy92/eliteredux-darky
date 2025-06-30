@@ -11,7 +11,7 @@ character_count: 290
 "Uses Speed as defense stat when hit by contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. This makes fast Pokemon extremely tanky against physical attacks like Tackle, Punch moves, and Earthquake while remaining vulnerable to special projectiles.
 

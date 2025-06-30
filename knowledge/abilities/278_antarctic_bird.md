@@ -11,7 +11,7 @@ character_count: 293
 "Ice-type and Flying-type moves get a 1.3x power boost."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. This stacks with STAB for maximum effectiveness on dual-type Pokemon. Works with all offensive moves including physical attacks, special attacks, and status moves. Perfect for ice birds soaring through the skies.
 

@@ -11,7 +11,7 @@ character_count: 297
 "Metallic + Primal Maw."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Metallic Jaws grants the Steel type upon switching in and enables jaw-based attacks to hit twice with 60% power on the second strike. The first hit deals full damage while the follow-up strike deals reduced damage, creating devastating combo potential with bite attacks like Crunch and Fang moves.
 

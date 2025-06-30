@@ -11,7 +11,7 @@ character_count: 287
 "Normal/Fighting can hit Ghosts. Immune to Intimidate/Scare."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Scrappy allows Normal and Fighting-type moves to hit Ghost-type Pokemon for normal damage, bypassing their immunity. Additionally grants complete immunity to Intimidate and Scare abilities, preventing Attack drops from these sources. Perfect for physical attackers facing Ghost types.
 

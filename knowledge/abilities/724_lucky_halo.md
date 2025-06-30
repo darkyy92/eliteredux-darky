@@ -11,7 +11,7 @@ character_count: 299
 "Negates self stat drops. Endures the a single KO."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Lucky Halo prevents all negative stat changes to the user and allows survival of one KO hit per battle with exactly 1 HP remaining. The stat drop prevention works like Clear Body, blocking Intimidate and stat-lowering moves. The endure effect activates once per battle similar to Focus Sash effects.
 

@@ -11,7 +11,7 @@ character_count: 289
 "Grappler + Serpent Bind."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.
 

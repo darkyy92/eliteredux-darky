@@ -11,7 +11,7 @@ character_count: 295
 "If a party Pokemon fainted last turn, next move gets 1.5x boost."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. The damage boost applies to any move used while the retaliation timer is active. This revenge-based ability helps teams recover momentum after losing a teammate, making it excellent for comeback scenarios.
 

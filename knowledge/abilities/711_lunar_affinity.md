@@ -11,7 +11,7 @@ character_count: 292
 "Copies lunar moves used by others."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Lunar Affinity automatically copies and uses lunar moves when other Pokemon use them in battle. Triggers on Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. The copied move uses the original user's stats and targets but is performed by this Pokemon immediately afterwards.
 

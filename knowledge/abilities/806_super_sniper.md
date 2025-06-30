@@ -11,7 +11,7 @@ character_count: 289
 "Sniper + Attacks hit switching foes with 1/2 Power."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics. Critical hits deal 1.5x extra damage like Sniper. When an opponent switches out, this Pokemon automatically attacks the switching target with its selected move at half power, bypassing turn order.
 

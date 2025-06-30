@@ -11,7 +11,7 @@ character_count: 295
 "Attacks with Fire Spin on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Wildfire automatically uses Fire Spin upon switching into battle, dealing 50 base power Fire-type damage and trapping the opponent for 2-5 turns. The trapped opponent takes 1/8 max HP damage each turn and cannot switch out until the trap ends. Perfect for securing KOs.
 

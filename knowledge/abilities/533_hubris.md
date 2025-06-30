@@ -11,7 +11,7 @@ character_count: 285
 "KOs raise SpAtk by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Hubris boosts the Pokemon's Special Attack by one stage each time it knocks out an opponent with a damaging move. The boost only occurs when the Pokemon with Hubris directly causes the KO through damage, not through status effects, entry hazards, or weather damage. Multiple KOs stack.
 

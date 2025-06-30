@@ -11,7 +11,7 @@ character_count: 287
 "Sound-based moves have 50% chance to confuse the foe."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sound-based moves have a 50% chance to confuse the target upon successful hit. This includes all moves with the sound flag like Growl, Roar, Sing, Supersonic, Screech, and Hyper Voice. The confusion effect only triggers when the move connects and affects the target.
 

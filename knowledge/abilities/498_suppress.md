@@ -11,7 +11,7 @@ character_count: 286
 "Uses Torment on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering the battlefield, automatically uses Torment on the opponent, preventing them from using the same move consecutively. This Dark-type status move forces the enemy to alternate between different attacks, disrupting repetitive strategies.
 

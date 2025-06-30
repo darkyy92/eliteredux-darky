@@ -11,7 +11,7 @@ character_count: 295
 "Attacks with Astonish on first switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Jump Scare automatically uses Astonish when the Pokemon switches into battle, but only on the first entry per battle. Astonish is a 40 power Ghost-type move with priority +3 that causes flinching. The one-time restriction prevents repeated switch abuse while maintaining surprise factor.
 

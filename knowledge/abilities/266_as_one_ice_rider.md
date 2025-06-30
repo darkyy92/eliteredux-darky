@@ -11,7 +11,7 @@ character_count: 289
 "Unnerve + Chilling Neigh."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 As One combines two abilities into one powerful signature move. Unnerve prevents all opposing Pokemon from consuming held items like berries and Focus Sash. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent, stacking for multiple KOs.
 

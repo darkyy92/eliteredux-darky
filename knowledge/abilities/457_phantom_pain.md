@@ -11,7 +11,7 @@ character_count: 294
 "Ghost-type moves deal normal damage to Normal."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon with regular effectiveness. This bypasses the natural type interaction where Ghost moves normally have no effect on Normal-types. Works with all Ghost-type moves and their variants.
 

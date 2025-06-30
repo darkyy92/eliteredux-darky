@@ -11,7 +11,7 @@ character_count: 292
 "Uses Wish on entry 3 times per battle."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Automatically uses Wish upon entering battle, setting up delayed healing that restores half of the user's max HP on the following turn. This self-healing ability can only be activated 3 times per battle, making it a valuable but limited source of HP recovery.
 

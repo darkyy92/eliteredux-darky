@@ -11,7 +11,7 @@ character_count: 292
 "Sets a layer of Spikes when hit (contact move)."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Scrapyard sets a layer of Spikes on the opponent's side when hit by a contact move. Each layer damages switching Pokemon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively. Only triggers when the move connects and fewer than 3 layers exist. Effectively punishes physical attackers.
 

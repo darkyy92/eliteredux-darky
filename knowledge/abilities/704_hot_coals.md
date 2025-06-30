@@ -11,7 +11,7 @@ character_count: 295
 "Sets a trap that burns the next foe that switches in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Hot Coals sets a burning trap on the opponent's side when the Pokemon switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Only affects the first switch-in and is consumed when triggered. Does not stack multiple traps.
 

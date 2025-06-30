@@ -11,7 +11,7 @@ character_count: 296
 "Intimidate variant + 30% attract on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, the Yuki Onna's chilling presence lowers both the Attack and Special Attack of opposing Pokemon by one stage. Additionally, when the Yuki Onna makes contact with an opponent, there is a 30% chance to infatuate the target with her ethereal beauty.
 

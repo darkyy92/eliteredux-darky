@@ -11,7 +11,7 @@ character_count: 283
 "Normal-type moves become Flying and Flying gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokemon also gains STAB on all Flying-type moves, even those not converted by this ability.
 

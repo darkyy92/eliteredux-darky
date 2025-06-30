@@ -11,7 +11,7 @@ character_count: 295
 "Ice-type moves gain STAB. Moves always benefit from hail."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's actual typing. Additionally, the Pokemon is treated as if it's always in hail weather for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
 

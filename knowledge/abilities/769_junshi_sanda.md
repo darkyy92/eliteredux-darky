@@ -11,7 +11,7 @@ character_count: 291
 "Punches and Kicks are both Punches and Kicks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Punching and kicking moves gain each other's properties. Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities. This dual classification enables powerful synergies.
 

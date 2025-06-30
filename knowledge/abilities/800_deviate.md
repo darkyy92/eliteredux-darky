@@ -11,7 +11,7 @@ character_count: 293
 "Normal-type moves become Dark and Dark gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Deviate converts all Normal-type moves to Dark-type and provides STAB for Dark-type moves. This transformation affects all Normal-type moves including Tackle, Body Slam, and Hyper Beam. The ability grants immediate Dark-type STAB bonus for Pokemon that wouldn't normally receive it.
 

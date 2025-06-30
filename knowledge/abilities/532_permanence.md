@@ -11,7 +11,7 @@ character_count: 288
 "Foes can't heal in any way."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover and Synthesis, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
 

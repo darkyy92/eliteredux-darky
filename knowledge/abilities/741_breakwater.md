@@ -11,7 +11,7 @@ character_count: 287
 "Swift Swim + Stall."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Swift Swim boosts Speed by 50% during rain weather. Stall reduces damage by 30% when moving before the opponent. Both effects stack for excellent defensive rain sweeping. Works with all rain types including Primordial Sea. Strategic positioning for optimal benefits.
 

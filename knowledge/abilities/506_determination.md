@@ -11,7 +11,7 @@ character_count: 295
 "Ups Special Attack by 50% if suffering."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Determination boosts Special Attack by 50% when the Pokemon has any status condition or Comatose ability. Also prevents the freeze status from reducing Special Attack. This works with burn, poison, paralysis, sleep, freeze, and Blood Stain effects. Great for special attackers.
 

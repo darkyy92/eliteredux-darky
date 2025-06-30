@@ -11,7 +11,7 @@ character_count: 291
 "Hunger Switch + Elec and Dark deal 1.35x with 10% recoil."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 This ability combines two distinct effects: it switches between two forms at the end of each turn like Hunger Switch, and provides enhanced offensive power for Electric and Dark-type moves at a cost. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.
 

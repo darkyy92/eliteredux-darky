@@ -11,7 +11,7 @@ character_count: 298
 "Causes infestation when hit by a contact move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Itchy Defense automatically traps attackers with Infestation when hit by contact moves. The trapped opponent suffers 1/8 maximum HP damage each turn for 4-5 turns and cannot switch out. Works only against contact moves that successfully hit, making it a strong deterrent against physical attackers.
 

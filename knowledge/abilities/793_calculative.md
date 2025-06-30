@@ -11,7 +11,7 @@ character_count: 287
 "Analytic + Neuroforce."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Calculative combines Analytic and Neuroforce. Analytic boosts damage by 30% when moving after the target. Neuroforce increases super-effective moves by 35%. Together they reward calculated plays and exploiting type matchups. Ideal for slow, strategic Pokemon who excel at precise timing.
 

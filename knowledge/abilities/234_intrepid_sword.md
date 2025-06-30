@@ -11,7 +11,7 @@ character_count: 287
 "On entry, raises Attack by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for physical attackers needing immediate power.
 

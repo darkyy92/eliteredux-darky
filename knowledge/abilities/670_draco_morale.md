@@ -11,6 +11,8 @@ character_count: 298
 Uses Dragon Cheer on switch-in.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Upon entering battle, automatically uses Dragon Cheer, boosting critical hit rate by one stage. Dragon-type Pokemon receive two stages instead. This draconic inspiration immediately prepares the user for more accurate strikes, making it especially powerful for Dragons who gain enhanced benefits.
 
 ## Detailed Mechanical Explanation

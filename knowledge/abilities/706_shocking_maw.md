@@ -11,7 +11,7 @@ character_count: 287
 "Strong Jaw + Bite moves have 50% paralysis chance."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Shocking Maw combines Strong Jaw and paralysis effects for bite moves. Strong Jaw boosts bite move power by 30% while each bite move has a 50% chance to paralyze the target. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, and other biting attacks.
 

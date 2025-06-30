@@ -11,7 +11,7 @@ character_count: 291
 "+1 Spdef on Entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Embody Aspect (Wellspring) raises the Pokemon's Special Defense by one stage when it switches into battle. This variant is exclusive to Ogerpon's Wellspring Mask form, reflecting its defensive Water-type capabilities. Works only once per switch-in, stacking with other stat-boosting effects.
 

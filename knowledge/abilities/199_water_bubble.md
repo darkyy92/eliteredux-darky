@@ -11,7 +11,7 @@ character_count: 295
 "Halves Fire dmg taken. Doubles Water dmg dealt. No burns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Water Bubble creates a protective bubble that doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burn status, removing existing burns upon gaining the ability. Elite Redux's multi-ability system.
 

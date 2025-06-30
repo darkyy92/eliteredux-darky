@@ -11,7 +11,7 @@ character_count: 292
 "Boosts Defense sharply instead of being hit by Fire-type moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Well Baked Body grants immunity to Fire-type moves while boosting Defense by 2 stages when hit by Fire attacks. The ability completely negates Fire damage and provides immediate +50% defense boost. Excellent for pivoting into Fire moves and building defensive momentum against opposing teams.
 

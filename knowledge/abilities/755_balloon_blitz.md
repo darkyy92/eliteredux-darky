@@ -11,7 +11,7 @@ character_count: 293
 "Inflatable + Hyper Aggressive."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Inflatable and Hyper Aggressive effects. When hit by Fire or Flying moves, boosts Defense and Special Defense by one stage each. Additionally, all moves strike twice, with the second hit dealing 25% damage. Perfect for aggressive tanks that capitalize on defensive boosts.
 

@@ -11,7 +11,7 @@ character_count: 284
 "Keen Edge moves always hit and hit both foes."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sweeping Edge makes all Keen Edge moves have perfect accuracy and hit both opposing Pokemon in double battles. Keen Edge moves include slicing attacks like Slash, Leaf Blade, Karate Chop, and Dragon Claw. This transforms single-target slicing moves into powerful multi-target attacks.
 

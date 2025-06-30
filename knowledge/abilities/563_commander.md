@@ -11,7 +11,7 @@ character_count: 287
 "Hops inside an allied Dondozo. Boosts its ally but can't act."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Commander allows Tatsugiri to enter an allied Dondozo and become untargetable. When activated, the Dondozo receives +2 to all stats and Tatsugiri becomes semi-invulnerable. If Dondozo faints, Tatsugiri reappears and can act normally again.
 

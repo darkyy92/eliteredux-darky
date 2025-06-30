@@ -11,7 +11,7 @@ character_count: 300
 "Natural Cure + Regenerator."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Natural Recovery combines Natural Cure and Regenerator effects. Cures all status conditions when switching out, just like Natural Cure. Also restores 33% of maximum HP when switching out, like Regenerator. Both effects trigger simultaneously on exit. Perfect for hit-and-run tactics and team support.
 

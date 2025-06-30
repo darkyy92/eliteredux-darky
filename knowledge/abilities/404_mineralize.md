@@ -11,7 +11,7 @@ character_count: 297
 "Normal-type moves become Rock and Rock gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mineralize converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type attacks. This -ate ability provides a 1.2x damage boost to converted moves. All Normal moves become Rock moves before type effectiveness, gaining super-effective damage against Bug, Fire, Flying, and Ice.
 

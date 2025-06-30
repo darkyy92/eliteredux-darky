@@ -11,7 +11,7 @@ character_count: 295
 "Always hits. Fighting Spirit + Rampage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Qigong ensures all moves never miss while converting Normal-type moves to Fighting-type with STAB. Additionally, eliminates recharge requirements after successfully KOing opponents with high-power moves like Hyper Beam, enabling devastating sweep potential with perfect accuracy and reliability.
 

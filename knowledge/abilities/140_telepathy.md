@@ -11,7 +11,7 @@ character_count: 286
 "Protects team from friendly fire."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Telepathy protects the Pokemon from all damage-dealing moves used by its allies in double or triple battles. This includes spread moves like Earthquake, Surf, and Discharge that would normally hit all Pokemon on the field. The ability provides complete immunity from friendly fire damage.
 

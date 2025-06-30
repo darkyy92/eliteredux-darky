@@ -11,6 +11,8 @@ character_count: 299
 Hammer moves deal 10% more damage and use target's Special Defense.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Soul Crusher enhances the wielder's mastery over hammer-based combat techniques. The ability boosts the power of hammer moves like Slam, Crabhammer, and Hammer Arm by 10%, while forcing opponents to use their special defense instead of defense when calculating damage from these devastating attacks.
 
 ## Detailed Mechanical Explanation

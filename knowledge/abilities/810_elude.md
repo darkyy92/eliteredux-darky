@@ -11,7 +11,7 @@ character_count: 286
 "Uses Speed as defense stat when hit by non-contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Elude replaces Defense or Special Defense with Speed when taking damage from non-contact moves. Works with projectiles, special attacks, and ranged moves like Water Gun, Psychic, or Rock Slide. Perfect complement to Blur ability.
 

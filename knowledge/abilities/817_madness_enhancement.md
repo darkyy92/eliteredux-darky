@@ -11,7 +11,7 @@ character_count: 295
 "Confuses self in fog, halves damage when confused."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokemon is confused, making it a double-edged defensive tool that trades control for survivability.
 

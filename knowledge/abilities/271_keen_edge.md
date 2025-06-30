@@ -11,7 +11,7 @@ character_count: 298
 "Boosts the power of slashing moves by 1.3x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Keen Edge enhances all slashing attacks by 30%, significantly boosting moves that involve cutting, slicing, or slashing motions. Works with claws, blades, leaves, wind slashes, and similar cutting attacks. Includes both physical and special moves. Stacks with other damage modifiers.
 

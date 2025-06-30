@@ -11,7 +11,7 @@ character_count: 299
 "Sharply ups highest attacking stat but confuses on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Berserk DNA sharply raises the higher of Attack or Special Attack by 2 stages upon entering battle. The surge of power causes confusion for 3 turns unless the Pokemon is immune. Powerful entry effect but requires careful confusion management for optimal use.
 

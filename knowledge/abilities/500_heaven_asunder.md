@@ -11,7 +11,7 @@ character_count: 295
 "Spacial Rend always crits. Ups crit level by +1."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Heaven Asunder guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves. This signature ability of Palkia reflects its mastery over spatial dimensions, tearing through enemy defenses with devastating precision strikes.
 

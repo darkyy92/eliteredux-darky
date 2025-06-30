@@ -11,7 +11,7 @@ character_count: 281
 "Grants a 1.3x power boost to ally's Special attacks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Battery provides a 30% power boost to ally Pokemon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
 

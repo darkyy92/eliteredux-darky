@@ -11,7 +11,7 @@ character_count: 297
 "On the Prowl + Stakeout."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Overwatch combines On the Prowl and Stakeout effects. Gives +1 priority to all moves on the first turn after switching in, with negative priority moves becoming +0. Additionally, deals double damage to opponents switching into battle. Perfect for punishing switch-ins with priority.
 

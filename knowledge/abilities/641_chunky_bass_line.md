@@ -11,6 +11,8 @@ character_count: 291
 After using any sound-based move, triggers an earthquake.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This rhythmic ability creates powerful seismic vibrations that shake the battlefield after every sound-based attack. When the Pokemon uses any move with the sound flag, the intense bass frequencies resonate through the ground, triggering a localized earthquake that damages nearby opponents.
 
 ## Detailed Mechanical Explanation

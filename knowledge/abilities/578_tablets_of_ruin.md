@@ -11,7 +11,7 @@ character_count: 281
 "Lowers the Attack of other Pokemon by 25%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tablets of Ruin creates an ancient curse that weakens the physical strength of all opposing Pokemon on the field. This passive ability reduces the Attack stat of every other Pokemon by 25% as long as the Tablets bearer remains active. Multiple Ruin abilities do not stack together.
 

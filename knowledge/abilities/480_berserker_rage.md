@@ -11,7 +11,7 @@ character_count: 287
 "Tipping Point + Rampage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Berserker Rage combines Tipping Point and Rampage effects. When hit, raises Special Attack by 1 stage normally or maximizes it on critical hits. When the Pokemon KOs an opponent, it instantly recovers from recharge status, allowing immediate use of moves like Hyper Beam without waiting.
 

@@ -11,7 +11,7 @@ character_count: 281
 "Filter + Illuminate."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Refrigerator combines Filter and Illuminate effects. Reduces damage from super effective attacks by 35%, taking only 65% of the original damage. Additionally boosts the accuracy of all moves by 20%, making attacks more likely to hit their target.
 

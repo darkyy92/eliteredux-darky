@@ -11,7 +11,7 @@ character_count: 293
 "Sticky Hold + Disables foe's item for 2 turns on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Supersweet Syrup combines Sticky Hold's item protection with item disruption. The Pokemon's item cannot be removed or stolen. When hit by contact moves, the attacker's item is disabled for 2 turns, preventing item activation and effects during battle.
 

@@ -11,7 +11,7 @@ character_count: 299
 "Heals the user for 1/8 of the damage they deal."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Energy Tap heals the Pokemon for 1/8 of all damage dealt to opponents. Works with any damaging move that successfully hits and deals damage. Healing occurs immediately after damage calculation. Does not heal if already at maximum HP. Excellent for sustaining offensive Pokemon in battle.
 

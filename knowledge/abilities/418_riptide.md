@@ -11,7 +11,7 @@ character_count: 295
 "Boosts Water-type moves by 1.3x, or 1.8x when below 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Riptide boosts the power of all Water-type moves by 30% when above 1/3 HP, increasing to 80% when at or below 1/3 HP. This powerful offensive ability rewards aggressive play and creates comeback potential when health is low. Works with any Water move regardless of the user's typing for versatile damage output.
 

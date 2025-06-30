@@ -11,7 +11,7 @@ character_count: 289
 "Sound moves deal 1.3x more dmg. Takes -50% dmg from sound moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Punk Rock amplifies the user's sound-based attacks by 30% while providing exceptional acoustic defense, reducing incoming sound move damage by 50%. This dual nature makes sound specialists both formidable attackers and resilient defenders against sonic warfare.
 

@@ -11,7 +11,7 @@ character_count: 288
 "Technician + Skill Link."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Kunoichi Blade combines Technician and Skill Link effects. Moves with 60 BP or less get a 1.5x power boost, while multi-hit moves like Bullet Seed and Rock Blast always hit the maximum number of times (5 hits). Perfect for multi-hit builds with guaranteed consistency and offensive power.
 

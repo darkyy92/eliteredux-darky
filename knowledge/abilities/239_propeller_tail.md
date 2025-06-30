@@ -11,7 +11,7 @@ character_count: 289
 "Swift Swim + Redirection Immunity."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Propeller Tail boosts the Pokemon's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
 

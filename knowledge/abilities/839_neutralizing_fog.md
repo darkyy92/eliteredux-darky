@@ -11,7 +11,7 @@ character_count: 285
 "Uses Defog on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Neutralizing Fog automatically uses Defog when the Pokemon enters battle. Clears entry hazards (Stealth Rock, Spikes, Toxic Spikes, Sticky Web), screens (Light Screen, Reflect, Aurora Veil), and terrain effects from both sides. Lowers opponent's evasion by 1. Excellent hazard control.
 

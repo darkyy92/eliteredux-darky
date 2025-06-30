@@ -11,7 +11,7 @@ character_count: 292
 "Water moves gain STAB. Can't become drenched."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grants STAB to all Water-type moves regardless of the user's typing, multiplying their power by 1.5x. Also provides immunity to being drenched by Venom Drench, preventing the Attack, Special Attack, and Speed reductions that occur when poisoned Pokemon are hit by that move.
 

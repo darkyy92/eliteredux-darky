@@ -11,7 +11,7 @@ character_count: 294
 "KOs raise Sp. Atk by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokemon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
 

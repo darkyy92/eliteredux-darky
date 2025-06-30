@@ -11,7 +11,7 @@ character_count: 297
 "If hit, makes the attacker's ability Mummy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mummy spreads when hit by contact moves, replacing the attacker's ability with Mummy unless they have Ability Shield or an unsuppressable ability. Particularly effective against physical attackers, disrupting their strategies and spreading the curse through battle teams.
 

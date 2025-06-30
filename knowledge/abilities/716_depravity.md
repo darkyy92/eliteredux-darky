@@ -11,7 +11,7 @@ character_count: 283
 "Merciless + Overcharge."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Depravity combines Merciless and Overcharge effects. Guarantees critical hits against poisoned, paralyzed, bleeding, or speed-lowered foes while making Electric moves super effective against Electric-types and allowing paralysis of Electric-types. Perfect for overwhelming opponents.
 

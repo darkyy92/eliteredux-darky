@@ -11,7 +11,7 @@ character_count: 290
 "30% chance to poison on contact. Also works on offense."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon makes physical contact, either by using contact moves or being hit by them, there's a 30% chance the opposing Pokemon becomes poisoned. This ability functions both offensively and defensively during battle, but cannot poison targets already poisoned or immune to poison.
 

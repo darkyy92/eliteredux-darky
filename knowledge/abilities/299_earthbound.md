@@ -11,7 +11,7 @@ character_count: 296
 "Boosts Ground-type moves by 1.2x, or 1.5x when under 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokemon is endangered. Ideal for Ground specialists and desperate counterattacks.
 

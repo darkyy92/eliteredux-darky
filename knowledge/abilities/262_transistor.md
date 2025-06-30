@@ -11,7 +11,7 @@ character_count: 290
 "Boosts the power of Electric-type moves by 1.5x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Transistor amplifies the power of all Electric-type moves by 50%, making them hit with 1.5x damage. This boost applies to any Electric move the Pokemon uses, including physical moves like Thunder Punch and special moves like Thunderbolt. Stacks multiplicatively with other damage modifiers.
 

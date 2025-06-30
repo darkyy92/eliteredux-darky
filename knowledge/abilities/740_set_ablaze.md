@@ -11,7 +11,7 @@ character_count: 295
 "Inflicting burn also inflicts fear."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Set Ablaze causes the Pokemon to inflict fear status alongside burn whenever it successfully burns an opponent. Fear prevents the target from switching out or using status moves. Works with all burn-inflicting moves and abilities. Creates powerful control combinations.
 

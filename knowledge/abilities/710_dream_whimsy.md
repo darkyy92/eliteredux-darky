@@ -11,7 +11,7 @@ character_count: 288
 "Uses Yawn on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dream Whimsy automatically uses Yawn when the Pokemon switches in, targeting the opposing Pokemon. Yawn causes drowsiness that makes the target fall asleep at the end of the next turn. The sleep effect can be prevented by switching out or using Sleep Talk.
 

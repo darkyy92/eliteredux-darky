@@ -11,7 +11,7 @@ character_count: 284
 "Ups Sp. Atk by 1.5x if burned. Ignites in fog."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Flare Boost raises the Pokemon's Special Attack by 50% when burned instead of reducing Attack. Negates burn damage completely. Additionally, when entering battle or when fog weather activates, automatically inflicts burn status on self. Perfect for special attackers who can exploit burn immunity.
 

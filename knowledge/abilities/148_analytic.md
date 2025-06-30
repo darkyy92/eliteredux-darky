@@ -11,7 +11,7 @@ character_count: 297
 "Attacks get a 1.3x power boost if it moves last."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Analytic boosts attack power by 30% when the user moves after the target. The boost applies to all damaging moves except Future Sight and Doom Desire. Works when the target has already acted this turn, making it excellent for slow attackers who naturally move last in battle.
 

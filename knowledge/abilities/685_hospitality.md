@@ -11,6 +11,8 @@ character_count: 286
 Heals doubles partner for 25% HP on switch-in.  
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 When this Pokemon switches into battle, it immediately heals its doubles partner for 25% of the partner's maximum HP. This welcoming gesture ensures allies stay healthy and battle-ready, embodying true hospitality by prioritizing teammate welfare above all else with consistent healing.
 
 ## Detailed Mechanical Explanation

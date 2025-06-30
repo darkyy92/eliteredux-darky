@@ -11,7 +11,7 @@ character_count: 286
 "Intoxicate + Punk Rock."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sludgy Mix combines Intoxicate and Punk Rock effects. Converts Normal-type moves to Poison-type with 20% power boost. Sound-based moves deal 30% more damage and take 50% less damage from opposing sound moves. Creates a unique offensive profile with poison typing and sound move mastery.
 

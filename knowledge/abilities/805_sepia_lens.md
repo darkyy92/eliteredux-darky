@@ -11,7 +11,7 @@ character_count: 293
 "Tinted Lens + Sand Guard."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Normal-type moves become Fire and Fire gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves. Converted moves receive a 10% damage bonus on top of the type change. This allows Fire-types to effectively use Normal moves like Return, Body Slam, and Hyper Beam as powerful Fire attacks with full STAB.
 

@@ -11,7 +11,7 @@ character_count: 290
 "30% chance to bleed on contact or offense."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn. Rock and Ghost types are immune to bleeding, as are Pokemon already afflicted with status conditions.
 

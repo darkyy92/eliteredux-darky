@@ -11,7 +11,7 @@ character_count: 295
 "Chlorophyll + Solar Power."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Boosts Speed by 50% in sun weather while also increasing the higher attacking stat by 50% in sun. Works with all forms of sun including regular sun, harsh sunlight, and Primal Groudon's weather. Both effects activate simultaneously when sun is present.
 

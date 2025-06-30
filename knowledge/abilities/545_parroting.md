@@ -11,7 +11,7 @@ character_count: 294
 "Copies sound moves used by others. Immune to sound."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Parroting grants immunity to all sound-based moves like Soundproof, while also copying sound moves used by opponents. When an enemy uses a sound move, the Pokemon immediately retaliates with the same move. Combines offensive mimicry with defensive sound immunity.
 

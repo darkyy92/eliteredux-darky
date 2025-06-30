@@ -11,7 +11,7 @@ character_count: 295
 "Drizzle + Swift Swim."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Seaborne combines Drizzle and Swift Swim effects. Upon entry, sets rain weather for 8 turns. During any rain weather, the Pokemon's Speed is boosted by 50%. Works with regular rain, heavy rain, and Primordial Sea. Perfect for Water-type sweepers needing both setup and speed.
 

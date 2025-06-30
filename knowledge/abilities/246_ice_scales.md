@@ -11,7 +11,7 @@ character_count: 292
 "Halves damage taken by Special moves. Does NOT double SpDef."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ice Scales provides exceptional special defensive utility by halving all incoming special attack damage. Unlike abilities that boost stats, this damage reduction occurs after stat calculations, making it incredibly reliable. Can be suppressed by Mold Breaker-type abilities.
 

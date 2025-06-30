@@ -11,7 +11,7 @@ character_count: 293
 "30% chance to heal user or ally's status at the end of each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Healer gives a 30% chance to cure status conditions at the end of each turn. In single battles, it only cures the user. In double battles, it can cure either the user or their ally partner. The ability checks for both Pokemon separately and can potentially cure both in the same turn if lucky.
 

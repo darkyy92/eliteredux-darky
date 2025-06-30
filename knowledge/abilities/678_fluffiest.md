@@ -11,6 +11,8 @@ character_count: 299
 Quarters contact damage taken. 2x weak to fire.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This ability makes the Pokemon extremely fluffy and soft, providing exceptional protection against physical contact moves by reducing contact damage by 75%. However, this incredible fluffiness comes with a significant drawback - the Pokemon becomes vulnerable to fire attacks, taking double damage.
 
 ## Detailed Mechanical Explanation

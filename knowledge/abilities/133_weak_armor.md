@@ -11,7 +11,7 @@ character_count: 290
 "If hit by a contact attack: -1 Defense and +2 Speed."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the Pokemon become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
 

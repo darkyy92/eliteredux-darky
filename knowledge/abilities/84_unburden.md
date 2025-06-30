@@ -11,7 +11,7 @@ character_count: 277
 "Consuming its held item doubles Speed until switched out."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Unburden doubles Speed when the Pokemon's held item is consumed or removed. The boost persists until the Pokemon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
 

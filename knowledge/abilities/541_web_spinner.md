@@ -11,7 +11,7 @@ character_count: 296
 "Uses String Shot on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Web Spinner automatically uses String Shot when the Pokemon switches into battle, harshly lowering the Speed of all opponents by 2 stages. This switch-in attack has 100% accuracy and targets both opposing Pokemon in double battles. Perfect for crippling faster threats immediately.
 

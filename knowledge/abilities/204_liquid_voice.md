@@ -11,7 +11,7 @@ character_count: 290
 "Sound moves get a 1.2x boost and become Water if Normal."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Affects moves like Hyper Voice, Boomburst, Sing, and Growl. Type change occurs before damage calculation for proper STAB and effectiveness. Provides excellent Water coverage while maintaining sound utility.
 

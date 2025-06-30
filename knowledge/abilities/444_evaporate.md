@@ -11,7 +11,7 @@ character_count: 297
 "Takes no damage and sets Mist if hit by water."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions. Only activates if Mist is not already active. Perfect counter to Water attacks and stat-lowering moves.
 

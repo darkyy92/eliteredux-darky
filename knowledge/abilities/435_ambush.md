@@ -11,7 +11,7 @@ character_count: 298
 "Guaranteed critical hit on first turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ambush guarantees a critical hit on the Pokemon's first turn after switching in or at the start of battle. This powerful ability works with any attacking move, providing immediate offensive pressure. Perfect for hit-and-run tactics and surprise sweeps against unsuspecting opponents.
 

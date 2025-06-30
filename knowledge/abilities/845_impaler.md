@@ -11,7 +11,7 @@ character_count: 289
 "Mighty Horn + 30% Bleed chance on horn moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Impaler combines the power of Mighty Horn to boost all horn-based moves by 30% with a dangerous bleeding effect. Each horn move has a 30% chance to inflict Bleed status on the target. The bleed damage stacks with the boosted move damage for truly devastating offensive potential in battle.
 

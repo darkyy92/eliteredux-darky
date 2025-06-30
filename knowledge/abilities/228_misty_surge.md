@@ -11,7 +11,7 @@ character_count: 295
 "Casts Misty Terrain on entry. Lasts 8 turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Misty Surge automatically sets Misty Terrain when the Pokemon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
 

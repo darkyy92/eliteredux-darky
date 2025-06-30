@@ -11,7 +11,7 @@ character_count: 286
 "Maximizes Speed if hit by a Fire-type or Water-type attack."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage, allowing for potential revenge kills or escapes. Works with both direct attacks and indirect damage like entry hazards.
 

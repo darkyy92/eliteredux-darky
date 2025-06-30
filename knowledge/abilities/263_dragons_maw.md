@@ -11,7 +11,7 @@ character_count: 284
 "Boosts the power of Dragon-type moves by 1.5x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dragon's Maw boosts the power of all Dragon-type moves by 50%. Works with physical and special Dragon attacks including Dragon Pulse, Draco Meteor, Outrage, Dragon Rush, and Dragon Claw. The boost stacks multiplicatively with STAB, weather, and items for devastating Dragon offense.
 

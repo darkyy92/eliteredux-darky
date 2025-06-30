@@ -11,7 +11,7 @@ character_count: 282
 "Takes 35% less damage from Super-effective moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Flame Shield reduces damage from super-effective moves by 35%, helping Pokemon survive type disadvantages. Works against all attacks with 2x or greater effectiveness. The damage reduction applies before other calculations, making it valuable for frail Pokemon facing coverage moves.
 

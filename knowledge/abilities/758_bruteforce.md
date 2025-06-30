@@ -11,7 +11,7 @@ character_count: 297
 "Combines Reckless and Rock Head effects."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Bruteforce combines Reckless and Rock Head effects. Boosts recoil moves by 20% damage while preventing all recoil damage taken. Grants immunity to confusion status and removes confusion when hit by moves that would cause it. Perfect for aggressive attackers using high-risk moves.
 

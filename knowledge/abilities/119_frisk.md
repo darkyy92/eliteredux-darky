@@ -11,7 +11,7 @@ character_count: 282
 "Checks foes' item and disables their items for two turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, Frisk immediately scans all opposing Pokemon, revealing their held items to you. It then applies Embargo status for two turns, preventing all foes from using their items. This enhanced version provides strong tactical advantage by denying crucial item usage.
 

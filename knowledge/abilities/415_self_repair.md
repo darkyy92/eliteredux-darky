@@ -11,7 +11,7 @@ character_count: 290
 "Self Sufficient + Natural Cure."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Self Repair combines HP restoration and status healing on switch out. Heals HP and cures all status conditions when switching out of battle. Activates with voluntary switches, forced switches, and pivot moves. Does not work if fainted. Perfect for defensive pivots needing full restoration.
 

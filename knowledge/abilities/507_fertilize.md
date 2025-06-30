@@ -11,7 +11,7 @@ character_count: 295
 "Normal-type moves become Grass and Grass gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fertilize converts all Normal-type moves to Grass-type and grants STAB for Grass moves. This means Normal moves gain the power boost from being Grass-type plus STAB bonus. The user effectively gets Grass STAB regardless of their actual typing, making coverage moves stronger.
 

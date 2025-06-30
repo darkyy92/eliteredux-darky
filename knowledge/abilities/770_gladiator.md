@@ -11,7 +11,7 @@ character_count: 299
 "Boosts Fighting-type moves by 1.3x, or 1.8x when below 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Empowers the inner warrior spirit, boosting all Fighting-type moves by 30% damage under normal conditions. When pushed to the brink with HP at 1/3 or below, the gladiator enters a desperate berserker state, amplifying Fighting moves by a massive 80% instead. Perfect for dramatic comeback victories.
 

@@ -11,7 +11,7 @@ character_count: 287
 "Pyromancy + Cryomancy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Thermomancy combines Pyromancy and Cryomancy, multiplying burn and frostbite chances by 5x. Moves with 10% burn chance become 50%, 30% frostbite chance becomes guaranteed. Dominates temperature control on the battlefield with reliable dual status infliction.
 

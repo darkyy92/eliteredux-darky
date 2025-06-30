@@ -11,6 +11,8 @@ character_count: 285
 User's super-effective moves have +1 prio.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Overzealous grants +1 priority to any move that would deal super-effective damage against the target. This priority boost applies after type effectiveness is calculated but before the move executes. Works with all damaging moves regardless of their base priority. The ability helps offensive Pokemon strike first when exploiting type advantages, turning super-effective coverage into priority attacks for guaranteed first strikes.
 
 ## Detailed Mechanical Explanation

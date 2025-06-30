@@ -11,7 +11,7 @@ character_count: 289
 "Sets up Inverse Room on entry, lasts 3 turns."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Inversion automatically sets up Inverse Room when the Pokemon enters battle, lasting exactly 3 turns. Inverse Room reverses all type effectiveness interactions - super effective moves become not very effective and vice versa. Field effect cannot be reactivated while active. Game-changing.
 

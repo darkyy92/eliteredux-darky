@@ -11,7 +11,7 @@ character_count: 289
 "Hit by attacks raises Special Attack by 1, or maximizes on critical hit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon is hit by an attack, it raises its Special Attack by 1 stage. If the hit was a critical hit, its Special Attack is immediately maximized to +6 stages instead. This ability triggers after taking damage from offensive moves.
 

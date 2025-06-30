@@ -11,7 +11,7 @@ character_count: 294
 "Desolate Land + Earth Eater."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Desolate Sun creates extremely harsh sunlight that lasts until the user switches out and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves. Combines weather control with Ground immunity for strong defensive utility.
 

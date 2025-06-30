@@ -11,7 +11,7 @@ character_count: 283
 "Adds Fairy type to itself."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fairy Tale adds the Fairy type upon entering battle, granting a third type. This provides Fairy resistances to Fighting, Bug, and Dark moves plus immunity to Dragon attacks. The added type persists until switching out or fainting. Ideal for non-Fairy Pokemon needing better coverage.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Takes 35% less damage from Super-effective moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Prism Armor reduces damage from super effective moves by 35%, calculating as a 0.65x multiplier. This protective ability activates whenever type effectiveness would deal 2x or greater damage. Works against all super effective attacks including those boosted by items or abilities. Provides consistent defensive utility against coverage moves.
 

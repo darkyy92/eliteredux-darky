@@ -11,7 +11,7 @@ character_count: 295
 "Sharply raises one stat and lowers another each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Moody triggers at the end of each turn, randomly selecting one stat to sharply raise (+2 stages) and another stat to lower (-1 stage). The same stat cannot be both raised and lowered in the same turn. Only activates if at least one stat change is possible.
 

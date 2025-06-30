@@ -11,7 +11,7 @@ character_count: 299
 "Intimidate + Violent Rush"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, this Pokemon makes a dramatic champions entrance that intimidates all opposing Pokemon, lowering their Attack stat by one stage. Simultaneously, it enters an aggressive violent rush state that significantly boosts its own Speed by 50% and Attack by 20% for the first turn only.
 

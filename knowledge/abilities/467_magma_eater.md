@@ -11,7 +11,7 @@ character_count: 291
 "Predator + Molten Down."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Magma Eater combines predatory healing with molten type advantages. Restores 25% HP when fainting an opponent through direct attacking moves. Additionally, Fire-type moves deal 2x damage against Rock-type Pokemon instead of normal effectiveness. Excellent for aggressive Fire-type attackers.
 

@@ -11,7 +11,7 @@ character_count: 294
 "Hydration + Water Veil."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Purifying Waters combines Water Veil and Hydration effects. On entry, surrounds the Pokemon with healing waters that restore 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at turn end.
 

@@ -11,7 +11,7 @@ character_count: 298
 "Dealing a KO raises highest calculated stat by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing raw stats without current battle modifiers. Works across all battle formats and accumulates multiple boosts per battle. Essential for snowballing momentum.
 

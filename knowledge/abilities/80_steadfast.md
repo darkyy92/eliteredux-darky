@@ -11,7 +11,7 @@ character_count: 300
 "Raises Speed by one stage if this Pokemon flinches."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (exactly 280-300 chars)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Steadfast boosts Speed by one stage when the Pokemon flinches, turning flinching into a benefit. Works with moves like Fake Out and high-flinch attacks. The Speed boost occurs immediately after the flinch, potentially allowing faster moves next turn. Can combine with Rattled for double Speed boosts.
 

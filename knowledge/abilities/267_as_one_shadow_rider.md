@@ -11,7 +11,7 @@ character_count: 292
 "Unnerve + Grim Neigh."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Unnerve and Grim Neigh effects. The Pokemon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokemon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
 

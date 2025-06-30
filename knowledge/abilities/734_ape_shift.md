@@ -11,7 +11,7 @@ character_count: 285
 "Transforms below 50% HP, curing status and always critting."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ape Shift transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions during transformation. After transforming, all attacks become critical hits. Works on entry, during battle, and at turn end. Exclusive to Mega Slaking forms.
 

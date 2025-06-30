@@ -11,7 +11,7 @@ character_count: 296
 "Haunted Spirit + Vengeance."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Combines Haunted Spirit and Vengeance effects. When KO'd by contact moves, curses the attacker to lose 1/4 HP each turn. When at 1/3 HP or less, Ghost-type moves deal 50% more damage. Provides both defensive punishment and offensive comeback potential.
 

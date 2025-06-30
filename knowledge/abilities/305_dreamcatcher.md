@@ -11,7 +11,7 @@ character_count: 291
 "Doubles move power if anyone on the field is asleep."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dreamcatcher doubles the power of all moves when any Pokemon on the battlefield is asleep. This includes the user, allies, and opponents. Works with natural sleep, Sleep Powder, Rest, and Comatose. The boost applies to all move types and stacks with other damage modifiers for devastating combinations.
 

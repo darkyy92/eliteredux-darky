@@ -11,6 +11,8 @@ character_count: 294
 Blocks weather dmg and powders. Takes -20% physical damage.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Guardian Coat provides triple protection: complete immunity to weather damage from sandstorm and hail, total immunity to all powder-based moves like Sleep Powder and Spore, and reduces all physical damage taken by 20%. This defensive ability can be suppressed by Mold Breaker-type abilities.
 
 ## Detailed Mechanical Explanation

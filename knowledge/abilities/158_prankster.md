@@ -11,7 +11,7 @@ character_count: 295
 "Status moves have +1 priority but fail on opposing Dark-types."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Status moves gain +1 priority, going first in their priority bracket. This includes moves like Thunder Wave, Spore, Taunt, and stat boosters. However, status moves completely fail when targeting opposing Dark-type Pokemon. Works on multi-target moves but affected opponents are protected.
 

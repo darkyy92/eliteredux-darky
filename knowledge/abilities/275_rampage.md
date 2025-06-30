@@ -11,7 +11,7 @@ character_count: 285
 "No recharge after a KO, if it usually would need to recharge."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rampage eliminates the recharge turn required after using powerful moves like Hyper Beam and Giga Impact, but only when the user successfully KOs an opponent. This allows for devastating sweep potential with high-power moves that normally leave the user vulnerable.
 

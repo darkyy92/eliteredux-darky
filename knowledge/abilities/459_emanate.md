@@ -11,7 +11,7 @@ character_count: 293
 "Normal-type moves become Psychic and Psychic gains STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Emanate converts all Normal-type moves to Psychic-type with a 1.2x power boost. The Pokemon also gains STAB on all Psychic-type moves, including converted ones. This transforms weak Normal moves into powerful Psychic attacks while enhancing existing Psychic moves through STAB bonus.
 

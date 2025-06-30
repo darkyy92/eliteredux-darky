@@ -11,7 +11,7 @@ character_count: 285
 "Attacks with Sand Attack on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dust Cloud automatically uses Sand Attack targeting the opponent upon switching into battle. The Ground-type status move reduces the target's accuracy by one stage with 100% accuracy. Works once per switch-in. Effective for disrupting opposing sweepers and accuracy-reliant strategies.
 

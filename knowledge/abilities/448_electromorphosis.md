@@ -11,7 +11,7 @@ character_count: 284
 "Charges up when getting hit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Electromorphosis charges up the Pokemon when it takes damage from any attack. Once charged, the next Electric-type move used by the Pokemon deals double damage. The charge effect is consumed after using an Electric-type move with base power, resetting the cycle.
 

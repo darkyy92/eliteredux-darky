@@ -11,7 +11,7 @@ character_count: 291
 "Corrosion + Poison STAB."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Acidic Slime grants Water-type moves STAB bonus (1.5x damage) regardless of user's actual type and allows Poison moves to hit Steel types for 2x damage instead of immunity. Can poison any type including Steel and Poison. Effectively combines offensive typing flexibility with status utility.
 

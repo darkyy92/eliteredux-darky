@@ -11,7 +11,7 @@ character_count: 266
 "Held Memory determines its type. Also has Protean + Adaptability."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 RKS System changes the Pokemon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
 

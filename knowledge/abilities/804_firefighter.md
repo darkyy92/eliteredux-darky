@@ -11,7 +11,7 @@ character_count: 289
 "Deals 1.5x damage to Fire. Takes 0.5x damage from Fire."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Firefighter provides offensive and defensive advantages against Fire-types. When attacking Fire-type Pokemon, damage output is increased by 50%. When receiving Fire-type attacks, incoming damage is reduced by 50%. This dual-purpose ability makes it excellent for countering Fire opponents.
 

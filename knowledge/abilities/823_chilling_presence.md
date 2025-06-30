@@ -11,6 +11,8 @@ character_count: 292
 10BP Icy Wind on entry.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Chilling Presence automatically uses a weakened Icy Wind when the Pokemon enters battle, targeting all opposing Pokemon. The move deals 10 base power Ice-type damage instead of the usual 60, but retains perfect accuracy and guaranteed Speed reduction effects. Useful for slowing fast threats.
 
 ## Detailed Mechanical Explanation

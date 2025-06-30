@@ -11,7 +11,7 @@ character_count: 296
 "Boosts Fight.-type moves by 1.2x, or 1.5x when below 1/3 HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Fighter boosts Fighting-type moves by 20% at high HP and 50% when at 1/3 HP or below. The damage multiplier increases when the Pokemon becomes desperate, making it excellent for clutch situations. Works with all Fighting-type attacks and stacks with other multipliers.
 

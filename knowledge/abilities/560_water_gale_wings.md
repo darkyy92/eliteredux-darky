@@ -11,7 +11,7 @@ character_count: 299
 "Water-type moves get +1 priority at max HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Tidal Rush grants Water-type moves +1 priority when the Pokemon is at maximum HP. This powerful offensive ability allows Water-type attackers to strike first with moves like Hydro Pump, Surf, and Aqua Jet. The priority boost disappears once HP drops below maximum, encouraging aggressive play.
 

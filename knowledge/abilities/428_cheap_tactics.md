@@ -11,7 +11,7 @@ character_count: 297
 "Attacks with Scratch on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Cheap Tactics automatically uses Scratch (40 BP Normal-type physical move) targeting a random opponent when the Pokemon switches into battle. This entry attack has 100% accuracy and provides immediate offensive pressure. Cannot be prevented by most protective moves and activates before any other entry effects.
 

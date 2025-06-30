@@ -11,7 +11,7 @@ character_count: 280
 "Hyper Aggressive + Shadow Tag."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Frenzied Phantom combines dual-strike attacks with trapping power. All damaging moves hit twice with the second hit dealing 25% damage, while simultaneously preventing opponents from switching. Ghost-types are immune to the trapping effect but still take double hits from attacks.
 

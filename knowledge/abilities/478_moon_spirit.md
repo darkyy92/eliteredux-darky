@@ -11,7 +11,7 @@ character_count: 286
 "Fairy & Dark gains STAB. Moonlight recovers 75% HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Moon Spirit grants STAB to all Fairy and Dark-type moves regardless of typing, providing 1.5x damage multiplier. When using Moonlight, recovery increases to 75% max HP instead of normal 50% or weather-modified amounts. Creates powerful dual-type offensive synergy with enhanced healing.
 

@@ -11,7 +11,7 @@ character_count: 289
 "Mystic Power + super-effective boost."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Arcane Force grants all moves STAB (Same Type Attack Bonus), regardless of type matching. This mystical power also amplifies super-effective attacks by 10%, making hits that would normally deal 2x damage or more even stronger. A perfect fusion of versatility and power.
 

@@ -11,7 +11,7 @@ character_count: 295
 "Copies dance moves used by others."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move. Dance moves include Swords Dance, Dragon Dance, Quiver Dance, Petal Dance, Feather Dance, Teeter Dance, Lunar Dance, Fiery Dance, Revelation Dance, and Aqua Step. Cannot copy if already moved this turn.
 

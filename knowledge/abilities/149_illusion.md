@@ -11,7 +11,7 @@ character_count: 289
 "Appears as last party slot and boosts power by 1.3x until hit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Illusion makes the Pokemon appear as the last alive party member while providing a 1.3x damage boost to all moves. The disguise is automatically broken when the Pokemon takes damage from any move that hits, revealing the true form and removing the power boost.
 

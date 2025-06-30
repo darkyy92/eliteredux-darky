@@ -11,7 +11,7 @@ character_count: 299
 "Protects itself and ally from priority moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Dazzling blocks all priority moves from opponents targeting the user or allies. Works against moves with priority +1 or higher like Quick Attack, Extremespeed, and Sucker Punch. Also prevents priority status moves like Thunder Wave and Spore. Essential for protecting frail sweepers and setup Pokemon from revenge killing attempts.
 

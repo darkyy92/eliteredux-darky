@@ -11,5 +11,5 @@ character_count: 280
 Pretentious + Swift Swim effects.
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 Way of Swiftness combines the pride of battle with aquatic agility. When this Pokemon defeats an opponent, its critical hit ratio increases by one stage, channeling victory into precise strikes. Additionally, rainy weather doubles the user's Speed stat, enabling swift dominance.

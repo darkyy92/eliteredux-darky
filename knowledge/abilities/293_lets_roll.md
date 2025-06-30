@@ -11,7 +11,7 @@ character_count: 287
 "Casts Defense Curl on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle. The Defense Curl effect doubles the power of Rollout and Ice Ball moves. This provides immediate bulk and enables powerful rolling move strategies for defensive Pokemon builds.
 

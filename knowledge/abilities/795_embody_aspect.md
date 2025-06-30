@@ -11,7 +11,7 @@ character_count: 300
 "+1 Speed on Entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Embody Aspect raises a stat by 1 stage upon entering battle. Base form boosts Speed, Hearthflame boosts Attack, Cornerstone boosts Defense, and Wellspring boosts Special Defense. Activates every time the Pokemon switches in, including from revival. The boost persists until switching out or fainting.
 

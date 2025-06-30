@@ -11,7 +11,7 @@ character_count: 284
 "Generator + charges up on KO with an Electric-type move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Energized charges up the Pokemon on entry or when Electric Terrain is active, like Generator. Additionally charges up when knocking out an opponent with an Electric-type move. Charged status doubles the power of all Electric-type moves until used.
 

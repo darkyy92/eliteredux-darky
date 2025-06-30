@@ -11,7 +11,7 @@ character_count: 290
 "Status moves ignore immunities but go last."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mycelium Might allows status moves to bypass all immunities and type resistances but forces them to move last in their priority bracket. Status moves ignore abilities like Limber, type immunities, and terrain effects. Only affects status moves targeting opponents, not self-targeting moves.
 

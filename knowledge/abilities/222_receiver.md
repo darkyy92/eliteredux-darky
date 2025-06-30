@@ -11,7 +11,7 @@ character_count: 299
 "In Double Battles, copies its fainting partner's ability."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Receiver activates only in Double Battles when an ally faints. It copies the fainted ally's ability, replacing one of Receiver user's current abilities. Cannot copy Wonder Guard, Trace, or another Receiver ability. The copied ability functions normally and persists until switched out.
 

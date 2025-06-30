@@ -11,7 +11,7 @@ character_count: 294
 "Each fainted ally increases Attack and SpAtk by 10%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Supreme Overlord boosts Attack and Special Attack by 10% for each fainted ally on your side, capped at 5 allies maximum for a 50% boost to both stats. The ability only activates when at least one ally has fainted. Perfect for revenge sweepers and late-game scenarios.
 

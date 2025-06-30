@@ -11,7 +11,7 @@ character_count: 285
 "Immune to status. Halves poison damage taken."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Hyper Cleanse provides complete immunity to all status conditions including burn, freeze, paralysis, poison, and sleep. Additionally reduces damage from poison-type moves by 50%. The status immunity cannot be bypassed by Mold Breaker. Perfect for defensive pivots and status absorbers.
 

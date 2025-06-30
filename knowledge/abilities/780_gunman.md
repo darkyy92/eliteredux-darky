@@ -11,7 +11,7 @@ character_count: 297
 "Mega Launcher + Status moves are Mega Launcher moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as projectile moves, meaning they also receive the 30% damage boost and trigger other projectile-based effects.
 

@@ -11,7 +11,7 @@ character_count: 287
 "If hit, casts Perish Song."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out. The defender gains this countdown only if not already affected by Perish Song, providing defensive utility against physical attackers.
 

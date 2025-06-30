@@ -11,7 +11,7 @@ character_count: 294
 "Boosts the power of Rock-type and throwing moves by 1.5x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Seismic Toss, Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Sky Drop, Grav Apple, and Astral Barrage. Provides consistent offensive boost across diverse move types for versatile coverage.
 

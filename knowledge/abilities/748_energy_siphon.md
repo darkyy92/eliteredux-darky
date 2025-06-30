@@ -11,7 +11,7 @@ character_count: 287
 "Heals the user for 1/4 of the damage they deal."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Energy Siphon heals the user for 25% of all damage they deal to opponents. Works with any attack that causes damage, including physical, special, and multi-hit moves. Healing occurs immediately after damage is dealt. Minimum healing is 1 HP even for very weak attacks.
 

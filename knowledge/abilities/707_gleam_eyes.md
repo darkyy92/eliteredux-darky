@@ -11,7 +11,7 @@ character_count: 284
 "Frisk + Scare."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Gleam Eyes combines Frisk and Scare effects on entry. Checks and disables all opposing Pokemon's held items for two turns while lowering their Special Attack by one stage. This dual intimidation effect disrupts item-dependent strategies and weakens special attackers simultaneously.
 

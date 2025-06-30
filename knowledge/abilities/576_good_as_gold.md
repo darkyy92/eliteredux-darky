@@ -11,7 +11,7 @@ character_count: 286
 "Immune to all Status moves, unless whole field is affected."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Good As Gold grants immunity to all status moves that directly target this Pokemon. The Pokemon remains vulnerable to status moves that affect the entire battlefield, such as Haze or Aromatherapy. This selective immunity creates strategic depth.
 

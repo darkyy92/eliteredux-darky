@@ -11,7 +11,7 @@ character_count: 297
 "Redirects Water moves. Absorbs them, ups highest Atk."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Storm Drain redirects all single-target Water-type moves to this Pokemon, absorbing them completely for no damage. When a Water move is absorbed, the Pokemon's highest attacking stat (Attack or Special Attack including stat stages) is raised by one stage. Multi-target moves are unaffected.
 

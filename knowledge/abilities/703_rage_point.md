@@ -11,7 +11,7 @@ character_count: 295
 "Gets a 1.5x boost while statused. Raises offenses when crit."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Rage Point boosts all offensive moves by 50% while the Pokemon has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
 

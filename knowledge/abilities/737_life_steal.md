@@ -11,7 +11,7 @@ character_count: 288
 "Steals 1/10 HP from foes each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Life Steal drains 1/10 of each opponent's maximum HP at the end of every turn and restores that amount to the user. Affects all living opponents simultaneously. Ignores substitutes and type immunities but can be blocked by Magic Guard. Provides consistent recovery and offensive pressure.
 

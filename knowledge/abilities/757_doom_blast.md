@@ -11,7 +11,7 @@ character_count: 295
 "Dark-type moves deal 1.35x damage but have 10% recoil."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Doom Blast boosts all Dark-type moves by 35% damage but causes 10% recoil damage after each Dark-type attack. The recoil is calculated as 5% of damage dealt with a minimum of 1 HP. Creates high-risk, high-reward Dark-type sweeping potential at the cost of gradual self-damage.
 

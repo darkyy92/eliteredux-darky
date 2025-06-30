@@ -11,7 +11,7 @@ character_count: 291
 "Blocks priority and reduces special damage by 1/2 in sand."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sand Guard blocks priority moves and reduces special attack damage by 50% during sandstorm weather. Works with all sandstorm forms including Sand Stream. Priority blocking protects user and allies, while damage reduction applies only to special moves targeting the user in sandstorm weather.
 

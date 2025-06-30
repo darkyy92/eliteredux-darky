@@ -11,7 +11,7 @@ character_count: 294
 "30% chance to bleed when hit by special attacks."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when hit by special moves. Bleeding deals 1/16 of max HP damage each turn, similar to poison. Only affects special attacks like Thunderbolt, Psychic, and Flamethrower. Cannot affect Pokemon immune to bleeding.
 

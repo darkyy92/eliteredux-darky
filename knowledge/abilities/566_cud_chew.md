@@ -11,7 +11,7 @@ character_count: 289
 "Eats berries again at the end of the next turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When this Pokemon consumes a berry, it stores the berry and re-consumes it at the end of the following turn. The berry must be naturally consumed during battle through HP thresholds, status conditions, or berry-triggering moves. Only one berry can be stored at a time.
 

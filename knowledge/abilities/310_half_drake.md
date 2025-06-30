@@ -11,7 +11,7 @@ character_count: 295
 "Adds Dragon type to itself."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Half Drake adds Dragon typing as a third type upon entering battle. This grants STAB to Dragon moves and changes type matchups, adding weaknesses to Ice, Dragon, and Fairy while gaining resistances to Fire, Water, Electric, and Grass. The additional typing persists throughout the entire battle.
 

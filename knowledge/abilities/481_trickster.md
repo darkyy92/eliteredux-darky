@@ -11,7 +11,7 @@ character_count: 295
 "Uses Disable on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Trickster automatically uses Disable on switch-in, targeting any alive opponent. Disable prevents the target from using their last-used move for several turns. If multiple opponents exist, targets the first alive opponent found. A cunning ability that disrupts enemy strategies.
 

@@ -11,6 +11,8 @@ character_count: 296
 Sound moves become dance moves and vice versa.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 This innate ability swaps sound and dance move properties. Sound moves like Hyper Voice and Boomburst function as dance moves, while dance moves like Dragon Dance and Quiver Dance act as sound moves. This affects interactions with abilities like Soundproof and Dancer, creating unique strategies.
 
 ## Detailed Mechanical Explanation

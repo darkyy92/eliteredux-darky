@@ -11,7 +11,7 @@ character_count: 294
 "Uses Def and Sp. Def instead of Atk and Sp. Atk when attacking."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ancient Idol transforms the Pokemon into an offensive tank by using its defensive stats for attack calculations. Physical moves use Defense instead of Attack for damage, while special moves use Special Defense instead of Special Attack. This allows defensive walls to become powerful attackers.
 

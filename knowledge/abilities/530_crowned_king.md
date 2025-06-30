@@ -11,7 +11,7 @@ character_count: 297
 "Unnerve + Grim Neigh + Chilling Neigh."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Crowned King combines three powerful effects: prevents opposing Pokemon from using held items like berries (Unnerve), raises Attack by one stage when knocking out a foe (Chilling Neigh), and raises Special Attack by one stage when defeating an opponent (Grim Neigh).
 

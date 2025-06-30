@@ -11,7 +11,7 @@ character_count: 288
 "KOs dealt anywhere on the field raise Sp. Atk by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.
 

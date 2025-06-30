@@ -11,7 +11,7 @@ character_count: 291
 "Clears screens and Aurora Veil from both sides on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Screen Cleaner removes all protective screens from both sides of the battlefield when the Pokemon enters battle. This eliminates Reflect, Light Screen, Aurora Veil, and Smokescreen from both your team and the opponent's team immediately upon switching in.
 

@@ -11,7 +11,7 @@ character_count: 295
 "+2 crit rate when moving last + Analytic."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Strategic Pause combines patience with precision. When moving after the target, this ability provides a 30% damage boost from Analytic plus raises critical hit rate by 2 stages. The critical hit bonus transforms rare crits into frequent ones, making slow sweepers devastatingly effective.
 

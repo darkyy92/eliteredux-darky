@@ -11,7 +11,7 @@ character_count: 281
 "Deals double damage to opponents being switched in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Stakeout doubles damage dealt to Pokemon that just switched in this turn. The ability triggers when the target has isFirstTurn set to 2, indicating a fresh switch-in. Works on all offensive moves and provides significant wallbreaker potential against switching opponents in battle.
 

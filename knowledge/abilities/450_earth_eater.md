@@ -11,7 +11,7 @@ character_count: 289
 "Heals 25% of max HP when hit by a Ground move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves. This includes all Ground attacks like Earthquake, Earth Power, and Drill Run. The healing occurs instead of taking damage, making the user immune to Ground moves while gaining recovery.
 

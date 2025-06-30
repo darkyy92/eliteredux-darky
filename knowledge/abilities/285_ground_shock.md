@@ -11,7 +11,7 @@ character_count: 295
 "Target Grounds aren't immune to Electric but resist it instead."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Ground Shock allows Electric moves to hit Ground-type Pokemon for 0.5x damage instead of immunity. Electric attacks like Thunder and Thunderbolt become super effective against Ground types but deal reduced damage. This removes the traditional Electric immunity while providing damage resistance.
 

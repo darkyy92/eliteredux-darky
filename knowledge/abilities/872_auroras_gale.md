@@ -11,7 +11,7 @@ character_count: 292
 "Majestic Bird + Aurora Veil."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Aurora's Gale combines two powerful effects: boosts the Pokemon's Special Attack by 50% and automatically sets up Aurora Veil upon entry. Aurora Veil reduces incoming damage from all attacks by 50% in singles or 33% in doubles for 5 turns, providing both offensive power and defensive support.
 

@@ -11,7 +11,7 @@ character_count: 286
 "Boosts the power of arrow-based moves by 30%."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Archer boosts the power of arrow-based moves by 30%. Affects moves like Thousand Arrows, Spirit Shackle, Diamond Arrow, Blazing Arrow, and Triple Arrows. The power boost applies to both physical and special arrow moves, making precision-based attackers significantly more threatening.
 

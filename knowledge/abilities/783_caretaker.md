@@ -11,7 +11,7 @@ character_count: 295
 "Healer + Friend Guard."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Each turn, 30% chance to heal status conditions of self or partner (prioritizing partner). Additionally reduces damage dealt to the partner by 50%. A protective ability perfect for double battles, combining healing support with defensive coverage.
 

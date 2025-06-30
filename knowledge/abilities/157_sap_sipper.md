@@ -11,7 +11,7 @@ character_count: 280
 "Redirects Grass moves. Absorbs them, ups highest Atk."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sap Sipper provides immunity to Grass-type moves and boosts the highest attacking stat by one stage when hit. Also redirects single-target Grass moves in doubles. The boost applies to Attack or Special Attack, whichever is higher. Great defensive utility with offensive potential.
 

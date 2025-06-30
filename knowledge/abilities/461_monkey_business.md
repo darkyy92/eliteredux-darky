@@ -11,7 +11,7 @@ character_count: 287
 "Uses Tickle on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokemon's Attack and Defense stats by one stage each. This debuffing effect bypasses Substitute and works on any opponent. Perfect for disrupting physical attackers immediately.
 

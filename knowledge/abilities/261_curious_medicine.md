@@ -11,7 +11,7 @@ character_count: 290
 "Resets its ally's stat changes on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Curious Medicine resets all stat changes of the ally when entering in double battles. This clears both positive and negative stat modifications, returning the partner to neutral stat stages. Useful for removing debuffs or resetting setup.
 

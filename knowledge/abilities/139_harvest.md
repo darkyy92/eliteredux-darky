@@ -11,7 +11,7 @@ character_count: 284
 "50% chance to recycle a used Berry every turn, 100% in sun."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 At the end of each turn, Harvest has a 50% chance to restore any Berry the Pokemon has consumed during battle. In sun weather (including harsh sun), this chance increases to 100%. The ability can restore Berries used by effects like Natural Gift, Fling, or consumed for their effects.
 

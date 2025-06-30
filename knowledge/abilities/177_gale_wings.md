@@ -11,7 +11,7 @@ character_count: 291
 "Flying-type moves get +1 priority at full HP."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grants Flying-type moves +1 priority when the Pokemon is at full HP. Works with any move that becomes Flying-type including ones changed by abilities like Aerilate. Priority boost disappears if HP drops below maximum, even by 1 point. Essential for fast offensive Flying-types.
 

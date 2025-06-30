@@ -11,7 +11,7 @@ character_count: 296
 "Casts Powder on entry."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Powder Burst automatically uses Powder on entry, coating the target with explosive powder. If the target uses any Fire-type move while coated, they take 25% max HP damage and the powder is consumed. Provides immediate battlefield control against Fire-type attackers.
 

@@ -11,7 +11,7 @@ character_count: 289
 "Exploit Weakness + Merciless"
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 This Pokemon combines devastating tactics: deals 25% more damage to status-afflicted targets, uses their weaker defensive stat, and automatically lands critical hits on poisoned, paralyzed, bleeding, or speed-reduced foes. A true predator's instinct.
 

@@ -11,7 +11,7 @@ character_count: 294
 "Adds Water type to itself."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, this ability adds the Water type to the Pokemon as a third type. This grants all Water-type interactions including STAB on Water moves, resistance to Fire and Steel attacks, weakness to Electric and Grass moves, and immunity to burn status.
 

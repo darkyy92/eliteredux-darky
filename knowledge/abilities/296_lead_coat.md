@@ -11,7 +11,7 @@ character_count: 289
 "Takes 40% less from Phys. moves. This Pokemon's Speed is 0.9x."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Lead Coat reduces physical damage by 40% but decreases Speed by 10%. The ability also triples the Pokemon's weight, making them vulnerable to weight-based moves like Low Kick and Heat Crash but more effective when using these moves themselves.
 

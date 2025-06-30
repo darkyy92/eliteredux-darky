@@ -11,7 +11,7 @@ character_count: 292
 "Color Change + Protean + Fur Coat + Ice Scales."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Prismatic Fur combines four abilities: changes type to resist attacks (Color Change), changes type to match moves (Protean), halves physical damage (Fur Coat), and halves special damage (Ice Scales). Creates ultimate defensive versatility with type adaptation.
 

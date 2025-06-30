@@ -11,7 +11,7 @@ character_count: 285
 "Cute Charm + Fort Knox."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by contact moves, has a 50% chance to infatuate the attacker (attract them). This only works on Pokemon of the opposite gender. Also immune to all offensive ability effects from opponents, making it extremely defensive.
 

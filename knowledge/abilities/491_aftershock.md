@@ -11,7 +11,7 @@ character_count: 285
 "Follows up damaging moves with Magnitude."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 After using any damaging move, the Pokemon automatically follows up with Magnitude at 65 power. This Ground-type tremor hits all adjacent Pokemon, including allies in double battles. The follow-up attack can only occur if the original move successfully targets an opponent.
 

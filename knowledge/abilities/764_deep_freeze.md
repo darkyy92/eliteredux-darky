@@ -11,7 +11,7 @@ character_count: 285
 "Boosts Water and Ice by 1.25x. Halves Fire damage taken."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Deep Freeze boosts Water and Ice-type moves by 25% while halving Fire-type damage taken. This dual offensive and defensive ability provides excellent type synergy for Water/Ice Pokemon, enhancing STAB attacks while providing crucial Fire resistance. Stacks with other damage modifiers.
 

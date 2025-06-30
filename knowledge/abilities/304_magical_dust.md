@@ -11,7 +11,7 @@ character_count: 281
 "If hit by a contact move, gives Psychic type to the attacker."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When hit by a contact move, converts the attacker to Psychic type. This typing change affects damage calculations and resistances immediately. The attacker becomes vulnerable to Dark moves while gaining resistance to Fighting and Psychic moves. Only works on non-Psychic attackers.
 

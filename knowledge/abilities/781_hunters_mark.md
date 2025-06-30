@@ -11,7 +11,7 @@ character_count: 282
 "Ambush + Deadeye."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Grants perfect accuracy to Mega Launcher boosted moves and arrow-based attacks. Always critical hits on first turn. Critical hits target the opponent's lower defensive stat, dealing maximum damage through strategic precision.
 

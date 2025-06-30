@@ -11,7 +11,7 @@ character_count: 295
 "Reduces attacker's PP on contact."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker, reducing its PP even if it wasn't the move that made contact. Cannot reduce PP below 0. Fails if the attacker has no remaining PP or hasn't used any moves yet.
 

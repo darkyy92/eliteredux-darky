@@ -11,7 +11,7 @@ character_count: 286
 "Fire-type moves are boosted by 35% with 5% recoil."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Infernal Rage boosts Fire-type moves by 35% but inflicts 5% recoil damage after using them. Recoil is calculated from damage dealt with minimum of 1 HP lost. Works with all Fire moves including special and physical attacks. Ideal for aggressive Fire-type sweepers seeking maximum power.
 

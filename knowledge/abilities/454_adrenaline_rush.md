@@ -11,7 +11,7 @@ character_count: 295
 "KOs raise Speed by one stage."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Adrenaline Rush boosts the Pokemon's Speed by one stage whenever it knocks out an opponent. The speed boost applies immediately after the target faints, allowing for enhanced revenge killing potential. Stacks with other speed boosts and works on all KO methods. Ideal for sweepers.
 

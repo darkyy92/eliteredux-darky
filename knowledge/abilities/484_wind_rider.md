@@ -11,7 +11,7 @@ character_count: 293
 "Tailwind entry boost + wind move absorption."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Boosts the Pokemon's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves like Gust, Hurricane, or Tailwind, absorbs the attack completely and raises the highest attacking stat by one stage instead of taking damage.
 

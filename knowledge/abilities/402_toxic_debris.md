@@ -11,7 +11,7 @@ character_count: 298
 "Sets a layer of Toxic Spikes when hit by contact moves."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side when hit by any contact move. Each layer poisons switching Pokemon: one layer causes regular poison, two layers cause badly poisoned. Maximum of two layers possible. Excellent for passive hazard control and chip damage.
 

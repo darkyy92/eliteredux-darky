@@ -11,7 +11,7 @@ character_count: 299
 "Uses Doom Desire on switch-in."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Upon entering battle, automatically uses Doom Desire against an opponent. This Steel-type delayed attack has 140 base power and strikes the target exactly two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
 

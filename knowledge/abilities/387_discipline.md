@@ -11,7 +11,7 @@ character_count: 265
 "Can switch while rampaging. Can't be confused or intimidated."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion.
 

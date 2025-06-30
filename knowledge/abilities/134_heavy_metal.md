@@ -11,7 +11,7 @@ character_count: 298
 "Doubles this Pokemon's weight."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Heavy Metal doubles the Pokemon's weight in battle. This makes weight-based attacks like Low Kick and Grass Knot deal more damage against this Pokemon. However, it also increases damage from the user's own Heavy Slam and Heat Crash moves by making them heavier than foes.
 

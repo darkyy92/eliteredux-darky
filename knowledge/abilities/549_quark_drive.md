@@ -11,7 +11,7 @@ character_count: 295
 "Boosts highest stat in Electric Terrain or with Booster Energy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Quark Drive boosts the Pokemon's highest stat by 30% (50% for Speed) when Electric Terrain is active or when holding Booster Energy. The boost applies to base stats plus stat stages. Electric Terrain activation is immediate, while Booster Energy is consumed on use for permanent effect.
 

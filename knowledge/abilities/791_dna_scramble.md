@@ -11,7 +11,7 @@ character_count: 286
 "Changes forms based on the the move used."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 DNA Scramble transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form (180 Atk/SpAtk), Recover triggers Defense form (160 Def/SpDef), other status moves trigger Speed form (180 Speed). Base form has balanced 150 stats. Form changes occur before attack.
 

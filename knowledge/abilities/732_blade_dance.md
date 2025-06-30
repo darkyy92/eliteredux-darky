@@ -11,7 +11,7 @@ character_count: 290
 "Triggers 50 BP Leaf Blade after using a dance move."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Blade Dance triggers a 50 BP Leaf Blade follow-up attack immediately after using any dance move. Works with all dance moves including Swords Dance, Dragon Dance, Quiver Dance, and others with the dance flag. The follow-up Leaf Blade has high critical hit ratio and gains STAB if applicable.
 

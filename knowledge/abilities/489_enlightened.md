@@ -11,7 +11,7 @@ character_count: 299
 "Emanate + Inner Focus."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 This Pokemon has achieved mental clarity that transcends normal limitations. Normal-type moves become Psychic-type and gain STAB. Focus Blast never misses due to perfect concentration. The Pokemon cannot be taunted and maintains composure under pressure, though this focus can be broken.
 

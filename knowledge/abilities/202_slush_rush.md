@@ -11,7 +11,7 @@ character_count: 297
 "This Pokemon's Speed gets a 1.5x boost in hail."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Slush Rush boosts the Pokemon's Speed by 50% during hail weather. Works with all forms of hail including regular hail and primordial hail effects. The speed boost applies immediately when hail is active and disappears when hail ends. Also grants immunity to hail damage.
 

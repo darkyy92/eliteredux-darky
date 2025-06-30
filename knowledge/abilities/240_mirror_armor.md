@@ -11,7 +11,7 @@ character_count: 289
 "Bounces back any stat drops inflicted by an enemy."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mirror Armor reflects all stat-lowering moves and abilities back to the attacker. When an opponent tries to lower this Pokemon's stats, the stat drop affects the attacker instead. Includes moves like Intimidate, Sticky Web, and stat-lowering attacks. The reflection bypasses immunities.
 

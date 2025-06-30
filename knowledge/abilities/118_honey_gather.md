@@ -11,7 +11,7 @@ character_count: 280
 "Has a 50% chance to find Honey each turn."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Honey Gather gives a 50% chance to find a Honey item at the end of each turn, but only if the Pokemon is not already holding an item. Honey restores 20 HP when consumed and can be sold for 100 Poké Dollars. Excellent for resource gathering and emergency healing in longer battles.
 

@@ -11,6 +11,8 @@ character_count: 297
 Fort Knox + Wonder Skin.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Stainless Steel provides dual defensive and offensive benefits. It blocks multi-hit abilities like Parental Bond from triggering against this Pokemon, unless the attacker resists Fort Knox. Additionally, all Normal-type moves become Steel-type and receive a 20% power boost. This makes it excellent for both tanking and sweeping.
 
 ## Detailed Mechanical Explanation

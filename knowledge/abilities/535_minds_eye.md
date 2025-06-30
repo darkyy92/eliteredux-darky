@@ -11,7 +11,7 @@ character_count: 295
 "Hits Ghost-type Pokemon. Accuracy can't be lowered."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness, bypassing their typical immunity. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities like Sand Attack or Intimidate.
 

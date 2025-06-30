@@ -11,6 +11,8 @@ character_count: 290
 First biting move each entry gets +1 priority. Resets on KO.
 
 ## Extended In-Game Description
+*For use in Elite Redux extended ability UI (280-300 chars max)*
+
 Sidewinder grants the Pokemon a "coiled" status upon entry. While coiled, the first biting move used gains +1 priority. After using a biting move, the coiled status is consumed. If Sidewinder KOs an opponent with a biting move, the coiled status is immediately restored for the next battle.
 
 ## Detailed Mechanical Explanation

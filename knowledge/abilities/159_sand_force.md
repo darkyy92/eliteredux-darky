@@ -11,7 +11,7 @@ character_count: 288
 "Ups highest attacking stat by 1.5x in sand."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Sand Force boosts the Pokemon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.
 

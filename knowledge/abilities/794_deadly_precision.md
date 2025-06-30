@@ -11,7 +11,7 @@ character_count: 285
 "Super-effective moves never miss and ignore abilities."
 
 ## Extended In-Game Description
-*For use in Elite Redux extended ability UI (IMPORTANT: exactly 280-300 chars counted WITH spaces)*
+*For use in Elite Redux extended ability UI (280-300 chars max)*
 
 When using super-effective moves, this Pokemon gains perfect accuracy and ignores the target's defensive abilities. Works with all moves that deal 2x or higher damage, ensuring they connect and bypass abilities like Levitate, Flash Fire, or Water Absorb for maximum offensive pressure.
 
