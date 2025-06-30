@@ -632,7 +632,7 @@ async function submitToGitHub() {
     originalContent.value = contentWithReviewedStatus
     editedContent.value = contentWithReviewedStatus
     
-    alert(`Successfully saved changes to ${abilityInfo.value.name}!`)
+    alert(`Successfully saved changes to ${abilityInfo.value.name}!\n\nNote: Changes may take 3-5 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
     collapseEditor()
     
   } catch (err) {
@@ -736,12 +736,9 @@ async function approveAbility() {
     editedContent.value = updatedContent
     
     // Step 5: Show success message
-    alert(`Successfully approved ${abilityInfo.value.name}! The status will update in a few moments.`)
+    alert(`Successfully approved ${abilityInfo.value.name}!\n\nNote: Changes may take 3-5 minutes to appear in the Codex. Please refresh the page after a few minutes to see the updated status.`)
     
-    // Optional: Reload the page to show the new status
-    setTimeout(() => {
-      window.location.reload()
-    }, 2000)
+    // Don't auto-reload since changes take 3-5 minutes to propagate
     
   } catch (error) {
     console.error('Error approving ability:', error)
@@ -804,6 +801,32 @@ function updateAbilityInfo() {
   }
 }
 
+// Helper function to load content for review status check
+async function loadContentForReviewStatus() {
+  if (!isAbilityPage.value || !abilityInfo.value.filename || !GITHUB_TOKEN) return
+  
+  try {
+    const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
+    const response = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
+      {
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      }
+    )
+    
+    if (response.ok) {
+      const data = await response.json()
+      originalContent.value = atob(data.content)
+      editedContent.value = originalContent.value
+    }
+  } catch (error) {
+    console.log('Could not check review status:', error)
+  }
+}
+
 // Watch for page changes with proper cleanup
 watch(() => page.value.relativePath, async (newPath, oldPath) => {
   if (isAbilityPage.value && newPath !== oldPath) {
@@ -819,6 +842,9 @@ watch(() => page.value.relativePath, async (newPath, oldPath) => {
     await nextTick()
     updateAbilityInfo()
     
+    // Load content to check review status
+    await loadContentForReviewStatus()
+    
     if (import.meta.env.DEV) {
       console.log(`Navigated from ${oldPath} to ${newPath}`)
     }
@@ -832,30 +858,7 @@ onMounted(async () => {
   updateAbilityInfo()
   
   // Load content to check review status for approve button
-  if (isAbilityPage.value && abilityInfo.value.filename) {
-    try {
-      // Try to load content from GitHub to check status
-      const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
-      const response = await fetch(
-        `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
-        {
-          headers: {
-            'Authorization': `token ${GITHUB_TOKEN}`,
-            'Accept': 'application/vnd.github.v3+json'
-          }
-        }
-      )
-      
-      if (response.ok) {
-        const data = await response.json()
-        originalContent.value = atob(data.content)
-        editedContent.value = originalContent.value // Set edited content too for char count
-      }
-    } catch (error) {
-      // Silently fail - approve button will be shown by default
-      console.log('Could not check review status:', error)
-    }
-  }
+  await loadContentForReviewStatus()
 })
 
 // Cleanup event listeners
