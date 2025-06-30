@@ -13,8 +13,6 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
-
 Adds 20% of Defense to physical attacks and 20% of Special Defense to special attacks when calculating damage. This defensive stat bonus is applied after all other modifiers, effectively making attacks stronger based on your defensive bulk. Works with all offensive moves.
 
 ## Detailed Mechanical Explanation

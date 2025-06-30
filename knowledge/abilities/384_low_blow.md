@@ -13,8 +13,6 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
-
 Low Blow automatically uses a 40 BP Feint Attack when switching in, targeting a random opponent. Dark-type physical attack that never misses and cannot be avoided by evasion boosts. Reduced from the move's normal 80 BP. Excellent for breaking Focus Sash items and Sturdy.
 
 ## Detailed Mechanical Explanation

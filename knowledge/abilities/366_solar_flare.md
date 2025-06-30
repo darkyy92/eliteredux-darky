@@ -13,8 +13,6 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
-
 Solar Flare converts Normal-type moves to Fire-type with boosted power while providing Fire-type STAB. Additionally grants Chloroplast effects: Weather Ball, Solar Beam/Blade, and Growth act as if used in harsh sunlight, regardless of actual weather conditions.
 
 ## Detailed Mechanical Explanation

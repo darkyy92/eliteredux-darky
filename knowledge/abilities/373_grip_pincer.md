@@ -13,8 +13,6 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
-
 Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn. Trap lasts 4-5 turns (7 with Grip Claw).
 
 ## Detailed Mechanical Explanation

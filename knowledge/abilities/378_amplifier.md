@@ -13,8 +13,6 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-<!-- This extended description is for wiki/other purposes that allow more detail than the normal in-game description -->
-
 Amplifier boosts sound-based moves by 30% damage. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokemon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams.
 
 ## Detailed Mechanical Explanation
