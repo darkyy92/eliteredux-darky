@@ -21,8 +21,8 @@ A modern, searchable documentation website for all Elite Redux abilities.
 
 2. Configure GitHub Token (Admin Only):
    ```bash
-   cp .env.example .env.local
-   # Edit .env.local and add: VITE_GITHUB_TOKEN=ghp_your_token_here
+   cp docs/.env.example docs/.env.local
+   # Edit docs/.env.local and add: VITE_GITHUB_TOKEN=ghp_your_token_here
    ```
    **Note**: Only the admin needs this token. Staff can approve without it.
 

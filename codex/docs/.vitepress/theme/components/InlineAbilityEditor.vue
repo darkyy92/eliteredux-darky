@@ -185,11 +185,11 @@ const editedContent = ref('')
 const approving = ref(false)
 
 // GitHub configuration for direct commits (trusted staff only)
-// The token is loaded from environment variable VITE_GITHUB_TOKEN
-// Set this in your .env.local file: VITE_GITHUB_TOKEN=ghp_yourtoken
+// The token should be set in .env.local as VITE_GITHUB_TOKEN
 const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN || ''
 const REPO_OWNER = 'darkyy92'
 const REPO_NAME = 'eliteredux-darky'
+
 
 // Check if this is an ability page
 const isAbilityPage = computed(() => {

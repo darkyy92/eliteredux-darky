@@ -11,12 +11,12 @@ on:
 jobs:
   regenerate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -40,8 +40,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Ability Bot"
+          git config user.email "ability-bot@elite-redux.com"
           
           git add knowledge/extended_ability_descriptions/progress.md
           git add knowledge/extended_ability_descriptions/extended_descriptions.txt
@@ -51,5 +51,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: Auto-regenerate ability tracking files"
-            git push
+            git push origin main
           fi
