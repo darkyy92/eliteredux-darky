@@ -2,7 +2,7 @@
 id: 506
 name: Determination
 status: ai-generated
-character_count: 295
+character_count: 277
 ---
 
 # Determination - Ability ID 506

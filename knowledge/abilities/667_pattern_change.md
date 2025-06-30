@@ -2,7 +2,7 @@
 id: 667
 name: Pattern Change
 status: ai-generated
-character_count: 280
+character_count: 278
 ---
 
 # Pattern Change - Ability ID 667

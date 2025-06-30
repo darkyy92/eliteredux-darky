@@ -2,7 +2,7 @@
 id: 861
 name: Hungry Maws
 status: ai-generated
-character_count: 295
+character_count: 157
 ---
 
 # Hungry Maws - Ability ID 861

@@ -2,7 +2,7 @@
 id: 561
 name: Zero To Hero
 status: ai-generated
-character_count: 295
+character_count: 296
 ---
 
 # Zero To Hero - Ability ID 561

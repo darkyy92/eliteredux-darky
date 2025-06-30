@@ -2,7 +2,7 @@
 id: 166
 name: Flower Veil
 status: ai-generated
-character_count: 277
+character_count: 276
 ---
 
 # Flower Veil - Ability ID 166

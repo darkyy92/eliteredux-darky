@@ -2,7 +2,7 @@
 id: 333
 name: Sweet Dreams
 status: ai-generated
-character_count: 283
+character_count: 282
 ---
 
 # Sweet Dreams - Ability ID 333

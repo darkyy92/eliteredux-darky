@@ -2,7 +2,7 @@
 id: 390
 name: Mighty Horn
 status: ai-generated
-character_count: 285
+character_count: 250
 ---
 
 # Mighty Horn - Ability ID 390

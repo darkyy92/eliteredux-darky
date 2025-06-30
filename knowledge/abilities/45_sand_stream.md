@@ -2,7 +2,7 @@
 id: 45
 name: Sand Stream
 status: ai-generated
-character_count: 291
+character_count: 261
 ---
 
 # Sand Stream - Ability ID 45

@@ -2,7 +2,7 @@
 id: 569
 name: Supreme Overlord
 status: ai-generated
-character_count: 294
+character_count: 267
 ---
 
 # Supreme Overlord - Ability ID 569

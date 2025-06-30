@@ -2,7 +2,7 @@
 id: 206
 name: Galvanize
 status: ai-generated
-character_count: 294
+character_count: 296
 ---
 
 # Galvanize - Ability ID 206

@@ -2,7 +2,7 @@
 id: 301
 name: Feline Prowess
 status: ai-generated
-character_count: 293
+character_count: 301
 ---
 
 # Feline Prowess - Ability ID 301

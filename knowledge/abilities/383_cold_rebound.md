@@ -2,7 +2,7 @@
 id: 383
 name: Cold Rebound
 status: ai-generated
-character_count: 281
+character_count: 252
 ---
 
 # Cold Rebound - Ability ID 383

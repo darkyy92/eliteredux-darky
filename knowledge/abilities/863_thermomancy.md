@@ -2,7 +2,7 @@
 id: 863
 name: Thermomancy
 status: ai-generated
-character_count: 287
+character_count: 258
 ---
 
 # Thermomancy - Ability ID 863

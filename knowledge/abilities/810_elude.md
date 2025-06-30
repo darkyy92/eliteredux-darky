@@ -2,7 +2,7 @@
 id: 810
 name: Elude
 status: ai-generated
-character_count: 286
+character_count: 229
 ---
 
 # Elude - Ability ID 810

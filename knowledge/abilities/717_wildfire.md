@@ -2,7 +2,7 @@
 id: 717
 name: Wildfire
 status: ai-generated
-character_count: 295
+character_count: 269
 ---
 
 # Wildfire - Ability ID 717

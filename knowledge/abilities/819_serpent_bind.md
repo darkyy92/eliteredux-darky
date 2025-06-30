@@ -2,7 +2,7 @@
 id: 819
 name: Serpent Bind (N)
 status: ai-generated
-character_count: 297
+character_count: 277
 ---
 
 # Serpent Bind (N) - Ability ID 819

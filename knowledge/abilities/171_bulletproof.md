@@ -2,7 +2,7 @@
 id: 171
 name: Bulletproof
 status: ai-generated
-character_count: 296
+character_count: 294
 ---
 
 # Bulletproof - Ability ID 171

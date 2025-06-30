@@ -2,7 +2,7 @@
 id: 399
 name: Parry
 status: ai-generated
-character_count: 342
+character_count: 321
 ---
 
 # Parry - Ability ID 399

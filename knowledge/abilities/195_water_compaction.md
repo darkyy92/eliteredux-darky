@@ -2,7 +2,7 @@
 id: 195
 name: Water Compaction
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Water Compaction - Ability ID 195

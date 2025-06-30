@@ -2,7 +2,7 @@
 id: 114
 name: Storm Drain
 status: ai-generated
-character_count: 297
+character_count: 290
 ---
 
 # Storm Drain - Ability ID 114

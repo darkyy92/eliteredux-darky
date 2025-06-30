@@ -2,7 +2,7 @@
 id: 494
 name: Arcane Force
 status: ai-generated
-character_count: 289
+character_count: 269
 ---
 
 # Arcane Force - Ability ID 494

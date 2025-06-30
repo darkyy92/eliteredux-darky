@@ -2,7 +2,7 @@
 id: 369
 name: Bad Company
 status: ai-generated
-character_count: 287
+character_count: 277
 ---
 
 # Bad Company - Ability ID 369

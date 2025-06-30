@@ -2,7 +2,7 @@
 id: 560
 name: Water Gale Wings
 status: ai-generated
-character_count: 299
+character_count: 293
 ---
 
 # Water Gale Wings - Ability ID 560

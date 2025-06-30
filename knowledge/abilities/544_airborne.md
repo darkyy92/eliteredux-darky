@@ -2,7 +2,7 @@
 id: 544
 name: Airborne
 status: ai-generated
-character_count: 283
+character_count: 280
 ---
 
 # Airborne - Ability ID 544

@@ -2,7 +2,7 @@
 id: 816
 name: Mental Pollution (N)
 status: ai-generated
-character_count: 297
+character_count: 281
 ---
 
 # Mental Pollution (N) - Ability ID 816

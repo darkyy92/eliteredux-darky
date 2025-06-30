@@ -2,7 +2,7 @@
 id: 537
 name: Spike Armor
 status: ai-generated
-character_count: 290
+character_count: 253
 ---
 
 # Spike Armor - Ability ID 537

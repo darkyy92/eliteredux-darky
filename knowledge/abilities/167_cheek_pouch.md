@@ -2,7 +2,7 @@
 id: 167
 name: Cheek Pouch
 status: ai-generated
-character_count: 284
+character_count: 245
 ---
 
 # Cheek Pouch - Ability ID 167

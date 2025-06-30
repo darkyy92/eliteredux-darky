@@ -2,7 +2,7 @@
 id: 280
 name: Crystallize
 status: ai-generated
-character_count: 285
+character_count: 280
 ---
 
 # Crystallize - Ability ID 280

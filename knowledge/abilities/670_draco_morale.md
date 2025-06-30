@@ -2,7 +2,7 @@
 id: 670
 name: Draco Morale
 status: ai-generated
-character_count: 298
+character_count: 296
 ---
 
 # Draco Morale - Ability ID 670

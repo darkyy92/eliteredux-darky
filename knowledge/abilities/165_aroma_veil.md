@@ -2,7 +2,7 @@
 id: 165
 name: Aroma Veil
 status: ai-generated
-character_count: 283
+character_count: 282
 ---
 
 # Aroma Veil - Ability ID 165

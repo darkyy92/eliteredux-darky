@@ -2,7 +2,7 @@
 id: 512
 name: Combustion
 status: ai-generated
-character_count: 294
+character_count: 266
 ---
 
 # Combustion - Ability ID 512

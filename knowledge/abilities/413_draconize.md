@@ -2,7 +2,7 @@
 id: 413
 name: Draconize
 status: ai-generated
-character_count: 295
+character_count: 290
 ---
 
 # Draconize - Ability ID 413

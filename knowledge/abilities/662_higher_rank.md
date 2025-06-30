@@ -2,7 +2,7 @@
 id: 662
 name: Higher Rank
 status: ai-generated
-character_count: 292
+character_count: 291
 ---
 
 # Higher Rank - Ability ID 662

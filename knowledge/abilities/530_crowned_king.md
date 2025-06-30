@@ -2,7 +2,7 @@
 id: 530
 name: Crowned King
 status: ai-generated
-character_count: 297
+character_count: 266
 ---
 
 # Crowned King - Ability ID 530

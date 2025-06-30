@@ -2,7 +2,7 @@
 id: 320
 name: Air Blower
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Air Blower - Ability ID 320

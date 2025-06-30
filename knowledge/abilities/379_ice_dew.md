@@ -2,7 +2,7 @@
 id: 379
 name: Ice Dew
 status: ai-generated
-character_count: 298
+character_count: 256
 ---
 
 # Ice Dew - Ability ID 379

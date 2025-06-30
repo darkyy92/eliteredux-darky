@@ -2,7 +2,7 @@
 id: 216
 name: Dancer
 status: ai-generated
-character_count: 295
+character_count: 296
 ---
 
 # Dancer - Ability ID 216

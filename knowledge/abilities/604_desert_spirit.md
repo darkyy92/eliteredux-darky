@@ -2,7 +2,7 @@
 id: 604
 name: Desert Spirit
 status: ai-generated
-character_count: 292
+character_count: 298
 ---
 
 # Desert Spirit - Ability ID 604

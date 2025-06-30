@@ -2,7 +2,7 @@
 id: 371
 name: Giant Wings
 status: ai-generated
-character_count: 294
+character_count: 274
 ---
 
 # Giant Wings - Ability ID 371

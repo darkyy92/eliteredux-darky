@@ -2,7 +2,7 @@
 id: 360
 name: Field Explorer
 status: ai-generated
-character_count: 281
+character_count: 284
 ---
 
 # Field Explorer - Ability ID 360

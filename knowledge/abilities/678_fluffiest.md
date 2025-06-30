@@ -2,7 +2,7 @@
 id: 678
 name: Fluffiest
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Fluffiest - Ability ID 678

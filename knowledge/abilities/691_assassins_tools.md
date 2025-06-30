@@ -2,7 +2,7 @@
 id: 691
 name: Assassin's Tools
 status: ai-generated
-character_count: 286
+character_count: 285
 ---
 
 # Assassin's Tools - Ability ID 691

@@ -2,7 +2,7 @@
 id: 484
 name: Wind Rider
 status: ai-generated
-character_count: 293
+character_count: 251
 ---
 
 # Wind Rider - Ability ID 484

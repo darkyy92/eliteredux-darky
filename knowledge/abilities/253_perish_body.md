@@ -2,7 +2,7 @@
 id: 253
 name: Perish Body
 status: ai-generated
-character_count: 287
+character_count: 290
 ---
 
 # Perish Body - Ability ID 253

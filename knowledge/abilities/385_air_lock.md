@@ -2,7 +2,7 @@
 id: 385
 name: Air Lock
 status: ai-generated
-character_count: 295
+character_count: 250
 ---
 
 # Air Lock - Ability ID 385

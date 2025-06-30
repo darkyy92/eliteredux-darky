@@ -2,7 +2,7 @@
 id: 461
 name: Monkey Business
 status: ai-generated
-character_count: 287
+character_count: 269
 ---
 
 # Monkey Business - Ability ID 461

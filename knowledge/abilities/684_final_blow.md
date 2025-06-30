@@ -2,7 +2,7 @@
 id: 684
 name: Final Blow
 status: ai-generated
-character_count: 283
+character_count: 285
 ---
 
 # Final Blow - Ability ID 684

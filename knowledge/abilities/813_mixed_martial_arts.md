@@ -2,7 +2,7 @@
 id: 813
 name: Mixed Martial Arts
 status: ai-generated
-character_count: 298
+character_count: 301
 ---
 
 # Mixed Martial Arts - Ability ID 813

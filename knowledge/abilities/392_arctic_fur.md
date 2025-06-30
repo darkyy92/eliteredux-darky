@@ -2,7 +2,7 @@
 id: 392
 name: Arctic Fur
 status: ai-generated
-character_count: 290
+character_count: 282
 ---
 
 # Arctic Fur - Ability ID 392

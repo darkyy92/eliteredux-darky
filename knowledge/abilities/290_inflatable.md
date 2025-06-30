@@ -2,7 +2,7 @@
 id: 290
 name: Inflatable
 status: ai-generated
-character_count: 297
+character_count: 323
 ---
 
 # Inflatable - Ability ID 290

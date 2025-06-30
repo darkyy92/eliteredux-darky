@@ -2,7 +2,7 @@
 id: 671
 name: Bad Omen
 status: ai-generated
-character_count: 289
+character_count: 260
 ---
 
 # Bad Omen - Ability ID 671

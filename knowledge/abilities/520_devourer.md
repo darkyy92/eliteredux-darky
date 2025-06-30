@@ -2,7 +2,7 @@
 id: 520
 name: Devourer
 status: ai-generated
-character_count: 293
+character_count: 266
 ---
 
 # Devourer - Ability ID 520

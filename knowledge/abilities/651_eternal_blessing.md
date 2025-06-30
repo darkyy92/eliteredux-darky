@@ -2,7 +2,7 @@
 id: 651
 name: Eternal Blessing
 status: ai-generated
-character_count: 296
+character_count: 294
 ---
 
 # Eternal Blessing - Ability ID 651

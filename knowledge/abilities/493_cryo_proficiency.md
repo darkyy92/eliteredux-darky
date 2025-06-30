@@ -2,7 +2,7 @@
 id: 493
 name: Cryo Proficiency
 status: ai-generated
-character_count: 295
+character_count: 276
 ---
 
 # Cryo Proficiency - Ability ID 493

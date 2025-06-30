@@ -2,7 +2,7 @@
 id: 541
 name: Web Spinner
 status: ai-generated
-character_count: 296
+character_count: 281
 ---
 
 # Web Spinner - Ability ID 541

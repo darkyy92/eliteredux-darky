@@ -2,7 +2,7 @@
 id: 382
 name: Volcano Rage
 status: ai-generated
-character_count: 287
+character_count: 258
 ---
 
 # Volcano Rage - Ability ID 382

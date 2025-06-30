@@ -2,7 +2,7 @@
 id: 585
 name: Sun Basking
 status: ai-generated
-character_count: 283
+character_count: 265
 ---
 
 # Sun Basking - Ability ID 585

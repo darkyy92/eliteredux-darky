@@ -2,7 +2,7 @@
 id: 664
 name: Flame Bubble
 status: ai-generated
-character_count: 296
+character_count: 287
 ---
 
 # Flame Bubble - Ability ID 664

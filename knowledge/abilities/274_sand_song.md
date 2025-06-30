@@ -2,7 +2,7 @@
 id: 274
 name: Sand Song
 status: ai-generated
-character_count: 294
+character_count: 293
 ---
 
 # Sand Song - Ability ID 274

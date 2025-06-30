@@ -2,7 +2,7 @@
 id: 149
 name: Illusion
 status: ai-generated
-character_count: 289
+character_count: 260
 ---
 
 # Illusion - Ability ID 149

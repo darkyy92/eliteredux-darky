@@ -2,7 +2,7 @@
 id: 169
 name: Fur Coat
 status: ai-generated
-character_count: 296
+character_count: 295
 ---
 
 # Fur Coat - Ability ID 169

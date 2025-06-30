@@ -2,7 +2,7 @@
 id: 344
 name: Poison Absorb
 status: ai-generated
-character_count: 297
+character_count: 278
 ---
 
 # Poison Absorb - Ability ID 344

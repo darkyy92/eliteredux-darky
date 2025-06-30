@@ -2,7 +2,7 @@
 id: 191
 name: Delta Stream
 status: ai-generated
-character_count: 270
+character_count: 269
 ---
 
 # Delta Stream - Ability ID 191

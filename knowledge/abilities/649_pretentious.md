@@ -2,7 +2,7 @@
 id: 649
 name: Pretentious
 status: ai-generated
-character_count: 293
+character_count: 291
 ---
 
 # Pretentious - Ability ID 649

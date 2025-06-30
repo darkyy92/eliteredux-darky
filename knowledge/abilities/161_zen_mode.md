@@ -2,7 +2,7 @@
 id: 161
 name: Zen Mode
 status: ai-generated
-character_count: 285
+character_count: 294
 ---
 
 # Zen Mode - Ability ID 161

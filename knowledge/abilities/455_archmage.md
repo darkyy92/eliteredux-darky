@@ -2,7 +2,7 @@
 id: 455
 name: Archmage
 status: ai-generated
-character_count: 290
+character_count: 267
 ---
 
 # Archmage - Ability ID 455

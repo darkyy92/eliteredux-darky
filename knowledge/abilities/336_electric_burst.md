@@ -2,7 +2,7 @@
 id: 336
 name: Electric Burst
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Electric Burst - Ability ID 336

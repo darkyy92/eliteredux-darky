@@ -2,7 +2,7 @@
 id: 458
 name: Purgatory
 status: ai-generated
-character_count: 292
+character_count: 283
 ---
 
 # Purgatory - Ability ID 458

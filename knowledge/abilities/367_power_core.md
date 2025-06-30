@@ -2,7 +2,7 @@
 id: 367
 name: Power Core
 status: ai-generated
-character_count: 290
+character_count: 272
 ---
 
 # Power Core - Ability ID 367

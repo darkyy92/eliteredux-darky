@@ -2,7 +2,7 @@
 id: 271
 name: Keen Edge
 status: ai-generated
-character_count: 298
+character_count: 283
 ---
 
 # Keen Edge - Ability ID 271

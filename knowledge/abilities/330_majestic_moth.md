@@ -2,7 +2,7 @@
 id: 330
 name: Majestic Moth
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Majestic Moth - Ability ID 330

@@ -2,7 +2,7 @@
 id: 828
 name: Overzealous
 status: ai-generated
-character_count: 285
+character_count: 430
 ---
 
 # Overzealous - Ability ID 828

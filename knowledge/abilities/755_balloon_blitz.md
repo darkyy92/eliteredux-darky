@@ -2,7 +2,7 @@
 id: 755
 name: Balloon Blitz
 status: ai-generated
-character_count: 293
+character_count: 281
 ---
 
 # Balloon Blitz - Ability ID 755

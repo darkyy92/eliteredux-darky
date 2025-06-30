@@ -2,7 +2,7 @@
 id: 734
 name: Ape Shift
 status: ai-generated
-character_count: 285
+character_count: 264
 ---
 
 # Ape Shift - Ability ID 734

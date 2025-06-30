@@ -2,7 +2,7 @@
 id: 194
 name: Emergency Exit
 status: ai-generated
-character_count: 286
+character_count: 285
 ---
 
 # Emergency Exit - Ability ID 194

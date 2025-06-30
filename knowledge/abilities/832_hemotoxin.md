@@ -2,7 +2,7 @@
 id: 832
 name: Hemotoxin
 status: ai-generated
-character_count: 289
+character_count: 270
 ---
 
 # Hemotoxin - Ability ID 832

@@ -2,7 +2,7 @@
 id: 366
 name: Solar Flare
 status: ai-generated
-character_count: 296
+character_count: 261
 ---
 
 # Solar Flare - Ability ID 366

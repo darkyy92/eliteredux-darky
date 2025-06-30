@@ -2,7 +2,7 @@
 id: 353
 name: Bone Zone
 status: extended
-character_count: 292
+character_count: 279
 ---
 
 # Bone Zone - Ability ID 353

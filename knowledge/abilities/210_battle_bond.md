@@ -2,7 +2,7 @@
 id: 210
 name: Battle Bond
 status: ai-generated
-character_count: 295
+character_count: 286
 ---
 
 # Battle Bond - Ability ID 210

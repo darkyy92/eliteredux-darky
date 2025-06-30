@@ -2,7 +2,7 @@
 id: 222
 name: Receiver
 status: ai-generated
-character_count: 299
+character_count: 285
 ---
 
 # Receiver - Ability ID 222

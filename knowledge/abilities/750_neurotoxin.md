@@ -2,7 +2,7 @@
 id: 750
 name: Neurotoxin
 status: ai-generated
-character_count: 285
+character_count: 227
 ---
 
 # Neurotoxin - Ability ID 750

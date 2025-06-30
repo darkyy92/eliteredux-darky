@@ -2,7 +2,7 @@
 id: 150
 name: Imposter
 status: ai-generated
-character_count: 297
+character_count: 287
 ---
 
 # Imposter - Ability ID 150

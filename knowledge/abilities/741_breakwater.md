@@ -2,7 +2,7 @@
 id: 741
 name: Breakwater
 status: ai-generated
-character_count: 287
+character_count: 266
 ---
 
 # Breakwater - Ability ID 741

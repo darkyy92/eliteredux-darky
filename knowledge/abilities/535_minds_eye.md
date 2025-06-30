@@ -2,7 +2,7 @@
 id: 535
 name: Mind's Eye
 status: ai-generated
-character_count: 295
+character_count: 278
 ---
 
 # Mind's Eye - Ability ID 535

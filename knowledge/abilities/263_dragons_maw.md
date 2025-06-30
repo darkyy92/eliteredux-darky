@@ -2,7 +2,7 @@
 id: 263
 name: Dragons Maw
 status: ai-generated
-character_count: 284
+character_count: 282
 ---
 
 # Dragons Maw - Ability ID 263

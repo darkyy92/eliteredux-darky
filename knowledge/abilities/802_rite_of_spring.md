@@ -2,7 +2,7 @@
 id: 802
 name: Rite Of Spring
 status: ai-generated
-character_count: 295
+character_count: 252
 ---
 
 # Rite Of Spring - Ability ID 802

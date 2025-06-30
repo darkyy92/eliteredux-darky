@@ -2,7 +2,7 @@
 id: 866
 name: Relic Stone
 status: ai-generated
-character_count: 295
+character_count: 318
 ---
 
 # Relic Stone - Ability ID 866

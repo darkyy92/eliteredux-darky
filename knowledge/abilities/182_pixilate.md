@@ -2,7 +2,7 @@
 id: 182
 name: Pixilate
 status: ai-generated
-character_count: 291
+character_count: 301
 ---
 
 # Pixilate - Ability ID 182

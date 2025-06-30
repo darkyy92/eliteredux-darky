@@ -2,7 +2,7 @@
 id: 180
 name: Symbiosis
 status: ai-generated
-character_count: 283
+character_count: 230
 ---
 
 # Symbiosis - Ability ID 180

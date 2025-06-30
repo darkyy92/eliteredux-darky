@@ -2,7 +2,7 @@
 id: 143
 name: Poison Touch
 status: ai-generated
-character_count: 290
+character_count: 288
 ---
 
 # Poison Touch - Ability ID 143

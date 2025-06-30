@@ -2,7 +2,7 @@
 id: 779
 name: Blight Scale
 status: ai-generated
-character_count: 293
+character_count: 250
 ---
 
 # Blight Scale - Ability ID 779

@@ -2,7 +2,7 @@
 id: 827
 name: Wonder Scale
 status: ai-generated
-character_count: 293
+character_count: 326
 ---
 
 # Wonder Scale - Ability ID 827

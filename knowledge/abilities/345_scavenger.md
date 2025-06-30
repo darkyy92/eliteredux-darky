@@ -2,7 +2,7 @@
 id: 345
 name: Scavenger
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Scavenger - Ability ID 345

@@ -2,7 +2,7 @@
 id: 675
 name: Max Acceleration
 status: ai-generated
-character_count: 300
+character_count: 299
 ---
 
 # Max Acceleration - Ability ID 675

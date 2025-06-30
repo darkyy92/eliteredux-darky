@@ -2,7 +2,7 @@
 id: 588
 name: Iron Serpent
 status: ai-generated
-character_count: 299
+character_count: 303
 ---
 
 # Iron Serpent - Ability ID 588

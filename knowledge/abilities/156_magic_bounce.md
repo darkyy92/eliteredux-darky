@@ -2,7 +2,7 @@
 id: 156
 name: Magic Bounce
 status: ai-generated
-character_count: 298
+character_count: 299
 ---
 
 # Magic Bounce - Ability ID 156

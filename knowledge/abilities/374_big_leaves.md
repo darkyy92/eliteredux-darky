@@ -2,7 +2,7 @@
 id: 374
 name: Big Leaves
 status: ai-generated
-character_count: 291
+character_count: 275
 ---
 
 # Big Leaves - Ability ID 374

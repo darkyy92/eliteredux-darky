@@ -2,7 +2,7 @@
 id: 407
 name: Retribution Blow
 status: ai-generated
-character_count: 287
+character_count: 261
 ---
 
 # Retribution Blow - Ability ID 407

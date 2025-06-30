@@ -2,7 +2,7 @@
 id: 347
 name: Multi Headed
 status: ai-generated
-character_count: 292
+character_count: 296
 ---
 
 # Multi Headed - Ability ID 347

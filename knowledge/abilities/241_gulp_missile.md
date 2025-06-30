@@ -2,7 +2,7 @@
 id: 241
 name: Gulp Missile
 status: ai-generated
-character_count: 276
+character_count: 273
 ---
 
 # Gulp Missile - Ability ID 241

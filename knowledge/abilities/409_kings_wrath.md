@@ -2,7 +2,7 @@
 id: 409
 name: King's Wrath
 status: ai-generated
-character_count: 287
+character_count: 276
 ---
 
 # King's Wrath - Ability ID 409

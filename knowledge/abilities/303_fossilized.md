@@ -2,7 +2,7 @@
 id: 303
 name: Fossilized
 status: ai-generated
-character_count: 295
+character_count: 322
 ---
 
 # Fossilized - Ability ID 303

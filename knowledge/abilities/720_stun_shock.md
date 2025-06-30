@@ -2,7 +2,7 @@
 id: 720
 name: Stun Shock
 status: ai-generated
-character_count: 295
+character_count: 278
 ---
 
 # Stun Shock - Ability ID 720

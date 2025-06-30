@@ -2,7 +2,7 @@
 id: 697
 name: Dragon's Ritual
 status: ai-generated
-character_count: 294
+character_count: 281
 ---
 
 # Dragon's Ritual - Ability ID 697

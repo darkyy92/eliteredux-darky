@@ -2,7 +2,7 @@
 id: 540
 name: Banshee
 status: ai-generated
-character_count: 293
+character_count: 307
 ---
 
 # Banshee - Ability ID 540

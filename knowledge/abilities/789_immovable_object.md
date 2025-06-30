@@ -2,7 +2,7 @@
 id: 789
 name: Immovable Object
 status: ai-generated
-character_count: 297
+character_count: 295
 ---
 
 # Immovable Object - Ability ID 789

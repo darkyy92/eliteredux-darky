@@ -2,7 +2,7 @@
 id: 412
 name: Desert Cloak
 status: ai-generated
-character_count: 295
+character_count: 314
 ---
 
 # Desert Cloak - Ability ID 412

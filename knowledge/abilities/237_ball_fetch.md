@@ -2,7 +2,7 @@
 id: 237
 name: Ball Fetch
 status: ai-generated
-character_count: 299
+character_count: 325
 ---
 
 # Ball Fetch - Ability ID 237

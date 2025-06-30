@@ -2,7 +2,7 @@
 id: 812
 name: Reverbate
 status: ai-generated
-character_count: 284
+character_count: 251
 ---
 
 # Reverbate - Ability ID 812

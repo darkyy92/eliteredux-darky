@@ -2,7 +2,7 @@
 id: 397
 name: Pyro Shells
 status: ai-generated
-character_count: 294
+character_count: 284
 ---
 
 # Pyro Shells - Ability ID 397

@@ -2,7 +2,7 @@
 id: 682
 name: Iron Giant
 status: ai-generated
-character_count: 295
+character_count: 468
 ---
 
 # Iron Giant - Ability ID 682

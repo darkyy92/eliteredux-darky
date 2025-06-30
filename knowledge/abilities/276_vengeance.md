@@ -2,7 +2,7 @@
 id: 276
 name: Vengeance
 status: ai-generated
-character_count: 284
+character_count: 296
 ---
 
 # Vengeance - Ability ID 276

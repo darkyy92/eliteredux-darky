@@ -2,7 +2,7 @@
 id: 342
 name: Seaweed
 status: ai-generated
-character_count: 292
+character_count: 267
 ---
 
 # Seaweed - Ability ID 342

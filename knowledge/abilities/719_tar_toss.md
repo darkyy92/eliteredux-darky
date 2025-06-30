@@ -2,7 +2,7 @@
 id: 719
 name: Tar Toss
 status: ai-generated
-character_count: 294
+character_count: 278
 ---
 
 # Tar Toss - Ability ID 719

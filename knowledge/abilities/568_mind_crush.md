@@ -2,7 +2,7 @@
 id: 568
 name: Mind Crush
 status: ai-generated
-character_count: 288
+character_count: 262
 ---
 
 # Mind Crush - Ability ID 568

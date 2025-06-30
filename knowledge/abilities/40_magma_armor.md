@@ -2,7 +2,7 @@
 id: 40
 name: Magma Armor
 status: ai-generated
-character_count: 289
+character_count: 284
 ---
 
 # Magma Armor - Ability ID 40

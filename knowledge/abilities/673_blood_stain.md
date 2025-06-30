@@ -2,7 +2,7 @@
 id: 673
 name: Blood Stain
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Blood Stain - Ability ID 673

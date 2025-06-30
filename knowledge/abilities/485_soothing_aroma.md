@@ -2,7 +2,7 @@
 id: 485
 name: Soothing Aroma
 status: ai-generated
-character_count: 290
+character_count: 275
 ---
 
 # Soothing Aroma - Ability ID 485

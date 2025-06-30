@@ -2,7 +2,7 @@
 id: 99
 name: No Guard
 status: ai-generated
-character_count: 285
+character_count: 288
 ---
 
 # No Guard - Ability ID 99

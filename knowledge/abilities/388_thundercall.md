@@ -2,7 +2,7 @@
 id: 388
 name: Thundercall
 status: ai-generated
-character_count: 290
+character_count: 271
 ---
 
 # Thundercall - Ability ID 388

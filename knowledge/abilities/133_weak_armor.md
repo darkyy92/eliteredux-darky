@@ -2,7 +2,7 @@
 id: 133
 name: Weak Armor
 status: ai-generated
-character_count: 290
+character_count: 303
 ---
 
 # Weak Armor - Ability ID 133

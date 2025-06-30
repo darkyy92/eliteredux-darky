@@ -2,7 +2,7 @@
 id: 740
 name: Set Ablaze
 status: ai-generated
-character_count: 295
+character_count: 269
 ---
 
 # Set Ablaze - Ability ID 740

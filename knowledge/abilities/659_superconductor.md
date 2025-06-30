@@ -2,7 +2,7 @@
 id: 659
 name: Superconductor
 status: ai-generated
-character_count: 280
+character_count: 279
 ---
 
 # Superconductor - Ability ID 659

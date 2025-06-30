@@ -2,7 +2,7 @@
 id: 801
 name: Sun's Bounty
 status: ai-generated
-character_count: 295
+character_count: 267
 ---
 
 # Sun's Bounty - Ability ID 801

@@ -2,7 +2,7 @@
 id: 240
 name: Mirror Armor
 status: ai-generated
-character_count: 289
+character_count: 286
 ---
 
 # Mirror Armor - Ability ID 240

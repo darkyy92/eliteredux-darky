@@ -2,7 +2,7 @@
 id: 632
 name: Terrify
 status: ai-generated
-character_count: 295
+character_count: 286
 ---
 
 # Terrify - Ability ID 632

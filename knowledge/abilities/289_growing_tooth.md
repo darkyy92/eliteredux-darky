@@ -2,7 +2,7 @@
 id: 289
 name: Growing Tooth
 status: ai-generated
-character_count: 284
+character_count: 290
 ---
 
 # Growing Tooth - Ability ID 289

@@ -2,7 +2,7 @@
 id: 332
 name: Soul Linker
 status: ai-generated
-character_count: 284
+character_count: 283
 ---
 
 # Soul Linker - Ability ID 332

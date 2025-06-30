@@ -2,7 +2,7 @@
 id: 805
 name: Sepia Lens
 status: ai-generated
-character_count: 293
+character_count: 277
 ---
 
 # Sepia Lens - Ability ID 805

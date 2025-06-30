@@ -2,7 +2,7 @@
 id: 218
 name: Fluffy
 status: ai-generated
-character_count: 295
+character_count: 296
 ---
 
 # Fluffy - Ability ID 218

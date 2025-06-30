@@ -2,7 +2,7 @@
 id: 264
 name: Chilling Neigh
 status: ai-generated
-character_count: 292
+character_count: 262
 ---
 
 # Chilling Neigh - Ability ID 264

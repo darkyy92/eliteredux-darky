@@ -2,7 +2,7 @@
 id: 168
 name: Protean
 status: ai-generated
-character_count: 281
+character_count: 280
 ---
 
 # Protean - Ability ID 168

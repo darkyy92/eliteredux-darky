@@ -2,7 +2,7 @@
 id: 418
 name: Riptide
 status: ai-generated
-character_count: 295
+character_count: 311
 ---
 
 # Riptide - Ability ID 418

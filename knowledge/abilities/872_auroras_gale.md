@@ -2,7 +2,7 @@
 id: 872
 name: Aurora's Gale
 status: ai-generated
-character_count: 292
+character_count: 293
 ---
 
 # Aurora's Gale - Ability ID 872

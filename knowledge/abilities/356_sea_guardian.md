@@ -2,7 +2,7 @@
 id: 356
 name: Sea Guardian
 status: ai-generated
-character_count: 294
+character_count: 347
 ---
 
 # Sea Guardian - Ability ID 356

@@ -2,7 +2,7 @@
 id: 419
 name: Forest Rage
 status: ai-generated
-character_count: 295
+character_count: 260
 ---
 
 # Forest Rage - Ability ID 419

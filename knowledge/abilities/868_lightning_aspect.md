@@ -2,7 +2,7 @@
 id: 868
 name: Lightning Aspect
 status: ai-generated
-character_count: 280
+character_count: 237
 ---
 
 # Lightning Aspect - Ability ID 868

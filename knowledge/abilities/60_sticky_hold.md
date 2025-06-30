@@ -2,7 +2,7 @@
 id: 60
 name: Sticky Hold
 status: ai-generated
-character_count: 288
+character_count: 297
 ---
 
 # Sticky Hold - Ability ID 60

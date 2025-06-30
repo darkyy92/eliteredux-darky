@@ -2,7 +2,7 @@
 id: 660
 name: Ultra Instinct
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Ultra Instinct - Ability ID 660

@@ -2,7 +2,7 @@
 id: 108
 name: Forewarn
 status: ai-generated
-character_count: 299
+character_count: 289
 ---
 
 # Forewarn - Ability ID 108

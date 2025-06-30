@@ -2,7 +2,7 @@
 id: 600
 name: Brawling Wyvern
 status: ai-generated
-character_count: 280
+character_count: 278
 ---
 
 # Brawling Wyvern - Ability ID 600

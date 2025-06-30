@@ -2,7 +2,7 @@
 id: 448
 name: Electromorphosis
 status: ai-generated
-character_count: 284
+character_count: 262
 ---
 
 # Electromorphosis - Ability ID 448

@@ -2,7 +2,7 @@
 id: 350
 name: Violent Rush
 status: ai-generated
-character_count: 292
+character_count: 296
 ---
 
 # Violent Rush - Ability ID 350

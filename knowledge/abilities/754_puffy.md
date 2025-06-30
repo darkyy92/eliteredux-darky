@@ -2,7 +2,7 @@
 id: 754
 name: Puffy
 status: ai-generated
-character_count: 296
+character_count: 269
 ---
 
 # Puffy - Ability ID 754

@@ -2,7 +2,7 @@
 id: 170
 name: Magician
 status: ai-generated
-character_count: 290
+character_count: 289
 ---
 
 # Magician - Ability ID 170

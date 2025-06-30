@@ -2,7 +2,7 @@
 id: 152
 name: Mummy
 status: ai-generated
-character_count: 297
+character_count: 271
 ---
 
 # Mummy - Ability ID 152

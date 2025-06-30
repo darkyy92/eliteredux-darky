@@ -2,7 +2,7 @@
 id: 848
 name: Superheavy (N)
 status: ai-generated
-character_count: 286
+character_count: 359
 ---
 
 # Superheavy (N) - Ability ID 848

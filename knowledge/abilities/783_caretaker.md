@@ -2,7 +2,7 @@
 id: 783
 name: Caretaker
 status: ai-generated
-character_count: 295
+character_count: 247
 ---
 
 # Caretaker - Ability ID 783

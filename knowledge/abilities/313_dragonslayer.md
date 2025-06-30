@@ -2,7 +2,7 @@
 id: 313
 name: Dragonslayer
 status: ai-generated
-character_count: 270
+character_count: 269
 ---
 
 # Dragonslayer - Ability ID 313

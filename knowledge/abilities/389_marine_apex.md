@@ -2,7 +2,7 @@
 id: 389
 name: Marine Apex
 status: ai-generated
-character_count: 283
+character_count: 256
 ---
 
 # Marine Apex - Ability ID 389

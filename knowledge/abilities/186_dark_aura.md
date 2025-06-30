@@ -2,7 +2,7 @@
 id: 186
 name: Dark Aura
 status: ai-generated
-character_count: 282
+character_count: 281
 ---
 
 # Dark Aura - Ability ID 186

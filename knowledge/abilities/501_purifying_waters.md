@@ -2,7 +2,7 @@
 id: 501
 name: Purifying Waters
 status: ai-generated
-character_count: 294
+character_count: 262
 ---
 
 # Purifying Waters - Ability ID 501

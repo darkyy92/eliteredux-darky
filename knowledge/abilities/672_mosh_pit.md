@@ -2,7 +2,7 @@
 id: 672
 name: Mosh Pit
 status: ai-generated
-character_count: 289
+character_count: 288
 ---
 
 # Mosh Pit - Ability ID 672

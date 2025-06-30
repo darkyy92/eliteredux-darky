@@ -2,7 +2,7 @@
 id: 193
 name: Wimp Out
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Wimp Out - Ability ID 193

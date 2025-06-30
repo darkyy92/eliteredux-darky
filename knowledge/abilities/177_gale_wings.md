@@ -2,7 +2,7 @@
 id: 177
 name: Gale Wings
 status: ai-generated
-character_count: 291
+character_count: 277
 ---
 
 # Gale Wings - Ability ID 177

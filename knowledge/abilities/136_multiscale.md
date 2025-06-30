@@ -2,7 +2,7 @@
 id: 136
 name: Multiscale
 status: ai-generated
-character_count: 291
+character_count: 297
 ---
 
 # Multiscale - Ability ID 136

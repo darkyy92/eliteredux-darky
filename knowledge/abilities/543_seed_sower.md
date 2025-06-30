@@ -2,7 +2,7 @@
 id: 543
 name: Seed Sower
 status: ai-generated
-character_count: 295
+character_count: 263
 ---
 
 # Seed Sower - Ability ID 543

@@ -2,7 +2,7 @@
 id: 517
 name: Two Step
 status: ai-generated
-character_count: 295
+character_count: 293
 ---
 
 # Two Step - Ability ID 517

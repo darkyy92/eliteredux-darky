@@ -2,7 +2,7 @@
 id: 498
 name: Suppress
 status: ai-generated
-character_count: 286
+character_count: 248
 ---
 
 # Suppress - Ability ID 498

@@ -2,7 +2,7 @@
 id: 557
 name: Readied Action
 status: ai-generated
-character_count: 292
+character_count: 270
 ---
 
 # Readied Action - Ability ID 557

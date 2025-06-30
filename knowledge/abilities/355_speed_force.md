@@ -2,7 +2,7 @@
 id: 355
 name: Speed Force
 status: extended
-character_count: 283
+character_count: 282
 ---
 
 # Speed Force - Ability ID 355

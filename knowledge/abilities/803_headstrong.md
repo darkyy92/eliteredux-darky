@@ -2,7 +2,7 @@
 id: 803
 name: Headstrong
 status: ai-generated
-character_count: 293
+character_count: 269
 ---
 
 # Headstrong - Ability ID 803

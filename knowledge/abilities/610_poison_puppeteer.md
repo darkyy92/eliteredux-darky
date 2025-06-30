@@ -2,7 +2,7 @@
 id: 610
 name: Poison Puppeteer
 status: ai-generated
-character_count: 285
+character_count: 283
 ---
 
 # Poison Puppeteer - Ability ID 610

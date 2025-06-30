@@ -2,7 +2,7 @@
 id: 502
 name: Seaborne
 status: ai-generated
-character_count: 295
+character_count: 275
 ---
 
 # Seaborne - Ability ID 502

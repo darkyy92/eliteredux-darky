@@ -2,7 +2,7 @@
 id: 566
 name: Cud Chew
 status: ai-generated
-character_count: 289
+character_count: 268
 ---
 
 # Cud Chew - Ability ID 566

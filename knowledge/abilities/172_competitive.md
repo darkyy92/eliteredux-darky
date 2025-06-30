@@ -2,7 +2,7 @@
 id: 172
 name: Competitive
 status: ai-generated
-character_count: 297
+character_count: 294
 ---
 
 # Competitive - Ability ID 172

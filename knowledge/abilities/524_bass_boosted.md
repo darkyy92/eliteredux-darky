@@ -2,7 +2,7 @@
 id: 524
 name: Bass Boosted
 status: ai-generated
-character_count: 299
+character_count: 267
 ---
 
 # Bass Boosted - Ability ID 524

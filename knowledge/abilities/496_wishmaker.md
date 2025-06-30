@@ -2,7 +2,7 @@
 id: 496
 name: Wishmaker
 status: ai-generated
-character_count: 292
+character_count: 259
 ---
 
 # Wishmaker - Ability ID 496

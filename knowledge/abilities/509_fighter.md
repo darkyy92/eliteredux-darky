@@ -2,7 +2,7 @@
 id: 509
 name: Fighter
 status: ai-generated
-character_count: 296
+character_count: 268
 ---
 
 # Fighter - Ability ID 509

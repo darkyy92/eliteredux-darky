@@ -2,7 +2,7 @@
 id: 265
 name: Grim Neigh
 status: ai-generated
-character_count: 294
+character_count: 262
 ---
 
 # Grim Neigh - Ability ID 265

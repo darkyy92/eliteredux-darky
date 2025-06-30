@@ -2,7 +2,7 @@
 id: 140
 name: Telepathy
 status: ai-generated
-character_count: 286
+character_count: 288
 ---
 
 # Telepathy - Ability ID 140

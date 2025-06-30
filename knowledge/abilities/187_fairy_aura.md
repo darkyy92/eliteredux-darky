@@ -2,7 +2,7 @@
 id: 187
 name: Fairy Aura
 status: ai-generated
-character_count: 283
+character_count: 282
 ---
 
 # Fairy Aura - Ability ID 187

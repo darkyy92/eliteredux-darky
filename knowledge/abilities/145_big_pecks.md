@@ -2,7 +2,7 @@
 id: 145
 name: Big Pecks
 status: ai-generated
-character_count: 284
+character_count: 259
 ---
 
 # Big Pecks - Ability ID 145

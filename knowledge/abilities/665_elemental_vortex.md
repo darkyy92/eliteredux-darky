@@ -2,7 +2,7 @@
 id: 665
 name: Elemental Vortex
 status: ai-generated
-character_count: 286
+character_count: 284
 ---
 
 # Elemental Vortex - Ability ID 665

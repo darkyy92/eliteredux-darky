@@ -2,7 +2,7 @@
 id: 849
 name: World Serpent
 status: ai-generated
-character_count: 284
+character_count: 264
 ---
 
 # World Serpent - Ability ID 849

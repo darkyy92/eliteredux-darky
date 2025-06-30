@@ -2,7 +2,7 @@
 id: 492
 name: Freezing Point
 status: ai-generated
-character_count: 296
+character_count: 276
 ---
 
 # Freezing Point - Ability ID 492

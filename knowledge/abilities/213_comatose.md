@@ -2,7 +2,7 @@
 id: 213
 name: Comatose
 status: ai-generated
-character_count: 298
+character_count: 280
 ---
 
 # Comatose - Ability ID 213

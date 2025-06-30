@@ -2,7 +2,7 @@
 id: 183
 name: Gooey
 status: ai-generated
-character_count: 292
+character_count: 291
 ---
 
 # Gooey - Ability ID 183

@@ -2,7 +2,7 @@
 id: 785
 name: Dual Shadow
 status: ai-generated
-character_count: 291
+character_count: 320
 ---
 
 # Dual Shadow - Ability ID 785

@@ -2,7 +2,7 @@
 id: 721
 name: Raging Goddess 
 status: ai-generated
-character_count: 295
+character_count: 277
 ---
 
 # Raging Goddess - Ability ID 721

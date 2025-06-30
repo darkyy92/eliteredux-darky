@@ -2,7 +2,7 @@
 id: 120
 name: Reckless
 status: ai-generated
-character_count: 291
+character_count: 280
 ---
 
 # Reckless - Ability ID 120

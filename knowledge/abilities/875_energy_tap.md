@@ -2,7 +2,7 @@
 id: 875
 name: Energy Tap
 status: ai-generated
-character_count: 299
+character_count: 287
 ---
 
 # Energy Tap - Ability ID 875

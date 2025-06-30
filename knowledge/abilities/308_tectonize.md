@@ -2,7 +2,7 @@
 id: 308
 name: Tectonize
 status: ai-generated
-character_count: 296
+character_count: 305
 ---
 
 # Tectonize - Ability ID 308

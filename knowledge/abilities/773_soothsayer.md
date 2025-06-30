@@ -2,7 +2,7 @@
 id: 773
 name: Soothsayer
 status: ai-generated
-character_count: 282
+character_count: 256
 ---
 
 # Soothsayer - Ability ID 773

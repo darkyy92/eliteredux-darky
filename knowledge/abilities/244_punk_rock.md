@@ -2,7 +2,7 @@
 id: 244
 name: Punk Rock
 status: ai-generated
-character_count: 289
+character_count: 261
 ---
 
 # Punk Rock - Ability ID 244

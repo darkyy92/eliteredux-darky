@@ -2,7 +2,7 @@
 id: 818
 name: Tentalock (N)
 status: ai-generated
-character_count: 289
+character_count: 239
 ---
 
 # Tentalock (N) - Ability ID 818

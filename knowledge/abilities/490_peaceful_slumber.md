@@ -2,7 +2,7 @@
 id: 490
 name: Peaceful Slumber
 status: ai-generated
-character_count: 299
+character_count: 254
 ---
 
 # Peaceful Slumber - Ability ID 490

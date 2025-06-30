@@ -2,7 +2,7 @@
 id: 471
 name: Cold Plasma
 status: ai-generated
-character_count: 297
+character_count: 293
 ---
 
 # Cold Plasma - Ability ID 471

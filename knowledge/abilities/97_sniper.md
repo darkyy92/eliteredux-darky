@@ -2,7 +2,7 @@
 id: 97
 name: Sniper
 status: ai-generated
-character_count: 285
+character_count: 286
 ---
 
 # Sniper - Ability ID 97

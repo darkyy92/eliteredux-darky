@@ -2,7 +2,7 @@
 id: 406
 name: Spinning Top
 status: ai-generated
-character_count: 296
+character_count: 311
 ---
 
 # Spinning Top - Ability ID 406

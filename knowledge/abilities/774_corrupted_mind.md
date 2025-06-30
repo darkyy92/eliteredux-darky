@@ -2,7 +2,7 @@
 id: 774
 name: Corrupted Mind
 status: ai-generated
-character_count: 285
+character_count: 273
 ---
 
 # Corrupted Mind - Ability ID 774

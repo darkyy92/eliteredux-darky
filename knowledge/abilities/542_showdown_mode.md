@@ -2,7 +2,7 @@
 id: 542
 name: Showdown Mode
 status: ai-generated
-character_count: 286
+character_count: 276
 ---
 
 # Showdown Mode - Ability ID 542

@@ -2,7 +2,7 @@
 id: 128
 name: Defiant
 status: ai-generated
-character_count: 300
+character_count: 284
 ---
 
 # Defiant - Ability ID 128

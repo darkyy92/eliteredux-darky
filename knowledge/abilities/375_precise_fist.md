@@ -2,7 +2,7 @@
 id: 375
 name: Precise Fist
 status: ai-generated
-character_count: 294
+character_count: 295
 ---
 
 # Precise Fist - Ability ID 375

@@ -2,7 +2,7 @@
 id: 373
 name: Grip Pincer
 status: ai-generated
-character_count: 297
+character_count: 271
 ---
 
 # Grip Pincer - Ability ID 373

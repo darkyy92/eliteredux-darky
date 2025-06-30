@@ -2,7 +2,7 @@
 id: 381
 name: Pollinate
 status: ai-generated
-character_count: 292
+character_count: 263
 ---
 
 # Pollinate - Ability ID 381

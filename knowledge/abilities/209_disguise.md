@@ -2,7 +2,7 @@
 id: 209
 name: Disguise
 status: ai-generated
-character_count: 283
+character_count: 258
 ---
 
 # Disguise - Ability ID 209

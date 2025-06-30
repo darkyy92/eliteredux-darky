@@ -2,7 +2,7 @@
 id: 746
 name: Desolate Sun
 status: ai-generated
-character_count: 294
+character_count: 276
 ---
 
 # Desolate Sun - Ability ID 746

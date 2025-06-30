@@ -2,7 +2,7 @@
 id: 529
 name: Berserk DNA
 status: ai-generated
-character_count: 299
+character_count: 258
 ---
 
 # Berserk DNA - Ability ID 529

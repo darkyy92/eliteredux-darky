@@ -2,7 +2,7 @@
 id: 287
 name: Mystic Power
 status: ai-generated
-character_count: 284
+character_count: 278
 ---
 
 # Mystic Power - Ability ID 287

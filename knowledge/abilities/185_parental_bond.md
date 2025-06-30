@@ -2,7 +2,7 @@
 id: 185
 name: Parental Bond
 status: ai-generated
-character_count: 297
+character_count: 296
 ---
 
 # Parental Bond - Ability ID 185

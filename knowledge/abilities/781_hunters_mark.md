@@ -2,7 +2,7 @@
 id: 781
 name: Hunter's Mark
 status: ai-generated
-character_count: 282
+character_count: 225
 ---
 
 # Hunter's Mark - Ability ID 781

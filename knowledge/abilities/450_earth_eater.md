@@ -2,7 +2,7 @@
 id: 450
 name: Earth Eater
 status: ai-generated
-character_count: 289
+character_count: 272
 ---
 
 # Earth Eater - Ability ID 450

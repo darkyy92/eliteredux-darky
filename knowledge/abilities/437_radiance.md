@@ -2,7 +2,7 @@
 id: 437
 name: Radiance
 status: ai-generated
-character_count: 297
+character_count: 292
 ---
 
 # Radiance - Ability ID 437

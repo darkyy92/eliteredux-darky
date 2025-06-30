@@ -2,7 +2,7 @@
 id: 711
 name: Lunar Affinity
 status: ai-generated
-character_count: 292
+character_count: 278
 ---
 
 # Lunar Affinity - Ability ID 711

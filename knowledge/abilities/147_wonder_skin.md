@@ -2,7 +2,7 @@
 id: 147
 name: Wonder Skin
 status: ai-generated
-character_count: 281
+character_count: 284
 ---
 
 # Wonder Skin - Ability ID 147

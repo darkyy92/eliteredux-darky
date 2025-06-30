@@ -2,7 +2,7 @@
 id: 824
 name: Frostbind
 status: ai-generated
-character_count: 295
+character_count: 283
 ---
 
 # Frostbind - Ability ID 824

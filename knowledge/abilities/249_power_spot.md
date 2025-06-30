@@ -2,7 +2,7 @@
 id: 249
 name: Power Spot
 status: ai-generated
-character_count: 297
+character_count: 281
 ---
 
 # Power Spot - Ability ID 249

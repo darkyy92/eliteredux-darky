@@ -2,7 +2,7 @@
 id: 814
 name: Strategic Pause
 status: ai-generated
-character_count: 295
+character_count: 288
 ---
 
 # Strategic Pause - Ability ID 814

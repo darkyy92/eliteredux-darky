@@ -2,7 +2,7 @@
 id: 739
 name: Teraform Zero
 status: ai-generated
-character_count: 285
+character_count: 267
 ---
 
 # Teraform Zero - Ability ID 739

@@ -2,7 +2,7 @@
 id: 865
 name: Heat Sink
 status: ai-generated
-character_count: 283
+character_count: 286
 ---
 
 # Heat Sink - Ability ID 865

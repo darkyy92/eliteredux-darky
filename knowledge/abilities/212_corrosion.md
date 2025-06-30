@@ -2,7 +2,7 @@
 id: 212
 name: Corrosion
 status: ai-generated
-character_count: 289
+character_count: 280
 ---
 
 # Corrosion - Ability ID 212

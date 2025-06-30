@@ -2,7 +2,7 @@
 id: 488
 name: Tipping Point
 status: ai-generated
-character_count: 289
+character_count: 240
 ---
 
 # Tipping Point - Ability ID 488

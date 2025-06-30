@@ -2,7 +2,7 @@
 id: 291
 name: Aurora Borealis
 status: ai-generated
-character_count: 295
+character_count: 319
 ---
 
 # Aurora Borealis - Ability ID 291

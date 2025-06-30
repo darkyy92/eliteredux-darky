@@ -2,7 +2,7 @@
 id: 710
 name: Dream Whimsy
 status: ai-generated
-character_count: 288
+character_count: 256
 ---
 
 # Dream Whimsy - Ability ID 710

@@ -2,7 +2,7 @@
 id: 504
 name: Change of Heart
 status: ai-generated
-character_count: 287
+character_count: 298
 ---
 
 # Change of Heart - Ability ID 504

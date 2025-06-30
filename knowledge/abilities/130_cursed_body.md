@@ -2,7 +2,7 @@
 id: 130
 name: Cursed Body
 status: ai-generated
-character_count: 280
+character_count: 279
 ---
 
 # Cursed Body - Ability ID 130

@@ -2,7 +2,7 @@
 id: 358
 name: Hyper Aggressive
 status: ai-generated
-character_count: 285
+character_count: 279
 ---
 
 # Hyper Aggressive - Ability ID 358

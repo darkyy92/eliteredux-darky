@@ -2,7 +2,7 @@
 id: 611
 name: Entrance
 status: ai-generated
-character_count: 290
+character_count: 287
 ---
 
 # Entrance - Ability ID 611

@@ -2,7 +2,7 @@
 id: 239
 name: Propeller Tail
 status: ai-generated
-character_count: 289
+character_count: 302
 ---
 
 # Propeller Tail - Ability ID 239

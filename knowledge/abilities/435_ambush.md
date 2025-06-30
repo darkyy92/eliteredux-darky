@@ -2,7 +2,7 @@
 id: 435
 name: Ambush
 status: ai-generated
-character_count: 298
+character_count: 283
 ---
 
 # Ambush - Ability ID 435

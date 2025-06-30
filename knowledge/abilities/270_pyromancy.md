@@ -2,7 +2,7 @@
 id: 270
 name: Pyromancy
 status: ai-generated
-character_count: 283
+character_count: 286
 ---
 
 # Pyromancy - Ability ID 270

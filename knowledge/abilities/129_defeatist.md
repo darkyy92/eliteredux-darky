@@ -2,7 +2,7 @@
 id: 129
 name: Defeatist
 status: ai-generated
-character_count: 287
+character_count: 280
 ---
 
 # Defeatist - Ability ID 129

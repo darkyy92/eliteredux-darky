@@ -2,7 +2,7 @@
 id: 694
 name: Blind Rage
 status: ai-generated
-character_count: 295
+character_count: 294
 ---
 
 # Blind Rage - Ability ID 694

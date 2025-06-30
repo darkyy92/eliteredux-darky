@@ -2,7 +2,7 @@
 id: 214
 name: Queenly Majesty
 status: ai-generated
-character_count: 294
+character_count: 269
 ---
 
 # Queenly Majesty - Ability ID 214

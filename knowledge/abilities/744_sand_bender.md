@@ -2,7 +2,7 @@
 id: 744
 name: Sand Bender
 status: ai-generated
-character_count: 298
+character_count: 281
 ---
 
 # Sand Bender - Ability ID 744

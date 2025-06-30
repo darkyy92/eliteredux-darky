@@ -2,7 +2,7 @@
 id: 573
 name: Rapid Response
 status: ai-generated
-character_count: 299
+character_count: 278
 ---
 
 # Rapid Response - Ability ID 573

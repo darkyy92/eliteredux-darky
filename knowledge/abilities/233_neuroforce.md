@@ -2,7 +2,7 @@
 id: 233
 name: Neuroforce
 status: ai-generated
-character_count: 288
+character_count: 303
 ---
 
 # Neuroforce - Ability ID 233

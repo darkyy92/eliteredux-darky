@@ -2,7 +2,7 @@
 id: 622
 name: Beautiful Music
 status: ai-generated
-character_count: 282
+character_count: 256
 ---
 
 # Beautiful Music - Ability ID 622

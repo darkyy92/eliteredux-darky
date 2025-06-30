@@ -2,7 +2,7 @@
 id: 456
 name: Cryomancy
 status: ai-generated
-character_count: 290
+character_count: 282
 ---
 
 # Cryomancy - Ability ID 456

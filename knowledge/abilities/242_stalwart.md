@@ -2,7 +2,7 @@
 id: 242
 name: Stalwart
 status: ai-generated
-character_count: 288
+character_count: 273
 ---
 
 # Stalwart - Ability ID 242

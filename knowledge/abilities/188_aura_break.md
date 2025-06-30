@@ -2,7 +2,7 @@
 id: 188
 name: Aura Break
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Aura Break - Ability ID 188

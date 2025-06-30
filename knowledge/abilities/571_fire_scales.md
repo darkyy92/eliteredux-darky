@@ -2,7 +2,7 @@
 id: 571
 name: Fire Scales
 status: ai-generated
-character_count: 290
+character_count: 306
 ---
 
 # Fire Scales - Ability ID 571

@@ -2,7 +2,7 @@
 id: 396
 name: Liquid Voice
 status: ai-generated
-character_count: 231
+character_count: 234
 ---
 
 # Liquid Voice - Ability ID 396

@@ -2,7 +2,7 @@
 id: 440
 name: Prismatic Fur
 status: ai-generated
-character_count: 292
+character_count: 260
 ---
 
 # Prismatic Fur - Ability ID 440

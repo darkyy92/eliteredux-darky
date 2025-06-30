@@ -2,7 +2,7 @@
 id: 846
 name: Magus Blades
 status: ai-generated
-character_count: 293
+character_count: 248
 ---
 
 # Magus Blades - Ability ID 846

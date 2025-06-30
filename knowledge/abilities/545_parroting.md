@@ -2,7 +2,7 @@
 id: 545
 name: Parroting
 status: ai-generated
-character_count: 294
+character_count: 263
 ---
 
 # Parroting - Ability ID 545

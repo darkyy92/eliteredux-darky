@@ -2,7 +2,7 @@
 id: 768
 name: Samba
 status: ai-generated
-character_count: 289
+character_count: 230
 ---
 
 # Samba - Ability ID 768

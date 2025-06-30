@@ -2,7 +2,7 @@
 id: 431
 name: Dune Terror
 status: ai-generated
-character_count: 295
+character_count: 293
 ---
 
 # Dune Terror - Ability ID 431

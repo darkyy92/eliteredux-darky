@@ -2,7 +2,7 @@
 id: 334
 name: Bad Luck
 status: ai-generated
-character_count: 283
+character_count: 282
 ---
 
 # Bad Luck - Ability ID 334

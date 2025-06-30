@@ -2,7 +2,7 @@
 id: 398
 name: Fungal Infection
 status: ai-generated
-character_count: 289
+character_count: 255
 ---
 
 # Fungal Infection - Ability ID 398

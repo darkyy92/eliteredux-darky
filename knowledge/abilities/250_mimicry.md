@@ -2,7 +2,7 @@
 id: 250
 name: Mimicry
 status: ai-generated
-character_count: 299
+character_count: 273
 ---
 
 # Mimicry - Ability ID 250

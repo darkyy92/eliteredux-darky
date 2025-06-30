@@ -2,7 +2,7 @@
 id: 576
 name: Good As Gold
 status: ai-generated
-character_count: 286
+character_count: 245
 ---
 
 # Good As Gold - Ability ID 576

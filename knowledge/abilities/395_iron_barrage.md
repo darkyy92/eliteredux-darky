@@ -2,7 +2,7 @@
 id: 395
 name: Iron Barrage
 status: ai-generated
-character_count: 299
+character_count: 304
 ---
 
 # Iron Barrage - Ability ID 395

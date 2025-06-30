@@ -2,7 +2,7 @@
 id: 830
 name: Temporal Rupture
 status: ai-generated
-character_count: 294
+character_count: 324
 ---
 
 # Temporal Rupture - Ability ID 830

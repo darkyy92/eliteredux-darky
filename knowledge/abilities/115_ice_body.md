@@ -2,7 +2,7 @@
 id: 115
 name: Ice Body
 status: ai-generated
-character_count: 289
+character_count: 288
 ---
 
 # Ice Body - Ability ID 115

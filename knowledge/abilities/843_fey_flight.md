@@ -2,7 +2,7 @@
 id: 843
 name: Fey Flight
 status: ai-generated
-character_count: 289
+character_count: 290
 ---
 
 # Fey Flight - Ability ID 843

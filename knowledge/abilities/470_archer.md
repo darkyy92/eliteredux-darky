@@ -2,7 +2,7 @@
 id: 470
 name: Archer
 status: ai-generated
-character_count: 286
+character_count: 284
 ---
 
 # Archer - Ability ID 470

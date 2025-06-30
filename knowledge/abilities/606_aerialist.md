@@ -2,7 +2,7 @@
 id: 606
 name: Aerialist
 status: ai-generated
-character_count: 295
+character_count: 286
 ---
 
 # Aerialist - Ability ID 606

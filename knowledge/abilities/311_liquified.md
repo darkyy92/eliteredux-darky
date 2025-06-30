@@ -2,7 +2,7 @@
 id: 311
 name: Liquified
 status: ai-generated
-character_count: 287
+character_count: 271
 ---
 
 # Liquified - Ability ID 311

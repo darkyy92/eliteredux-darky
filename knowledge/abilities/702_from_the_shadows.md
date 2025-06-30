@@ -2,7 +2,7 @@
 id: 702
 name: From the Shadows
 status: ai-generated
-character_count: 284
+character_count: 268
 ---
 
 # From the Shadows - Ability ID 702

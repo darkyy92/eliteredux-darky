@@ -2,7 +2,7 @@
 id: 592
 name: Minion Control
 status: ai-generated
-character_count: 300
+character_count: 293
 ---
 
 # Minion Control - Ability ID 592

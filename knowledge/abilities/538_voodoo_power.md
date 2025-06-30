@@ -2,7 +2,7 @@
 id: 538
 name: Voodoo Power
 status: ai-generated
-character_count: 294
+character_count: 283
 ---
 
 # Voodoo Power - Ability ID 538

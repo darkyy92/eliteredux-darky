@@ -2,7 +2,7 @@
 id: 594
 name: Haunting Frenzy
 status: ai-generated
-character_count: 293
+character_count: 292
 ---
 
 # Haunting Frenzy - Ability ID 594

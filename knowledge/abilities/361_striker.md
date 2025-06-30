@@ -2,7 +2,7 @@
 id: 361
 name: Striker
 status: ai-generated
-character_count: 297
+character_count: 283
 ---
 
 # Striker - Ability ID 361

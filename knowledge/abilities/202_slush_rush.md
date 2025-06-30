@@ -2,7 +2,7 @@
 id: 202
 name: Slush Rush
 status: ai-generated
-character_count: 297
+character_count: 270
 ---
 
 # Slush Rush - Ability ID 202

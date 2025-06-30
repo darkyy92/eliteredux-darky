@@ -2,7 +2,7 @@
 id: 733
 name: Taekkyeon
 status: ai-generated
-character_count: 295
+character_count: 307
 ---
 
 # Taekkyeon - Ability ID 733

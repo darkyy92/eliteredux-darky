@@ -2,7 +2,7 @@
 id: 570
 name: Ill Will
 status: ai-generated
-character_count: 295
+character_count: 254
 ---
 
 # Ill Will - Ability ID 570

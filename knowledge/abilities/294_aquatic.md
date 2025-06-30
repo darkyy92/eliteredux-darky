@@ -2,7 +2,7 @@
 id: 294
 name: Aquatic
 status: ai-generated
-character_count: 294
+character_count: 262
 ---
 
 # Aquatic - Ability ID 294

@@ -2,7 +2,7 @@
 id: 487
 name: Super Strain
 status: ai-generated
-character_count: 287
+character_count: 251
 ---
 
 # Super Strain - Ability ID 487

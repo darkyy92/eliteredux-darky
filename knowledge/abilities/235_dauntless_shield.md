@@ -2,7 +2,7 @@
 id: 235
 name: Dauntless Shield
 status: ai-generated
-character_count: 295
+character_count: 301
 ---
 
 # Dauntless Shield - Ability ID 235

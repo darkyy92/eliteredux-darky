@@ -2,7 +2,7 @@
 id: 184
 name: Aerilate
 status: ai-generated
-character_count: 283
+character_count: 229
 ---
 
 # Aerilate - Ability ID 184

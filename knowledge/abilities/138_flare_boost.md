@@ -2,7 +2,7 @@
 id: 138
 name: Flare Boost
 status: ai-generated
-character_count: 284
+character_count: 297
 ---
 
 # Flare Boost - Ability ID 138

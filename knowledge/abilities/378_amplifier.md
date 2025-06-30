@@ -2,7 +2,7 @@
 id: 378
 name: Amplifier
 status: ai-generated
-character_count: 289
+character_count: 275
 ---
 
 # Amplifier - Ability ID 378

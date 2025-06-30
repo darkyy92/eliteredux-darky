@@ -2,7 +2,7 @@
 id: 192
 name: Stamina
 status: ai-generated
-character_count: 282
+character_count: 281
 ---
 
 # Stamina - Ability ID 192

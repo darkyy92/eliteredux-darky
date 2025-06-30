@@ -2,7 +2,7 @@
 id: 784
 name: Poseidons Dominion
 status: ai-generated
-character_count: 282
+character_count: 221
 ---
 
 # Poseidons Dominion - Ability ID 784

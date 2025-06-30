@@ -2,7 +2,7 @@
 id: 491
 name: Aftershock
 status: ai-generated
-character_count: 285
+character_count: 273
 ---
 
 # Aftershock - Ability ID 491

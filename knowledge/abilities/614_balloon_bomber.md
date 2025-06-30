@@ -2,7 +2,7 @@
 id: 614
 name: Balloon Bomber
 status: ai-generated
-character_count: 294
+character_count: 277
 ---
 
 # Balloon Bomber - Ability ID 614

@@ -2,7 +2,7 @@
 id: 699
 name: Energized
 status: ai-generated
-character_count: 284
+character_count: 247
 ---
 
 # Energized - Ability ID 699

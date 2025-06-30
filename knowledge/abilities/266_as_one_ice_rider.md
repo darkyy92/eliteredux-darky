@@ -2,7 +2,7 @@
 id: 266
 name: As One Ice Rider
 status: ai-generated
-character_count: 289
+character_count: 267
 ---
 
 # As One Ice Rider - Ability ID 266

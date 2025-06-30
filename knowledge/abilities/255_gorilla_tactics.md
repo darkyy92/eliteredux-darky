@@ -2,7 +2,7 @@
 id: 255
 name: Gorilla Tactics
 status: ai-generated
-character_count: 294
+character_count: 292
 ---
 
 # Gorilla Tactics - Ability ID 255

@@ -2,7 +2,7 @@
 id: 572
 name: Watch Your Step
 status: ai-generated
-character_count: 296
+character_count: 217
 ---
 
 # Watch Your Step - Ability ID 572

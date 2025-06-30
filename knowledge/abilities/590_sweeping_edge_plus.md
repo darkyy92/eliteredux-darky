@@ -2,7 +2,7 @@
 id: 590
 name: Sweeping Edge Plus
 status: ai-generated
-character_count: 285
+character_count: 283
 ---
 
 # Sweeping Edge Plus - Ability ID 590

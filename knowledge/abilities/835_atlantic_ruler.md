@@ -2,7 +2,7 @@
 id: 835
 name: Atlantic Ruler
 status: ai-generated
-character_count: 290
+character_count: 296
 ---
 
 # Atlantic Ruler - Ability ID 835

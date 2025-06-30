@@ -2,7 +2,7 @@
 id: 376
 name: Deadeye
 status: ai-generated
-character_count: 295
+character_count: 262
 ---
 
 # Deadeye - Ability ID 376

@@ -2,7 +2,7 @@
 id: 630
 name: Menacing Situation
 status: ai-generated
-character_count: 291
+character_count: 288
 ---
 
 # Menacing Situation - Ability ID 630

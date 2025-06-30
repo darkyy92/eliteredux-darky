@@ -2,7 +2,7 @@
 id: 444
 name: Evaporate
 status: ai-generated
-character_count: 297
+character_count: 276
 ---
 
 # Evaporate - Ability ID 444

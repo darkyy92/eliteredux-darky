@@ -2,7 +2,7 @@
 id: 434
 name: Elemental Charge
 status: ai-generated
-character_count: 293
+character_count: 286
 ---
 
 # Elemental Charge - Ability ID 434

@@ -2,7 +2,7 @@
 id: 500
 name: Heaven Asunder
 status: ai-generated
-character_count: 295
+character_count: 278
 ---
 
 # Heaven Asunder - Ability ID 500

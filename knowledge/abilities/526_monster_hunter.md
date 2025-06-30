@@ -2,7 +2,7 @@
 id: 526
 name: Monster Hunter
 status: ai-generated
-character_count: 291
+character_count: 281
 ---
 
 # Monster Hunter - Ability ID 526

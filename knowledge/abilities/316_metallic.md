@@ -2,7 +2,7 @@
 id: 316
 name: Metallic
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Metallic - Ability ID 316

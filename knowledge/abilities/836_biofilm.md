@@ -2,7 +2,7 @@
 id: 836
 name: Biofilm
 status: ai-generated
-character_count: 295
+character_count: 289
 ---
 
 # Biofilm - Ability ID 836

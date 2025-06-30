@@ -2,7 +2,7 @@
 id: 154
 name: Justified
 status: ai-generated
-character_count: 295
+character_count: 271
 ---
 
 # Justified - Ability ID 154

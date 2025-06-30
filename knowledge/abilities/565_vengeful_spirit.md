@@ -2,7 +2,7 @@
 id: 565
 name: Vengeful Spirit
 status: ai-generated
-character_count: 296
+character_count: 252
 ---
 
 # Vengeful Spirit - Ability ID 565

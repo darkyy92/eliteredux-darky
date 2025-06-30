@@ -2,7 +2,7 @@
 id: 423
 name: Hydro Circuit
 status: ai-generated
-character_count: 297
+character_count: 278
 ---
 
 # Hydro Circuit - Ability ID 423

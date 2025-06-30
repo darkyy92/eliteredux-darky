@@ -2,7 +2,7 @@
 id: 300
 name: Fighting Spirit
 status: ai-generated
-character_count: 289
+character_count: 284
 ---
 
 # Fighting Spirit - Ability ID 300

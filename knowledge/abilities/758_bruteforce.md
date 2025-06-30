@@ -2,7 +2,7 @@
 id: 758
 name: Bruteforce
 status: ai-generated
-character_count: 297
+character_count: 280
 ---
 
 # Bruteforce - Ability ID 758

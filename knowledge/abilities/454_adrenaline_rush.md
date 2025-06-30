@@ -2,7 +2,7 @@
 id: 454
 name: Adrenaline Rush
 status: ai-generated
-character_count: 295
+character_count: 281
 ---
 
 # Adrenaline Rush - Ability ID 454

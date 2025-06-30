@@ -2,7 +2,7 @@
 id: 579
 name: Sword Of Ruin
 status: ai-generated
-character_count: 293
+character_count: 281
 ---
 
 # Sword Of Ruin - Ability ID 579

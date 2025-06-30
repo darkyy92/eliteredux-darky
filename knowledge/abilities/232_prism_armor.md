@@ -2,7 +2,7 @@
 id: 232
 name: Prism Armor
 status: ai-generated
-character_count: 295
+character_count: 342
 ---
 
 # Prism Armor - Ability ID 232

@@ -2,7 +2,7 @@
 id: 411
 name: Toxic Spill
 status: ai-generated
-character_count: 286
+character_count: 244
 ---
 
 # Toxic Spill - Ability ID 411

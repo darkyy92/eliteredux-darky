@@ -2,7 +2,7 @@
 id: 618
 name: Fragrant Daze
 status: ai-generated
-character_count: 289
+character_count: 271
 ---
 
 # Fragrant Daze - Ability ID 618

@@ -2,7 +2,7 @@
 id: 507
 name: Fertilize
 status: ai-generated
-character_count: 295
+character_count: 275
 ---
 
 # Fertilize - Ability ID 507

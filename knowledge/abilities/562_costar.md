@@ -2,7 +2,7 @@
 id: 562
 name: Costar
 status: ai-generated
-character_count: 284
+character_count: 291
 ---
 
 # Costar - Ability ID 562

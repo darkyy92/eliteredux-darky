@@ -2,7 +2,7 @@
 id: 164
 name: Teravolt
 status: ai-generated
-character_count: 285
+character_count: 284
 ---
 
 # Teravolt - Ability ID 164

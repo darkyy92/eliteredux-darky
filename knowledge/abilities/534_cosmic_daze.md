@@ -2,7 +2,7 @@
 id: 534
 name: Cosmic Daze
 status: ai-generated
-character_count: 274
+character_count: 272
 ---
 
 # Cosmic Daze - Ability ID 534

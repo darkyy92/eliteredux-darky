@@ -2,7 +2,7 @@
 id: 857
 name: Royal Decree
 status: ai-generated
-character_count: 285
+character_count: 262
 ---
 
 # Royal Decree - Ability ID 857

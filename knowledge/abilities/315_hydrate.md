@@ -2,7 +2,7 @@
 id: 315
 name: Hydrate
 status: ai-generated
-character_count: 284
+character_count: 283
 ---
 
 # Hydrate - Ability ID 315

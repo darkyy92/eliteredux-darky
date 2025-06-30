@@ -2,7 +2,7 @@
 id: 797
 name: Embody Aspect (Cornerstone)
 status: ai-generated
-character_count: 291
+character_count: 258
 ---
 
 # Embody Aspect (Cornerstone) - Ability ID 797

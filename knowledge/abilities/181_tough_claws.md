@@ -2,7 +2,7 @@
 id: 181
 name: Tough Claws
 status: ai-generated
-character_count: 295
+character_count: 313
 ---
 
 # Tough Claws - Ability ID 181

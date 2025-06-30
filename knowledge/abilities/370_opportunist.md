@@ -2,7 +2,7 @@
 id: 370
 name: Opportunist
 status: ai-generated
-character_count: 290
+character_count: 247
 ---
 
 # Opportunist - Ability ID 370

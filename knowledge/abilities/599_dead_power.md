@@ -2,7 +2,7 @@
 id: 599
 name: Dead Power
 status: ai-generated
-character_count: 293
+character_count: 276
 ---
 
 # Dead Power - Ability ID 599

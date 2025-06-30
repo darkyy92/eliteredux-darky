@@ -2,7 +2,7 @@
 id: 352
 name: Sage Power
 status: ai-generated
-character_count: 280
+character_count: 285
 ---
 
 # Sage Power - Ability ID 352

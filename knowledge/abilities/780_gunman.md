@@ -2,7 +2,7 @@
 id: 780
 name: Gunman
 status: ai-generated
-character_count: 297
+character_count: 216
 ---
 
 # Gunman - Ability ID 780

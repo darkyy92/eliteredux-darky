@@ -2,7 +2,7 @@
 id: 102
 name: Leaf Guard
 status: ai-generated
-character_count: 289
+character_count: 276
 ---
 
 # Leaf Guard - Ability ID 102

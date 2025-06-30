@@ -2,7 +2,7 @@
 id: 338
 name: Solenoglyphs
 status: ai-generated
-character_count: 290
+character_count: 289
 ---
 
 # Solenoglyphs - Ability ID 338

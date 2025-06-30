@@ -2,7 +2,7 @@
 id: 414
 name: Pretty Princess
 status: ai-generated
-character_count: 297
+character_count: 276
 ---
 
 # Pretty Princess - Ability ID 414

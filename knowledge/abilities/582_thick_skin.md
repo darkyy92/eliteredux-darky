@@ -2,7 +2,7 @@
 id: 582
 name: Thick Skin
 status: ai-generated
-character_count: 294
+character_count: 282
 ---
 
 # Thick Skin - Ability ID 582

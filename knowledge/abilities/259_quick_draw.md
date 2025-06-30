@@ -2,7 +2,7 @@
 id: 259
 name: Quick Draw
 status: ai-generated
-character_count: 298
+character_count: 272
 ---
 
 # Quick Draw - Ability ID 259

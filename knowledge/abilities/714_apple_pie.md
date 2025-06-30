@@ -2,7 +2,7 @@
 id: 714
 name: Apple Pie
 status: ai-generated
-character_count: 289
+character_count: 275
 ---
 
 # Apple Pie - Ability ID 714

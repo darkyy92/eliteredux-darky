@@ -2,7 +2,7 @@
 id: 617
 name: Rockhard Will
 status: ai-generated
-character_count: 300
+character_count: 299
 ---
 
 # Rockhard Will - Ability ID 617

@@ -2,7 +2,7 @@
 id: 142
 name: Overcoat
 status: ai-generated
-character_count: 289
+character_count: 253
 ---
 
 # Overcoat - Ability ID 142

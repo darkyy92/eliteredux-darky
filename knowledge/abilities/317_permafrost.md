@@ -2,7 +2,7 @@
 id: 317
 name: Permafrost
 status: ai-generated
-character_count: 293
+character_count: 292
 ---
 
 # Permafrost - Ability ID 317

@@ -2,7 +2,7 @@
 id: 279
 name: Immolate
 status: ai-generated
-character_count: 295
+character_count: 289
 ---
 
 # Immolate - Ability ID 279

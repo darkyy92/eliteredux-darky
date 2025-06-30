@@ -2,7 +2,7 @@
 id: 811
 name: Drake Of Rage
 status: ai-generated
-character_count: 297
+character_count: 263
 ---
 
 # Drake Of Rage - Ability ID 811

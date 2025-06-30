@@ -2,7 +2,7 @@
 id: 633
 name: Ice Downfall
 status: ai-generated
-character_count: 280
+character_count: 279
 ---
 
 # Ice Downfall - Ability ID 633

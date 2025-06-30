@@ -2,7 +2,7 @@
 id: 227
 name: Psychic Surge
 status: ai-generated
-character_count: 273
+character_count: 272
 ---
 
 # Psychic Surge - Ability ID 227

@@ -2,7 +2,7 @@
 id: 110
 name: Tinted Lens
 status: ai-generated
-character_count: 293
+character_count: 285
 ---
 
 # Tinted Lens - Ability ID 110

@@ -2,7 +2,7 @@
 id: 523
 name: Grappler
 status: ai-generated
-character_count: 294
+character_count: 260
 ---
 
 # Grappler - Ability ID 523

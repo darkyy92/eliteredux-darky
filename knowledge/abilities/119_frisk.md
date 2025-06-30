@@ -2,7 +2,7 @@
 id: 119
 name: Frisk
 status: ai-generated
-character_count: 282
+character_count: 280
 ---
 
 # Frisk - Ability ID 119

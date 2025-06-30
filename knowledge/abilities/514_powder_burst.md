@@ -2,7 +2,7 @@
 id: 514
 name: Powder Burst
 status: ai-generated
-character_count: 296
+character_count: 266
 ---
 
 # Powder Burst - Ability ID 514

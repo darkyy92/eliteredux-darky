@@ -2,7 +2,7 @@
 id: 252
 name: Steely Spirit
 status: ai-generated
-character_count: 285
+character_count: 271
 ---
 
 # Steely Spirit - Ability ID 252

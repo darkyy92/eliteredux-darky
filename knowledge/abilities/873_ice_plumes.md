@@ -2,7 +2,7 @@
 id: 873
 name: Ice Plumes
 status: ai-generated
-character_count: 297
+character_count: 298
 ---
 
 # Ice Plumes - Ability ID 873

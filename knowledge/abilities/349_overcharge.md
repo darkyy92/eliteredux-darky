@@ -2,7 +2,7 @@
 id: 349
 name: Overcharge
 status: ai-generated
-character_count: 292
+character_count: 296
 ---
 
 # Overcharge - Ability ID 349

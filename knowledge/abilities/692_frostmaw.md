@@ -2,7 +2,7 @@
 id: 692
 name: Frostmaw
 status: ai-generated
-character_count: 295
+character_count: 270
 ---
 
 # Frostmaw - Ability ID 692

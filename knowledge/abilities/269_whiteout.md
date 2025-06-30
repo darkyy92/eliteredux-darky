@@ -2,7 +2,7 @@
 id: 269
 name: Whiteout
 status: ai-generated
-character_count: 284
+character_count: 233
 ---
 
 # Whiteout - Ability ID 269

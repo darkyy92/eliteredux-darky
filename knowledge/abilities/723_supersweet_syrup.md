@@ -2,7 +2,7 @@
 id: 723
 name: Supersweet Syrup
 status: ai-generated
-character_count: 293
+character_count: 251
 ---
 
 # Supersweet Syrup - Ability ID 723

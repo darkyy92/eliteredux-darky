@@ -2,7 +2,7 @@
 id: 860
 name: Haste Makes Waste
 status: ai-generated
-character_count: 299
+character_count: 252
 ---
 
 # Haste Makes Waste - Ability ID 860

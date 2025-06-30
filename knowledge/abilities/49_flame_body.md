@@ -2,7 +2,7 @@
 id: 49
 name: Flame Body
 status: ai-generated
-character_count: 289
+character_count: 291
 ---
 
 # Flame Body - Ability ID 49

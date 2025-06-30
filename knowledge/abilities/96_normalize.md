@@ -2,7 +2,7 @@
 id: 96
 name: Normalize
 status: ai-generated
-character_count: 293
+character_count: 291
 ---
 
 # Normalize - Ability ID 96

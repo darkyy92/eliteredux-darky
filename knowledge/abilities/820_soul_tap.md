@@ -2,7 +2,7 @@
 id: 820
 name: Soul Tap
 status: ai-generated
-character_count: 292
+character_count: 337
 ---
 
 # Soul Tap - Ability ID 820

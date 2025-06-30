@@ -2,7 +2,7 @@
 id: 365
 name: Lunar Eclipse
 status: ai-generated
-character_count: 285
+character_count: 261
 ---
 
 # Lunar Eclipse - Ability ID 365

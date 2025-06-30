@@ -2,7 +2,7 @@
 id: 806
 name: Super Sniper
 status: ai-generated
-character_count: 289
+character_count: 277
 ---
 
 # Super Sniper - Ability ID 806

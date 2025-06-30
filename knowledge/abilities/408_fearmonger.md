@@ -2,7 +2,7 @@
 id: 408
 name: Fearmonger
 status: ai-generated
-character_count: 296
+character_count: 290
 ---
 
 # Fearmonger - Ability ID 408

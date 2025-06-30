@@ -2,7 +2,7 @@
 id: 536
 name: Blood Price
 status: ai-generated
-character_count: 291
+character_count: 276
 ---
 
 # Blood Price - Ability ID 536

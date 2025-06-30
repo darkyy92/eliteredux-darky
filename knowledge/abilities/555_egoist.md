@@ -2,7 +2,7 @@
 id: 555
 name: Egoist
 status: ai-generated
-character_count: 290
+character_count: 277
 ---
 
 # Egoist - Ability ID 555

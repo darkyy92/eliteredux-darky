@@ -2,7 +2,7 @@
 id: 743
 name: Cutthroat
 status: ai-generated
-character_count: 287
+character_count: 261
 ---
 
 # Cutthroat - Ability ID 743

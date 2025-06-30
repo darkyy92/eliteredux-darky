@@ -2,7 +2,7 @@
 id: 351
 name: Flaming Soul
 status: extended
-character_count: 286
+character_count: 279
 ---
 
 # Flaming Soul - Ability ID 351

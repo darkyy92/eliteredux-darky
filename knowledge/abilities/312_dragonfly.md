@@ -2,7 +2,7 @@
 id: 312
 name: Dragonfly
 status: ai-generated
-character_count: 295
+character_count: 245
 ---
 
 # Dragonfly - Ability ID 312

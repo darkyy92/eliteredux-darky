@@ -2,7 +2,7 @@
 id: 869
 name: Blistering Sun
 status: ai-generated
-character_count: 284
+character_count: 286
 ---
 
 # Blistering Sun - Ability ID 869

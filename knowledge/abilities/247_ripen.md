@@ -2,7 +2,7 @@
 id: 247
 name: Ripen
 status: ai-generated
-character_count: 282
+character_count: 264
 ---
 
 # Ripen - Ability ID 247

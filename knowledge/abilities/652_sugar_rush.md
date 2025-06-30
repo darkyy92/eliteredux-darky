@@ -2,7 +2,7 @@
 id: 652
 name: Sugar Rush
 status: ai-generated
-character_count: 285
+character_count: 261
 ---
 
 # Sugar Rush - Ability ID 652

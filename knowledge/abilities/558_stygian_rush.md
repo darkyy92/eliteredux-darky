@@ -2,7 +2,7 @@
 id: 558
 name: Stygian Rush
 status: ai-generated
-character_count: 291
+character_count: 266
 ---
 
 # Stygian Rush - Ability ID 558

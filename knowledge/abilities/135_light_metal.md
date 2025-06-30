@@ -2,7 +2,7 @@
 id: 135
 name: Light Metal
 status: ai-generated
-character_count: 299
+character_count: 319
 ---
 
 # Light Metal - Ability ID 135

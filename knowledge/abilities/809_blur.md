@@ -2,7 +2,7 @@
 id: 809
 name: Blur
 status: ai-generated
-character_count: 290
+character_count: 278
 ---
 
 # Blur - Ability ID 809

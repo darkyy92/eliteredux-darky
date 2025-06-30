@@ -2,7 +2,7 @@
 id: 436
 name: Atlas
 status: ai-generated
-character_count: 295
+character_count: 260
 ---
 
 # Atlas - Ability ID 436

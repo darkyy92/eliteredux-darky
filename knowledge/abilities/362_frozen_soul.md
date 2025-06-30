@@ -2,7 +2,7 @@
 id: 362
 name: Frozen Soul
 status: ai-generated
-character_count: 299
+character_count: 284
 ---
 
 # Frozen Soul - Ability ID 362

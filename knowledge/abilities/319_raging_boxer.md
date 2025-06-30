@@ -2,7 +2,7 @@
 id: 319
 name: Raging Boxer
 status: ai-generated
-character_count: 281
+character_count: 280
 ---
 
 # Raging Boxer - Ability ID 319

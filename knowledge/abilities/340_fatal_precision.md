@@ -2,7 +2,7 @@
 id: 340
 name: Fatal Precision
 status: ai-generated
-character_count: 295
+character_count: 294
 ---
 
 # Fatal Precision - Ability ID 340

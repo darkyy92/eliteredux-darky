@@ -2,7 +2,7 @@
 id: 178
 name: Mega Launcher
 status: ai-generated
-character_count: 284
+character_count: 281
 ---
 
 # Mega Launcher - Ability ID 178

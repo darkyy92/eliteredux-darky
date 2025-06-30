@@ -2,7 +2,7 @@
 id: 550
 name: Wind Power
 status: ai-generated
-character_count: 298
+character_count: 291
 ---
 
 # Wind Power - Ability ID 550

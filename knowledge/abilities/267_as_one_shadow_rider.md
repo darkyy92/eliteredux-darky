@@ -2,7 +2,7 @@
 id: 267
 name: As One Shadow Rider
 status: ai-generated
-character_count: 292
+character_count: 264
 ---
 
 # As One Shadow Rider - Ability ID 267

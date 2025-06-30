@@ -2,7 +2,7 @@
 id: 258
 name: Hunger Switch
 status: ai-generated
-character_count: 282
+character_count: 261
 ---
 
 # Hunger Switch - Ability ID 258

@@ -2,7 +2,7 @@
 id: 695
 name: Slipstream
 status: ai-generated
-character_count: 284
+character_count: 283
 ---
 
 # Slipstream - Ability ID 695

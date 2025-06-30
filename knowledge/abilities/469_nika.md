@@ -2,7 +2,7 @@
 id: 469
 name: Nika
 status: ai-generated
-character_count: 295
+character_count: 269
 ---
 
 # Nika - Ability ID 469

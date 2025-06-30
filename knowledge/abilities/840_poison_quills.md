@@ -2,7 +2,7 @@
 id: 840
 name: Poison Quills
 status: ai-generated
-character_count: 294
+character_count: 327
 ---
 
 # Poison Quills - Ability ID 840

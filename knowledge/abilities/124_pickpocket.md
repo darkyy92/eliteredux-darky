@@ -2,7 +2,7 @@
 id: 124
 name: Pickpocket
 status: ai-generated
-character_count: 293
+character_count: 283
 ---
 
 # Pickpocket - Ability ID 124

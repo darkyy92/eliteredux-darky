@@ -2,7 +2,7 @@
 id: 234
 name: Intrepid Sword
 status: ai-generated
-character_count: 287
+character_count: 245
 ---
 
 # Intrepid Sword - Ability ID 234

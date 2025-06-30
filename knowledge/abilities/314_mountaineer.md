@@ -2,7 +2,7 @@
 id: 314
 name: Mountaineer
 status: ai-generated
-character_count: 289
+character_count: 288
 ---
 
 # Mountaineer - Ability ID 314

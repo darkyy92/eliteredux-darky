@@ -2,7 +2,7 @@
 id: 197
 name: Shields Down
 status: ai-generated
-character_count: 289
+character_count: 301
 ---
 
 # Shields Down - Ability ID 197

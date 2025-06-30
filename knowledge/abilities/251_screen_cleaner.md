@@ -2,7 +2,7 @@
 id: 251
 name: Screen Cleaner
 status: ai-generated
-character_count: 291
+character_count: 255
 ---
 
 # Screen Cleaner - Ability ID 251

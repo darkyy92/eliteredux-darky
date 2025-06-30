@@ -2,7 +2,7 @@
 id: 624
 name: Snow Song
 status: ai-generated
-character_count: 299
+character_count: 297
 ---
 
 # Snow Song - Ability ID 624

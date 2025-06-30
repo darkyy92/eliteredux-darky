@@ -2,7 +2,7 @@
 id: 778
 name: Venom Crown
 status: ai-generated
-character_count: 284
+character_count: 201
 ---
 
 # Venom Crown - Ability ID 778

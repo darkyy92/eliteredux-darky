@@ -2,7 +2,7 @@
 id: 163
 name: Turboblaze
 status: ai-generated
-character_count: 284
+character_count: 283
 ---
 
 # Turboblaze - Ability ID 163

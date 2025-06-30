@@ -2,7 +2,7 @@
 id: 625
 name: Greater Spirit
 status: ai-generated
-character_count: 280
+character_count: 279
 ---
 
 # Greater Spirit - Ability ID 625

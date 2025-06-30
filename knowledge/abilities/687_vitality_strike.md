@@ -2,7 +2,7 @@
 id: 687
 name: Vitality Strike
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Vitality Strike - Ability ID 687

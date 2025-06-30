@@ -2,7 +2,7 @@
 id: 771
 name: Forsaken Heart
 status: ai-generated
-character_count: 291
+character_count: 261
 ---
 
 # Forsaken Heart - Ability ID 771

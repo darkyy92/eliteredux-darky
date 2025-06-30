@@ -2,7 +2,7 @@
 id: 238
 name: Cotton Down
 status: ai-generated
-character_count: 295
+character_count: 258
 ---
 
 # Cotton Down - Ability ID 238

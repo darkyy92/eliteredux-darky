@@ -2,7 +2,7 @@
 id: 158
 name: Prankster
 status: ai-generated
-character_count: 295
+character_count: 288
 ---
 
 # Prankster - Ability ID 158

@@ -2,7 +2,7 @@
 id: 620
 name: Old Mariner
 status: ai-generated
-character_count: 284
+character_count: 281
 ---
 
 # Old Mariner - Ability ID 620

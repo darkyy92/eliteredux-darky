@@ -2,7 +2,7 @@
 id: 422
 name: Gifted Mind
 status: ai-generated
-character_count: 286
+character_count: 263
 ---
 
 # Gifted Mind - Ability ID 422

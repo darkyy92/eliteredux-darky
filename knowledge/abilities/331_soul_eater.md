@@ -2,7 +2,7 @@
 id: 331
 name: Soul Eater
 status: ai-generated
-character_count: 288
+character_count: 287
 ---
 
 # Soul Eater - Ability ID 331

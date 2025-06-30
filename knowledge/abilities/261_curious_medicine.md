@@ -2,7 +2,7 @@
 id: 261
 name: Curious Medicine
 status: ai-generated
-character_count: 290
+character_count: 238
 ---
 
 # Curious Medicine - Ability ID 261

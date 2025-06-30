@@ -2,7 +2,7 @@
 id: 384
 name: Low Blow
 status: ai-generated
-character_count: 285
+character_count: 271
 ---
 
 # Low Blow - Ability ID 384

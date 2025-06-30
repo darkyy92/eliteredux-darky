@@ -2,7 +2,7 @@
 id: 681
 name: Atomic Punch
 status: ai-generated
-character_count: 289
+character_count: 307
 ---
 
 # Atomic Punch - Ability ID 681

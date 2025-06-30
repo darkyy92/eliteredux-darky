@@ -2,7 +2,7 @@
 id: 761
 name: Rose Garden
 status: ai-generated
-character_count: 297
+character_count: 264
 ---
 
 # Rose Garden - Ability ID 761

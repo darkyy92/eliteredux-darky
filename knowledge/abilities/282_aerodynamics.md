@@ -2,7 +2,7 @@
 id: 282
 name: Aerodynamics
 status: ai-generated
-character_count: 293
+character_count: 287
 ---
 
 # Aerodynamics - Ability ID 282

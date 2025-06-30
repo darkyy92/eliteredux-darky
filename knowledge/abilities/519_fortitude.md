@@ -2,7 +2,7 @@
 id: 519
 name: Fortitude
 status: ai-generated
-character_count: 290
+character_count: 256
 ---
 
 # Fortitude - Ability ID 519

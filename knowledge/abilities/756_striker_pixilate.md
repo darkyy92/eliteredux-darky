@@ -2,7 +2,7 @@
 id: 756
 name: Striker Pixilate
 status: ai-generated
-character_count: 289
+character_count: 261
 ---
 
 # Striker Pixilate - Ability ID 756

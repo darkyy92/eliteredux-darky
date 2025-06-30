@@ -2,7 +2,7 @@
 id: 439
 name: Angel's Wrath
 status: ai-generated
-character_count: 295
+character_count: 299
 ---
 
 # Angel's Wrath - Ability ID 439

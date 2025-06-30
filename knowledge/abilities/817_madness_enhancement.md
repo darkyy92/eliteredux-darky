@@ -2,7 +2,7 @@
 id: 817
 name: Madness Enhancement (N)
 status: ai-generated
-character_count: 295
+character_count: 266
 ---
 
 # Madness Enhancement (N) - Ability ID 817

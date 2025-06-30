@@ -2,7 +2,7 @@
 id: 162
 name: Victory Star
 status: ai-generated
-character_count: 294
+character_count: 293
 ---
 
 # Victory Star - Ability ID 162

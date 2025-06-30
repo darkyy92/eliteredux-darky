@@ -2,7 +2,7 @@
 id: 549
 name: Quark Drive
 status: ai-generated
-character_count: 295
+character_count: 286
 ---
 
 # Quark Drive - Ability ID 549

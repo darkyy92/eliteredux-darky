@@ -2,7 +2,7 @@
 id: 391
 name: Hardened Sheath
 status: ai-generated
-character_count: 293
+character_count: 269
 ---
 
 # Hardened Sheath - Ability ID 391

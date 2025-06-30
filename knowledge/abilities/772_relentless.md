@@ -2,7 +2,7 @@
 id: 772
 name: Relentless
 status: ai-generated
-character_count: 289
+character_count: 250
 ---
 
 # Relentless - Ability ID 772

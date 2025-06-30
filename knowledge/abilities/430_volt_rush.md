@@ -2,7 +2,7 @@
 id: 430
 name: Volt Rush
 status: ai-generated
-character_count: 289
+character_count: 283
 ---
 
 # Volt Rush - Ability ID 430

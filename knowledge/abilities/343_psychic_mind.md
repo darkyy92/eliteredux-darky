@@ -2,7 +2,7 @@
 id: 343
 name: Psychic Mind
 status: ai-generated
-character_count: 289
+character_count: 272
 ---
 
 # Psychic Mind - Ability ID 343

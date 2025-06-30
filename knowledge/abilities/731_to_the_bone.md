@@ -2,7 +2,7 @@
 id: 731
 name: To The Bone
 status: ai-generated
-character_count: 285
+character_count: 252
 ---
 
 # To The Bone - Ability ID 731

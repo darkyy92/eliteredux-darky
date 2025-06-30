@@ -2,7 +2,7 @@
 id: 225
 name: RKS System
 status: ai-generated
-character_count: 266
+character_count: 265
 ---
 
 # RKS System - Ability ID 225

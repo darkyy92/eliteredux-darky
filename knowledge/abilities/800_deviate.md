@@ -2,7 +2,7 @@
 id: 800
 name: Deviate
 status: ai-generated
-character_count: 293
+character_count: 282
 ---
 
 # Deviate - Ability ID 800

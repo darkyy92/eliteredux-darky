@@ -2,7 +2,7 @@
 id: 127
 name: Unnerve
 status: ai-generated
-character_count: 290
+character_count: 289
 ---
 
 # Unnerve - Ability ID 127

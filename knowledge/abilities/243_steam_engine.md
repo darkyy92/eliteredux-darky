@@ -2,7 +2,7 @@
 id: 243
 name: Steam Engine
 status: ai-generated
-character_count: 286
+character_count: 266
 ---
 
 # Steam Engine - Ability ID 243

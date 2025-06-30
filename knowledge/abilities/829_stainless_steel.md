@@ -2,7 +2,7 @@
 id: 829
 name: Stainless Steel
 status: ai-generated
-character_count: 297
+character_count: 329
 ---
 
 # Stainless Steel - Ability ID 829

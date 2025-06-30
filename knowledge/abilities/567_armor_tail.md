@@ -2,7 +2,7 @@
 id: 567
 name: Armor Tail
 status: ai-generated
-character_count: 297
+character_count: 290
 ---
 
 # Armor Tail - Ability ID 567

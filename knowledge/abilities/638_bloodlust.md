@@ -2,7 +2,7 @@
 id: 638
 name: Bloodlust
 status: ai-generated
-character_count: 295
+character_count: 319
 ---
 
 # Bloodlust - Ability ID 638

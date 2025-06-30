@@ -2,7 +2,7 @@
 id: 268
 name: Chloroplast
 status: ai-generated
-character_count: 295
+character_count: 251
 ---
 
 # Chloroplast - Ability ID 268

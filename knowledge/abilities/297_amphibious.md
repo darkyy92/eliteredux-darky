@@ -2,7 +2,7 @@
 id: 297
 name: Amphibious
 status: ai-generated
-character_count: 292
+character_count: 274
 ---
 
 # Amphibious - Ability ID 297

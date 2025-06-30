@@ -2,7 +2,7 @@
 id: 663
 name: Funeral Pyre
 status: ai-generated
-character_count: 299
+character_count: 290
 ---
 
 # Funeral Pyre - Ability ID 663

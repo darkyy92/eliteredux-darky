@@ -2,7 +2,7 @@
 id: 690
 name: Restraining Order
 status: ai-generated
-character_count: 293
+character_count: 368
 ---
 
 # Restraining Order - Ability ID 690

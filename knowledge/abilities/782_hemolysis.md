@@ -2,7 +2,7 @@
 id: 782
 name: Hemolysis
 status: ai-generated
-character_count: 289
+character_count: 259
 ---
 
 # Hemolysis - Ability ID 782

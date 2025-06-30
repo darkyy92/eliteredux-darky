@@ -2,7 +2,7 @@
 id: 121
 name: Multitype
 status: ai-generated
-character_count: 300
+character_count: 299
 ---
 
 # Multitype - Ability ID 121

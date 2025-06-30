@@ -2,7 +2,7 @@
 id: 725
 name: Trash Heap
 status: ai-generated
-character_count: 294
+character_count: 298
 ---
 
 # Trash Heap - Ability ID 725

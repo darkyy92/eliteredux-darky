@@ -2,7 +2,7 @@
 id: 528
 name: Crowned Shield
 status: ai-generated
-character_count: 299
+character_count: 272
 ---
 
 # Crowned Shield - Ability ID 528

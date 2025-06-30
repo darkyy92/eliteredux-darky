@@ -2,7 +2,7 @@
 id: 468
 name: Super Hot Goo
 status: ai-generated
-character_count: 295
+character_count: 287
 ---
 
 # Super Hot Goo - Ability ID 468

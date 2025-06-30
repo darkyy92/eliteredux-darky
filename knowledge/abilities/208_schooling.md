@@ -2,7 +2,7 @@
 id: 208
 name: Schooling
 status: ai-generated
-character_count: 295
+character_count: 274
 ---
 
 # Schooling - Ability ID 208

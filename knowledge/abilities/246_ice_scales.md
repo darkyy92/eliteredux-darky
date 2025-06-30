@@ -2,7 +2,7 @@
 id: 246
 name: Ice Scales
 status: ai-generated
-character_count: 292
+character_count: 274
 ---
 
 # Ice Scales - Ability ID 246

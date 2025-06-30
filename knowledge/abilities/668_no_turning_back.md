@@ -2,7 +2,7 @@
 id: 668
 name: No Turning Back
 status: ai-generated
-character_count: 285
+character_count: 284
 ---
 
 # No Turning Back - Ability ID 668

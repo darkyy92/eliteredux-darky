@@ -2,7 +2,7 @@
 id: 703
 name: Rage Point
 status: ai-generated
-character_count: 295
+character_count: 249
 ---
 
 # Rage Point - Ability ID 703

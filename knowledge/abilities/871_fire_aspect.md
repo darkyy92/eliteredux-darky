@@ -2,7 +2,7 @@
 id: 871
 name: Fire Aspect
 status: ai-generated
-character_count: 293
+character_count: 282
 ---
 
 # Fire Aspect - Ability ID 871

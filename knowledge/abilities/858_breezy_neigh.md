@@ -2,7 +2,7 @@
 id: 858
 name: Breezy Neigh
 status: ai-generated
-character_count: 287
+character_count: 331
 ---
 
 # Breezy Neigh - Ability ID 858

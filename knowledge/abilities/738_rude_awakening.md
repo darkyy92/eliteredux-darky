@@ -2,7 +2,7 @@
 id: 738
 name: Rude Awakening
 status: ai-generated
-character_count: 289
+character_count: 263
 ---
 
 # Rude Awakening - Ability ID 738

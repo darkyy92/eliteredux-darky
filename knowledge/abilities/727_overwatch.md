@@ -2,7 +2,7 @@
 id: 727
 name: Overwatch
 status: ai-generated
-character_count: 297
+character_count: 282
 ---
 
 # Overwatch - Ability ID 727

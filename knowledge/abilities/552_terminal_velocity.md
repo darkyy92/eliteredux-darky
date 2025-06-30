@@ -2,7 +2,7 @@
 id: 552
 name: Terminal Velocity
 status: ai-generated
-character_count: 298
+character_count: 313
 ---
 
 # Terminal Velocity - Ability ID 552

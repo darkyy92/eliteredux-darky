@@ -2,7 +2,7 @@
 id: 648
 name: On the Prowl
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # On the Prowl - Ability ID 648

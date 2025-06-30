@@ -2,7 +2,7 @@
 id: 295
 name: Loud Bang
 status: ai-generated
-character_count: 287
+character_count: 266
 ---
 
 # Loud Bang - Ability ID 295

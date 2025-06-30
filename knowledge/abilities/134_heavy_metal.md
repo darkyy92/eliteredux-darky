@@ -2,7 +2,7 @@
 id: 134
 name: Heavy Metal
 status: ai-generated
-character_count: 298
+character_count: 271
 ---
 
 # Heavy Metal - Ability ID 134

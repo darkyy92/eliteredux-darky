@@ -2,7 +2,7 @@
 id: 123
 name: Bad Dreams
 status: ai-generated
-character_count: 297
+character_count: 256
 ---
 
 # Bad Dreams - Ability ID 123

@@ -2,7 +2,7 @@
 id: 226
 name: Electric Surge
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Electric Surge - Ability ID 226

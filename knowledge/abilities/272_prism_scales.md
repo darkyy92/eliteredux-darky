@@ -2,7 +2,7 @@
 id: 272
 name: Prism Scales
 status: ai-generated
-character_count: 284
+character_count: 299
 ---
 
 # Prism Scales - Ability ID 272

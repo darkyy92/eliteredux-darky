@@ -2,7 +2,7 @@
 id: 757
 name: Doom Blast
 status: ai-generated
-character_count: 295
+character_count: 276
 ---
 
 # Doom Blast - Ability ID 757

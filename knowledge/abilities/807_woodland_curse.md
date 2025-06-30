@@ -2,7 +2,7 @@
 id: 807
 name: Woodland Curse
 status: ai-generated
-character_count: 288
+character_count: 261
 ---
 
 # Woodland Curse - Ability ID 807

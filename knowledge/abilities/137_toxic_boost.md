@@ -2,7 +2,7 @@
 id: 137
 name: Toxic Boost
 status: ai-generated
-character_count: 294
+character_count: 290
 ---
 
 # Toxic Boost - Ability ID 137

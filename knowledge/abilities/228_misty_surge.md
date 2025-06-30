@@ -2,7 +2,7 @@
 id: 228
 name: Misty Surge
 status: ai-generated
-character_count: 295
+character_count: 290
 ---
 
 # Misty Surge - Ability ID 228

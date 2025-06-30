@@ -2,7 +2,7 @@
 id: 489
 name: Enlightened
 status: ai-generated
-character_count: 299
+character_count: 287
 ---
 
 # Enlightened - Ability ID 489

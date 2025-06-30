@@ -2,7 +2,7 @@
 id: 788
 name: Glacial Rage
 status: ai-generated
-character_count: 297
+character_count: 234
 ---
 
 # Glacial Rage - Ability ID 788

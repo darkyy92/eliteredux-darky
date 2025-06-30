@@ -2,7 +2,7 @@
 id: 346
 name: Twisted Dimension
 status: ai-generated
-character_count: 294
+character_count: 298
 ---
 
 # Twisted Dimension - Ability ID 346

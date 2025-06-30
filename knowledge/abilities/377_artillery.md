@@ -2,7 +2,7 @@
 id: 377
 name: Artillery
 status: ai-generated
-character_count: 280
+character_count: 268
 ---
 
 # Artillery - Ability ID 377

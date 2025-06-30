@@ -2,7 +2,7 @@
 id: 107
 name: Anticipation
 status: ai-generated
-character_count: 285
+character_count: 287
 ---
 
 # Anticipation - Ability ID 107

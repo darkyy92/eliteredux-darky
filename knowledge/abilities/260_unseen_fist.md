@@ -2,7 +2,7 @@
 id: 260
 name: Unseen Fist
 status: ai-generated
-character_count: 299
+character_count: 272
 ---
 
 # Unseen Fist - Ability ID 260

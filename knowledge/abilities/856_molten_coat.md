@@ -2,7 +2,7 @@
 id: 856
 name: Molten Coat
 status: ai-generated
-character_count: 295
+character_count: 324
 ---
 
 # Molten Coat - Ability ID 856

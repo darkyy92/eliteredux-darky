@@ -2,7 +2,7 @@
 id: 335
 name: Haunted Spirit
 status: ai-generated
-character_count: 297
+character_count: 296
 ---
 
 # Haunted Spirit - Ability ID 335

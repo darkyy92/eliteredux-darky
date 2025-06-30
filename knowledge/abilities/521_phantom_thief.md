@@ -2,7 +2,7 @@
 id: 521
 name: Phantom Thief
 status: ai-generated
-character_count: 295
+character_count: 270
 ---
 
 # Phantom Thief - Ability ID 521

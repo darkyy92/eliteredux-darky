@@ -2,7 +2,7 @@
 id: 428
 name: Cheap Tactics
 status: ai-generated
-character_count: 297
+character_count: 311
 ---
 
 # Cheap Tactics - Ability ID 428

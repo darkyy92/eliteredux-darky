@@ -2,7 +2,7 @@
 id: 189
 name: Primordial Sea
 status: ai-generated
-character_count: 263
+character_count: 262
 ---
 
 # Primordial Sea - Ability ID 189

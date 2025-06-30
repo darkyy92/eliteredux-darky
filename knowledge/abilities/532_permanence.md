@@ -2,7 +2,7 @@
 id: 532
 name: Permanence
 status: ai-generated
-character_count: 288
+character_count: 266
 ---
 
 # Permanence - Ability ID 532

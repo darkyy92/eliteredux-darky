@@ -2,7 +2,7 @@
 id: 341
 name: Fort Knox
 status: ai-generated
-character_count: 299
+character_count: 260
 ---
 
 # Fort Knox - Ability ID 341

@@ -2,7 +2,7 @@
 id: 318
 name: Primal Armor
 status: ai-generated
-character_count: 298
+character_count: 297
 ---
 
 # Primal Armor - Ability ID 318

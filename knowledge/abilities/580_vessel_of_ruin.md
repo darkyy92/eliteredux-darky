@@ -2,7 +2,7 @@
 id: 580
 name: Vessel Of Ruin
 status: ai-generated
-character_count: 294
+character_count: 263
 ---
 
 # Vessel Of Ruin - Ability ID 580

@@ -2,7 +2,7 @@
 id: 368
 name: Sighting System
 status: ai-generated
-character_count: 290
+character_count: 255
 ---
 
 # Sighting System - Ability ID 368

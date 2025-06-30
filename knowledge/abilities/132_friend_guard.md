@@ -2,7 +2,7 @@
 id: 132
 name: Friend Guard
 status: ai-generated
-character_count: 291
+character_count: 294
 ---
 
 # Friend Guard - Ability ID 132

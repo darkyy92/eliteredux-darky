@@ -2,7 +2,7 @@
 id: 707
 name: Gleam Eyes
 status: ai-generated
-character_count: 284
+character_count: 282
 ---
 
 # Gleam Eyes - Ability ID 707

@@ -2,7 +2,7 @@
 id: 122
 name: Flower Gift
 status: ai-generated
-character_count: 294
+character_count: 383
 ---
 
 # Flower Gift - Ability ID 122

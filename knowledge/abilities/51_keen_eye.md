@@ -2,7 +2,7 @@
 id: 51
 name: Keen Eye
 status: ai-generated
-character_count: 288
+character_count: 322
 ---
 
 # Keen Eye - Ability ID 51

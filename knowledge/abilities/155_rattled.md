@@ -2,7 +2,7 @@
 id: 155
 name: Rattled
 status: ai-generated
-character_count: 297
+character_count: 312
 ---
 
 # Rattled - Ability ID 155

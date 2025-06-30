@@ -2,7 +2,7 @@
 id: 554
 name: Anger Shell
 status: ai-generated
-character_count: 293
+character_count: 267
 ---
 
 # Anger Shell - Ability ID 554

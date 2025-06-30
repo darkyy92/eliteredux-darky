@@ -2,7 +2,7 @@
 id: 628
 name: Cute Antecedence
 status: ai-generated
-character_count: 292
+character_count: 285
 ---
 
 # Cute Antecedence - Ability ID 628

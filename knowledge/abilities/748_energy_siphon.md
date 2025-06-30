@@ -2,7 +2,7 @@
 id: 748
 name: Energy Siphon
 status: ai-generated
-character_count: 287
+character_count: 268
 ---
 
 # Energy Siphon - Ability ID 748

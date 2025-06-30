@@ -2,7 +2,7 @@
 id: 704
 name: Hot Coals
 status: ai-generated
-character_count: 295
+character_count: 276
 ---
 
 # Hot Coals - Ability ID 704

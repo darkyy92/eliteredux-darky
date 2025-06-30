@@ -2,7 +2,7 @@
 id: 870
 name: Molten Core
 status: ai-generated
-character_count: 295
+character_count: 266
 ---
 
 # Molten Core - Ability ID 870

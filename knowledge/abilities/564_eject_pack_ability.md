@@ -2,7 +2,7 @@
 id: 564
 name: Eject Pack Ability
 status: ai-generated
-character_count: 289
+character_count: 274
 ---
 
 # Eject Pack Ability - Ability ID 564

@@ -2,7 +2,7 @@
 id: 608
 name: Toxic Chain
 status: ai-generated
-character_count: 287
+character_count: 289
 ---
 
 # Toxic Chain - Ability ID 608

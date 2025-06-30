@@ -2,7 +2,7 @@
 id: 808
 name: Malodor
 status: ai-generated
-character_count: 294
+character_count: 276
 ---
 
 # Malodor - Ability ID 808

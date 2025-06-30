@@ -2,7 +2,7 @@
 id: 420
 name: Primal Maw
 status: ai-generated
-character_count: 294
+character_count: 258
 ---
 
 # Primal Maw - Ability ID 420

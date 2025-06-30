@@ -2,7 +2,7 @@
 id: 736
 name: Deep Cuts
 status: ai-generated
-character_count: 295
+character_count: 263
 ---
 
 # Deep Cuts - Ability ID 736

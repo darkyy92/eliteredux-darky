@@ -2,7 +2,7 @@
 id: 546
 name: Salt Circle
 status: ai-generated
-character_count: 288
+character_count: 262
 ---
 
 # Salt Circle - Ability ID 546

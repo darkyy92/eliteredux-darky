@@ -2,7 +2,7 @@
 id: 775
 name: Flame Coat
 status: ai-generated
-character_count: 293
+character_count: 266
 ---
 
 # Flame Coat - Ability ID 775

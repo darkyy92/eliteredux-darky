@@ -2,7 +2,7 @@
 id: 438
 name: Jaws of Carnage
 status: ai-generated
-character_count: 287
+character_count: 265
 ---
 
 # Jaws of Carnage - Ability ID 438

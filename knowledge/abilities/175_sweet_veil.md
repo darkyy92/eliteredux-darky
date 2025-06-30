@@ -2,7 +2,7 @@
 id: 175
 name: Sweet Veil
 status: ai-generated
-character_count: 292
+character_count: 294
 ---
 
 # Sweet Veil - Ability ID 175

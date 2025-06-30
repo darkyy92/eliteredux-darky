@@ -2,7 +2,7 @@
 id: 593
 name: Molten Blades
 status: ai-generated
-character_count: 300
+character_count: 324
 ---
 
 # Molten Blades - Ability ID 593

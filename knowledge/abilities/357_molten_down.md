@@ -2,7 +2,7 @@
 id: 357
 name: Molten Down
 status: ai-generated
-character_count: 285
+character_count: 376
 ---
 
 # Molten Down - Ability ID 357

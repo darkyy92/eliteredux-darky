@@ -2,7 +2,7 @@
 id: 584
 name: Orichalcum Pulse
 status: ai-generated
-character_count: 292
+character_count: 272
 ---
 
 # Orichalcum Pulse - Ability ID 584

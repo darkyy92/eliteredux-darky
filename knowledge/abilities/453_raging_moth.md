@@ -2,7 +2,7 @@
 id: 453
 name: Raging Moth
 status: ai-generated
-character_count: 296
+character_count: 295
 ---
 
 # Raging Moth - Ability ID 453

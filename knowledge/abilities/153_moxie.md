@@ -2,7 +2,7 @@
 id: 153
 name: Moxie
 status: ai-generated
-character_count: 286
+character_count: 283
 ---
 
 # Moxie - Ability ID 153

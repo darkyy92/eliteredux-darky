@@ -2,7 +2,7 @@
 id: 364
 name: Looter
 status: ai-generated
-character_count: 292
+character_count: 287
 ---
 
 # Looter - Ability ID 364

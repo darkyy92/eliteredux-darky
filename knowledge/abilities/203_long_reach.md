@@ -2,7 +2,7 @@
 id: 203
 name: Long Reach
 status: ai-generated
-character_count: 292
+character_count: 272
 ---
 
 # Long Reach - Ability ID 203

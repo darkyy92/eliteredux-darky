@@ -2,7 +2,7 @@
 id: 708
 name: Roused Fangs
 status: ai-generated
-character_count: 294
+character_count: 263
 ---
 
 # Roused Fangs - Ability ID 708

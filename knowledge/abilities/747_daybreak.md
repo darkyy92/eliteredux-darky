@@ -2,7 +2,7 @@
 id: 747
 name: Daybreak
 status: ai-generated
-character_count: 284
+character_count: 255
 ---
 
 # Daybreak - Ability ID 747

@@ -2,7 +2,7 @@
 id: 634
 name: Last Stand
 status: ai-generated
-character_count: 285
+character_count: 295
 ---
 
 # Last Stand - Ability ID 634

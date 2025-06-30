@@ -2,7 +2,7 @@
 id: 159
 name: Sand Force
 status: ai-generated
-character_count: 288
+character_count: 285
 ---
 
 # Sand Force - Ability ID 159

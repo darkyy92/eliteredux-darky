@@ -2,7 +2,7 @@
 id: 224
 name: Beast Boost
 status: ai-generated
-character_count: 298
+character_count: 295
 ---
 
 # Beast Boost - Ability ID 224

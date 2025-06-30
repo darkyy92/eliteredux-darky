@@ -2,7 +2,7 @@
 id: 851
 name: Komodo
 status: ai-generated
-character_count: 287
+character_count: 275
 ---
 
 # Komodo - Ability ID 851

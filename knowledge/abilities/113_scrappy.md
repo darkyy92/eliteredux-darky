@@ -2,7 +2,7 @@
 id: 113
 name: Scrappy
 status: ai-generated
-character_count: 287
+character_count: 284
 ---
 
 # Scrappy - Ability ID 113

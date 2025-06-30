@@ -2,7 +2,7 @@
 id: 307
 name: Self Sufficient
 status: ai-generated
-character_count: 286
+character_count: 252
 ---
 
 # Self Sufficient - Ability ID 307

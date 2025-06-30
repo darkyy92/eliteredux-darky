@@ -2,7 +2,7 @@
 id: 864
 name: Chuckster (N)
 status: ai-generated
-character_count: 291
+character_count: 301
 ---
 
 # Chuckster (N) - Ability ID 864

@@ -2,7 +2,7 @@
 id: 433
 name: Dual Wield
 status: ai-generated
-character_count: 294
+character_count: 284
 ---
 
 # Dual Wield - Ability ID 433

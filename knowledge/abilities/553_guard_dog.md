@@ -2,7 +2,7 @@
 id: 553
 name: Guard Dog
 status: ai-generated
-character_count: 290
+character_count: 269
 ---
 
 # Guard Dog - Ability ID 553

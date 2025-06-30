@@ -2,7 +2,7 @@
 id: 380
 name: Sun Worship
 status: ai-generated
-character_count: 295
+character_count: 263
 ---
 
 # Sun Worship - Ability ID 380

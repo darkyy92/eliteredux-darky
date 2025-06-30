@@ -2,7 +2,7 @@
 id: 403
 name: Roundhouse
 status: ai-generated
-character_count: 289
+character_count: 281
 ---
 
 # Roundhouse - Ability ID 403

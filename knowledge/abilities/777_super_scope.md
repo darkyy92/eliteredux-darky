@@ -2,7 +2,7 @@
 id: 777
 name: Super Scope
 status: ai-generated
-character_count: 288
+character_count: 276
 ---
 
 # Super Scope - Ability ID 777

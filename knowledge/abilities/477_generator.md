@@ -2,7 +2,7 @@
 id: 477
 name: Generator
 status: ai-generated
-character_count: 292
+character_count: 275
 ---
 
 # Generator - Ability ID 477

@@ -2,7 +2,7 @@
 id: 254
 name: Wandering Spirit
 status: ai-generated
-character_count: 293
+character_count: 274
 ---
 
 # Wandering Spirit - Ability ID 254

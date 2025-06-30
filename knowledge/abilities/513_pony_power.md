@@ -2,7 +2,7 @@
 id: 513
 name: Pony Power
 status: ai-generated
-character_count: 286
+character_count: 291
 ---
 
 # Pony Power (Blade's Essence) - Ability ID 513

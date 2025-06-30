@@ -2,7 +2,7 @@
 id: 199
 name: Water Bubble
 status: ai-generated
-character_count: 295
+character_count: 260
 ---
 
 # Water Bubble - Ability ID 199

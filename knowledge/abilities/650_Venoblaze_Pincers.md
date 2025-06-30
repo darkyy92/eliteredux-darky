@@ -2,7 +2,7 @@
 id: 650
 name: Venoblaze Pincers
 status: ai-generated
-character_count: 299
+character_count: 298
 ---
 
 # Venoblaze Pincers - Ability ID 650

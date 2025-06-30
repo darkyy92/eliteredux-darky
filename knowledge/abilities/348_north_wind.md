@@ -2,7 +2,7 @@
 id: 348
 name: North Wind
 status: ai-generated
-character_count: 294
+character_count: 298
 ---
 
 # North Wind - Ability ID 348

@@ -2,7 +2,7 @@
 id: 148
 name: Analytic
 status: ai-generated
-character_count: 297
+character_count: 275
 ---
 
 # Analytic - Ability ID 148

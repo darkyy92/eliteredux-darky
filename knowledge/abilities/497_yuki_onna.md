@@ -2,7 +2,7 @@
 id: 497
 name: Yuki Onna
 status: ai-generated
-character_count: 296
+character_count: 268
 ---
 
 # Yuki Onna - Ability ID 497

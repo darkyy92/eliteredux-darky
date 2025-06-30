@@ -2,7 +2,7 @@
 id: 219
 name: Dazzling
 status: ai-generated
-character_count: 299
+character_count: 331
 ---
 
 # Dazzling - Ability ID 219

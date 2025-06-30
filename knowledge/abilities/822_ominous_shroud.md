@@ -2,7 +2,7 @@
 id: 822
 name: Ominous Shroud
 status: ai-generated
-character_count: 295
+character_count: 330
 ---
 
 # Ominous Shroud - Ability ID 822

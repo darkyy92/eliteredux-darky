@@ -2,7 +2,7 @@
 id: 459
 name: Emanate
 status: ai-generated
-character_count: 293
+character_count: 283
 ---
 
 # Emanate - Ability ID 459

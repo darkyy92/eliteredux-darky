@@ -2,7 +2,7 @@
 id: 759
 name: Faraday Cage
 status: ai-generated
-character_count: 289
+character_count: 247
 ---
 
 # Faraday Cage - Ability ID 759

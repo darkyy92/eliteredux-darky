@@ -2,7 +2,7 @@
 id: 425
 name: Absorbant
 status: ai-generated
-character_count: 287
+character_count: 265
 ---
 
 # Absorbant - Ability ID 425

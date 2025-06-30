@@ -2,7 +2,7 @@
 id: 563
 name: Commander
 status: ai-generated
-character_count: 287
+character_count: 239
 ---
 
 # Commander - Ability ID 563

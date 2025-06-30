@@ -2,7 +2,7 @@
 id: 654
 name: White Noise
 status: ai-generated
-character_count: 296
+character_count: 357
 ---
 
 # White Noise - Ability ID 654

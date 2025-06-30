@@ -2,7 +2,7 @@
 id: 281
 name: Electrocytes
 status: ai-generated
-character_count: 294
+character_count: 323
 ---
 
 # Electrocytes - Ability ID 281

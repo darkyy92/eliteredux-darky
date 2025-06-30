@@ -2,7 +2,7 @@
 id: 636
 name: Blood Bath
 status: ai-generated
-character_count: 288
+character_count: 286
 ---
 
 # Blood Bath - Ability ID 636

@@ -2,7 +2,7 @@
 id: 495
 name: Doombringer
 status: ai-generated
-character_count: 299
+character_count: 283
 ---
 
 # Doombringer - Ability ID 495

@@ -2,7 +2,7 @@
 id: 236
 name: Libero
 status: ai-generated
-character_count: 286
+character_count: 262
 ---
 
 # Libero - Ability ID 236

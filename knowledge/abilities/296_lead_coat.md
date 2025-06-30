@@ -2,7 +2,7 @@
 id: 296
 name: Lead Coat
 status: ai-generated
-character_count: 289
+character_count: 243
 ---
 
 # Lead Coat - Ability ID 296

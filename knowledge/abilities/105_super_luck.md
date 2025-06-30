@@ -2,7 +2,7 @@
 id: 105
 name: Super Luck
 status: ai-generated
-character_count: 293
+character_count: 294
 ---
 
 # Super Luck - Ability ID 105

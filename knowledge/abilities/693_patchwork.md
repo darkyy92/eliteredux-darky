@@ -2,7 +2,7 @@
 id: 693
 name: Patchwork
 status: ai-generated
-character_count: 284
+character_count: 283
 ---
 
 # Patchwork - Ability ID 693

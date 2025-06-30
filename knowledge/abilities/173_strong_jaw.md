@@ -2,7 +2,7 @@
 id: 173
 name: Strong Jaw
 status: ai-generated
-character_count: 284
+character_count: 296
 ---
 
 # Strong Jaw - Ability ID 173

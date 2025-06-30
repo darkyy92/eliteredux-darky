@@ -2,7 +2,7 @@
 id: 112
 name: Slow Start
 status: ai-generated
-character_count: 297
+character_count: 291
 ---
 
 # Slow Start - Ability ID 112

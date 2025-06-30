@@ -2,7 +2,7 @@
 id: 844
 name: Best Offense
 status: ai-generated
-character_count: 296
+character_count: 345
 ---
 
 # Best Offense - Ability ID 844

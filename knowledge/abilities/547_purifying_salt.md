@@ -2,7 +2,7 @@
 id: 547
 name: Purifying Salt
 status: ai-generated
-character_count: 287
+character_count: 293
 ---
 
 # Purifying Salt - Ability ID 547

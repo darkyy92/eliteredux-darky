@@ -2,7 +2,7 @@
 id: 596
 name: Radio Jam
 status: ai-generated
-character_count: 300
+character_count: 299
 ---
 
 # Radio Jam - Ability ID 596

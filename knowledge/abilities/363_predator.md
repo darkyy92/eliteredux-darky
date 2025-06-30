@@ -2,7 +2,7 @@
 id: 363
 name: Predator
 status: ai-generated
-character_count: 280
+character_count: 274
 ---
 
 # Predator - Ability ID 363

@@ -2,7 +2,7 @@
 id: 548
 name: Protosynthesis
 status: ai-generated
-character_count: 296
+character_count: 275
 ---
 
 # Protosynthesis - Ability ID 548

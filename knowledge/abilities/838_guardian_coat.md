@@ -2,7 +2,7 @@
 id: 838
 name: Guardian Coat
 status: ai-generated
-character_count: 294
+character_count: 291
 ---
 
 # Guardian Coat - Ability ID 838

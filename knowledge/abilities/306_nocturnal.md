@@ -2,7 +2,7 @@
 id: 306
 name: Nocturnal
 status: ai-generated
-character_count: 299
+character_count: 305
 ---
 
 # Nocturnal - Ability ID 306

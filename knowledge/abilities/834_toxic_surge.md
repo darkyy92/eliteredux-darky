@@ -2,7 +2,7 @@
 id: 834
 name: Toxic Surge
 status: ai-generated
-character_count: 296
+character_count: 321
 ---
 
 # Toxic Surge - Ability ID 834

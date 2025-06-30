@@ -2,7 +2,7 @@
 id: 248
 name: Ice Face
 status: ai-generated
-character_count: 293
+character_count: 301
 ---
 
 # Ice Face - Ability ID 248

@@ -2,7 +2,7 @@
 id: 595
 name: Noise Cancel
 status: ai-generated
-character_count: 289
+character_count: 287
 ---
 
 # Noise Cancel - Ability ID 595

@@ -2,7 +2,7 @@
 id: 359
 name: Flock
 status: ai-generated
-character_count: 296
+character_count: 256
 ---
 
 # Flock - Ability ID 359

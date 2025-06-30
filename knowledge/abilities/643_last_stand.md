@@ -2,7 +2,7 @@
 id: 643
 name: Last Stand
 status: ai-generated
-character_count: 291
+character_count: 290
 ---
 
 # Last Stand - Ability ID 643

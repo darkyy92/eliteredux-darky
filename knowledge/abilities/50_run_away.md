@@ -2,7 +2,7 @@
 id: 50
 name: Run Away
 status: ai-generated
-character_count: 287
+character_count: 296
 ---
 
 # Run Away - Ability ID 50

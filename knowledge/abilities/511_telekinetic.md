@@ -2,7 +2,7 @@
 id: 511
 name: Telekinetic
 status: ai-generated
-character_count: 294
+character_count: 279
 ---
 
 # Telekinetic - Ability ID 511

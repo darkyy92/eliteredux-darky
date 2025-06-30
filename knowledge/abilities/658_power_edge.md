@@ -2,7 +2,7 @@
 id: 658
 name: Power Edge
 status: ai-generated
-character_count: 290
+character_count: 253
 ---
 
 # Power Edge - Ability ID 658

@@ -2,7 +2,7 @@
 id: 657
 name: Power Metal
 status: ai-generated
-character_count: 298
+character_count: 297
 ---
 
 # Power Metal - Ability ID 657

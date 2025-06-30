@@ -2,7 +2,7 @@
 id: 786
 name: Lullaby
 status: ai-generated
-character_count: 290
+character_count: 245
 ---
 
 # Lullaby - Ability ID 786

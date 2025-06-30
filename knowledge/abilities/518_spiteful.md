@@ -2,7 +2,7 @@
 id: 518
 name: Spiteful
 status: ai-generated
-character_count: 295
+character_count: 270
 ---
 
 # Spiteful - Ability ID 518

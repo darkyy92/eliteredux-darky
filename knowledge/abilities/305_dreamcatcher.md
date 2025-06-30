@@ -2,7 +2,7 @@
 id: 305
 name: Dreamcatcher
 status: ai-generated
-character_count: 291
+character_count: 302
 ---
 
 # Dreamcatcher - Ability ID 305

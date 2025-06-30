@@ -2,7 +2,7 @@
 id: 527
 name: Crowned Sword
 status: ai-generated
-character_count: 293
+character_count: 253
 ---
 
 # Crowned Sword - Ability ID 527

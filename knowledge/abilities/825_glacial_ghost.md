@@ -2,7 +2,7 @@
 id: 825
 name: Glacial Ghost
 status: ai-generated
-character_count: 296
+character_count: 293
 ---
 
 # Glacial Ghost - Ability ID 825

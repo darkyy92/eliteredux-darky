@@ -2,7 +2,7 @@
 id: 141
 name: Moody
 status: ai-generated
-character_count: 295
+character_count: 256
 ---
 
 # Moody - Ability ID 141

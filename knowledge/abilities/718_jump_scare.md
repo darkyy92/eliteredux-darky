@@ -2,7 +2,7 @@
 id: 718
 name: Jump Scare
 status: ai-generated
-character_count: 295
+character_count: 287
 ---
 
 # Jump Scare - Ability ID 718

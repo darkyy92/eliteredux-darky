@@ -2,7 +2,7 @@
 id: 339
 name: Spider Lair
 status: ai-generated
-character_count: 294
+character_count: 293
 ---
 
 # Spider Lair - Ability ID 339

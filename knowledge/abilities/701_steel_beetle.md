@@ -2,7 +2,7 @@
 id: 701
 name: Steel Beetle
 status: ai-generated
-character_count: 295
+character_count: 261
 ---
 
 # Steel Beetle - Ability ID 701

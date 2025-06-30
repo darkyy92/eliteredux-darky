@@ -2,7 +2,7 @@
 id: 815
 name: Overrule
 status: ai-generated
-character_count: 293
+character_count: 270
 ---
 
 # Overrule - Ability ID 815

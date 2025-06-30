@@ -2,7 +2,7 @@
 id: 623
 name: Surprise
 status: ai-generated
-character_count: 282
+character_count: 281
 ---
 
 # Surprise - Ability ID 623

@@ -2,7 +2,7 @@
 id: 405
 name: Loose Rocks
 status: ai-generated
-character_count: 294
+character_count: 268
 ---
 
 # Loose Rocks - Ability ID 405

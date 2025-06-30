@@ -2,7 +2,7 @@
 id: 525
 name: Flaming Jaws
 status: ai-generated
-character_count: 284
+character_count: 262
 ---
 
 # Flaming Jaws - Ability ID 525

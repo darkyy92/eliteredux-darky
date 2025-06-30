@@ -2,7 +2,7 @@
 id: 686
 name: Butter Up
 status: ai-generated
-character_count: 296
+character_count: 405
 ---
 
 # Butter Up - Ability ID 686

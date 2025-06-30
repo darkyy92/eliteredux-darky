@@ -2,7 +2,7 @@
 id: 257
 name: Pastel Veil
 status: ai-generated
-character_count: 287
+character_count: 280
 ---
 
 # Pastel Veil - Ability ID 257

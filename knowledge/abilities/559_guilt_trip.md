@@ -2,7 +2,7 @@
 id: 559
 name: Guilt Trip
 status: ai-generated
-character_count: 294
+character_count: 250
 ---
 
 # Guilt Trip - Ability ID 559

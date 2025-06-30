@@ -2,7 +2,7 @@
 id: 275
 name: Rampage
 status: ai-generated
-character_count: 285
+character_count: 265
 ---
 
 # Rampage - Ability ID 275

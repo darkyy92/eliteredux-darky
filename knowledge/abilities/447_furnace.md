@@ -2,7 +2,7 @@
 id: 447
 name: Furnace
 status: ai-generated
-character_count: 298
+character_count: 267
 ---
 
 # Furnace - Ability ID 447

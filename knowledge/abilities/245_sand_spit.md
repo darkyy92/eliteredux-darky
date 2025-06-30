@@ -2,7 +2,7 @@
 id: 245
 name: Sand Spit
 status: ai-generated
-character_count: 289
+character_count: 285
 ---
 
 # Sand Spit - Ability ID 245

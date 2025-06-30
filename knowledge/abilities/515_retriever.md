@@ -2,7 +2,7 @@
 id: 515
 name: Retriever
 status: ai-generated
-character_count: 282
+character_count: 256
 ---
 
 # Retriever - Ability ID 515

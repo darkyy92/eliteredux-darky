@@ -2,7 +2,7 @@
 id: 481
 name: Trickster
 status: ai-generated
-character_count: 295
+character_count: 278
 ---
 
 # Trickster - Ability ID 481

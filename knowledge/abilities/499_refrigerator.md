@@ -2,7 +2,7 @@
 id: 499
 name: Refrigerator
 status: ai-generated
-character_count: 281
+character_count: 246
 ---
 
 # Refrigerator - Ability ID 499

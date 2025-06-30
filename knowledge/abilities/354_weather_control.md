@@ -2,7 +2,7 @@
 id: 354
 name: Weather Control
 status: ai-generated
-character_count: 290
+character_count: 269
 ---
 
 # Weather Control - Ability ID 354

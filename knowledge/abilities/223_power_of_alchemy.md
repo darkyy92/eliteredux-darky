@@ -2,7 +2,7 @@
 id: 223
 name: Power of Alchemy
 status: ai-generated
-character_count: 290
+character_count: 289
 ---
 
 # Power of Alchemy - Ability ID 223

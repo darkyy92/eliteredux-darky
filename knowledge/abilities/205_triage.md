@@ -2,7 +2,7 @@
 id: 205
 name: Triage
 status: ai-generated
-character_count: 295
+character_count: 307
 ---
 
 # Triage - Ability ID 205
