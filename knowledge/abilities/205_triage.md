@@ -2,7 +2,7 @@
 id: 205
 name: Triage
 status: ai-generated
-character_count: 307
+character_count: 299
 ---
 
 # Triage - Ability ID 205
@@ -13,7 +13,7 @@ character_count: 307
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing effects.
+Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

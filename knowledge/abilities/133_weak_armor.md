@@ -2,7 +2,7 @@
 id: 133
 name: Weak Armor
 status: ai-generated
-character_count: 303
+character_count: 300
 ---
 
 # Weak Armor - Ability ID 133
@@ -13,7 +13,7 @@ character_count: 303
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the Pokemon become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
+When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the user become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
 
 ## Detailed Mechanical Explanation
 Weak Armor is a defensive ability that transforms physical hits into speed boosts:

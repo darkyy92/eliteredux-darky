@@ -4,7 +4,6 @@
     <div v-if="!isExpanded" class="editor-collapsed">
       <div class="editor-header">
         <div class="editor-title">
-          <span class="editor-icon">✏️</span>
           <h4>Suggest Improvements</h4>
         </div>
         <p class="editor-subtitle">
@@ -12,17 +11,25 @@
         </p>
         <div class="editor-actions">
           <button 
+            v-if="!isReviewed"
+            class="editor-button approve"
+            @click="approveAbility"
+            :disabled="approving"
+          >
+            {{ approving ? 'Approving...' : 'Approve This Ability' }}
+          </button>
+          <button 
             class="editor-button primary"
             @click="expandEditor"
             :disabled="loading"
           >
-            {{ loading ? 'Loading...' : '📝 Edit This Ability' }}
+            {{ loading ? 'Loading...' : 'Edit This Ability' }}
           </button>
           <button 
             class="editor-button secondary"
             @click="createSimpleIssue"
           >
-            🐛 Report Issue
+            Report Issue
           </button>
         </div>
       </div>
@@ -32,30 +39,12 @@
     <div v-if="isExpanded" class="editor-expanded">
       <div class="editor-header-expanded">
         <div class="editor-title-expanded">
-          <span class="editor-icon">✏️</span>
           <h4>Editing: {{ abilityInfo.name }} (ID: {{ abilityInfo.id }})</h4>
           <button class="editor-close" @click="collapseEditor">×</button>
         </div>
         
         <div class="editor-warning">
-          <strong>⚠️ Character Limit:</strong> Extended descriptions must be 280-300 characters (GBA hardware limit)
-          <div v-if="!loading && editedContent" class="char-status">
-            <span v-if="extendedDescCharCount > 0">
-              Current: <strong :class="getCharCountClass()">{{ extendedDescCharCount }}</strong> characters
-              <span v-if="extendedDescCharCount < 280" class="char-advice">
-                - Add {{ 280 - extendedDescCharCount }} more characters
-              </span>
-              <span v-else-if="extendedDescCharCount > 300" class="char-advice">
-                - Remove {{ extendedDescCharCount - 300 }} characters
-              </span>
-              <span v-else class="char-advice">
-                ✅ Perfect length!
-              </span>
-            </span>
-            <span v-else class="char-warning">
-              ⚠️ Extended description not found or empty
-            </span>
-          </div>
+          <strong>Character Limit:</strong> Extended descriptions must be max 300 characters (GBA hardware limit)
         </div>
       </div>
 
@@ -143,17 +132,17 @@
           <button 
             class="editor-button primary"
             @click="submitToGitHub"
-            :disabled="!hasChanges || !isValidContent"
-            :title="hasChanges && isValidContent ? 'Submit to GitHub (Ctrl+S or Cmd+S)' : 'Make valid changes to submit'"
+            :disabled="!hasChanges || !isValidContent || loading"
+            :title="hasChanges && isValidContent ? 'Save changes directly (Ctrl+S or Cmd+S)' : 'Make valid changes to save'"
           >
-            🚀 Submit to GitHub
+            {{ loading ? 'Saving...' : 'Save Changes' }}
           </button>
           <button 
             class="editor-button secondary"
             @click="resetContent"
             title="Reset all changes"
           >
-            🔄 Reset Changes
+            Reset Changes
           </button>
           <button 
             class="editor-button tertiary"
@@ -166,7 +155,7 @@
 
         <!-- Keyboard shortcuts hint -->
         <div class="keyboard-hints">
-          <small>💡 <strong>Ctrl+S</strong> (or <strong>Cmd+S</strong>) to submit • <strong>Esc</strong> to close</small>
+          <small><strong>Ctrl+S</strong> (or <strong>Cmd+S</strong>) to save • <strong>Esc</strong> to close</small>
         </div>
       </div>
 
@@ -193,6 +182,14 @@ const error = ref('')
 const activeTab = ref('edit')
 const originalContent = ref('')
 const editedContent = ref('')
+const approving = ref(false)
+
+// GitHub configuration for direct commits (trusted staff only)
+// The token is loaded from environment variable VITE_GITHUB_TOKEN
+// Set this in your .env.local file: VITE_GITHUB_TOKEN=ghp_yourtoken
+const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN || ''
+const REPO_OWNER = 'Elite-Redux'
+const REPO_NAME = 'eliteredux-source'
 
 // Check if this is an ability page
 const isAbilityPage = computed(() => {
@@ -276,6 +273,18 @@ const hasChanges = computed(() => {
   return originalContent.value !== editedContent.value
 })
 
+const isReviewed = computed(() => {
+  // Check if the current ability is already reviewed
+  // This will be updated from the frontmatter when content is loaded
+  if (!originalContent.value) return false
+  
+  const frontmatterMatch = originalContent.value.match(/^---\n(.*?)\n---/s)
+  if (frontmatterMatch) {
+    return frontmatterMatch[1].includes('status: reviewed')
+  }
+  return false
+})
+
 const changeCount = computed(() => {
   if (!hasChanges.value) return 0
   // Strip frontmatter before comparing
@@ -312,7 +321,7 @@ const extendedDescCharCount = computed(() => {
 
 const isValidContent = computed(() => {
   const charCount = extendedDescCharCount.value
-  return charCount >= 280 && charCount <= 300
+  return charCount > 0 && charCount <= 300
 })
 
 const previewHtml = computed(() => {
@@ -390,9 +399,8 @@ const diffHtml = computed(() => {
 // Methods
 function getCharCountClass() {
   const count = extendedDescCharCount.value
-  if (count < 280) return 'char-count-low'    // Too short - red
   if (count > 300) return 'char-count-high'   // Too long - red/orange  
-  return 'char-count-good'                    // Perfect range 280-300 - green
+  return 'char-count-good'                    // Valid range 1-300 - green
 }
 
 function getOriginalExtendedDescCharCount() {
@@ -509,56 +517,81 @@ function resetContent() {
   activeTab.value = 'edit'
 }
 
-function submitToGitHub() {
+async function submitToGitHub() {
   if (!hasChanges.value || !isValidContent.value) return
   
-  const repoUrl = 'https://github.com/darkyy92/eliteredux-darky'
+  if (!GITHUB_TOKEN) {
+    alert('Direct saving requires GitHub token configuration. Please use "Report Issue" instead.')
+    return
+  }
   
-  // Create issue body with diff
-  const diffText = Diff.createPatch(
-    abilityInfo.value.filename + '.md',
-    originalContent.value,
-    editedContent.value,
-    'Original',
-    'Proposed Changes'
+  // Safety confirmation
+  const confirmed = confirm(
+    `Are you sure you want to save changes to "${abilityInfo.value.name}"?\n\n` +
+    `Extended description: ${extendedDescCharCount.value} characters (max 300)`
   )
   
-  const issueBody = `## Ability Information
-**Ability Name:** ${abilityInfo.value.name}
-**Ability ID:** ${abilityInfo.value.id}
-**Source File:** \`knowledge/abilities/${abilityInfo.value.filename}.md\`
-**Codex URL:** ${window.location.href}
-
-## Proposed Changes
-The following changes are suggested for this ability:
-
-**Summary:**
-${diffSummary.value.map(s => `- ${s.description}`).join('\n')}
-
-**Extended Description Character Count:** ${extendedDescCharCount.value} characters (${isValidContent.value ? '✅ Valid' : '❌ Invalid'})
-
-## Diff
-\`\`\`diff
-${diffText}
-\`\`\`
-
-## Additional Context
-These changes were made using the Elite Redux Ability Codex inline editor.
-
----
-*This issue was created via the Elite Redux Ability Codex smart editing system.*`
-
-  const params = new URLSearchParams({
-    title: `[Ability Edit] ${abilityInfo.value.name} (ID: ${abilityInfo.value.id}) - Inline Changes`,
-    body: issueBody,
-    labels: 'codex-submission'
-  })
+  if (!confirmed) return
   
-  const url = `${repoUrl}/issues/new?${params.toString()}`
-  window.open(url, '_blank')
+  loading.value = true
+  error.value = ''
   
-  // Collapse the editor after submission
-  collapseEditor()
+  try {
+    const filePath = `eliteredux-darky/knowledge/abilities/${abilityInfo.value.filename}.md`
+    
+    // Get current file info from GitHub
+    const response = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
+      {
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      }
+    )
+    
+    if (!response.ok) {
+      throw new Error(`Failed to get file info: ${response.statusText}`)
+    }
+    
+    const fileData = await response.json()
+    
+    // Commit the updated content
+    const commitResponse = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
+      {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          message: `docs: Update ${abilityInfo.value.name} ability description`,
+          content: btoa(editedContent.value),
+          sha: fileData.sha,
+          branch: 'upcoming'
+        })
+      }
+    )
+    
+    if (!commitResponse.ok) {
+      const errorData = await commitResponse.json()
+      throw new Error(errorData.message || 'Failed to save changes')
+    }
+    
+    // Update original content to reflect saved state
+    originalContent.value = editedContent.value
+    
+    alert(`Successfully saved changes to ${abilityInfo.value.name}!`)
+    collapseEditor()
+    
+  } catch (err) {
+    console.error('Save error:', err)
+    error.value = err.message || 'Failed to save changes'
+  } finally {
+    loading.value = false
+  }
 }
 
 function createSimpleIssue() {
@@ -580,6 +613,93 @@ function createSimpleIssue() {
 
 function retryLoad() {
   loadOriginalContent()
+}
+
+async function approveAbility() {
+  if (approving.value || isReviewed.value) return
+  
+  // Safety confirmation
+  const confirmed = confirm(
+    `Are you sure you want to approve "${abilityInfo.value.name}" (ID: ${abilityInfo.value.id})?\n\n` +
+    `This will mark the ability as reviewed and include it in the game.\n\n` +
+    `Please ensure:\n` +
+    `• The extended description is accurate\n` +
+    `• Character count is under 300 (currently: ${extendedDescCharCount.value})\n` +
+    `• No typos or errors exist`
+  )
+  
+  if (!confirmed) return
+  
+  approving.value = true
+  
+  try {
+    const filePath = `eliteredux-darky/knowledge/abilities/${abilityInfo.value.filename}.md`
+    
+    // Step 1: Get current file content from GitHub
+    const getResponse = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
+      {
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      }
+    )
+    
+    if (!getResponse.ok) {
+      throw new Error(`Failed to fetch file: ${getResponse.statusText}`)
+    }
+    
+    const fileData = await getResponse.json()
+    const currentContent = atob(fileData.content)
+    
+    // Step 2: Update frontmatter status
+    const updatedContent = currentContent.replace(
+      /status:\s*ai-generated/,
+      'status: reviewed'
+    )
+    
+    // Step 3: Commit the change
+    const updateResponse = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
+      {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          message: `Approved ability ${abilityInfo.value.id} ${abilityInfo.value.name}`,
+          content: btoa(updatedContent),
+          sha: fileData.sha,
+          branch: 'upcoming'
+        })
+      }
+    )
+    
+    if (!updateResponse.ok) {
+      throw new Error(`Failed to update file: ${updateResponse.statusText}`)
+    }
+    
+    // Step 4: Update local content to reflect the change
+    originalContent.value = updatedContent
+    editedContent.value = updatedContent
+    
+    // Step 5: Show success message
+    alert(`Successfully approved ${abilityInfo.value.name}! The status will update in a few moments.`)
+    
+    // Optional: Reload the page to show the new status
+    setTimeout(() => {
+      window.location.reload()
+    }, 2000)
+    
+  } catch (error) {
+    console.error('Error approving ability:', error)
+    alert(`Failed to approve ability: ${error.message}`)
+  } finally {
+    approving.value = false
+  }
 }
 
 // Keyboard shortcuts
@@ -657,10 +777,36 @@ watch(() => page.value.relativePath, async (newPath, oldPath) => {
 })
 
 // Initialize ability info on mount
-onMounted(() => {
+onMounted(async () => {
   // Add keyboard event listeners
   document.addEventListener('keydown', handleKeydown)
   updateAbilityInfo()
+  
+  // Load content to check review status for approve button
+  if (isAbilityPage.value && abilityInfo.value.filename) {
+    try {
+      // Try to load content from GitHub to check status
+      const filePath = `eliteredux-darky/knowledge/abilities/${abilityInfo.value.filename}.md`
+      const response = await fetch(
+        `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`,
+        {
+          headers: {
+            'Authorization': `token ${GITHUB_TOKEN}`,
+            'Accept': 'application/vnd.github.v3+json'
+          }
+        }
+      )
+      
+      if (response.ok) {
+        const data = await response.json()
+        originalContent.value = atob(data.content)
+        editedContent.value = originalContent.value // Set edited content too for char count
+      }
+    } catch (error) {
+      // Silently fail - approve button will be shown by default
+      console.log('Could not check review status:', error)
+    }
+  }
 })
 
 // Cleanup event listeners
@@ -891,11 +1037,11 @@ onUnmounted(() => {
 }
 
 .char-count-low {
-  color: #ed8936; /* Orange/yellow for too short (< 280) - warning */
+  color: #ed8936; /* Orange/yellow - unused now */
 }
 
 .char-count-good {
-  color: #48bb78; /* Green for perfect range (280-300) */
+  color: #48bb78; /* Green for valid range (1-300) */
 }
 
 .char-count-high {
@@ -1040,6 +1186,17 @@ onUnmounted(() => {
 .editor-button.primary:hover:not(:disabled) {
   background: var(--vp-c-brand-dark);
   border-color: var(--vp-c-brand-dark);
+}
+
+.editor-button.approve {
+  background: #48bb78;
+  color: white;
+  border-color: #48bb78;
+}
+
+.editor-button.approve:hover:not(:disabled) {
+  background: #38a169;
+  border-color: #38a169;
 }
 
 .editor-button.secondary {

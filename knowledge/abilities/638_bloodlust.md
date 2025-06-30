@@ -2,7 +2,7 @@
 id: 638
 name: Bloodlust
 status: ai-generated
-character_count: 319
+character_count: 299
 ---
 
 # Bloodlust - Ability ID 638
@@ -13,7 +13,7 @@ character_count: 319
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Bloodlust combines the terrifying effects of Blood Bath and Soul Eater abilities. When this Pokemon inflicts bleeding on an opponent, it simultaneously strikes fear into their heart, causing both physical and psychological trauma. Upon knocking out any opposing Pokemon, Bloodlust restores 25% of the user's maximum HP.
+Bloodlust combines Blood Bath and Soul Eater effects. When this Pokemon inflicts bleeding on an opponent, it simultaneously induces fear, causing both physical and psychological trauma. Upon knocking out any opposing Pokemon, Bloodlust restores 25% of the user's max HP for sustained combat prowess.
 
 ## Detailed Mechanical Explanation
 

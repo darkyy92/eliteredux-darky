@@ -2,7 +2,7 @@
 id: 785
 name: Dual Shadow
 status: ai-generated
-character_count: 320
+character_count: 270
 ---
 
 # Dual Shadow - Ability ID 785
@@ -13,7 +13,7 @@ character_count: 320
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This ability combines two distinct effects: it switches between two forms at the end of each turn like Hunger Switch, and provides enhanced offensive power for Electric and Dark-type moves at a cost. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.
+This ability combines two effects: it switches between two forms at the end of each turn like Hunger Switch, and boosts Electric and Dark-type moves. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

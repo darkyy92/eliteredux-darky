@@ -2,7 +2,7 @@
 id: 856
 name: Molten Coat
 status: ai-generated
-character_count: 324
+character_count: 297
 ---
 
 # Molten Coat - Ability ID 856
@@ -13,7 +13,7 @@ Mineralize + Rock moves have 50% burn chance.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This powerful combination ability grants all the effects of Mineralize while adding a dangerous burning effect. Normal-type moves are converted to Rock-type and receive STAB. Additionally, whenever this Pokemon uses any Rock-type move that successfully hits an opponent, there's a 50% chance to inflict a burn on the target.
+This combination ability grants all Mineralize effects while adding dangerous burning. Normal moves become Rock-type with STAB. Additionally, whenever this Pokemon uses any Rock move that hits an opponent, there's a 50% chance to inflict burn. Transforms utility moves into offensive Rock attacks.
 
 ## Detailed Mechanical Explanation
 

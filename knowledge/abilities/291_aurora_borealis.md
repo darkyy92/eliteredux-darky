@@ -2,7 +2,7 @@
 id: 291
 name: Aurora Borealis
 status: ai-generated
-character_count: 319
+character_count: 290
 ---
 
 # Aurora Borealis - Ability ID 291
@@ -13,7 +13,7 @@ character_count: 319
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's actual typing. Additionally, the Pokemon is treated as if it's always in hail weather for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
+Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's typing. The Pokemon is treated as if it's always in hail for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

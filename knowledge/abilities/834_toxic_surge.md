@@ -2,7 +2,7 @@
 id: 834
 name: Toxic Surge
 status: ai-generated
-character_count: 321
+character_count: 299
 ---
 
 # Toxic Surge - Ability ID 834
@@ -13,7 +13,7 @@ Sets Toxic Terrain on entry.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Toxic Surge automatically sets Toxic Terrain when the Pokemon enters battle. The toxic sludge covers the battlefield for 5 turns (8 with Terrain Extender). Each turn, grounded Pokemon that aren't Poison or Steel-type take damage equal to 1/16 of their max HP. Flying-types and Levitate users avoid damage unless grounded.
+Toxic Surge sets Toxic Terrain on switch-in. The toxic sludge covers the field for 5 turns (8 with Terrain Extender). Grounded Pokemon that aren't Poison or Steel-type take 1/16 max HP damage each turn. Flying-types and Levitate users avoid damage unless grounded.
 
 ## Detailed Mechanical Explanation
 

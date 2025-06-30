@@ -15,8 +15,6 @@ character_count: 289
 
 Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage.
 
-*Character count: 299*
-
 ## Technical Implementation Details
 *From `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc` lines 3983-3985*
 

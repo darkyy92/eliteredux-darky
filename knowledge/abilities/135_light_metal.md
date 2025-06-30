@@ -2,7 +2,7 @@
 id: 135
 name: Light Metal
 status: ai-generated
-character_count: 319
+character_count: 293
 ---
 
 # Light Metal - Ability ID 135
@@ -13,7 +13,7 @@ character_count: 319
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Light Metal makes the Pokemon lighter and faster by halving its weight and boosting Speed by 30%. The weight reduction affects weight-based moves like Low Kick, Grass Knot, Heavy Slam, and Heat Crash. Lower weight reduces damage taken from opposing weight moves but also reduces damage dealt by the user's weight moves.
+Light Metal halves the Pokemon's weight and boosts Speed by 30%. The weight reduction affects weight-based moves like Low Kick, Grass Knot, Heavy Slam, and Heat Crash. Lower weight reduces damage taken from opposing weight moves but reduces damage dealt by the user's own weight-based attacks.
 
 ## Detailed Mechanical Explanation
 Light Metal provides two distinct benefits:

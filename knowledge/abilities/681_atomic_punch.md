@@ -2,7 +2,7 @@
 id: 681
 name: Atomic Punch
 status: ai-generated
-character_count: 307
+character_count: 276
 ---
 
 # Atomic Punch - Ability ID 681
@@ -13,9 +13,7 @@ character_count: 307
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Atomic Punch combines Iron Fist's 30% boost to punching moves with an additional 30% boost to all Steel-type moves. When using Steel-type punching moves like Meteor Mash or Bullet Punch, both effects apply multiplicatively for massive damage. Perfect for physical Steel attackers who specialize in punching.
-
-*Character count: 289*
+Atomic Punch combines Iron Fist's 30% boost to punching moves with an additional 30% boost to all Steel-type moves. When using Steel-type punching moves like Meteor Mash or Bullet Punch, both effects multiply for a 69% total damage boost. Perfect for physical Steel attackers.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

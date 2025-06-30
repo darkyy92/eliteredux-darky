@@ -2,7 +2,7 @@
 id: 830
 name: Temporal Rupture
 status: ai-generated
-character_count: 324
+character_count: 297
 ---
 
 # Temporal Rupture - Ability ID 830
@@ -13,7 +13,7 @@ Roar of Time is altered drastically.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-A legendary power that warps the fabric of time itself when Roar of Time is used. This innate ability fundamentally alters the move's properties, transforming it into something far more devastating than its already-modified form. The exact nature of this temporal distortion remains a closely guarded secret of the ancients.
+A legendary power that warps time itself when Roar of Time is used. This innate ability fundamentally alters the move, transforming it into something more devastating than its modified form. The exact nature of this temporal distortion remains a secret. Found only on legendary Dragon/Steel types.
 
 ## Detailed Mechanical Explanation
 

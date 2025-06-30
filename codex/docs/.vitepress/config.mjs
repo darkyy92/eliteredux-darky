@@ -1,13 +1,33 @@
 import { defineConfig } from 'vitepress'
-import { readdirSync, readFileSync } from 'fs'
+import { readdirSync, readFileSync, existsSync } from 'fs'
 import { join, basename } from 'path'
 import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
-// Function to get all ability files with frontmatter data
+// Function to load status data from JSON API
+function loadStatusData() {
+  const statusFile = join(__dirname, 'ability-status.json')
+  if (!existsSync(statusFile)) {
+    console.warn('Status API file not found, using fallback indicators')
+    return null
+  }
+  
+  try {
+    const content = readFileSync(statusFile, 'utf-8')
+    return JSON.parse(content)
+  } catch (e) {
+    console.warn('Error loading status data:', e)
+    return null
+  }
+}
+
+// Function to get all ability files with enhanced status indicators
 function getAbilityFiles() {
+  // Load status data
+  const statusData = loadStatusData()
+  
   // Try docs/abilities first (copied files)
   let abilitiesDir = join(__dirname, '../abilities')
   let files = []
@@ -45,27 +65,30 @@ function getAbilityFiles() {
   return files.map(file => {
     const nameWithoutExt = file.replace('.md', '')
     const [id, ...nameParts] = nameWithoutExt.split('_')
-    
-    // Read file to check frontmatter
-    let isReviewed = false
-    try {
-      const filePath = join(abilitiesDir, file)
-      const content = readFileSync(filePath, 'utf-8')
-      const { data } = matter(content)
-      isReviewed = data.status === 'reviewed'
-    } catch (e) {
-      // If can't read frontmatter, assume not reviewed
-    }
+    const abilityId = parseInt(id)
     
     // Title case each word in the ability name
     const formattedName = nameParts
       .join(' ')
       .replace(/\b\w/g, char => char.toUpperCase())
     
-    // Add checkmark if reviewed
-    const displayText = isReviewed 
-      ? `✅ ${id} ${formattedName}`
-      : `${id} ${formattedName}`
+    // Get status indicator from API data
+    let statusIndicator = ''
+    if (statusData && statusData.indicators && statusData.indicators[abilityId]) {
+      statusIndicator = statusData.indicators[abilityId].indicator + ' '
+    } else {
+      // Fallback: check frontmatter for legacy compatibility
+      try {
+        const filePath = join(abilitiesDir, file)
+        const content = readFileSync(filePath, 'utf-8')
+        const { data } = matter(content)
+        statusIndicator = data.status === 'reviewed' ? '✅ ' : '🟠 '
+      } catch (e) {
+        statusIndicator = '🟠 '
+      }
+    }
+    
+    const displayText = `${statusIndicator}${id} ${formattedName}`
     
     return {
       text: displayText,

@@ -2,7 +2,7 @@
 id: 829
 name: Stainless Steel
 status: ai-generated
-character_count: 329
+character_count: 268
 ---
 
 # Stainless Steel - Ability ID 829
@@ -13,7 +13,7 @@ Fort Knox + Wonder Skin.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Stainless Steel provides dual defensive and offensive benefits. It blocks multi-hit abilities like Parental Bond from triggering against this Pokemon, unless the attacker resists Fort Knox. Additionally, all Normal-type moves become Steel-type and receive a 20% power boost. This makes it excellent for both tanking and sweeping.
+Stainless Steel blocks multi-hit abilities like Parental Bond from triggering against this Pokemon. Additionally, all Normal-type moves become Steel-type and receive a 20% power boost. Combines Fort Knox's protection with Steel-type conversion for defense and offense.
 
 ## Detailed Mechanical Explanation
 

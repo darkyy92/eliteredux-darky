@@ -2,7 +2,7 @@
 id: 303
 name: Fossilized
 status: ai-generated
-character_count: 322
+character_count: 293
 ---
 
 # Fossilized - Ability ID 303
@@ -13,7 +13,7 @@ character_count: 322
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fossilized grants dual Rock-type synergy, reducing incoming Rock-type damage by 50% while boosting the power of the user's Rock-type moves by 20%. This ancient adaptation reflects millions of years of geological pressure and crystallization, providing both defensive resilience and offensive enhancement to fossil Pokemon.
+Fossilized grants dual Rock-type synergy, reducing incoming Rock damage by 50% while boosting the user's Rock moves by 20%. This ancient adaptation provides both defensive resilience and offensive enhancement to fossil Pokemon. Works on all Rock attacks regardless of physical or special type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

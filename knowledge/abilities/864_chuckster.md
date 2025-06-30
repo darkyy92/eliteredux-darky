@@ -2,7 +2,7 @@
 id: 864
 name: Chuckster (N)
 status: ai-generated
-character_count: 301
+character_count: 296
 ---
 
 # Chuckster (N) - Ability ID 864
@@ -13,7 +13,7 @@ Once per entry, take 1/2 damage and force-switch the target.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon first takes damage after entering battle, it reduces that damage by half and forces the attacking opponent to switch out immediately. This protective effect only activates once per battle entry, making it a powerful one-time defensive tool against physical and special attacks alike.
+When this Pokemon first takes damage after entering battle, it reduces damage by half and forces the attacking opponent to switch out immediately. This protective effect only activates once per battle entry, making it a powerful one-time defensive tool against physical and special attacks alike.
 
 ## Detailed Mechanical Explanation
 

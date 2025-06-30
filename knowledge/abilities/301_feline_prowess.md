@@ -2,7 +2,7 @@
 id: 301
 name: Feline Prowess
 status: ai-generated
-character_count: 301
+character_count: 282
 ---
 
 # Feline Prowess - Ability ID 301
@@ -13,7 +13,7 @@ character_count: 301
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Feline Prowess doubles the Pokemon's Special Attack stat by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.
+Feline Prowess doubles Special Attack by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

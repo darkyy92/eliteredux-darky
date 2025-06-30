@@ -2,7 +2,7 @@
 id: 290
 name: Inflatable
 status: ai-generated
-character_count: 323
+character_count: 283
 ---
 
 # Inflatable - Ability ID 290
@@ -13,7 +13,7 @@ character_count: 323
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by Fire or Flying-type moves, this Pokemon inflates like a balloon, boosting both Defense and Special Defense by one stage each. The defensive boost applies immediately after taking damage, making the Pokemon more resilient to follow-up attacks. Perfect for bulky Pokemon that can capitalize on the stat increases.
+When hit by Fire or Flying moves, this Pokemon inflates, boosting Defense and Special Defense by one stage each. The boost applies after taking damage, improving resilience to follow-up attacks. Perfect for bulky Pokemon that capitalize on stat increases. Works even on status moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

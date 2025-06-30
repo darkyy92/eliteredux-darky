@@ -36,7 +36,7 @@ def extract_frontmatter(content):
                     normalized['name'] = data['name']
                 
                 # Copy other fields as-is
-                for key in ['status', 'character_count']:
+                for key in ['status']:
                     if key in data:
                         normalized[key] = data[key]
                 
@@ -78,15 +78,10 @@ def main():
                     ability_id = int(match.group(1))
                     ability_name = match.group(2).replace('_', ' ').title()
                     
-                    # Try to extract character count from content
-                    char_count_match = re.search(r'\*Character count: (\d+)', content)
-                    char_count = int(char_count_match.group(1)) if char_count_match else None
-                    
                     abilities.append({
                         'id': ability_id,
                         'name': ability_name,
-                        'status': 'ai-generated',  # Default for legacy files
-                        'character_count': char_count
+                        'status': 'ai-generated'  # Default for legacy files
                     })
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
@@ -110,8 +105,8 @@ def main():
     content.append(f"Completed: {completed}")
     content.append(f"In Progress: 0")
     content.append("\n## Progress Tracking\n")
-    content.append("| ID  | Ability Name               | Researched | Written | Reviewed | Character Count |")
-    content.append("|-----|----------------------------|------------|---------|----------|-----------------|")
+    content.append("| ID  | Ability Name               | Written | Reviewed |")
+    content.append("|-----|----------------------------|---------|----------|")
     
     # Track which IDs we've seen
     seen_ids = set()
@@ -131,22 +126,18 @@ def main():
             # Ability has been analyzed
             name = ability_data.get('name', 'Unknown')
             status = ability_data.get('status', 'ai-generated')
-            char_count = ability_data.get('character_count', '-')
             
-            researched = "✅"
             written = "✅"
             reviewed = "✅" if status == 'reviewed' else "❌"
         else:
             # Ability not yet analyzed
             # Try to get name from AbilityEnum or default to placeholder
             name = f"Ability {i}" if i > 0 else "None"
-            researched = "❌"
             written = "❌"
             reviewed = "❌"
-            char_count = "-"
         
         # Format the row
-        row = f"| {i:3d} | {name:26s} | {researched:10s} | {written:7s} | {reviewed:8s} | {str(char_count):15s} |"
+        row = f"| {i:3d} | {name:26s} | {written:7s} | {reviewed:8s} |"
         content.append(row)
     
     # Write the file

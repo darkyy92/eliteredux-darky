@@ -2,7 +2,7 @@
 id: 51
 name: Keen Eye
 status: ai-generated
-character_count: 322
+character_count: 292
 ---
 
 # Keen Eye - Ability ID 51
@@ -13,7 +13,7 @@ character_count: 322
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Keen Eye prevents accuracy stat reductions from moves like Sand Attack and Smokescreen. Additionally, all moves gain a 1.2x accuracy boost, making normally unreliable moves more consistent. This ability is breakable by Mold Breaker and similar abilities, but provides excellent reliability for accuracy-dependent movesets.
+Keen Eye prevents accuracy stat drops from moves like Sand Attack. All moves gain a 1.2x accuracy boost, making unreliable moves more consistent. Breakable by Mold Breaker but provides excellent reliability for accuracy-dependent movesets. Works on all move types regardless of base accuracy.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

@@ -2,7 +2,7 @@
 id: 540
 name: Banshee
 status: ai-generated
-character_count: 307
+character_count: 294
 ---
 
 # Banshee - Ability ID 540
@@ -13,7 +13,7 @@ character_count: 307
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Banshee boosts all sound-based moves by 20% damage and converts Normal-type sound moves to Ghost-type. This affects moves like Growl, Roar, Sing, Supersonic, Screech, Snore, Uproar, Hyper Voice, Bug Buzz, Chatter, Round, Echoed Voice, Relic Song, Snarl, Noble Roar, Boomburst, and Parting Shot among others.
+Banshee boosts all sound-based moves by 20% damage and converts Normal-type sound moves to Ghost-type. This affects moves like Growl, Roar, Sing, Supersonic, Screech, Snore, Uproar, Hyper Voice, Bug Buzz, Chatter, Round, Echoed Voice, Relic Song, Snarl, Noble Roar, Boomburst, and Parting Shot.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

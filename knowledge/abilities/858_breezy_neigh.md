@@ -2,7 +2,7 @@
 id: 858
 name: Breezy Neigh
 status: ai-generated
-character_count: 331
+character_count: 272
 ---
 
 # Breezy Neigh - Ability ID 858
@@ -13,7 +13,7 @@ KOs raise Speed by one stage.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon knocks out an opponent with a direct attack, its Speed stat increases by one stage. This boost occurs immediately after the target faints, potentially allowing the user to outspeed previously faster opponents. The effect activates only when the Pokemon with this ability directly causes a knockout through damage.
+When this Pokemon knocks out an opponent with a direct attack, its Speed stat increases by one stage. The boost occurs immediately after the target faints. Multiple knockouts result in multiple Speed boosts up to +6. Perfect for sweeping teams after securing the first KO.
 
 ## Detailed Mechanical Explanation
 

@@ -7,6 +7,7 @@ A modern, searchable documentation website for all Elite Redux abilities.
 - 🌑 Beautiful dark theme optimized for readability
 - 🔍 Built-in search functionality (Ctrl/Cmd + K)
 - 📱 Mobile-first responsive design
+- ✅ Direct approval workflow for staff (no GitHub issues)
 - 🔄 Automatically updates when new abilities are added
 - ⚡ Fast static site with VitePress
 
@@ -18,12 +19,19 @@ A modern, searchable documentation website for all Elite Redux abilities.
    npm install
    ```
 
-2. Start development server:
+2. Configure GitHub Token (Admin Only):
+   ```bash
+   cp .env.example .env.local
+   # Edit .env.local and add: VITE_GITHUB_TOKEN=ghp_your_token_here
+   ```
+   **Note**: Only the admin needs this token. Staff can approve without it.
+
+3. Start development server:
    ```bash
    npm run dev
    ```
 
-3. Open http://localhost:5173 in your browser
+4. Open http://localhost:5173 in your browser
 
 ## Deployment to GitHub Pages
 

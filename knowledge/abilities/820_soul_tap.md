@@ -2,7 +2,7 @@
 id: 820
 name: Soul Tap
 status: ai-generated
-character_count: 337
+character_count: 275
 ---
 
 # Soul Tap - Ability ID 820
@@ -13,7 +13,7 @@ Drain 10% HP from foes at the end of each turn in fog.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Soul Tap drains 10% of maximum HP from all opposing Pokemon at the end of each turn, but only when fog weather is active. Works with both temporary and permanent fog conditions. The drained HP is restored to the user. Magic Guard prevents Pokemon from taking damage from this ability. Ignores Substitute and Disguise when dealing damage.
+Soul Tap drains 10% of max HP from all opposing Pokemon at the end of each turn during fog weather. The drained HP heals the user. Magic Guard blocks the damage. Ignores Substitute and Disguise. Requires active fog to function and affects all living opponents simultaneously.
 
 ## Detailed Mechanical Explanation
 

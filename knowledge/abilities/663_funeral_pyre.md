@@ -2,7 +2,7 @@
 id: 663
 name: Funeral Pyre
 status: ai-generated
-character_count: 290
+character_count: 292
 ---
 
 # Funeral Pyre - Ability ID 663
@@ -14,8 +14,6 @@ character_count: 290
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
 Funeral Pyre creates a supernatural field that burns the life force of all Pokémon except Ghost and Dark-types. Affected Pokémon lose 25% of their max HP at the end of each turn. The damage ignores type immunities but is blocked by Magic Guard. Creates persistent pressure forcing switches.
-
-*Character count: 299*
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

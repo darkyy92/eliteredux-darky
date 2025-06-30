@@ -2,7 +2,7 @@
 id: 357
 name: Molten Down
 status: ai-generated
-character_count: 376
+character_count: 288
 ---
 
 # Molten Down - Ability ID 357
@@ -13,7 +13,7 @@ character_count: 376
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Molten Down reverses the traditional Fire vs Rock matchup by making Fire-type moves deal super effective damage to Rock-types instead of being resisted. This 4x damage swing transforms Fire-type Pokemon into potent Rock-type counters. The ability permanently modifies type effectiveness during damage calculation and works with all Fire-type moves including Hidden Power Fire.
+Molten Down makes Fire-type moves super effective against Rock-types (2x damage) instead of resisted (0.5x damage). This creates a 4x damage swing, turning Fire moves into powerful Rock-type counters. Works with all Fire-type moves including Hidden Power Fire and weather-boosted attacks.
 
 ## Detailed Mechanical Explanation
 

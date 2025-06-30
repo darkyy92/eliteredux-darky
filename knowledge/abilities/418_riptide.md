@@ -2,7 +2,7 @@
 id: 418
 name: Riptide
 status: ai-generated
-character_count: 311
+character_count: 294
 ---
 
 # Riptide - Ability ID 418
@@ -13,7 +13,7 @@ character_count: 311
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Riptide boosts the power of all Water-type moves by 30% when above 1/3 HP, increasing to 80% when at or below 1/3 HP. This powerful offensive ability rewards aggressive play and creates comeback potential when health is low. Works with any Water move regardless of the user's typing for versatile damage output.
+Riptide boosts Water-type moves by 30% when above 1/3 HP, increasing to 80% when at or below 1/3 HP. This powerful offensive ability rewards aggressive play and creates comeback potential when health is low. Works with any Water move regardless of the user's typing for versatile damage output.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

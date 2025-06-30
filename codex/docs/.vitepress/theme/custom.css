@@ -115,21 +115,32 @@ td {
   padding: 16px;
 }
 
-/* Review status indicators in sidebar */
+/* Status indicators in sidebar */
 .VPSidebarItem .text {
   display: flex;
   align-items: center;
   gap: 0.25rem;
 }
 
-/* Style the checkmark */
+/* Completed abilities (green checkmark) */
 .VPSidebarItem .text:has(✅) {
   color: var(--vp-c-text-1);
 }
 
-/* Make checkmark green */
-.VPSidebarItem .text::before {
-  content: attr(data-review-status);
+/* Needs review abilities (orange circle) */
+.VPSidebarItem .text:has(🟠) {
+  color: var(--vp-c-text-2);
+}
+
+/* Status badge styling */
+.status-complete {
   color: #4CAF50;
-  font-size: 0.9em;
+}
+
+.status-needs-review {
+  color: #FF9800;
+}
+
+.status-pending {
+  color: #9E9E9E;
 }

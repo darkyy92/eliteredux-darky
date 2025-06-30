@@ -2,7 +2,7 @@
 id: 733
 name: Taekkyeon
 status: ai-generated
-character_count: 307
+character_count: 300
 ---
 
 # Taekkyeon - Ability ID 733
@@ -13,7 +13,7 @@ character_count: 307
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Taekkyeon makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects. This includes all physical and special attacking moves but excludes pure status moves. Creates powerful synergy with teammates who have Dancer or dance-triggered abilities.
+Taekkyeon makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects. Includes all physical and special attacking moves but excludes pure status moves. Creates strong synergy with teammates who have Dancer or dance-triggered abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

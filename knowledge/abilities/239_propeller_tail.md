@@ -2,7 +2,7 @@
 id: 239
 name: Propeller Tail
 status: ai-generated
-character_count: 302
+character_count: 299
 ---
 
 # Propeller Tail - Ability ID 239
@@ -13,7 +13,7 @@ character_count: 302
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Propeller Tail boosts the Pokemon's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
+Propeller Tail boosts the user's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

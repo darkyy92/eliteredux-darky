@@ -2,7 +2,7 @@
 id: 412
 name: Desert Cloak
 status: ai-generated
-character_count: 314
+character_count: 300
 ---
 
 # Desert Cloak - Ability ID 412
@@ -13,7 +13,7 @@ character_count: 314
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Desert Cloak provides team-wide protection during sandstorm weather. All allies become immune to status conditions and secondary effects from enemy moves while sand is active. Works with Sand Stream, Sand Spit, and Sandstorm moves. Does not protect from direct status moves or entry hazards. Elite weather ability.
+Desert Cloak provides team-wide protection during sandstorms. All allies become immune to status conditions and secondary effects from enemy moves while sand is active. Works with Sand Stream, Sand Spit, and Sandstorm. Doesn't protect from direct status moves or entry hazards. Elite weather support.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*

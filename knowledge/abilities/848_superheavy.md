@@ -2,7 +2,7 @@
 id: 848
 name: Superheavy (N)
 status: ai-generated
-character_count: 359
+character_count: 270
 ---
 
 # Superheavy (N) - Ability ID 848
@@ -13,7 +13,7 @@ Steadfast + blocks phasing moves.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This innate ability combines two powerful defensive effects. When flinched, the Pokemon's Speed stat increases by one stage, helping it act faster on subsequent turns. Additionally, the Pokemon's immense weight prevents forced switching from moves like Roar, Whirlwind, Circle Throw, and Dragon Tail, maintaining field control even against disruption tactics.
+Superheavy grants immunity to forced switching moves (Roar, Whirlwind, Circle Throw, Dragon Tail) and raises Speed by +1 stage when flinched. Both effects are permanently active as this is an innate ability. Speed boosts can stack up to +6 stages with repeated flinches.
 
 ## Key Mechanics
 - **Flinch Response**: Automatically raises Speed by +1 stage when flinched

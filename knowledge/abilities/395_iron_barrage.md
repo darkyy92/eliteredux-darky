@@ -2,7 +2,7 @@
 id: 395
 name: Iron Barrage
 status: ai-generated
-character_count: 304
+character_count: 296
 ---
 
 # Iron Barrage - Ability ID 395
@@ -13,7 +13,7 @@ character_count: 304
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Barrage transforms the user into a precision artillery platform, combining a 30% damage boost to projectile moves with perfect accuracy on ALL attacks. Low-accuracy moves (below 80%) suffer -3 priority as a trade-off. This devastating combination excels on Pokemon with diverse projectile movepools.
+Iron Barrage turns the user into a precision artillery platform, combining a 30% damage boost to projectile moves with perfect accuracy on ALL attacks. Low-accuracy moves (below 80%) suffer -3 priority as a trade-off. This powerful combination excels on Pokemon with diverse projectile movepools.
 
 ## Detailed Mechanical Explanation
 

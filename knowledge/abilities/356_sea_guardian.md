@@ -2,7 +2,7 @@
 id: 356
 name: Sea Guardian
 status: ai-generated
-character_count: 347
+character_count: 267
 ---
 
 # Sea Guardian - Ability ID 356
@@ -13,7 +13,7 @@ character_count: 347
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When entering battle during rain, Sea Guardian analyzes the Pokemon's current stats including all modifications and boosts the highest one by one stage. This intelligent adaptation makes it valuable for any rain team member, whether offensive or defensive. The ability only triggers once per switch-in and requires active rain weather to function.
+When entering battle during rain, Sea Guardian analyzes current stats including modifications and boosts the highest one by one stage. Works with any rain type. Only triggers once per switch-in. Adapts to battle state by boosting the most relevant stat automatically.
 
 ## Detailed Mechanical Explanation
 

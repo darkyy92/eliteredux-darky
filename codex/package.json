@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Elite Redux Ability Codex - Comprehensive ability documentation",
   "scripts": {
-    "predev": "node scripts/copy-abilities.js",
+    "predev": "node scripts/copy-abilities.js && python3 ../scripts/ability_tools/generate_status_api.py",
     "dev": "vitepress dev docs",
-    "prebuild": "node scripts/copy-abilities.js",
+    "prebuild": "node scripts/copy-abilities.js && python3 ../scripts/ability_tools/generate_status_api.py",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
-    "copy-abilities": "node scripts/copy-abilities.js"
+    "copy-abilities": "node scripts/copy-abilities.js",
+    "generate-status": "python3 ../scripts/ability_tools/generate_status_api.py"
   },
   "dependencies": {
     "@codemirror/lang-markdown": "^6.2.4",
