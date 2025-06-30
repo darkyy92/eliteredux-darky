@@ -1,8 +1,8 @@
 ---
 id: 7
 name: Limber
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 265
 ---
 
 # Limber - Ability ID 7
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon's flexible body prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
+Prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
