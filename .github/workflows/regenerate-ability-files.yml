@@ -1,0 +1,57 @@
+name: Regenerate Ability Files
+
+on:
+  push:
+    branches:
+      - upcoming
+    paths:
+      - 'eliteredux-darky/knowledge/abilities/*.md'
+  workflow_dispatch:
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+          
+      - name: Run regeneration scripts
+        run: |
+          cd eliteredux-darky
+          
+          echo "🔄 Regenerating progress.md..."
+          python scripts/ability_tools/generate_progress.py
+          
+          echo "🔄 Regenerating status API..."
+          python scripts/ability_tools/generate_status_api.py
+          
+          echo "🔄 Extracting approved descriptions..."
+          python scripts/ability_tools/extract_approved_descriptions.py
+          
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add eliteredux-darky/knowledge/extended_ability_descriptions/progress.md
+          git add eliteredux-darky/knowledge/extended_ability_descriptions/extended_descriptions.txt
+          git add eliteredux-darky/codex/docs/.vitepress/ability-status.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: Auto-regenerate ability tracking files"
+            git push
+          fi
