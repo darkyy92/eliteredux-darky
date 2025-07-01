@@ -19,7 +19,7 @@ In Progress: 0
 |   8 | Sand Veil                  | ✅       | ❌        |
 |   9 | Static                     | ✅       | ✅        |
 |  10 | Volt Absorb                | ✅       | ✅        |
-|  11 | Water Absorb               | ✅       | ❌        |
+|  11 | Water Absorb               | ✅       | ✅        |
 |  12 | Oblivious                  | ✅       | ❌        |
 |  13 | Cloud Nine                 | ✅       | ✅        |
 |  14 | Compound Eyes              | ✅       | ❌        |
