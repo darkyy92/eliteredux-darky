@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 8,
+    "completed": 9,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-07-01T13:21:10.915838Z"
+    "generated_at": "2025-07-01T13:30:03.865166Z"
   },
   "abilities": {
     "0": {
@@ -32,8 +32,8 @@
       "id": 3,
       "name": "Speed Boost",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "4": {
       "id": 4,
@@ -6160,10 +6160,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "3": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "4": {
       "indicator": "✅",

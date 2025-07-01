@@ -5,7 +5,7 @@ Damaging moves gain +10% flinch chance, which stacks additively with existing fl
 Drizzle summons rain weather when the Pokemon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Certain moves and abilities have special interactions with rain. Cannot override primal weather conditions.
 
 # ID: 3
-Speed Boost raises user's Speed by one stage at end of each turn they remain on field. Doesn't activate on entry turn or when switching in. Continues building speed until reaching maximum (+6 stages). Creates powerful momentum and makes user increasingly threatening in extended battles.
+User's Speed increases by one stage at end of each full turn they remain on the field. Doesn't activate on the turn the user is switched in.
 
 # ID: 4
 Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
