@@ -199,11 +199,9 @@ import { useData } from 'vitepress'
 import * as Diff from 'diff'
 import Modal from './Modal.vue'
 import { useUIState } from '../composables/useUIState'
-import { useAbilityStatus } from '../composables/useAbilityStatus'
 
 const { page } = useData()
 const { showToast, showConfirm, showSuccess, showError, showUndoableSuccess } = useUIState()
-const { updateAbilityStatus, getAbilityStatus, forceRefresh } = useAbilityStatus()
 
 // State
 const isExpanded = ref(false)
@@ -347,13 +345,7 @@ const hasChanges = computed(() => {
 })
 
 const isReviewed = computed(() => {
-  // First check the real-time status from the store
-  const status = getAbilityStatus(abilityInfo.value.id)
-  if (status && (status.reviewed || status.status === 'reviewed')) {
-    return true
-  }
-  
-  // Fallback to checking frontmatter
+  // Check frontmatter for review status
   if (!originalContent.value) return false
   
   const frontmatterMatch = originalContent.value.match(/^---\n(.*?)\n---/s)
@@ -681,16 +673,14 @@ async function handleSaveConfirm() {
       originalContent.value = contentWithReviewedStatus
       editedContent.value = contentWithReviewedStatus
       
-      // Update ability status optimistically
-      await updateAbilityStatus(abilityInfo.value.id, {
-        status: 'reviewed',
-        reviewed: true,
-        written: true
-      })
+      // Hot reload disabled - awaiting full automated approval workflow
+      // await updateAbilityStatus(abilityInfo.value.id, {
+      //   status: 'reviewed',
+      //   reviewed: true,
+      //   written: true
+      // })
       
-      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}! Other users will see this update in 2-3 minutes.`, {
-        duration: 12000
-      })
+      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}!`)
       
     } catch (err) {
       console.error('Save error:', err)
@@ -804,17 +794,15 @@ async function handleApproveConfirm() {
     originalContent.value = updatedContent
     editedContent.value = updatedContent
     
-    // Update ability status optimistically
-    await updateAbilityStatus(abilityInfo.value.id, {
-      status: 'reviewed',
-      reviewed: true,
-      written: true
-    })
+    // Hot reload disabled - awaiting full automated approval workflow
+    // await updateAbilityStatus(abilityInfo.value.id, {
+    //   status: 'reviewed',
+    //   reviewed: true,
+    //   written: true
+    // })
     
       // Step 5: Show success message
-      showSuccess(`Successfully approved ${abilityInfo.value.name}! Other users will see this update in 2-3 minutes.`, {
-        duration: 12000
-      })
+      showSuccess(`Successfully approved ${abilityInfo.value.name}!`)
       
       // Don't auto-reload since changes take up to 3 minutes to propagate
       

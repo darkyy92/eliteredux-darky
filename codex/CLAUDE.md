@@ -149,20 +149,6 @@ The codex now includes an UNDO feature for save/approve actions:
 - Character counts ALWAYS include spaces (GBA renders spaces as tiles)
 - The site uses dark theme by default but supports theme switching
 
-## Real-Time Updates (Multi-User Support)
+## Future Enhancement: Real-Time Updates
 
-The Codex now features real-time hot-reloading for ability status updates:
-
-### Key Components
-- **useAbilityStatus.js** - Reactive store with smart polling and multi-user detection
-- **SidebarEnhancer.vue** - Dynamically updates sidebar checkmarks without page refresh
-- **Smart Polling** - 30s idle, 5s active, 2s pending changes
-
-### Features
-- Instant optimistic updates when approving/editing abilities
-- Multi-user activity detection and indicators
-- Automatic reconciliation with server state
-- Visual feedback (pulsing dots, smooth transitions)
-- Works across multiple tabs/browsers
-
-See `docs/.vitepress/real-time-updates.md` for detailed documentation.
+Real-time updates are currently disabled. The planned automated approval workflow (see `/plans/automated_approval_workflow/`) will provide instant updates without the polling issues.

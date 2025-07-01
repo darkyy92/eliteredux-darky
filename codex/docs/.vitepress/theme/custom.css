@@ -303,7 +303,7 @@ td {
   transition: all 0.3s ease;
 }
 
-/* Pending status indicator */
+/* Pending status indicator - DISABLED 
 .VPSidebarItem a[data-pending="true"] {
   position: relative;
   opacity: 0.85;
@@ -320,7 +320,7 @@ td {
   background: var(--vp-c-warning);
   border-radius: 50%;
   animation: pulse 1.5s ease-in-out infinite;
-}
+} */
 
 /* Just updated animation */
 .VPSidebarItem a.ability-just-updated {
@@ -352,10 +352,10 @@ td {
   }
 }
 
-/* Multi-user activity indicator */
+/* Multi-user activity indicator - DISABLED
 .activity-indicator {
   transition: all 0.3s ease-out;
-}
+} */
 
 /* Status-specific text colors */
 .VPSidebarItem a[data-ability-status="reviewed"] .text {
