@@ -2,7 +2,7 @@
 id: 5
 name: Sturdy
 status: reviewed
-character_count: 171
+character_count: 226
 ---
 
 # Sturdy - Ability ID 5
@@ -13,7 +13,7 @@ character_count: 171
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. Does not protect against multi-hit moves, status damage, or consecutive attacks.
+When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. This functions like a Focus Sash, and so does not protect against multihit attacks or follow-up attacks (e.g. Aftershock, Thundercall).
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
