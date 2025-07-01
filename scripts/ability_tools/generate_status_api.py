@@ -112,13 +112,15 @@ def main():
     status_indicators = generate_status_indicators(abilities_data)
     
     # Create output data
+    from datetime import datetime
+    
     output_data = {
         'metadata': {
             'total_abilities': len(abilities_data),
             'completed': sum(1 for data in abilities_data.values() if data['reviewed']),
             'written': sum(1 for data in abilities_data.values() if data['written']),
             'pending': sum(1 for data in abilities_data.values() if not data['written']),
-            'generated_at': None  # Will be set by the JS config
+            'generated_at': datetime.utcnow().isoformat() + 'Z'  # ISO 8601 format with Z suffix
         },
         'abilities': abilities_data,
         'indicators': status_indicators

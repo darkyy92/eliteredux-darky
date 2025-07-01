@@ -295,3 +295,84 @@ td {
   border-color: var(--vp-c-divider);
   color: var(--vp-c-text-1);
 }
+
+/* ===== Real-time Status Updates ===== */
+
+/* Sidebar item transitions */
+.VPSidebarItem a {
+  transition: all 0.3s ease;
+}
+
+/* Pending status indicator */
+.VPSidebarItem a[data-pending="true"] {
+  position: relative;
+  opacity: 0.85;
+}
+
+.VPSidebarItem a[data-pending="true"]::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 16px;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 6px;
+  background: var(--vp-c-warning);
+  border-radius: 50%;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+/* Just updated animation */
+.VPSidebarItem a.ability-just-updated {
+  animation: highlightUpdate 0.6s ease-out;
+}
+
+@keyframes highlightUpdate {
+  0% {
+    background-color: rgba(100, 108, 255, 0.25);
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(2px);
+  }
+  100% {
+    background-color: transparent;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: translateY(-50%) scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: translateY(-50%) scale(1.2);
+  }
+}
+
+/* Multi-user activity indicator */
+.activity-indicator {
+  transition: all 0.3s ease-out;
+}
+
+/* Status-specific text colors */
+.VPSidebarItem a[data-ability-status="reviewed"] .text {
+  color: var(--vp-c-text-1);
+}
+
+.VPSidebarItem a[data-ability-status="written"] .text {
+  color: var(--vp-c-text-2);
+}
+
+.VPSidebarItem a[data-ability-status="pending"] .text {
+  color: var(--vp-c-text-3);
+}
+
+/* Ensure checkmarks are visible in both themes */
+.VPSidebarItem .text {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}

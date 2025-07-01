@@ -199,9 +199,11 @@ import { useData } from 'vitepress'
 import * as Diff from 'diff'
 import Modal from './Modal.vue'
 import { useUIState } from '../composables/useUIState'
+import { useAbilityStatus } from '../composables/useAbilityStatus'
 
 const { page } = useData()
 const { showToast, showConfirm, showSuccess, showError, showUndoableSuccess } = useUIState()
+const { updateAbilityStatus, getAbilityStatus, forceRefresh } = useAbilityStatus()
 
 // State
 const isExpanded = ref(false)
@@ -345,8 +347,13 @@ const hasChanges = computed(() => {
 })
 
 const isReviewed = computed(() => {
-  // Check if the current ability is already reviewed
-  // This will be updated from the frontmatter when content is loaded
+  // First check the real-time status from the store
+  const status = getAbilityStatus(abilityInfo.value.id)
+  if (status && (status.reviewed || status.status === 'reviewed')) {
+    return true
+  }
+  
+  // Fallback to checking frontmatter
   if (!originalContent.value) return false
   
   const frontmatterMatch = originalContent.value.match(/^---\n(.*?)\n---/s)
@@ -674,7 +681,14 @@ async function handleSaveConfirm() {
       originalContent.value = contentWithReviewedStatus
       editedContent.value = contentWithReviewedStatus
       
-      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
+      // Update ability status optimistically
+      await updateAbilityStatus(abilityInfo.value.id, {
+        status: 'reviewed',
+        reviewed: true,
+        written: true
+      })
+      
+      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}!`, {
         duration: 8000
       })
       
@@ -790,8 +804,15 @@ async function handleApproveConfirm() {
     originalContent.value = updatedContent
     editedContent.value = updatedContent
     
+    // Update ability status optimistically
+    await updateAbilityStatus(abilityInfo.value.id, {
+      status: 'reviewed',
+      reviewed: true,
+      written: true
+    })
+    
       // Step 5: Show success message
-      showSuccess(`Successfully approved ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
+      showSuccess(`Successfully approved ${abilityInfo.value.name}!`, {
         duration: 8000
       })
       
