@@ -17,7 +17,7 @@ When at full HP, this Pokemon will survive any single attack with at least 1 HP 
 Contact moves from or against this Pokemon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances. Works offensively and defensively - even Fake Out can trigger it. Sets up Electric/Grass coverage perfectly.
 
 # ID: 7
-Prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
+Paralysis can't be applied to the user. All recoil damage is also halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam.
 
 # ID: 8
 During sandstorm, this Pokemon gains 25% evasion (foes have 80% accuracy) and immunity to sand damage. Synergizes with Sand Stream setters like Tyranitar. Enables SubVeil strategies with Substitute. Allows non-Rock/Ground/Steel types on sand teams. Bypassed by No Guard/Mold Breaker.
