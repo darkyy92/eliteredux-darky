@@ -1,7 +1,7 @@
 ---
 id: 11
 name: Water Absorb
-status: ai-generated
+status: reviewed
 character_count: 285
 ---
 
