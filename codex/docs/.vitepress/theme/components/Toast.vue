@@ -87,6 +87,10 @@ const props = defineProps({
     type: Object,
     default: null
     // Expected shape: { text: String, handler: Function }
+  },
+  undoable: {
+    type: Boolean,
+    default: false
   }
 })
 
@@ -130,14 +134,24 @@ function handleKeydown(event) {
   if (event.key === 'Escape') {
     event.preventDefault()
     dismiss()
+  } else if ((event.key === 'z' || event.key === 'Z') && props.undoable && props.action) {
+    event.preventDefault()
+    handleAction()
   }
 }
 
-// Handle global keyboard events (when toast is focused)
+// Handle global keyboard events (when toast is focused or undoable)
 function handleGlobalKeydown(event) {
   if (event.key === 'Escape' && document.activeElement === toastElement.value) {
     event.preventDefault()
     dismiss()
+  } else if ((event.key === 'z' || event.key === 'Z') && props.undoable && props.action && isVisible.value) {
+    // Check if user is not typing in an input
+    const isTyping = ['INPUT', 'TEXTAREA', 'SELECT'].includes(event.target.tagName)
+    if (!isTyping && !event.ctrlKey && !event.metaKey) {
+      event.preventDefault()
+      handleAction()
+    }
   }
 }
 

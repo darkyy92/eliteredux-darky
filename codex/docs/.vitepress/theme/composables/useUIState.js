@@ -3,6 +3,8 @@ import { ref, reactive, markRaw, nextTick, defineAsyncComponent } from 'vue'
 // Global state for managing UI components
 const toasts = ref([])
 const modals = reactive({})
+const pendingAction = ref(null)
+const pendingTimeout = ref(null)
 
 // Toast management
 export function useToast() {
@@ -197,6 +199,60 @@ export function useUIState() {
     })
   }
   
+  /**
+   * Show an undoable success toast with delayed action execution
+   * @param {string} message - Success message
+   * @param {Function} action - Action to execute after timeout
+   * @param {Object} [options] - Additional options
+   */
+  function showUndoableSuccess(message, action, options = {}) {
+    const duration = options.duration || 5000
+    
+    // Cancel any existing pending action
+    if (pendingTimeout.value) {
+      clearTimeout(pendingTimeout.value)
+      pendingTimeout.value = null
+      pendingAction.value = null
+    }
+    
+    // Store the action
+    pendingAction.value = action
+    
+    // Set timeout to execute action
+    pendingTimeout.value = setTimeout(() => {
+      if (pendingAction.value) {
+        pendingAction.value()
+        pendingAction.value = null
+        pendingTimeout.value = null
+      }
+    }, duration)
+    
+    // Show toast with undo action
+    return toast.showToast({
+      type: 'success',
+      message,
+      duration,
+      undoable: true,
+      action: {
+        text: 'Undo (Z)',
+        handler: () => {
+          // Cancel the pending action
+          if (pendingTimeout.value) {
+            clearTimeout(pendingTimeout.value)
+            pendingTimeout.value = null
+            pendingAction.value = null
+            toast.showToast({
+              type: 'info',
+              message: 'Action cancelled',
+              duration: 2000
+            })
+          }
+        }
+      },
+      ...options
+    })
+  }
+  
   return {
     // Toast methods
     ...toast,
@@ -208,6 +264,7 @@ export function useUIState() {
     showSuccess,
     showError,
     showConfirm,
-    showAlert
+    showAlert,
+    showUndoableSuccess
   }
 }

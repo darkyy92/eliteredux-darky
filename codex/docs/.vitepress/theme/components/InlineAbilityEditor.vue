@@ -22,8 +22,10 @@
             class="editor-button primary"
             @click="expandEditor"
             :disabled="loading"
+            title="Edit this ability (E)"
           >
-            {{ loading ? 'Loading...' : 'Edit This Ability' }}
+            <span>{{ loading ? 'Loading...' : 'Edit This Ability' }}</span>
+            <kbd v-if="!loading" class="button-kbd">E</kbd>
           </button>
           <button 
             class="editor-button secondary"
@@ -199,7 +201,7 @@ import Modal from './Modal.vue'
 import { useUIState } from '../composables/useUIState'
 
 const { page } = useData()
-const { showToast, showConfirm, showSuccess, showError } = useUIState()
+const { showToast, showConfirm, showSuccess, showError, showUndoableSuccess } = useUIState()
 
 // State
 const isExpanded = ref(false)
@@ -606,10 +608,13 @@ function submitToGitHub() {
 
 async function handleSaveConfirm() {
   saveModalOpen.value = false
-  loading.value = true
-  error.value = ''
   
-  try {
+  // Create the save action to be executed after delay
+  const executeSave = async () => {
+    loading.value = true
+    error.value = ''
+    
+    try {
     const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
     const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`
     
@@ -665,21 +670,32 @@ async function handleSaveConfirm() {
       throw new Error(errorData.message || 'Failed to save changes')
     }
     
-    // Update original content to reflect saved state (with reviewed status)
-    originalContent.value = contentWithReviewedStatus
-    editedContent.value = contentWithReviewedStatus
-    
-    showSuccess(`Successfully saved changes to ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
-      duration: 8000
-    })
-    collapseEditor()
-    
-  } catch (err) {
-    console.error('Save error:', err)
-    error.value = err.message || 'Failed to save changes'
-  } finally {
-    loading.value = false
+      // Update original content to reflect saved state (with reviewed status)
+      originalContent.value = contentWithReviewedStatus
+      editedContent.value = contentWithReviewedStatus
+      
+      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
+        duration: 8000
+      })
+      
+    } catch (err) {
+      console.error('Save error:', err)
+      error.value = err.message || 'Failed to save changes'
+      showError(`Failed to save changes: ${err.message}`)
+    } finally {
+      loading.value = false
+    }
   }
+  
+  // Show undoable success notification and queue the save
+  showUndoableSuccess(
+    `Saving changes to ${abilityInfo.value.name}...`,
+    executeSave,
+    { duration: 5000 }
+  )
+  
+  // Close editor immediately
+  collapseEditor()
 }
 
 function createSimpleIssue() {
@@ -715,9 +731,12 @@ function approveAbility() {
 
 async function handleApproveConfirm() {
   approveModalOpen.value = false
-  approving.value = true
   
-  try {
+  // Create the approve action to be executed after delay
+  const executeApprove = async () => {
+    approving.value = true
+    
+    try {
     const filePath = `knowledge/abilities/${abilityInfo.value.filename}.md`
     
     // Step 1: Get current file content from GitHub
@@ -771,24 +790,44 @@ async function handleApproveConfirm() {
     originalContent.value = updatedContent
     editedContent.value = updatedContent
     
-    // Step 5: Show success message
-    showSuccess(`Successfully approved ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
-      duration: 8000
-    })
-    
-    // Don't auto-reload since changes take up to 3 minutes to propagate
-    
-  } catch (error) {
-    console.error('Error approving ability:', error)
-    showError(`Failed to approve ability: ${error.message}`)
-  } finally {
-    approving.value = false
+      // Step 5: Show success message
+      showSuccess(`Successfully approved ${abilityInfo.value.name}! Changes may take up to 3 minutes to appear.`, {
+        duration: 8000
+      })
+      
+      // Don't auto-reload since changes take up to 3 minutes to propagate
+      
+    } catch (error) {
+      console.error('Error approving ability:', error)
+      showError(`Failed to approve ability: ${error.message}`)
+    } finally {
+      approving.value = false
+    }
   }
+  
+  // Show undoable success notification and queue the approval
+  showUndoableSuccess(
+    `Approving ${abilityInfo.value.name}...`,
+    executeApprove,
+    { duration: 5000 }
+  )
 }
 
 // Keyboard shortcuts
 function handleKeydown(event) {
-  if (isExpanded.value) {
+  // Check if user is typing in an input field
+  const isTyping = ['INPUT', 'TEXTAREA', 'SELECT'].includes(event.target.tagName)
+  
+  if (!isExpanded.value && isAbilityPage.value) {
+    // 'E' key to open editor
+    if (event.key === 'e' || event.key === 'E') {
+      // Don't trigger if user is typing or using modifier keys
+      if (!isTyping && !event.ctrlKey && !event.metaKey && !event.altKey) {
+        event.preventDefault()
+        expandEditor()
+      }
+    }
+  } else if (isExpanded.value) {
     // Ctrl/Cmd + S to submit
     if ((event.ctrlKey || event.metaKey) && event.key === 's') {
       event.preventDefault()
