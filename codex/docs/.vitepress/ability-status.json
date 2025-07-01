@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 6,
+    "completed": 7,
     "written": 875,
     "pending": 1,
-    "generated_at": null
+    "generated_at": "2025-07-01T01:14:32.248483Z"
   },
   "abilities": {
     "0": {
@@ -137,8 +137,8 @@
       "id": 18,
       "name": "Flash Fire",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "19": {
       "id": 19,
@@ -6250,10 +6250,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "18": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "19": {
       "indicator": "🟠",

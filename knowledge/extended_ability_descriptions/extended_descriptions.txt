@@ -50,7 +50,7 @@ Color Change analyzes incoming attacks and instantly transforms the user into th
 Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker abilities.
 
 # ID: 18
-Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits. Turns defensive plays into offensive opportunities against Fire attackers. Perfect counter to Fire-types.
+Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits.
 
 # ID: 19
 Shield Dust provides triple protection: blocks all secondary effects from damaging moves (burn, paralysis, stat drops), grants complete immunity to entry hazards (Stealth Rock, Spikes), and nullifies all powder-based moves. Elite Redux significantly expanded this ability's defensive coverage.
