@@ -1,7 +1,7 @@
 ---
 id: 9
 name: Static
-status: ai-generated
+status: reviewed
 character_count: 293
 ---
 
