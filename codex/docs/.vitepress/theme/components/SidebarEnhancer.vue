@@ -77,12 +77,27 @@ async function updateSidebarItems() {
     const textNode = link.querySelector('.text') || link
     let text = textNode.textContent || ''
     
-    // Remove existing indicators (any emoji at start)
-    text = text.replace(/^[✅🟠⏳]\s*/, '')
-    
-    // Add new indicator
-    const indicator = status.indicator || '🟠'
-    textNode.textContent = `${indicator} ${text.trim()}`
+    // Only update if not already updated
+    if (!link.hasAttribute('data-indicator-applied')) {
+      // Remove any existing indicators first
+      text = text.replace(/^[✅🟠⏳]\s*/, '')
+      
+      // Extract just the ability ID and name
+      const cleanMatch = text.match(/^(\d+\s+.+)$/)
+      if (cleanMatch) {
+        const cleanText = cleanMatch[1]
+        const indicator = status.indicator || '🟠'
+        textNode.textContent = `${indicator} ${cleanText}`
+        link.setAttribute('data-indicator-applied', 'true')
+      }
+    } else {
+      // Just update the indicator if it changed
+      const currentIndicator = text.match(/^([✅🟠⏳])/)
+      const newIndicator = status.indicator || '🟠'
+      if (currentIndicator && currentIndicator[1] !== newIndicator) {
+        textNode.textContent = text.replace(/^[✅🟠⏳]/, newIndicator)
+      }
+    }
     
     // Add activity class if recently changed
     if (status.lastModified && Date.now() - status.lastModified < 3000) {
@@ -99,7 +114,7 @@ function scheduleUpdate() {
   if (updateTimer) {
     clearTimeout(updateTimer)
   }
-  updateTimer = setTimeout(updateSidebarItems, 100)
+  updateTimer = setTimeout(updateSidebarItems, 500) // Increased delay to prevent rapid updates
 }
 
 // Watch for status changes

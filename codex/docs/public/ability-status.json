@@ -1,14 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 8,
+    "completed": 6,
     "written": 875,
     "pending": 1,
-<<<<<<< HEAD
-    "generated_at": "2025-07-01T01:29:58.391954Z"
-=======
     "generated_at": "2025-07-01T01:07:19.538457Z"
->>>>>>> fe01de6 (feat(codex): add real-time hot-reload for ability status updates)
   },
   "abilities": {
     "0": {
@@ -106,8 +102,8 @@
       "id": 13,
       "name": "Cloud Nine",
       "written": true,
-      "reviewed": true,
-      "status": "reviewed"
+      "reviewed": false,
+      "status": "written"
     },
     "14": {
       "id": 14,
@@ -141,8 +137,8 @@
       "id": 18,
       "name": "Flash Fire",
       "written": true,
-      "reviewed": true,
-      "status": "reviewed"
+      "reviewed": false,
+      "status": "written"
     },
     "19": {
       "id": 19,
@@ -6224,10 +6220,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "13": {
-      "indicator": "✅",
-      "badge_class": "status-complete",
-      "progress_text": "2/2",
-      "tooltip": "Written: ✅, Reviewed: ✅"
+      "indicator": "🟠",
+      "badge_class": "status-needs-review",
+      "progress_text": "1/2",
+      "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "14": {
       "indicator": "🟠",
@@ -6254,10 +6250,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "18": {
-      "indicator": "✅",
-      "badge_class": "status-complete",
-      "progress_text": "2/2",
-      "tooltip": "Written: ✅, Reviewed: ✅"
+      "indicator": "🟠",
+      "badge_class": "status-needs-review",
+      "progress_text": "1/2",
+      "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "19": {
       "indicator": "🟠",

@@ -118,8 +118,15 @@ export function useAbilityStatus() {
     // Save to localStorage
     saveLocalState()
     
+    // Force update the merged status to trigger reactivity
+    statusData.value = { ...statusData.value }
+    
     // Trigger faster polling
     adjustPollingInterval()
+    
+    if (import.meta.env.DEV) {
+      console.log(`[useAbilityStatus] Updated ability ${id} locally:`, updates)
+    }
     
     return true
   }
@@ -180,7 +187,7 @@ export function useAbilityStatus() {
         headers['If-None-Match'] = lastETag.value
       }
       
-      const response = await fetch('/.vitepress/ability-status.json', {
+      const response = await fetch('/ability-status.json', {
         method: 'GET',
         headers,
         cache: force ? 'no-cache' : 'default'
@@ -188,11 +195,22 @@ export function useAbilityStatus() {
       
       if (response.status === 304) {
         // Not modified - data hasn't changed
-        console.log('Ability status unchanged (304)')
+        if (import.meta.env.DEV) {
+          console.log('Ability status unchanged (304)')
+        }
       } else if (response.ok) {
         const data = await response.json()
         statusData.value = data
         lastSync.value = Date.now()
+        
+        // Log only in development
+        if (import.meta.env.DEV) {
+          console.log('[useAbilityStatus] Loaded status data:', {
+            totalAbilities: data.metadata?.total_abilities,
+            hasAbilities: !!data.abilities,
+            abilitiesCount: Object.keys(data.abilities || {}).length
+          })
+        }
         
         // Store ETag for next request
         const etag = response.headers.get('ETag')
@@ -263,7 +281,9 @@ export function useAbilityStatus() {
     
     if (reconciledIds.length > 0) {
       saveLocalState()
-      console.log(`Reconciled ${reconciledIds.length} pending changes`)
+      if (import.meta.env.DEV) {
+        console.log(`Reconciled ${reconciledIds.length} pending changes`)
+      }
     }
   }
   

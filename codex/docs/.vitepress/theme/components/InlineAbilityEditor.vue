@@ -688,8 +688,8 @@ async function handleSaveConfirm() {
         written: true
       })
       
-      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}!`, {
-        duration: 8000
+      showSuccess(`Successfully saved changes to ${abilityInfo.value.name}! Other users will see this update in 2-3 minutes.`, {
+        duration: 12000
       })
       
     } catch (err) {
@@ -812,8 +812,8 @@ async function handleApproveConfirm() {
     })
     
       // Step 5: Show success message
-      showSuccess(`Successfully approved ${abilityInfo.value.name}!`, {
-        duration: 8000
+      showSuccess(`Successfully approved ${abilityInfo.value.name}! Other users will see this update in 2-3 minutes.`, {
+        duration: 12000
       })
       
       // Don't auto-reload since changes take up to 3 minutes to propagate
