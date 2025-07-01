@@ -1,7 +1,7 @@
 ---
 id: 10
 name: Volt Absorb
-status: ai-generated
+status: reviewed
 character_count: 289
 ---
 
