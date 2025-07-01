@@ -2,7 +2,7 @@
 id: 7
 name: Limber
 status: reviewed
-character_count: 265
+character_count: 221
 ---
 
 # Limber - Ability ID 7
@@ -13,7 +13,7 @@ character_count: 265
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents paralysis and absorbs impact from recoil moves. Cannot be paralyzed by any means and takes only half damage from recoil effects, including crash damage. Makes Brave Bird and Double-Edge spammable, while High Jump Kick miss only costs 25% HP instead of 50%.
+Paralysis can't be applied to the user. All recoil damage is also halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
