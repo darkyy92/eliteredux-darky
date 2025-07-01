@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 7,
+    "completed": 8,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-07-01T01:14:32.248483Z"
+    "generated_at": "2025-07-01T01:29:58.391954Z"
   },
   "abilities": {
     "0": {
@@ -102,8 +102,8 @@
       "id": 13,
       "name": "Cloud Nine",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "14": {
       "id": 14,
@@ -6220,10 +6220,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "13": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "14": {
       "indicator": "🟠",

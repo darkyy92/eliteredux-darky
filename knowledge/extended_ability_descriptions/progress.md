@@ -21,7 +21,7 @@ In Progress: 0
 |  10 | Volt Absorb                | ✅       | ❌        |
 |  11 | Water Absorb               | ✅       | ❌        |
 |  12 | Oblivious                  | ✅       | ❌        |
-|  13 | Cloud Nine                 | ✅       | ❌        |
+|  13 | Cloud Nine                 | ✅       | ✅        |
 |  14 | Compound Eyes              | ✅       | ❌        |
 |  15 | Insomnia                   | ✅       | ✅        |
 |  16 | Color Change               | ✅       | ❌        |
