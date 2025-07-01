@@ -1,8 +1,8 @@
 ---
 id: 3
 name: Speed Boost
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 140
 ---
 
 # Speed Boost - Ability ID 3
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Speed Boost raises user's Speed by one stage at end of each turn they remain on field. Doesn't activate on entry turn or when switching in. Continues building speed until reaching maximum (+6 stages). Creates powerful momentum and makes user increasingly threatening in extended battles.
+User's Speed increases by one stage at end of each full turn they remain on the field. Doesn't activate on the turn the user is switched in.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
