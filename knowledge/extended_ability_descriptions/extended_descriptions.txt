@@ -35,7 +35,7 @@ This Pokemon absorbs Water-type moves completely, converting them into energy th
 This Pokemon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
 
 # ID: 13
-Cloud Nine clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
+Cloud Nine clears all weather upon switch-in and nullifies weather effects (including Primal weathers) while the user remains on the field. Weather can still be set, but provides no damage boosts or ability triggers until the user switches out.
 
 # ID: 14
 Compound Eyes grants a 30% accuracy boost to all the user's moves, multiplying accuracy by 1.3. Makes unreliable moves highly accurate - Sleep Powder hits 97.5%, Hurricane 91%. Outside battle, wild Pokemon are 4x more likely to hold items when this leads your party. Essential for status users.
