@@ -2,7 +2,7 @@
 id: 13
 name: Cloud Nine
 status: reviewed
-character_count: 299
+character_count: 244
 ---
 
 # Cloud Nine - Ability ID 13
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cloud Nine clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
+Cloud Nine clears all weather upon switch-in and nullifies weather effects (including Primal weathers) while the user remains on the field. Weather can still be set, but provides no damage boosts or ability triggers until the user switches out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
