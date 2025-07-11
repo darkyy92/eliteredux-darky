@@ -1,8 +1,8 @@
 ---
 id: 8
 name: Sand Veil
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 252
 ---
 
 # Sand Veil - Ability ID 8
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-During sandstorm, this Pokemon gains 25% evasion (foes have 80% accuracy) and immunity to sand damage. Synergizes with Sand Stream setters like Tyranitar. Enables SubVeil strategies with Substitute. Allows non-Rock/Ground/Steel types on sand teams. Bypassed by No Guard/Mold Breaker.
+During sandstorm, enemy Pokemon's accuracy is divided by 1.25, and user is immune to sand damage. Bypassed by No Guard/Mold Breaker. (note to self: does this count as +1 evasion? does it just multiply the end result after accuracy/evasion buffs/nerfs?)
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -55,10 +55,10 @@ constexpr Ability SandVeil = {
 
 ### Accuracy Calculation Example
 Base 100% accuracy move in sandstorm:
-- 100% Ã· 1.25 = **80% final accuracy**
+- 100% ÷ 1.25 = **80% final accuracy**
 
 With opponent's Hone Claws (+1 accuracy):
-- 133% Ã· 1.25 = **106.4% final accuracy**
+- 133% ÷ 1.25 = **106.4% final accuracy**
 
 ### Interactions with Other Abilities/Mechanics
 - **Sand Stream**: Partner ability to set sandstorm
