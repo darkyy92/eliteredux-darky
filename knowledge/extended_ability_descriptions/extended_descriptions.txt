@@ -19,9 +19,6 @@ If the user makes contact with another Pokemon, offensively or defensively, the 
 # ID: 7
 All recoil damage to the user is halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam. Paralysis also cannot affect the user, and if they gain Limber, existing paralysis is cured.
 
-# ID: 8
-During sandstorm, this Pokemon gains 25% evasion (foes have 80% accuracy) and immunity to sand damage. Synergizes with Sand Stream setters like Tyranitar. Enables SubVeil strategies with Substitute. Allows non-Rock/Ground/Steel types on sand teams. Bypassed by No Guard/Mold Breaker.
-
 # ID: 9
 30% chance to paralyze on any contact move (both offense and defense in Elite Redux). Halves foe's Speed to 50% with 25% full paralysis chance per turn. Makes Wild Charge/Spark deadly threats. Severely punishes U-turn/Fake Out users. Electric-types and Limber immune. Bypassed by Mold Breaker.
 

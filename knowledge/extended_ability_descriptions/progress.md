@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 875
+Completed: 874
 In Progress: 0
 
 ## Progress Tracking
@@ -16,7 +16,7 @@ In Progress: 0
 |   5 | Sturdy                     | ✅       | ✅        |
 |   6 | Damp                       | ✅       | ✅        |
 |   7 | Limber                     | ✅       | ✅        |
-|   8 | Sand Veil                  | ✅       | ❌        |
+|   8 | Ability 8                  | ❌       | ❌        |
 |   9 | Static                     | ✅       | ✅        |
 |  10 | Volt Absorb                | ✅       | ✅        |
 |  11 | Water Absorb               | ✅       | ✅        |
