@@ -2,7 +2,7 @@
 id: 6
 name: Damp
 status: reviewed
-character_count: 294
+character_count: 245
 ---
 
 # Damp - Ability ID 6
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact moves from or against this Pokemon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances. Works offensively and defensively - even Fake Out can trigger it. Sets up Electric/Grass coverage perfectly.
+If the user makes contact with another Pokemon, offensively or defensively, the other Pokemon's type is changed to pure Water. This happens immediately for multihit or priority moves and can remove STAB in the middle of an enemy's multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
