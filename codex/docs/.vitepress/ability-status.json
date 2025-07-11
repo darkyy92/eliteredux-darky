@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 12,
+    "completed": 13,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-07-11T19:37:59.382326Z"
+    "generated_at": "2025-07-11T19:41:01.593232Z"
   },
   "abilities": {
     "0": {
@@ -53,8 +53,8 @@
       "id": 6,
       "name": "Damp",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "7": {
       "id": 7,
@@ -6178,10 +6178,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "6": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "7": {
       "indicator": "✅",

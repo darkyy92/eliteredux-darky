@@ -14,7 +14,7 @@ In Progress: 0
 |   3 | Speed Boost                | ✅       | ✅        |
 |   4 | Battle Armor               | ✅       | ✅        |
 |   5 | Sturdy                     | ✅       | ✅        |
-|   6 | Damp                       | ✅       | ❌        |
+|   6 | Damp                       | ✅       | ✅        |
 |   7 | Limber                     | ✅       | ✅        |
 |   8 | Sand Veil                  | ✅       | ❌        |
 |   9 | Static                     | ✅       | ✅        |
