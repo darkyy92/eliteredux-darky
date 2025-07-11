@@ -1,7 +1,7 @@
 ---
 id: 6
 name: Damp
-status: ai-generated
+status: reviewed
 character_count: 294
 ---
 
