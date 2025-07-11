@@ -14,7 +14,7 @@ Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduc
 When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. This functions like a Focus Sash, and so does not protect against multihit attacks or follow-up attacks (e.g. Aftershock, Thundercall).
 
 # ID: 6
-Contact moves from or against this Pokemon soak the opponent, changing their type to pure Water. This type change removes their STAB bonuses and alters their weaknesses and resistances. Works offensively and defensively - even Fake Out can trigger it. Sets up Electric/Grass coverage perfectly.
+If the user makes contact with another Pokemon, offensively or defensively, the other Pokemon's type is changed to pure Water. This happens immediately for multihit or priority moves and can remove STAB in the middle of an enemy's multihit move.
 
 # ID: 7
 All recoil damage to the user is halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam. Paralysis also cannot affect the user, and if they gain Limber, existing paralysis is cured.
