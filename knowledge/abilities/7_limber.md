@@ -2,7 +2,7 @@
 id: 7
 name: Limber
 status: reviewed
-character_count: 221
+character_count: 281
 ---
 
 # Limber - Ability ID 7
@@ -13,7 +13,7 @@ character_count: 221
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Paralysis can't be applied to the user. All recoil damage is also halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam.
+All recoil damage to the user is halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam. Paralysis also cannot affect the user, and if they gain Limber, existing paralysis is cured.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
