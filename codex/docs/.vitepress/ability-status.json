@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 23,
+    "completed": 24,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T16:24:41.887118Z"
+    "generated_at": "2025-07-12T16:34:57.139210Z"
   },
   "abilities": {
     "0": {
@@ -1495,8 +1495,8 @@
       "id": 212,
       "name": "Corrosion",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "213": {
       "id": 213,
@@ -7414,10 +7414,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "212": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "213": {
       "indicator": "🟠",

@@ -629,7 +629,7 @@ Battle Bond immediately triggers a form change when this Pokemon deals the finis
 Power Construct transforms Zygarde 50% or 10% forms into Complete form when HP drops to 50% or below at the end of any turn. Complete form has massive 216 HP (doubled from 108), making it an extremely bulky tank. The transformation is permanent for the battle and cannot be suppressed.
 
 # ID: 212
-Poison-type moves become super effective against Steel-type Pokemon (2x damage instead of 0.5x). Additionally, this Pokemon can inflict poison status on any type, including Steel and Poison types that are normally immune. Useful for breaking through traditional poison immunities.
+Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type.
 
 # ID: 213
 Comatose keeps the Pokemon in a permanent sleep-like state while remaining fully functional in battle. The Pokemon can use all moves normally despite appearing asleep and gains complete immunity to all status conditions including poison, burn, paralysis, freeze, and sleep itself.
