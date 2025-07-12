@@ -1,8 +1,8 @@
 ---
 id: 212
 name: Corrosion
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 134
 ---
 
 # Corrosion - Ability ID 212
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Poison-type moves become super effective against Steel-type Pokemon (2x damage instead of 0.5x). Additionally, this Pokemon can inflict poison status on any type, including Steel and Poison types that are normally immune. Useful for breaking through traditional poison immunities.
+Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
