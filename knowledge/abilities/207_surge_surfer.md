@@ -1,8 +1,8 @@
 ---
 id: 207
 name: Surge Surfer
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 138
 ---
 
 # Surge Surfer - Ability ID 207
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Surge Surfer boosts the Pokemon's Speed by 50% when Electric Terrain is active. Works with any source of Electric Terrain including moves like Electric Terrain, abilities like Electric Surge, and terrain-setting effects. The boost applies immediately and disappears when terrain ends.
+Surge Surfer boosts the Pokemon's Speed by 50% when Electric Terrain is active. The boost applies immediately and disappears when it ends.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
