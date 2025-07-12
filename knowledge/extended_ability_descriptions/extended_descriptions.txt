@@ -713,7 +713,7 @@ Mirror Armor reflects all stat-lowering effects aimed at the user back to the at
 When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
 
 # ID: 242
-Stalwart prevents the Pokemon from being affected by target redirection effects. This includes abilities like Lightning Rod, Storm Drain, and Sap Sipper that draw certain move types, as well as moves like Follow Me and Rage Powder that force attacks to target them instead.
+Stalwart prevents the Pokemon from being affected by target redirection effects and effects that remove or suppress abilities.
 
 # ID: 243
 Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage, allowing for potential revenge kills or escapes. Works with both direct attacks and indirect damage like entry hazards.

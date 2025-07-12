@@ -250,7 +250,7 @@ In Progress: 0
 | 239 | Propeller Tail             | ✅       | ✅        |
 | 240 | Mirror Armor               | ✅       | ✅        |
 | 241 | Gulp Missile               | ✅       | ❌        |
-| 242 | Stalwart                   | ✅       | ❌        |
+| 242 | Stalwart                   | ✅       | ✅        |
 | 243 | Steam Engine               | ✅       | ❌        |
 | 244 | Punk Rock                  | ✅       | ❌        |
 | 245 | Sand Spit                  | ✅       | ❌        |
