@@ -221,7 +221,7 @@ In Progress: 0
 | 210 | Battle Bond                | ✅       | ✅        |
 | 211 | Power Construct            | ✅       | ❌        |
 | 212 | Corrosion                  | ✅       | ✅        |
-| 213 | Comatose                   | ✅       | ❌        |
+| 213 | Comatose                   | ✅       | ✅        |
 | 214 | Queenly Majesty            | ✅       | ❌        |
 | 215 | Innards Out                | ✅       | ❌        |
 | 216 | Dancer                     | ✅       | ❌        |
