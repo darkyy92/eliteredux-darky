@@ -647,7 +647,7 @@ Battery provides a 30% boost to ally Pokemon's Special attacks in double battles
 Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage. Multiplicative with other forms of damage reduction.
 
 # ID: 219
-Dazzling blocks all priority moves from opponents targeting the user or allies. Works against moves with +1 or higher priority including Quick Attack, Extremespeed, and priority status moves. Protects frail sweepers from revenge killing. Can be bypassed by Mold Breaker abilities.
+Dazzling blocks all priority moves from opponents targeting the user or allies.
 
 # ID: 220
 Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.

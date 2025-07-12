@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 29,
+    "completed": 30,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:06:35.468492Z"
+    "generated_at": "2025-07-12T17:08:45.393744Z"
   },
   "abilities": {
     "0": {
@@ -1544,8 +1544,8 @@
       "id": 219,
       "name": "Dazzling",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "220": {
       "id": 220,
@@ -7456,10 +7456,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "219": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "220": {
       "indicator": "🟠",
