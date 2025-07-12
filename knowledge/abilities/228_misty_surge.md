@@ -1,8 +1,8 @@
 ---
 id: 228
 name: Misty Surge
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 205
 ---
 
 # Misty Surge - Ability ID 228
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Misty Surge automatically sets Misty Terrain when the Pokemon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
+Creates Misty Terrain on entry, lasting 8 turns (12 with Terrain Extender). Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Overrides existing terrain.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
