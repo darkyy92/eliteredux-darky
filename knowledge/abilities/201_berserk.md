@@ -1,8 +1,8 @@
 ---
 id: 201
 name: Berserk
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 298
 ---
 
 # Berserk - Ability ID 201
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Berserk activates when the Pokemon drops to half HP or below, boosting its highest attacking stat by one stage. Compares Attack and Special Attack including stat stages to determine which gets boosted. Triggers only once per battle per Pokemon. Works on contact and non-contact moves.
+Berserk activates when the Pokemon drops to half HP or below from an opposing attack, boosting its highest attacking stat by one stage. Includes stat stages to determine which gets boosted. Triggers only once per battle. Other damage sources that bring you to half HP or below will not activate it.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
