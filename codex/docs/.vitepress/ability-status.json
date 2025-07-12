@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 26,
+    "completed": 27,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T16:52:11.233570Z"
+    "generated_at": "2025-07-12T16:57:09.467440Z"
   },
   "abilities": {
     "0": {
@@ -1523,8 +1523,8 @@
       "id": 216,
       "name": "Dancer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "217": {
       "id": 217,
@@ -7438,10 +7438,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "216": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "217": {
       "indicator": "🟠",

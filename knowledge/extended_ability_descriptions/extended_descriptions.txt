@@ -638,7 +638,7 @@ Comatose considers the user as asleep for moves and statuses. The Pokemon can mo
 Innards Out activates when the Pokemon is knocked out by an opponent's attack. It inflicts the same amount of damage the fatal attack dealt back to the attacker. Cannot affect attackers protected by Magic Guard.
 
 # ID: 216
-When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move. Dance moves include Swords Dance, Dragon Dance, Quiver Dance, Petal Dance, Feather Dance, Teeter Dance, Lunar Dance, Fiery Dance, Revelation Dance, and Aqua Step. Cannot copy if already moved this turn.
+When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move after. Triggers once per move.
 
 # ID: 217
 Battery provides a 30% power boost to ally Pokemon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
