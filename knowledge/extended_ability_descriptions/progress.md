@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 874
+Completed: 873
 In Progress: 0
 
 ## Progress Tracking
@@ -222,7 +222,7 @@ In Progress: 0
 | 211 | Power Construct            | ✅       | ❌        |
 | 212 | Corrosion                  | ✅       | ✅        |
 | 213 | Comatose                   | ✅       | ✅        |
-| 214 | Queenly Majesty            | ✅       | ❌        |
+| 214 | Ability 214                | ❌       | ❌        |
 | 215 | Innards Out                | ✅       | ❌        |
 | 216 | Dancer                     | ✅       | ❌        |
 | 217 | Battery                    | ✅       | ❌        |

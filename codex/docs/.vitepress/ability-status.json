@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 25,
-    "written": 874,
-    "pending": 2,
-    "generated_at": "2025-07-12T16:46:42.498718Z"
+    "written": 873,
+    "pending": 3,
+    "generated_at": "2025-07-12T16:47:32.145994Z"
   },
   "abilities": {
     "0": {
@@ -1507,10 +1507,10 @@
     },
     "214": {
       "id": 214,
-      "name": "Queenly Majesty",
-      "written": true,
+      "name": "Ability 214",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "215": {
       "id": 215,
@@ -7426,10 +7426,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "214": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "215": {
       "indicator": "🟠",

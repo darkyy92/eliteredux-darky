@@ -634,9 +634,6 @@ Poison-type moves become super effective against Steel-type Pokemon. Additionall
 # ID: 213
 Comatose considers the user as asleep for moves and statuses. The Pokemon can move normally and gains immunity to all status conditions. Cannot be copied or suppressed. Rest fails when used.
 
-# ID: 214
-Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0. Moves like Quick Attack (+2), Fake Out (+3), Sucker Punch (+1), and Bullet Punch (+1) fail completely. The ability can be bypassed by Mold Breaker effects.
-
 # ID: 215
 Innards Out activates when the Pokemon is knocked out by an opponent's direct attack. It inflicts the exact same amount of damage the fatal attack dealt back to the attacker. Works with physical and special moves but not indirect damage. Cannot affect attackers protected by Magic Guard.
 
