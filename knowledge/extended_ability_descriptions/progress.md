@@ -253,7 +253,7 @@ In Progress: 0
 | 242 | Stalwart                   | ✅       | ✅        |
 | 243 | Steam Engine               | ✅       | ✅        |
 | 244 | Punk Rock                  | ✅       | ✅        |
-| 245 | Sand Spit                  | ✅       | ❌        |
+| 245 | Sand Spit                  | ✅       | ✅        |
 | 246 | Ice Scales                 | ✅       | ❌        |
 | 247 | Ripen                      | ✅       | ❌        |
 | 248 | Ice Face                   | ✅       | ❌        |
