@@ -217,7 +217,7 @@ In Progress: 0
 | 206 | Galvanize                  | ✅       | ✅        |
 | 207 | Surge Surfer               | ✅       | ✅        |
 | 208 | Schooling                  | ✅       | ❌        |
-| 209 | Disguise                   | ✅       | ❌        |
+| 209 | Disguise                   | ✅       | ✅        |
 | 210 | Battle Bond                | ✅       | ❌        |
 | 211 | Power Construct            | ✅       | ❌        |
 | 212 | Corrosion                  | ✅       | ❌        |

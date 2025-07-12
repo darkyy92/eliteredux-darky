@@ -620,7 +620,7 @@ Surge Surfer boosts the Pokemon's Speed by 50% when Electric Terrain is active. 
 When at level 20 or above, transforms into School Form with improved stats and abilities. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot transform if already transformed by other effects.
 
 # ID: 209
-Disguise blocks the first damaging move that hits the Pokemon, breaking the disguise and changing its form. Only non-status moves are blocked, and certain moves bypass this protection. In fog weather, the disguise is restored, returning to the original form.
+Disguise blocks the first damaging move that hits the Pokemon and changes its form after. Only non-status moves are blocked. In fog, the disguise is restored immediately once per switch in, or when fog is set again.
 
 # ID: 210
 Battle Bond triggers form transformation when this Pokemon deals the finishing blow to an opponent. Greninja becomes Ash-Greninja with boosted Attack and Special Attack (+50/+50). Chesnaught becomes Clemont form with enhanced physical bulk. Delphox transforms into enhanced Serena form.

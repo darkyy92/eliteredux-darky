@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 21,
+    "completed": 22,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T16:06:18.707092Z"
+    "generated_at": "2025-07-12T16:20:47.694335Z"
   },
   "abilities": {
     "0": {
@@ -1474,8 +1474,8 @@
       "id": 209,
       "name": "Disguise",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "210": {
       "id": 210,
@@ -7396,10 +7396,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "209": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "210": {
       "indicator": "🟠",
