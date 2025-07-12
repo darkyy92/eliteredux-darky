@@ -1,8 +1,8 @@
 ---
 id: 217
 name: Battery
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 119
 ---
 
 # Battery - Ability ID 217
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Battery provides a 30% power boost to ally Pokemon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
+Battery provides a 30% boost to ally Pokemon's Special attacks in double battles. Does not affect the user's own moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
