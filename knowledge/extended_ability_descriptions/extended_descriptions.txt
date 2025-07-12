@@ -608,7 +608,7 @@ Long Reach prevents the Pokemon from making contact with targets when using move
 Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Affects moves like Hyper Voice, Boomburst, Sing, and Growl. Type change occurs before damage calculation for proper STAB and effectiveness. Provides excellent Water coverage while maintaining sound utility.
 
 # ID: 205
-Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing.
+Triage grants +3 priority to most healing moves. Includes draining moves like Giga Drain, and delayed healing moves like Wish. Does not work with  Aqua Ring, Grassy Terrain, Ingrain, Leech Seed, Pain Split, Present, or Pollen Puff.
 
 # ID: 206
 Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokemon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
