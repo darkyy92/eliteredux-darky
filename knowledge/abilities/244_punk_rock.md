@@ -1,8 +1,8 @@
 ---
 id: 244
 name: Punk Rock
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 237
 ---
 
 # Punk Rock - Ability ID 244
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punk Rock amplifies the user's sound-based attacks by 30% while providing exceptional acoustic defense, reducing incoming sound move damage by 50%. This dual nature makes sound specialists both formidable attackers and resilient defenders against sonic warfare.
+Punk Rock amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. The damage boost is additive with other damage boost sources and the damage reduction is multiplicative with other damage reduction sources. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
