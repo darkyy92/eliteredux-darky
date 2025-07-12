@@ -1,8 +1,8 @@
 ---
 id: 223
 name: Power of Alchemy
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 202
 ---
 
 # Power of Alchemy - Ability ID 223
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, Power of Alchemy remembers and creates a replacement: regular items become Black Sludge, while previously transmuted items become Big Nuggets. Continuously transforms item economy.
+Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, it gets replaced by Black Sludge. If Black Sludge is removed, it gets replaced by Big Nugget.
 
 ## Detailed Mechanical Explanation
 **Power of Alchemy** creates a sophisticated "magical item economy" where the user acts as an alchemist, immediately disrupting opposing Berry strategies and continuously transmuting lost items.
