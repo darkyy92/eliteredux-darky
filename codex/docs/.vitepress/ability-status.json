@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 18,
+    "completed": 19,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T15:44:00.559266Z"
+    "generated_at": "2025-07-12T15:49:02.141426Z"
   },
   "abilities": {
     "0": {
@@ -1425,8 +1425,8 @@
       "id": 202,
       "name": "Slush Rush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "203": {
       "id": 203,
@@ -7354,10 +7354,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "202": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "203": {
       "indicator": "✅",

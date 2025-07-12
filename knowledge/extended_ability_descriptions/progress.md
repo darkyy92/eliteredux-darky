@@ -210,7 +210,7 @@ In Progress: 0
 | 199 | Water Bubble               | ✅       | ❌        |
 | 200 | Steelworker                | ✅       | ✅        |
 | 201 | Berserk                    | ✅       | ✅        |
-| 202 | Slush Rush                 | ✅       | ❌        |
+| 202 | Slush Rush                 | ✅       | ✅        |
 | 203 | Long Reach                 | ✅       | ✅        |
 | 204 | Liquid Voice               | ✅       | ✅        |
 | 205 | Triage                     | ✅       | ✅        |
