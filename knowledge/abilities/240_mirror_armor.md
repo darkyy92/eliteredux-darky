@@ -1,8 +1,8 @@
 ---
 id: 240
 name: Mirror Armor
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 123
 ---
 
 # Mirror Armor - Ability ID 240
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mirror Armor reflects all stat-lowering moves and abilities back to the attacker. When an opponent tries to lower this Pokemon's stats, the stat drop affects the attacker instead. Includes moves like Intimidate, Sticky Web, and stat-lowering attacks. The reflection bypasses immunities.
+Mirror Armor reflects all stat-lowering effects aimed at the user back to the attacker. The reflection bypasses immunities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
