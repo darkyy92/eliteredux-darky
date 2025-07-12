@@ -1,8 +1,8 @@
 ---
 id: 231
 name: Shadow Shield
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 113
 ---
 
 # Shadow Shield - Ability ID 231
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shadow Shield halves damage from all attacks when at full HP. This defensive ability automatically reduces incoming damage by 50% while HP remains at maximum. The protection disappears once any damage is taken, but can be restored by healing back to full HP. Works against all damaging moves.
+Shadow Shield halves damage from all attacks when at full HP. Multiplicative with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
