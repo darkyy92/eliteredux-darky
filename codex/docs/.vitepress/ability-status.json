@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 54,
+    "completed": 55,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T18:14:41.220603Z"
+    "generated_at": "2025-07-12T18:16:46.263167Z"
   },
   "abilities": {
     "0": {
@@ -1740,8 +1740,8 @@
       "id": 247,
       "name": "Ripen",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "248": {
       "id": 248,
@@ -7624,10 +7624,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "247": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "248": {
       "indicator": "🟠",

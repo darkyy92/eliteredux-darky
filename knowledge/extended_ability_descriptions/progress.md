@@ -255,7 +255,7 @@ In Progress: 0
 | 244 | Punk Rock                  | ✅       | ✅        |
 | 245 | Sand Spit                  | ✅       | ✅        |
 | 246 | Ice Scales                 | ✅       | ✅        |
-| 247 | Ripen                      | ✅       | ❌        |
+| 247 | Ripen                      | ✅       | ✅        |
 | 248 | Ice Face                   | ✅       | ❌        |
 | 249 | Power Spot                 | ✅       | ❌        |
 | 250 | Mimicry                    | ✅       | ❌        |
