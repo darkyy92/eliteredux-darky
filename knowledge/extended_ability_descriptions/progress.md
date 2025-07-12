@@ -211,7 +211,7 @@ In Progress: 0
 | 200 | Steelworker                | ✅       | ✅        |
 | 201 | Berserk                    | ✅       | ✅        |
 | 202 | Slush Rush                 | ✅       | ❌        |
-| 203 | Long Reach                 | ✅       | ❌        |
+| 203 | Long Reach                 | ✅       | ✅        |
 | 204 | Liquid Voice               | ✅       | ❌        |
 | 205 | Triage                     | ✅       | ❌        |
 | 206 | Galvanize                  | ✅       | ❌        |

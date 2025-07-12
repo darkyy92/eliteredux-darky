@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 15,
+    "completed": 16,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T13:55:20.582991Z"
+    "generated_at": "2025-07-12T14:00:21.262560Z"
   },
   "abilities": {
     "0": {
@@ -1432,8 +1432,8 @@
       "id": 203,
       "name": "Long Reach",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "204": {
       "id": 204,
@@ -7360,10 +7360,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "203": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "204": {
       "indicator": "🟠",
