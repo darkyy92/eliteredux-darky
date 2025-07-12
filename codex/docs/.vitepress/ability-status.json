@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 57,
+    "completed": 58,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T18:20:02.098285Z"
+    "generated_at": "2025-07-12T18:23:25.322497Z"
   },
   "abilities": {
     "0": {
@@ -1761,8 +1761,8 @@
       "id": 250,
       "name": "Mimicry",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "251": {
       "id": 251,
@@ -7642,10 +7642,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "250": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "251": {
       "indicator": "🟠",

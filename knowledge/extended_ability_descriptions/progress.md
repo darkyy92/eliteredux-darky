@@ -258,7 +258,7 @@ In Progress: 0
 | 247 | Ripen                      | ✅       | ✅        |
 | 248 | Ice Face                   | ✅       | ✅        |
 | 249 | Power Spot                 | ✅       | ✅        |
-| 250 | Mimicry                    | ✅       | ❌        |
+| 250 | Mimicry                    | ✅       | ✅        |
 | 251 | Screen Cleaner             | ✅       | ❌        |
 | 252 | Steely Spirit              | ✅       | ❌        |
 | 253 | Perish Body                | ✅       | ❌        |
