@@ -1,8 +1,8 @@
 ---
 id: 226
 name: Electric Surge
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 193
 ---
 
 # Electric Surge - Ability ID 226
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 50% power boost. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon while active. Overrides other terrains when activated.
+Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 30% power boost. Overrides other terrains when activated.
 
 ## Detailed Mechanical Explanation
 **Electric Surge** automatically sets Electric Terrain when the Pokemon enters battle, providing powerful Electric-type support and sleep immunity.
