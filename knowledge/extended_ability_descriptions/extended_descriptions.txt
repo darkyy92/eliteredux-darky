@@ -668,7 +668,7 @@ Beast Boost raises the user's highest calculated stat by one stage each time it 
 RKS System changes the user's form based on its held Memory disc. Before each attack, the user overrides their type to match the move's type. Boosts STAB from 1.5x to 2.0x damage.
 
 # ID: 226
-Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 50% power boost. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon while active. Overrides other terrains when activated.
+Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 30% power boost. Overrides other terrains when activated.
 
 # ID: 227
 Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides terrains.
