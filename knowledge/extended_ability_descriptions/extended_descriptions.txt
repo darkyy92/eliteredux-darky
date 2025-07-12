@@ -650,7 +650,7 @@ Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double 
 Dazzling blocks all priority moves from opponents targeting the user or allies.
 
 # ID: 220
-Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.
+Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies.
 
 # ID: 221
 When hit by a contact move, the attacker becomes tangled in the user's hair, reducing their Speed by one stage. This sticky hair trap punishes physical contact attackers by slowing them down, making it harder for fast physical sweepers to maintain momentum. Bypasses Safeguard protection.
