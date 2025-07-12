@@ -1,7 +1,7 @@
 ---
 id: 248
 name: Ice Face
-status: ai-generated
+status: reviewed
 character_count: 292
 ---
 
