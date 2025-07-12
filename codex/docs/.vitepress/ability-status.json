@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 28,
+    "completed": 29,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T16:58:24.529227Z"
+    "generated_at": "2025-07-12T17:04:34.822472Z"
   },
   "abilities": {
     "0": {
@@ -1537,8 +1537,8 @@
       "id": 218,
       "name": "Fluffy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "219": {
       "id": 219,
@@ -7450,10 +7450,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "218": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "219": {
       "indicator": "🟠",

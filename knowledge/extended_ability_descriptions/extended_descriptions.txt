@@ -644,7 +644,7 @@ When any Pokemon on the field uses a dance move, this Pokemon immediately uses t
 Battery provides a 30% boost to ally Pokemon's Special attacks in double battles. Does not affect the user's own moves.
 
 # ID: 218
-Fluffy fur reduces damage from physical contact moves by 50%, making the Pokemon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
+Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage. Multiplicative with other forms of damage reduction.
 
 # ID: 219
 Dazzling blocks all priority moves from opponents targeting the user or allies. Works against moves with +1 or higher priority including Quick Attack, Extremespeed, and priority status moves. Protects frail sweepers from revenge killing. Can be bypassed by Mold Breaker abilities.

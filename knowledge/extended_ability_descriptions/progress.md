@@ -226,7 +226,7 @@ In Progress: 0
 | 215 | Innards Out                | ✅       | ✅        |
 | 216 | Dancer                     | ✅       | ✅        |
 | 217 | Battery                    | ✅       | ✅        |
-| 218 | Fluffy                     | ✅       | ❌        |
+| 218 | Fluffy                     | ✅       | ✅        |
 | 219 | Dazzling                   | ✅       | ❌        |
 | 220 | Soul-Heart                 | ✅       | ❌        |
 | 221 | Tangling Hair              | ✅       | ❌        |
