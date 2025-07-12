@@ -236,7 +236,7 @@ In Progress: 0
 | 225 | RKS System                 | ✅       | ✅        |
 | 226 | Electric Surge             | ✅       | ✅        |
 | 227 | Psychic Surge              | ✅       | ✅        |
-| 228 | Misty Surge                | ✅       | ❌        |
+| 228 | Misty Surge                | ✅       | ✅        |
 | 229 | Grassy Surge               | ✅       | ❌        |
 | 230 | Full Metal Body            | ✅       | ❌        |
 | 231 | Shadow Shield              | ✅       | ❌        |

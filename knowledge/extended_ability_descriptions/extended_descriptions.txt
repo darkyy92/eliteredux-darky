@@ -674,7 +674,7 @@ Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grou
 Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Overrides terrains.
 
 # ID: 228
-Misty Surge automatically sets Misty Terrain when the Pokemon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
+Creates Misty Terrain on entry, lasting 8 turns (12 with Terrain Extender). Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Overrides existing terrain.
 
 # ID: 229
 Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains.
