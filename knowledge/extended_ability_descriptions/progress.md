@@ -223,7 +223,7 @@ In Progress: 0
 | 212 | Corrosion                  | ✅       | ✅        |
 | 213 | Comatose                   | ✅       | ✅        |
 | 214 | Ability 214                | ❌       | ❌        |
-| 215 | Innards Out                | ✅       | ❌        |
+| 215 | Innards Out                | ✅       | ✅        |
 | 216 | Dancer                     | ✅       | ❌        |
 | 217 | Battery                    | ✅       | ❌        |
 | 218 | Fluffy                     | ✅       | ❌        |
