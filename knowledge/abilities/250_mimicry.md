@@ -1,8 +1,8 @@
 ---
 id: 250
 name: Mimicry
-status: ai-generated
-character_count: 273
+status: reviewed
+character_count: 285
 ---
 
 # Mimicry - Ability ID 250
@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mimicry changes the Pokemon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokemon switches out, then reverts to original type.
+Mimicry changes the Pokemon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokemon switches out. Retains type changes from moves like Soak.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
