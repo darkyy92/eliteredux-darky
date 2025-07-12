@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 46,
+    "completed": 47,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T17:49:40.596105Z"
+    "generated_at": "2025-07-12T17:51:45.978985Z"
   },
   "abilities": {
     "0": {
@@ -1677,8 +1677,8 @@
       "id": 238,
       "name": "Cotton Down",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "239": {
       "id": 239,
@@ -7570,10 +7570,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "238": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "239": {
       "indicator": "🟠",

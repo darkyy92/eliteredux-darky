@@ -701,7 +701,7 @@ Dauntless Shield immediately raises Defense by one stage when entering battle.
 Libero overrides the user's type to match the move being used before it attacks. Cannot activate on Struggle moves.
 
 # ID: 238
-Cotton Down triggers when the Pokemon is hit by any damaging move, lowering the Speed of ALL opposing Pokemon by one stage. This affects all enemies on the field in doubles, singles, or multi battles regardless of position. Helpful for speed control support.
+Cotton Down triggers when the Pokemon is hit by any attack, lowering the Speed of ALL Pokemon by one stage. Activates multiple times against multihit moves.
 
 # ID: 239
 Propeller Tail boosts the user's Speed by 50% during rain weather and grants immunity to redirection effects. The speed boost works in all forms of rain. Redirection immunity prevents opponents from using abilities like Lightning Rod or Storm Drain to redirect moves away from their intended target.
