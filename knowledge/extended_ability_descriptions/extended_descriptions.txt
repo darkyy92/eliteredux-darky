@@ -596,7 +596,7 @@ Water Bubble creates a protective bubble that doubles the power of Water-type mo
 Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves.
 
 # ID: 201
-Berserk activates when the Pokemon drops to half HP or below, boosting its highest attacking stat by one stage. Compares Attack and Special Attack including stat stages to determine which gets boosted. Triggers only once per battle per Pokemon. Works on contact and non-contact moves.
+Berserk activates when the Pokemon drops to half HP or below from an opposing attack, boosting its highest attacking stat by one stage. Includes stat stages to determine which gets boosted. Triggers only once per battle. Other damage sources that bring you to half HP or below will not activate it.
 
 # ID: 202
 Slush Rush boosts the Pokemon's Speed by 50% during hail weather. Works with all forms of hail including regular hail and primordial hail effects. The speed boost applies immediately when hail is active and disappears when hail ends. Also grants immunity to hail damage.
