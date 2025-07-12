@@ -698,7 +698,7 @@ Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into
 Dauntless Shield immediately raises Defense by one stage when entering battle.
 
 # ID: 236
-Libero changes the user's type to match the move being used before attacking, but only once per turn. The type change grants STAB bonus to the attack and affects defensive matchups. Cannot activate on Struggle moves. Perfect for unpredictable offensive coverage.
+Libero overrides the user's type to match the move being used before it attacks. Cannot activate on Struggle moves.
 
 # ID: 237
 Ball Fetch is a utility ability functioning only outside battle. When a Pokemon with Ball Fetch participates where a Poké Ball fails to catch a wild Pokemon, it retrieves the first used Poké Ball after battle ends. This ability is completely inactive during trainer battles. No effect in battle.

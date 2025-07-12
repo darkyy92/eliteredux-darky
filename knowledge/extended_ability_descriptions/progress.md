@@ -244,7 +244,7 @@ In Progress: 0
 | 233 | Neuroforce                 | ✅       | ✅        |
 | 234 | Intrepid Sword             | ✅       | ✅        |
 | 235 | Dauntless Shield           | ✅       | ✅        |
-| 236 | Libero                     | ✅       | ❌        |
+| 236 | Libero                     | ✅       | ✅        |
 | 237 | Ball Fetch                 | ✅       | ❌        |
 | 238 | Cotton Down                | ✅       | ❌        |
 | 239 | Propeller Tail             | ✅       | ❌        |

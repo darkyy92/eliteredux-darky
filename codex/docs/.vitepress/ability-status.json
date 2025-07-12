@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 45,
+    "completed": 46,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:47:18.332835Z"
+    "generated_at": "2025-07-12T17:48:58.708062Z"
   },
   "abilities": {
     "0": {
@@ -1663,8 +1663,8 @@
       "id": 236,
       "name": "Libero",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "237": {
       "id": 237,
@@ -7558,10 +7558,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "236": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "237": {
       "indicator": "🟠",
