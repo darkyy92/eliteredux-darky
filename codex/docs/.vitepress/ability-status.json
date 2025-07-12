@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 55,
+    "completed": 56,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T18:16:46.263167Z"
+    "generated_at": "2025-07-12T18:18:58.226321Z"
   },
   "abilities": {
     "0": {
@@ -1747,8 +1747,8 @@
       "id": 248,
       "name": "Ice Face",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "249": {
       "id": 249,
@@ -7630,10 +7630,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "248": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "249": {
       "indicator": "🟠",
