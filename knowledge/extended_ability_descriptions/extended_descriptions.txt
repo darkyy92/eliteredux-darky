@@ -662,7 +662,7 @@ Receiver copies a fainted ally's ability, replacing Receiver. Persists until swi
 Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, it gets replaced by Black Sludge. If Black Sludge is removed, it gets replaced by Big Nugget.
 
 # ID: 224
-Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing raw stats without current battle modifiers. Works across all battle formats and accumulates multiple boosts per battle. Essential for snowballing momentum.
+Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing the raw stat without current modifiers such as stat raises.
 
 # ID: 225
 RKS System changes the Pokemon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
