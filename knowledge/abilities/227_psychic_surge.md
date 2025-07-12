@@ -1,8 +1,8 @@
 ---
 id: 227
 name: Psychic Surge
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 190
 ---
 
 # Psychic Surge - Ability ID 227
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides terrains.
+Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Overrides terrains.
 
 ## Detailed Mechanical Explanation
 **Psychic Surge** automatically establishes Psychic Terrain upon entering battle, providing priority protection and Psychic-type enhancement.
