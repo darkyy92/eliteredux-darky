@@ -229,7 +229,7 @@ In Progress: 0
 | 218 | Fluffy                     | ✅       | ✅        |
 | 219 | Dazzling                   | ✅       | ✅        |
 | 220 | Soul-Heart                 | ✅       | ✅        |
-| 221 | Tangling Hair              | ✅       | ❌        |
+| 221 | Tangling Hair              | ✅       | ✅        |
 | 222 | Receiver                   | ✅       | ❌        |
 | 223 | Power of Alchemy           | ✅       | ❌        |
 | 224 | Beast Boost                | ✅       | ❌        |
