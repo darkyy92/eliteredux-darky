@@ -1,8 +1,8 @@
 ---
 id: 238
 name: Cotton Down
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 156
 ---
 
 # Cotton Down - Ability ID 238
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cotton Down triggers when the Pokemon is hit by any damaging move, lowering the Speed of ALL opposing Pokemon by one stage. This affects all enemies on the field in doubles, singles, or multi battles regardless of position. Helpful for speed control support.
+Cotton Down triggers when the Pokemon is hit by any attack, lowering the Speed of ALL Pokemon by one stage. Activates multiple times against multihit moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
