@@ -237,7 +237,7 @@ In Progress: 0
 | 226 | Electric Surge             | ✅       | ✅        |
 | 227 | Psychic Surge              | ✅       | ✅        |
 | 228 | Misty Surge                | ✅       | ✅        |
-| 229 | Grassy Surge               | ✅       | ❌        |
+| 229 | Grassy Surge               | ✅       | ✅        |
 | 230 | Full Metal Body            | ✅       | ❌        |
 | 231 | Shadow Shield              | ✅       | ❌        |
 | 232 | Prism Armor                | ✅       | ❌        |

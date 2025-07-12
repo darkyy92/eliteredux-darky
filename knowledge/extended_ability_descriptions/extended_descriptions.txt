@@ -677,7 +677,7 @@ Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounde
 Creates Misty Terrain on entry, lasting 8 turns (12 with Terrain Extender). Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Overrides existing terrain.
 
 # ID: 229
-Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains.
+Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 30% power. Overrides other terrains.
 
 # ID: 230
 Full Metal Body provides complete immunity to all stat reductions from enemy moves, abilities, and effects. Unlike Clear Body, it offers unbreakable protection against stat drops including forced reductions, making it ideal for defensive strategies and maintaining stat advantages throughout battle.
