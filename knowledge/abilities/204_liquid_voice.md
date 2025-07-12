@@ -2,7 +2,7 @@
 id: 204
 name: Liquid Voice
 status: reviewed
-character_count: 290
+character_count: 145
 ---
 
 # Liquid Voice - Ability ID 204
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Affects moves like Hyper Voice, Boomburst, Sing, and Growl. Type change occurs before damage calculation for proper STAB and effectiveness. Provides excellent Water coverage while maintaining sound utility.
+Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Damage boost is additive with other sources of damage boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
