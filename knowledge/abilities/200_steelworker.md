@@ -1,8 +1,8 @@
 ---
 id: 200
 name: Steelworker
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 169
 ---
 
 # Steelworker - Ability ID 200
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves. This unique combination of offensive type conversion and defensive resistances provides exceptional versatility in battle.
+Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
