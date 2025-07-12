@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 50,
+    "completed": 51,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T18:04:02.788200Z"
+    "generated_at": "2025-07-12T18:04:46.609660Z"
   },
   "abilities": {
     "0": {
@@ -1712,8 +1712,8 @@
       "id": 243,
       "name": "Steam Engine",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "244": {
       "id": 244,
@@ -7600,10 +7600,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "243": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "244": {
       "indicator": "🟠",

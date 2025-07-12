@@ -251,7 +251,7 @@ In Progress: 0
 | 240 | Mirror Armor               | ✅       | ✅        |
 | 241 | Gulp Missile               | ✅       | ❌        |
 | 242 | Stalwart                   | ✅       | ✅        |
-| 243 | Steam Engine               | ✅       | ❌        |
+| 243 | Steam Engine               | ✅       | ✅        |
 | 244 | Punk Rock                  | ✅       | ❌        |
 | 245 | Sand Spit                  | ✅       | ❌        |
 | 246 | Ice Scales                 | ✅       | ❌        |
