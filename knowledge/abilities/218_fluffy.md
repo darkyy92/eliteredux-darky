@@ -1,8 +1,8 @@
 ---
 id: 218
 name: Fluffy
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 140
 ---
 
 # Fluffy - Ability ID 218
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fluffy fur reduces damage from physical contact moves by 50%, making the Pokemon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
+Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage. Multiplicative with other forms of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
