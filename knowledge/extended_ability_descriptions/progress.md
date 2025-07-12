@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 873
+Completed: 872
 In Progress: 0
 
 ## Progress Tracking
@@ -245,7 +245,7 @@ In Progress: 0
 | 234 | Intrepid Sword             | ✅       | ✅        |
 | 235 | Dauntless Shield           | ✅       | ✅        |
 | 236 | Libero                     | ✅       | ✅        |
-| 237 | Ball Fetch                 | ✅       | ❌        |
+| 237 | Ability 237                | ❌       | ❌        |
 | 238 | Cotton Down                | ✅       | ❌        |
 | 239 | Propeller Tail             | ✅       | ❌        |
 | 240 | Mirror Armor               | ✅       | ❌        |

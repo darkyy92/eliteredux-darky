@@ -700,9 +700,6 @@ Dauntless Shield immediately raises Defense by one stage when entering battle.
 # ID: 236
 Libero overrides the user's type to match the move being used before it attacks. Cannot activate on Struggle moves.
 
-# ID: 237
-Ball Fetch is a utility ability functioning only outside battle. When a Pokemon with Ball Fetch participates where a Poké Ball fails to catch a wild Pokemon, it retrieves the first used Poké Ball after battle ends. This ability is completely inactive during trainer battles. No effect in battle.
-
 # ID: 238
 Cotton Down triggers when the Pokemon is hit by any damaging move, lowering the Speed of ALL opposing Pokemon by one stage. This affects all enemies on the field in doubles, singles, or multi battles regardless of position. Helpful for speed control support.
 
