@@ -1,8 +1,8 @@
 ---
 id: 242
 name: Stalwart
-status: ai-generated
-character_count: 273
+status: reviewed
+character_count: 126
 ---
 
 # Stalwart - Ability ID 242
@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Stalwart prevents the Pokemon from being affected by target redirection effects. This includes abilities like Lightning Rod, Storm Drain, and Sap Sipper that draw certain move types, as well as moves like Follow Me and Rage Powder that force attacks to target them instead.
+Stalwart prevents the Pokemon from being affected by target redirection effects and effects that remove or suppress abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
