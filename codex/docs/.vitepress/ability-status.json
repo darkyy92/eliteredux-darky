@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 47,
+    "completed": 48,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T17:51:45.978985Z"
+    "generated_at": "2025-07-12T17:53:17.603230Z"
   },
   "abilities": {
     "0": {
@@ -1684,8 +1684,8 @@
       "id": 239,
       "name": "Propeller Tail",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "240": {
       "id": 240,
@@ -7576,10 +7576,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "239": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "240": {
       "indicator": "🟠",
