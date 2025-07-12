@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 51,
+    "completed": 52,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T18:04:46.609660Z"
+    "generated_at": "2025-07-12T18:08:02.210760Z"
   },
   "abilities": {
     "0": {
@@ -1719,8 +1719,8 @@
       "id": 244,
       "name": "Punk Rock",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "245": {
       "id": 245,
@@ -7606,10 +7606,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "244": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "245": {
       "indicator": "🟠",
