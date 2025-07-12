@@ -1,8 +1,8 @@
 ---
 id: 219
 name: Dazzling
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 79
 ---
 
 # Dazzling - Ability ID 219
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dazzling blocks all priority moves from opponents targeting the user or allies. Works against moves with +1 or higher priority including Quick Attack, Extremespeed, and priority status moves. Protects frail sweepers from revenge killing. Can be bypassed by Mold Breaker abilities.
+Dazzling blocks all priority moves from opponents targeting the user or allies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
