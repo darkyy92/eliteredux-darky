@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 17,
+    "completed": 18,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T14:06:39.320108Z"
+    "generated_at": "2025-07-12T14:55:19.861626Z"
   },
   "abilities": {
     "0": {
@@ -1446,8 +1446,8 @@
       "id": 205,
       "name": "Triage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "206": {
       "id": 206,
@@ -7372,10 +7372,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "205": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "206": {
       "indicator": "🟠",

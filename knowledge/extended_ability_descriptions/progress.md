@@ -213,7 +213,7 @@ In Progress: 0
 | 202 | Slush Rush                 | ✅       | ❌        |
 | 203 | Long Reach                 | ✅       | ✅        |
 | 204 | Liquid Voice               | ✅       | ✅        |
-| 205 | Triage                     | ✅       | ❌        |
+| 205 | Triage                     | ✅       | ✅        |
 | 206 | Galvanize                  | ✅       | ❌        |
 | 207 | Surge Surfer               | ✅       | ❌        |
 | 208 | Schooling                  | ✅       | ❌        |
