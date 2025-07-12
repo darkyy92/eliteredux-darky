@@ -1,8 +1,8 @@
 ---
 id: 206
 name: Galvanize
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 89
 ---
 
 # Galvanize - Ability ID 206
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokemon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
+Galvanize converts all Normal-type moves into Electric-type and Electric moves gain STAB.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
