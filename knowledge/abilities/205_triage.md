@@ -2,7 +2,7 @@
 id: 205
 name: Triage
 status: reviewed
-character_count: 299
+character_count: 231
 ---
 
 # Triage - Ability ID 205
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Triage grants +3 priority to all healing moves, making them nearly as fast as Protect moves. Affects draining moves like Giga Drain, recovery moves like Recover and Roost, weather healing like Morning Sun, and team healing like Heal Pulse. Priority boost applies to both direct and indirect healing.
+Triage grants +3 priority to most healing moves. Includes draining moves like Giga Drain, and delayed healing moves like Wish. Does not work with  Aqua Ring, Grassy Terrain, Ingrain, Leech Seed, Pain Split, Present, or Pollen Puff.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
