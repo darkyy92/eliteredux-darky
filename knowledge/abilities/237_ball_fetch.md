@@ -1,8 +1,8 @@
 ---
 id: 237
 name: Ball Fetch
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 20
 ---
 
 # Ball Fetch - Ability ID 237
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ball Fetch is a utility ability functioning only outside battle. When a Pokemon with Ball Fetch participates where a Poké Ball fails to catch a wild Pokemon, it retrieves the first used Poké Ball after battle ends. This ability is completely inactive during trainer battles. No effect in battle.
+No effect in battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -23,11 +23,11 @@ Ball Fetch is a unique out-of-battle utility ability that was introduced in Gene
 ### Mechanics:
 - **Battle Effect**: None - the ability has no impact during actual battles
 - **AI Rating**: 0 (confirmed in battle_ai_util.c)
-- **Overworld Effect**: Retrieves the first Poké Ball used in a failed wild encounter
+- **Overworld Effect**: Retrieves the first Pok� Ball used in a failed wild encounter
 - **Activation Requirements**: 
   - Must be in the player's party (not necessarily in battle)
   - Only works in wild Pokemon encounters
-  - Only retrieves the first Poké Ball used in the encounter
+  - Only retrieves the first Pok� Ball used in the encounter
   - Ball must have failed to catch the Pokemon
 
 ### Implementation in Elite Redux:
