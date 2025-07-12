@@ -1,8 +1,8 @@
 ---
 id: 213
 name: Comatose
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 190
 ---
 
 # Comatose - Ability ID 213
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Comatose keeps the Pokemon in a permanent sleep-like state while remaining fully functional in battle. The Pokemon can use all moves normally despite appearing asleep and gains complete immunity to all status conditions including poison, burn, paralysis, freeze, and sleep itself.
+Comatose considers the user as asleep for moves and statuses. The Pokemon can move normally and gains immunity to all status conditions. Cannot be copied or suppressed. Rest fails when used.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
