@@ -1,8 +1,8 @@
 ---
 id: 222
 name: Receiver
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 90
 ---
 
 # Receiver - Ability ID 222
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Receiver activates only in Double Battles when an ally faints. It copies the fainted ally's ability, replacing one of Receiver user's current abilities. Cannot copy Wonder Guard, Trace, or another Receiver ability. The copied ability functions normally and persists until switched out.
+Receiver copies a fainted ally's ability, replacing Receiver. Persists until switched out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
