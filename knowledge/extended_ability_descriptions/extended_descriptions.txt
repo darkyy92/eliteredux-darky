@@ -623,7 +623,7 @@ When at level 20 or above, transforms into School Form with improved stats and a
 Disguise blocks the first damaging move that hits the Pokemon and changes its form after. Only non-status moves are blocked. In fog, the disguise is restored immediately once per switch in, or when fog is set again.
 
 # ID: 210
-Battle Bond triggers form transformation when this Pokemon deals the finishing blow to an opponent. Greninja becomes Ash-Greninja with boosted Attack and Special Attack (+50/+50). Chesnaught becomes Clemont form with enhanced physical bulk. Delphox transforms into enhanced Serena form.
+Battle Bond immediately triggers a form change when this Pokemon deals the finishing blow to an opposing Pokemon. Cannot be copied.
 
 # ID: 211
 Power Construct transforms Zygarde 50% or 10% forms into Complete form when HP drops to 50% or below at the end of any turn. Complete form has massive 216 HP (doubled from 108), making it an extremely bulky tank. The transformation is permanent for the battle and cannot be suppressed.

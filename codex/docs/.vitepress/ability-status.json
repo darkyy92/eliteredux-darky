@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 22,
+    "completed": 23,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T16:20:47.694335Z"
+    "generated_at": "2025-07-12T16:24:41.887118Z"
   },
   "abilities": {
     "0": {
@@ -1481,8 +1481,8 @@
       "id": 210,
       "name": "Battle Bond",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "211": {
       "id": 211,
@@ -7402,10 +7402,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "210": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "211": {
       "indicator": "🟠",
