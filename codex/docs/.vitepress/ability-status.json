@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 19,
+    "completed": 20,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T15:50:06.482748Z"
+    "generated_at": "2025-07-12T15:53:05.923340Z"
   },
   "abilities": {
     "0": {
@@ -1460,8 +1460,8 @@
       "id": 207,
       "name": "Surge Surfer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "208": {
       "id": 208,
@@ -7384,10 +7384,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "207": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "208": {
       "indicator": "🟠",

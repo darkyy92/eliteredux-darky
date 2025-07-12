@@ -215,7 +215,7 @@ In Progress: 0
 | 204 | Liquid Voice               | ✅       | ✅        |
 | 205 | Triage                     | ✅       | ✅        |
 | 206 | Galvanize                  | ✅       | ❌        |
-| 207 | Surge Surfer               | ✅       | ❌        |
+| 207 | Surge Surfer               | ✅       | ✅        |
 | 208 | Schooling                  | ✅       | ❌        |
 | 209 | Disguise                   | ✅       | ❌        |
 | 210 | Battle Bond                | ✅       | ❌        |
