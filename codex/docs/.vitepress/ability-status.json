@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 37,
+    "completed": 38,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:31:11.771708Z"
+    "generated_at": "2025-07-12T17:32:02.882787Z"
   },
   "abilities": {
     "0": {
@@ -1600,8 +1600,8 @@
       "id": 227,
       "name": "Psychic Surge",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "228": {
       "id": 228,
@@ -7504,10 +7504,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "227": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "228": {
       "indicator": "🟠",

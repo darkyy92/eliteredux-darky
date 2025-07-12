@@ -671,7 +671,7 @@ RKS System changes the user's form based on its held Memory disc. Before each at
 Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 30% power boost. Overrides other terrains when activated.
 
 # ID: 227
-Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Expanding Force hits all foes with increased power. Nature Power becomes Psychic. Overrides terrains.
+Creates Psychic Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon are immune to priority moves from opponents. Psychic moves gain 30% power boost. Overrides terrains.
 
 # ID: 228
 Misty Surge automatically sets Misty Terrain when the Pokemon enters battle, lasting 8 turns. Misty Terrain prevents all status conditions for grounded Pokemon and boosts Fairy-type moves by 30%. Also activates Misty Seeds to boost Special Defense and powers up certain terrain-based moves.
