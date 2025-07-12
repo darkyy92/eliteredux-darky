@@ -1,8 +1,8 @@
 ---
 id: 214
 name: Queenly Majesty
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 113
 ---
 
 # Queenly Majesty - Ability ID 214
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0. Moves like Quick Attack (+2), Fake Out (+3), Sucker Punch (+1), and Bullet Punch (+1) fail completely. The ability can be bypassed by Mold Breaker effects.
+Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -92,4 +92,4 @@ When a priority move is blocked: "*Pokemon cannot use [move name]!*" after the a
 ### Version History
 Queenly Majesty is based on the Generation VII ability but with Elite Redux's multi-ability system integration. In Elite Redux, it often appears as an innate ability rather than a main ability, providing additional utility to many Pokemon that wouldn't normally have access to priority protection.
 
-The ability is particularly notable for its implementation alongside Dazzling and Armor Tail, which share the same core mechanic but may have different secondary effects or distributions across the PokÃ©dex.
+The ability is particularly notable for its implementation alongside Dazzling and Armor Tail, which share the same core mechanic but may have different secondary effects or distributions across the Pokédex.
