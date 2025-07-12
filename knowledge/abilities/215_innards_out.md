@@ -1,8 +1,8 @@
 ---
 id: 215
 name: Innards Out
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 211
 ---
 
 # Innards Out - Ability ID 215
@@ -13,13 +13,13 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Innards Out activates when the Pokemon is knocked out by an opponent's direct attack. It inflicts the exact same amount of damage the fatal attack dealt back to the attacker. Works with physical and special moves but not indirect damage. Cannot affect attackers protected by Magic Guard.
+Innards Out activates when the Pokemon is knocked out by an opponent's attack. It inflicts the same amount of damage the fatal attack dealt back to the attacker. Cannot affect attackers protected by Magic Guard.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
-Innards Out is a passive ability that triggers when the Pokemon with this ability is KO'd by a direct attack from an opponent. When activated, it deals damage equal to the exact amount of damage the fatal attack inflicted.
+Innards Out triggers when the user is KO'd by a direct attack from an opponent. When activated, it deals damage equal to the exact amount of damage the fatal attack inflicted.
 
 ### Activation Conditions
 - The Pokemon must be knocked out (HP reduced to 0) by a direct attack
