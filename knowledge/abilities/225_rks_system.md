@@ -1,8 +1,8 @@
 ---
 id: 225
 name: RKS System
-status: ai-generated
-character_count: 265
+status: reviewed
+character_count: 179
 ---
 
 # RKS System - Ability ID 225
@@ -13,7 +13,7 @@ character_count: 265
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-RKS System changes the Pokemon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
+RKS System changes the user's form based on its held Memory disc. Before each attack, the user overrides their type to match the move's type. Boosts STAB from 1.5x to 2.0x damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
