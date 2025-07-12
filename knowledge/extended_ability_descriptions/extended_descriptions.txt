@@ -659,7 +659,7 @@ When the user is hit by a contact move, the attacker reduces their Speed by one 
 Receiver copies a fainted ally's ability, replacing Receiver. Persists until switched out.
 
 # ID: 223
-Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, Power of Alchemy remembers and creates a replacement: regular items become Black Sludge, while previously transmuted items become Big Nuggets. Continuously transforms item economy.
+Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, it gets replaced by Black Sludge. If Black Sludge is removed, it gets replaced by Big Nugget.
 
 # ID: 224
 Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing raw stats without current battle modifiers. Works across all battle formats and accumulates multiple boosts per battle. Essential for snowballing momentum.

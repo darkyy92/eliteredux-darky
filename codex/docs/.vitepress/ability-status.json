@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 33,
+    "completed": 34,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:16:31.202481Z"
+    "generated_at": "2025-07-12T17:20:05.004007Z"
   },
   "abilities": {
     "0": {
@@ -1572,8 +1572,8 @@
       "id": 223,
       "name": "Power of Alchemy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "224": {
       "id": 224,
@@ -7480,10 +7480,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "223": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "224": {
       "indicator": "🟠",

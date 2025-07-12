@@ -231,7 +231,7 @@ In Progress: 0
 | 220 | Soul-Heart                 | ✅       | ✅        |
 | 221 | Tangling Hair              | ✅       | ✅        |
 | 222 | Receiver                   | ✅       | ✅        |
-| 223 | Power of Alchemy           | ✅       | ❌        |
+| 223 | Power of Alchemy           | ✅       | ✅        |
 | 224 | Beast Boost                | ✅       | ❌        |
 | 225 | RKS System                 | ✅       | ❌        |
 | 226 | Electric Surge             | ✅       | ❌        |
