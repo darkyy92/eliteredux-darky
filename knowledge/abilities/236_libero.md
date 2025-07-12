@@ -1,8 +1,8 @@
 ---
 id: 236
 name: Libero
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 115
 ---
 
 # Libero - Ability ID 236
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Libero changes the user's type to match the move being used before attacking, but only once per turn. The type change grants STAB bonus to the attack and affects defensive matchups. Cannot activate on Struggle moves. Perfect for unpredictable offensive coverage.
+Libero overrides the user's type to match the move being used before it attacks. Cannot activate on Struggle moves. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
