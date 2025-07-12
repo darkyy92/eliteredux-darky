@@ -1,8 +1,8 @@
 ---
 id: 221
 name: Tangling Hair
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 135
 ---
 
 # Tangling Hair - Ability ID 221
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, the attacker becomes tangled in the user's hair, reducing their Speed by one stage. This sticky hair trap punishes physical contact attackers by slowing them down, making it harder for fast physical sweepers to maintain momentum. Bypasses Safeguard protection.
+When the user is hit by a contact move, the attacker reduces their Speed by one stage. Activates multiple times against multihit moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
