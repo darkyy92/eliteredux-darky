@@ -254,7 +254,7 @@ In Progress: 0
 | 243 | Steam Engine               | ✅       | ✅        |
 | 244 | Punk Rock                  | ✅       | ✅        |
 | 245 | Sand Spit                  | ✅       | ✅        |
-| 246 | Ice Scales                 | ✅       | ❌        |
+| 246 | Ice Scales                 | ✅       | ✅        |
 | 247 | Ripen                      | ✅       | ❌        |
 | 248 | Ice Face                   | ✅       | ❌        |
 | 249 | Power Spot                 | ✅       | ❌        |

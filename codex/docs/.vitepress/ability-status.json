@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 53,
+    "completed": 54,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-12T18:12:38.389419Z"
+    "generated_at": "2025-07-12T18:14:41.220603Z"
   },
   "abilities": {
     "0": {
@@ -1733,8 +1733,8 @@
       "id": 246,
       "name": "Ice Scales",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "247": {
       "id": 247,
@@ -7618,10 +7618,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "246": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "247": {
       "indicator": "🟠",
