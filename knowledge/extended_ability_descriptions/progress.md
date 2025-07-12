@@ -248,7 +248,7 @@ In Progress: 0
 | 237 | Ability 237                | ❌       | ❌        |
 | 238 | Cotton Down                | ✅       | ✅        |
 | 239 | Propeller Tail             | ✅       | ✅        |
-| 240 | Mirror Armor               | ✅       | ❌        |
+| 240 | Mirror Armor               | ✅       | ✅        |
 | 241 | Gulp Missile               | ✅       | ❌        |
 | 242 | Stalwart                   | ✅       | ❌        |
 | 243 | Steam Engine               | ✅       | ❌        |

@@ -707,7 +707,7 @@ Cotton Down triggers when the Pokemon is hit by any attack, lowering the Speed o
 Propeller Tail boosts the user's Speed by 50% during rain and grants immunity to redirection effects. The speed boost works in all forms of rain.
 
 # ID: 240
-Mirror Armor reflects all stat-lowering moves and abilities back to the attacker. When an opponent tries to lower this Pokemon's stats, the stat drop affects the attacker instead. Includes moves like Intimidate, Sticky Web, and stat-lowering attacks. The reflection bypasses immunities.
+Mirror Armor reflects all stat-lowering effects aimed at the user back to the attacker. The reflection bypasses immunities.
 
 # ID: 241
 When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
