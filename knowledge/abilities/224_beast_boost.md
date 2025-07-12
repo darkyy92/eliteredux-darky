@@ -1,8 +1,8 @@
 ---
 id: 224
 name: Beast Boost
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 199
 ---
 
 # Beast Boost - Ability ID 224
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing raw stats without current battle modifiers. Works across all battle formats and accumulates multiple boosts per battle. Essential for snowballing momentum.
+Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing the raw stat without current modifiers such as stat raises.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
