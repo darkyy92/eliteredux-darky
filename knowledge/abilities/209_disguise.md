@@ -1,8 +1,8 @@
 ---
 id: 209
 name: Disguise
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 215
 ---
 
 # Disguise - Ability ID 209
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Disguise blocks the first damaging move that hits the Pokemon, breaking the disguise and changing its form. Only non-status moves are blocked, and certain moves bypass this protection. In fog weather, the disguise is restored, returning to the original form.
+Disguise blocks the first damaging move that hits the Pokemon and changes its form after. Only non-status moves are blocked. In fog, the disguise is restored immediately once per switch in, or when fog is set again.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
