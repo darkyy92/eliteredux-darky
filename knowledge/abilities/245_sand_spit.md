@@ -1,8 +1,8 @@
 ---
 id: 245
 name: Sand Spit
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 287
 ---
 
 # Sand Spit - Ability ID 245
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Spit activates when the Pokemon takes damage from any attack. Upon activation, it summons an 8-turn sandstorm that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage and benefits from all sandstorm-based abilities.
+Sand Spit activates when taking damage from an attack. Summons an 8-turn sandstorm (12 turns with Smooth Rock) that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage. Does not activate if the user faints from the attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
