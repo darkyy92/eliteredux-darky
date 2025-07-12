@@ -1,7 +1,7 @@
 ---
 id: 205
 name: Triage
-status: ai-generated
+status: reviewed
 character_count: 299
 ---
 
