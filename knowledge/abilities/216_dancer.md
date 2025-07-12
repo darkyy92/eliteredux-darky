@@ -1,8 +1,8 @@
 ---
 id: 216
 name: Dancer
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 123
 ---
 
 # Dancer - Ability ID 216
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move. Dance moves include Swords Dance, Dragon Dance, Quiver Dance, Petal Dance, Feather Dance, Teeter Dance, Lunar Dance, Fiery Dance, Revelation Dance, and Aqua Step. Cannot copy if already moved this turn.
+When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move after. Triggers once per move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
