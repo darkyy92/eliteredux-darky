@@ -2,7 +2,7 @@
 id: 248
 name: Ice Face
 status: reviewed
-character_count: 292
+character_count: 228
 ---
 
 # Ice Face - Ability ID 248
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. Under hail weather, it regenerates its Ice Face form, regaining the protective disguise. Only physical attacks trigger the transformation. Special attacks bypass the protection entirely.
+Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. While in Noice form, if hail is set or if the user is swapped in, revert to Ice Face form. Cannot be copied or suppressed. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
