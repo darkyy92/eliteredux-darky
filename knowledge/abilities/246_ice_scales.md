@@ -1,8 +1,8 @@
 ---
 id: 246
 name: Ice Scales
-status: ai-generated
-character_count: 274
+status: reviewed
+character_count: 108
 ---
 
 # Ice Scales - Ability ID 246
@@ -13,7 +13,7 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Scales provides exceptional special defensive utility by halving all incoming special attack damage. Unlike abilities that boost stats, this damage reduction occurs after stat calculations, making it incredibly reliable. Can be suppressed by Mold Breaker-type abilities.
+Ice Scales halves all incoming special attack damage. Multiplicative with other sources of damage reduction.   
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
