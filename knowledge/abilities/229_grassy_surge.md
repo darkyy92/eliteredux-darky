@@ -1,8 +1,8 @@
 ---
 id: 229
 name: Grassy Surge
-status: ai-generated
-character_count: 273
+status: reviewed
+character_count: 168
 ---
 
 # Grassy Surge - Ability ID 229
@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 50% power. Ground moves like Earthquake deal normal damage in Elite Redux. Nature Power becomes Energy Ball. Overrides other active terrains.
+Creates Grassy Terrain for 8 turns (12 with Terrain Extender) on entry. Grounded Pokemon heal 1/16 HP per turn and Grass moves gain 30% power. Overrides other terrains.
 
 ## Detailed Mechanical Explanation
 **Grassy Surge** automatically establishes Grassy Terrain when the Pokemon enters battle, providing healing and Grass-type enhancement.
