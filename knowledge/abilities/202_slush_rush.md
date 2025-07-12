@@ -1,7 +1,7 @@
 ---
 id: 202
 name: Slush Rush
-status: ai-generated
+status: reviewed
 character_count: 270
 ---
 
