@@ -233,7 +233,7 @@ In Progress: 0
 | 222 | Receiver                   | ✅       | ✅        |
 | 223 | Power of Alchemy           | ✅       | ✅        |
 | 224 | Beast Boost                | ✅       | ✅        |
-| 225 | RKS System                 | ✅       | ❌        |
+| 225 | RKS System                 | ✅       | ✅        |
 | 226 | Electric Surge             | ✅       | ❌        |
 | 227 | Psychic Surge              | ✅       | ❌        |
 | 228 | Misty Surge                | ✅       | ❌        |

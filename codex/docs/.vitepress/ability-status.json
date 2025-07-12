@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 35,
+    "completed": 36,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:21:34.514169Z"
+    "generated_at": "2025-07-12T17:26:55.574005Z"
   },
   "abilities": {
     "0": {
@@ -1586,8 +1586,8 @@
       "id": 225,
       "name": "RKS System",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "226": {
       "id": 226,
@@ -7492,10 +7492,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "225": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "226": {
       "indicator": "🟠",

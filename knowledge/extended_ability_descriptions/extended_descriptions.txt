@@ -665,7 +665,7 @@ Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon 
 Beast Boost raises the user's highest calculated stat by one stage each time it KOs an opponent. The stat raised is determined by comparing the raw stat without current modifiers such as stat raises.
 
 # ID: 225
-RKS System changes the Pokemon's type based on its held Memory disc. Before each attack, it changes type to match the move's type like Protean, but also gains Adaptability's STAB bonus (2x instead of 1.5x). Works with all 17 Memory discs for complete type coverage.
+RKS System changes the user's form based on its held Memory disc. Before each attack, the user overrides their type to match the move's type. Boosts STAB from 1.5x to 2.0x damage.
 
 # ID: 226
 Creates Electric Terrain for 8 turns (12 with Terrain Extender) upon entry. Grounded Pokemon cannot fall asleep and Electric moves gain 50% power boost. Rising Voltage doubles damage on grounded targets. Prevents sleep for all grounded Pokemon while active. Overrides other terrains when activated.
