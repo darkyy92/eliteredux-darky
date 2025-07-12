@@ -1,7 +1,7 @@
 ---
 id: 247
 name: Ripen
-status: ai-generated
+status: reviewed
 character_count: 264
 ---
 
