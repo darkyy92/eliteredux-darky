@@ -208,7 +208,7 @@ In Progress: 0
 | 197 | Shields Down               | ✅       | ❌        |
 | 198 | Stakeout                   | ✅       | ❌        |
 | 199 | Water Bubble               | ✅       | ❌        |
-| 200 | Steelworker                | ✅       | ❌        |
+| 200 | Steelworker                | ✅       | ✅        |
 | 201 | Berserk                    | ✅       | ❌        |
 | 202 | Slush Rush                 | ✅       | ❌        |
 | 203 | Long Reach                 | ✅       | ❌        |

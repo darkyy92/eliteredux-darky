@@ -593,7 +593,7 @@ Stakeout doubles damage dealt to Pokemon that just switched in this turn. The ab
 Water Bubble creates a protective bubble that doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burn status, removing existing burns upon gaining the ability. Elite Redux's multi-ability system.
 
 # ID: 200
-Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves. This unique combination of offensive type conversion and defensive resistances provides exceptional versatility in battle.
+Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves.
 
 # ID: 201
 Berserk activates when the Pokemon drops to half HP or below, boosting its highest attacking stat by one stage. Compares Attack and Special Attack including stat stages to determine which gets boosted. Triggers only once per battle per Pokemon. Works on contact and non-contact moves.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 13,
+    "completed": 14,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-11T19:48:38.229713Z"
+    "generated_at": "2025-07-12T00:40:13.078408Z"
   },
   "abilities": {
     "0": {
@@ -1411,8 +1411,8 @@
       "id": 200,
       "name": "Steelworker",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "201": {
       "id": 201,
@@ -7342,10 +7342,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "200": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "201": {
       "indicator": "🟠",
