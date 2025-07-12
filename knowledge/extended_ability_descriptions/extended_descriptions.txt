@@ -692,7 +692,7 @@ Prism Armor reduces damage from super effective moves by 35%. Activates when typ
 Neuroforce gives super-effective moves with a 1.35x boost on top of the normal 2x type effectiveness. Additive with other damage boosting sources.
 
 # ID: 234
-Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for physical attackers needing immediate power.
+Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle.
 
 # ID: 235
 Dauntless Shield immediately raises Defense by one stage when entering battle. This boost applies to all forms of entry including switching in, starting battles, and reviving. The defense increase stacks with other stat boosts and cannot be prevented by Clear Body or similar abilities.

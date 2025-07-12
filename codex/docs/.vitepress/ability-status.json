@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 43,
+    "completed": 44,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:43:51.090162Z"
+    "generated_at": "2025-07-12T17:46:37.889168Z"
   },
   "abilities": {
     "0": {
@@ -1649,8 +1649,8 @@
       "id": 234,
       "name": "Intrepid Sword",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "235": {
       "id": 235,
@@ -7546,10 +7546,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "234": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "235": {
       "indicator": "🟠",

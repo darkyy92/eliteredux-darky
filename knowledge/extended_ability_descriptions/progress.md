@@ -242,7 +242,7 @@ In Progress: 0
 | 231 | Shadow Shield              | ✅       | ✅        |
 | 232 | Prism Armor                | ✅       | ❌        |
 | 233 | Neuroforce                 | ✅       | ✅        |
-| 234 | Intrepid Sword             | ✅       | ❌        |
+| 234 | Intrepid Sword             | ✅       | ✅        |
 | 235 | Dauntless Shield           | ✅       | ❌        |
 | 236 | Libero                     | ✅       | ❌        |
 | 237 | Ball Fetch                 | ✅       | ❌        |
