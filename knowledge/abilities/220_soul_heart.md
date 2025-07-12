@@ -1,8 +1,8 @@
 ---
 id: 220
 name: Soul-Heart
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 119
 ---
 
 # Soul-Heart - Ability ID 220
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies. Triggers regardless of who caused the KO. The stat boost stacks with other increases and persists through switches, making it powerful for late-game sweeping scenarios.
+Soul-Heart raises Special Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
