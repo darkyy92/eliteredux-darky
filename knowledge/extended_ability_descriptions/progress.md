@@ -212,7 +212,7 @@ In Progress: 0
 | 201 | Berserk                    | ✅       | ✅        |
 | 202 | Slush Rush                 | ✅       | ❌        |
 | 203 | Long Reach                 | ✅       | ✅        |
-| 204 | Liquid Voice               | ✅       | ❌        |
+| 204 | Liquid Voice               | ✅       | ✅        |
 | 205 | Triage                     | ✅       | ❌        |
 | 206 | Galvanize                  | ✅       | ❌        |
 | 207 | Surge Surfer               | ✅       | ❌        |

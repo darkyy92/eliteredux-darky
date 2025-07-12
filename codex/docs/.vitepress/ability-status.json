@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 16,
+    "completed": 17,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T14:00:21.262560Z"
+    "generated_at": "2025-07-12T14:06:39.320108Z"
   },
   "abilities": {
     "0": {
@@ -1439,8 +1439,8 @@
       "id": 204,
       "name": "Liquid Voice",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "205": {
       "id": 205,
@@ -7366,10 +7366,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "204": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "205": {
       "indicator": "🟠",
