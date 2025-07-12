@@ -1,8 +1,8 @@
 ---
 id: 243
 name: Steam Engine
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 146
 ---
 
 # Steam Engine - Ability ID 243
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage, allowing for potential revenge kills or escapes. Works with both direct attacks and indirect damage like entry hazards.
+Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
