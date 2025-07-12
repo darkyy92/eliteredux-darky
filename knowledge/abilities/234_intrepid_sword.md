@@ -1,8 +1,8 @@
 ---
 id: 234
 name: Intrepid Sword
-status: ai-generated
-character_count: 245
+status: reviewed
+character_count: 88
 ---
 
 # Intrepid Sword - Ability ID 234
@@ -13,7 +13,7 @@ character_count: 245
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for physical attackers needing immediate power.
+Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
