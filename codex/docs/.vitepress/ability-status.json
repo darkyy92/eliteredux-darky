@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 32,
+    "completed": 33,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:14:56.895601Z"
+    "generated_at": "2025-07-12T17:16:31.202481Z"
   },
   "abilities": {
     "0": {
@@ -1565,8 +1565,8 @@
       "id": 222,
       "name": "Receiver",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "223": {
       "id": 223,
@@ -7474,10 +7474,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "222": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "223": {
       "indicator": "🟠",

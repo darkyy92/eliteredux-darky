@@ -230,7 +230,7 @@ In Progress: 0
 | 219 | Dazzling                   | ✅       | ✅        |
 | 220 | Soul-Heart                 | ✅       | ✅        |
 | 221 | Tangling Hair              | ✅       | ✅        |
-| 222 | Receiver                   | ✅       | ❌        |
+| 222 | Receiver                   | ✅       | ✅        |
 | 223 | Power of Alchemy           | ✅       | ❌        |
 | 224 | Beast Boost                | ✅       | ❌        |
 | 225 | RKS System                 | ✅       | ❌        |

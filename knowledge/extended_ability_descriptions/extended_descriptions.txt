@@ -656,7 +656,7 @@ Soul-Heart raises Special Attack by one stage when any Pokemon faints on the bat
 When the user is hit by a contact move, the attacker reduces their Speed by one stage. Activates multiple times against multihit moves.
 
 # ID: 222
-Receiver activates only in Double Battles when an ally faints. It copies the fainted ally's ability, replacing one of Receiver user's current abilities. Cannot copy Wonder Guard, Trace, or another Receiver ability. The copied ability functions normally and persists until switched out.
+Receiver copies a fainted ally's ability, replacing Receiver. Persists until switched out.
 
 # ID: 223
 Upon entry, transmutes all opposing Berries into Black Sludge. When any Pokemon loses an item during battle, Power of Alchemy remembers and creates a replacement: regular items become Black Sludge, while previously transmuted items become Big Nuggets. Continuously transforms item economy.
