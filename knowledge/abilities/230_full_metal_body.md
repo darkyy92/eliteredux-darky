@@ -1,8 +1,8 @@
 ---
 id: 230
 name: Full Metal Body
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 130
 ---
 
 # Full Metal Body - Ability ID 230
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Full Metal Body provides complete immunity to all stat reductions from enemy moves, abilities, and effects. Unlike Clear Body, it offers unbreakable protection against stat drops including forced reductions, making it ideal for defensive strategies and maintaining stat advantages throughout battle.
+Full Metal Body gives immunity to all stat reductions from moves and abilities. Includes self stat drops from moves like Overheat.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
