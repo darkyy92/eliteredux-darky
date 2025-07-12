@@ -689,7 +689,7 @@ Shadow Shield halves damage from all attacks when at full HP. Multiplicative wit
 Prism Armor reduces damage from super effective moves by 35%. Activates when type effectiveness is 2x or greater, turning 2x damage into 1.3x and 4x into 2.6x. Works on all attack types and critical hits. Can be bypassed by Mold Breaker. Excellent for tanking coverage moves.
 
 # ID: 233
-Neuroforce amplifies super-effective moves with an additional 1.35x damage multiplier on top of the normal 2x type effectiveness. This turns strong moves into devastating attacks, making 2x effective moves deal 2.7x damage total. Excellent for breaking through bulky opponents and securing KOs.
+Neuroforce gives super-effective moves with a 1.35x boost on top of the normal 2x type effectiveness. Additive with other damage boosting sources.
 
 # ID: 234
 Intrepid Sword raises the Pokemon's Attack stat by one stage when switching into battle. This boost triggers immediately upon entry and cannot be blocked by Clear Body or similar abilities. Perfect for physical attackers needing immediate power.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 42,
+    "completed": 43,
     "written": 873,
     "pending": 3,
-    "generated_at": "2025-07-12T17:40:09.871943Z"
+    "generated_at": "2025-07-12T17:43:51.090162Z"
   },
   "abilities": {
     "0": {
@@ -1642,8 +1642,8 @@
       "id": 233,
       "name": "Neuroforce",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "234": {
       "id": 234,
@@ -7540,10 +7540,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "233": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "234": {
       "indicator": "🟠",
