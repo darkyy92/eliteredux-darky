@@ -238,7 +238,7 @@ In Progress: 0
 | 227 | Psychic Surge              | ✅       | ✅        |
 | 228 | Misty Surge                | ✅       | ✅        |
 | 229 | Grassy Surge               | ✅       | ✅        |
-| 230 | Full Metal Body            | ✅       | ❌        |
+| 230 | Full Metal Body            | ✅       | ✅        |
 | 231 | Shadow Shield              | ✅       | ❌        |
 | 232 | Prism Armor                | ✅       | ❌        |
 | 233 | Neuroforce                 | ✅       | ❌        |
