@@ -611,7 +611,7 @@ Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 2
 Triage grants +3 priority to most healing moves. Includes draining moves like Giga Drain, and delayed healing moves like Wish. Does not work with  Aqua Ring, Grassy Terrain, Ingrain, Leech Seed, Pain Split, Present, or Pollen Puff.
 
 # ID: 206
-Galvanize converts all Normal-type moves to Electric-type and boosts their power by 20%. The Pokemon gains STAB (Same Type Attack Bonus) on these converted moves. This transforms status moves and attacks alike, turning moves like Quick Attack into Electric attacks with enhanced damage potential.
+Galvanize converts all Normal-type moves into Electric-type and Electric moves gain STAB.
 
 # ID: 207
 Surge Surfer boosts the Pokemon's Speed by 50% when Electric Terrain is active. The boost applies immediately and disappears when it ends.

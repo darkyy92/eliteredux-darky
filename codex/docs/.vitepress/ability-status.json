@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 20,
+    "completed": 21,
     "written": 874,
     "pending": 2,
-    "generated_at": "2025-07-12T15:53:05.923340Z"
+    "generated_at": "2025-07-12T16:06:18.707092Z"
   },
   "abilities": {
     "0": {
@@ -1453,8 +1453,8 @@
       "id": 206,
       "name": "Galvanize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "207": {
       "id": 207,
@@ -7378,10 +7378,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "206": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "207": {
       "indicator": "✅",
