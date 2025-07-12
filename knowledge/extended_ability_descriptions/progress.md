@@ -225,7 +225,7 @@ In Progress: 0
 | 214 | Ability 214                | ❌       | ❌        |
 | 215 | Innards Out                | ✅       | ✅        |
 | 216 | Dancer                     | ✅       | ✅        |
-| 217 | Battery                    | ✅       | ❌        |
+| 217 | Battery                    | ✅       | ✅        |
 | 218 | Fluffy                     | ✅       | ❌        |
 | 219 | Dazzling                   | ✅       | ❌        |
 | 220 | Soul-Heart                 | ✅       | ❌        |

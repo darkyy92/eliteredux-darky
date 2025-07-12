@@ -641,7 +641,7 @@ Innards Out activates when the Pokemon is knocked out by an opponent's attack. I
 When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move after. Triggers once per move.
 
 # ID: 217
-Battery provides a 30% power boost to ally Pokemon's Special attacks in double battles. The boost applies to all Special moves used by teammates including offensive, status, and healing moves. Works with any ally regardless of type or species. Does not affect the user's own moves.
+Battery provides a 30% boost to ally Pokemon's Special attacks in double battles. Does not affect the user's own moves.
 
 # ID: 218
 Fluffy fur reduces damage from physical contact moves by 50%, making the Pokemon resistant to attacks like Tackle, Scratch, and Punch moves. However, the fluffy coating is highly flammable, causing Fire-type moves to deal double damage. The defensive benefit is lost if the ability is suppressed.
