@@ -1,8 +1,8 @@
 ---
 id: 210
 name: Battle Bond
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 131
 ---
 
 # Battle Bond - Ability ID 210
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Battle Bond triggers form transformation when this Pokemon deals the finishing blow to an opponent. Greninja becomes Ash-Greninja with boosted Attack and Special Attack (+50/+50). Chesnaught becomes Clemont form with enhanced physical bulk. Delphox transforms into enhanced Serena form.
+Battle Bond immediately triggers a form change when this Pokemon deals the finishing blow to an opposing Pokemon. Cannot be copied.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
