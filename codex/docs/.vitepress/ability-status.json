@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 71,
+    "completed": 72,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T23:49:42.021917Z"
+    "generated_at": "2025-07-13T23:50:36.024128Z"
   },
   "abilities": {
     "0": {
@@ -1866,8 +1866,8 @@
       "id": 265,
       "name": "Grim Neigh",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "266": {
       "id": 266,
@@ -7732,10 +7732,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "265": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "266": {
       "indicator": "🟠",

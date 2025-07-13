@@ -782,7 +782,7 @@ Dragon's Maw boosts the power of Dragon-type moves by 50%. The boost stacks addi
 When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage.
 
 # ID: 265
-Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokemon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
+Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint with a direct attack.
 
 # ID: 266
 As One combines two abilities into one powerful signature move. Unnerve prevents all opposing Pokemon from consuming held items like berries and Focus Sash. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent, stacking for multiple KOs.
