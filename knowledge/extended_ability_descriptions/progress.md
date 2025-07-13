@@ -259,7 +259,7 @@ In Progress: 0
 | 248 | Ice Face                   | ✅       | ✅        |
 | 249 | Power Spot                 | ✅       | ✅        |
 | 250 | Mimicry                    | ✅       | ✅        |
-| 251 | Screen Cleaner             | ✅       | ❌        |
+| 251 | Screen Cleaner             | ✅       | ✅        |
 | 252 | Steely Spirit              | ✅       | ❌        |
 | 253 | Perish Body                | ✅       | ❌        |
 | 254 | Wandering Spirit           | ✅       | ❌        |
