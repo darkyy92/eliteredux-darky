@@ -265,7 +265,7 @@ In Progress: 0
 | 254 | Wandering Spirit           | ✅       | ✅        |
 | 255 | Gorilla Tactics            | ✅       | ✅        |
 | 256 | Neutralizing Gas           | ✅       | ✅        |
-| 257 | Pastel Veil                | ✅       | ❌        |
+| 257 | Pastel Veil                | ✅       | ✅        |
 | 258 | Hunger Switch              | ✅       | ❌        |
 | 259 | Quick Draw                 | ✅       | ❌        |
 | 260 | Unseen Fist                | ✅       | ❌        |
