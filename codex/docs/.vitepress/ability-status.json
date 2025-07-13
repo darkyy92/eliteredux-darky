@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 62,
+    "completed": 63,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T18:40:04.837981Z"
+    "generated_at": "2025-07-13T18:53:31.076510Z"
   },
   "abilities": {
     "0": {
@@ -1796,8 +1796,8 @@
       "id": 255,
       "name": "Gorilla Tactics",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "256": {
       "id": 256,
@@ -7672,10 +7672,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "255": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "256": {
       "indicator": "🟠",

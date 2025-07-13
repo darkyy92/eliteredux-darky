@@ -263,7 +263,7 @@ In Progress: 0
 | 252 | Steely Spirit              | ✅       | ✅        |
 | 253 | Perish Body                | ✅       | ✅        |
 | 254 | Wandering Spirit           | ✅       | ✅        |
-| 255 | Gorilla Tactics            | ✅       | ❌        |
+| 255 | Gorilla Tactics            | ✅       | ✅        |
 | 256 | Neutralizing Gas           | ✅       | ❌        |
 | 257 | Pastel Veil                | ✅       | ❌        |
 | 258 | Hunger Switch              | ✅       | ❌        |
