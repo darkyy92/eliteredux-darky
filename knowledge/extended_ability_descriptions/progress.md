@@ -274,7 +274,7 @@ In Progress: 0
 | 263 | Dragons Maw                | ✅       | ✅        |
 | 264 | Chilling Neigh             | ✅       | ✅        |
 | 265 | Grim Neigh                 | ✅       | ✅        |
-| 266 | As One Ice Rider           | ✅       | ❌        |
+| 266 | As One Ice Rider           | ✅       | ✅        |
 | 267 | As One Shadow Rider        | ✅       | ❌        |
 | 268 | Chloroplast                | ✅       | ❌        |
 | 269 | Whiteout                   | ✅       | ❌        |

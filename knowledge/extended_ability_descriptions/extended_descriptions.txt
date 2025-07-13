@@ -785,7 +785,7 @@ When this Pokemon knocks out an opponent with a direct attack, its Attack stat i
 Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint with a direct attack.
 
 # ID: 266
-As One combines two abilities into one powerful signature move. Unnerve prevents all opposing Pokemon from consuming held items like berries and Focus Sash. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent, stacking for multiple KOs.
+Unnerve prevents all opposing Pokemon from consuming held items. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
 
 # ID: 267
 Combines Unnerve and Grim Neigh effects. The Pokemon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokemon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
