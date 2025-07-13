@@ -776,7 +776,7 @@ Curious Medicine removes an ally's positive and negative stat changes on the use
 Transistor increases the power of all Electric-type moves by 50%. Stacks additively with other damage modifiers.
 
 # ID: 263
-Dragon's Maw boosts the power of all Dragon-type moves by 50%. Works with physical and special Dragon attacks including Dragon Pulse, Draco Meteor, Outrage, Dragon Rush, and Dragon Claw. The boost stacks multiplicatively with STAB, weather, and items for devastating Dragon offense.
+Dragon's Maw boosts the power of Dragon-type moves by 50%. The boost stacks additively with other damage sources.
 
 # ID: 264
 When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
