@@ -1,8 +1,8 @@
 ---
 id: 264
 name: Chilling Neigh
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 102
 ---
 
 # Chilling Neigh - Ability ID 264
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
+When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
