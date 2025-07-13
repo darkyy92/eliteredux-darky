@@ -1,7 +1,7 @@
 ---
 id: 251
 name: Screen Cleaner
-status: ai-generated
+status: reviewed
 character_count: 255
 ---
 
