@@ -1,8 +1,8 @@
 ---
 id: 261
 name: Curious Medicine
-status: ai-generated
-character_count: 238
+status: reviewed
+character_count: 90
 ---
 
 # Curious Medicine - Ability ID 261
@@ -13,7 +13,7 @@ character_count: 238
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Curious Medicine resets all stat changes of the ally when entering in double battles. This clears both positive and negative stat modifications, returning the partner to neutral stat stages. Useful for removing debuffs or resetting setup.
+Curious Medicine removes an ally's positive and negative stat changes on the user's entry.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
