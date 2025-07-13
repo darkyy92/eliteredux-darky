@@ -269,7 +269,7 @@ In Progress: 0
 | 258 | Hunger Switch              | ✅       | ❌        |
 | 259 | Quick Draw                 | ✅       | ✅        |
 | 260 | Unseen Fist                | ✅       | ✅        |
-| 261 | Curious Medicine           | ✅       | ❌        |
+| 261 | Curious Medicine           | ✅       | ✅        |
 | 262 | Transistor                 | ✅       | ❌        |
 | 263 | Dragons Maw                | ✅       | ❌        |
 | 264 | Chilling Neigh             | ✅       | ❌        |

@@ -770,7 +770,7 @@ Quick Draw gives a 30% chance for the user to act first in their priority bracke
 Unseen Fist allows all contact moves to bypass protection moves and ignore any secondary effects associated with them.
 
 # ID: 261
-Curious Medicine resets all stat changes of the ally when entering in double battles. This clears both positive and negative stat modifications, returning the partner to neutral stat stages. Useful for removing debuffs or resetting setup.
+Curious Medicine removes an ally's positive and negative stat changes on the user's entry.
 
 # ID: 262
 Transistor amplifies the power of all Electric-type moves by 50%, making them hit with 1.5x damage. This boost applies to any Electric move the Pokemon uses, including physical moves like Thunder Punch and special moves like Thunderbolt. Stacks multiplicatively with other damage modifiers.

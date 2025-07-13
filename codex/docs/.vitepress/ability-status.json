@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 67,
+    "completed": 68,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T23:37:33.711242Z"
+    "generated_at": "2025-07-13T23:40:50.844697Z"
   },
   "abilities": {
     "0": {
@@ -1838,8 +1838,8 @@
       "id": 261,
       "name": "Curious Medicine",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "262": {
       "id": 262,
@@ -7708,10 +7708,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "261": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "262": {
       "indicator": "🟠",
