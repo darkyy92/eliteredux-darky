@@ -1,8 +1,8 @@
 ---
 id: 253
 name: Perish Body
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 155
 ---
 
 # Perish Body - Ability ID 253
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out. The defender gains this countdown only if not already affected by Perish Song, providing defensive utility against physical attackers.
+When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
