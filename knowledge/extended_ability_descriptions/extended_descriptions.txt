@@ -788,7 +788,7 @@ Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an op
 Unnerve prevents all opposing Pokemon from consuming held items. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
 
 # ID: 267
-Combines Unnerve and Grim Neigh effects. The Pokemon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokemon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
+Combines Unnerve and Grim Neigh effects. Unnerve makes opponents unable to consume held items. Grim Neigh raises Special Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
 
 # ID: 268
 Chloroplast lets Weather Ball, Solar Beam, Solar Blade, and Growth act as if used in harsh sunlight. Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages each instead of 1.

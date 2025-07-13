@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 73,
+    "completed": 74,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T23:52:37.316530Z"
+    "generated_at": "2025-07-13T23:56:32.157739Z"
   },
   "abilities": {
     "0": {
@@ -1880,8 +1880,8 @@
       "id": 267,
       "name": "As One Shadow Rider",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "268": {
       "id": 268,
@@ -7744,10 +7744,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "267": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "268": {
       "indicator": "🟠",
