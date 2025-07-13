@@ -1,8 +1,8 @@
 ---
 id: 255
 name: Gorilla Tactics
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 152
 ---
 
 # Gorilla Tactics - Ability ID 255
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Gorilla Tactics boosts physical move power by 50% but locks the Pokemon into using the first move selected, preventing other moves until switching out. Similar to Choice Band but as an ability. Forces strategic commitment to one physical attack per battle appearance, rewarding decisive play.
+Gorilla Tactics boosts physical move power by 50% but locks the Pokemon into using the first move selected. Additive with other damage boosting sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
