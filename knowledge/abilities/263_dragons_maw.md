@@ -1,8 +1,8 @@
 ---
 id: 263
 name: Dragons Maw
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 113
 ---
 
 # Dragons Maw - Ability ID 263
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dragon's Maw boosts the power of all Dragon-type moves by 50%. Works with physical and special Dragon attacks including Dragon Pulse, Draco Meteor, Outrage, Dragon Rush, and Dragon Claw. The boost stacks multiplicatively with STAB, weather, and items for devastating Dragon offense.
+Dragon's Maw boosts the power of Dragon-type moves by 50%. The boost stacks additively with other damage sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
