@@ -1,8 +1,8 @@
 ---
 id: 254
 name: Wandering Spirit
-status: ai-generated
-character_count: 274
+status: reviewed
+character_count: 218
 ---
 
 # Wandering Spirit - Ability ID 254
@@ -13,7 +13,7 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon permanently exchange their abilities for the remainder of battle. Cannot affect Pokemon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
+When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon regain their original ability upon switching out. Cannot swap with abilities that are also unable to be copied or suppressed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
