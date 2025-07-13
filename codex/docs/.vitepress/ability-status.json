@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 59,
+    "completed": 60,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T18:09:09.556565Z"
+    "generated_at": "2025-07-13T18:10:56.562378Z"
   },
   "abilities": {
     "0": {
@@ -1775,8 +1775,8 @@
       "id": 252,
       "name": "Steely Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "253": {
       "id": 253,
@@ -7654,10 +7654,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "252": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "253": {
       "indicator": "🟠",

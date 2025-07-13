@@ -743,7 +743,7 @@ Mimicry changes the Pokemon's type to match active terrain: Electric on Electric
 Screen Cleaner removes all protective screens from both sides of the battlefield when the Pokemon enters battle. This eliminates Reflect, Light Screen, Aurora Veil, and Smokescreen from both your team and the opponent's team immediately upon switching in.
 
 # ID: 252
-Steely Spirit increases the power of Steel-type moves by 30% for both the user and its allies in battle. This ability supports team coordination by boosting ally Steel attacks, making it valuable in doubles battles and multi-Pokemon encounters for shared offensive power.
+Steely Spirit increases the power of Steel-type moves by 30% for both the user and its allies in battle.
 
 # ID: 253
 When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out. The defender gains this countdown only if not already affected by Perish Song, providing defensive utility against physical attackers.

@@ -260,7 +260,7 @@ In Progress: 0
 | 249 | Power Spot                 | ✅       | ✅        |
 | 250 | Mimicry                    | ✅       | ✅        |
 | 251 | Screen Cleaner             | ✅       | ✅        |
-| 252 | Steely Spirit              | ✅       | ❌        |
+| 252 | Steely Spirit              | ✅       | ✅        |
 | 253 | Perish Body                | ✅       | ❌        |
 | 254 | Wandering Spirit           | ✅       | ❌        |
 | 255 | Gorilla Tactics            | ✅       | ❌        |
