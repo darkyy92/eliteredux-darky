@@ -1,8 +1,8 @@
 ---
 id: 257
 name: Pastel Veil
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 177
 ---
 
 # Pastel Veil - Ability ID 257
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions including burn, freeze, paralysis, poison, and sleep. Does not activate if Safeguard is already active.
+Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
