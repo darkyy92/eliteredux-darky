@@ -1,8 +1,8 @@
 ---
 id: 256
 name: Neutralizing Gas
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 250
 ---
 
 # Neutralizing Gas - Ability ID 256
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fills the area with gas that completely suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects.
+Fills the area with gas that completely suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. After the user attempts to switch, all suppressed abilities reactivate their entry effects. Cannot be copied or swapped.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
