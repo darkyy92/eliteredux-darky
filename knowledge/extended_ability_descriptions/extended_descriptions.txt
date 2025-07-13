@@ -785,7 +785,7 @@ When this Pokemon knocks out an opponent with a direct attack, its Attack stat i
 Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint with a direct attack.
 
 # ID: 266
-Unnerve prevents all opposing Pokemon from consuming held items. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
+Combines Unnerve and Chilling Neigh effects. Unnerve prevents all opposing Pokemon from consuming held items. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
 
 # ID: 267
 Combines Unnerve and Grim Neigh effects. Unnerve makes opponents unable to consume held items. Grim Neigh raises Special Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
