@@ -773,7 +773,7 @@ Unseen Fist allows all contact moves to bypass protection moves and ignore any s
 Curious Medicine removes an ally's positive and negative stat changes on the user's entry.
 
 # ID: 262
-Transistor amplifies the power of all Electric-type moves by 50%, making them hit with 1.5x damage. This boost applies to any Electric move the Pokemon uses, including physical moves like Thunder Punch and special moves like Thunderbolt. Stacks multiplicatively with other damage modifiers.
+Transistor increases the power of all Electric-type moves by 50%. Stacks additively with other damage modifiers.
 
 # ID: 263
 Dragon's Maw boosts the power of all Dragon-type moves by 50%. Works with physical and special Dragon attacks including Dragon Pulse, Draco Meteor, Outrage, Dragon Rush, and Dragon Claw. The boost stacks multiplicatively with STAB, weather, and items for devastating Dragon offense.

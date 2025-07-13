@@ -270,7 +270,7 @@ In Progress: 0
 | 259 | Quick Draw                 | ✅       | ✅        |
 | 260 | Unseen Fist                | ✅       | ✅        |
 | 261 | Curious Medicine           | ✅       | ✅        |
-| 262 | Transistor                 | ✅       | ❌        |
+| 262 | Transistor                 | ✅       | ✅        |
 | 263 | Dragons Maw                | ✅       | ❌        |
 | 264 | Chilling Neigh             | ✅       | ❌        |
 | 265 | Grim Neigh                 | ✅       | ❌        |
