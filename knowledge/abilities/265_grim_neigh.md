@@ -1,8 +1,8 @@
 ---
 id: 265
 name: Grim Neigh
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 117
 ---
 
 # Grim Neigh - Ability ID 265
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokemon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.
+Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
