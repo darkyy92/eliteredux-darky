@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 61,
+    "completed": 62,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T18:14:19.343762Z"
+    "generated_at": "2025-07-13T18:40:04.837981Z"
   },
   "abilities": {
     "0": {
@@ -1789,8 +1789,8 @@
       "id": 254,
       "name": "Wandering Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "255": {
       "id": 255,
@@ -7666,10 +7666,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "254": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "255": {
       "indicator": "🟠",

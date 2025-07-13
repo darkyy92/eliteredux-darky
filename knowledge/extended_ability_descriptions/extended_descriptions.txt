@@ -749,7 +749,7 @@ Steely Spirit increases the power of Steel-type moves by 30% for both the user a
 When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out.
 
 # ID: 254
-When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon permanently exchange their abilities for the remainder of battle. Cannot affect Pokemon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
+When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon regain their original ability upon switching out. Cannot swap with abilities that are also unable to be copied or suppressed.
 
 # ID: 255
 Gorilla Tactics boosts physical move power by 50% but locks the Pokemon into using the first move selected, preventing other moves until switching out. Similar to Choice Band but as an ability. Forces strategic commitment to one physical attack per battle appearance, rewarding decisive play.
