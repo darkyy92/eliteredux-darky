@@ -1,8 +1,8 @@
 ---
 id: 260
 name: Unseen Fist
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 118
 ---
 
 # Unseen Fist - Ability ID 260
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokemon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.
+Unseen Fist allows all contact moves to bypass protection moves and ignore any secondary effects associated with them. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
