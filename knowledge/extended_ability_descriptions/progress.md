@@ -268,7 +268,7 @@ In Progress: 0
 | 257 | Pastel Veil                | ✅       | ✅        |
 | 258 | Hunger Switch              | ✅       | ❌        |
 | 259 | Quick Draw                 | ✅       | ✅        |
-| 260 | Unseen Fist                | ✅       | ❌        |
+| 260 | Unseen Fist                | ✅       | ✅        |
 | 261 | Curious Medicine           | ✅       | ❌        |
 | 262 | Transistor                 | ✅       | ❌        |
 | 263 | Dragons Maw                | ✅       | ❌        |

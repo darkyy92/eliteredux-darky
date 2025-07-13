@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 66,
+    "completed": 67,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T23:26:54.766603Z"
+    "generated_at": "2025-07-13T23:37:33.711242Z"
   },
   "abilities": {
     "0": {
@@ -1831,8 +1831,8 @@
       "id": 260,
       "name": "Unseen Fist",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "261": {
       "id": 261,
@@ -7702,10 +7702,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "260": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "261": {
       "indicator": "🟠",

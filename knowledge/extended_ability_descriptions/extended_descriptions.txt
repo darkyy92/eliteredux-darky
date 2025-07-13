@@ -767,7 +767,7 @@ Automatically switches between Full and Hangry forms at the end of each turn. Mo
 Quick Draw gives a 30% chance for the user to act first in their priority bracket. Stacks multiplicatively with Quick Claw for a 44% chance to activate.
 
 # ID: 260
-Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokemon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.
+Unseen Fist allows all contact moves to bypass protection moves and ignore any secondary effects associated with them.
 
 # ID: 261
 Curious Medicine resets all stat changes of the ally when entering in double battles. This clears both positive and negative stat modifications, returning the partner to neutral stat stages. Useful for removing debuffs or resetting setup.
