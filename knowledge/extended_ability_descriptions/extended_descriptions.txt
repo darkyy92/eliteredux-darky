@@ -755,7 +755,7 @@ When hit by a contact move, Wandering Spirit swaps abilities with the attacker. 
 Gorilla Tactics boosts physical move power by 50% but locks the Pokemon into using the first move selected. Additive with other damage boosting sources.
 
 # ID: 256
-Fills the area with gas that completely suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. When gas clears, all suppressed abilities reactivate their entry effects. Cannot be suppressed itself. Stops weather/terrain abilities and most field effects.
+Fills the area with gas that completely suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. After the user attempts to switch, all suppressed abilities reactivate their entry effects. Cannot be copied or swapped.
 
 # ID: 257
 Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions including burn, freeze, paralysis, poison, and sleep. Does not activate if Safeguard is already active.
