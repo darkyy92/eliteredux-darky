@@ -1,8 +1,8 @@
 ---
 id: 259
 name: Quick Draw
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 152
 ---
 
 # Quick Draw - Ability ID 259
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Quick Draw gives a 30% chance to move first in any turn, regardless of move priority or Speed stats. When activated, the Pokemon gains priority similar to Quick Claw but as an ability. This priority boost works independently of move selection and can activate on any turn.
+Quick Draw gives a 30% chance for the user to act first in their priority bracket. Stacks multiplicatively with Quick Claw for a 44% chance to activate.  
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
