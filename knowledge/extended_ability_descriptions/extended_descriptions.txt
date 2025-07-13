@@ -764,7 +764,7 @@ Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon
 Automatically switches between Full and Hangry forms at the end of each turn. Morpeko's Full form has different abilities than its Hangry form. This form change cannot be prevented and affects the Pokemon's appearance, typing, and available abilities in battle.
 
 # ID: 259
-Quick Draw gives a 30% chance to move first in any turn, regardless of move priority or Speed stats. When activated, the Pokemon gains priority similar to Quick Claw but as an ability. This priority boost works independently of move selection and can activate on any turn.
+Quick Draw gives a 30% chance for the user to act first in their priority bracket. Stacks multiplicatively with Quick Claw for a 44% chance to activate.
 
 # ID: 260
 Unseen Fist allows all contact moves to bypass protection moves like Protect, Detect, Baneful Bunker, and Spiky Shield. The attacking Pokemon will ignore the protective barrier and strike directly, though status effects from moves like Baneful Bunker still apply normally.

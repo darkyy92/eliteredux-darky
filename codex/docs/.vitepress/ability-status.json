@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 65,
+    "completed": 66,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T19:18:31.425200Z"
+    "generated_at": "2025-07-13T23:26:54.766603Z"
   },
   "abilities": {
     "0": {
@@ -1824,8 +1824,8 @@
       "id": 259,
       "name": "Quick Draw",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "260": {
       "id": 260,
@@ -7696,10 +7696,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "259": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "260": {
       "indicator": "🟠",
