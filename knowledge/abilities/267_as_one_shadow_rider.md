@@ -1,8 +1,8 @@
 ---
 id: 267
 name: As One Shadow Rider
-status: ai-generated
-character_count: 264
+status: reviewed
+character_count: 203
 ---
 
 # As One Shadow Rider - Ability ID 267
@@ -13,7 +13,7 @@ character_count: 264
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Unnerve and Grim Neigh effects. The Pokemon makes opponents too nervous to eat berries, preventing all berry use by the opposing team. When this Pokemon knocks out a foe, its Special Attack increases by one stage as it feeds on the fallen enemy's despair.
+Combines Unnerve and Grim Neigh effects. Unnerve makes opponents unable to consume held items. Grim Neigh raises Special Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
