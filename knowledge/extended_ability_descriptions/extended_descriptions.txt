@@ -779,7 +779,7 @@ Transistor increases the power of all Electric-type moves by 50%. Stacks additiv
 Dragon's Maw boosts the power of Dragon-type moves by 50%. The boost stacks additively with other damage sources.
 
 # ID: 264
-When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage. This boost applies immediately after the target faints and stacks with other Attack modifiers. The ability only triggers from moves that directly cause damage.
+When this Pokemon knocks out an opponent with a direct attack, its Attack stat increases by one stage.
 
 # ID: 265
 Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an opponent to faint. The boost only applies when this Pokemon directly KOs the target, not from damage from status effects. Combines effectively with special attackers to snowball power.

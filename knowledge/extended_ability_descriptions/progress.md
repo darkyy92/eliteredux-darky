@@ -272,7 +272,7 @@ In Progress: 0
 | 261 | Curious Medicine           | ✅       | ✅        |
 | 262 | Transistor                 | ✅       | ✅        |
 | 263 | Dragons Maw                | ✅       | ✅        |
-| 264 | Chilling Neigh             | ✅       | ❌        |
+| 264 | Chilling Neigh             | ✅       | ✅        |
 | 265 | Grim Neigh                 | ✅       | ❌        |
 | 266 | As One Ice Rider           | ✅       | ❌        |
 | 267 | As One Shadow Rider        | ✅       | ❌        |
