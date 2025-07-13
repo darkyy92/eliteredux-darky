@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 60,
+    "completed": 61,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-13T18:10:56.562378Z"
+    "generated_at": "2025-07-13T18:14:19.343762Z"
   },
   "abilities": {
     "0": {
@@ -1782,8 +1782,8 @@
       "id": 253,
       "name": "Perish Body",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "254": {
       "id": 254,
@@ -7660,10 +7660,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "253": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "254": {
       "indicator": "🟠",

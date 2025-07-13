@@ -746,7 +746,7 @@ Screen Cleaner removes all protective screens from both sides of the battlefield
 Steely Spirit increases the power of Steel-type moves by 30% for both the user and its allies in battle.
 
 # ID: 253
-When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out. The defender gains this countdown only if not already affected by Perish Song, providing defensive utility against physical attackers.
+When hit by a contact move, Perish Body activates Perish Song on both the user and the attacker. Both Pokemon will faint in 3 turns unless they switch out.
 
 # ID: 254
 When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon permanently exchange their abilities for the remainder of battle. Cannot affect Pokemon with Ability Shield, persistent abilities, or unsuppressable abilities like Neutralizing Gas.
