@@ -289,7 +289,7 @@ In Progress: 0
 | 278 | Antarctic Bird             | ✅       | ✅        |
 | 279 | Immolate                   | ✅       | ✅        |
 | 280 | Crystallize                | ✅       | ✅        |
-| 281 | Electrocytes               | ✅       | ❌        |
+| 281 | Electrocytes               | ✅       | ✅        |
 | 282 | Aerodynamics               | ✅       | ❌        |
 | 283 | Christmas Spirit           | ✅       | ❌        |
 | 284 | Exploit Weakness           | ✅       | ❌        |

@@ -830,7 +830,7 @@ Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire mo
 Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. Additive with other damage boosts.
 
 # ID: 281
-Electrocytes enhances Electric-type moves by 25% damage. Activates for all Electric attacks regardless of physical or special type. Works in all battle conditions and weather. Stacks multiplicatively with items and other damage modifiers. A reliable boost for Electric specialists.
+Electrocytes boosts Electric-type moves by 25%. Stacks additively with other damage modifiers.
 
 # ID: 282
 When targeted by Flying-type moves, Aerodynamics absorbs the attack completely and raises the user's Speed stat by one stage instead of taking damage. This works similarly to abilities like Motor Drive or Lightning Rod, providing both defensive utility and offensive setup opportunities.
