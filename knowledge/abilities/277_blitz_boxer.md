@@ -1,8 +1,8 @@
 ---
 id: 277
 name: Blitz Boxer
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 69
 ---
 
 # Blitz Boxer - Ability ID 277
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blitz Boxer grants +1 priority to all punching moves when at full HP. This includes Mach Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Punch, Focus Punch, Dynamic Punch, and other Iron Fist moves. The ability only activates at maximum HP, making HP management crucial for optimal effectiveness.
+Blitz Boxer grants +1 priority to all punching moves when at full HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
