@@ -1,8 +1,8 @@
 ---
 id: 278
 name: Antarctic Bird
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 115
 ---
 
 # Antarctic Bird - Ability ID 278
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. This stacks with STAB for maximum effectiveness on dual-type Pokemon. Works with all offensive moves including physical attacks, special attacks, and status moves. Perfect for ice birds soaring through the skies.
+Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. Additive with other damage boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
