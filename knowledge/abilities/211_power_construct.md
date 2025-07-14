@@ -1,7 +1,7 @@
 ---
 id: 211
 name: Power Construct
-status: ai-generated
+status: reviewed
 character_count: 285
 ---
 
@@ -61,7 +61,7 @@ constexpr Ability PowerConstruct = {
 - Gains massive bulk upon transformation
 
 ### Numerical Values
-- Activation threshold: ≤50% of maximum HP
+- Activation threshold: 50% of maximum HP
 - HP increase: 108 to 216 (100% increase)
 - Sp. Attack boost: +10 points
 - Speed reduction: -10 points
