@@ -2,7 +2,7 @@
 id: 273
 name: Power Fists
 status: reviewed
-character_count: 135
+character_count: 129
 ---
 
 # Power Fists - Ability ID 273
@@ -13,7 +13,7 @@ character_count: 135
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punching moves gain a 30% damage boost and target Special Defense instead of Defense. Stacks multiplicatively with other damage boosts. 
+Punching moves gain a 30% damage boost and target Special Defense instead of Defense. Stacks additively with other damage boosts. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
