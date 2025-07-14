@@ -285,7 +285,7 @@ In Progress: 0
 | 274 | Sand Song                  | ✅       | ✅        |
 | 275 | Rampage                    | ✅       | ✅        |
 | 276 | Vengeance                  | ✅       | ❌        |
-| 277 | Blitz Boxer                | ✅       | ❌        |
+| 277 | Blitz Boxer                | ✅       | ✅        |
 | 278 | Antarctic Bird             | ✅       | ❌        |
 | 279 | Immolate                   | ✅       | ❌        |
 | 280 | Crystallize                | ✅       | ❌        |

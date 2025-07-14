@@ -818,7 +818,7 @@ Rampage eliminates recharge turns when the user successfully KOs an opponent wit
 Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal conditions and an enhanced 1.5x boost when the Pokemon's HP drops to 1/3 or below. This ability works similarly to type-specific Swarm abilities, rewarding strategic damage management with increased offensive power.
 
 # ID: 277
-Blitz Boxer grants +1 priority to all punching moves when at full HP. This includes Mach Punch, Fire Punch, Ice Punch, Thunder Punch, Mega Punch, Focus Punch, Dynamic Punch, and other Iron Fist moves. The ability only activates at maximum HP, making HP management crucial for optimal effectiveness.
+Blitz Boxer grants +1 priority to all punching moves when at full HP.
 
 # ID: 278
 Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. This stacks with STAB for maximum effectiveness on dual-type Pokemon. Works with all offensive moves including physical attacks, special attacks, and status moves. Perfect for ice birds soaring through the skies.
