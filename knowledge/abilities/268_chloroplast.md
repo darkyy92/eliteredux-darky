@@ -1,8 +1,8 @@
 ---
 id: 268
 name: Chloroplast
-status: ai-generated
-character_count: 251
+status: reviewed
+character_count: 268
 ---
 
 # Chloroplast - Ability ID 268
@@ -13,7 +13,7 @@ character_count: 251
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Chloroplast lets Weather Ball, Solar Beam, Solar Blade, and Growth act as if used in harsh sunlight. Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages each instead of 1.
+Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages. Moonlight, Morning Sun, and Synthesis recover 2/3 of your max HP. Grass and Water Pledge creates a sea of fire or rainbow respectively. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
