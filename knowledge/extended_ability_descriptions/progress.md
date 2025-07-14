@@ -280,7 +280,7 @@ In Progress: 0
 | 269 | Whiteout                   | ✅       | ✅        |
 | 270 | Pyromancy                  | ✅       | ✅        |
 | 271 | Keen Edge                  | ✅       | ✅        |
-| 272 | Prism Scales               | ✅       | ❌        |
+| 272 | Prism Scales               | ✅       | ✅        |
 | 273 | Power Fists                | ✅       | ❌        |
 | 274 | Sand Song                  | ✅       | ❌        |
 | 275 | Rampage                    | ✅       | ❌        |

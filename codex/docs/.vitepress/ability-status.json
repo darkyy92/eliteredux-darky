@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 78,
+    "completed": 79,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T00:22:36.638269Z"
+    "generated_at": "2025-07-14T00:27:24.126542Z"
   },
   "abilities": {
     "0": {
@@ -1915,8 +1915,8 @@
       "id": 272,
       "name": "Prism Scales",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "273": {
       "id": 273,
@@ -7774,10 +7774,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "272": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "273": {
       "indicator": "🟠",
