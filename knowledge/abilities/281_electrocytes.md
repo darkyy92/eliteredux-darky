@@ -1,8 +1,8 @@
 ---
 id: 281
 name: Electrocytes
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 94
 ---
 
 # Electrocytes - Ability ID 281
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Electrocytes enhances Electric-type moves by 25% damage. Activates for all Electric attacks regardless of physical or special type. Works in all battle conditions and weather. Stacks multiplicatively with items and other damage modifiers. A reliable boost for Electric specialists.
+Electrocytes boosts Electric-type moves by 25%. Stacks additively with other damage modifiers. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
