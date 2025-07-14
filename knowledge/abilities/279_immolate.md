@@ -1,8 +1,8 @@
 ---
 id: 279
 name: Immolate
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 115
 ---
 
 # Immolate - Ability ID 279
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves. Converted moves receive a 10% damage bonus on top of the type change. This allows Fire-types to effectively use Normal moves like Return, Body Slam, and Hyper Beam as powerful Fire attacks with full STAB.
+Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves, regardless of the user's type. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
