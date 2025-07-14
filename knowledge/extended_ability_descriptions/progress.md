@@ -294,7 +294,7 @@ In Progress: 0
 | 283 | Christmas Spirit           | ✅       | ✅        |
 | 284 | Exploit Weakness           | ✅       | ✅        |
 | 285 | Ground Shock               | ✅       | ✅        |
-| 286 | Ancient Idol               | ✅       | ❌        |
+| 286 | Ancient Idol               | ✅       | ✅        |
 | 287 | Mystic Power               | ✅       | ❌        |
 | 288 | Perfectionist              | ✅       | ❌        |
 | 289 | Growing Tooth              | ✅       | ❌        |

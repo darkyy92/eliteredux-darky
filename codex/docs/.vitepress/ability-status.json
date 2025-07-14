@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 91,
+    "completed": 92,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T23:20:12.989460Z"
+    "generated_at": "2025-07-14T23:25:31.283044Z"
   },
   "abilities": {
     "0": {
@@ -2013,8 +2013,8 @@
       "id": 286,
       "name": "Ancient Idol",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "287": {
       "id": 287,
@@ -7858,10 +7858,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "286": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "287": {
       "indicator": "🟠",
