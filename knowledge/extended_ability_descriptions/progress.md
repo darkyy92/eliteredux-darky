@@ -290,7 +290,7 @@ In Progress: 0
 | 279 | Immolate                   | ✅       | ✅        |
 | 280 | Crystallize                | ✅       | ✅        |
 | 281 | Electrocytes               | ✅       | ✅        |
-| 282 | Aerodynamics               | ✅       | ❌        |
+| 282 | Aerodynamics               | ✅       | ✅        |
 | 283 | Christmas Spirit           | ✅       | ❌        |
 | 284 | Exploit Weakness           | ✅       | ❌        |
 | 285 | Ground Shock               | ✅       | ❌        |
