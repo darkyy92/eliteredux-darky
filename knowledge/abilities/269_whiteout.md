@@ -1,8 +1,8 @@
 ---
 id: 269
 name: Whiteout
-status: ai-generated
-character_count: 233
+status: reviewed
+character_count: 109
 ---
 
 # Whiteout - Ability ID 269
@@ -13,7 +13,7 @@ character_count: 233
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Whiteout boosts the Pokemon's highest attacking stat by 50% during hail weather. The boost applies to either Attack or Special Attack, whichever is higher. Also grants immunity to hail damage. Ideal for mixed attackers in hail teams.
+Whiteout boosts the Pokemon's highest attacking stat by 50% during hail. Also grants immunity to hail damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
