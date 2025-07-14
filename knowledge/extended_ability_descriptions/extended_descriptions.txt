@@ -812,7 +812,7 @@ Punching moves gain a 30% damage boost and target Special Defense instead of Def
 Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. Stacks multiplicatively with other damage boosts.
 
 # ID: 275
-Rampage eliminates the recharge turn required after using powerful moves like Hyper Beam and Giga Impact, but only when the user successfully KOs an opponent. This allows for devastating sweep potential with high-power moves that normally leave the user vulnerable.
+Rampage eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 # ID: 276
 Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal conditions and an enhanced 1.5x boost when the Pokemon's HP drops to 1/3 or below. This ability works similarly to type-specific Swarm abilities, rewarding strategic damage management with increased offensive power.
