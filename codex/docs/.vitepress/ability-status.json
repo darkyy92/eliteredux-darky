@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 75,
+    "completed": 76,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T00:09:13.359747Z"
+    "generated_at": "2025-07-14T00:10:09.359673Z"
   },
   "abilities": {
     "0": {
@@ -1894,8 +1894,8 @@
       "id": 269,
       "name": "Whiteout",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "270": {
       "id": 270,
@@ -7756,10 +7756,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "269": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "270": {
       "indicator": "🟠",

@@ -277,7 +277,7 @@ In Progress: 0
 | 266 | As One Ice Rider           | ✅       | ✅        |
 | 267 | As One Shadow Rider        | ✅       | ✅        |
 | 268 | Chloroplast                | ✅       | ✅        |
-| 269 | Whiteout                   | ✅       | ❌        |
+| 269 | Whiteout                   | ✅       | ✅        |
 | 270 | Pyromancy                  | ✅       | ❌        |
 | 271 | Keen Edge                  | ✅       | ❌        |
 | 272 | Prism Scales               | ✅       | ❌        |
