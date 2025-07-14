@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 90,
+    "completed": 91,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T19:20:44.221890Z"
+    "generated_at": "2025-07-14T23:20:12.989460Z"
   },
   "abilities": {
     "0": {
@@ -2006,8 +2006,8 @@
       "id": 285,
       "name": "Ground Shock",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "286": {
       "id": 286,
@@ -7852,10 +7852,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "285": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "286": {
       "indicator": "🟠",
