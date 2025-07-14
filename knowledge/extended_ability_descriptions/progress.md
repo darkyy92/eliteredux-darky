@@ -286,7 +286,7 @@ In Progress: 0
 | 275 | Rampage                    | ✅       | ✅        |
 | 276 | Vengeance                  | ✅       | ❌        |
 | 277 | Blitz Boxer                | ✅       | ✅        |
-| 278 | Antarctic Bird             | ✅       | ❌        |
+| 278 | Antarctic Bird             | ✅       | ✅        |
 | 279 | Immolate                   | ✅       | ❌        |
 | 280 | Crystallize                | ✅       | ❌        |
 | 281 | Electrocytes               | ✅       | ❌        |

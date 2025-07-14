@@ -821,7 +821,7 @@ Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal
 Blitz Boxer grants +1 priority to all punching moves when at full HP.
 
 # ID: 278
-Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. This stacks with STAB for maximum effectiveness on dual-type Pokemon. Works with all offensive moves including physical attacks, special attacks, and status moves. Perfect for ice birds soaring through the skies.
+Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. Additive with other damage boosts.
 
 # ID: 279
 Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves. Converted moves receive a 10% damage bonus on top of the type change. This allows Fire-types to effectively use Normal moves like Return, Body Slam, and Hyper Beam as powerful Fire attacks with full STAB.
