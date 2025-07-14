@@ -2,7 +2,7 @@
 id: 270
 name: Pyromancy
 status: reviewed
-character_count: 56
+character_count: 91
 ---
 
 # Pyromancy - Ability ID 270
@@ -13,7 +13,7 @@ character_count: 56
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pyromancy multiplies the burn chance of all moves by 5x. 
+Pyromancy multiplies the burn chance of all moves by 5x. Does not interact with Flame Body.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
