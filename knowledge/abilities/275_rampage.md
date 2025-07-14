@@ -1,8 +1,8 @@
 ---
 id: 275
 name: Rampage
-status: ai-generated
-character_count: 265
+status: reviewed
+character_count: 98
 ---
 
 # Rampage - Ability ID 275
@@ -13,7 +13,7 @@ character_count: 265
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rampage eliminates the recharge turn required after using powerful moves like Hyper Beam and Giga Impact, but only when the user successfully KOs an opponent. This allows for devastating sweep potential with high-power moves that normally leave the user vulnerable.
+Rampage eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
