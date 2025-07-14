@@ -1,8 +1,8 @@
 ---
 id: 282
 name: Aerodynamics
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 114
 ---
 
 # Aerodynamics - Ability ID 282
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When targeted by Flying-type moves, Aerodynamics absorbs the attack completely and raises the user's Speed stat by one stage instead of taking damage. This works similarly to abilities like Motor Drive or Lightning Rod, providing both defensive utility and offensive setup opportunities.
+When targeted by Flying-type moves, Aerodynamics absorbs the attack and raises the user's Speed stat by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
