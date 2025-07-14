@@ -1,8 +1,8 @@
 ---
 id: 286
 name: Ancient Idol
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 165
 ---
 
 # Ancient Idol - Ability ID 286
@@ -13,12 +13,12 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ancient Idol transforms the Pokemon into an offensive tank by using its defensive stats for attack calculations. Physical moves use Defense instead of Attack for damage, while special moves use Special Defense instead of Special Attack. This allows defensive walls to become powerful attackers.
+Physical moves use the Defense stat of the user instead of Attack for damage, while special moves use the Special Defense stat of the user instead of Special Attack. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Ancient Idol is a unique ability that fundamentally alters how a Pokemon calculates damage output. Instead of using the traditional Attack and Special Attack stats for damage calculations, Ancient Idol redirects the game to use the Pokemon's defensive stats instead.
+Ancient Idol is a unique ability that fundamentally alters how a Pokemon calculates damage output. Instead of using the traditional Attack and Special Attack stats for damage calculations, Ancient Idol redirects the game to use the Pokemon's defensive stats instead. Damage modifiers still apply normally.
 
 **Implementation Details:**
 - **Physical Moves**: Uses Defense stat instead of Attack stat for all damage calculations
