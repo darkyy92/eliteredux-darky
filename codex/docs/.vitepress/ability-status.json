@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 76,
+    "completed": 77,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T00:10:09.359673Z"
+    "generated_at": "2025-07-14T00:14:22.350408Z"
   },
   "abilities": {
     "0": {
@@ -1901,8 +1901,8 @@
       "id": 270,
       "name": "Pyromancy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "271": {
       "id": 271,
@@ -7762,10 +7762,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "270": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "271": {
       "indicator": "🟠",

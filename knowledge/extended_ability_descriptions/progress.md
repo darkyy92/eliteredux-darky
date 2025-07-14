@@ -278,7 +278,7 @@ In Progress: 0
 | 267 | As One Shadow Rider        | ✅       | ✅        |
 | 268 | Chloroplast                | ✅       | ✅        |
 | 269 | Whiteout                   | ✅       | ✅        |
-| 270 | Pyromancy                  | ✅       | ❌        |
+| 270 | Pyromancy                  | ✅       | ✅        |
 | 271 | Keen Edge                  | ✅       | ❌        |
 | 272 | Prism Scales               | ✅       | ❌        |
 | 273 | Power Fists                | ✅       | ❌        |
