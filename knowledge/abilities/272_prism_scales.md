@@ -1,8 +1,8 @@
 ---
 id: 272
 name: Prism Scales
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 121
 ---
 
 # Prism Scales - Ability ID 272
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prism Scales reduces damage from all Special attacks by 30%. This defensive ability provides excellent protection against special sweepers and powerful special moves. Works against all forms of special damage including status moves that deal damage. The ability is breakable by Mold Breaker effects.
+Prism Scales reduces damage from all Special attacks by 30%. Stacks multiplicatively with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
