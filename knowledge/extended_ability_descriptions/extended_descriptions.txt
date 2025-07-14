@@ -806,7 +806,7 @@ Keen Edge boosts all slashing attacks by 30%. Stacks additively with other damag
 Prism Scales reduces damage from all Special attacks by 30%. Stacks multiplicatively with other damage reduction sources.
 
 # ID: 273
-Punching moves gain 30% damage boost and target Special Defense instead of Defense. Affects all Iron Fist-boosted moves including elemental punches, fighting moves, and Meteor Mash. Allows physical attackers to exploit low Special Defense walls and completely disrupt traditional defensive cores.
+Punching moves gain a 30% damage boost and target Special Defense instead of Defense. Stacks multiplicatively with other damage boosts.
 
 # ID: 274
 Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. This includes moves like Hyper Voice, Boomburst, and Uproar becoming powerful Ground attacks. The type change occurs before damage calculation, allowing STAB and type effectiveness.
