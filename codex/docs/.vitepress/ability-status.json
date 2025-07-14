@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 92,
+    "completed": 93,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T23:25:31.283044Z"
+    "generated_at": "2025-07-14T23:32:14.691147Z"
   },
   "abilities": {
     "0": {
@@ -2020,8 +2020,8 @@
       "id": 287,
       "name": "Mystic Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "288": {
       "id": 288,
@@ -7864,10 +7864,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "287": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "288": {
       "indicator": "🟠",

@@ -295,7 +295,7 @@ In Progress: 0
 | 284 | Exploit Weakness           | ✅       | ✅        |
 | 285 | Ground Shock               | ✅       | ✅        |
 | 286 | Ancient Idol               | ✅       | ✅        |
-| 287 | Mystic Power               | ✅       | ❌        |
+| 287 | Mystic Power               | ✅       | ✅        |
 | 288 | Perfectionist              | ✅       | ❌        |
 | 289 | Growing Tooth              | ✅       | ❌        |
 | 290 | Inflatable                 | ✅       | ❌        |
