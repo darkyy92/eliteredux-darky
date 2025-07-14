@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 93,
+    "completed": 94,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T23:45:19.228187Z"
+    "generated_at": "2025-07-14T23:55:36.860217Z"
   },
   "abilities": {
     "0": {
@@ -1488,8 +1488,8 @@
       "id": 211,
       "name": "Power Construct",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "212": {
       "id": 212,
@@ -7408,10 +7408,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "211": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "212": {
       "indicator": "✅",

@@ -219,7 +219,7 @@ In Progress: 0
 | 208 | Schooling                  | ✅       | ❌        |
 | 209 | Disguise                   | ✅       | ✅        |
 | 210 | Battle Bond                | ✅       | ✅        |
-| 211 | Power Construct            | ✅       | ❌        |
+| 211 | Power Construct            | ✅       | ✅        |
 | 212 | Corrosion                  | ✅       | ✅        |
 | 213 | Comatose                   | ✅       | ✅        |
 | 214 | Ability 214                | ❌       | ❌        |
