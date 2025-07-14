@@ -1,8 +1,8 @@
 ---
 id: 287
 name: Mystic Power
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 88
 ---
 
 # Mystic Power - Ability ID 287
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type matching. Every attack gains the Same Type Attack Bonus that normally only applies to moves matching the Pokemon's type. This makes every move hit significantly harder with universal offensive power.
+Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type matching. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
