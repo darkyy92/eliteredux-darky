@@ -287,7 +287,7 @@ In Progress: 0
 | 276 | Vengeance                  | ✅       | ❌        |
 | 277 | Blitz Boxer                | ✅       | ✅        |
 | 278 | Antarctic Bird             | ✅       | ✅        |
-| 279 | Immolate                   | ✅       | ❌        |
+| 279 | Immolate                   | ✅       | ✅        |
 | 280 | Crystallize                | ✅       | ❌        |
 | 281 | Electrocytes               | ✅       | ❌        |
 | 282 | Aerodynamics               | ✅       | ❌        |

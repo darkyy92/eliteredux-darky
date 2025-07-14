@@ -824,7 +824,7 @@ Blitz Boxer grants +1 priority to all punching moves when at full HP.
 Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves. Additive with other damage boosts.
 
 # ID: 279
-Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves. Converted moves receive a 10% damage bonus on top of the type change. This allows Fire-types to effectively use Normal moves like Return, Body Slam, and Hyper Beam as powerful Fire attacks with full STAB.
+Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves, regardless of the user's type.
 
 # ID: 280
 Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. This applies to all 34 Rock moves including Stone Edge, Rock Slide, and Stealth Rock. The converted moves gain Ice typing for STAB calculation and type effectiveness. Perfect for Ice-type Pokemon.
