@@ -836,7 +836,7 @@ Electrocytes boosts Electric-type moves by 25%. Stacks additively with other dam
 When targeted by Flying-type moves, Aerodynamics absorbs the attack and raises the user's Speed stat by one stage.
 
 # ID: 283
-Christmas Spirit reduces all incoming damage by 50% during hail weather. Works with temporary hail from moves and permanent hail effects. The Pokemon is immune to hail damage. This defensive boost applies to all attack types and stacks with other reduction effects for maximum bulk.
+Christmas Spirit reduces all incoming damage by 50% during hail weather. Grants immunity to hail damage. Multiplicative with other damage reduction sources.
 
 # ID: 284
 When attacking a statused opponent, deals 1.25x damage and automatically targets their lower defensive stat. Works against any status condition including sleep, poison, burn, freeze, paralysis, and special conditions like Comatose or Blood Stain effects.

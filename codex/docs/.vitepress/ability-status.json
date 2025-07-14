@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 88,
+    "completed": 89,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T19:16:52.794719Z"
+    "generated_at": "2025-07-14T19:18:33.615250Z"
   },
   "abilities": {
     "0": {
@@ -1992,8 +1992,8 @@
       "id": 283,
       "name": "Christmas Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "284": {
       "id": 284,
@@ -7840,10 +7840,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "283": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "284": {
       "indicator": "🟠",

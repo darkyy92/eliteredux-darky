@@ -291,7 +291,7 @@ In Progress: 0
 | 280 | Crystallize                | ✅       | ✅        |
 | 281 | Electrocytes               | ✅       | ✅        |
 | 282 | Aerodynamics               | ✅       | ✅        |
-| 283 | Christmas Spirit           | ✅       | ❌        |
+| 283 | Christmas Spirit           | ✅       | ✅        |
 | 284 | Exploit Weakness           | ✅       | ❌        |
 | 285 | Ground Shock               | ✅       | ❌        |
 | 286 | Ancient Idol               | ✅       | ❌        |
