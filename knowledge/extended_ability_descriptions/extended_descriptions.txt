@@ -791,7 +791,7 @@ Combines Unnerve and Chilling Neigh effects. Unnerve prevents all opposing Pokem
 Combines Unnerve and Grim Neigh effects. Unnerve makes opponents unable to consume held items. Grim Neigh raises Special Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
 
 # ID: 268
-Chloroplast lets Weather Ball, Solar Beam, Solar Blade, and Growth act as if used in harsh sunlight. Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages each instead of 1.
+Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages. Moonlight, Morning Sun, and Synthesis recover 2/3 of your max HP. Grass and Water Pledge creates a sea of fire or rainbow respectively.
 
 # ID: 269
 Whiteout boosts the Pokemon's highest attacking stat by 50% during hail weather. The boost applies to either Attack or Special Attack, whichever is higher. Also grants immunity to hail damage. Ideal for mixed attackers in hail teams.
