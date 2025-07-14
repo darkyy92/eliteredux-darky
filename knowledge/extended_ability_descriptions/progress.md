@@ -292,7 +292,7 @@ In Progress: 0
 | 281 | Electrocytes               | ✅       | ✅        |
 | 282 | Aerodynamics               | ✅       | ✅        |
 | 283 | Christmas Spirit           | ✅       | ✅        |
-| 284 | Exploit Weakness           | ✅       | ❌        |
+| 284 | Exploit Weakness           | ✅       | ✅        |
 | 285 | Ground Shock               | ✅       | ❌        |
 | 286 | Ancient Idol               | ✅       | ❌        |
 | 287 | Mystic Power               | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 89,
+    "completed": 90,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T19:18:33.615250Z"
+    "generated_at": "2025-07-14T19:20:44.221890Z"
   },
   "abilities": {
     "0": {
@@ -1999,8 +1999,8 @@
       "id": 284,
       "name": "Exploit Weakness",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "285": {
       "id": 285,
@@ -7846,10 +7846,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "284": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "285": {
       "indicator": "🟠",

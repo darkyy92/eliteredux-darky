@@ -839,7 +839,7 @@ When targeted by Flying-type moves, Aerodynamics absorbs the attack and raises t
 Christmas Spirit reduces all incoming damage by 50% during hail weather. Grants immunity to hail damage. Multiplicative with other damage reduction sources.
 
 # ID: 284
-When attacking a statused opponent, deals 1.25x damage and automatically targets their lower defensive stat. Works against any status condition including sleep, poison, burn, freeze, paralysis, and special conditions like Comatose or Blood Stain effects.
+When attacking a statused opponent, deals 1.25x damage and automatically targets their lower defensive stat.
 
 # ID: 285
 Ground Shock allows Electric moves to hit Ground-type Pokemon for 0.5x damage instead of immunity. Electric attacks like Thunder and Thunderbolt become super effective against Ground types but deal reduced damage. This removes the traditional Electric immunity while providing damage resistance.
