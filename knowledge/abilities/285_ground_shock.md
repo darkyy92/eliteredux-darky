@@ -1,8 +1,8 @@
 ---
 id: 285
 name: Ground Shock
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 78
 ---
 
 # Ground Shock - Ability ID 285
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ground Shock allows Electric moves to hit Ground-type Pokemon for 0.5x damage instead of immunity. Electric attacks like Thunder and Thunderbolt become super effective against Ground types but deal reduced damage. This removes the traditional Electric immunity while providing damage resistance.
+Ground Shock allows Electric moves to hit Ground-type Pokemon for 0.5x damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
