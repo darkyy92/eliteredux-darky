@@ -1,8 +1,8 @@
 ---
 id: 280
 name: Crystallize
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 118
 ---
 
 # Crystallize - Ability ID 280
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. This applies to all 34 Rock moves including Stone Edge, Rock Slide, and Stealth Rock. The converted moves gain Ice typing for STAB calculation and type effectiveness. Perfect for Ice-type Pokemon.
+Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. Additive with other damage boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
