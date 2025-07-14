@@ -848,7 +848,7 @@ Ground Shock allows Electric moves to hit Ground-type Pokemon for 0.5x damage.
 Physical moves use the Defense stat of the user instead of Attack for damage, while special moves use the Special Defense stat of the user instead of Special Attack.
 
 # ID: 287
-Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type matching.
+Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does not boost moves that already receive a STAB bonus.
 
 # ID: 288
 Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
