@@ -288,7 +288,7 @@ In Progress: 0
 | 277 | Blitz Boxer                | ✅       | ✅        |
 | 278 | Antarctic Bird             | ✅       | ✅        |
 | 279 | Immolate                   | ✅       | ✅        |
-| 280 | Crystallize                | ✅       | ❌        |
+| 280 | Crystallize                | ✅       | ✅        |
 | 281 | Electrocytes               | ✅       | ❌        |
 | 282 | Aerodynamics               | ✅       | ❌        |
 | 283 | Christmas Spirit           | ✅       | ❌        |

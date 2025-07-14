@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 85,
+    "completed": 86,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-14T19:10:31.186210Z"
+    "generated_at": "2025-07-14T19:12:46.845879Z"
   },
   "abilities": {
     "0": {
@@ -1971,8 +1971,8 @@
       "id": 280,
       "name": "Crystallize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "281": {
       "id": 281,
@@ -7822,10 +7822,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "280": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "281": {
       "indicator": "🟠",
