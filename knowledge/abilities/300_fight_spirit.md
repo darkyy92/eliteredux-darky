@@ -1,8 +1,8 @@
 ---
 id: 300
 name: Fighting Spirit
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 113
 ---
 
 # Fighting Spirit - Ability ID 300
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. The type conversion applies to all Normal moves used by the Pokemon, including physical and special attacks. Perfect for mixed attackers wanting consistent STAB coverage.
+Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
