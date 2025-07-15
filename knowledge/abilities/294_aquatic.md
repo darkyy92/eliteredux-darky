@@ -2,7 +2,7 @@
 id: 294
 name: Aquatic
 status: reviewed
-character_count: 156
+character_count: 157
 ---
 
 # Aquatic - Ability ID 294
@@ -13,7 +13,7 @@ character_count: 156
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, adds the Water type to the user as a third type. Retains Water typing even upon losing the ability, losing it only when switching out.
+Upon entering battle, adds the Water type to the user as a third type. Retains Water typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
