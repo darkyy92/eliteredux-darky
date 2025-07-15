@@ -887,7 +887,7 @@ Grounded adds Ground type to the Pokemon upon entry. Retains Ground typing even 
 Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokemon is endangered. Ideal for Ground specialists and desperate counterattacks.
 
 # ID: 300
-Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. The type conversion applies to all Normal moves used by the Pokemon, including physical and special attacks. Perfect for mixed attackers wanting consistent STAB coverage.
+Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks.
 
 # ID: 301
 Feline Prowess doubles Special Attack by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.

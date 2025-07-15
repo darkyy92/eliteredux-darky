@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 104,
+    "completed": 105,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:53:55.263277Z"
+    "generated_at": "2025-07-15T00:54:31.697476Z"
   },
   "abilities": {
     "0": {
@@ -2111,8 +2111,8 @@
       "id": 300,
       "name": "Fighting Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "301": {
       "id": 301,
@@ -7942,10 +7942,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "300": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "301": {
       "indicator": "🟠",
