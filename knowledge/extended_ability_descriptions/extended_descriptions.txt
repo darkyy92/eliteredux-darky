@@ -863,7 +863,7 @@ When hit by any Fire or Flying moves, boost Defense and Special Defense by one s
 Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's typing. Weather Ball becomes Ice-type with doubled power, Aurora Veil works without hail, and weather-based Ice moves like Blizzard to never miss.
 
 # ID: 292
-Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. The damage boost applies to any move used while the retaliation timer is active. This revenge-based ability helps teams recover momentum after losing a teammate, making it excellent for comeback scenarios.
+Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. Additive with other damage sources.
 
 # ID: 293
 Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle. The Defense Curl effect doubles the power of Rollout and Ice Ball moves. This provides immediate bulk and enables powerful rolling move strategies for defensive Pokemon builds.

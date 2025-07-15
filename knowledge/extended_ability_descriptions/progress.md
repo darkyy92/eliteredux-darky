@@ -300,7 +300,7 @@ In Progress: 0
 | 289 | Growing Tooth              | ✅       | ✅        |
 | 290 | Inflatable                 | ✅       | ✅        |
 | 291 | Aurora Borealis            | ✅       | ✅        |
-| 292 | Avenger                    | ✅       | ❌        |
+| 292 | Avenger                    | ✅       | ✅        |
 | 293 | Let's Roll                 | ✅       | ❌        |
 | 294 | Aquatic                    | ✅       | ❌        |
 | 295 | Loud Bang                  | ✅       | ❌        |
