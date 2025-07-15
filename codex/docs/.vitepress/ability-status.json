@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 95,
+    "completed": 96,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:01:18.855538Z"
+    "generated_at": "2025-07-15T00:03:44.754608Z"
   },
   "abilities": {
     "0": {
@@ -2041,8 +2041,8 @@
       "id": 290,
       "name": "Inflatable",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "291": {
       "id": 291,
@@ -7882,10 +7882,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "290": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "291": {
       "indicator": "🟠",
