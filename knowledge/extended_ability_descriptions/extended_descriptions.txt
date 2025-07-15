@@ -860,7 +860,7 @@ Growing Tooth boosts the user's Attack by one stage whenever they successfully h
 When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. The boost applies after the move resolves.
 
 # ID: 291
-Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's typing. The Pokemon is treated as if it's always in hail for move effects, enabling Weather Ball to become Ice-type with doubled power, Aurora Veil to work without hail, and Ice moves like Blizzard to never miss.
+Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's typing. Weather Ball becomes Ice-type with doubled power, Aurora Veil works without hail, and weather-based Ice moves like Blizzard to never miss.
 
 # ID: 292
 Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. The damage boost applies to any move used while the retaliation timer is active. This revenge-based ability helps teams recover momentum after losing a teammate, making it excellent for comeback scenarios.

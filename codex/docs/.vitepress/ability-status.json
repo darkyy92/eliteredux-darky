@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 96,
+    "completed": 97,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:03:44.754608Z"
+    "generated_at": "2025-07-15T00:14:53.483929Z"
   },
   "abilities": {
     "0": {
@@ -2048,8 +2048,8 @@
       "id": 291,
       "name": "Aurora Borealis",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "292": {
       "id": 292,
@@ -7888,10 +7888,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "291": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "292": {
       "indicator": "🟠",
