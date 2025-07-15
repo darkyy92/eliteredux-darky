@@ -1,8 +1,8 @@
 ---
 id: 297
 name: Amphibious
-status: ai-generated
-character_count: 274
+status: reviewed
+character_count: 106
 ---
 
 # Amphibious - Ability ID 297
@@ -13,7 +13,7 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants STAB to all Water-type moves regardless of the user's typing, multiplying their power by 1.5x. Also provides immunity to being drenched by Venom Drench, preventing the Attack, Special Attack, and Speed reductions that occur when poisoned Pokemon are hit by that move.
+Grants STAB to Water-type moves regardless of the user's typing. Also provides immunity to being drenched.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
