@@ -872,7 +872,7 @@ Let's Roll automatically raises Defense by one stage and applies the Defense Cur
 Upon entering battle, adds the Water type to the user as a third type. Retains Water typing even upon losing the ability, losing it only when switching out.
 
 # ID: 295
-Sound-based moves have a 50% chance to confuse the target upon successful hit. This includes all moves with the sound flag like Growl, Roar, Sing, Supersonic, Screech, and Hyper Voice. The confusion effect only triggers when the move connects and affects the target.
+Sound-based attacks have a 50% chance to confuse the target upon a successful hit.
 
 # ID: 296
 Lead Coat reduces physical damage by 40% but decreases Speed by 10%. The ability also triples the Pokemon's weight, making them vulnerable to weight-based moves like Low Kick and Heat Crash but more effective when using these moves themselves.

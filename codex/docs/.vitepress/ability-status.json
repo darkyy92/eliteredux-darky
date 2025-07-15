@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 100,
+    "completed": 101,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:33:49.409071Z"
+    "generated_at": "2025-07-15T00:42:33.123468Z"
   },
   "abilities": {
     "0": {
@@ -2076,8 +2076,8 @@
       "id": 295,
       "name": "Loud Bang",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "296": {
       "id": 296,
@@ -7912,10 +7912,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "295": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "296": {
       "indicator": "🟠",

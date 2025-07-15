@@ -303,7 +303,7 @@ In Progress: 0
 | 292 | Avenger                    | ✅       | ✅        |
 | 293 | Let's Roll                 | ✅       | ✅        |
 | 294 | Aquatic                    | ✅       | ✅        |
-| 295 | Loud Bang                  | ✅       | ❌        |
+| 295 | Loud Bang                  | ✅       | ✅        |
 | 296 | Lead Coat                  | ✅       | ❌        |
 | 297 | Amphibious                 | ✅       | ❌        |
 | 298 | Grounded                   | ✅       | ❌        |
