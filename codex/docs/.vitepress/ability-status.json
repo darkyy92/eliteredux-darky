@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 103,
+    "completed": 104,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:51:18.995765Z"
+    "generated_at": "2025-07-15T00:53:31.486248Z"
   },
   "abilities": {
     "0": {
@@ -2097,8 +2097,8 @@
       "id": 298,
       "name": "Grounded",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "299": {
       "id": 299,
@@ -7930,10 +7930,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "298": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "299": {
       "indicator": "🟠",

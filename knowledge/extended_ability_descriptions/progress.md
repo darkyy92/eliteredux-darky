@@ -306,7 +306,7 @@ In Progress: 0
 | 295 | Loud Bang                  | ✅       | ✅        |
 | 296 | Lead Coat                  | ✅       | ✅        |
 | 297 | Amphibious                 | ✅       | ✅        |
-| 298 | Grounded                   | ✅       | ❌        |
+| 298 | Grounded                   | ✅       | ✅        |
 | 299 | Earthbound                 | ✅       | ❌        |
 | 300 | Fighting Spirit            | ✅       | ❌        |
 | 301 | Feline Prowess             | ✅       | ❌        |

@@ -881,7 +881,7 @@ Lead Coat reduces physical damage by 40% but decreases Speed by 10%. Also triple
 Grants STAB to Water-type moves regardless of the user's typing. Also provides immunity to being drenched.
 
 # ID: 298
-Grounded adds Ground type to the Pokemon upon entry, creating dual or triple typing. Provides Electric immunity and Ground STAB. Exceptional on Flying types like Dodrio, negating their Electric weakness while keeping aerial advantages. Synergizes with Earthbound for boosted Ground moves.
+Grounded adds Ground type to the Pokemon upon entry. Retains Ground typing even upon losing the ability, going away only when switching out.
 
 # ID: 299
 Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokemon is endangered. Ideal for Ground specialists and desperate counterattacks.
