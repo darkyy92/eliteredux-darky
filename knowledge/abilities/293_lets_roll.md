@@ -1,8 +1,8 @@
 ---
 id: 293
 name: Let's Roll
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 165
 ---
 
 # Let's Roll - Ability ID 293
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle. The Defense Curl effect doubles the power of Rollout and Ice Ball moves. This provides immediate bulk and enables powerful rolling move strategies for defensive Pokemon builds.
+Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle, doubling the power of Rollout and other rolling moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
