@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 101,
+    "completed": 102,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:42:33.123468Z"
+    "generated_at": "2025-07-15T00:46:25.094411Z"
   },
   "abilities": {
     "0": {
@@ -2083,8 +2083,8 @@
       "id": 296,
       "name": "Lead Coat",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "297": {
       "id": 297,
@@ -7918,10 +7918,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "296": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "297": {
       "indicator": "🟠",
