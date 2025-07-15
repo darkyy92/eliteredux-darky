@@ -1,8 +1,8 @@
 ---
 id: 296
 name: Lead Coat
-status: ai-generated
-character_count: 243
+status: reviewed
+character_count: 159
 ---
 
 # Lead Coat - Ability ID 296
@@ -13,7 +13,7 @@ character_count: 243
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lead Coat reduces physical damage by 40% but decreases Speed by 10%. The ability also triples the Pokemon's weight, making them vulnerable to weight-based moves like Low Kick and Heat Crash but more effective when using these moves themselves.
+Lead Coat reduces physical damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
