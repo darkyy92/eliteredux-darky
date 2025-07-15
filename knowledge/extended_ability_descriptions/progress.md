@@ -305,7 +305,7 @@ In Progress: 0
 | 294 | Aquatic                    | ✅       | ✅        |
 | 295 | Loud Bang                  | ✅       | ✅        |
 | 296 | Lead Coat                  | ✅       | ✅        |
-| 297 | Amphibious                 | ✅       | ❌        |
+| 297 | Amphibious                 | ✅       | ✅        |
 | 298 | Grounded                   | ✅       | ❌        |
 | 299 | Earthbound                 | ✅       | ❌        |
 | 300 | Fighting Spirit            | ✅       | ❌        |

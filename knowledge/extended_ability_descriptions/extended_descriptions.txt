@@ -878,7 +878,7 @@ Sound-based attacks have a 50% chance to confuse the target upon a successful hi
 Lead Coat reduces physical damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
 
 # ID: 297
-Grants STAB to all Water-type moves regardless of the user's typing, multiplying their power by 1.5x. Also provides immunity to being drenched by Venom Drench, preventing the Attack, Special Attack, and Speed reductions that occur when poisoned Pokemon are hit by that move.
+Grants STAB to Water-type moves regardless of the user's typing. Also provides immunity to being drenched.
 
 # ID: 298
 Grounded adds Ground type to the Pokemon upon entry, creating dual or triple typing. Provides Electric immunity and Ground STAB. Exceptional on Flying types like Dodrio, negating their Electric weakness while keeping aerial advantages. Synergizes with Earthbound for boosted Ground moves.

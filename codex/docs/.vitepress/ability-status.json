@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 102,
+    "completed": 103,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:46:25.094411Z"
+    "generated_at": "2025-07-15T00:51:18.995765Z"
   },
   "abilities": {
     "0": {
@@ -2090,8 +2090,8 @@
       "id": 297,
       "name": "Amphibious",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "298": {
       "id": 298,
@@ -7924,10 +7924,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "297": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "298": {
       "indicator": "🟠",
