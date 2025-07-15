@@ -1,8 +1,8 @@
 ---
 id: 298
 name: Grounded
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 140
 ---
 
 # Grounded - Ability ID 298
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grounded adds Ground type to the Pokemon upon entry, creating dual or triple typing. Provides Electric immunity and Ground STAB. Exceptional on Flying types like Dodrio, negating their Electric weakness while keeping aerial advantages. Synergizes with Earthbound for boosted Ground moves.
+Grounded adds Ground type to the Pokemon upon entry. Retains Ground typing even upon losing the ability, going away only when switching out. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
