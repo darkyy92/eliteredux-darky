@@ -1,8 +1,8 @@
 ---
 id: 294
 name: Aquatic
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 156
 ---
 
 # Aquatic - Ability ID 294
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, this ability adds the Water type to the Pokemon as a third type. This grants all Water-type interactions including STAB on Water moves, resistance to Fire and Steel attacks, weakness to Electric and Grass moves, and immunity to burn status.
+Upon entering battle, adds the Water type to the user as a third type. Retains Water typing even upon losing the ability, losing it only when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
