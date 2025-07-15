@@ -854,7 +854,7 @@ Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type m
 Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
 
 # ID: 289
-Growing Tooth boosts the user's Attack by one stage whenever they successfully use a biting move. This includes all fang attacks like Thunder Fang and Ice Fang, plus bite attacks like Crunch and Hyper Fang. The boost activates after damage calculation, building momentum for future attacks.
+Growing Tooth boosts the user's Attack by one stage whenever they successfully hit with a biting move.
 
 # ID: 290
 When hit by Fire or Flying moves, this Pokemon inflates, boosting Defense and Special Defense by one stage each. The boost applies after taking damage, improving resilience to follow-up attacks. Perfect for bulky Pokemon that capitalize on stat increases. Works even on status moves.
