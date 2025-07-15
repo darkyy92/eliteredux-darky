@@ -1,8 +1,8 @@
 ---
 id: 289
 name: Growing Tooth
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 102
 ---
 
 # Growing Tooth - Ability ID 289
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Growing Tooth boosts the user's Attack by one stage whenever they successfully use a biting move. This includes all fang attacks like Thunder Fang and Ice Fang, plus bite attacks like Crunch and Hyper Fang. The boost activates after damage calculation, building momentum for future attacks.
+Growing Tooth boosts the user's Attack by one stage whenever they successfully hit with a biting move. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
