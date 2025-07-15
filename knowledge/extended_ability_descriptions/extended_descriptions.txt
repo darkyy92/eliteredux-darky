@@ -869,7 +869,7 @@ Avenger boosts the power of all moves by 50% for one turn after any party Pokemo
 Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle, doubling the power of Rollout and other rolling moves.
 
 # ID: 294
-Upon entering battle, this ability adds the Water type to the Pokemon as a third type. This grants all Water-type interactions including STAB on Water moves, resistance to Fire and Steel attacks, weakness to Electric and Grass moves, and immunity to burn status.
+Upon entering battle, adds the Water type to the user as a third type. Retains Water typing even upon losing the ability, losing it only when switching out.
 
 # ID: 295
 Sound-based moves have a 50% chance to confuse the target upon successful hit. This includes all moves with the sound flag like Growl, Roar, Sing, Supersonic, Screech, and Hyper Voice. The confusion effect only triggers when the move connects and affects the target.
