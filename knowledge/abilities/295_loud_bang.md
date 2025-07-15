@@ -1,8 +1,8 @@
 ---
 id: 295
 name: Loud Bang
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 82
 ---
 
 # Loud Bang - Ability ID 295
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sound-based moves have a 50% chance to confuse the target upon successful hit. This includes all moves with the sound flag like Growl, Roar, Sing, Supersonic, Screech, and Hyper Voice. The confusion effect only triggers when the move connects and affects the target.
+Sound-based attacks have a 50% chance to confuse the target upon a successful hit. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
