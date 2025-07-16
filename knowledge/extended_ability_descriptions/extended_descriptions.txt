@@ -602,7 +602,7 @@ Berserk activates when the Pokemon drops to half HP or below from an opposing at
 Slush Rush boosts the Pokemon's Speed by 50% during hail weather. The speed boost applies immediately when hail is active and disappears when it ends. Also grants immunity to hail damage.
 
 # ID: 203
-Long Reach prevents the Pokemon from making contact with targets when using moves. Additionally, physical non-contact moves receive a 1.2x damage boost. This prevents contact-based abilities like Static or Flame Body from triggering while boosting ranged physical attacks.
+Long Reach prevents the user from making contact with targets when using contact moves. Additionally, physical non-contact moves receive a 1.2x damage boost. Only applies damage boost to physical moves that were originally non-contact.
 
 # ID: 204
 Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Damage boost is additive with other sources of damage boosts.
