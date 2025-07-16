@@ -1,8 +1,8 @@
 ---
 id: 329
 name: Scare
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 98
 ---
 
 # Scare - Ability ID 329
@@ -13,7 +13,7 @@ Lowers the Special Attack of opposing Pokemon upon switching in.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, this Pokemon's intimidating presence strikes fear into opposing Pokemon, causing them to lose confidence in their special attacks. The psychological effect reduces their Special Attack stat by one stage, making their special moves considerably weaker throughout the battle.
+Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by one stage.
 
 ## Detailed Mechanical Explanation
 
