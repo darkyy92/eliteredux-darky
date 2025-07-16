@@ -1,8 +1,8 @@
 ---
 id: 316
 name: Metallic
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 149
 ---
 
 # Metallic - Ability ID 316
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Metallic adds Steel as a third type upon entry, granting Steel resistances and immunities while preserving original typing. Provides defensive utility without losing STAB. Particularly effective for frail Pokemon seeking defensive coverage while maintaining offensive versatility and type matchups.
+Upon entering battle, adds Steel to the user's current typing. Retains Steel typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 
