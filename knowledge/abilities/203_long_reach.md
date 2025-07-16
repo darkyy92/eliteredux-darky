@@ -2,7 +2,7 @@
 id: 203
 name: Long Reach
 status: reviewed
-character_count: 272
+character_count: 235
 ---
 
 # Long Reach - Ability ID 203
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Long Reach prevents the Pokemon from making contact with targets when using moves. Additionally, physical non-contact moves receive a 1.2x damage boost. This prevents contact-based abilities like Static or Flame Body from triggering while boosting ranged physical attacks.
+Long Reach prevents the user from making contact with targets when using contact moves. Additionally, physical non-contact moves receive a 1.2x damage boost. Only applies damage boost to physical moves that were originally non-contact.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
