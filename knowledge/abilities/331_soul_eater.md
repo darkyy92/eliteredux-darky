@@ -1,8 +1,8 @@
 ---
 id: 331
 name: Soul Eater
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 102
 ---
 
 # Soul Eater - Ability ID 331
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, making the Pokemon increasingly difficult to defeat in prolonged battles as it sustains itself through consecutive victories.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 ## Detailed Mechanical Explanation
 
