@@ -827,7 +827,7 @@ Antarctic Bird grants a 1.3x power boost to both Ice-type and Flying-type moves.
 Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire moves, regardless of the user's type.
 
 # ID: 280
-Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. Additive with other damage boosts.
+Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%.
 
 # ID: 281
 Electrocytes boosts Electric-type moves by 25%. Stacks additively with other damage modifiers.
