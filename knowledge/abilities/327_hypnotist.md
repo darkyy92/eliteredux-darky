@@ -1,8 +1,8 @@
 ---
 id: 327
 name: Hypnotist
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 129
 ---
 
 # Hypnotist - Ability ID 327
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Transforms Hypnosis from an unreliable 60% accuracy sleep move into a consistent 90% accuracy threat. This ability multiplies Hypnosis accuracy by 1.5x, making sleep-inducing strategies significantly more viable. The boost only applies to Hypnosis specifically, not other sleep moves.
+Boosts Hypnosis' accuracy to 90%. Does not lock to accuracy to 90%, the move still gets affected by accuracy/evasiveness changes.  
 
 ## Mechanical Analysis
 
