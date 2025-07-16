@@ -2,7 +2,7 @@
 id: 313
 name: Dragonslayer
 status: reviewed
-character_count: 268
+character_count: 217
 ---
 
 # Dragonslayer - Ability ID 313
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. Damage boost is additive with other sources while  the damage reduction is multiplicative with other sources.
+Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 
