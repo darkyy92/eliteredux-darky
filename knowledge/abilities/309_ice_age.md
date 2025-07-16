@@ -1,8 +1,8 @@
 ---
 id: 309
 name: Ice Age
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 145
 ---
 
 # Ice Age - Ability ID 309
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Age grants the Pokemon an additional Ice typing upon entering battle, creating new STAB opportunities and coverage. The added Ice type stacks with existing types, allowing for triple-typed Pokemon with expanded offensive potential and strategic flexibility for coverage moves.
+Upon entering battle, adds Ice to the user's current typing. Retains Ice typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
