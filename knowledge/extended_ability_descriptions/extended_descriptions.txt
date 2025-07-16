@@ -869,7 +869,7 @@ Avenger boosts the power of all moves by 50% for one turn after any party Pokemo
 Let's Roll automatically raises Defense by one stage and applies the Defense Curl status upon entering battle, doubling the power of Rollout and other rolling moves.
 
 # ID: 294
-Upon entering battle, adds the Water type to the user as a third type. Retains Water typing even upon losing the ability, going away only when switching out.
+Upon entering battle, adds the Water to user's current typing. Retains Water typing even upon losing the ability, going away only when switching out.
 
 # ID: 295
 Sound-based attacks have a 50% chance to confuse the target upon a successful hit.
