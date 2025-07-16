@@ -956,7 +956,7 @@ Short Circuit functions as a type-specific swarm ability for Electric-type moves
 Majestic Bird boosts Special Attack by 50% unconditionally. This multiplies the calculated stat after all modifiers, not the base stat. The boost is permanent and active immediately upon entering battle, making it extremely reliable for special sweepers and consistent offensive pressure.
 
 # ID: 324
-Phantom adds Ghost-type as a third type upon entering battle. The Pokemon gains all benefits of Ghost-typing including immunity to Normal and Fighting attacks, while retaining its original typing and STAB. Creates triple-typing combinations for strategic advantages and coverage options.
+Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing even upon losing the ability, going away only when switching out.
 
 # ID: 325
 Transforms all Normal-type moves into Poison-type and provides STAB damage boost. The Pokemon gains Same Type Attack Bonus on all Poison moves, including the converted Normal moves. Functions identically to abilities like Pixilate or Aerilate but specifically for Poison-type conversion.

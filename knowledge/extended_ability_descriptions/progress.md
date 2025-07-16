@@ -332,7 +332,7 @@ In Progress: 0
 | 321 | Juggernaut                 | ✅       | ✅        |
 | 322 | Short Circuit              | ✅       | ❌        |
 | 323 | Majestic Bird              | ✅       | ❌        |
-| 324 | Phantom                    | ✅       | ❌        |
+| 324 | Phantom                    | ✅       | ✅        |
 | 325 | Intoxicate                 | ✅       | ❌        |
 | 326 | Impenetrable               | ✅       | ❌        |
 | 327 | Hypnotist                  | ✅       | ❌        |

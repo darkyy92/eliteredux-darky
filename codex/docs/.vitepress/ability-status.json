@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 124,
+    "completed": 125,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T19:15:19.526307Z"
+    "generated_at": "2025-07-16T20:29:14.375246Z"
   },
   "abilities": {
     "0": {
@@ -2279,8 +2279,8 @@
       "id": 324,
       "name": "Phantom",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "325": {
       "id": 325,
@@ -8086,10 +8086,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "324": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "325": {
       "indicator": "🟠",
