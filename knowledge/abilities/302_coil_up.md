@@ -1,8 +1,8 @@
 ---
 id: 302
 name: Coil Up
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 116
 ---
 
 # Coil Up - Ability ID 302
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs moves.
+On entry, gives +1 priority to the first biting move used. Priority boost is consumed after landing any biting move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
