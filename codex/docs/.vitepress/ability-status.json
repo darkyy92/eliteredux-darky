@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 121,
+    "completed": 122,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T17:43:25.140396Z"
+    "generated_at": "2025-07-16T18:19:42.128450Z"
   },
   "abilities": {
     "0": {
@@ -2244,8 +2244,8 @@
       "id": 319,
       "name": "Raging Boxer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "320": {
       "id": 320,
@@ -8056,10 +8056,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "319": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "320": {
       "indicator": "🟠",

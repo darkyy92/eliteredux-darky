@@ -327,7 +327,7 @@ In Progress: 0
 | 316 | Metallic                   | ✅       | ✅        |
 | 317 | Permafrost                 | ✅       | ✅        |
 | 318 | Primal Armor               | ✅       | ❌        |
-| 319 | Raging Boxer               | ✅       | ❌        |
+| 319 | Raging Boxer               | ✅       | ✅        |
 | 320 | Air Blower                 | ✅       | ❌        |
 | 321 | Juggernaut                 | ✅       | ❌        |
 | 322 | Short Circuit              | ✅       | ❌        |
