@@ -917,7 +917,7 @@ Upon entering battle, adds Ice to the user's current typing. Retains Ice typing 
 Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out.
 
 # ID: 311
-Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. The ability activates on physical contact moves like Tackle, Punch moves, and Bite, but not on ranged moves like Thunderbolt or Flamethrower. This creates a unique risk-reward dynamic.
+Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. Multiplicative with other damage reduction sources.
 
 # ID: 312
 Dragonfly grants the Dragon type to the Pokemon on switch-in, creating dual or triple typing. The ability also provides complete immunity to Ground-type moves through levitation, making the Pokemon unaffected by moves like Earthquake and Spikes.

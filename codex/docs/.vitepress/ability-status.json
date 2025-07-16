@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 114,
+    "completed": 115,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T15:50:46.218388Z"
+    "generated_at": "2025-07-16T16:00:45.234190Z"
   },
   "abilities": {
     "0": {
@@ -2188,8 +2188,8 @@
       "id": 311,
       "name": "Liquified",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "312": {
       "id": 312,
@@ -8008,10 +8008,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "311": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "312": {
       "indicator": "🟠",
