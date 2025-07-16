@@ -968,7 +968,7 @@ Impenetrable grants immunity to all non-attack damage sources including entry ha
 Boosts Hypnosis' accuracy to 90%. Does not lock to accuracy to 90%, the move still gets affected by accuracy/evasiveness changes.
 
 # ID: 328
-This ability allows Dragon-type moves to hit Fairy-type Pokemon for normal damage instead of having no effect whatsoever. Additionally, the Pokemon is completely immune to stat-lowering entry abilities like Intimidate and Scare, making it highly resilient against common battle strategies.
+Allows Dragon-type moves to hit Fairy-type Pokemon for normal damage instead of having no effect. Additionally, the user is immune to Intimidate and Scare.
 
 # ID: 329
 Upon entering battle, this Pokemon's intimidating presence strikes fear into opposing Pokemon, causing them to lose confidence in their special attacks. The psychological effect reduces their Special Attack stat by one stage, making their special moves considerably weaker throughout the battle.

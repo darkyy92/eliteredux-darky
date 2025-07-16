@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 129,
+    "completed": 130,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T23:32:26.109735Z"
+    "generated_at": "2025-07-16T23:35:31.885042Z"
   },
   "abilities": {
     "0": {
@@ -2307,8 +2307,8 @@
       "id": 328,
       "name": "Overwhelm",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "329": {
       "id": 329,
@@ -8110,10 +8110,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "328": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "329": {
       "indicator": "🟠",
