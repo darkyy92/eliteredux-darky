@@ -971,7 +971,7 @@ Boosts Hypnosis' accuracy to 90%. Does not lock to accuracy to 90%, the move sti
 Allows Dragon-type moves to hit Fairy-type Pokemon for normal damage instead of having no effect. Additionally, the user is immune to Intimidate and Scare.
 
 # ID: 329
-Upon entering battle, this Pokemon's intimidating presence strikes fear into opposing Pokemon, causing them to lose confidence in their special attacks. The psychological effect reduces their Special Attack stat by one stage, making their special moves considerably weaker throughout the battle.
+Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by one stage.
 
 # ID: 330
 Majestic Moth automatically raises the Pokemon's highest calculated stat by 1 stage when it enters battle. The ability analyzes all five battle stats (Attack, Defense, Special Attack, Special Defense, and Speed) including current stat stage modifiers, then boosts whichever stat is highest.
