@@ -959,7 +959,7 @@ Majestic Bird boosts Special Attack by 50% unconditionally. This multiplies the 
 Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing even upon losing the ability, going away only when switching out.
 
 # ID: 325
-Transforms all Normal-type moves into Poison-type and provides STAB damage boost. The Pokemon gains Same Type Attack Bonus on all Poison moves, including the converted Normal moves. Functions identically to abilities like Pixilate or Aerilate but specifically for Poison-type conversion.
+Converts all Normal-type moves into Poison-type moves and grants STAB for Poison-type moves, regardless of the user's typing.
 
 # ID: 326
 Impenetrable grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. The Pokemon can only take damage from direct attacking moves, making it completely immune to Spikes, Stealth Rock, Sandstorm, Poison, Burn, and similar effects.
