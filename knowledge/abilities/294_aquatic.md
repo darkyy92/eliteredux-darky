@@ -13,7 +13,7 @@ character_count: 149
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, adds the Water to user's current typing. Retains Water typing even upon losing the ability, going away only when switching out.
+Upon entering battle, adds Water to the user's current typing. Retains Water typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
