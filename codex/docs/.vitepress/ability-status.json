@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 112,
+    "completed": 113,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T15:47:58.917148Z"
+    "generated_at": "2025-07-16T15:49:07.517117Z"
   },
   "abilities": {
     "0": {
@@ -2174,8 +2174,8 @@
       "id": 309,
       "name": "Ice Age",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "310": {
       "id": 310,
@@ -7996,10 +7996,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "309": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "310": {
       "indicator": "🟠",

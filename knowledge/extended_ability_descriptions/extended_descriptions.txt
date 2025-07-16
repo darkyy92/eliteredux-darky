@@ -911,7 +911,7 @@ Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dar
 Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves, regardless of the user's typing.
 
 # ID: 309
-Ice Age grants the Pokemon an additional Ice typing upon entering battle, creating new STAB opportunities and coverage. The added Ice type stacks with existing types, allowing for triple-typed Pokemon with expanded offensive potential and strategic flexibility for coverage moves.
+Upon entering battle, adds Ice to the user's current typing. Retains Ice typing even upon losing the ability, going away only when switching out.
 
 # ID: 310
 Half Drake adds Dragon typing as a third type upon entering battle. This grants STAB to Dragon moves and changes type matchups, adding weaknesses to Ice, Dragon, and Fairy while gaining resistances to Fire, Water, Electric, and Grass. The additional typing persists throughout the entire battle.
