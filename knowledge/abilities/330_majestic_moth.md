@@ -1,8 +1,8 @@
 ---
 id: 330
 name: Majestic Moth
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 94
 ---
 
 # Majestic Moth - Ability ID 330
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Majestic Moth automatically raises the Pokemon's highest calculated stat by 1 stage when it enters battle. The ability analyzes all five battle stats (Attack, Defense, Special Attack, Special Defense, and Speed) including current stat stage modifiers, then boosts whichever stat is highest.
+Majestic Moth raises the user's highest calculated base stat by 1 stage when it enters battle. 
 
 ## Detailed Mechanical Explanation
 
