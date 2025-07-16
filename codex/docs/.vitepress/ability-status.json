@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 117,
+    "completed": 118,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T16:07:40.064275Z"
+    "generated_at": "2025-07-16T16:17:15.151251Z"
   },
   "abilities": {
     "0": {
@@ -2209,8 +2209,8 @@
       "id": 314,
       "name": "Mountaineer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "315": {
       "id": 315,
@@ -8026,10 +8026,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "314": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "315": {
       "indicator": "🟠",

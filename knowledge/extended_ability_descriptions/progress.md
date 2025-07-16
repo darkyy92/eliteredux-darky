@@ -322,7 +322,7 @@ In Progress: 0
 | 311 | Liquified                  | ✅       | ✅        |
 | 312 | Dragonfly                  | ✅       | ✅        |
 | 313 | Dragonslayer               | ✅       | ✅        |
-| 314 | Mountaineer                | ✅       | ❌        |
+| 314 | Mountaineer                | ✅       | ✅        |
 | 315 | Hydrate                    | ✅       | ❌        |
 | 316 | Metallic                   | ✅       | ❌        |
 | 317 | Permafrost                 | ✅       | ❌        |
