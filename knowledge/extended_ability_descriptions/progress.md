@@ -334,7 +334,7 @@ In Progress: 0
 | 323 | Majestic Bird              | ✅       | ✅        |
 | 324 | Phantom                    | ✅       | ✅        |
 | 325 | Intoxicate                 | ✅       | ✅        |
-| 326 | Impenetrable               | ✅       | ❌        |
+| 326 | Impenetrable               | ✅       | ✅        |
 | 327 | Hypnotist                  | ✅       | ❌        |
 | 328 | Overwhelm                  | ✅       | ❌        |
 | 329 | Scare                      | ✅       | ❌        |

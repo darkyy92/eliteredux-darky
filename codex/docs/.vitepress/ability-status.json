@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 127,
+    "completed": 128,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T23:19:30.186894Z"
+    "generated_at": "2025-07-16T23:22:22.272467Z"
   },
   "abilities": {
     "0": {
@@ -2293,8 +2293,8 @@
       "id": 326,
       "name": "Impenetrable",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "327": {
       "id": 327,
@@ -8098,10 +8098,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "326": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "327": {
       "indicator": "🟠",

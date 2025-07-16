@@ -962,7 +962,7 @@ Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing 
 Converts all Normal-type moves into Poison-type moves and grants STAB for Poison-type moves, regardless of the user's typing.
 
 # ID: 326
-Impenetrable grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. The Pokemon can only take damage from direct attacking moves, making it completely immune to Spikes, Stealth Rock, Sandstorm, Poison, Burn, and similar effects.
+Impenetrable grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 # ID: 327
 Transforms Hypnosis from an unreliable 60% accuracy sleep move into a consistent 90% accuracy threat. This ability multiplies Hypnosis accuracy by 1.5x, making sleep-inducing strategies significantly more viable. The boost only applies to Hypnosis specifically, not other sleep moves.
