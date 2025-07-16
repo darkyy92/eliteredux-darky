@@ -1,8 +1,8 @@
 ---
 id: 304
 name: Magical Dust
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 211
 ---
 
 # Magical Dust - Ability ID 304
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, converts the attacker to Psychic type. This typing change affects damage calculations and resistances immediately. The attacker becomes vulnerable to Dark moves while gaining resistance to Fighting and Psychic moves. Only works on non-Psychic attackers.
+When the user is hit by a contact move, adds Psychic-type to the attacker's existing typing. Triggers immediately after the attack lands, including the first hit of a mutiihit attack. Removed when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
