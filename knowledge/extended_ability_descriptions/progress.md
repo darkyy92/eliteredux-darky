@@ -314,7 +314,7 @@ In Progress: 0
 | 303 | Fossilized                 | ✅       | ✅        |
 | 304 | Magical Dust               | ✅       | ✅        |
 | 305 | Dreamcatcher               | ✅       | ✅        |
-| 306 | Nocturnal                  | ✅       | ❌        |
+| 306 | Nocturnal                  | ✅       | ✅        |
 | 307 | Self Sufficient            | ✅       | ❌        |
 | 308 | Tectonize                  | ✅       | ❌        |
 | 309 | Ice Age                    | ✅       | ❌        |

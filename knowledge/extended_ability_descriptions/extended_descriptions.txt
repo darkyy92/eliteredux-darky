@@ -905,7 +905,7 @@ When the user is hit by a contact move, adds Psychic-type to the attacker's exis
 Dreamcatcher doubles the power of the user's moves when any Pokemon on the field is asleep. This includes the user, allies, or opponents. Also adds a Pursuit effect to the user's attacks for 1x damage when the opponent tries to switch out. Does not activate against Comatose.
 
 # ID: 306
-Nocturnal enhances the user's connection to darkness and shadow magic. Dark-type moves receive a 25% power boost, making Night Slash, Crunch, and Dark Pulse significantly stronger. Additionally, the user gains defensive benefits against Dark and Fairy moves, taking 25% less damage from these types.
+Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage boost is additive with other sources while the damage reduction is multiplicative with other sources.
 
 # ID: 307
 Self Sufficient restores 1/16 of the Pokemon's maximum HP at the end of each turn, providing reliable passive healing without requiring any weather, terrain, or status conditions. This gradual recovery helps with sustained battles and stall strategies.
