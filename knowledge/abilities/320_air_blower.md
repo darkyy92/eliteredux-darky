@@ -1,8 +1,8 @@
 ---
 id: 320
 name: Air Blower
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 153
 ---
 
 # Air Blower - Ability ID 320
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Air Blower automatically sets up a 3-turn Tailwind upon entering battle, doubling the Speed of all Pokemon on the user's side. Cannot stack if Tailwind is already active. Synergizes with Wind Rider teammates by triggering their Attack boost upon activation. Perfect for speed control teams.
+Air Blower automatically sets up a 3-turn Tailwind upon entering battle, doubling the Speed of all Pokemon on the user's side. Also activates Wind Rider.
 
 ## Detailed Mechanical Explanation
 
