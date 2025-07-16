@@ -1,8 +1,8 @@
 ---
 id: 324
 name: Phantom
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 145
 ---
 
 # Phantom - Ability ID 324
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Phantom adds Ghost-type as a third type upon entering battle. The Pokemon gains all benefits of Ghost-typing including immunity to Normal and Fighting attacks, while retaining its original typing and STAB. Creates triple-typing combinations for strategic advantages and coverage options.
+Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing even upon losing the ability, going away only when switching out.
 
 ## Mechanics
 
