@@ -329,7 +329,7 @@ In Progress: 0
 | 318 | Primal Armor               | ✅       | ❌        |
 | 319 | Raging Boxer               | ✅       | ✅        |
 | 320 | Air Blower                 | ✅       | ✅        |
-| 321 | Juggernaut                 | ✅       | ❌        |
+| 321 | Juggernaut                 | ✅       | ✅        |
 | 322 | Short Circuit              | ✅       | ❌        |
 | 323 | Majestic Bird              | ✅       | ❌        |
 | 324 | Phantom                    | ✅       | ❌        |
