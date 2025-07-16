@@ -323,7 +323,7 @@ In Progress: 0
 | 312 | Dragonfly                  | ✅       | ✅        |
 | 313 | Dragonslayer               | ✅       | ✅        |
 | 314 | Mountaineer                | ✅       | ✅        |
-| 315 | Hydrate                    | ✅       | ❌        |
+| 315 | Hydrate                    | ✅       | ✅        |
 | 316 | Metallic                   | ✅       | ❌        |
 | 317 | Permafrost                 | ✅       | ❌        |
 | 318 | Primal Armor               | ✅       | ❌        |

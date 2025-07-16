@@ -929,7 +929,7 @@ Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by 
 Mountaineer grants immunity to all Rock-type moves and Stealth Rock entry hazard damage.
 
 # ID: 315
-Converts all Normal-type moves to Water-type with 20% power boost and STAB. Includes physical moves like Tackle, special moves like Swift, and status moves. Water moves gain rain weather benefits and resist Fire/Ground/Rock but are resisted by Grass/Dragon. Excellent for rain teams.
+Converts all Normal-type moves to Water-type and grants STAB for all Water moves, regardless of the user's typing.
 
 # ID: 316
 Metallic adds Steel as a third type upon entry, granting Steel resistances and immunities while preserving original typing. Provides defensive utility without losing STAB. Particularly effective for frail Pokemon seeking defensive coverage while maintaining offensive versatility and type matchups.
