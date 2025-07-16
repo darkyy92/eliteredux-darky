@@ -1,8 +1,8 @@
 ---
 id: 323
 name: Majestic Bird
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 100
 ---
 
 # Majestic Bird - Ability ID 323
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Majestic Bird boosts Special Attack by 50% unconditionally. This multiplies the calculated stat after all modifiers, not the base stat. The boost is permanent and active immediately upon entering battle, making it extremely reliable for special sweepers and consistent offensive pressure.
+Majestic Bird boosts the user's Special Attack stat by 50%. Multiplicative with other damage boosts.
 
 ## Mechanics Analysis
 
