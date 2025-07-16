@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 105,
+    "completed": 106,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-15T00:54:31.697476Z"
+    "generated_at": "2025-07-16T01:11:35.835300Z"
   },
   "abilities": {
     "0": {
@@ -2118,8 +2118,8 @@
       "id": 301,
       "name": "Feline Prowess",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "302": {
       "id": 302,
@@ -7948,10 +7948,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "301": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "302": {
       "indicator": "🟠",

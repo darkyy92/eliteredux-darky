@@ -890,7 +890,7 @@ Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls belo
 Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks.
 
 # ID: 301
-Feline Prowess doubles Special Attack by applying a 2x multiplier to all special attack calculations. This affects the raw calculated stat rather than the base stat, meaning it stacks multiplicatively with stat boosts and items. The effect is permanent and active from battle entry.
+Feline Prowess increases the user's Special Attack stat by 2x. Multiplicative with other damage boosts.
 
 # ID: 302
 On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs moves.
