@@ -809,7 +809,7 @@ Prism Scales reduces damage from all Special attacks by 30%. Stacks multiplicati
 Punching moves gain a 30% damage boost and target Special Defense instead of Defense.
 
 # ID: 274
-Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. Stacks multiplicatively with other damage boosts.
+Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type.
 
 # ID: 275
 Rampage eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
