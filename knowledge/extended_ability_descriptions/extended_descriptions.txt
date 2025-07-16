@@ -920,7 +920,7 @@ Upon entering battle, adds Dragon to the user's current typing. Retains Dragon t
 Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. Multiplicative with other damage reduction sources.
 
 # ID: 312
-Dragonfly grants the Dragon type to the Pokemon on switch-in, creating dual or triple typing. The ability also provides complete immunity to Ground-type moves through levitation, making the Pokemon unaffected by moves like Earthquake and Spikes.
+Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out. Also gives the user immunity to Ground-type attacks and field effects that require you to be grounded.
 
 # ID: 313
 Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. Reduces damage from any move used by Dragon-types, regardless of move type. Can be suppressed by Mold Breaker.

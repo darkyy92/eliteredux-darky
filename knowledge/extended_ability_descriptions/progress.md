@@ -320,7 +320,7 @@ In Progress: 0
 | 309 | Ice Age                    | ✅       | ✅        |
 | 310 | Half Drake                 | ✅       | ✅        |
 | 311 | Liquified                  | ✅       | ✅        |
-| 312 | Dragonfly                  | ✅       | ❌        |
+| 312 | Dragonfly                  | ✅       | ✅        |
 | 313 | Dragonslayer               | ✅       | ❌        |
 | 314 | Mountaineer                | ✅       | ❌        |
 | 315 | Hydrate                    | ✅       | ❌        |

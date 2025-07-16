@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 115,
+    "completed": 116,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T16:00:45.234190Z"
+    "generated_at": "2025-07-16T16:04:28.884132Z"
   },
   "abilities": {
     "0": {
@@ -2195,8 +2195,8 @@
       "id": 312,
       "name": "Dragonfly",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "313": {
       "id": 313,
@@ -8014,10 +8014,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "312": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "313": {
       "indicator": "🟠",
