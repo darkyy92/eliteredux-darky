@@ -2,7 +2,7 @@
 id: 321
 name: Juggernaut
 status: reviewed
-character_count: 219
+character_count: 174
 ---
 
 # Juggernaut - Ability ID 321
@@ -13,7 +13,7 @@ Contact moves add 20% Def to attack. Paralysis-immune.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Juggernaut boosts contact moves by adding 20% of the user's Defense stat to attack calculations. Prevents paralysis and immediately cures the status if inflicted on the user. Additive with other damage boosting sources.
+Juggernaut boosts contact moves by adding 20% of the user's Defense stat to attack calculations. Prevents paralysis and immediately cures the status if inflicted on the user. 
 
 ## Mechanics Analysis
 
