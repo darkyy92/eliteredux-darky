@@ -1,8 +1,8 @@
 ---
 id: 306
 name: Nocturnal
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 211
 ---
 
 # Nocturnal - Ability ID 306
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Nocturnal enhances the user's connection to darkness and shadow magic. Dark-type moves receive a 25% power boost, making Night Slash, Crunch, and Dark Pulse significantly stronger. Additionally, the user gains defensive benefits against Dark and Fairy moves, taking 25% less damage from these types.
+Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage boost is additive with other sources while the damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
