@@ -321,7 +321,7 @@ In Progress: 0
 | 310 | Half Drake                 | ✅       | ✅        |
 | 311 | Liquified                  | ✅       | ✅        |
 | 312 | Dragonfly                  | ✅       | ✅        |
-| 313 | Dragonslayer               | ✅       | ❌        |
+| 313 | Dragonslayer               | ✅       | ✅        |
 | 314 | Mountaineer                | ✅       | ❌        |
 | 315 | Hydrate                    | ✅       | ❌        |
 | 316 | Metallic                   | ✅       | ❌        |
