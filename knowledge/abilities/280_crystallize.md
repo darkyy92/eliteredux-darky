@@ -2,7 +2,7 @@
 id: 280
 name: Crystallize
 status: reviewed
-character_count: 118
+character_count: 83
 ---
 
 # Crystallize - Ability ID 280
@@ -13,7 +13,7 @@ character_count: 118
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. Additive with other damage boosts.
+Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
