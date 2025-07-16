@@ -338,7 +338,7 @@ In Progress: 0
 | 327 | Hypnotist                  | ✅       | ✅        |
 | 328 | Overwhelm                  | ✅       | ✅        |
 | 329 | Scare                      | ✅       | ✅        |
-| 330 | Majestic Moth              | ✅       | ❌        |
+| 330 | Majestic Moth              | ✅       | ✅        |
 | 331 | Soul Eater                 | ✅       | ❌        |
 | 332 | Soul Linker                | ✅       | ❌        |
 | 333 | Sweet Dreams               | ✅       | ❌        |
