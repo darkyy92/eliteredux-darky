@@ -2,7 +2,7 @@
 id: 306
 name: Nocturnal
 status: reviewed
-character_count: 211
+character_count: 157
 ---
 
 # Nocturnal - Ability ID 306
@@ -13,7 +13,7 @@ character_count: 211
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage boost is additive with other sources while the damage reduction is multiplicative with other sources.
+Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
