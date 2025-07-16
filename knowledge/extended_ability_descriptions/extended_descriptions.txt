@@ -923,7 +923,7 @@ Liquified reduces contact move damage by 50% but doubles Water-type move damage 
 Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out. Also gives the user immunity to Ground-type attacks and field effects that require you to be grounded.
 
 # ID: 313
-Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. Damage boost is additive with other sources while  the damage reduction is multiplicative with other sources.
+Deals 1.5x damage to Dragon-type Pokemon and takes 0.5x damage when attacked by Dragon-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 # ID: 314
 Mountaineer grants immunity to all Rock-type moves and Stealth Rock entry hazard damage.
