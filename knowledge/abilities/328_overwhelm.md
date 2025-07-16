@@ -1,8 +1,8 @@
 ---
 id: 328
 name: Overwhelm
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 155
 ---
 
 # Overwhelm - Ability ID 328
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This ability allows Dragon-type moves to hit Fairy-type Pokemon for normal damage instead of having no effect whatsoever. Additionally, the Pokemon is completely immune to stat-lowering entry abilities like Intimidate and Scare, making it highly resilient against common battle strategies.
+Allows Dragon-type moves to hit Fairy-type Pokemon for normal damage instead of having no effect. Additionally, the user is immune to Intimidate and Scare.
 
 ## Mechanical Analysis
 
