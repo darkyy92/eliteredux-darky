@@ -1,8 +1,8 @@
 ---
 id: 312
 name: Dragonfly
-status: ai-generated
-character_count: 245
+status: reviewed
+character_count: 254
 ---
 
 # Dragonfly - Ability ID 312
@@ -13,7 +13,7 @@ character_count: 245
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dragonfly grants the Dragon type to the Pokemon on switch-in, creating dual or triple typing. The ability also provides complete immunity to Ground-type moves through levitation, making the Pokemon unaffected by moves like Earthquake and Spikes.
+Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out. Also gives the user immunity to Ground-type attacks and field effects that require you to be grounded.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
