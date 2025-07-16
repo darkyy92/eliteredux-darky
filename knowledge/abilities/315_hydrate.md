@@ -1,8 +1,8 @@
 ---
 id: 315
 name: Hydrate
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 114
 ---
 
 # Hydrate - Ability ID 315
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Converts all Normal-type moves to Water-type with 20% power boost and STAB. Includes physical moves like Tackle, special moves like Swift, and status moves. Water moves gain rain weather benefits and resist Fire/Ground/Rock but are resisted by Grass/Dragon. Excellent for rain teams.
+Converts all Normal-type moves to Water-type and grants STAB for all Water moves, regardless of the user's typing. 
 
 ## Detailed Mechanical Explanation
 
