@@ -1,8 +1,8 @@
 ---
 id: 311
 name: Liquified
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 138
 ---
 
 # Liquified - Ability ID 311
@@ -13,7 +13,7 @@ character_count: 271
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. The ability activates on physical contact moves like Tackle, Punch moves, and Bite, but not on ranged moves like Thunderbolt or Flamethrower. This creates a unique risk-reward dynamic.
+Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. Multiplicative with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
