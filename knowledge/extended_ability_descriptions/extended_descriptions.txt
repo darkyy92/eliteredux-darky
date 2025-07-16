@@ -806,7 +806,7 @@ Keen Edge boosts all slashing attacks by 30%. Stacks additively with other damag
 Prism Scales reduces damage from all Special attacks by 30%. Stacks multiplicatively with other damage reduction sources.
 
 # ID: 273
-Punching moves gain a 30% damage boost and target Special Defense instead of Defense. Stacks additively with other damage boosts.
+Punching moves gain a 30% damage boost and target Special Defense instead of Defense.
 
 # ID: 274
 Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. Stacks multiplicatively with other damage boosts.
