@@ -944,7 +944,7 @@ Primal Armor reduces damage from super-effective moves by 50%. Activates when mo
 Raging Boxer causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances.
 
 # ID: 320
-Air Blower automatically sets up a 3-turn Tailwind upon entering battle, doubling the Speed of all Pokemon on the user's side. Cannot stack if Tailwind is already active. Synergizes with Wind Rider teammates by triggering their Attack boost upon activation. Perfect for speed control teams.
+Air Blower automatically sets up a 3-turn Tailwind upon entering battle, doubling the Speed of all Pokemon on the user's side. Also activates Wind Rider.
 
 # ID: 321
 Juggernaut enhances contact moves by adding 20% of the user's Defense stat to attack calculations, making bulky Pokemon surprisingly powerful. Also provides complete immunity to paralysis status and automatically removes paralysis if inflicted by unblockable abilities like Mold Breaker.

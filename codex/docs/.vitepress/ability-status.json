@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 122,
+    "completed": 123,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T18:19:42.128450Z"
+    "generated_at": "2025-07-16T18:24:57.433406Z"
   },
   "abilities": {
     "0": {
@@ -2251,8 +2251,8 @@
       "id": 320,
       "name": "Air Blower",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "321": {
       "id": 321,
@@ -8062,10 +8062,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "320": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "321": {
       "indicator": "🟠",
