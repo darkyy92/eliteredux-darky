@@ -896,7 +896,7 @@ Feline Prowess increases the user's Special Attack stat by 2x. Multiplicative wi
 On entry, gives +1 priority to the first biting move used. Priority boost is consumed after landing any biting move.
 
 # ID: 303
-Fossilized grants dual Rock-type synergy, reducing incoming Rock damage by 50% while boosting the user's Rock moves by 20%. This ancient adaptation provides both defensive resilience and offensive enhancement to fossil Pokemon. Works on all Rock attacks regardless of physical or special type.
+Fossilized reduces Rock-type damage by 50% and boosts the user's Rock moves by 20%. Damage reduction is multiplicative with other sources, while the damage boost is additive with other sources.
 
 # ID: 304
 When hit by a contact move, converts the attacker to Psychic type. This typing change affects damage calculations and resistances immediately. The attacker becomes vulnerable to Dark moves while gaining resistance to Fighting and Psychic moves. Only works on non-Psychic attackers.

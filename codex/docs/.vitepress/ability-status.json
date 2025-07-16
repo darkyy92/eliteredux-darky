@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 107,
+    "completed": 108,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-16T01:14:29.867599Z"
+    "generated_at": "2025-07-16T14:59:56.719591Z"
   },
   "abilities": {
     "0": {
@@ -2132,8 +2132,8 @@
       "id": 303,
       "name": "Fossilized",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "304": {
       "id": 304,
@@ -7960,10 +7960,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "303": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "304": {
       "indicator": "🟠",
