@@ -1,8 +1,8 @@
 ---
 id: 319
 name: Raging Boxer
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 168
 ---
 
 # Raging Boxer - Ability ID 319
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Raging Boxer causes punching moves to hit twice like Parental Bond, with the first hit at 100% power and second hit at 40% power. Affects all Iron Fist boosted moves including Bullet Punch, Fire Punch, Ice Punch, and similar moves. Particularly powerful for Fighting-type Pokemon.
+Raging Boxer causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances.
 
 ## Detailed Mechanical Explanation
 
