@@ -1,8 +1,8 @@
 ---
 id: 314
 name: Mountaineer
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 88
 ---
 
 # Mountaineer - Ability ID 314
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mountaineer grants complete immunity to all Rock-type moves and Stealth Rock entry hazard damage. The Pokemon takes no damage from moves like Stone Edge, Rock Slide, or Ancient Power. Also prevents chip damage from Stealth Rock when switching in, making it ideal for hazard-heavy battles.
+Mountaineer grants immunity to all Rock-type moves and Stealth Rock entry hazard damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
