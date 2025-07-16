@@ -325,7 +325,7 @@ In Progress: 0
 | 314 | Mountaineer                | ✅       | ✅        |
 | 315 | Hydrate                    | ✅       | ✅        |
 | 316 | Metallic                   | ✅       | ✅        |
-| 317 | Permafrost                 | ✅       | ❌        |
+| 317 | Permafrost                 | ✅       | ✅        |
 | 318 | Primal Armor               | ✅       | ❌        |
 | 319 | Raging Boxer               | ✅       | ❌        |
 | 320 | Air Blower                 | ✅       | ❌        |

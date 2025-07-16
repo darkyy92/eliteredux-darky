@@ -935,7 +935,7 @@ Converts all Normal-type moves to Water-type and grants STAB for all Water moves
 Upon entering battle, adds Steel to the user's current typing. Retains Steel typing even upon losing the ability, going away only when switching out.
 
 # ID: 317
-Reduces damage from super-effective attacks by 35%. Activates when hit by moves with 2.0x type effectiveness or higher. Damage reduction applies after type calculations but before other defensive modifiers. Can be suppressed by Mold Breaker abilities but cannot be bypassed by moves directly.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 318
 Primal Armor reduces damage from super-effective moves by 50%. Activates when moves have 2x or higher type effectiveness, cutting damage to manageable levels. Works against all super-effective attacks regardless of type. Stacks with other damage reduction effects like berries for incredible bulk.
