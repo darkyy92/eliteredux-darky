@@ -1,8 +1,8 @@
 ---
 id: 308
 name: Tectonize
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 135
 ---
 
 # Tectonize - Ability ID 308
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves. This allows users to use moves like Tackle, Hyper Beam, and Boomburst as strong Ground-type attacks. The converted moves retain their original power and effects while gaining Ground typing benefit.
+Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves, regardless of the user's typing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
