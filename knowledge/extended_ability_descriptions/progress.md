@@ -339,7 +339,7 @@ In Progress: 0
 | 328 | Overwhelm                  | ✅       | ✅        |
 | 329 | Scare                      | ✅       | ✅        |
 | 330 | Majestic Moth              | ✅       | ✅        |
-| 331 | Soul Eater                 | ✅       | ❌        |
+| 331 | Soul Eater                 | ✅       | ✅        |
 | 332 | Soul Linker                | ✅       | ❌        |
 | 333 | Sweet Dreams               | ✅       | ❌        |
 | 334 | Bad Luck                   | ✅       | ❌        |

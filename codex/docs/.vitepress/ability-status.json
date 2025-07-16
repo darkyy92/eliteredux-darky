@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 132,
+    "completed": 133,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T23:43:14.454272Z"
+    "generated_at": "2025-07-16T23:44:00.617778Z"
   },
   "abilities": {
     "0": {
@@ -2328,8 +2328,8 @@
       "id": 331,
       "name": "Soul Eater",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "332": {
       "id": 332,
@@ -8128,10 +8128,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "331": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "332": {
       "indicator": "🟠",
