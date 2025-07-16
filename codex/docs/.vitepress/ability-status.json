@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 111,
+    "completed": 112,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T15:42:39.437547Z"
+    "generated_at": "2025-07-16T15:44:28.192563Z"
   },
   "abilities": {
     "0": {
@@ -2167,8 +2167,8 @@
       "id": 308,
       "name": "Tectonize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "309": {
       "id": 309,
@@ -7990,10 +7990,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "308": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "309": {
       "indicator": "🟠",

@@ -908,7 +908,7 @@ Dreamcatcher doubles the power of the user's moves when any Pokemon on the field
 Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage boost is additive with other sources while the damage reduction is multiplicative with other sources.
 
 # ID: 308
-Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves. This allows users to use moves like Tackle, Hyper Beam, and Boomburst as strong Ground-type attacks. The converted moves retain their original power and effects while gaining Ground typing benefit.
+Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves, regardless of the user's typing.
 
 # ID: 309
 Ice Age grants the Pokemon an additional Ice typing upon entering battle, creating new STAB opportunities and coverage. The added Ice type stacks with existing types, allowing for triple-typed Pokemon with expanded offensive potential and strategic flexibility for coverage moves.

@@ -316,7 +316,7 @@ In Progress: 0
 | 305 | Dreamcatcher               | ✅       | ✅        |
 | 306 | Nocturnal                  | ✅       | ✅        |
 | 307 | Ability 307                | ❌       | ❌        |
-| 308 | Tectonize                  | ✅       | ❌        |
+| 308 | Tectonize                  | ✅       | ✅        |
 | 309 | Ice Age                    | ✅       | ❌        |
 | 310 | Half Drake                 | ✅       | ❌        |
 | 311 | Liquified                  | ✅       | ❌        |
