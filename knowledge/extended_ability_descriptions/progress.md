@@ -310,7 +310,7 @@ In Progress: 0
 | 299 | Earthbound                 | ✅       | ❌        |
 | 300 | Fighting Spirit            | ✅       | ✅        |
 | 301 | Feline Prowess             | ✅       | ✅        |
-| 302 | Coil Up                    | ✅       | ❌        |
+| 302 | Coil Up                    | ✅       | ✅        |
 | 303 | Fossilized                 | ✅       | ❌        |
 | 304 | Magical Dust               | ✅       | ❌        |
 | 305 | Dreamcatcher               | ✅       | ❌        |

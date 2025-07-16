@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 106,
+    "completed": 107,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-16T01:11:35.835300Z"
+    "generated_at": "2025-07-16T01:14:29.867599Z"
   },
   "abilities": {
     "0": {
@@ -2125,8 +2125,8 @@
       "id": 302,
       "name": "Coil Up",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "303": {
       "id": 303,
@@ -7954,10 +7954,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "302": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "303": {
       "indicator": "🟠",

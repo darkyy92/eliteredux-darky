@@ -893,7 +893,7 @@ Fighting Spirit converts all Normal-type moves into Fighting-type moves and gran
 Feline Prowess increases the user's Special Attack stat by 2x. Multiplicative with other damage boosts.
 
 # ID: 302
-On entry, gains 'coiled' status giving +1 priority to first biting move used. Message shows Pokemon coiled up ready to bite. Priority boost consumed after using any Strong Jaw-boosted move. Perfect for revenge killing or breaking through faster foes with priority Crunch/Fangs moves.
+On entry, gives +1 priority to the first biting move used. Priority boost is consumed after landing any biting move.
 
 # ID: 303
 Fossilized grants dual Rock-type synergy, reducing incoming Rock damage by 50% while boosting the user's Rock moves by 20%. This ancient adaptation provides both defensive resilience and offensive enhancement to fossil Pokemon. Works on all Rock attacks regardless of physical or special type.
