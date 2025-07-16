@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 872
+Completed: 871
 In Progress: 0
 
 ## Progress Tracking
@@ -315,7 +315,7 @@ In Progress: 0
 | 304 | Magical Dust               | ✅       | ✅        |
 | 305 | Dreamcatcher               | ✅       | ✅        |
 | 306 | Nocturnal                  | ✅       | ✅        |
-| 307 | Self Sufficient            | ✅       | ❌        |
+| 307 | Ability 307                | ❌       | ❌        |
 | 308 | Tectonize                  | ✅       | ❌        |
 | 309 | Ice Age                    | ✅       | ❌        |
 | 310 | Half Drake                 | ✅       | ❌        |

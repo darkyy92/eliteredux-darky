@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 111,
-    "written": 872,
-    "pending": 4,
-    "generated_at": "2025-07-16T15:39:01.916277Z"
+    "written": 871,
+    "pending": 5,
+    "generated_at": "2025-07-16T15:42:39.437547Z"
   },
   "abilities": {
     "0": {
@@ -2158,10 +2158,10 @@
     },
     "307": {
       "id": 307,
-      "name": "Self Sufficient",
-      "written": true,
+      "name": "Ability 307",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "308": {
       "id": 308,
@@ -7984,10 +7984,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "307": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "308": {
       "indicator": "🟠",

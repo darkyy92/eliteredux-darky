@@ -907,9 +907,6 @@ Dreamcatcher doubles the power of the user's moves when any Pokemon on the field
 # ID: 306
 Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage boost is additive with other sources while the damage reduction is multiplicative with other sources.
 
-# ID: 307
-Self Sufficient restores 1/16 of the Pokemon's maximum HP at the end of each turn, providing reliable passive healing without requiring any weather, terrain, or status conditions. This gradual recovery helps with sustained battles and stall strategies.
-
 # ID: 308
 Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves. This allows users to use moves like Tackle, Hyper Beam, and Boomburst as strong Ground-type attacks. The converted moves retain their original power and effects while gaining Ground typing benefit.
 
