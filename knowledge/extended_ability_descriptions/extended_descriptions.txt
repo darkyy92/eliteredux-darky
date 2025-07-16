@@ -905,7 +905,7 @@ When the user is hit by a contact move, adds Psychic-type to the attacker's exis
 Dreamcatcher doubles the power of the user's moves when any Pokemon on the field is asleep. This includes the user, allies, or opponents. Also adds a Pursuit effect to the user's attacks for 1x damage when the opponent tries to switch out. Does not activate against Comatose.
 
 # ID: 306
-Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage boost is additive with other sources while the damage reduction is multiplicative with other sources.
+Dark-type moves receive a 25% boost, and the user takes 25% less damage from Dark and Fairy moves. The damage reduction is multiplicative with other sources.
 
 # ID: 308
 Tectonize converts all Normal-type moves into Ground-type moves and grants STAB for Ground-type moves, regardless of the user's typing.
