@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 126,
+    "completed": 127,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T23:18:20.651231Z"
+    "generated_at": "2025-07-16T23:19:30.186894Z"
   },
   "abilities": {
     "0": {
@@ -2272,8 +2272,8 @@
       "id": 323,
       "name": "Majestic Bird",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "324": {
       "id": 324,
@@ -8080,10 +8080,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "323": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "324": {
       "indicator": "✅",

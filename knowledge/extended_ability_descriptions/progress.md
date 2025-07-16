@@ -331,7 +331,7 @@ In Progress: 0
 | 320 | Air Blower                 | ✅       | ✅        |
 | 321 | Juggernaut                 | ✅       | ✅        |
 | 322 | Short Circuit              | ✅       | ❌        |
-| 323 | Majestic Bird              | ✅       | ❌        |
+| 323 | Majestic Bird              | ✅       | ✅        |
 | 324 | Phantom                    | ✅       | ✅        |
 | 325 | Intoxicate                 | ✅       | ✅        |
 | 326 | Impenetrable               | ✅       | ❌        |
