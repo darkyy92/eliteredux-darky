@@ -1,8 +1,8 @@
 ---
 id: 326
 name: Impenetrable
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 133
 ---
 
 # Impenetrable - Ability ID 326
@@ -13,7 +13,7 @@ Provides comprehensive protection against all forms of indirect damage.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Impenetrable grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. The Pokemon can only take damage from direct attacking moves, making it completely immune to Spikes, Stealth Rock, Sandstorm, Poison, Burn, and similar effects.
+Impenetrable grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 ## Detailed Mechanical Explanation
 
