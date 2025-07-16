@@ -2,7 +2,7 @@
 id: 249
 name: Power Spot
 status: reviewed
-character_count: 147
+character_count: 99
 ---
 
 # Power Spot - Ability ID 249
@@ -13,7 +13,7 @@ character_count: 147
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Power Spot boosts allies' attack power by 30% in double battles. The user itself receives no boost. Multiplicative with other damage boost sources.
+Power Spot boosts allies' attack power by 30% in double battles. The user itself receives no boost. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
