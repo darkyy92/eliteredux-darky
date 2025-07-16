@@ -312,7 +312,7 @@ In Progress: 0
 | 301 | Feline Prowess             | ✅       | ✅        |
 | 302 | Coil Up                    | ✅       | ✅        |
 | 303 | Fossilized                 | ✅       | ✅        |
-| 304 | Magical Dust               | ✅       | ❌        |
+| 304 | Magical Dust               | ✅       | ✅        |
 | 305 | Dreamcatcher               | ✅       | ❌        |
 | 306 | Nocturnal                  | ✅       | ❌        |
 | 307 | Self Sufficient            | ✅       | ❌        |

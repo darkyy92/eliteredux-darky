@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 108,
+    "completed": 109,
     "written": 872,
     "pending": 4,
-    "generated_at": "2025-07-16T14:59:56.719591Z"
+    "generated_at": "2025-07-16T15:11:39.305955Z"
   },
   "abilities": {
     "0": {
@@ -2139,8 +2139,8 @@
       "id": 304,
       "name": "Magical Dust",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "305": {
       "id": 305,
@@ -7966,10 +7966,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "304": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "305": {
       "indicator": "🟠",

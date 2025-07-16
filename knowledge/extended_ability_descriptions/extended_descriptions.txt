@@ -899,7 +899,7 @@ On entry, gives +1 priority to the first biting move used. Priority boost is con
 Fossilized reduces Rock-type damage by 50% and boosts the user's Rock moves by 20%. Damage reduction is multiplicative with other sources, while the damage boost is additive with other sources.
 
 # ID: 304
-When hit by a contact move, converts the attacker to Psychic type. This typing change affects damage calculations and resistances immediately. The attacker becomes vulnerable to Dark moves while gaining resistance to Fighting and Psychic moves. Only works on non-Psychic attackers.
+When the user is hit by a contact move, adds Psychic-type to the attacker's existing typing. Triggers immediately after the attack lands, including the first hit of a mutiihit attack. Removed when switching out.
 
 # ID: 305
 Dreamcatcher doubles the power of all moves when any Pokemon on the battlefield is asleep. This includes the user, allies, and opponents. Works with natural sleep, Sleep Powder, Rest, and Comatose. The boost applies to all move types and stacks with other damage modifiers for devastating power.
