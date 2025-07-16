@@ -2,7 +2,7 @@
 id: 274
 name: Sand Song
 status: reviewed
-character_count: 161
+character_count: 111
 ---
 
 # Sand Song - Ability ID 274
@@ -13,7 +13,7 @@ character_count: 161
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. Stacks multiplicatively with other damage boosts.
+Sand Song boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ground-type. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
