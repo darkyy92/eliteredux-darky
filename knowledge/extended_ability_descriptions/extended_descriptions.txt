@@ -830,7 +830,7 @@ Immolate converts all Normal-type moves to Fire-type and grants STAB for Fire mo
 Crystallize converts all Rock-type moves to Ice-type and boosts their power by 10%.
 
 # ID: 281
-Electrocytes boosts Electric-type moves by 25%. Stacks additively with other damage modifiers.
+Electrocytes boosts Electric-type moves by 25%.
 
 # ID: 282
 When targeted by Flying-type moves, Aerodynamics absorbs the attack and raises the user's Speed stat by one stage.
