@@ -1,8 +1,8 @@
 ---
 id: 317
 name: Permafrost
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 106
 ---
 
 # Permafrost - Ability ID 317
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces damage from super-effective attacks by 35%. Activates when hit by moves with 2.0x type effectiveness or higher. Damage reduction applies after type calculations but before other defensive modifiers. Can be suppressed by Mold Breaker abilities but cannot be bypassed by moves directly.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 
