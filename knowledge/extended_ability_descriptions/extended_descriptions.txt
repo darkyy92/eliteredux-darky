@@ -914,7 +914,7 @@ Tectonize converts all Normal-type moves into Ground-type moves and grants STAB 
 Upon entering battle, adds Ice to the user's current typing. Retains Ice typing even upon losing the ability, going away only when switching out.
 
 # ID: 310
-Half Drake adds Dragon typing as a third type upon entering battle. This grants STAB to Dragon moves and changes type matchups, adding weaknesses to Ice, Dragon, and Fairy while gaining resistances to Fire, Water, Electric, and Grass. The additional typing persists throughout the entire battle.
+Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out.
 
 # ID: 311
 Liquified reduces contact move damage by 50% but doubles Water-type move damage taken. The ability activates on physical contact moves like Tackle, Punch moves, and Bite, but not on ranged moves like Thunderbolt or Flamethrower. This creates a unique risk-reward dynamic.

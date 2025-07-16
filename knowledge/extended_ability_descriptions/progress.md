@@ -318,7 +318,7 @@ In Progress: 0
 | 307 | Ability 307                | ❌       | ❌        |
 | 308 | Tectonize                  | ✅       | ✅        |
 | 309 | Ice Age                    | ✅       | ✅        |
-| 310 | Half Drake                 | ✅       | ❌        |
+| 310 | Half Drake                 | ✅       | ✅        |
 | 311 | Liquified                  | ✅       | ❌        |
 | 312 | Dragonfly                  | ✅       | ❌        |
 | 313 | Dragonslayer               | ✅       | ❌        |
