@@ -734,7 +734,7 @@ Ripen doubles all beneficial berry effects. Healing berries restore twice as muc
 Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. While in Noice form, if hail is set or if the user is swapped in, revert to Ice Face form. Cannot be copied or suppressed.
 
 # ID: 249
-Power Spot boosts allies' attack power by 30% in double battles. The user itself receives no boost. Multiplicative with other damage boost sources.
+Power Spot boosts allies' attack power by 30% in double battles. The user itself receives no boost.
 
 # ID: 250
 Mimicry changes the Pokemon's type to match active terrain: Electric on Electric Terrain, Fairy on Misty Terrain, Grass on Grassy Terrain, or Psychic on Psychic Terrain. The type change persists until terrain ends or the Pokemon switches out. Retains type changes from moves like Soak.
