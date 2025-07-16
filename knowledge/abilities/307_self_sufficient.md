@@ -1,8 +1,8 @@
 ---
 id: 307
 name: Self Sufficient
-status: ai-generated
-character_count: 252
+status: reviewed
+character_count: 82
 ---
 
 # Self Sufficient - Ability ID 307
@@ -13,7 +13,7 @@ character_count: 252
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Self Sufficient restores 1/16 of the Pokemon's maximum HP at the end of each turn, providing reliable passive healing without requiring any weather, terrain, or status conditions. This gradual recovery helps with sustained battles and stall strategies.
+Self Sufficient restores 1/16 of the Pokemon's maximum HP at the end of each turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -69,10 +69,10 @@ Self Sufficient will not activate when:
 - Helps counter passive damage from status conditions, entry hazards, or recoil
 
 **Example Damage Calculations:**
-- 404 HP Pokemon: 404 Ã· 16 = 25.25 to 25 HP healed per turn
-- 200 HP Pokemon: 200 Ã· 16 = 12.5 to 12 HP healed per turn
-- 50 HP Pokemon: 50 Ã· 16 = 3.125 to 3 HP healed per turn
-- 10 HP Pokemon: 10 Ã· 16 = 0.625 to 1 HP healed per turn (minimum)
+- 404 HP Pokemon: 404 ÷ 16 = 25.25 to 25 HP healed per turn
+- 200 HP Pokemon: 200 ÷ 16 = 12.5 to 12 HP healed per turn
+- 50 HP Pokemon: 50 ÷ 16 = 3.125 to 3 HP healed per turn
+- 10 HP Pokemon: 10 ÷ 16 = 0.625 to 1 HP healed per turn (minimum)
 
 **Common Users:**
 Based on the codebase, Pokemon with Self Sufficient include:
