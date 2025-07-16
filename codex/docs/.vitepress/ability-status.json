@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 119,
+    "completed": 120,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-16T16:23:14.327922Z"
+    "generated_at": "2025-07-16T16:29:44.827446Z"
   },
   "abilities": {
     "0": {
@@ -2223,8 +2223,8 @@
       "id": 316,
       "name": "Metallic",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "317": {
       "id": 317,
@@ -8038,10 +8038,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "316": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "317": {
       "indicator": "🟠",

@@ -932,7 +932,7 @@ Mountaineer grants immunity to all Rock-type moves and Stealth Rock entry hazard
 Converts all Normal-type moves to Water-type and grants STAB for all Water moves, regardless of the user's typing.
 
 # ID: 316
-Metallic adds Steel as a third type upon entry, granting Steel resistances and immunities while preserving original typing. Provides defensive utility without losing STAB. Particularly effective for frail Pokemon seeking defensive coverage while maintaining offensive versatility and type matchups.
+Upon entering battle, adds Steel to the user's current typing. Retains Steel typing even upon losing the ability, going away only when switching out.
 
 # ID: 317
 Reduces damage from super-effective attacks by 35%. Activates when hit by moves with 2.0x type effectiveness or higher. Damage reduction applies after type calculations but before other defensive modifiers. Can be suppressed by Mold Breaker abilities but cannot be bypassed by moves directly.
