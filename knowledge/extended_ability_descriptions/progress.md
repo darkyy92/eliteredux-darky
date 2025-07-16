@@ -335,7 +335,7 @@ In Progress: 0
 | 324 | Phantom                    | ✅       | ✅        |
 | 325 | Intoxicate                 | ✅       | ✅        |
 | 326 | Impenetrable               | ✅       | ✅        |
-| 327 | Hypnotist                  | ✅       | ❌        |
+| 327 | Hypnotist                  | ✅       | ✅        |
 | 328 | Overwhelm                  | ✅       | ❌        |
 | 329 | Scare                      | ✅       | ❌        |
 | 330 | Majestic Moth              | ✅       | ❌        |
