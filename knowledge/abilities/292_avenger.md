@@ -2,7 +2,7 @@
 id: 292
 name: Avenger
 status: reviewed
-character_count: 125
+character_count: 89
 ---
 
 # Avenger - Ability ID 292
@@ -13,7 +13,7 @@ character_count: 125
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. Additive with other damage sources.
+Avenger boosts the power of all moves by 50% for one turn after any party Pokemon faints. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
