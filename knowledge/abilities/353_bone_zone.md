@@ -1,8 +1,8 @@
 ---
 id: 353
 name: Bone Zone
-status: extended
-character_count: 279
+status: reviewed
+character_count: 138
 ---
 
 # Bone Zone - Ability ID 353
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Bone moves bypass immunities and flip resistances into weaknesses. Immune targets take normal damage, resisted hits deal 2x damage instead. Neutral/super effective unchanged. Works on Bone Club, Bonemerang, Bone Rush, Shadow Bone, and Blazing Bone. Cubone line's signature power.
+Bone moves bypass immunities and hit for normal damage, while resisted moves do 2x damage. Neutral/super effective moves remain unchanged.
 
 ## Detailed Mechanical Explanation
 
