@@ -1,8 +1,8 @@
 ---
 id: 340
 name: Fatal Precision
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 72
 ---
 
 # Fatal Precision - Ability ID 340
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Super-effective damaging moves never miss and always land critical hits. Only triggers on moves that deal at least 2x type effectiveness damage against the target. Does not affect status moves or neutral damage. Transforms coverage moves into guaranteed knockout threats against weak opponents.
+Super-effective damaging moves never miss and always land critical hits. 
 
 ## Detailed Mechanical Explanation
 
