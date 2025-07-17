@@ -2,7 +2,7 @@
 id: 332
 name: Soul Linker
 status: reviewed
-character_count: 162
+character_count: 263
 ---
 
 # Soul Linker - Ability ID 332
@@ -13,7 +13,7 @@ character_count: 162
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this user takes direct damage, the opponent takes identical damage. Conversely, when landing a direct hit, the user also endures the same damage it inflicts.
+When the user takes a direct hit, the opponent takes identical damage. When landing a direct hit, the user also takes the same damage it inflicts. Does not activate when either Pokemon is knocked out, taking damage from Pain Split, or against another Soul Linker.
 
 ## Detailed Mechanical Explanation
 
