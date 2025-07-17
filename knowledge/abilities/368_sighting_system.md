@@ -1,8 +1,8 @@
 ---
 id: 368
 name: Sighting System
-status: ai-generated
-character_count: 255
+status: reviewed
+character_count: 131
 ---
 
 # Sighting System - Ability ID 368
@@ -13,7 +13,7 @@ character_count: 255
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sighting System guarantees all moves hit regardless of accuracy checks, eliminating RNG from battles. However, moves with less than 80% base accuracy receive -3 priority, making them go last. This creates strategic decisions between reliability and speed.
+Sighting System guarantees all moves hit regardless of accuracy checks. Moves with less than 80% base accuracy receive -3 priority.
 
 ## Detailed Mechanical Explanation
 
