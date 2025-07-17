@@ -1,8 +1,8 @@
 ---
 id: 358
 name: Hyper Aggressive
-status: ai-generated
-character_count: 279
+status: reviewed
+character_count: 148
 ---
 
 # Hyper Aggressive - Ability ID 358
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Makes all moves hit twice in succession. The first hit deals normal damage, while the second hit deals 25% of the original damage. This ability affects all damaging moves regardless of type or category, providing significant damage output increases at the cost of predictability.
+Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently.
 
 ## Detailed Mechanical Explanation
 
