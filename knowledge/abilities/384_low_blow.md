@@ -1,8 +1,8 @@
 ---
 id: 384
 name: Low Blow
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 145
 ---
 
 # Low Blow - Ability ID 384
@@ -13,7 +13,7 @@ character_count: 271
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Low Blow automatically uses a 40 BP Feint Attack when switching in, targeting a random opponent. Dark-type physical attack that never misses and cannot be avoided by evasion boosts. Reduced from the move's normal 80 BP. Excellent for breaking Focus Sash items and Sturdy.
+Low Blow uses a 40 BP Feint Attack when switching in, targeting a random opponent. Feint Attack is a Dark-type physical attack that never misses.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
