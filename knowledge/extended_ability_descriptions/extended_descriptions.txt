@@ -1004,7 +1004,7 @@ Solenoglyphs gives all biting moves a 50% chance to badly poison the target when
 Sets Sticky Web hazard on opponent's field when the user enters battle. Lasts 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field.
 
 # ID: 340
-Super-effective damaging moves never miss and always land critical hits. Only triggers on moves that deal at least 2x type effectiveness damage against the target. Does not affect status moves or neutral damage. Transforms coverage moves into guaranteed knockout threats against weak opponents.
+Super-effective damaging moves never miss and always land critical hits.
 
 # ID: 341
 Neutralizes offensive abilities that boost damage or enable multi-hits. Blocks 158+ damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond and Multi Headed bypass.

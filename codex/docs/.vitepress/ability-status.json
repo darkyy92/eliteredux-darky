@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 141,
+    "completed": 142,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:45:37.624384Z"
+    "generated_at": "2025-07-17T00:47:05.805263Z"
   },
   "abilities": {
     "0": {
@@ -2391,8 +2391,8 @@
       "id": 340,
       "name": "Fatal Precision",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "341": {
       "id": 341,
@@ -8182,10 +8182,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "340": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "341": {
       "indicator": "🟠",

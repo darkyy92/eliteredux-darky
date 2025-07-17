@@ -348,7 +348,7 @@ In Progress: 0
 | 337 | Raw Wood                   | ✅       | ✅        |
 | 338 | Solenoglyphs               | ✅       | ✅        |
 | 339 | Spider Lair                | ✅       | ✅        |
-| 340 | Fatal Precision            | ✅       | ❌        |
+| 340 | Fatal Precision            | ✅       | ✅        |
 | 341 | Fort Knox                  | ✅       | ❌        |
 | 342 | Seaweed                    | ✅       | ❌        |
 | 343 | Psychic Mind               | ✅       | ❌        |
