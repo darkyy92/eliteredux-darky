@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 165,
+    "completed": 166,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:37:05.188067Z"
+    "generated_at": "2025-07-17T16:39:56.208838Z"
   },
   "abilities": {
     "0": {
@@ -2594,8 +2594,8 @@
       "id": 369,
       "name": "Bad Company",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "370": {
       "id": 370,
@@ -8356,10 +8356,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "369": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "370": {
       "indicator": "🟠",

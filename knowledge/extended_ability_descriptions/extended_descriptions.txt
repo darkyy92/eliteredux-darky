@@ -1088,7 +1088,7 @@ Adds 20% of Defense stat to physical attacks and 20% of Special Defense stat to 
 Sighting System guarantees all moves hit regardless of accuracy checks. Moves with less than 80% base accuracy receive -3 priority.
 
 # ID: 369
-Bad Company prevents the user from suffering Defense and Special Defense drops when using powerful moves like Close Combat or Dragon Ascent. This ability allows repeated use of these high-power attacks without the usual defensive penalties, maintaining bulk throughout battles.
+Not implemented.
 
 # ID: 370
 Opportunist grants +1 priority to all moves when targeting opponents with 50% HP or less. This ability excels at revenge killing and finishing off weakened threats before they can strike back. The priority boost stacks with existing move priority.

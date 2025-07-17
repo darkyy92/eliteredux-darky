@@ -377,7 +377,7 @@ In Progress: 0
 | 366 | Solar Flare                | ✅       | ✅        |
 | 367 | Power Core                 | ✅       | ✅        |
 | 368 | Sighting System            | ✅       | ✅        |
-| 369 | Bad Company                | ✅       | ❌        |
+| 369 | Bad Company                | ✅       | ✅        |
 | 370 | Opportunist                | ✅       | ❌        |
 | 371 | Giant Wings                | ✅       | ❌        |
 | 372 | Momentum                   | ✅       | ❌        |
