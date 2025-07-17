@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 134,
+    "completed": 135,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:14:35.974191Z"
+    "generated_at": "2025-07-17T00:17:30.099832Z"
   },
   "abilities": {
     "0": {
@@ -2342,8 +2342,8 @@
       "id": 333,
       "name": "Sweet Dreams",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "334": {
       "id": 334,
@@ -8140,10 +8140,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "333": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "334": {
       "indicator": "🟠",

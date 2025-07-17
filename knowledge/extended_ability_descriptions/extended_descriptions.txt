@@ -983,7 +983,7 @@ When the user knocks out an opponent with a direct hit, it immediately recovers 
 When the user takes a direct hit, the opponent takes identical damage. When landing a direct hit, the user also takes the same damage it inflicts. Does not activate when either Pokemon is knocked out, taking damage from Pain Split, or against another Soul Linker.
 
 # ID: 333
-Sweet Dreams provides restorative healing while sleeping, regenerating exactly 1/8 of maximum HP at the end of each turn when the Pokemon is asleep or has the Comatose ability. Additionally, it grants complete immunity to Bad Dreams damage, making this a powerful defensive ability.
+Sweet Dreams restores 1/8 of maximum HP at the end of each turn when the user is asleep or has the Comatose ability. Additionally, it grants immunity to Bad Dreams damage.
 
 # ID: 334
 Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch/stat drop chances. Makes incoming damage highly predictable.
