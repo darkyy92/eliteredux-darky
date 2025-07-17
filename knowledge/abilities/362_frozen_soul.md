@@ -1,8 +1,8 @@
 ---
 id: 362
 name: Frozen Soul
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 84
 ---
 
 # Frozen Soul - Ability ID 362
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Frozen Soul grants +1 priority to all Ice-type moves when the user is at maximum HP. This powerful ability allows Ice-type attackers to strike first with moves like Ice Beam, Blizzard, or Icicle Crash, bypassing speed tiers entirely. The priority boost is lost if any damage is taken.
+Frozen Soul grants +1 priority to all Ice-type moves when the user is at maximum HP. 
 
 ## Detailed Mechanical Explanation
 
