@@ -372,7 +372,7 @@ In Progress: 0
 | 361 | Striker                    | ✅       | ✅        |
 | 362 | Frozen Soul                | ✅       | ✅        |
 | 363 | Predator                   | ✅       | ✅        |
-| 364 | Looter                     | ✅       | ❌        |
+| 364 | Looter                     | ✅       | ✅        |
 | 365 | Lunar Eclipse              | ✅       | ❌        |
 | 366 | Solar Flare                | ✅       | ❌        |
 | 367 | Power Core                 | ✅       | ❌        |
