@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 159,
+    "completed": 160,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:26:40.641441Z"
+    "generated_at": "2025-07-17T16:29:02.365610Z"
   },
   "abilities": {
     "0": {
@@ -2552,8 +2552,8 @@
       "id": 363,
       "name": "Predator",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "364": {
       "id": 364,
@@ -8320,10 +8320,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "363": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "364": {
       "indicator": "🟠",
