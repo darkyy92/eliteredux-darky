@@ -386,7 +386,7 @@ In Progress: 0
 | 375 | Precise Fist               | ✅       | ✅        |
 | 376 | Deadeye                    | ✅       | ✅        |
 | 377 | Artillery                  | ✅       | ✅        |
-| 378 | Amplifier                  | ✅       | ❌        |
+| 378 | Amplifier                  | ✅       | ✅        |
 | 379 | Ice Dew                    | ✅       | ❌        |
 | 380 | Sun Worship                | ✅       | ❌        |
 | 381 | Pollinate                  | ✅       | ❌        |

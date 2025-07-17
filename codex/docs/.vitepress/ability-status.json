@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 173,
+    "completed": 174,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T17:07:14.350251Z"
+    "generated_at": "2025-07-17T17:10:58.160290Z"
   },
   "abilities": {
     "0": {
@@ -2657,8 +2657,8 @@
       "id": 378,
       "name": "Amplifier",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "379": {
       "id": 379,
@@ -8410,10 +8410,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "378": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "379": {
       "indicator": "🟠",
