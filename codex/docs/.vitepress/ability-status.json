@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 153,
+    "completed": 154,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T14:49:07.631980Z"
+    "generated_at": "2025-07-17T14:57:52.273904Z"
   },
   "abilities": {
     "0": {
@@ -2496,8 +2496,8 @@
       "id": 355,
       "name": "Speed Force",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "356": {
       "id": 356,
@@ -8272,10 +8272,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "355": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "356": {
       "indicator": "🟠",
