@@ -1,8 +1,8 @@
 ---
 id: 332
 name: Soul Linker
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 162
 ---
 
 # Soul Linker - Ability ID 332
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Soul Linker creates a mystical bond between battlers, causing all damage dealt to be perfectly mirrored back to the attacker. When this Pokemon takes damage, the opponent suffers identical harm. Conversely, when attacking, this Pokemon also endures the exact same damage it inflicts.
+When this user takes direct damage, the opponent takes identical damage. Conversely, when landing a direct hit, the user also endures the same damage it inflicts.
 
 ## Detailed Mechanical Explanation
 
