@@ -1,8 +1,8 @@
 ---
 id: 338
 name: Solenoglyphs
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 89
 ---
 
 # Solenoglyphs - Ability ID 338
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Solenoglyphs gives all biting moves a 50% chance to badly poison the target. This works with any move flagged as a biting move (Bite, Crunch, elemental Fangs, etc.) and applies toxic poison that deals increasing damage each turn. Poison and Steel types are immune to this secondary effect.
+Solenoglyphs gives all biting moves a 50% chance to badly poison the target when landing. 
 
 ## Detailed Mechanical Explanation
 
