@@ -1082,7 +1082,7 @@ Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of 
 Converts Normal-type moves to Fire-type and grants Fire-type STAB. Additionally activates any Sun related effects for the user's moves.
 
 # ID: 367
-Adds 20% of Defense to physical attacks and 20% of Special Defense to special attacks when calculating damage. This defensive stat bonus is applied after all other modifiers, effectively making attacks stronger based on your defensive bulk. Works with all offensive moves.
+Adds 20% of Defense stat to physical attacks and 20% of Special Defense stat to special attacks when calculating damage.
 
 # ID: 368
 Sighting System guarantees all moves hit regardless of accuracy checks, eliminating RNG from battles. However, moves with less than 80% base accuracy receive -3 priority, making them go last. This creates strategic decisions between reliability and speed.

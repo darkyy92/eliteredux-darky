@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 163,
+    "completed": 164,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:35:05.272520Z"
+    "generated_at": "2025-07-17T16:35:50.590809Z"
   },
   "abilities": {
     "0": {
@@ -2580,8 +2580,8 @@
       "id": 367,
       "name": "Power Core",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "368": {
       "id": 368,
@@ -8344,10 +8344,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "367": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "368": {
       "indicator": "🟠",

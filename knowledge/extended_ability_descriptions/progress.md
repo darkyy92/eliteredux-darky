@@ -375,7 +375,7 @@ In Progress: 0
 | 364 | Looter                     | ✅       | ✅        |
 | 365 | Lunar Eclipse              | ✅       | ✅        |
 | 366 | Solar Flare                | ✅       | ✅        |
-| 367 | Power Core                 | ✅       | ❌        |
+| 367 | Power Core                 | ✅       | ✅        |
 | 368 | Sighting System            | ✅       | ❌        |
 | 369 | Bad Company                | ✅       | ❌        |
 | 370 | Opportunist                | ✅       | ❌        |
