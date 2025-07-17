@@ -355,7 +355,7 @@ In Progress: 0
 | 344 | Poison Absorb              | ✅       | ✅        |
 | 345 | Scavenger                  | ✅       | ✅        |
 | 346 | Ability 346                | ❌       | ❌        |
-| 347 | Multi Headed               | ✅       | ❌        |
+| 347 | Multi Headed               | ✅       | ✅        |
 | 348 | North Wind                 | ✅       | ❌        |
 | 349 | Overcharge                 | ✅       | ❌        |
 | 350 | Violent Rush               | ✅       | ❌        |

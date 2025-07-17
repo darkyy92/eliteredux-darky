@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 145,
+    "completed": 146,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T00:59:25.603085Z"
+    "generated_at": "2025-07-17T01:08:43.709725Z"
   },
   "abilities": {
     "0": {
@@ -2440,8 +2440,8 @@
       "id": 347,
       "name": "Multi Headed",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "348": {
       "id": 348,
@@ -8224,10 +8224,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "347": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "348": {
       "indicator": "🟠",
