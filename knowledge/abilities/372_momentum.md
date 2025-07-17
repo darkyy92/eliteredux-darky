@@ -1,8 +1,8 @@
 ---
 id: 372
 name: Momentum
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 116
 ---
 
 # Momentum - Ability ID 372
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts directly become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes well with Choice Scarf.
+Contact moves use Speed stat for damage instead of Attack/Special Attack. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
