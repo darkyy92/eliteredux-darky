@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 176,
+    "completed": 177,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T17:12:43.282273Z"
+    "generated_at": "2025-07-17T23:31:02.272741Z"
   },
   "abilities": {
     "0": {
@@ -2678,8 +2678,8 @@
       "id": 381,
       "name": "Pollinate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "382": {
       "id": 382,
@@ -8428,10 +8428,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "381": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "382": {
       "indicator": "🟠",
