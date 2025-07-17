@@ -1,8 +1,8 @@
 ---
 id: 334
 name: Bad Luck
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 181
 ---
 
 # Bad Luck - Ability ID 334
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Foes can't land critical hits, always roll minimum damage (85% instead of 85-100%), and secondary effects won't trigger. Eliminates RNG in opponent's favor: no surprise crits, consistent damage reduction, no status/flinch/stat drop chances. Makes incoming damage highly predictable.
+Foes can not land critical hits, always roll minimum damage (85% instead of 85-100%), fail to inflict secondary effects that are not guaranteed, and have a 5% chance to miss a move. 
 
 ## Detailed Mechanical Explanation
 
