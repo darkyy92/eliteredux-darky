@@ -1097,7 +1097,7 @@ Opportunist grants +1 priority to all moves when targeting opponents with 50% HP
 Giant Wings boosts the power of all wing, wind, and air-based moves by 30%.
 
 # ID: 372
-Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts directly become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes well with Choice Scarf.
+Contact moves use Speed stat for damage instead of Attack/Special Attack. Choice Scarf does not affect this ability.
 
 # ID: 373
 Contact moves have a 50% chance to trap the target (like Wrap), preventing escape or switching. Against trapped targets, the attacker's moves ignore defensive stats and always hit. Trapped targets take 1/8 max HP damage each turn. Trap lasts 4-5 turns (7 with Grip Claw).
