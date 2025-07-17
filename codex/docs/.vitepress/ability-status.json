@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 169,
+    "completed": 170,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:51:23.085435Z"
+    "generated_at": "2025-07-17T16:57:32.371010Z"
   },
   "abilities": {
     "0": {
@@ -2629,8 +2629,8 @@
       "id": 374,
       "name": "Big Leaves",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "375": {
       "id": 375,
@@ -8386,10 +8386,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "374": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "375": {
       "indicator": "🟠",
