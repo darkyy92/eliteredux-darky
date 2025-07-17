@@ -1,8 +1,8 @@
 ---
 id: 355
 name: Speed Force
-status: extended
-character_count: 282
+status: reviewed
+character_count: 112
 ---
 
 # Speed Force - Ability ID 355
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Adds 20% of Speed stat to damage when using contact moves. Only affects physical moves that make direct contact with the target. The faster you are, the harder you hit. Stacks with Speed boosts from items or abilities. Ideal for speedy physical sweepers who rely on contact attacks.
+Adds 20% of the user's Speed stat to damage when using contact moves. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 
