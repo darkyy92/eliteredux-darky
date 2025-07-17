@@ -1,8 +1,8 @@
 ---
 id: 352
 name: Sage Power
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 105
 ---
 
 # Sage Power - Ability ID 352
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts Special Attack by 50% but locks into the first move used each battle. Functions like built-in Choice Specs. After selecting any move, you're stuck with it until switching out. Offers massive immediate power at the cost of flexibility. Perfect for dedicated special wallbreakers.
+Boosts Special Attack by 50% but locks the user into using the first move selected until they switch out.
 
 ## Detailed Mechanical Explanation
 
