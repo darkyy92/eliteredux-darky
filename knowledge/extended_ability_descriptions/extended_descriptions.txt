@@ -752,7 +752,7 @@ When hit by a contact move, Perish Body activates Perish Song on both the user a
 When hit by a contact move, Wandering Spirit swaps abilities with the attacker. Both Pokemon regain their original ability upon switching out. Cannot swap with abilities that are also unable to be copied or suppressed.
 
 # ID: 255
-Gorilla Tactics boosts physical move power by 50% but locks the user into using the first move selected.
+Gorilla Tactics boosts physical move power by 50% but locks the user into using the first move selected until they switch out.
 
 # ID: 256
 Fills the area with gas that completely suppresses all abilities except unsuppressable ones. Effect lasts while user is on field. After the user attempts to switch, all suppressed abilities reactivate their entry effects. Cannot be copied or swapped.
