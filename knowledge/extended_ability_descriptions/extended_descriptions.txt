@@ -1094,7 +1094,7 @@ Not implemented.
 Opportunist grants +1 priority to all moves when targeting opponents with 50% HP or less. This ability excels at revenge killing and finishing off weakened threats before they can strike back. The priority boost stacks with existing move priority.
 
 # ID: 371
-Giant Wings boosts the power of all wing, wind, and air-based moves by 30%. This enhancement applies to moves like Hurricane, Wing Attack, Air Slash, and even utility moves like Tailwind or Defog. Works especially well with weather strategies that improve air move accuracy.
+Giant Wings boosts the power of all wing, wind, and air-based moves by 30%.
 
 # ID: 372
 Contact moves use Speed stat for damage instead of Attack/Special Attack. Perfect for fast physical attackers with mediocre offensive stats. Speed boosts directly become damage boosts. Works with all contact moves. Popular on Crobat, Electrode, Zebstrika. Synergizes well with Choice Scarf.
