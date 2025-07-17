@@ -366,7 +366,7 @@ In Progress: 0
 | 355 | Speed Force                | ✅       | ✅        |
 | 356 | Sea Guardian               | ✅       | ✅        |
 | 357 | Molten Down                | ✅       | ✅        |
-| 358 | Hyper Aggressive           | ✅       | ❌        |
+| 358 | Hyper Aggressive           | ✅       | ✅        |
 | 359 | Flock                      | ✅       | ❌        |
 | 360 | Field Explorer             | ✅       | ❌        |
 | 361 | Striker                    | ✅       | ❌        |
