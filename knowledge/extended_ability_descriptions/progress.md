@@ -391,7 +391,7 @@ In Progress: 0
 | 380 | Sun Worship                | ✅       | ✅        |
 | 381 | Pollinate                  | ✅       | ✅        |
 | 382 | Volcano Rage               | ✅       | ✅        |
-| 383 | Cold Rebound               | ✅       | ❌        |
+| 383 | Cold Rebound               | ✅       | ✅        |
 | 384 | Low Blow                   | ✅       | ❌        |
 | 385 | Air Lock                   | ✅       | ❌        |
 | 386 | Spectral Shroud            | ✅       | ❌        |

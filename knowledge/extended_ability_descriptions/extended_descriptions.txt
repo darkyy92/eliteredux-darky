@@ -1130,7 +1130,7 @@ Normal-type moves become Bug-type and they receive STAB regardless of the Pokemo
 After using any Fire-type move, Volcano Rage triggers a followup Eruption attack with 50 base power. Damage scales with the user's current HP percentage, having 50 BP at full health.
 
 # ID: 383
-When struck by any contact move, Cold Rebound automatically retaliates with Icy Wind (60 BP), dealing Ice-type damage and lowering the attacker's Speed by one stage. This defensive counter-attack creates a powerful deterrent against physical attackers.
+When struck by any contact move, Cold Rebound retaliates with Icy Wind (60 BP), lowering the attacker's Speed by one stage.
 
 # ID: 384
 Low Blow automatically uses a 40 BP Feint Attack when switching in, targeting a random opponent. Dark-type physical attack that never misses and cannot be avoided by evasion boosts. Reduced from the move's normal 80 BP. Excellent for breaking Focus Sash items and Sturdy.
