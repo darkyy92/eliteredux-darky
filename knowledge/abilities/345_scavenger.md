@@ -1,8 +1,8 @@
 ---
 id: 345
 name: Scavenger
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 102
 ---
 
 # Scavenger - Ability ID 345
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon defeats an opponent with any attack, it immediately regains 25% of its maximum HP. This scavenging instinct allows it to sustain itself through multiple battles by feeding off fallen foes, making it increasingly formidable as victories accumulate throughout the encounter.
+When this Pokemon defeats an opponent with a direct hit, it immediately regains 25% of its maximum HP. 
 
 ## Detailed Mechanical Explanation
 
