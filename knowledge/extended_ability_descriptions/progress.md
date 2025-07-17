@@ -357,7 +357,7 @@ In Progress: 0
 | 346 | Ability 346                | ❌       | ❌        |
 | 347 | Multi Headed               | ✅       | ✅        |
 | 348 | North Wind                 | ✅       | ✅        |
-| 349 | Overcharge                 | ✅       | ❌        |
+| 349 | Overcharge                 | ✅       | ✅        |
 | 350 | Violent Rush               | ✅       | ❌        |
 | 351 | Flaming Soul               | ✅       | ❌        |
 | 352 | Sage Power                 | ✅       | ❌        |

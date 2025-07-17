@@ -1028,7 +1028,7 @@ Pokemon with multiple heads attack 2-3 times per move based on their anatomy. Tw
 Sets up Aurora Veil upon entering battle, cutting physical and special damage recieved by half for your entire team. Aurora Veil lasts 3 turns, or 5 turns with Light Clay. The user is also immune to Hail damage. Cannot trigger again if Aurora Veil is already active.
 
 # ID: 349
-Makes Electric-type moves super effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows Electric-type Pokemon to be paralyzed, bypassing their natural immunity. This double-edged sword grants powerful offense against Electric types but makes the user equally weak.
+The user's Electric-type moves become effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows the user to paralyze Electric-types.
 
 # ID: 350
 Charges onto the battlefield with a 50% Speed boost and 20% Attack boost on the first turn after switching in. This immediate power surge enables explosive opening plays and revenge kills. The boosts vanish after one turn, demanding precise timing. Perfect for aggressive instant offense tactics.
