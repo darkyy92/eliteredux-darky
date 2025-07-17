@@ -1,8 +1,8 @@
 ---
 id: 379
 name: Ice Dew
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 156
 ---
 
 # Ice Dew - Ability ID 379
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Dew automatically redirects all Ice-type moves to this Pokemon, nullifying their damage completely. Upon absorbing an Ice move, the ability analyzes the user's current stats and boosts either Attack or Special Attack (whichever is higher) by one stage.
+Ice Dew redirects all Ice-type moves to this Pokemon. Upon absorbing an Ice move, boosts either Attack or Special Attack (whichever is higher) by one stage.
 
 ## Detailed Mechanical Explanation
 
