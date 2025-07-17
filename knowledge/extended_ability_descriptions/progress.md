@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 871
+Completed: 870
 In Progress: 0
 
 ## Progress Tracking
@@ -354,7 +354,7 @@ In Progress: 0
 | 343 | Psychic Mind               | ✅       | ✅        |
 | 344 | Poison Absorb              | ✅       | ✅        |
 | 345 | Scavenger                  | ✅       | ✅        |
-| 346 | Twisted Dimension          | ✅       | ❌        |
+| 346 | Ability 346                | ❌       | ❌        |
 | 347 | Multi Headed               | ✅       | ❌        |
 | 348 | North Wind                 | ✅       | ❌        |
 | 349 | Overcharge                 | ✅       | ❌        |

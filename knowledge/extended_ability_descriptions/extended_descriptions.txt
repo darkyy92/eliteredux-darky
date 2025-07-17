@@ -1021,9 +1021,6 @@ Absorbs Poison-type moves to heal 25% max HP instead of taking damage. On Toxic 
 # ID: 345
 When this Pokemon defeats an opponent with a direct hit, it immediately regains 25% of its maximum HP.
 
-# ID: 346
-Upon entering battle, automatically sets up Trick Room for 3 turns, reversing move order so slower Pokemon move first. This instant battlefield control eliminates setup time and transforms bulky Pokemon into immediate offensive threats. The short duration demands careful timing to maximize impact.
-
 # ID: 347
 Pokemon with multiple heads attack 2-3 times per move based on their anatomy. Two-headed Pokemon strike twice, three-headed hit thrice. Each hit deals full damage. This assault breaks through Substitute, Focus Sash, and even Fort Knox defenses. Contact moves trigger defensive abilities each hit.
 

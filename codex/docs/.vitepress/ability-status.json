@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 145,
-    "written": 871,
-    "pending": 5,
-    "generated_at": "2025-07-17T00:56:14.663319Z"
+    "written": 870,
+    "pending": 6,
+    "generated_at": "2025-07-17T00:59:25.603085Z"
   },
   "abilities": {
     "0": {
@@ -2431,10 +2431,10 @@
     },
     "346": {
       "id": 346,
-      "name": "Twisted Dimension",
-      "written": true,
+      "name": "Ability 346",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "347": {
       "id": 347,
@@ -8218,10 +8218,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "346": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "347": {
       "indicator": "🟠",
