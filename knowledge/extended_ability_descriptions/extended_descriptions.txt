@@ -1133,7 +1133,7 @@ After using any Fire-type move, Volcano Rage triggers a followup Eruption attack
 When struck by any contact move, Cold Rebound retaliates with Icy Wind (60 BP), lowering the attacker's Speed by one stage.
 
 # ID: 384
-Low Blow automatically uses a 40 BP Feint Attack when switching in, targeting a random opponent. Dark-type physical attack that never misses and cannot be avoided by evasion boosts. Reduced from the move's normal 80 BP. Excellent for breaking Focus Sash items and Sturdy.
+Low Blow uses a 40 BP Feint Attack when switching in, targeting a random opponent. Feint Attack is a Dark-type physical attack that never misses.
 
 # ID: 385
 Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no speed boosts (Swift Swim/Chlorophyll/Sand Rush), no chip damage, no accuracy changes. Weather can be set but provides no benefits. Works on primal weather.
