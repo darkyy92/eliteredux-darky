@@ -1,8 +1,8 @@
 ---
 id: 380
 name: Sun Worship
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 77
 ---
 
 # Sun Worship - Ability ID 380
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When entering battle during sunny weather, Sun Worship analyzes the Pokemon's current stats including all modifications and boosts the highest one by one stage. This intelligent adaptation makes it valuable for any sun team member, whether offensive or defensive.
+When entering battle during Sun, boosts the user's highest stat by one stage. 
 
 ## Detailed Mechanical Explanation
 
