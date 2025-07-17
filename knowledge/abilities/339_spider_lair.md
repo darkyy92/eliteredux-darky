@@ -1,8 +1,8 @@
 ---
 id: 339
 name: Spider Lair
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 222
 ---
 
 # Spider Lair - Ability ID 339
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sets Sticky Web hazard on opponent's field when this Pokemon enters battle. The web lasts exactly 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field. Automatically removes itself after 5 turns expire.
+Sets Sticky Web hazard on opponent's field when the user enters battle. Lasts 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field. 
 
 ## Detailed Mechanical Explanation
 
