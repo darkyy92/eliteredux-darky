@@ -353,7 +353,7 @@ In Progress: 0
 | 342 | Seaweed                    | ✅       | ❌        |
 | 343 | Psychic Mind               | ✅       | ✅        |
 | 344 | Poison Absorb              | ✅       | ✅        |
-| 345 | Scavenger                  | ✅       | ❌        |
+| 345 | Scavenger                  | ✅       | ✅        |
 | 346 | Twisted Dimension          | ✅       | ❌        |
 | 347 | Multi Headed               | ✅       | ❌        |
 | 348 | North Wind                 | ✅       | ❌        |

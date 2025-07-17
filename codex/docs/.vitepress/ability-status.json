@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 144,
+    "completed": 145,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:55:50.727295Z"
+    "generated_at": "2025-07-17T00:56:14.663319Z"
   },
   "abilities": {
     "0": {
@@ -2426,8 +2426,8 @@
       "id": 345,
       "name": "Scavenger",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "346": {
       "id": 346,
@@ -8212,10 +8212,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "345": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "346": {
       "indicator": "🟠",
