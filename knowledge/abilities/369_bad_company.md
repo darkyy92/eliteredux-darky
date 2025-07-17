@@ -1,8 +1,8 @@
 ---
 id: 369
 name: Bad Company
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 16
 ---
 
 # Bad Company - Ability ID 369
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Bad Company prevents the user from suffering Defense and Special Defense drops when using powerful moves like Close Combat or Dragon Ascent. This ability allows repeated use of these high-power attacks without the usual defensive penalties, maintaining bulk throughout battles.
+Not implemented. 
 
 ## Detailed Mechanical Explanation
 
