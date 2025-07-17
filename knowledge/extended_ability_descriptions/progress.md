@@ -359,7 +359,7 @@ In Progress: 0
 | 348 | North Wind                 | ✅       | ✅        |
 | 349 | Overcharge                 | ✅       | ✅        |
 | 350 | Violent Rush               | ✅       | ✅        |
-| 351 | Flaming Soul               | ✅       | ❌        |
+| 351 | Flaming Soul               | ✅       | ✅        |
 | 352 | Sage Power                 | ✅       | ❌        |
 | 353 | Bone Zone                  | ✅       | ❌        |
 | 354 | Weather Control            | ✅       | ❌        |
