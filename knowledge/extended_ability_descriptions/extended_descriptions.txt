@@ -1001,7 +1001,7 @@ Reduces damage from Grass-type attacks by 50% while boosting the power of the us
 Solenoglyphs gives all biting moves a 50% chance to badly poison the target when landing.
 
 # ID: 339
-Sets Sticky Web hazard on opponent's field when this Pokemon enters battle. The web lasts exactly 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field. Automatically removes itself after 5 turns expire.
+Sets Sticky Web hazard on opponent's field when the user enters battle. Lasts 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field.
 
 # ID: 340
 Super-effective damaging moves never miss and always land critical hits. Only triggers on moves that deal at least 2x type effectiveness damage against the target. Does not affect status moves or neutral damage. Transforms coverage moves into guaranteed knockout threats against weak opponents.

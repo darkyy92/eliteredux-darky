@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 140,
+    "completed": 141,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:44:14.139091Z"
+    "generated_at": "2025-07-17T00:45:37.624384Z"
   },
   "abilities": {
     "0": {
@@ -2384,8 +2384,8 @@
       "id": 339,
       "name": "Spider Lair",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "340": {
       "id": 340,
@@ -8176,10 +8176,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "339": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "340": {
       "indicator": "🟠",
