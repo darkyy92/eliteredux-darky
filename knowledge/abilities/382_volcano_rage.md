@@ -1,8 +1,8 @@
 ---
 id: 382
 name: Volcano Rage
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 182
 ---
 
 # Volcano Rage - Ability ID 382
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-After using any Fire-type move, Volcano Rage automatically triggers a followup Eruption attack with 50 base power. This volcanic followup scales with the user's current HP percentage, dealing maximum damage at full health. Creates devastating double strikes.
+After using any Fire-type move, Volcano Rage triggers a followup Eruption attack with 50 base power. Damage scales with the user's current HP percentage, having 50 BP at full health.
 
 ## Detailed Mechanical Explanation
 
