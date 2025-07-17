@@ -1,8 +1,8 @@
 ---
 id: 376
 name: Deadeye
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 239
 ---
 
 # Deadeye - Ability ID 376
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants perfect accuracy to arrow-based attacks and cannon moves (Mega Launcher boosted moves). Additionally, when landing critical hits, the attack intelligently targets the opponent's weaker defensive stat between Defense and Special Defense for maximum damage.
+The user is unable to miss arrow-based attacks and cannon moves (different from Mega Launcher moves, includes moves blocked by Bulletproof). Additionally, when landing critical hits, the attack targets the opponent's weaker defensive stat.
 
 ## Technical Implementation
 
