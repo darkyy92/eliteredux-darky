@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 148,
+    "completed": 149,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T01:13:31.863021Z"
+    "generated_at": "2025-07-17T01:14:40.611793Z"
   },
   "abilities": {
     "0": {
@@ -2461,8 +2461,8 @@
       "id": 350,
       "name": "Violent Rush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "351": {
       "id": 351,
@@ -8242,10 +8242,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "350": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "351": {
       "indicator": "🟠",

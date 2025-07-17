@@ -358,7 +358,7 @@ In Progress: 0
 | 347 | Multi Headed               | ✅       | ✅        |
 | 348 | North Wind                 | ✅       | ✅        |
 | 349 | Overcharge                 | ✅       | ✅        |
-| 350 | Violent Rush               | ✅       | ❌        |
+| 350 | Violent Rush               | ✅       | ✅        |
 | 351 | Flaming Soul               | ✅       | ❌        |
 | 352 | Sage Power                 | ✅       | ❌        |
 | 353 | Bone Zone                  | ✅       | ❌        |

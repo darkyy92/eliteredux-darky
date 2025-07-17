@@ -1031,7 +1031,7 @@ Sets up Aurora Veil upon entering battle, cutting physical and special damage re
 The user's Electric-type moves become effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows the user to paralyze Electric-types.
 
 # ID: 350
-Charges onto the battlefield with a 50% Speed boost and 20% Attack boost on the first turn after switching in. This immediate power surge enables explosive opening plays and revenge kills. The boosts vanish after one turn, demanding precise timing. Perfect for aggressive instant offense tactics.
+The user gains a 50% Speed boost and 20% Attack boost on their first turn after switching in.
 
 # ID: 351
 Grants +1 priority to Fire-type moves when at full HP. Works exactly like Gale Wings but for Fire moves instead of Flying. Any damage disables it until healed to max. Perfect for Fire-type leads and revenge killers who can stay healthy through smart positioning and team support.
