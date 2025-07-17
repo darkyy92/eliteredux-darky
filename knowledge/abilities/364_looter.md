@@ -1,8 +1,8 @@
 ---
 id: 364
 name: Looter
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 102
 ---
 
 # Looter - Ability ID 364
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon knocks out an opponent with any damaging move, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokemon to sustain itself through consecutive victories and become increasingly formidable in prolonged battles.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 ## Detailed Mechanical Explanation
 
