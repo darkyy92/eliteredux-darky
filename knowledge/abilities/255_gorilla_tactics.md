@@ -2,7 +2,7 @@
 id: 255
 name: Gorilla Tactics
 status: reviewed
-character_count: 104
+character_count: 126
 ---
 
 # Gorilla Tactics - Ability ID 255
@@ -13,7 +13,7 @@ character_count: 104
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Gorilla Tactics boosts physical move power by 50% but locks the user into using the first move selected. 
+Gorilla Tactics boosts physical move power by 50% but locks the user into using the first move selected until they switch out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
