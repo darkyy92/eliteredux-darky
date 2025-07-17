@@ -980,7 +980,7 @@ Majestic Moth raises the user's highest calculated base stat by 1 stage when it 
 When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 # ID: 332
-Soul Linker creates a mystical bond between battlers, causing all damage dealt to be perfectly mirrored back to the attacker. When this Pokemon takes damage, the opponent suffers identical harm. Conversely, when attacking, this Pokemon also endures the exact same damage it inflicts.
+When this user takes direct damage, the opponent takes identical damage. Conversely, when landing a direct hit, the user also endures the same damage it inflicts.
 
 # ID: 333
 Sweet Dreams provides restorative healing while sleeping, regenerating exactly 1/8 of maximum HP at the end of each turn when the Pokemon is asleep or has the Comatose ability. Additionally, it grants complete immunity to Bad Dreams damage, making this a powerful defensive ability.
