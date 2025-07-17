@@ -1,8 +1,8 @@
 ---
 id: 375
 name: Precise Fist
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 86
 ---
 
 # Precise Fist - Ability ID 375
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punching moves land guaranteed critical hits and have 5x their normal secondary effect chance. Works with all Iron Fist-boosted moves including elemental punches, priority punches, and Fighting-type attacks. The critical hit boost stacks with abilities like Sniper for devastating damage output.
+Punching moves gain +1 critical hit stage and 5x their normal secondary effect chance. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
