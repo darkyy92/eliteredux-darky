@@ -1136,7 +1136,7 @@ When struck by any contact move, Cold Rebound retaliates with Icy Wind (60 BP), 
 Low Blow uses a 40 BP Feint Attack when switching in, targeting a random opponent. Feint Attack is a Dark-type physical attack that never misses.
 
 # ID: 385
-Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no speed boosts (Swift Swim/Chlorophyll/Sand Rush), no chip damage, no accuracy changes. Weather can be set but provides no benefits. Works on primal weather.
+Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no chip damage, no accuracy changes, prevents Aurora Veil, etc. Weather can be set but provides no benefits. Works on primal weather.
 
 # ID: 386
 Converts Normal-type moves to Ghost-type, gaining STAB and enhanced power boost. All Ghost-type moves (including converted ones) have 30% chance to badly poison targets after dealing damage. Combines offensive type conversion with dangerous poison status pressure that escalates over time.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 180,
+    "completed": 181,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T23:48:19.704321Z"
+    "generated_at": "2025-07-17T23:52:54.873024Z"
   },
   "abilities": {
     "0": {
@@ -2706,8 +2706,8 @@
       "id": 385,
       "name": "Air Lock",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "386": {
       "id": 386,
@@ -8452,10 +8452,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "385": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "386": {
       "indicator": "🟠",

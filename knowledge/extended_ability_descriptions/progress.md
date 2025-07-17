@@ -393,7 +393,7 @@ In Progress: 0
 | 382 | Volcano Rage               | ✅       | ✅        |
 | 383 | Cold Rebound               | ✅       | ✅        |
 | 384 | Low Blow                   | ✅       | ✅        |
-| 385 | Air Lock                   | ✅       | ❌        |
+| 385 | Air Lock                   | ✅       | ✅        |
 | 386 | Spectral Shroud            | ✅       | ❌        |
 | 387 | Discipline                 | ✅       | ❌        |
 | 388 | Thundercall                | ✅       | ❌        |
