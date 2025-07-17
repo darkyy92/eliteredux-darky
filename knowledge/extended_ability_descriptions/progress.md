@@ -385,7 +385,7 @@ In Progress: 0
 | 374 | Big Leaves                 | ✅       | ✅        |
 | 375 | Precise Fist               | ✅       | ✅        |
 | 376 | Deadeye                    | ✅       | ✅        |
-| 377 | Artillery                  | ✅       | ❌        |
+| 377 | Artillery                  | ✅       | ✅        |
 | 378 | Amplifier                  | ✅       | ❌        |
 | 379 | Ice Dew                    | ✅       | ❌        |
 | 380 | Sun Worship                | ✅       | ❌        |

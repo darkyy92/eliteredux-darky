@@ -1112,7 +1112,7 @@ Punching moves gain +1 critical hit stage and 5x their normal secondary effect c
 The user is unable to miss arrow-based attacks and cannon moves (different from Mega Launcher moves, includes moves blocked by Bulletproof). Additionally, when landing critical hits, the attack targets the opponent's weaker defensive stat.
 
 # ID: 377
-Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Grants perfect accuracy and targeting to pulse, beam, ball, aura, projectile, and status moves. Transforms single-target shots into devastating dual strikes, maximizing battlefield impact.
+Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Unable to miss with pulse, beam, ball, aura, and other blast related moves.
 
 # ID: 378
 Amplifier boosts sound-based moves by 30% damage. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokemon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams.

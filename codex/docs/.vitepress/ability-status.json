@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 172,
+    "completed": 173,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T17:05:20.534315Z"
+    "generated_at": "2025-07-17T17:07:14.350251Z"
   },
   "abilities": {
     "0": {
@@ -2650,8 +2650,8 @@
       "id": 377,
       "name": "Artillery",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "378": {
       "id": 378,
@@ -8404,10 +8404,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "377": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "378": {
       "indicator": "🟠",
