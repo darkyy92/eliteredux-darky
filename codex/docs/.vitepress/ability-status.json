@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 142,
+    "completed": 143,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:47:05.805263Z"
+    "generated_at": "2025-07-17T00:49:05.952950Z"
   },
   "abilities": {
     "0": {
@@ -2412,8 +2412,8 @@
       "id": 343,
       "name": "Psychic Mind",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "344": {
       "id": 344,
@@ -8200,10 +8200,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "343": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "344": {
       "indicator": "🟠",
