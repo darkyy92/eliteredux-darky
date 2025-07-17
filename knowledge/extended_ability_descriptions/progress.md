@@ -342,7 +342,7 @@ In Progress: 0
 | 331 | Soul Eater                 | ✅       | ✅        |
 | 332 | Soul Linker                | ✅       | ✅        |
 | 333 | Sweet Dreams               | ✅       | ✅        |
-| 334 | Bad Luck                   | ✅       | ❌        |
+| 334 | Bad Luck                   | ✅       | ✅        |
 | 335 | Haunted Spirit             | ✅       | ❌        |
 | 336 | Electric Burst             | ✅       | ❌        |
 | 337 | Raw Wood                   | ✅       | ❌        |

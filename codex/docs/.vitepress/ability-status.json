@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 135,
+    "completed": 136,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:17:30.099832Z"
+    "generated_at": "2025-07-17T00:23:21.099937Z"
   },
   "abilities": {
     "0": {
@@ -2349,8 +2349,8 @@
       "id": 334,
       "name": "Bad Luck",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "335": {
       "id": 335,
@@ -8146,10 +8146,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "334": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "335": {
       "indicator": "🟠",
