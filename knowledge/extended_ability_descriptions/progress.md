@@ -362,7 +362,7 @@ In Progress: 0
 | 351 | Flaming Soul               | ✅       | ✅        |
 | 352 | Sage Power                 | ✅       | ✅        |
 | 353 | Bone Zone                  | ✅       | ✅        |
-| 354 | Weather Control            | ✅       | ❌        |
+| 354 | Weather Control            | ✅       | ✅        |
 | 355 | Speed Force                | ✅       | ❌        |
 | 356 | Sea Guardian               | ✅       | ❌        |
 | 357 | Molten Down                | ✅       | ❌        |

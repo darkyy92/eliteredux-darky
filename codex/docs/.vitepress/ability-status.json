@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 152,
+    "completed": 153,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T14:15:36.549072Z"
+    "generated_at": "2025-07-17T14:49:07.631980Z"
   },
   "abilities": {
     "0": {
@@ -2489,8 +2489,8 @@
       "id": 354,
       "name": "Weather Control",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "355": {
       "id": 355,
@@ -8266,10 +8266,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "354": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "355": {
       "indicator": "🟠",

@@ -1043,7 +1043,7 @@ Boosts Special Attack by 50% but locks the user into using the first move select
 Bone moves bypass immunities and hit for normal damage, while resisted moves do 2x damage. Neutral/super effective moves remain unchanged.
 
 # ID: 354
-Grants immunity to 18 weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Blizzard, Weather Ball, all Storm moves, OHKO Sheer Cold, and pledge moves. Does NOT stop weather setup or damage. Pure defensive tool against specific attacks, not actual weather control.
+Grants immunity to weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Blizzard, Silver Wind, Weather Ball, all Storm moves (not including Magma, Leaf, or Diamond), Sheer Cold, and Pledge moves. Does not stop weather setup or damage.
 
 # ID: 355
 Adds 20% of Speed stat to damage when using contact moves. Only affects physical moves that make direct contact with the target. The faster you are, the harder you hit. Stacks with Speed boosts from items or abilities. Ideal for speedy physical sweepers who rely on contact attacks.
