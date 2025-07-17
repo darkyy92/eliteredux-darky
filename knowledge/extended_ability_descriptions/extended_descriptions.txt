@@ -1040,7 +1040,7 @@ Grants +1 priority to Fire-type moves when at full HP.
 Boosts Special Attack by 50% but locks the user into using the first move selected until they switch out.
 
 # ID: 353
-Bone moves bypass immunities and flip resistances into weaknesses. Immune targets take normal damage, resisted hits deal 2x damage instead. Neutral/super effective unchanged. Works on Bone Club, Bonemerang, Bone Rush, Shadow Bone, and Blazing Bone. Cubone line's signature power.
+Bone moves bypass immunities and hit for normal damage, while resisted moves do 2x damage. Neutral/super effective moves remain unchanged.
 
 # ID: 354
 Grants immunity to 18 weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Blizzard, Weather Ball, all Storm moves, OHKO Sheer Cold, and pledge moves. Does NOT stop weather setup or damage. Pure defensive tool against specific attacks, not actual weather control.
