@@ -364,7 +364,7 @@ In Progress: 0
 | 353 | Bone Zone                  | ✅       | ✅        |
 | 354 | Weather Control            | ✅       | ✅        |
 | 355 | Speed Force                | ✅       | ✅        |
-| 356 | Sea Guardian               | ✅       | ❌        |
+| 356 | Sea Guardian               | ✅       | ✅        |
 | 357 | Molten Down                | ✅       | ❌        |
 | 358 | Hyper Aggressive           | ✅       | ❌        |
 | 359 | Flock                      | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 154,
+    "completed": 155,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T14:57:52.273904Z"
+    "generated_at": "2025-07-17T15:01:54.545920Z"
   },
   "abilities": {
     "0": {
@@ -2503,8 +2503,8 @@
       "id": 356,
       "name": "Sea Guardian",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "357": {
       "id": 357,
@@ -8278,10 +8278,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "356": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "357": {
       "indicator": "🟠",

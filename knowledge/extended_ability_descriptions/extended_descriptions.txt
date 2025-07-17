@@ -1049,7 +1049,7 @@ Grants immunity to weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Bl
 Adds 20% of the user's Speed stat to damage when using contact moves. Choice Scarf does not affect this ability.
 
 # ID: 356
-When entering battle during rain, Sea Guardian analyzes current stats including modifications and boosts the highest one by one stage. Works with any rain type. Only triggers once per switch-in. Adapts to battle state by boosting the most relevant stat automatically.
+When entering battle during rain, Sea Guardian boosts your highest stat by one stage. Works with any rain type. Triggers once per switch-in.
 
 # ID: 357
 Molten Down makes Fire-type moves super effective against Rock-types (2x damage) instead of resisted (0.5x damage). This creates a 4x damage swing, turning Fire moves into powerful Rock-type counters. Works with all Fire-type moves including Hidden Power Fire and weather-boosted attacks.
