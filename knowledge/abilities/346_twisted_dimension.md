@@ -1,8 +1,8 @@
 ---
 id: 346
 name: Twisted Dimension
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 175
 ---
 
 # Twisted Dimension - Ability ID 346
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, automatically sets up Trick Room for 3 turns, reversing move order so slower Pokemon move first. This instant battlefield control eliminates setup time and transforms bulky Pokemon into immediate offensive threats. The short duration demands careful timing to maximize impact.
+Upon entering battle, automatically sets up Trick Room for 3 turns, reversing move order so slower Pokemon move first. Does not activate if Trick Room is already on the field.
 
 ## Detailed Mechanical Explanation
 
@@ -51,7 +51,7 @@ constexpr Ability TwistedDimension = {
 ```
 
 ### Battle Message
-- **Message:** "{POKÃ‰MON}'s Twisted Dimension set up Trick Room!"
+- **Message:** "{POKÉMON}'s Twisted Dimension set up Trick Room!"
 - **Animation:** Uses Trick Room move animation
 - **String ID:** `STRINGID_TWISTEDDIMENSIONACTIVATED` (624)
 
