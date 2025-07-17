@@ -387,7 +387,7 @@ In Progress: 0
 | 376 | Deadeye                    | ✅       | ✅        |
 | 377 | Artillery                  | ✅       | ✅        |
 | 378 | Amplifier                  | ✅       | ✅        |
-| 379 | Ice Dew                    | ✅       | ❌        |
+| 379 | Ice Dew                    | ✅       | ✅        |
 | 380 | Sun Worship                | ✅       | ❌        |
 | 381 | Pollinate                  | ✅       | ❌        |
 | 382 | Volcano Rage               | ✅       | ❌        |
