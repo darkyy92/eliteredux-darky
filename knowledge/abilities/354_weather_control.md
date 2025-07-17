@@ -1,8 +1,8 @@
 ---
 id: 354
 name: Weather Control
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 240
 ---
 
 # Weather Control - Ability ID 354
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants immunity to 18 weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Blizzard, Weather Ball, all Storm moves, OHKO Sheer Cold, and pledge moves. Does NOT stop weather setup or damage. Pure defensive tool against specific attacks, not actual weather control.
+Grants immunity to weather-based moves: Thunder, Solar Beam/Blade, Hurricane, Blizzard, Silver Wind, Weather Ball, all Storm moves (not including Magma, Leaf, or Diamond), Sheer Cold, and Pledge moves. Does not stop weather setup or damage. 
 
 ## Detailed Mechanical Explanation
 
