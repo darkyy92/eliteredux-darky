@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 138,
+    "completed": 139,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:41:19.867547Z"
+    "generated_at": "2025-07-17T00:42:17.060017Z"
   },
   "abilities": {
     "0": {
@@ -2370,8 +2370,8 @@
       "id": 337,
       "name": "Raw Wood",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "338": {
       "id": 338,
@@ -8164,10 +8164,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "337": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "338": {
       "indicator": "🟠",

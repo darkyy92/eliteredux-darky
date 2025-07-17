@@ -995,7 +995,7 @@ Haunted Spirit curses the attacker when knocked out by a direct hit. The curse i
 Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
 
 # ID: 337
-Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. This dual effect creates excellent synergy for Grass-type Pokemon, providing both offensive prowess and defensive utility against opposing Grass attacks.
+Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. Damage reduction is multiplicative with other sources.
 
 # ID: 338
 Solenoglyphs gives all biting moves a 50% chance to badly poison the target. This works with any move flagged as a biting move (Bite, Crunch, elemental Fangs, etc.) and applies toxic poison that deals increasing damage each turn. Poison and Steel types are immune to this secondary effect.
