@@ -1,8 +1,8 @@
 ---
 id: 374
 name: Big Leaves
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 201
 ---
 
 # Big Leaves - Ability ID 374
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-A powerhouse fusion of five grass-type abilities. Combines Harvest's berry restoration, Leaf Guard's sun healing, Solar Power's special attack boost, Chlorophyll's speed boost, and grants Weather Ball double power while nullifying Solar Beam's power reduction in bad weather.
+Activates any Sun related effects for the user's moves. Boosts Speed stat by 50% in Sun. Cures status in Sun. 50% to restore berry on turn end, 100% in Sun. Raises highest attacking stat by 50% in Sun.
 
 ## Technical Implementation
 
