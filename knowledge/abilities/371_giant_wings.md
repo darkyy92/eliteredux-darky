@@ -2,7 +2,7 @@
 id: 371
 name: Giant Wings
 status: reviewed
-character_count: 274
+character_count: 75
 ---
 
 # Giant Wings - Ability ID 371
@@ -13,7 +13,7 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Giant Wings boosts the power of all wing, wind, and air-based moves by 30%. This enhancement applies to moves like Hurricane, Wing Attack, Air Slash, and even utility moves like Tailwind or Defog. Works especially well with weather strategies that improve air move accuracy.
+Giant Wings boosts the power of all wing, wind, and air-based moves by 30%. 
 
 ## Detailed Mechanical Explanation
 
