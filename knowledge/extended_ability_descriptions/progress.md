@@ -343,7 +343,7 @@ In Progress: 0
 | 332 | Soul Linker                | ✅       | ✅        |
 | 333 | Sweet Dreams               | ✅       | ✅        |
 | 334 | Bad Luck                   | ✅       | ✅        |
-| 335 | Haunted Spirit             | ✅       | ❌        |
+| 335 | Haunted Spirit             | ✅       | ✅        |
 | 336 | Electric Burst             | ✅       | ❌        |
 | 337 | Raw Wood                   | ✅       | ❌        |
 | 338 | Solenoglyphs               | ✅       | ❌        |

@@ -989,7 +989,7 @@ Sweet Dreams restores 1/8 of maximum HP at the end of each turn when the user is
 Foes can not land critical hits, always roll minimum damage (85% instead of 85-100%), fail to inflict secondary effects that are not guaranteed, and have a 5% chance to miss a move.
 
 # ID: 335
-Haunted Spirit curses the attacker when knocked out by a contact move. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse. The ability only triggers when the user is KO'd by contact moves, not special moves.
+Haunted Spirit curses the attacker when knocked out by a direct hit. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse.
 
 # ID: 336
 Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil applies after damage calculation for all Electric attacks. This high-risk ability provides massive offensive power but continuously drains HP with each Electric move used.
