@@ -1,8 +1,8 @@
 ---
 id: 337
 name: Raw Wood
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 168
 ---
 
 # Raw Wood - Ability ID 337
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. This dual effect creates excellent synergy for Grass-type Pokemon, providing both offensive prowess and defensive utility against opposing Grass attacks.
+Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. Damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
