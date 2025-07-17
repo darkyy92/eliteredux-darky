@@ -1085,7 +1085,7 @@ Converts Normal-type moves to Fire-type and grants Fire-type STAB. Additionally 
 Adds 20% of Defense stat to physical attacks and 20% of Special Defense stat to special attacks when calculating damage.
 
 # ID: 368
-Sighting System guarantees all moves hit regardless of accuracy checks, eliminating RNG from battles. However, moves with less than 80% base accuracy receive -3 priority, making them go last. This creates strategic decisions between reliability and speed.
+Sighting System guarantees all moves hit regardless of accuracy checks. Moves with less than 80% base accuracy receive -3 priority.
 
 # ID: 369
 Bad Company prevents the user from suffering Defense and Special Defense drops when using powerful moves like Close Combat or Dragon Ascent. This ability allows repeated use of these high-power attacks without the usual defensive penalties, maintaining bulk throughout battles.

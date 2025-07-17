@@ -376,7 +376,7 @@ In Progress: 0
 | 365 | Lunar Eclipse              | ✅       | ✅        |
 | 366 | Solar Flare                | ✅       | ✅        |
 | 367 | Power Core                 | ✅       | ✅        |
-| 368 | Sighting System            | ✅       | ❌        |
+| 368 | Sighting System            | ✅       | ✅        |
 | 369 | Bad Company                | ✅       | ❌        |
 | 370 | Opportunist                | ✅       | ❌        |
 | 371 | Giant Wings                | ✅       | ❌        |

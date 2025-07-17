@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 164,
+    "completed": 165,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:35:50.590809Z"
+    "generated_at": "2025-07-17T16:37:05.188067Z"
   },
   "abilities": {
     "0": {
@@ -2587,8 +2587,8 @@
       "id": 368,
       "name": "Sighting System",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "369": {
       "id": 369,
@@ -8350,10 +8350,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "368": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "369": {
       "indicator": "🟠",
