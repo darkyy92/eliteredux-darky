@@ -1,8 +1,8 @@
 ---
 id: 349
 name: Overcharge
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 162
 ---
 
 # Overcharge - Ability ID 349
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Makes Electric-type moves super effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows Electric-type Pokemon to be paralyzed, bypassing their natural immunity. This double-edged sword grants powerful offense against Electric types but makes the user equally weak.
+The user's Electric-type moves become effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows the user to paralyze Electric-types.
 
 ## Detailed Mechanical Explanation
 
