@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 137,
+    "completed": 138,
     "written": 871,
     "pending": 5,
-    "generated_at": "2025-07-17T00:35:12.768325Z"
+    "generated_at": "2025-07-17T00:41:19.867547Z"
   },
   "abilities": {
     "0": {
@@ -2363,8 +2363,8 @@
       "id": 336,
       "name": "Electric Burst",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "337": {
       "id": 337,
@@ -8158,10 +8158,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "336": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "337": {
       "indicator": "🟠",

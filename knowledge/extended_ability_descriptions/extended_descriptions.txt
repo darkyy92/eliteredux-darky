@@ -992,7 +992,7 @@ Foes can not land critical hits, always roll minimum damage (85% instead of 85-1
 Haunted Spirit curses the attacker when knocked out by a direct hit. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse.
 
 # ID: 336
-Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil applies after damage calculation for all Electric attacks. This high-risk ability provides massive offensive power but continuously drains HP with each Electric move used.
+Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
 
 # ID: 337
 Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. This dual effect creates excellent synergy for Grass-type Pokemon, providing both offensive prowess and defensive utility against opposing Grass attacks.

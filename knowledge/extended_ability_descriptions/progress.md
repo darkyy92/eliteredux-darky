@@ -344,7 +344,7 @@ In Progress: 0
 | 333 | Sweet Dreams               | ✅       | ✅        |
 | 334 | Bad Luck                   | ✅       | ✅        |
 | 335 | Haunted Spirit             | ✅       | ✅        |
-| 336 | Electric Burst             | ✅       | ❌        |
+| 336 | Electric Burst             | ✅       | ✅        |
 | 337 | Raw Wood                   | ✅       | ❌        |
 | 338 | Solenoglyphs               | ✅       | ❌        |
 | 339 | Spider Lair                | ✅       | ❌        |
