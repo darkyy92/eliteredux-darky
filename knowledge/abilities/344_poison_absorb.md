@@ -1,8 +1,8 @@
 ---
 id: 344
 name: Poison Absorb
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 120
 ---
 
 # Poison Absorb - Ability ID 344
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Absorbs Poison-type moves to heal 25% max HP instead of taking damage. Redirects single-target Poison moves to this Pokemon in doubles. On Toxic Terrain, heals 12.5% HP per turn. Grants complete immunity to all Poison-type moves including Toxic. Can be bypassed by Mold Breaker.
+Absorbs Poison-type moves to heal 25% max HP instead of taking damage. On Toxic Terrain, heals 1/8th of max HP per turn. 
 
 ## Detailed Mechanical Explanation
 
