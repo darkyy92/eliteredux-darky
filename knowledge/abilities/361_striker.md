@@ -1,8 +1,8 @@
 ---
 id: 361
 name: Striker
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 76
 ---
 
 # Striker - Ability ID 361
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Striker increases the power of all kicking moves by 30%, making them significantly more dangerous. This ability works with classic kicks like Jump Kick and modern moves like Blaze Kick or Pyro Ball. The consistent damage boost applies to each hit of multi-hit kicks like Triple Kick.
+Striker increases the power of all kicking moves by 30%. Includes Pyro Ball.
 
 ## Detailed Mechanical Explanation
 
