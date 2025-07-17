@@ -1,8 +1,8 @@
 ---
 id: 383
 name: Cold Rebound
-status: ai-generated
-character_count: 252
+status: reviewed
+character_count: 123
 ---
 
 # Cold Rebound - Ability ID 383
@@ -13,7 +13,7 @@ character_count: 252
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When struck by any contact move, Cold Rebound automatically retaliates with Icy Wind (60 BP), dealing Ice-type damage and lowering the attacker's Speed by one stage. This defensive counter-attack creates a powerful deterrent against physical attackers.
+When struck by any contact move, Cold Rebound retaliates with Icy Wind (60 BP), lowering the attacker's Speed by one stage. 
 
 ## Detailed Mechanical Explanation
 
