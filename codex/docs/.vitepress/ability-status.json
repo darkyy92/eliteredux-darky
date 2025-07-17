@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 157,
+    "completed": 158,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T15:15:30.503560Z"
+    "generated_at": "2025-07-17T16:26:15.641140Z"
   },
   "abilities": {
     "0": {
@@ -2538,8 +2538,8 @@
       "id": 361,
       "name": "Striker",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "362": {
       "id": 362,
@@ -8308,10 +8308,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "361": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "362": {
       "indicator": "🟠",

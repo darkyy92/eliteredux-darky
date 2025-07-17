@@ -369,7 +369,7 @@ In Progress: 0
 | 358 | Hyper Aggressive           | ✅       | ✅        |
 | 359 | Flock                      | ✅       | ❌        |
 | 360 | Field Explorer             | ✅       | ❌        |
-| 361 | Striker                    | ✅       | ❌        |
+| 361 | Striker                    | ✅       | ✅        |
 | 362 | Frozen Soul                | ✅       | ❌        |
 | 363 | Predator                   | ✅       | ❌        |
 | 364 | Looter                     | ✅       | ❌        |

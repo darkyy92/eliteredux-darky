@@ -1064,7 +1064,7 @@ Flock enhances Flying-type moves by 1.2x normally and 1.5x when HP drops below 1
 Field Explorer boosts the power of field-based moves like Cut, Surf, Fly, and Strength by 50%. This ability transforms traditional HM moves into viable combat options, allowing exploration utility moves to serve dual purposes. Works with approximately 16 moves flagged as field-based.
 
 # ID: 361
-Striker increases the power of all kicking moves by 30%, making them significantly more dangerous. This ability works with classic kicks like Jump Kick and modern moves like Blaze Kick or Pyro Ball. The consistent damage boost applies to each hit of multi-hit kicks like Triple Kick.
+Striker increases the power of all kicking moves by 30%. Includes Pyro Ball.
 
 # ID: 362
 Frozen Soul grants +1 priority to all Ice-type moves when the user is at maximum HP. This powerful ability allows Ice-type attackers to strike first with moves like Ice Beam, Blizzard, or Icicle Crash, bypassing speed tiers entirely. The priority boost is lost if any damage is taken.
