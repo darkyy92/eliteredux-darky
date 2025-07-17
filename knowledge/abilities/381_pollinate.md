@@ -1,8 +1,8 @@
 ---
 id: 381
 name: Pollinate
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 89
 ---
 
 # Pollinate - Ability ID 381
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks.
+Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type. 
 
 ## Technical Implementation
 
