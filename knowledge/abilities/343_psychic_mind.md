@@ -1,7 +1,7 @@
 ---
 id: 343
 name: Psychic Mind
-status: ai-generated
+status: reviewed
 character_count: 272
 ---
 
