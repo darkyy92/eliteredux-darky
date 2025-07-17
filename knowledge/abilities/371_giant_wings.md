@@ -1,7 +1,7 @@
 ---
 id: 371
 name: Giant Wings
-status: ai-generated
+status: reviewed
 character_count: 274
 ---
 
