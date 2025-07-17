@@ -1,8 +1,8 @@
 ---
 id: 348
 name: North Wind
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 266
 ---
 
 # North Wind - Ability ID 348
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically sets up Aurora Veil upon entering battle, reducing physical and special damage by 50% for your entire team. Aurora Veil lasts 3 turns, or 5 turns with Light Clay. The user is also immune to Hail damage. Once activated, North Wind cannot trigger again if Aurora Veil is already active.
+Sets up Aurora Veil upon entering battle, cutting physical and special damage recieved by half for your entire team. Aurora Veil lasts 3 turns, or 5 turns with Light Clay. The user is also immune to Hail damage. Cannot trigger again if Aurora Veil is already active.
 
 ## Detailed Mechanical Explanation
 
