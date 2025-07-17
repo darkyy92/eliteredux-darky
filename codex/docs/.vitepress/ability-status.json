@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 168,
+    "completed": 169,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:46:14.206765Z"
+    "generated_at": "2025-07-17T16:51:23.085435Z"
   },
   "abilities": {
     "0": {
@@ -2622,8 +2622,8 @@
       "id": 373,
       "name": "Grip Pincer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "374": {
       "id": 374,
@@ -8380,10 +8380,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "373": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "374": {
       "indicator": "🟠",
