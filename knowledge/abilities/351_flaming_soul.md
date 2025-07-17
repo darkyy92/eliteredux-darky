@@ -1,8 +1,8 @@
 ---
 id: 351
 name: Flaming Soul
-status: extended
-character_count: 279
+status: reviewed
+character_count: 54
 ---
 
 # Flaming Soul - Ability ID 351
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants +1 priority to Fire-type moves when at full HP. Works exactly like Gale Wings but for Fire moves instead of Flying. Any damage disables it until healed to max. Perfect for Fire-type leads and revenge killers who can stay healthy through smart positioning and team support.
+Grants +1 priority to Fire-type moves when at full HP.
 
 ## Detailed Mechanical Explanation
 
