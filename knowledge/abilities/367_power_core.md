@@ -1,8 +1,8 @@
 ---
 id: 367
 name: Power Core
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 120
 ---
 
 # Power Core - Ability ID 367
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Adds 20% of Defense to physical attacks and 20% of Special Defense to special attacks when calculating damage. This defensive stat bonus is applied after all other modifiers, effectively making attacks stronger based on your defensive bulk. Works with all offensive moves.
+Adds 20% of Defense stat to physical attacks and 20% of Special Defense stat to special attacks when calculating damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
