@@ -346,7 +346,7 @@ In Progress: 0
 | 335 | Haunted Spirit             | ✅       | ✅        |
 | 336 | Electric Burst             | ✅       | ✅        |
 | 337 | Raw Wood                   | ✅       | ✅        |
-| 338 | Solenoglyphs               | ✅       | ❌        |
+| 338 | Solenoglyphs               | ✅       | ✅        |
 | 339 | Spider Lair                | ✅       | ❌        |
 | 340 | Fatal Precision            | ✅       | ❌        |
 | 341 | Fort Knox                  | ✅       | ❌        |

@@ -998,7 +998,7 @@ Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage ba
 Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. Damage reduction is multiplicative with other sources.
 
 # ID: 338
-Solenoglyphs gives all biting moves a 50% chance to badly poison the target. This works with any move flagged as a biting move (Bite, Crunch, elemental Fangs, etc.) and applies toxic poison that deals increasing damage each turn. Poison and Steel types are immune to this secondary effect.
+Solenoglyphs gives all biting moves a 50% chance to badly poison the target when landing.
 
 # ID: 339
 Sets Sticky Web hazard on opponent's field when this Pokemon enters battle. The web lasts exactly 5 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field. Automatically removes itself after 5 turns expire.
