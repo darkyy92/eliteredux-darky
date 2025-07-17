@@ -1,8 +1,8 @@
 ---
 id: 350
 name: Violent Rush
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 93
 ---
 
 # Violent Rush - Ability ID 350
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Charges onto the battlefield with a 50% Speed boost and 20% Attack boost on the first turn after switching in. This immediate power surge enables explosive opening plays and revenge kills. The boosts vanish after one turn, demanding precise timing. Perfect for aggressive instant offense tactics.
+The user gains a 50% Speed boost and 20% Attack boost on their first turn after switching in. 
 
 ## Detailed Mechanical Explanation
 
