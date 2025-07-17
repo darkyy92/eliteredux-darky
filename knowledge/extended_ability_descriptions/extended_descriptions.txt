@@ -1076,7 +1076,7 @@ When the user knocks out an opponent with a direct hit, it immediately recovers 
 When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 # ID: 365
-Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of the Pokemon's actual typing, providing a 1.5x damage multiplier. Additionally, it dramatically improves Hypnosis accuracy from 60% to 97.5%, making sleep strategies highly reliable.
+Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of the user's typing. Improves Hypnosis accuracy to 90%.
 
 # ID: 366
 Solar Flare converts Normal-type moves to Fire-type with boosted power while providing Fire-type STAB. Additionally grants Chloroplast effects: Weather Ball, Solar Beam/Blade, and Growth act as if used in harsh sunlight, regardless of actual weather conditions.

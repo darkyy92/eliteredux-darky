@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 161,
+    "completed": 162,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:29:29.629729Z"
+    "generated_at": "2025-07-17T16:31:15.575524Z"
   },
   "abilities": {
     "0": {
@@ -2566,8 +2566,8 @@
       "id": 365,
       "name": "Lunar Eclipse",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "366": {
       "id": 366,
@@ -8332,10 +8332,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "365": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "366": {
       "indicator": "🟠",
