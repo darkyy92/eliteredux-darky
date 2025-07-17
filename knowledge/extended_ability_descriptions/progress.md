@@ -370,7 +370,7 @@ In Progress: 0
 | 359 | Flock                      | ✅       | ❌        |
 | 360 | Field Explorer             | ✅       | ❌        |
 | 361 | Striker                    | ✅       | ✅        |
-| 362 | Frozen Soul                | ✅       | ❌        |
+| 362 | Frozen Soul                | ✅       | ✅        |
 | 363 | Predator                   | ✅       | ❌        |
 | 364 | Looter                     | ✅       | ❌        |
 | 365 | Lunar Eclipse              | ✅       | ❌        |

@@ -1067,7 +1067,7 @@ Field Explorer boosts the power of field-based moves like Cut, Surf, Fly, and St
 Striker increases the power of all kicking moves by 30%. Includes Pyro Ball.
 
 # ID: 362
-Frozen Soul grants +1 priority to all Ice-type moves when the user is at maximum HP. This powerful ability allows Ice-type attackers to strike first with moves like Ice Beam, Blizzard, or Icicle Crash, bypassing speed tiers entirely. The priority boost is lost if any damage is taken.
+Frozen Soul grants +1 priority to all Ice-type moves when the user is at maximum HP.
 
 # ID: 363
 When this Pokemon delivers the final blow to knock out an opponent, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokemon to sustain itself through consecutive battles and maintain momentum in prolonged fights.
