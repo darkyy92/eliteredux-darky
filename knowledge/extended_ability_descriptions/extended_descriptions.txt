@@ -1109,7 +1109,7 @@ Activates any Sun related effects for the user's moves. Boosts Speed stat by 50%
 Punching moves gain +1 critical hit stage and 5x their normal secondary effect chance.
 
 # ID: 376
-Grants perfect accuracy to arrow-based attacks and cannon moves (Mega Launcher boosted moves). Additionally, when landing critical hits, the attack intelligently targets the opponent's weaker defensive stat between Defense and Special Defense for maximum damage.
+The user is unable to miss arrow-based attacks and cannon moves (different from Mega Launcher moves, includes moves blocked by Bulletproof). Additionally, when landing critical hits, the attack targets the opponent's weaker defensive stat.
 
 # ID: 377
 Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Grants perfect accuracy and targeting to pulse, beam, ball, aura, projectile, and status moves. Transforms single-target shots into devastating dual strikes, maximizing battlefield impact.
