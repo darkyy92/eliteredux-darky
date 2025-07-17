@@ -1,8 +1,8 @@
 ---
 id: 363
 name: Predator
-status: ai-generated
-character_count: 274
+status: reviewed
+character_count: 102
 ---
 
 # Predator - Ability ID 363
@@ -13,7 +13,7 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon delivers the final blow to knock out an opponent, it immediately recovers 25% of its maximum HP. This healing effect triggers after each knockout, allowing the Pokemon to sustain itself through consecutive battles and maintain momentum in prolonged fights.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 ## Detailed Mechanical Explanation
 
