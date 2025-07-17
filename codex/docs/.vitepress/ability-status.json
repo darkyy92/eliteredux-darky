@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 170,
+    "completed": 171,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:57:32.371010Z"
+    "generated_at": "2025-07-17T16:59:41.677764Z"
   },
   "abilities": {
     "0": {
@@ -2636,8 +2636,8 @@
       "id": 375,
       "name": "Precise Fist",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "376": {
       "id": 376,
@@ -8392,10 +8392,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "375": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "376": {
       "indicator": "🟠",

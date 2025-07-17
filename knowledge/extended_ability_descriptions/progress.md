@@ -383,7 +383,7 @@ In Progress: 0
 | 372 | Momentum                   | ✅       | ✅        |
 | 373 | Grip Pincer                | ✅       | ✅        |
 | 374 | Big Leaves                 | ✅       | ✅        |
-| 375 | Precise Fist               | ✅       | ❌        |
+| 375 | Precise Fist               | ✅       | ✅        |
 | 376 | Deadeye                    | ✅       | ❌        |
 | 377 | Artillery                  | ✅       | ❌        |
 | 378 | Amplifier                  | ✅       | ❌        |
