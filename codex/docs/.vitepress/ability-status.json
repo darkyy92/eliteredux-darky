@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 155,
+    "completed": 156,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T15:01:54.545920Z"
+    "generated_at": "2025-07-17T15:08:09.939212Z"
   },
   "abilities": {
     "0": {
@@ -2510,8 +2510,8 @@
       "id": 357,
       "name": "Molten Down",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "358": {
       "id": 358,
@@ -8284,10 +8284,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "357": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "358": {
       "indicator": "🟠",

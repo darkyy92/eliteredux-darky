@@ -365,7 +365,7 @@ In Progress: 0
 | 354 | Weather Control            | ✅       | ✅        |
 | 355 | Speed Force                | ✅       | ✅        |
 | 356 | Sea Guardian               | ✅       | ✅        |
-| 357 | Molten Down                | ✅       | ❌        |
+| 357 | Molten Down                | ✅       | ✅        |
 | 358 | Hyper Aggressive           | ✅       | ❌        |
 | 359 | Flock                      | ✅       | ❌        |
 | 360 | Field Explorer             | ✅       | ❌        |

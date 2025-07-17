@@ -1052,7 +1052,7 @@ Adds 20% of the user's Speed stat to damage when using contact moves. Choice Sca
 When entering battle during rain, Sea Guardian boosts your highest stat by one stage. Works with any rain type. Triggers once per switch-in.
 
 # ID: 357
-Molten Down makes Fire-type moves super effective against Rock-types (2x damage) instead of resisted (0.5x damage). This creates a 4x damage swing, turning Fire moves into powerful Rock-type counters. Works with all Fire-type moves including Hidden Power Fire and weather-boosted attacks.
+Molten Down makes Fire-type moves super effective against Rock-types instead of resisted.
 
 # ID: 358
 Makes all moves hit twice in succession. The first hit deals normal damage, while the second hit deals 25% of the original damage. This ability affects all damaging moves regardless of type or category, providing significant damage output increases at the cost of predictability.
