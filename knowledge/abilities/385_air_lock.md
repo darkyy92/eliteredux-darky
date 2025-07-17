@@ -1,8 +1,8 @@
 ---
 id: 385
 name: Air Lock
-status: ai-generated
-character_count: 250
+status: reviewed
+character_count: 225
 ---
 
 # Air Lock - Ability ID 385
@@ -14,7 +14,7 @@ character_count: 250
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no speed boosts (Swift Swim/Chlorophyll/Sand Rush), no chip damage, no accuracy changes. Weather can be set but provides no benefits. Works on primal weather.
+Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no chip damage, no accuracy changes, prevents Aurora Veil, etc. Weather can be set but provides no benefits. Works on primal weather.
 
 ## Detailed Mechanical Explanation
 
