@@ -1,8 +1,8 @@
 ---
 id: 366
 name: Solar Flare
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 135
 ---
 
 # Solar Flare - Ability ID 366
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Solar Flare converts Normal-type moves to Fire-type with boosted power while providing Fire-type STAB. Additionally grants Chloroplast effects: Weather Ball, Solar Beam/Blade, and Growth act as if used in harsh sunlight, regardless of actual weather conditions.
+Converts Normal-type moves to Fire-type and grants Fire-type STAB. Additionally activates any Sun related effects for the user's moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
