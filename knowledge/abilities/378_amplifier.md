@@ -1,8 +1,8 @@
 ---
 id: 378
 name: Amplifier
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 164
 ---
 
 # Amplifier - Ability ID 378
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Amplifier boosts sound-based moves by 30% damage. In doubles battles, single-target sound moves gain spread targeting to hit both opposing Pokemon. This creates tactical advantages by turning moves like Hyper Voice into powerful spread attacks that can pressure entire teams.
+Amplifier boosts sound-based moves by 30% damage. Single-target sound moves gain spread targeting to hit both opposing Pokemon. Does not spread with multihit moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
