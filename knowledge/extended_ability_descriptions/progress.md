@@ -374,7 +374,7 @@ In Progress: 0
 | 363 | Predator                   | ✅       | ✅        |
 | 364 | Looter                     | ✅       | ✅        |
 | 365 | Lunar Eclipse              | ✅       | ✅        |
-| 366 | Solar Flare                | ✅       | ❌        |
+| 366 | Solar Flare                | ✅       | ✅        |
 | 367 | Power Core                 | ✅       | ❌        |
 | 368 | Sighting System            | ✅       | ❌        |
 | 369 | Bad Company                | ✅       | ❌        |

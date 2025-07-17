@@ -1079,7 +1079,7 @@ When the user knocks out an opponent with a direct hit, it immediately recovers 
 Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of the user's typing. Improves Hypnosis accuracy to 90%.
 
 # ID: 366
-Solar Flare converts Normal-type moves to Fire-type with boosted power while providing Fire-type STAB. Additionally grants Chloroplast effects: Weather Ball, Solar Beam/Blade, and Growth act as if used in harsh sunlight, regardless of actual weather conditions.
+Converts Normal-type moves to Fire-type and grants Fire-type STAB. Additionally activates any Sun related effects for the user's moves.
 
 # ID: 367
 Adds 20% of Defense to physical attacks and 20% of Special Defense to special attacks when calculating damage. This defensive stat bonus is applied after all other modifiers, effectively making attacks stronger based on your defensive bulk. Works with all offensive moves.

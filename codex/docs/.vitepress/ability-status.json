@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 162,
+    "completed": 163,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T16:31:15.575524Z"
+    "generated_at": "2025-07-17T16:35:05.272520Z"
   },
   "abilities": {
     "0": {
@@ -2573,8 +2573,8 @@
       "id": 366,
       "name": "Solar Flare",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "367": {
       "id": 367,
@@ -8338,10 +8338,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "366": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "367": {
       "indicator": "🟠",
