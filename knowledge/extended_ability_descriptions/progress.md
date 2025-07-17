@@ -390,7 +390,7 @@ In Progress: 0
 | 379 | Ice Dew                    | ✅       | ✅        |
 | 380 | Sun Worship                | ✅       | ✅        |
 | 381 | Pollinate                  | ✅       | ✅        |
-| 382 | Volcano Rage               | ✅       | ❌        |
+| 382 | Volcano Rage               | ✅       | ✅        |
 | 383 | Cold Rebound               | ✅       | ❌        |
 | 384 | Low Blow                   | ✅       | ❌        |
 | 385 | Air Lock                   | ✅       | ❌        |

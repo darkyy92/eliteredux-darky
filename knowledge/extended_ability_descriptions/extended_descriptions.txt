@@ -1127,7 +1127,7 @@ When entering battle during Sun, boosts the user's highest stat by one stage.
 Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 382
-After using any Fire-type move, Volcano Rage automatically triggers a followup Eruption attack with 50 base power. This volcanic followup scales with the user's current HP percentage, dealing maximum damage at full health. Creates devastating double strikes.
+After using any Fire-type move, Volcano Rage triggers a followup Eruption attack with 50 base power. Damage scales with the user's current HP percentage, having 50 BP at full health.
 
 # ID: 383
 When struck by any contact move, Cold Rebound automatically retaliates with Icy Wind (60 BP), dealing Ice-type damage and lowering the attacker's Speed by one stage. This defensive counter-attack creates a powerful deterrent against physical attackers.

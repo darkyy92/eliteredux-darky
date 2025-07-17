@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 177,
+    "completed": 178,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T23:31:02.272741Z"
+    "generated_at": "2025-07-17T23:36:32.399793Z"
   },
   "abilities": {
     "0": {
@@ -2685,8 +2685,8 @@
       "id": 382,
       "name": "Volcano Rage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "383": {
       "id": 383,
@@ -8434,10 +8434,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "382": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "383": {
       "indicator": "🟠",
