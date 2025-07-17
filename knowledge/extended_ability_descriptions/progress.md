@@ -379,7 +379,7 @@ In Progress: 0
 | 368 | Sighting System            | ✅       | ✅        |
 | 369 | Bad Company                | ✅       | ✅        |
 | 370 | Opportunist                | ✅       | ❌        |
-| 371 | Giant Wings                | ✅       | ❌        |
+| 371 | Giant Wings                | ✅       | ✅        |
 | 372 | Momentum                   | ✅       | ❌        |
 | 373 | Grip Pincer                | ✅       | ❌        |
 | 374 | Big Leaves                 | ✅       | ❌        |
