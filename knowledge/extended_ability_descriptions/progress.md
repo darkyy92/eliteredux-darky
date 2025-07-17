@@ -388,7 +388,7 @@ In Progress: 0
 | 377 | Artillery                  | ✅       | ✅        |
 | 378 | Amplifier                  | ✅       | ✅        |
 | 379 | Ice Dew                    | ✅       | ✅        |
-| 380 | Sun Worship                | ✅       | ❌        |
+| 380 | Sun Worship                | ✅       | ✅        |
 | 381 | Pollinate                  | ✅       | ❌        |
 | 382 | Volcano Rage               | ✅       | ❌        |
 | 383 | Cold Rebound               | ✅       | ❌        |

@@ -1121,7 +1121,7 @@ Amplifier boosts sound-based moves by 30% damage. Single-target sound moves gain
 Ice Dew redirects all Ice-type moves to this Pokemon. Upon absorbing an Ice move, boosts either Attack or Special Attack (whichever is higher) by one stage.
 
 # ID: 380
-When entering battle during sunny weather, Sun Worship analyzes the Pokemon's current stats including all modifications and boosts the highest one by one stage. This intelligent adaptation makes it valuable for any sun team member, whether offensive or defensive.
+When entering battle during Sun, boosts the user's highest stat by one stage.
 
 # ID: 381
 Normal-type moves become Bug-type and gain a 1.2x power boost. Bug-type moves receive STAB regardless of the Pokemon's actual type. Essentially gives the Pokemon a secondary Bug typing for offensive purposes, converting all Normal moves into powerful Bug attacks.
