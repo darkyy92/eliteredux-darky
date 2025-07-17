@@ -1,8 +1,8 @@
 ---
 id: 365
 name: Lunar Eclipse
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 133
 ---
 
 # Lunar Eclipse - Ability ID 365
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of the Pokemon's actual typing, providing a 1.5x damage multiplier. Additionally, it dramatically improves Hypnosis accuracy from 60% to 97.5%, making sleep strategies highly reliable.
+Lunar Eclipse grants STAB bonus to both Fairy and Dark-type moves regardless of the user's typing. Improves Hypnosis accuracy to 90%.
 
 ## Detailed Mechanical Explanation
 
