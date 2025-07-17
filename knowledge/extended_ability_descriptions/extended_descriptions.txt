@@ -1037,7 +1037,7 @@ The user gains a 50% Speed boost and 20% Attack boost on their first turn after 
 Grants +1 priority to Fire-type moves when at full HP.
 
 # ID: 352
-Boosts Special Attack by 50% but locks into the first move used each battle. Functions like built-in Choice Specs. After selecting any move, you're stuck with it until switching out. Offers massive immediate power at the cost of flexibility. Perfect for dedicated special wallbreakers.
+Boosts Special Attack by 50% but locks the user into using the first move selected until they switch out.
 
 # ID: 353
 Bone moves bypass immunities and flip resistances into weaknesses. Immune targets take normal damage, resisted hits deal 2x damage instead. Neutral/super effective unchanged. Works on Bone Club, Bonemerang, Bone Rush, Shadow Bone, and Blazing Bone. Cubone line's signature power.

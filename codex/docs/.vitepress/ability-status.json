@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 150,
+    "completed": 151,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T14:09:29.435008Z"
+    "generated_at": "2025-07-17T14:10:26.397984Z"
   },
   "abilities": {
     "0": {
@@ -2475,8 +2475,8 @@
       "id": 352,
       "name": "Sage Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "353": {
       "id": 353,
@@ -8254,10 +8254,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "352": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "353": {
       "indicator": "🟠",
