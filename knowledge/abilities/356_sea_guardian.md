@@ -1,8 +1,8 @@
 ---
 id: 356
 name: Sea Guardian
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 140
 ---
 
 # Sea Guardian - Ability ID 356
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When entering battle during rain, Sea Guardian analyzes current stats including modifications and boosts the highest one by one stage. Works with any rain type. Only triggers once per switch-in. Adapts to battle state by boosting the most relevant stat automatically.
+When entering battle during rain, Sea Guardian boosts your highest stat by one stage. Works with any rain type. Triggers once per switch-in.
 
 ## Detailed Mechanical Explanation
 
