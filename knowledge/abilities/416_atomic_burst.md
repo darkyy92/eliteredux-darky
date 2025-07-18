@@ -1,8 +1,8 @@
 ---
 id: 416
 name: Atomic Burst
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 292
 ---
 
 # Atomic Burst - Ability ID 416
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with 1.2x power boost and grant STAB if the user is Electric-type. Charged status is consumed after one Electric move use.
+When hit by any move, the user becomes charged up, doubling the power of the next Electric-type move used. Converts all Normal-type moves into Electric-type moves and grants STAB for Electric-type moves, regardless of the user's typing. Charged status is consumed after one Electric move use.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
