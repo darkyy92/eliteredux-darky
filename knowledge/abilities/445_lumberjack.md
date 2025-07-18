@@ -1,8 +1,8 @@
 ---
 id: 445
 name: Lumberjack
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 215
 ---
 
 # Lumberjack - Ability ID 445
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lumberjack deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage from Grass-type attacks. Both offensive and defensive effects activate against any Pokemon with Grass typing, including dual-types. Perfect for countering Grass-heavy teams and walls. Also affects Forest Curse victims.
+Deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage when attacked by Grass-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
