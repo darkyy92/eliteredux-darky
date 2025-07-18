@@ -1,8 +1,8 @@
 ---
 id: 390
 name: Mighty Horn
-status: ai-generated
-character_count: 250
+status: reviewed
+character_count: 68
 ---
 
 # Mighty Horn - Ability ID 390
@@ -13,7 +13,7 @@ character_count: 250
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mighty Horn amplifies the piercing power of horn and drill-based attacks by 30%, turning natural weaponry into devastating offensive tools. This includes classic moves like Horn Attack, Megahorn, and Drill Peck, plus specialized elemental horn moves.
+Mighty Horn boosts the power of horn and drill-based attacks by 30%.
 
 ## Detailed Mechanical Explanation
 
