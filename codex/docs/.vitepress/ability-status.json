@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 186,
+    "completed": 187,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:09:42.029074Z"
+    "generated_at": "2025-07-18T01:11:50.767562Z"
   },
   "abilities": {
     "0": {
@@ -2748,8 +2748,8 @@
       "id": 391,
       "name": "Hardened Sheath",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "392": {
       "id": 392,
@@ -8488,10 +8488,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "391": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "392": {
       "indicator": "🟠",

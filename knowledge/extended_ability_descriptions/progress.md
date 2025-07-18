@@ -399,7 +399,7 @@ In Progress: 0
 | 388 | Thundercall                | ✅       | ✅        |
 | 389 | Marine Apex                | ✅       | ✅        |
 | 390 | Mighty Horn                | ✅       | ✅        |
-| 391 | Hardened Sheath            | ✅       | ❌        |
+| 391 | Hardened Sheath            | ✅       | ✅        |
 | 392 | Arctic Fur                 | ✅       | ❌        |
 | 393 | Spectralize                | ✅       | ❌        |
 | 394 | Lethargy                   | ✅       | ❌        |

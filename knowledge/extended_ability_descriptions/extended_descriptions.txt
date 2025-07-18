@@ -1154,7 +1154,7 @@ Deal 1.5x damage to Water-type Pokemon and bypass defensive screens (Light Scree
 Mighty Horn boosts the power of horn and drill-based attacks by 30%.
 
 # ID: 391
-Hardened Sheath transforms every successful horn-based attack into an opportunity for growth, raising Attack by one stage each time a horn move connects. Compatible with moves like Horn Attack, Megahorn, Drill Peck, Zen Headbutt, and many Elite Redux custom horn moves.
+Every successful horn-based attack raises Attack by one stage after it lands.
 
 # ID: 392
 This Pokemon's dense, cold-resistant fur provides exceptional protection against all incoming attacks. The Arctic Fur's natural insulation and thick density reduces both physical and special damage by 35%, making it one of the most effective universal defensive abilities available.
