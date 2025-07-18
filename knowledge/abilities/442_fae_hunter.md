@@ -1,8 +1,8 @@
 ---
 id: 442
 name: Fae Hunter
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 215
 ---
 
 # Fae Hunter - Ability ID 442
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fae Hunter deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage from Fairy-type attacks. This dual offensive and defensive type effectiveness modification makes it excellent against Fairy-types while providing resistance to their moves. Works on Fairy moves regardless of secondary typing.
+Deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage when attacked by Fairy-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
