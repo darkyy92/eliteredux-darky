@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 223,
+    "completed": 224,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T19:30:45.010617Z"
+    "generated_at": "2025-07-18T23:10:15.637494Z"
   },
   "abilities": {
     "0": {
@@ -3035,8 +3035,8 @@
       "id": 432,
       "name": "Infernal Rage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "433": {
       "id": 433,
@@ -8734,10 +8734,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "432": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "433": {
       "indicator": "🟠",
