@@ -1,8 +1,8 @@
 ---
 id: 400
 name: Scrapyard
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 207
 ---
 
 # Scrapyard - Ability ID 400
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Scrapyard sets a layer of Spikes on the opponent's side when hit by a contact move. Each layer damages switching Pokemon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively. Only triggers when the move connects and fewer than 3 layers exist. Effectively punishes physical attackers.
+Sets a layer of Spikes on the opponent's side when the user is successfully hit by a contact move. Each layer damages switching grounded Pokemon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
