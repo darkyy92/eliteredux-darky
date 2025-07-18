@@ -1307,7 +1307,7 @@ Changes type to resist attacks before getting hit, changes type to match moves b
 Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit.
 
 # ID: 442
-Fae Hunter deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage from Fairy-type attacks. This dual offensive and defensive type effectiveness modification makes it excellent against Fairy-types while providing resistance to their moves. Works on Fairy moves regardless of secondary typing.
+Deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage when attacked by Fairy-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 # ID: 443
 Gravity Well automatically sets Gravity field effect on entry for 5 turns. Prevents Flying moves like Bounce, Fly, and Sky Drop while grounding airborne Pokemon including Levitate users. Increases move accuracy and allows Ground moves to hit Flying types for enhanced strategic control.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 233,
+    "completed": 234,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:41:24.964605Z"
+    "generated_at": "2025-07-18T23:45:44.149969Z"
   },
   "abilities": {
     "0": {
@@ -3105,8 +3105,8 @@
       "id": 442,
       "name": "Fae Hunter",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "443": {
       "id": 443,
@@ -8794,10 +8794,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "442": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "443": {
       "indicator": "🟠",

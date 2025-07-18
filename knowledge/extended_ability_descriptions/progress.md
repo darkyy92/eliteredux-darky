@@ -450,7 +450,7 @@ In Progress: 0
 | 439 | Angel's Wrath              | ✅       | ✅        |
 | 440 | Prismatic Fur              | ✅       | ✅        |
 | 441 | Shocking Jaws              | ✅       | ✅        |
-| 442 | Fae Hunter                 | ✅       | ❌        |
+| 442 | Fae Hunter                 | ✅       | ✅        |
 | 443 | Gravity Well               | ✅       | ❌        |
 | 444 | Evaporate                  | ✅       | ❌        |
 | 445 | Lumberjack                 | ✅       | ❌        |
