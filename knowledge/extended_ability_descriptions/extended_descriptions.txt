@@ -1193,7 +1193,7 @@ Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side w
 Roundhouse makes all kicking moves never miss and target the opponent's weaker defense stat.
 
 # ID: 404
-Mineralize converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type attacks. This -ate ability provides a 1.2x damage boost to converted moves. All Normal moves become Rock moves before type effectiveness, gaining super-effective damage against Bug, Fire, Flying, and Ice.
+Converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type moves, regardless of the user's typing.
 
 # ID: 405
 Loose Rocks deploys Stealth Rock entry hazards on the opponent's side when the Pokemon is hit by any contact move. Only triggers once per battle per side. Does not activate if opponent already has Stealth Rock up. Punishes physical attackers and discourages switching.

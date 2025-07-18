@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 199,
+    "completed": 200,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T13:05:11.642454Z"
+    "generated_at": "2025-07-18T13:06:05.037285Z"
   },
   "abilities": {
     "0": {
@@ -2839,8 +2839,8 @@
       "id": 404,
       "name": "Mineralize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "405": {
       "id": 405,
@@ -8566,10 +8566,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "404": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "405": {
       "indicator": "🟠",
