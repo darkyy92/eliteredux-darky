@@ -1,8 +1,8 @@
 ---
 id: 440
 name: Prismatic Fur
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 206
 ---
 
 # Prismatic Fur - Ability ID 440
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prismatic Fur combines four abilities: changes type to resist attacks (Color Change), changes type to match moves (Protean), halves physical damage (Fur Coat), and halves special damage (Ice Scales). Creates ultimate defensive versatility with type adaptation.
+Changes type to resist attacks before getting hit, changes type to match moves before landing a hit, halves physical damage, and halves special damage. Damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
