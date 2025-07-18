@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 220,
+    "completed": 221,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T19:08:16.346864Z"
+    "generated_at": "2025-07-18T19:21:58.329930Z"
   },
   "abilities": {
     "0": {
@@ -3014,8 +3014,8 @@
       "id": 429,
       "name": "Coward",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "430": {
       "id": 430,
@@ -8716,10 +8716,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "429": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "430": {
       "indicator": "🟠",

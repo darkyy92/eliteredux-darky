@@ -1268,7 +1268,7 @@ Negates all damage for the first 2 hits received. Works exactly like Substitute 
 Cheap Tactics uses Scratch (40 BP Normal physical move) targeting a random opponent when switching into battle.
 
 # ID: 429
-Coward automatically activates Protect on switch-in, providing complete immunity to attacks, status moves, and damage for one full turn. This protection only works once per battle entry, making it a powerful but limited defensive tool for fragile Pokemon or setting up strategies.
+Coward automatically activates Protect on entry. Works once per battle.
 
 # ID: 430
 Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP. Works with all Electric moves including special and physical attacks. Priority is lost immediately when HP drops below maximum. Returns when HP is restored to full through healing moves or items.
