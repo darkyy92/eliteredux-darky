@@ -1,8 +1,8 @@
 ---
 id: 447
 name: Furnace
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 109
 ---
 
 # Furnace - Ability ID 447
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Rock-type Stealth Rock present. The boost activates on damage from Rock moves or entry hazards. Turns Rock weakness into Speed advantage for sweeping potential with doubled speed.
+Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Stealth Rock present. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
