@@ -1274,7 +1274,7 @@ Coward automatically activates Protect on entry. Works once per battle.
 Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP.
 
 # ID: 431
-Dune Terror reduces damage taken by 35% during sandstorm weather and boosts Ground-type moves by 20%. Works with all forms of sandstorm including regular sandstorm and enhanced variants. The damage reduction applies to all incoming attacks while Ground-type boost remains active in sandstorms.
+Dune Terror reduces damage taken by 35% during a sandstorm and boosts Ground-type moves by 20%. Damage reduction is multiplicative with other sources.
 
 # ID: 432
 Infernal Rage boosts Fire-type moves by 35% but inflicts 5% recoil damage after using them. Recoil is calculated from damage dealt with minimum of 1 HP lost. Works with all Fire moves including special and physical attacks. Ideal for aggressive Fire-type sweepers seeking maximum power.
