@@ -1,8 +1,8 @@
 ---
 id: 397
 name: Pyro Shells
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 168
 ---
 
 # Pyro Shells - Ability ID 397
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pyro Shells adds explosive aftermath to beam and pulse attacks, triggering a 50 BP Normal-type Outburst follow-up after any Mega Launcher-boosted move. This secondary explosion hits immediately after the initial attack without causing self-damage, creating devastating double strikes.
+Pyro Shells triggers a 50 BP Normal-type Outburst after any Mega Launcher-boosted move. Outburst has no secondary effects and hits all surrounding Pokemon on the field.
 
 ## Detailed Mechanical Explanation
 
