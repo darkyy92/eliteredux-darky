@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 190,
+    "completed": 191,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:17:24.022178Z"
+    "generated_at": "2025-07-18T01:22:37.435600Z"
   },
   "abilities": {
     "0": {
@@ -2776,8 +2776,8 @@
       "id": 395,
       "name": "Iron Barrage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "396": {
       "id": 396,
@@ -8512,10 +8512,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "395": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "396": {
       "indicator": "🟠",

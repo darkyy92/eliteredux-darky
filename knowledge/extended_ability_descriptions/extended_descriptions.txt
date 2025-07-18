@@ -1166,7 +1166,7 @@ Converts all Normal-type moves to Ghost-type and grants STAB for Ghost moves, re
 Reduces the user's total damage by 20% at the start of each turn, capping at -80%. Resets after switching.
 
 # ID: 395
-Iron Barrage turns the user into a precision artillery platform, combining a 30% damage boost to projectile moves with perfect accuracy on ALL attacks. Low-accuracy moves (below 80%) suffer -3 priority as a trade-off. This powerful combination excels on Pokemon with diverse projectile movepools.
+Boosts pulse, beam, ball, and aura moves by 30%. Guarantees all moves hit regardless of accuracy checks. Moves with less than 80% base accuracy receive -3 priority.
 
 # ID: 396
 Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type. This ability enhances vocal attacks through aquatic resonance, making sound-based strategies more versatile and effective in combat.
