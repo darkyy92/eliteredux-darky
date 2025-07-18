@@ -397,7 +397,7 @@ In Progress: 0
 | 386 | Spectral Shroud            | ✅       | ✅        |
 | 387 | Discipline                 | ✅       | ✅        |
 | 388 | Thundercall                | ✅       | ✅        |
-| 389 | Marine Apex                | ✅       | ❌        |
+| 389 | Marine Apex                | ✅       | ✅        |
 | 390 | Mighty Horn                | ✅       | ❌        |
 | 391 | Hardened Sheath            | ✅       | ❌        |
 | 392 | Arctic Fur                 | ✅       | ❌        |
