@@ -432,7 +432,7 @@ In Progress: 0
 | 421 | Sweeping Edge              | ✅       | ✅        |
 | 422 | Gifted Mind                | ✅       | ✅        |
 | 423 | Hydro Circuit              | ✅       | ✅        |
-| 424 | Equinox                    | ✅       | ❌        |
+| 424 | Equinox                    | ✅       | ✅        |
 | 425 | Absorbant                  | ✅       | ❌        |
 | 426 | Clueless                   | ✅       | ❌        |
 | 427 | Cheating Death             | ✅       | ❌        |

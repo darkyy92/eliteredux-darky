@@ -1253,7 +1253,7 @@ Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all 
 Hydro Circuit boosts Electric-type moves by 50% and heals the user for 25% of damage dealt when using Water-type moves.
 
 # ID: 424
-Equinox dynamically chooses the higher offensive stat for each attack. If Attack is higher, physical moves use Attack stat. If Special Attack is higher, special moves use Special Attack stat. Provides optimal damage output by always using the stronger offensive stat for every move.
+Equinox chooses the higher offensive stat for each attack. If Attack is higher, physical and special moves use your Attack stat. If Special Attack is higher, physical and special moves use your Special Attack stat.
 
 # ID: 425
 Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target. Affects moves like Absorb, Mega Drain, Giga Drain, and Drain Punch. Leech Seed won't apply to Grass-types or already seeded targets. Excellent for sustain-focused strategies.
