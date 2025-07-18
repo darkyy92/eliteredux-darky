@@ -1,8 +1,8 @@
 ---
 id: 420
 name: Primal Maw
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 181
 ---
 
 # Primal Maw - Ability ID 420
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Primal Maw causes all biting moves to hit twice in succession. The first hit deals full damage while the second hit deals 40% damage. Works with any move that has the Strong Jaw flag including Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, and Poison Fang.
+Primal Maw causes all biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
