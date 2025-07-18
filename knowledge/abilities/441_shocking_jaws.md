@@ -1,8 +1,8 @@
 ---
 id: 441
 name: Shocking Jaws
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 80
 ---
 
 # Shocking Jaws - Ability ID 441
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shocking Jaws gives all biting moves exactly a 50% chance to paralyze the target on hit. Affects moves like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Poison Fang, Psychic Fangs, and many others. Paralysis reduces Speed by 50% and causes 25% chance to be unable to move each turn.
+Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
