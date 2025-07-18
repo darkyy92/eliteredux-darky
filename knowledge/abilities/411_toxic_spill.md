@@ -1,8 +1,8 @@
 ---
 id: 411
 name: Toxic Spill
-status: ai-generated
-character_count: 244
+status: reviewed
+character_count: 143
 ---
 
 # Toxic Spill - Ability ID 411
@@ -13,7 +13,7 @@ character_count: 244
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Toxic Spill creates a toxic waste field that damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. The toxic waste appears on entry and disappears when the user leaves. Bypasses Magic Guard immunity.
+Toxic Spill damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. Disappears when the user leaves. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
