@@ -1169,7 +1169,7 @@ Reduces the user's total damage by 20% at the start of each turn, capping at -80
 Boosts pulse, beam, ball, and aura moves by 30%. Guarantees all moves hit regardless of accuracy checks. Moves with less than 80% base accuracy receive -3 priority.
 
 # ID: 396
-Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type. This ability enhances vocal attacks through aquatic resonance, making sound-based strategies more versatile and effective in combat.
+Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type.
 
 # ID: 397
 Pyro Shells adds explosive aftermath to beam and pulse attacks, triggering a 50 BP Normal-type Outburst follow-up after any Mega Launcher-boosted move. This secondary explosion hits immediately after the initial attack without causing self-damage, creating devastating double strikes.

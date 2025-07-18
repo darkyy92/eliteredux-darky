@@ -404,7 +404,7 @@ In Progress: 0
 | 393 | Spectralize                | ✅       | ✅        |
 | 394 | Lethargy                   | ✅       | ✅        |
 | 395 | Iron Barrage               | ✅       | ✅        |
-| 396 | Liquid Voice               | ✅       | ❌        |
+| 396 | Liquid Voice               | ✅       | ✅        |
 | 397 | Pyro Shells                | ✅       | ❌        |
 | 398 | Fungal Infection           | ✅       | ❌        |
 | 399 | Parry                      | ✅       | ❌        |
