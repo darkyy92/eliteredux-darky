@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 238,
+    "completed": 239,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:51:05.598608Z"
+    "generated_at": "2025-07-18T23:51:45.172210Z"
   },
   "abilities": {
     "0": {
@@ -3140,8 +3140,8 @@
       "id": 447,
       "name": "Furnace",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "448": {
       "id": 448,
@@ -8824,10 +8824,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "447": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "448": {
       "indicator": "🟠",

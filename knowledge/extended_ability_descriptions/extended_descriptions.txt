@@ -1322,7 +1322,7 @@ Deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage when attacked by G
 Well Baked Body grants immunity to Fire-type moves and boosts Defense by 2 stages when hit by Fire attacks.
 
 # ID: 447
-Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Rock-type Stealth Rock present. The boost activates on damage from Rock moves or entry hazards. Turns Rock weakness into Speed advantage for sweeping potential with doubled speed.
+Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Stealth Rock present.
 
 # ID: 448
 Electromorphosis charges up the Pokemon when it takes damage from any attack. Once charged, the next Electric-type move used by the Pokemon deals double damage. The charge effect is consumed after using an Electric-type move with base power, resetting the cycle.
