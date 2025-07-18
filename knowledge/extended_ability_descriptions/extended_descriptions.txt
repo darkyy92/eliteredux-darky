@@ -1289,7 +1289,7 @@ Elemental Charge gives attacking moves a 20% chance to inflict status conditions
 Ambush guarantees a critical hit on the user's first turn after switching in or at the start of battle.
 
 # ID: 436
-Atlas sets Gravity field effect upon entering battle for 8 turns. Gravity prevents levitating moves like Fly and Bounce, grounds all Pokemon making them vulnerable to Ground moves, and boosts move accuracy by 66%. Superior to regular Gravity's 5-turn duration.
+Atlas sets Gravity upon entering battle for 8 turns. Gravity prevents levitating moves like Fly; grounds all Pokemon making them vulnerable to Ground moves, Arena Trap, and hazards; boosts Grav Apple's damage by 50%; and boosts move accuracy by 66%.
 
 # ID: 437
 Radiance increases the Pokemon's accuracy by 20% for all moves and provides complete immunity to Dark-type attacks when the user is present on the field. The accuracy boost applies to all moves used by the Pokemon. Dark-type moves targeting this Pokemon will fail entirely and deal no damage.

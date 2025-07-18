@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 227,
+    "completed": 228,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:14:26.614233Z"
+    "generated_at": "2025-07-18T23:22:43.926380Z"
   },
   "abilities": {
     "0": {
@@ -3063,8 +3063,8 @@
       "id": 436,
       "name": "Atlas",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "437": {
       "id": 437,
@@ -8758,10 +8758,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "436": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "437": {
       "indicator": "🟠",

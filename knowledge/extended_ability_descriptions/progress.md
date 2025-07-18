@@ -444,7 +444,7 @@ In Progress: 0
 | 433 | Dual Wield                 | ✅       | ✅        |
 | 434 | Elemental Charge           | ✅       | ✅        |
 | 435 | Ambush                     | ✅       | ✅        |
-| 436 | Atlas                      | ✅       | ❌        |
+| 436 | Atlas                      | ✅       | ✅        |
 | 437 | Radiance                   | ✅       | ❌        |
 | 438 | Jaws of Carnage            | ✅       | ❌        |
 | 439 | Angel's Wrath              | ✅       | ❌        |
