@@ -1244,7 +1244,7 @@ Forest Rage boosts the power of all Grass-type moves by 30% when healthy. When t
 Primal Maw causes all biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
 
 # ID: 421
-Sweeping Edge makes all Keen Edge moves have perfect accuracy and hit both opposing Pokemon in double battles. Keen Edge moves include slicing attacks like Slash, Leaf Blade, Karate Chop, and Dragon Claw. This transforms single-target slicing moves into powerful multi-target attacks.
+Sweeping Edge makes all Keen Edge moves have never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time.
 
 # ID: 422
 Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokemon never miss. These three types are the primary weaknesses of Psychic-types, providing defensive immunity alongside perfect accuracy for utility moves.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 213,
+    "completed": 214,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T18:52:55.911034Z"
+    "generated_at": "2025-07-18T18:57:55.238451Z"
   },
   "abilities": {
     "0": {
@@ -2958,8 +2958,8 @@
       "id": 421,
       "name": "Sweeping Edge",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "422": {
       "id": 422,
@@ -8668,10 +8668,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "421": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "422": {
       "indicator": "🟠",

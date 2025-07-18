@@ -429,7 +429,7 @@ In Progress: 0
 | 418 | Riptide                    | ✅       | ❌        |
 | 419 | Forest Rage                | ✅       | ❌        |
 | 420 | Primal Maw                 | ✅       | ✅        |
-| 421 | Sweeping Edge              | ✅       | ❌        |
+| 421 | Sweeping Edge              | ✅       | ✅        |
 | 422 | Gifted Mind                | ✅       | ❌        |
 | 423 | Hydro Circuit              | ✅       | ❌        |
 | 424 | Equinox                    | ✅       | ❌        |
