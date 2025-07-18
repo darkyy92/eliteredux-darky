@@ -1,8 +1,8 @@
 ---
 id: 389
 name: Marine Apex
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 117
 ---
 
 # Marine Apex - Ability ID 389
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Marine Apex transforms the user into the ultimate aquatic predator, dealing 1.5x damage to Water-type targets while completely bypassing defensive screens (Light Screen, Reflect, Aurora Veil) and Substitutes. Perfect for breaking through bulky Water walls.
+Deal 1.5x damage to Water-type Pokemon and bypass defensive screens (Light Screen, Reflect, Aurora Veil)/Substitutes.
 
 ## Detailed Mechanical Explanation
 
