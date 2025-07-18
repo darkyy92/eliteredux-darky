@@ -1298,7 +1298,7 @@ Radiance increases the user's accuracy by 20% for all moves and causes Dark move
 Restores 50% max HP when defeating foes with biting moves or 25% with other moves. Only activates when knocking out a target with a direct hit.
 
 # ID: 439
-Angel's Wrath completely transforms six basic moves into powerful variants with unique effects. Tackle gains Encore+Disable, String Shot sets all entry hazards, Harden boosts all stats except Defense, Iron Defense grants protection, Electroweb traps and minimizes Speed, Bug Bite heals damage dealt.
+Tackle Encores+Disables, String Shot sets all hazards, Harden omniboosts by one stage, Iron Defense becomes a King's Shield that drops all stats, Electroweb traps, Bug Bite heals damage dealt, Poison Sting badly poisons+is super-effective on Steel. All enhanced attacks get a large damage boost.
 
 # ID: 440
 Prismatic Fur combines four abilities: changes type to resist attacks (Color Change), changes type to match moves (Protean), halves physical damage (Fur Coat), and halves special damage (Ice Scales). Creates ultimate defensive versatility with type adaptation.

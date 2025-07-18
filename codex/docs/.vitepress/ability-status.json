@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 230,
+    "completed": 231,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:25:29.218632Z"
+    "generated_at": "2025-07-18T23:38:34.965749Z"
   },
   "abilities": {
     "0": {
@@ -3084,8 +3084,8 @@
       "id": 439,
       "name": "Angel's Wrath",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "440": {
       "id": 440,
@@ -8776,10 +8776,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "439": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "440": {
       "indicator": "🟠",
