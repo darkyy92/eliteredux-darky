@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 187,
+    "completed": 188,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:11:50.767562Z"
+    "generated_at": "2025-07-18T01:12:44.601132Z"
   },
   "abilities": {
     "0": {
@@ -2755,8 +2755,8 @@
       "id": 392,
       "name": "Arctic Fur",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "393": {
       "id": 393,
@@ -8494,10 +8494,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "392": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "393": {
       "indicator": "🟠",
