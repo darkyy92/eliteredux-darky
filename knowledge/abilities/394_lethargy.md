@@ -1,8 +1,8 @@
 ---
 id: 394
 name: Lethargy
-status: ai-generated
-character_count: 234
+status: reviewed
+character_count: 106
 ---
 
 # Lethargy - Ability ID 394
@@ -13,7 +13,7 @@ character_count: 234
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching.
+Reduces the user's total damage by 20% at the start of each turn, capping at -80%. Resets after switching.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
