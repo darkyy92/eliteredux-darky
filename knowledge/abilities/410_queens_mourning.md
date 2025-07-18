@@ -1,8 +1,8 @@
 ---
 id: 410
 name: Queen's Mourning
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 194
 ---
 
 # Queen's Mourning - Ability ID 410
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Queen's Mourning activates when any stat is lowered on the Pokemon's side of the field, not just the Pokemon with this ability. When triggered, it raises both Special Attack and Special Defense by one stage each. Works with partner Pokemon in doubles, making it excellent for support.
+Queen's Mourning triggers when the user or their ally has their stats lowered, immediately boosting the user's Special Attack and Special Defense by one stage. Does not activate from self drops.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
