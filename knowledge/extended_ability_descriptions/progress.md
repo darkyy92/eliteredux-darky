@@ -396,7 +396,7 @@ In Progress: 0
 | 385 | Air Lock                   | ✅       | ✅        |
 | 386 | Spectral Shroud            | ✅       | ✅        |
 | 387 | Discipline                 | ✅       | ✅        |
-| 388 | Thundercall                | ✅       | ❌        |
+| 388 | Thundercall                | ✅       | ✅        |
 | 389 | Marine Apex                | ✅       | ❌        |
 | 390 | Mighty Horn                | ✅       | ❌        |
 | 391 | Hardened Sheath            | ✅       | ❌        |
