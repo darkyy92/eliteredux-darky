@@ -441,7 +441,7 @@ In Progress: 0
 | 430 | Volt Rush                  | ✅       | ✅        |
 | 431 | Dune Terror                | ✅       | ✅        |
 | 432 | Infernal Rage              | ✅       | ✅        |
-| 433 | Dual Wield                 | ✅       | ❌        |
+| 433 | Dual Wield                 | ✅       | ✅        |
 | 434 | Elemental Charge           | ✅       | ❌        |
 | 435 | Ambush                     | ✅       | ❌        |
 | 436 | Atlas                      | ✅       | ❌        |

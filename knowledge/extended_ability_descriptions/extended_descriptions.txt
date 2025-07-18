@@ -1280,7 +1280,7 @@ Dune Terror reduces damage taken by 35% during a sandstorm and boosts Ground-typ
 Infernal Rage boosts Fire-type moves by 35% but inflicts 5% recoil damage after using them. Recoil is calculated from damage dealt with minimum of 1 HP lost. This recoil cannot knock the user out.
 
 # ID: 433
-Dual Wield causes moves boosted by Mega Launcher or Keen Edge to hit twice, with each hit dealing 70% of the move's normal damage. Works with beam moves, pulse moves, cannon moves, and blade moves. Total damage is 140% compared to single hit. Maintains secondary effects on both hits.
+Mega Launcher and Keen Edge moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
 
 # ID: 434
 Elemental Charge gives attacking moves a 20% chance to inflict status conditions based on move type: Electric moves cause paralysis, Fire moves cause burn, and Ice moves cause frostbite. Only affects moves that deal damage to the target. Works with any damaging move of the three types.
