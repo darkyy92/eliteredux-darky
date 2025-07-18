@@ -1,8 +1,8 @@
 ---
 id: 404
 name: Mineralize
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 121
 ---
 
 # Mineralize - Ability ID 404
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mineralize converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type attacks. This -ate ability provides a 1.2x damage boost to converted moves. All Normal moves become Rock moves before type effectiveness, gaining super-effective damage against Bug, Fire, Flying, and Ice.
+Converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type moves, regardless of the user's typing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
