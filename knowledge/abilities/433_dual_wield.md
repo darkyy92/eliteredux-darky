@@ -1,8 +1,8 @@
 ---
 id: 433
 name: Dual Wield
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 153
 ---
 
 # Dual Wield - Ability ID 433
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dual Wield causes moves boosted by Mega Launcher or Keen Edge to hit twice, with each hit dealing 70% of the move's normal damage. Works with beam moves, pulse moves, cannon moves, and blade moves. Total damage is 140% compared to single hit. Maintains secondary effects on both hits.
+Mega Launcher and Keen Edge moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
