@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 226,
+    "completed": 227,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:13:13.044724Z"
+    "generated_at": "2025-07-18T23:14:26.614233Z"
   },
   "abilities": {
     "0": {
@@ -3056,8 +3056,8 @@
       "id": 435,
       "name": "Ambush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "436": {
       "id": 436,
@@ -8752,10 +8752,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "435": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "436": {
       "indicator": "🟠",

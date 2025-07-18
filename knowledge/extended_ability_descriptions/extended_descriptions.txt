@@ -1286,7 +1286,7 @@ Mega Launcher and Keen Edge moves to hit twice, with each hit dealing 70% of the
 Elemental Charge gives attacking moves a 20% chance to inflict status conditions based on move type: Electric moves cause paralysis, Fire moves cause burn, and Ice moves cause frostbite.
 
 # ID: 435
-Ambush guarantees a critical hit on the Pokemon's first turn after switching in or at the start of battle. This powerful ability works with any attacking move, providing immediate offensive pressure. Perfect for hit-and-run tactics and surprise sweeps against unsuspecting opponents.
+Ambush guarantees a critical hit on the user's first turn after switching in or at the start of battle.
 
 # ID: 436
 Atlas sets Gravity field effect upon entering battle for 8 turns. Gravity prevents levitating moves like Fly and Bounce, grounds all Pokemon making them vulnerable to Ground moves, and boosts move accuracy by 66%. Superior to regular Gravity's 5-turn duration.

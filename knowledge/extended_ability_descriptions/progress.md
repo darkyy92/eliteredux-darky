@@ -443,7 +443,7 @@ In Progress: 0
 | 432 | Infernal Rage              | ✅       | ✅        |
 | 433 | Dual Wield                 | ✅       | ✅        |
 | 434 | Elemental Charge           | ✅       | ✅        |
-| 435 | Ambush                     | ✅       | ❌        |
+| 435 | Ambush                     | ✅       | ✅        |
 | 436 | Atlas                      | ✅       | ❌        |
 | 437 | Radiance                   | ✅       | ❌        |
 | 438 | Jaws of Carnage            | ✅       | ❌        |
