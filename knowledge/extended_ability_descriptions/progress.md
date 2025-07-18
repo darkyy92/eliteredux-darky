@@ -398,7 +398,7 @@ In Progress: 0
 | 387 | Discipline                 | ✅       | ✅        |
 | 388 | Thundercall                | ✅       | ✅        |
 | 389 | Marine Apex                | ✅       | ✅        |
-| 390 | Mighty Horn                | ✅       | ❌        |
+| 390 | Mighty Horn                | ✅       | ✅        |
 | 391 | Hardened Sheath            | ✅       | ❌        |
 | 392 | Arctic Fur                 | ✅       | ❌        |
 | 393 | Spectralize                | ✅       | ❌        |

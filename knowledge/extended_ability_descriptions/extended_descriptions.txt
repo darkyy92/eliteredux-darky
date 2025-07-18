@@ -1151,7 +1151,7 @@ After using any Electric-type move, Thundercall automatically triggers a follow-
 Deal 1.5x damage to Water-type Pokemon and bypass defensive screens (Light Screen, Reflect, Aurora Veil)/Substitutes.
 
 # ID: 390
-Mighty Horn amplifies the piercing power of horn and drill-based attacks by 30%, turning natural weaponry into devastating offensive tools. This includes classic moves like Horn Attack, Megahorn, and Drill Peck, plus specialized elemental horn moves.
+Mighty Horn boosts the power of horn and drill-based attacks by 30%.
 
 # ID: 391
 Hardened Sheath transforms every successful horn-based attack into an opportunity for growth, raising Attack by one stage each time a horn move connects. Compatible with moves like Horn Attack, Megahorn, Drill Peck, Zen Headbutt, and many Elite Redux custom horn moves.
