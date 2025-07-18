@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 206,
+    "completed": 207,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T16:59:50.000951Z"
+    "generated_at": "2025-07-18T17:26:44.433933Z"
   },
   "abilities": {
     "0": {
@@ -2888,8 +2888,8 @@
       "id": 411,
       "name": "Toxic Spill",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "412": {
       "id": 412,
@@ -8608,10 +8608,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "411": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "412": {
       "indicator": "🟠",

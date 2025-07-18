@@ -419,7 +419,7 @@ In Progress: 0
 | 408 | Fearmonger                 | ✅       | ✅        |
 | 409 | King's Wrath               | ✅       | ✅        |
 | 410 | Queen's Mourning           | ✅       | ✅        |
-| 411 | Toxic Spill                | ✅       | ❌        |
+| 411 | Toxic Spill                | ✅       | ✅        |
 | 412 | Desert Cloak               | ✅       | ❌        |
 | 413 | Draconize                  | ✅       | ❌        |
 | 414 | Pretty Princess            | ✅       | ❌        |
