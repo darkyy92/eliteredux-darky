@@ -1,8 +1,8 @@
 ---
 id: 407
 name: Retribution Blow
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 156
 ---
 
 # Retribution Blow - Ability ID 407
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers with immediate retaliation. 100% accuracy, Normal-type damage with no drawbacks.
+Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. 
 
 ## Detailed Mechanical Explanation
 
