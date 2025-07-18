@@ -445,7 +445,7 @@ In Progress: 0
 | 434 | Elemental Charge           | ✅       | ✅        |
 | 435 | Ambush                     | ✅       | ✅        |
 | 436 | Atlas                      | ✅       | ✅        |
-| 437 | Radiance                   | ✅       | ❌        |
+| 437 | Radiance                   | ✅       | ✅        |
 | 438 | Jaws of Carnage            | ✅       | ❌        |
 | 439 | Angel's Wrath              | ✅       | ❌        |
 | 440 | Prismatic Fur              | ✅       | ❌        |
