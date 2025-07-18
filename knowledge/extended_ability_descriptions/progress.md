@@ -411,7 +411,7 @@ In Progress: 0
 | 400 | Scrapyard                  | ✅       | ✅        |
 | 401 | Loose Quills               | ✅       | ✅        |
 | 402 | Toxic Debris               | ✅       | ✅        |
-| 403 | Roundhouse                 | ✅       | ❌        |
+| 403 | Roundhouse                 | ✅       | ✅        |
 | 404 | Mineralize                 | ✅       | ❌        |
 | 405 | Loose Rocks                | ✅       | ❌        |
 | 406 | Spinning Top               | ✅       | ❌        |

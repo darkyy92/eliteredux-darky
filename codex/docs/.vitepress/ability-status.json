@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 198,
+    "completed": 199,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T13:03:26.546247Z"
+    "generated_at": "2025-07-18T13:04:02.588152Z"
   },
   "abilities": {
     "0": {
@@ -2832,8 +2832,8 @@
       "id": 403,
       "name": "Roundhouse",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "404": {
       "id": 404,
@@ -8560,10 +8560,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "403": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "404": {
       "indicator": "🟠",
