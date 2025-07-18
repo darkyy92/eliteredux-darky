@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 195,
+    "completed": 196,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:30:05.122799Z"
+    "generated_at": "2025-07-18T01:31:24.389178Z"
   },
   "abilities": {
     "0": {
@@ -2811,8 +2811,8 @@
       "id": 400,
       "name": "Scrapyard",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "401": {
       "id": 401,
@@ -8542,10 +8542,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "400": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "401": {
       "indicator": "🟠",
