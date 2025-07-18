@@ -1,8 +1,8 @@
 ---
 id: 435
 name: Ambush
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 103
 ---
 
 # Ambush - Ability ID 435
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ambush guarantees a critical hit on the Pokemon's first turn after switching in or at the start of battle. This powerful ability works with any attacking move, providing immediate offensive pressure. Perfect for hit-and-run tactics and surprise sweeps against unsuspecting opponents.
+Ambush guarantees a critical hit on the user's first turn after switching in or at the start of battle. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
