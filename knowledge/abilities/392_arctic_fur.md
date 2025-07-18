@@ -1,8 +1,8 @@
 ---
 id: 392
 name: Arctic Fur
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 103
 ---
 
 # Arctic Fur - Ability ID 392
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon's dense, cold-resistant fur provides exceptional protection against all incoming attacks. The Arctic Fur's natural insulation and thick density reduces both physical and special damage by 35%, making it one of the most effective universal defensive abilities available.
+Reduces both physical and special damage by 35%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 
