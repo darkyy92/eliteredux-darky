@@ -442,7 +442,7 @@ In Progress: 0
 | 431 | Dune Terror                | ✅       | ✅        |
 | 432 | Infernal Rage              | ✅       | ✅        |
 | 433 | Dual Wield                 | ✅       | ✅        |
-| 434 | Elemental Charge           | ✅       | ❌        |
+| 434 | Elemental Charge           | ✅       | ✅        |
 | 435 | Ambush                     | ✅       | ❌        |
 | 436 | Atlas                      | ✅       | ❌        |
 | 437 | Radiance                   | ✅       | ❌        |
