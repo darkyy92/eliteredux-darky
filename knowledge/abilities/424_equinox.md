@@ -1,8 +1,8 @@
 ---
 id: 424
 name: Equinox
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 214
 ---
 
 # Equinox - Ability ID 424
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Equinox dynamically chooses the higher offensive stat for each attack. If Attack is higher, physical moves use Attack stat. If Special Attack is higher, special moves use Special Attack stat. Provides optimal damage output by always using the stronger offensive stat for every move.
+Equinox chooses the higher offensive stat for each attack. If Attack is higher, physical and special moves use your Attack stat. If Special Attack is higher, physical and special moves use your Special Attack stat.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
