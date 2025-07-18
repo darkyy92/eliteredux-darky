@@ -1,8 +1,8 @@
 ---
 id: 387
 name: Discipline
-status: ai-generated
-character_count: 265
+status: reviewed
+character_count: 193
 ---
 
 # Discipline - Ability ID 387
@@ -13,7 +13,7 @@ character_count: 265
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion.
+Prevents confusion and grants immunity to Intimidation effects. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
