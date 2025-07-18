@@ -1,8 +1,8 @@
 ---
 id: 401
 name: Loose Quills
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 207
 ---
 
 # Loose Quills - Ability ID 401
@@ -13,7 +13,8 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Loose Quills automatically sets a layer of Spikes on the opponent's side when hit by any contact move. Can set up to 3 layers maximum. Each layer deals 12.5%, 16.7%, or 25% of max HP damage when opponents switch in. Perfect for punishing physical attackers and controlling switches.
+Sets a layer of Spikes on the opponent's side when the user is successfully hit by a contact move. Each layer damages switching grounded Pokemon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively. 
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
