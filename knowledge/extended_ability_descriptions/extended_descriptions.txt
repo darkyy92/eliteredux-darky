@@ -1241,7 +1241,7 @@ Riptide boosts Water-type moves by 30% when above 1/3 HP, increasing to 80% when
 Forest Rage boosts the power of all Grass-type moves by 30% when healthy. When the Pokemon drops below 1/3 HP, the multiplier increases to 80%. This ability activates for any move with Grass typing regardless of user's type. Stacks with other damage modifiers.
 
 # ID: 420
-Primal Maw causes all biting moves to hit twice in succession. The first hit deals full damage while the second hit deals 40% damage. Works with any move that has the Strong Jaw flag including Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, and Poison Fang.
+Primal Maw causes all biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
 
 # ID: 421
 Sweeping Edge makes all Keen Edge moves have perfect accuracy and hit both opposing Pokemon in double battles. Keen Edge moves include slicing attacks like Slash, Leaf Blade, Karate Chop, and Dragon Claw. This transforms single-target slicing moves into powerful multi-target attacks.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 212,
+    "completed": 213,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T18:51:12.641852Z"
+    "generated_at": "2025-07-18T18:52:55.911034Z"
   },
   "abilities": {
     "0": {
@@ -2951,8 +2951,8 @@
       "id": 420,
       "name": "Primal Maw",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "421": {
       "id": 421,
@@ -8662,10 +8662,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "420": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "421": {
       "indicator": "🟠",
