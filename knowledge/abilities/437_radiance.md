@@ -1,8 +1,8 @@
 ---
 id: 437
 name: Radiance
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 90
 ---
 
 # Radiance - Ability ID 437
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Radiance increases the Pokemon's accuracy by 20% for all moves and provides complete immunity to Dark-type attacks when the user is present on the field. The accuracy boost applies to all moves used by the Pokemon. Dark-type moves targeting this Pokemon will fail entirely and deal no damage.
+Radiance increases the user's accuracy by 20% for all moves and causes Dark moves to fail. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
