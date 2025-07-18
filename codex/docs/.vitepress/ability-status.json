@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 231,
+    "completed": 232,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:38:34.965749Z"
+    "generated_at": "2025-07-18T23:40:31.215215Z"
   },
   "abilities": {
     "0": {
@@ -3091,8 +3091,8 @@
       "id": 440,
       "name": "Prismatic Fur",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "441": {
       "id": 441,
@@ -8782,10 +8782,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "440": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "441": {
       "indicator": "🟠",

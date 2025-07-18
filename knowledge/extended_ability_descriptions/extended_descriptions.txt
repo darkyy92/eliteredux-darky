@@ -1301,7 +1301,7 @@ Restores 50% max HP when defeating foes with biting moves or 25% with other move
 Tackle Encores+Disables, String Shot sets all hazards, Harden omniboosts by one stage, Iron Defense becomes a King's Shield that drops all stats, Electroweb traps, Bug Bite heals damage dealt, Poison Sting badly poisons+is super-effective on Steel. All enhanced attacks get a large damage boost.
 
 # ID: 440
-Prismatic Fur combines four abilities: changes type to resist attacks (Color Change), changes type to match moves (Protean), halves physical damage (Fur Coat), and halves special damage (Ice Scales). Creates ultimate defensive versatility with type adaptation.
+Changes type to resist attacks before getting hit, changes type to match moves before landing a hit, halves physical damage, and halves special damage. Damage reduction is multiplicative with other sources.
 
 # ID: 441
 Shocking Jaws gives all biting moves exactly a 50% chance to paralyze the target on hit. Affects moves like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Poison Fang, Psychic Fangs, and many others. Paralysis reduces Speed by 50% and causes 25% chance to be unable to move each turn.

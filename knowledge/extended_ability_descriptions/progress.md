@@ -448,7 +448,7 @@ In Progress: 0
 | 437 | Radiance                   | ✅       | ✅        |
 | 438 | Jaws of Carnage            | ✅       | ✅        |
 | 439 | Angel's Wrath              | ✅       | ✅        |
-| 440 | Prismatic Fur              | ✅       | ❌        |
+| 440 | Prismatic Fur              | ✅       | ✅        |
 | 441 | Shocking Jaws              | ✅       | ❌        |
 | 442 | Fae Hunter                 | ✅       | ❌        |
 | 443 | Gravity Well               | ✅       | ❌        |
