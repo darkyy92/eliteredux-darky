@@ -1,8 +1,8 @@
 ---
 id: 413
 name: Draconize
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 125
 ---
 
 # Draconize - Ability ID 413
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Draconize converts all Normal-type moves into Dragon-type moves and grants STAB bonus for Dragon-type attacks. The converted moves receive a 20% power boost from the type change. Perfect for mixed attackers utilizing both Natural moves and Dragon coverage for consistent offensive pressure.
+Converts all Normal-type moves into Dragon-type moves and grants STAB for Dragon-type moves, regardless of the user's typing.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
