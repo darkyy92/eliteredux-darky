@@ -1,8 +1,8 @@
 ---
 id: 406
 name: Spinning Top
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 111
 ---
 
 # Spinning Top - Ability ID 406
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Spinning Top grants +1 Speed and removes all entry hazards from the user's side when using Fighting-type moves. Clears Stealth Rock, Spikes, Toxic Spikes, Sticky Web, Hot Coals, and Caltrops. Both effects activate after landing the Fighting move. Excellent for offensive sweepers.
+Spinning Top grants +1 Speed and removes all entry hazards from the user's side when using Fighting-type moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
