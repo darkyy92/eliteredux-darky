@@ -1304,7 +1304,7 @@ Tackle Encores+Disables, String Shot sets all hazards, Harden omniboosts by one 
 Changes type to resist attacks before getting hit, changes type to match moves before landing a hit, halves physical damage, and halves special damage. Damage reduction is multiplicative with other sources.
 
 # ID: 441
-Shocking Jaws gives all biting moves exactly a 50% chance to paralyze the target on hit. Affects moves like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Poison Fang, Psychic Fangs, and many others. Paralysis reduces Speed by 50% and causes 25% chance to be unable to move each turn.
+Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit.
 
 # ID: 442
 Fae Hunter deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage from Fairy-type attacks. This dual offensive and defensive type effectiveness modification makes it excellent against Fairy-types while providing resistance to their moves. Works on Fairy moves regardless of secondary typing.
