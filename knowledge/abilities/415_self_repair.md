@@ -1,8 +1,8 @@
 ---
 id: 415
 name: Self Repair
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 110
 ---
 
 # Self Repair - Ability ID 415
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Self Repair combines HP restoration and status healing on switch out. Heals HP and cures all status conditions when switching out of battle. Activates with voluntary switches, forced switches, and pivot moves. Does not work if fainted. Perfect for defensive pivots needing full restoration.
+Recovers 1/16th of max HP at the end of the turn and cures all status conditions when switching out of battle. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
