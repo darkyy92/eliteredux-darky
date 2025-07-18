@@ -1,8 +1,8 @@
 ---
 id: 408
 name: Fearmonger
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 177
 ---
 
 # Fearmonger - Ability ID 408
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fearmonger combines Intimidate and Scare effects, lowering both Attack and Special Attack of opposing Pokemon upon entry. Additionally provides a 10% chance to inflict paralysis when making contact moves. Excellent for disrupting offensive threats and setup sweepers with dual intimidation.
+Fearmonger lowers both Attack and Special Attack of opposing Pokemon upon entry by one stage. Additionally provides a 10% chance to inflict paralysis when landing contact moves. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
