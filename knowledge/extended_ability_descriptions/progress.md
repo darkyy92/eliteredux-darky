@@ -401,7 +401,7 @@ In Progress: 0
 | 390 | Mighty Horn                | ✅       | ✅        |
 | 391 | Hardened Sheath            | ✅       | ✅        |
 | 392 | Arctic Fur                 | ✅       | ✅        |
-| 393 | Spectralize                | ✅       | ❌        |
+| 393 | Spectralize                | ✅       | ✅        |
 | 394 | Lethargy                   | ✅       | ❌        |
 | 395 | Iron Barrage               | ✅       | ❌        |
 | 396 | Liquid Voice               | ✅       | ❌        |

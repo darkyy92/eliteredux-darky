@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 188,
+    "completed": 189,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:12:44.601132Z"
+    "generated_at": "2025-07-18T01:15:01.885949Z"
   },
   "abilities": {
     "0": {
@@ -2762,8 +2762,8 @@
       "id": 393,
       "name": "Spectralize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "394": {
       "id": 394,
@@ -8500,10 +8500,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "393": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "394": {
       "indicator": "🟠",

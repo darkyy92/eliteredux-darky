@@ -1160,7 +1160,7 @@ Every successful horn-based attack raises Attack by one stage after it lands.
 Reduces both physical and special damage by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 393
-Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage.
+Converts all Normal-type moves to Ghost-type and grants STAB for Ghost moves, regardless of the user's typing.
 
 # ID: 394
 Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching.
