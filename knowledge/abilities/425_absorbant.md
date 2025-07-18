@@ -1,8 +1,8 @@
 ---
 id: 425
 name: Absorbant
-status: ai-generated
-character_count: 265
+status: reviewed
+character_count: 168
 ---
 
 # Absorbant - Ability ID 425
@@ -13,7 +13,7 @@ character_count: 265
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target. Affects moves like Absorb, Mega Drain, Giga Drain, and Drain Punch. Leech Seed won't apply to Grass-types or already seeded targets. Excellent for sustain-focused strategies.
+Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target on hit, draining the target for 1/8th of their max HP at the end of each turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
