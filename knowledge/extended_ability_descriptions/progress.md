@@ -416,7 +416,7 @@ In Progress: 0
 | 405 | Loose Rocks                | ✅       | ✅        |
 | 406 | Spinning Top               | ✅       | ✅        |
 | 407 | Retribution Blow           | ✅       | ✅        |
-| 408 | Fearmonger                 | ✅       | ❌        |
+| 408 | Fearmonger                 | ✅       | ✅        |
 | 409 | King's Wrath               | ✅       | ❌        |
 | 410 | Queen's Mourning           | ✅       | ❌        |
 | 411 | Toxic Spill                | ✅       | ❌        |

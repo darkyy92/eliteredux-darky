@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 203,
+    "completed": 204,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T13:42:40.093854Z"
+    "generated_at": "2025-07-18T16:53:52.701375Z"
   },
   "abilities": {
     "0": {
@@ -2867,8 +2867,8 @@
       "id": 408,
       "name": "Fearmonger",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "409": {
       "id": 409,
@@ -8590,10 +8590,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "408": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "409": {
       "indicator": "🟠",
