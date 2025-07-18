@@ -1,8 +1,8 @@
 ---
 id: 443
 name: Gravity Well
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 243
 ---
 
 # Gravity Well - Ability ID 443
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Gravity Well automatically sets Gravity field effect on entry for 5 turns. Prevents Flying moves like Bounce, Fly, and Sky Drop while grounding airborne Pokemon including Levitate users. Increases move accuracy and allows Ground moves to hit Flying types for enhanced strategic control.
+Sets Gravity upon entering battle for 5 turns. Gravity prevents levitating moves like Fly; grounds all Pokemon making them vulnerable to Ground moves, Arena Trap, and hazards; boosts Grav Apple's damage by 50%; and boosts move accuracy by 66%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
