@@ -1,8 +1,8 @@
 ---
 id: 414
 name: Pretty Princess
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 96
 ---
 
 # Pretty Princess - Ability ID 414
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pretty Princess increases the Pokemon's attack power by 50% against targets with any stat stage below zero. Triggers against debuffed opponents from moves like Intimidate, Growl, or self-inflicted stat drops. Works with all attack types and stacks with other damage modifiers.
+Pretty Princess increases the user's damage by 50% against targets with any negative stat stage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
