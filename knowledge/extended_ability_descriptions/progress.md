@@ -402,7 +402,7 @@ In Progress: 0
 | 391 | Hardened Sheath            | ✅       | ✅        |
 | 392 | Arctic Fur                 | ✅       | ✅        |
 | 393 | Spectralize                | ✅       | ✅        |
-| 394 | Lethargy                   | ✅       | ❌        |
+| 394 | Lethargy                   | ✅       | ✅        |
 | 395 | Iron Barrage               | ✅       | ❌        |
 | 396 | Liquid Voice               | ✅       | ❌        |
 | 397 | Pyro Shells                | ✅       | ❌        |

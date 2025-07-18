@@ -1163,7 +1163,7 @@ Reduces both physical and special damage by 35%. Multiplicative with other sourc
 Converts all Normal-type moves to Ghost-type and grants STAB for Ghost moves, regardless of the user's typing.
 
 # ID: 394
-Resets all stat changes on entry, then severely reduces offensive power for 5 turns. Damage gradually increases from 20% to full: 20% (turns 1-2), 40% (turn 3), 60% (turn 4), 80% (turn 5), then normal damage. Reactivates on switching.
+Reduces the user's total damage by 20% at the start of each turn, capping at -80%. Resets after switching.
 
 # ID: 395
 Iron Barrage turns the user into a precision artillery platform, combining a 30% damage boost to projectile moves with perfect accuracy on ALL attacks. Low-accuracy moves (below 80%) suffer -3 priority as a trade-off. This powerful combination excels on Pokemon with diverse projectile movepools.

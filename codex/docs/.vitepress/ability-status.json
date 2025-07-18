@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 189,
+    "completed": 190,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:15:01.885949Z"
+    "generated_at": "2025-07-18T01:17:24.022178Z"
   },
   "abilities": {
     "0": {
@@ -2769,8 +2769,8 @@
       "id": 394,
       "name": "Lethargy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "395": {
       "id": 395,
@@ -8506,10 +8506,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "394": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "395": {
       "indicator": "🟠",
