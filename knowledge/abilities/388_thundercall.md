@@ -1,7 +1,7 @@
 ---
 id: 388
 name: Thundercall
-status: ai-generated
+status: reviewed
 character_count: 271
 ---
 
