@@ -1,8 +1,8 @@
 ---
 id: 393
 name: Spectralize
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 110
 ---
 
 # Spectralize - Ability ID 393
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Spectralize transforms all Normal-type attacking moves into Ghost-type moves and grants Ghost STAB regardless of natural typing. This allows non-Ghost types to hit Fighting and Psychic types super-effectively with moves like Body Slam and Hyper Voice while gaining powerful Ghost coverage.
+Converts all Normal-type moves to Ghost-type and grants STAB for Ghost moves, regardless of the user's typing.
 
 ## Technical Implementation Details
 *From `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc` lines 3983-3985*
