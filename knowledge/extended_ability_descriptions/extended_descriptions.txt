@@ -1226,7 +1226,7 @@ Converts all Normal-type moves into Dragon-type moves and grants STAB for Dragon
 Pretty Princess increases the user's damage by 50% against targets with any negative stat stage.
 
 # ID: 415
-Self Repair combines HP restoration and status healing on switch out. Heals HP and cures all status conditions when switching out of battle. Activates with voluntary switches, forced switches, and pivot moves. Does not work if fainted. Perfect for defensive pivots needing full restoration.
+Recovers 1/16th of max HP at the end of the turn and cures all status conditions when switching out of battle.
 
 # ID: 416
 When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with 1.2x power boost and grant STAB if the user is Electric-type. Charged status is consumed after one Electric move use.

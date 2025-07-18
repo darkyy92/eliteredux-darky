@@ -423,7 +423,7 @@ In Progress: 0
 | 412 | Desert Cloak               | ✅       | ✅        |
 | 413 | Draconize                  | ✅       | ✅        |
 | 414 | Pretty Princess            | ✅       | ✅        |
-| 415 | Self Repair                | ✅       | ❌        |
+| 415 | Self Repair                | ✅       | ✅        |
 | 416 | Atomic Burst               | ✅       | ❌        |
 | 417 | Hellblaze                  | ✅       | ❌        |
 | 418 | Riptide                    | ✅       | ❌        |
