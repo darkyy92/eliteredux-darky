@@ -1,8 +1,8 @@
 ---
 id: 398
 name: Fungal Infection
-status: ai-generated
-character_count: 255
+status: reviewed
+character_count: 108
 ---
 
 # Fungal Infection - Ability ID 398
@@ -13,7 +13,7 @@ character_count: 255
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon makes physical contact with an opponent, spores infect the target and begin draining health each turn. The parasitic infection saps 1/8 of the victim's max HP and transfers it to the attacker, creating a constant drain that weakens foes.
+Spreads Leech Seed when using a contact move, draining 1/8th of the target's max HP at the end of each turn.
 
 ## Detailed Mechanical Explanation
 
