@@ -1250,7 +1250,7 @@ Sweeping Edge makes all Keen Edge moves have never miss and hit both opposing Po
 Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokemon never miss. This immunity ignores Inverse Room.   *For Discord/reference use*
 
 # ID: 423
-Hydro Circuit boosts Electric-type moves by 50% and heals the user for 25% of damage dealt when using Water-type moves. Both effects work simultaneously on Water/Electric attacks. Healing requires the target not be at full HP and can heal the user. Great for dual-type coverage.
+Hydro Circuit boosts Electric-type moves by 50% and heals the user for 25% of damage dealt when using Water-type moves.
 
 # ID: 424
 Equinox dynamically chooses the higher offensive stat for each attack. If Attack is higher, physical moves use Attack stat. If Special Attack is higher, special moves use Special Attack stat. Provides optimal damage output by always using the stronger offensive stat for every move.
