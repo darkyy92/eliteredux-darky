@@ -1190,7 +1190,7 @@ Sets a layer of Spikes on the opponent's side when the user is successfully hit 
 Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side when hit by a contact move. Each layer poisons switching grounded Pokemon: one layer causes regular poison, two layers cause badly poisoned. Each hit of a multihitting attack sets a layer.
 
 # ID: 403
-Roundhouse makes all kicking moves never miss and target the opponent's weaker defense stat. Kick moves with striker boost gain perfect accuracy and automatically hit Defense or Special Defense, whichever is lower. This ability transforms unreliable kicks into devastating attacks.
+Roundhouse makes all kicking moves never miss and target the opponent's weaker defense stat.
 
 # ID: 404
 Mineralize converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type attacks. This -ate ability provides a 1.2x damage boost to converted moves. All Normal moves become Rock moves before type effectiveness, gaining super-effective damage against Bug, Fire, Flying, and Ice.
