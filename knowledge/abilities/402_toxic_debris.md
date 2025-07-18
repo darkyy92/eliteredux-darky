@@ -1,8 +1,8 @@
 ---
 id: 402
 name: Toxic Debris
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 267
 ---
 
 # Toxic Debris - Ability ID 402
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side when hit by any contact move. Each layer poisons switching Pokemon: one layer causes regular poison, two layers cause badly poisoned. Maximum of two layers possible. Excellent for passive hazard control and chip damage.
+Toxic Debris automatically sets a layer of Toxic Spikes on the opponent's side when hit by a contact move. Each layer poisons switching grounded Pokemon: one layer causes regular poison, two layers cause badly poisoned. Each hit of a multihitting attack sets a layer.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
