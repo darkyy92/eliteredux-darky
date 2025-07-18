@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 181,
+    "completed": 182,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-17T23:52:54.873024Z"
+    "generated_at": "2025-07-18T00:49:27.246386Z"
   },
   "abilities": {
     "0": {
@@ -2713,8 +2713,8 @@
       "id": 386,
       "name": "Spectral Shroud",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "387": {
       "id": 387,
@@ -8458,10 +8458,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "386": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "387": {
       "indicator": "🟠",

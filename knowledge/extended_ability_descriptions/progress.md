@@ -394,7 +394,7 @@ In Progress: 0
 | 383 | Cold Rebound               | ✅       | ✅        |
 | 384 | Low Blow                   | ✅       | ✅        |
 | 385 | Air Lock                   | ✅       | ✅        |
-| 386 | Spectral Shroud            | ✅       | ❌        |
+| 386 | Spectral Shroud            | ✅       | ✅        |
 | 387 | Discipline                 | ✅       | ❌        |
 | 388 | Thundercall                | ✅       | ❌        |
 | 389 | Marine Apex                | ✅       | ❌        |

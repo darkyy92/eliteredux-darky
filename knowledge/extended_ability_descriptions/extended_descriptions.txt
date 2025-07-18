@@ -1139,7 +1139,7 @@ Low Blow uses a 40 BP Feint Attack when switching in, targeting a random opponen
 Clears weather on switch-in. While active, blocks all weather effects: no damage modifiers, no chip damage, no accuracy changes, prevents Aurora Veil, etc. Weather can be set but provides no benefits. Works on primal weather.
 
 # ID: 386
-Converts Normal-type moves to Ghost-type, gaining STAB and enhanced power boost. All Ghost-type moves (including converted ones) have 30% chance to badly poison targets after dealing damage. Combines offensive type conversion with dangerous poison status pressure that escalates over time.
+Converts all Normal-type moves into Ghost-type moves and grants STAB for Ghost-type moves, regardless of the user's typing. All Ghost-type moves have a 30% chance to badly poison targets after dealing damage.
 
 # ID: 387
 Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion.
