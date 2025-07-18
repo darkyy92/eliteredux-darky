@@ -1,8 +1,8 @@
 ---
 id: 430
 name: Volt Rush
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 87
 ---
 
 # Volt Rush - Ability ID 430
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP. Works with all Electric moves including special and physical attacks. Priority is lost immediately when HP drops below maximum. Returns when HP is restored to full through healing moves or items.
+Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
