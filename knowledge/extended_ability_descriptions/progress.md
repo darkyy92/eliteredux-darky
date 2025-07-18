@@ -434,7 +434,7 @@ In Progress: 0
 | 423 | Hydro Circuit              | ✅       | ✅        |
 | 424 | Equinox                    | ✅       | ✅        |
 | 425 | Absorbant                  | ✅       | ✅        |
-| 426 | Clueless                   | ✅       | ❌        |
+| 426 | Clueless                   | ✅       | ✅        |
 | 427 | Cheating Death             | ✅       | ❌        |
 | 428 | Cheap Tactics              | ✅       | ❌        |
 | 429 | Coward                     | ✅       | ❌        |
