@@ -409,7 +409,7 @@ In Progress: 0
 | 398 | Fungal Infection           | ✅       | ✅        |
 | 399 | Parry                      | ✅       | ✅        |
 | 400 | Scrapyard                  | ✅       | ✅        |
-| 401 | Loose Quills               | ✅       | ❌        |
+| 401 | Loose Quills               | ✅       | ✅        |
 | 402 | Toxic Debris               | ✅       | ❌        |
 | 403 | Roundhouse                 | ✅       | ❌        |
 | 404 | Mineralize                 | ✅       | ❌        |
