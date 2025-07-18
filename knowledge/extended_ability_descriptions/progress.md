@@ -422,7 +422,7 @@ In Progress: 0
 | 411 | Toxic Spill                | ✅       | ✅        |
 | 412 | Desert Cloak               | ✅       | ✅        |
 | 413 | Draconize                  | ✅       | ✅        |
-| 414 | Pretty Princess            | ✅       | ❌        |
+| 414 | Pretty Princess            | ✅       | ✅        |
 | 415 | Self Repair                | ✅       | ❌        |
 | 416 | Atomic Burst               | ✅       | ❌        |
 | 417 | Hellblaze                  | ✅       | ❌        |

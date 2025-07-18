@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 209,
+    "completed": 210,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T18:19:38.817306Z"
+    "generated_at": "2025-07-18T18:47:40.496126Z"
   },
   "abilities": {
     "0": {
@@ -2909,8 +2909,8 @@
       "id": 414,
       "name": "Pretty Princess",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "415": {
       "id": 415,
@@ -8626,10 +8626,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "414": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "415": {
       "indicator": "🟠",

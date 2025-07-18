@@ -1223,7 +1223,7 @@ All allies become immune to status conditions and secondary effects from enemy m
 Converts all Normal-type moves into Dragon-type moves and grants STAB for Dragon-type moves, regardless of the user's typing.
 
 # ID: 414
-Pretty Princess increases the Pokemon's attack power by 50% against targets with any stat stage below zero. Triggers against debuffed opponents from moves like Intimidate, Growl, or self-inflicted stat drops. Works with all attack types and stacks with other damage modifiers.
+Pretty Princess increases the user's damage by 50% against targets with any negative stat stage.
 
 # ID: 415
 Self Repair combines HP restoration and status healing on switch out. Heals HP and cures all status conditions when switching out of battle. Activates with voluntary switches, forced switches, and pivot moves. Does not work if fainted. Perfect for defensive pivots needing full restoration.
