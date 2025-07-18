@@ -1,8 +1,8 @@
 ---
 id: 421
 name: Sweeping Edge
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 155
 ---
 
 # Sweeping Edge - Ability ID 421
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sweeping Edge makes all Keen Edge moves have perfect accuracy and hit both opposing Pokemon in double battles. Keen Edge moves include slicing attacks like Slash, Leaf Blade, Karate Chop, and Dragon Claw. This transforms single-target slicing moves into powerful multi-target attacks.
+Sweeping Edge makes all Keen Edge moves have never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
