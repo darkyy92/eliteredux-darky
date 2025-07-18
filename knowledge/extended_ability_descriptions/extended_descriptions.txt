@@ -1172,7 +1172,7 @@ Boosts pulse, beam, ball, and aura moves by 30%. Guarantees all moves hit regard
 Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type.
 
 # ID: 397
-Pyro Shells adds explosive aftermath to beam and pulse attacks, triggering a 50 BP Normal-type Outburst follow-up after any Mega Launcher-boosted move. This secondary explosion hits immediately after the initial attack without causing self-damage, creating devastating double strikes.
+Pyro Shells triggers a 50 BP Normal-type Outburst after any Mega Launcher-boosted move. Outburst has no secondary effects and hits all surrounding Pokemon on the field.
 
 # ID: 398
 When this Pokemon makes physical contact with an opponent, spores infect the target and begin draining health each turn. The parasitic infection saps 1/8 of the victim's max HP and transfers it to the attacker, creating a constant drain that weakens foes.

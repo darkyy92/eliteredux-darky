@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 192,
+    "completed": 193,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:23:57.653891Z"
+    "generated_at": "2025-07-18T01:25:46.066704Z"
   },
   "abilities": {
     "0": {
@@ -2790,8 +2790,8 @@
       "id": 397,
       "name": "Pyro Shells",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "398": {
       "id": 398,
@@ -8524,10 +8524,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "397": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "398": {
       "indicator": "🟠",
