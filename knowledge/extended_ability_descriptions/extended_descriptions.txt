@@ -1313,7 +1313,7 @@ Deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage when attacked by F
 Sets Gravity upon entering battle for 5 turns. Gravity prevents levitating moves like Fly; grounds all Pokemon making them vulnerable to Ground moves, Arena Trap, and hazards; boosts Grav Apple's damage by 50%; and boosts move accuracy by 66%.
 
 # ID: 444
-Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions. Only activates if Mist is not already active. Perfect counter to Water attacks and stat-lowering moves.
+Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions, including self drops.
 
 # ID: 445
 Lumberjack deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage from Grass-type attacks. Both offensive and defensive effects activate against any Pokemon with Grass typing, including dual-types. Perfect for countering Grass-heavy teams and walls. Also affects Forest Curse victims.

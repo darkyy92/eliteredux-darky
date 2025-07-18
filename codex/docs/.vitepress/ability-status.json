@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 235,
+    "completed": 236,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:47:06.497186Z"
+    "generated_at": "2025-07-18T23:48:26.591586Z"
   },
   "abilities": {
     "0": {
@@ -3119,8 +3119,8 @@
       "id": 444,
       "name": "Evaporate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "445": {
       "id": 445,
@@ -8806,10 +8806,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "444": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "445": {
       "indicator": "🟠",

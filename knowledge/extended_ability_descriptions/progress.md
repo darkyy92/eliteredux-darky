@@ -452,7 +452,7 @@ In Progress: 0
 | 441 | Shocking Jaws              | ✅       | ✅        |
 | 442 | Fae Hunter                 | ✅       | ✅        |
 | 443 | Gravity Well               | ✅       | ✅        |
-| 444 | Evaporate                  | ✅       | ❌        |
+| 444 | Evaporate                  | ✅       | ✅        |
 | 445 | Lumberjack                 | ✅       | ❌        |
 | 446 | Well Baked Body            | ✅       | ❌        |
 | 447 | Furnace                    | ✅       | ❌        |
