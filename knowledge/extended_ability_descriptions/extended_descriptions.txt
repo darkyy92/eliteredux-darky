@@ -1199,7 +1199,7 @@ Converts all Normal-type moves into Rock-type moves and grants STAB for Rock-typ
 Set Stealth Rock on the opponent's side when the user is hit by any contact move. Stealth Rock deals 1/8th of the opponent's max HP when switching. Considered Rock-type damage and is modified by type effectiveness.
 
 # ID: 406
-Spinning Top grants +1 Speed and removes all entry hazards from the user's side when using Fighting-type moves. Clears Stealth Rock, Spikes, Toxic Spikes, Sticky Web, Hot Coals, and Caltrops. Both effects activate after landing the Fighting move. Excellent for offensive sweepers.
+Spinning Top grants +1 Speed and removes all entry hazards from the user's side when using Fighting-type moves.
 
 # ID: 407
 Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers with immediate retaliation. 100% accuracy, Normal-type damage with no drawbacks.

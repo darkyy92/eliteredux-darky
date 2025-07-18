@@ -414,7 +414,7 @@ In Progress: 0
 | 403 | Roundhouse                 | ✅       | ✅        |
 | 404 | Mineralize                 | ✅       | ✅        |
 | 405 | Loose Rocks                | ✅       | ✅        |
-| 406 | Spinning Top               | ✅       | ❌        |
+| 406 | Spinning Top               | ✅       | ✅        |
 | 407 | Retribution Blow           | ✅       | ❌        |
 | 408 | Fearmonger                 | ✅       | ❌        |
 | 409 | King's Wrath               | ✅       | ❌        |
