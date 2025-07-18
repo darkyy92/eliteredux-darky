@@ -406,7 +406,7 @@ In Progress: 0
 | 395 | Iron Barrage               | ✅       | ✅        |
 | 396 | Liquid Voice               | ✅       | ✅        |
 | 397 | Pyro Shells                | ✅       | ✅        |
-| 398 | Fungal Infection           | ✅       | ❌        |
+| 398 | Fungal Infection           | ✅       | ✅        |
 | 399 | Parry                      | ✅       | ❌        |
 | 400 | Scrapyard                  | ✅       | ❌        |
 | 401 | Loose Quills               | ✅       | ❌        |

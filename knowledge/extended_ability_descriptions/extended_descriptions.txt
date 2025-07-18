@@ -1175,7 +1175,7 @@ Sound-based moves receive a 1.2x power boost and Normal-type sound moves are con
 Pyro Shells triggers a 50 BP Normal-type Outburst after any Mega Launcher-boosted move. Outburst has no secondary effects and hits all surrounding Pokemon on the field.
 
 # ID: 398
-When this Pokemon makes physical contact with an opponent, spores infect the target and begin draining health each turn. The parasitic infection saps 1/8 of the victim's max HP and transfers it to the attacker, creating a constant drain that weakens foes.
+Spreads Leech Seed when using a contact move, draining 1/8th of the target's max HP at the end of each turn.
 
 # ID: 399
 Parry reduces all damage by 20% while automatically countering contact moves with priority Mach Punch (40 BP Fighting-type, +1 priority). This dual ability excels on bulky Pokemon that leverage both defensive staying power and offensive pressure. Works on all incoming damage types.
