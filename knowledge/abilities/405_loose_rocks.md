@@ -1,8 +1,8 @@
 ---
 id: 405
 name: Loose Rocks
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 214
 ---
 
 # Loose Rocks - Ability ID 405
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Loose Rocks deploys Stealth Rock entry hazards on the opponent's side when the Pokemon is hit by any contact move. Only triggers once per battle per side. Does not activate if opponent already has Stealth Rock up. Punishes physical attackers and discourages switching.
+Set Stealth Rock on the opponent's side when the user is hit by any contact move. Stealth Rock deals 1/8th of the opponent's max HP when switching. Considered Rock-type damage and is modified by type effectiveness. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
