@@ -1229,7 +1229,7 @@ Pretty Princess increases the user's damage by 50% against targets with any nega
 Recovers 1/16th of max HP at the end of the turn and cures all status conditions when switching out of battle.
 
 # ID: 416
-When hit by any move, becomes charged up, doubling the power of the next Electric-type move used. Additionally, all Normal-type moves become Electric-type moves with 1.2x power boost and grant STAB if the user is Electric-type. Charged status is consumed after one Electric move use.
+When hit by any move, the user becomes charged up, doubling the power of the next Electric-type move used. Converts all Normal-type moves into Electric-type moves and grants STAB for Electric-type moves, regardless of the user's typing. Charged status is consumed after one Electric move use.
 
 # ID: 417
 Hellblaze empowers Fire-type moves with a 1.3x damage boost normally, increasing to a powerful 1.8x boost when the Pokemon drops below 1/3 of its maximum HP. This ability excels in clutch situations, turning low HP into devastating firepower. Essential for Fire sweepers and revenge killers.

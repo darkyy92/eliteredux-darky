@@ -424,7 +424,7 @@ In Progress: 0
 | 413 | Draconize                  | ✅       | ✅        |
 | 414 | Pretty Princess            | ✅       | ✅        |
 | 415 | Self Repair                | ✅       | ✅        |
-| 416 | Atomic Burst               | ✅       | ❌        |
+| 416 | Atomic Burst               | ✅       | ✅        |
 | 417 | Hellblaze                  | ✅       | ❌        |
 | 418 | Riptide                    | ✅       | ❌        |
 | 419 | Forest Rage                | ✅       | ❌        |
