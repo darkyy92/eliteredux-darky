@@ -1,8 +1,8 @@
 ---
 id: 426
 name: Clueless
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 82
 ---
 
 # Clueless - Ability ID 426
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Clueless negates all weather, terrain, and room effects while active on the field. Blocks sun, rain, sandstorm, hail, and all terrain types. Prevents Trick Room, Wonder Room, Magic Room, Inverse Room, and Gravity. Provides complete immunity to field-altering effects and environmental conditions.
+Clueless negates all weather, terrain, and room effects while active on the field. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
