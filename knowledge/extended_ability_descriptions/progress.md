@@ -453,7 +453,7 @@ In Progress: 0
 | 442 | Fae Hunter                 | ✅       | ✅        |
 | 443 | Gravity Well               | ✅       | ✅        |
 | 444 | Evaporate                  | ✅       | ✅        |
-| 445 | Lumberjack                 | ✅       | ❌        |
+| 445 | Lumberjack                 | ✅       | ✅        |
 | 446 | Well Baked Body            | ✅       | ❌        |
 | 447 | Furnace                    | ✅       | ❌        |
 | 448 | Electromorphosis           | ✅       | ❌        |

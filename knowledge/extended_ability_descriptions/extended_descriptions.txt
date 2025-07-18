@@ -1316,7 +1316,7 @@ Sets Gravity upon entering battle for 5 turns. Gravity prevents levitating moves
 Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions, including self drops.
 
 # ID: 445
-Lumberjack deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage from Grass-type attacks. Both offensive and defensive effects activate against any Pokemon with Grass typing, including dual-types. Perfect for countering Grass-heavy teams and walls. Also affects Forest Curse victims.
+Deals 1.5x damage to Grass-type Pokemon and takes 0.5x damage when attacked by Grass-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 # ID: 446
 Well Baked Body grants immunity to Fire-type moves while boosting Defense by 2 stages when hit by Fire attacks. The ability completely negates Fire damage and provides immediate +50% defense boost. Excellent for pivoting into Fire moves and building defensive momentum against opposing teams.
