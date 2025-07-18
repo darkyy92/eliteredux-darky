@@ -1271,7 +1271,7 @@ Cheap Tactics uses Scratch (40 BP Normal physical move) targeting a random oppon
 Coward automatically activates Protect on entry. Works once per battle.
 
 # ID: 430
-Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP. Works with all Electric moves including special and physical attacks. Priority is lost immediately when HP drops below maximum. Returns when HP is restored to full through healing moves or items.
+Volt Rush grants +1 priority to all Electric-type moves when the Pokemon is at full HP.
 
 # ID: 431
 Dune Terror reduces damage taken by 35% during sandstorm weather and boosts Ground-type moves by 20%. Works with all forms of sandstorm including regular sandstorm and enhanced variants. The damage reduction applies to all incoming attacks while Ground-type boost remains active in sandstorms.

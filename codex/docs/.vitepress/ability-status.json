@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 221,
+    "completed": 222,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T19:21:58.329930Z"
+    "generated_at": "2025-07-18T19:22:18.166401Z"
   },
   "abilities": {
     "0": {
@@ -3021,8 +3021,8 @@
       "id": 430,
       "name": "Volt Rush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "431": {
       "id": 431,
@@ -8722,10 +8722,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "430": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "431": {
       "indicator": "🟠",

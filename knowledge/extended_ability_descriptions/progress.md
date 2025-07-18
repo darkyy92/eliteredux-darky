@@ -438,7 +438,7 @@ In Progress: 0
 | 427 | Cheating Death             | ✅       | ❌        |
 | 428 | Cheap Tactics              | ✅       | ✅        |
 | 429 | Coward                     | ✅       | ✅        |
-| 430 | Volt Rush                  | ✅       | ❌        |
+| 430 | Volt Rush                  | ✅       | ✅        |
 | 431 | Dune Terror                | ✅       | ❌        |
 | 432 | Infernal Rage              | ✅       | ❌        |
 | 433 | Dual Wield                 | ✅       | ❌        |
