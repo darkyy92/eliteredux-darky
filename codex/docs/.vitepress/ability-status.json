@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 214,
+    "completed": 215,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T18:57:55.238451Z"
+    "generated_at": "2025-07-18T18:59:05.529674Z"
   },
   "abilities": {
     "0": {
@@ -2965,8 +2965,8 @@
       "id": 422,
       "name": "Gifted Mind",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "423": {
       "id": 423,
@@ -8674,10 +8674,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "422": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "423": {
       "indicator": "🟠",
