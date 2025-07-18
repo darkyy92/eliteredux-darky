@@ -1,8 +1,8 @@
 ---
 id: 391
 name: Hardened Sheath
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 77
 ---
 
 # Hardened Sheath - Ability ID 391
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hardened Sheath transforms every successful horn-based attack into an opportunity for growth, raising Attack by one stage each time a horn move connects. Compatible with moves like Horn Attack, Megahorn, Drill Peck, Zen Headbutt, and many Elite Redux custom horn moves.
+Every successful horn-based attack raises Attack by one stage after it lands.
 
 ## Detailed Mechanical Explanation
 
