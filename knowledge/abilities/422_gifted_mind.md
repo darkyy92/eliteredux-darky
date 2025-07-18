@@ -1,8 +1,8 @@
 ---
 id: 422
 name: Gifted Mind
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 191
 ---
 
 # Gifted Mind - Ability ID 422
@@ -13,9 +13,8 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokemon never miss. These three types are the primary weaknesses of Psychic-types, providing defensive immunity alongside perfect accuracy for utility moves.
+Gifted Mind grants immunity to Dark, Ghost, and Bug-type moves while making all status moves used by this Pokemon never miss. This immunity ignores Inverse Room. 
 
-## Detailed Mechanical Explanation
 *For Discord/reference use*
 
 ### Core Mechanics
