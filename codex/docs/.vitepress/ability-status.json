@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 219,
+    "completed": 220,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T19:05:16.111267Z"
+    "generated_at": "2025-07-18T19:08:16.346864Z"
   },
   "abilities": {
     "0": {
@@ -3007,8 +3007,8 @@
       "id": 428,
       "name": "Cheap Tactics",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "429": {
       "id": 429,
@@ -8710,10 +8710,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "428": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "429": {
       "indicator": "🟠",

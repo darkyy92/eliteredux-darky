@@ -436,7 +436,7 @@ In Progress: 0
 | 425 | Absorbant                  | ✅       | ✅        |
 | 426 | Clueless                   | ✅       | ✅        |
 | 427 | Cheating Death             | ✅       | ❌        |
-| 428 | Cheap Tactics              | ✅       | ❌        |
+| 428 | Cheap Tactics              | ✅       | ✅        |
 | 429 | Coward                     | ✅       | ❌        |
 | 430 | Volt Rush                  | ✅       | ❌        |
 | 431 | Dune Terror                | ✅       | ❌        |

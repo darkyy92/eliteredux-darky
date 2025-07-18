@@ -1265,7 +1265,7 @@ Clueless negates all weather, terrain, and room effects while active on the fiel
 Negates all damage for the first 2 hits received. Works exactly like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards.
 
 # ID: 428
-Cheap Tactics automatically uses Scratch (40 BP Normal physical move) targeting a random opponent when switching into battle. This entry attack has 100% accuracy and provides immediate offensive pressure. Cannot be prevented by most protective moves and activates before any other entry effects.
+Cheap Tactics uses Scratch (40 BP Normal physical move) targeting a random opponent when switching into battle.
 
 # ID: 429
 Coward automatically activates Protect on switch-in, providing complete immunity to attacks, status moves, and damage for one full turn. This protection only works once per battle entry, making it a powerful but limited defensive tool for fragile Pokemon or setting up strategies.
