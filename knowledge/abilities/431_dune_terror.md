@@ -1,8 +1,8 @@
 ---
 id: 431
 name: Dune Terror
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 150
 ---
 
 # Dune Terror - Ability ID 431
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dune Terror reduces damage taken by 35% during sandstorm weather and boosts Ground-type moves by 20%. Works with all forms of sandstorm including regular sandstorm and enhanced variants. The damage reduction applies to all incoming attacks while Ground-type boost remains active in sandstorms.
+Dune Terror reduces damage taken by 35% during a sandstorm and boosts Ground-type moves by 20%. Damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
