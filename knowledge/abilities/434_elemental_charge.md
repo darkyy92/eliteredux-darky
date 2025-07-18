@@ -1,8 +1,8 @@
 ---
 id: 434
 name: Elemental Charge
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 186
 ---
 
 # Elemental Charge - Ability ID 434
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Elemental Charge gives attacking moves a 20% chance to inflict status conditions based on move type: Electric moves cause paralysis, Fire moves cause burn, and Ice moves cause frostbite. Only affects moves that deal damage to the target. Works with any damaging move of the three types.
+Elemental Charge gives attacking moves a 20% chance to inflict status conditions based on move type: Electric moves cause paralysis, Fire moves cause burn, and Ice moves cause frostbite. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
