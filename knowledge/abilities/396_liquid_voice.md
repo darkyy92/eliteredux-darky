@@ -1,8 +1,8 @@
 ---
 id: 396
 name: Liquid Voice
-status: ai-generated
-character_count: 234
+status: reviewed
+character_count: 101
 ---
 
 # Liquid Voice - Ability ID 396
@@ -13,7 +13,7 @@ character_count: 234
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type. This ability enhances vocal attacks through aquatic resonance, making sound-based strategies more versatile and effective in combat.
+Sound-based moves receive a 1.2x power boost and Normal-type sound moves are converted to Water-type.
 
 ## Detailed Mechanical Explanation
 
