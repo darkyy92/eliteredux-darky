@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 229,
+    "completed": 230,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:24:10.697580Z"
+    "generated_at": "2025-07-18T23:25:29.218632Z"
   },
   "abilities": {
     "0": {
@@ -3077,8 +3077,8 @@
       "id": 438,
       "name": "Jaws of Carnage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "439": {
       "id": 439,
@@ -8770,10 +8770,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "438": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "439": {
       "indicator": "🟠",

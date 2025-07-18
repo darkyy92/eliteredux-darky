@@ -1295,7 +1295,7 @@ Atlas sets Gravity upon entering battle for 8 turns. Gravity prevents levitating
 Radiance increases the user's accuracy by 20% for all moves and causes Dark moves to fail.
 
 # ID: 438
-Jaws of Carnage heals the Pokemon when it defeats an opponent. Restores 50% max HP when defeating foes with biting moves (Thunder Fang, Crunch, etc.) or 25% with other moves. Works only when not at full HP. Powerful ability for sustained battles and sweeping teams.
+Restores 50% max HP when defeating foes with biting moves or 25% with other moves. Only activates when knocking out a target with a direct hit.
 
 # ID: 439
 Angel's Wrath completely transforms six basic moves into powerful variants with unique effects. Tackle gains Encore+Disable, String Shot sets all entry hazards, Harden boosts all stats except Defense, Iron Defense grants protection, Electroweb traps and minimizes Speed, Bug Bite heals damage dealt.
