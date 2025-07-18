@@ -1,8 +1,8 @@
 ---
 id: 429
 name: Coward
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 71
 ---
 
 # Coward - Ability ID 429
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Coward automatically activates Protect on switch-in, providing complete immunity to attacks, status moves, and damage for one full turn. This protection only works once per battle entry, making it a powerful but limited defensive tool for fragile Pokemon or setting up strategies.
+Coward automatically activates Protect on entry. Works once per battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
