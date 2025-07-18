@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 182,
+    "completed": 183,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T00:49:27.246386Z"
+    "generated_at": "2025-07-18T00:54:46.274515Z"
   },
   "abilities": {
     "0": {
@@ -2720,8 +2720,8 @@
       "id": 387,
       "name": "Discipline",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "388": {
       "id": 388,
@@ -8464,10 +8464,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "387": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "388": {
       "indicator": "🟠",

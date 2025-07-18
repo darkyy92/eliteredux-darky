@@ -1142,7 +1142,7 @@ Clears weather on switch-in. While active, blocks all weather effects: no damage
 Converts all Normal-type moves into Ghost-type moves and grants STAB for Ghost-type moves, regardless of the user's typing. All Ghost-type moves have a 30% chance to badly poison targets after dealing damage.
 
 # ID: 387
-Prevents confusion and grants immunity to intimidation effects like Taunt. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue. After 3 turns, the lock naturally expires without confusion.
+Prevents confusion and grants immunity to Intimidation effects. When using rampage moves like Thrash or Outrage, allows switching out during the lock period instead of being forced to continue.
 
 # ID: 388
 After using any Electric-type move, Thundercall automatically triggers a follow-up Smite attack at 20% power (24 base power). This physical Electric attack has an 80% accuracy, can paralyze targets (20% chance), and applies the Smack Down effect - grounding Flying-types.
