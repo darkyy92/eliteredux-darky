@@ -1310,7 +1310,7 @@ Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit.
 Deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage when attacked by Fairy-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 # ID: 443
-Gravity Well automatically sets Gravity field effect on entry for 5 turns. Prevents Flying moves like Bounce, Fly, and Sky Drop while grounding airborne Pokemon including Levitate users. Increases move accuracy and allows Ground moves to hit Flying types for enhanced strategic control.
+Sets Gravity upon entering battle for 5 turns. Gravity prevents levitating moves like Fly; grounds all Pokemon making them vulnerable to Ground moves, Arena Trap, and hazards; boosts Grav Apple's damage by 50%; and boosts move accuracy by 66%.
 
 # ID: 444
 Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions. Only activates if Mist is not already active. Perfect counter to Water attacks and stat-lowering moves.
