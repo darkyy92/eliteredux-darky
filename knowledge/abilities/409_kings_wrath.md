@@ -1,8 +1,8 @@
 ---
 id: 409
 name: King's Wrath
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 174
 ---
 
 # King's Wrath - Ability ID 409
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-King's Wrath triggers when any ally on the same side has their stats lowered, immediately boosting the user's Attack and Defense by one stage each. Works in both singles and doubles battles. Activates from enemy stat-lowering moves, abilities, or items affecting any teammate.
+King's Wrath triggers when the user or their ally has their stats lowered, immediately boosting the user's Attack and Defense by one stage. Does not activate from self drops.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
