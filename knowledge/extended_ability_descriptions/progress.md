@@ -410,7 +410,7 @@ In Progress: 0
 | 399 | Parry                      | ✅       | ✅        |
 | 400 | Scrapyard                  | ✅       | ✅        |
 | 401 | Loose Quills               | ✅       | ✅        |
-| 402 | Toxic Debris               | ✅       | ❌        |
+| 402 | Toxic Debris               | ✅       | ✅        |
 | 403 | Roundhouse                 | ✅       | ❌        |
 | 404 | Mineralize                 | ✅       | ❌        |
 | 405 | Loose Rocks                | ✅       | ❌        |
