@@ -1256,7 +1256,7 @@ Hydro Circuit boosts Electric-type moves by 50% and heals the user for 25% of da
 Equinox chooses the higher offensive stat for each attack. If Attack is higher, physical and special moves use your Attack stat. If Special Attack is higher, physical and special moves use your Special Attack stat.
 
 # ID: 425
-Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target. Affects moves like Absorb, Mega Drain, Giga Drain, and Drain Punch. Leech Seed won't apply to Grass-types or already seeded targets. Excellent for sustain-focused strategies.
+Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to the target on hit, draining the target for 1/8th of their max HP at the end of each turn.
 
 # ID: 426
 Clueless negates all weather, terrain, and room effects while active on the field. Blocks sun, rain, sandstorm, hail, and all terrain types. Prevents Trick Room, Wonder Room, Magic Room, Inverse Room, and Gravity. Provides complete immunity to field-altering effects and environmental conditions.

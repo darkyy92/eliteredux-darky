@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 217,
+    "completed": 218,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T19:02:15.361283Z"
+    "generated_at": "2025-07-18T19:04:21.546551Z"
   },
   "abilities": {
     "0": {
@@ -2986,8 +2986,8 @@
       "id": 425,
       "name": "Absorbant",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "426": {
       "id": 426,
@@ -8692,10 +8692,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "425": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "426": {
       "indicator": "🟠",
