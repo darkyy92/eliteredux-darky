@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 200,
+    "completed": 201,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T13:30:44.726813Z"
+    "generated_at": "2025-07-18T13:37:35.673328Z"
   },
   "abilities": {
     "0": {
@@ -2846,8 +2846,8 @@
       "id": 405,
       "name": "Loose Rocks",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "406": {
       "id": 406,
@@ -8572,10 +8572,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "405": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "406": {
       "indicator": "🟠",

@@ -1196,7 +1196,7 @@ Roundhouse makes all kicking moves never miss and target the opponent's weaker d
 Converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type moves, regardless of the user's typing.
 
 # ID: 405
-Loose Rocks deploys Stealth Rock entry hazards on the opponent's side when the Pokemon is hit by any contact move. Only triggers once per battle per side. Does not activate if opponent already has Stealth Rock up. Punishes physical attackers and discourages switching.
+Set Stealth Rock on the opponent's side when the user is hit by any contact move. Stealth Rock deals 1/8th of the opponent's max HP when switching. Considered Rock-type damage and is modified by type effectiveness.
 
 # ID: 406
 Spinning Top grants +1 Speed and removes all entry hazards from the user's side when using Fighting-type moves. Clears Stealth Rock, Spikes, Toxic Spikes, Sticky Web, Hot Coals, and Caltrops. Both effects activate after landing the Fighting move. Excellent for offensive sweepers.

@@ -413,7 +413,7 @@ In Progress: 0
 | 402 | Toxic Debris               | ✅       | ✅        |
 | 403 | Roundhouse                 | ✅       | ✅        |
 | 404 | Mineralize                 | ✅       | ✅        |
-| 405 | Loose Rocks                | ✅       | ❌        |
+| 405 | Loose Rocks                | ✅       | ✅        |
 | 406 | Spinning Top               | ✅       | ❌        |
 | 407 | Retribution Blow           | ✅       | ❌        |
 | 408 | Fearmonger                 | ✅       | ❌        |
