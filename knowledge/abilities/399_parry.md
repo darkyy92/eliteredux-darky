@@ -1,8 +1,8 @@
 ---
 id: 399
 name: Parry
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 153
 ---
 
 # Parry - Ability ID 399
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Parry reduces all damage by 20% while automatically countering contact moves with priority Mach Punch (40 BP Fighting-type, +1 priority). This dual ability excels on bulky Pokemon that leverage both defensive staying power and offensive pressure. Works on all incoming damage types.
+Reduces all damage by 20%. Multiplicative with other damage reduction sources. Counters contact moves with Mach Punch (40 BP Fighting-type, +1 priority).
 
 ## Detailed Mechanical Explanation
 
