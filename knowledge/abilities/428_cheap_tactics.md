@@ -1,8 +1,8 @@
 ---
 id: 428
 name: Cheap Tactics
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 111
 ---
 
 # Cheap Tactics - Ability ID 428
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cheap Tactics automatically uses Scratch (40 BP Normal physical move) targeting a random opponent when switching into battle. This entry attack has 100% accuracy and provides immediate offensive pressure. Cannot be prevented by most protective moves and activates before any other entry effects.
+Cheap Tactics uses Scratch (40 BP Normal physical move) targeting a random opponent when switching into battle. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
