@@ -1,8 +1,8 @@
 ---
 id: 444
 name: Evaporate
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 194
 ---
 
 # Evaporate - Ability ID 444
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions. Only activates if Mist is not already active. Perfect counter to Water attacks and stat-lowering moves.
+Evaporate negates all damage from Water-type moves and sets Mist for 5 turns on the user's side when hit by Water moves. Mist protects the entire team from stat reductions, including self drops. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
