@@ -420,7 +420,7 @@ In Progress: 0
 | 409 | King's Wrath               | ✅       | ✅        |
 | 410 | Queen's Mourning           | ✅       | ✅        |
 | 411 | Toxic Spill                | ✅       | ✅        |
-| 412 | Desert Cloak               | ✅       | ❌        |
+| 412 | Desert Cloak               | ✅       | ✅        |
 | 413 | Draconize                  | ✅       | ❌        |
 | 414 | Pretty Princess            | ✅       | ❌        |
 | 415 | Self Repair                | ✅       | ❌        |
