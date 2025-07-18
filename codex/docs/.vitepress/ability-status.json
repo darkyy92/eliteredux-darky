@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 194,
+    "completed": 195,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T01:28:00.657694Z"
+    "generated_at": "2025-07-18T01:30:05.122799Z"
   },
   "abilities": {
     "0": {
@@ -2804,8 +2804,8 @@
       "id": 399,
       "name": "Parry",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "400": {
       "id": 400,
@@ -8536,10 +8536,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "399": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "400": {
       "indicator": "🟠",

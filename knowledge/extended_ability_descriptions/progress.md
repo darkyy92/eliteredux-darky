@@ -407,7 +407,7 @@ In Progress: 0
 | 396 | Liquid Voice               | ✅       | ✅        |
 | 397 | Pyro Shells                | ✅       | ✅        |
 | 398 | Fungal Infection           | ✅       | ✅        |
-| 399 | Parry                      | ✅       | ❌        |
+| 399 | Parry                      | ✅       | ✅        |
 | 400 | Scrapyard                  | ✅       | ❌        |
 | 401 | Loose Quills               | ✅       | ❌        |
 | 402 | Toxic Debris               | ✅       | ❌        |
