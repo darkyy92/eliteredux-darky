@@ -1202,7 +1202,7 @@ Set Stealth Rock on the opponent's side when the user is hit by any contact move
 Spinning Top grants +1 Speed and removes all entry hazards from the user's side when using Fighting-type moves.
 
 # ID: 407
-Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn. Punishes setup sweepers with immediate retaliation. 100% accuracy, Normal-type damage with no drawbacks.
+Automatically uses 150 BP Hyper Beam against opponents that boost stats. The triggered Hyper Beam has no recharge period, allowing normal actions next turn.
 
 # ID: 408
 Fearmonger combines Intimidate and Scare effects, lowering both Attack and Special Attack of opposing Pokemon upon entry. Additionally provides a 10% chance to inflict paralysis when making contact moves. Excellent for disrupting offensive threats and setup sweepers with dual intimidation.
