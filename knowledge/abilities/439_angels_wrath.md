@@ -1,8 +1,8 @@
 ---
 id: 439
 name: Angel's Wrath
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 295
 ---
 
 # Angel's Wrath - Ability ID 439
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Angel's Wrath completely transforms six basic moves into powerful variants with unique effects. Tackle gains Encore+Disable, String Shot sets all entry hazards, Harden boosts all stats except Defense, Iron Defense grants protection, Electroweb traps and minimizes Speed, Bug Bite heals damage dealt.
+Tackle Encores+Disables, String Shot sets all hazards, Harden omniboosts by one stage, Iron Defense becomes a King's Shield that drops all stats, Electroweb traps, Bug Bite heals damage dealt, Poison Sting badly poisons+is super-effective on Steel. All enhanced attacks get a large damage boost.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
