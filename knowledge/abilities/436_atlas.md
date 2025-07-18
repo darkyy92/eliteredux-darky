@@ -1,8 +1,8 @@
 ---
 id: 436
 name: Atlas
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 249
 ---
 
 # Atlas - Ability ID 436
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Atlas sets Gravity field effect upon entering battle for 8 turns. Gravity prevents levitating moves like Fly and Bounce, grounds all Pokemon making them vulnerable to Ground moves, and boosts move accuracy by 66%. Superior to regular Gravity's 5-turn duration.
+Atlas sets Gravity upon entering battle for 8 turns. Gravity prevents levitating moves like Fly; grounds all Pokemon making them vulnerable to Ground moves, Arena Trap, and hazards; boosts Grav Apple's damage by 50%; and boosts move accuracy by 66%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
