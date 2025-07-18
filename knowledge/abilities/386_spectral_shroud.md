@@ -1,8 +1,8 @@
 ---
 id: 386
 name: Spectral Shroud
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 208
 ---
 
 # Spectral Shroud - Ability ID 386
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Converts Normal-type moves to Ghost-type, gaining STAB and enhanced power boost. All Ghost-type moves (including converted ones) have 30% chance to badly poison targets after dealing damage. Combines offensive type conversion with dangerous poison status pressure that escalates over time.
+Converts all Normal-type moves into Ghost-type moves and grants STAB for Ghost-type moves, regardless of the user's typing. All Ghost-type moves have a 30% chance to badly poison targets after dealing damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
