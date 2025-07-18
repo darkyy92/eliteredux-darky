@@ -1211,7 +1211,7 @@ Fearmonger lowers both Attack and Special Attack of opposing Pokemon upon entry 
 King's Wrath triggers when the user or their ally has their stats lowered, immediately boosting the user's Attack and Defense by one stage. Does not activate from self drops.
 
 # ID: 410
-Queen's Mourning activates when any stat is lowered on the Pokemon's side of the field, not just the Pokemon with this ability. When triggered, it raises both Special Attack and Special Defense by one stage each. Works with partner Pokemon in doubles, making it excellent for support.
+Queen's Mourning triggers when the user or their ally has their stats lowered, immediately boosting the user's Special Attack and Special Defense by one stage. Does not activate from self drops.
 
 # ID: 411
 Toxic Spill creates a toxic waste field that damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. The toxic waste appears on entry and disappears when the user leaves. Bypasses Magic Guard immunity.

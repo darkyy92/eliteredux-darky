@@ -418,7 +418,7 @@ In Progress: 0
 | 407 | Retribution Blow           | ✅       | ✅        |
 | 408 | Fearmonger                 | ✅       | ✅        |
 | 409 | King's Wrath               | ✅       | ✅        |
-| 410 | Queen's Mourning           | ✅       | ❌        |
+| 410 | Queen's Mourning           | ✅       | ✅        |
 | 411 | Toxic Spill                | ✅       | ❌        |
 | 412 | Desert Cloak               | ✅       | ❌        |
 | 413 | Draconize                  | ✅       | ❌        |

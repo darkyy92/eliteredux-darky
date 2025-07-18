@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 205,
+    "completed": 206,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T16:56:04.751364Z"
+    "generated_at": "2025-07-18T16:59:50.000951Z"
   },
   "abilities": {
     "0": {
@@ -2881,8 +2881,8 @@
       "id": 410,
       "name": "Queen's Mourning",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "411": {
       "id": 411,
@@ -8602,10 +8602,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "410": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "411": {
       "indicator": "🟠",
