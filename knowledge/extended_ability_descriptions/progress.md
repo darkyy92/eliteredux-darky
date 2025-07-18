@@ -454,7 +454,7 @@ In Progress: 0
 | 443 | Gravity Well               | ✅       | ✅        |
 | 444 | Evaporate                  | ✅       | ✅        |
 | 445 | Lumberjack                 | ✅       | ✅        |
-| 446 | Well Baked Body            | ✅       | ❌        |
+| 446 | Well Baked Body            | ✅       | ✅        |
 | 447 | Furnace                    | ✅       | ❌        |
 | 448 | Electromorphosis           | ✅       | ❌        |
 | 449 | Rocky Payload              | ✅       | ❌        |
