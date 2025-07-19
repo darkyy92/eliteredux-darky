@@ -1403,7 +1403,7 @@ Super Slammer boosts the power of hammer-based moves by 30%.
 Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly.
 
 # ID: 475
-Frost Burn triggers a 40 BP Ice Beam immediately after using any Fire-type move. The followup Ice Beam targets the same opponent with perfect accuracy. Works with all Fire moves regardless of power or success. Creates unique Fire-Ice combination for surprising opponents with opposite type coverage.
+Triggers a 40 BP Ice Beam immediately after using any Fire-type move.
 
 # ID: 476
 Itchy Defense automatically traps attackers with Infestation when hit by contact moves. The trapped opponent suffers 1/8 maximum HP damage each turn for 4-5 turns and cannot switch out. Works only against contact moves that successfully hit, making it a strong deterrent against physical attackers.

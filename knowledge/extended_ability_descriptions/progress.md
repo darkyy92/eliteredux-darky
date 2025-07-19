@@ -483,7 +483,7 @@ In Progress: 0
 | 472 | Super Slammer              | ✅       | ✅        |
 | 473 | Ability 473                | ❌       | ❌        |
 | 474 | Accelerate                 | ✅       | ✅        |
-| 475 | Frost Burn                 | ✅       | ❌        |
+| 475 | Frost Burn                 | ✅       | ✅        |
 | 476 | Itchy Defense              | ✅       | ❌        |
 | 477 | Generator                  | ✅       | ❌        |
 | 478 | Moon Spirit                | ✅       | ❌        |
