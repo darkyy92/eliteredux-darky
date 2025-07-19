@@ -462,7 +462,7 @@ In Progress: 0
 | 451 | Lingering Aroma            | ✅       | ✅        |
 | 452 | Fairy Tale                 | ✅       | ✅        |
 | 453 | Raging Moth                | ✅       | ✅        |
-| 454 | Adrenaline Rush            | ✅       | ❌        |
+| 454 | Adrenaline Rush            | ✅       | ✅        |
 | 455 | Archmage                   | ✅       | ❌        |
 | 456 | Cryomancy                  | ✅       | ❌        |
 | 457 | Phantom Pain               | ✅       | ❌        |

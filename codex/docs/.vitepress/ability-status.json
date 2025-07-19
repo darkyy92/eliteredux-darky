@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 245,
+    "completed": 246,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T00:44:59.009220Z"
+    "generated_at": "2025-07-19T00:45:47.005606Z"
   },
   "abilities": {
     "0": {
@@ -3189,8 +3189,8 @@
       "id": 454,
       "name": "Adrenaline Rush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "455": {
       "id": 455,
@@ -8866,10 +8866,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "454": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "455": {
       "indicator": "🟠",
