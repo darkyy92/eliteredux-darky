@@ -470,7 +470,7 @@ In Progress: 0
 | 459 | Emanate                    | ✅       | ✅        |
 | 460 | Kunoichi's Blade           | ✅       | ❌        |
 | 461 | Monkey Business            | ✅       | ✅        |
-| 462 | Combat Specialist          | ✅       | ❌        |
+| 462 | Combat Specialist          | ✅       | ✅        |
 | 463 | Jungle's Guard             | ✅       | ❌        |
 | 464 | Hunter's Horn              | ✅       | ❌        |
 | 465 | Pixie Power                | ✅       | ❌        |

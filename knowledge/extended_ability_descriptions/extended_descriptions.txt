@@ -1367,7 +1367,7 @@ Kunoichi Blade combines Technician and Skill Link effects. Moves with 60 BP or l
 Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokemon's Attack and Defense stats by one stage each.
 
 # ID: 462
-Combat Specialist boosts the power of punching and kicking moves by 30%. Affects punches like Fire Punch, Ice Punch, Thunder Punch, Focus Punch, and Mach Punch. Also affects kicks like Double Kick, High Jump Kick, Blaze Kick, and Mega Kick. Combines Iron Fist and Striker effects perfectly.
+Combat Specialist boosts the power of punching and kicking moves by 30%.
 
 # ID: 463
 Jungle's Guard shields Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun. Combines Flower Veil protection with Leaf Guard healing. Ideal for sun teams needing comprehensive status and stat protection for Grass allies.
