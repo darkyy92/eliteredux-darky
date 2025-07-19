@@ -1,8 +1,8 @@
 ---
 id: 456
 name: Cryomancy
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 115
 ---
 
 # Cryomancy - Ability ID 456
@@ -13,8 +13,8 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves that can cause it. Frostbite is a status condition that deals 1/16 max HP damage per turn and halves special attack power like burn affects physical attacks. Works with moves like Ice Fang and Bitter Malice.
-
+Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves. 
+Does not interact with Freezing Point.
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
