@@ -1421,7 +1421,7 @@ Uses Sand Attack on the opponent upon switching into battle, reducing the target
 When hit, raises the user's Special Attack by 1 stage or maximizes it on critical hits. When the user knocks out an opponent, it instantly recovers from recharge status, allowing immediate use of moves like Hyper Beam without waiting.
 
 # ID: 481
-Trickster automatically uses Disable on switch-in, targeting any alive opponent. Disable prevents the target from using their last-used move for several turns. If multiple opponents exist, targets the first alive opponent found. A cunning ability that disrupts enemy strategies.
+Uses Disable on switch-in. Disable prevents the target from using their last-used move for 4 turns. Fails if the target has not moved yet.
 
 # ID: 482
 Sand Guard blocks priority moves and reduces special attack damage by 50% during sandstorm weather. Works with all sandstorm forms including Sand Stream. Priority blocking protects user and allies, while damage reduction applies only to special moves targeting the user in sandstorm weather.

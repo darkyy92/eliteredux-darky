@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 269,
+    "completed": 270,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:12:29.047170Z"
+    "generated_at": "2025-07-19T23:20:21.117794Z"
   },
   "abilities": {
     "0": {
@@ -3378,8 +3378,8 @@
       "id": 481,
       "name": "Trickster",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "482": {
       "id": 482,
@@ -9028,10 +9028,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "481": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "482": {
       "indicator": "🟠",

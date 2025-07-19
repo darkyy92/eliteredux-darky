@@ -489,7 +489,7 @@ In Progress: 0
 | 478 | Moon Spirit                | ✅       | ✅        |
 | 479 | Dust Cloud                 | ✅       | ✅        |
 | 480 | Berserker Rage             | ✅       | ✅        |
-| 481 | Trickster                  | ✅       | ❌        |
+| 481 | Trickster                  | ✅       | ✅        |
 | 482 | Sand Guard                 | ✅       | ❌        |
 | 483 | Natural Recovery           | ✅       | ❌        |
 | 484 | Wind Rider                 | ✅       | ❌        |
