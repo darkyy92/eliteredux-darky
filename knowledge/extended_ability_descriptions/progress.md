@@ -463,7 +463,7 @@ In Progress: 0
 | 452 | Fairy Tale                 | ✅       | ✅        |
 | 453 | Raging Moth                | ✅       | ✅        |
 | 454 | Adrenaline Rush            | ✅       | ✅        |
-| 455 | Archmage                   | ✅       | ❌        |
+| 455 | Archmage                   | ✅       | ✅        |
 | 456 | Cryomancy                  | ✅       | ❌        |
 | 457 | Phantom Pain               | ✅       | ❌        |
 | 458 | Purgatory                  | ✅       | ❌        |
