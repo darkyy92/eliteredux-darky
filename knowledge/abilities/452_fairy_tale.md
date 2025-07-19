@@ -1,8 +1,8 @@
 ---
 id: 452
 name: Fairy Tale
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 149
 ---
 
 # Fairy Tale - Ability ID 452
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fairy Tale adds the Fairy type upon entering battle, granting a third type. This provides Fairy resistances to Fighting, Bug, and Dark moves plus immunity to Dragon attacks. The added type persists until switching out or fainting. Ideal for non-Fairy Pokemon needing better coverage.
+Upon entering battle, adds Fairy to the user's current typing. Retains Fairy typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
