@@ -1385,7 +1385,7 @@ Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20
 When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP. Fire-type are moves super effective against Rock-types instead of resisted.
 
 # ID: 468
-Super Hot Goo combines Flame Body and Gooey effects. Contact moves have a 30% chance to inflict burn and always lower the attacker's Speed by one stage. Burns deal 1/16 max HP damage per turn. Speed reduction bypasses Substitute and ignores stat-lowering immunities through Mirror Armor.
+Contact moves have a 30% chance to inflict burn and the user lowers the attacker's Speed by one stage when receiving a contact move.
 
 # ID: 469
 Nika combines Iron Fist's 30% power boost to punching moves with protection for Water-type attacks in sunny weather. While Water moves normally deal reduced damage in sun, Nika prevents this penalty, allowing them to function at full power. Perfect for mixed attackers.

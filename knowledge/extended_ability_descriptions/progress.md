@@ -476,7 +476,7 @@ In Progress: 0
 | 465 | Pixie Power                | ✅       | ✅        |
 | 466 | Plasma Lamp                | ✅       | ✅        |
 | 467 | Magma Eater                | ✅       | ✅        |
-| 468 | Super Hot Goo              | ✅       | ❌        |
+| 468 | Super Hot Goo              | ✅       | ✅        |
 | 469 | Nika                       | ✅       | ❌        |
 | 470 | Archer                     | ✅       | ❌        |
 | 471 | Cold Plasma                | ✅       | ❌        |
