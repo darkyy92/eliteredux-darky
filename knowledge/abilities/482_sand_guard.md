@@ -1,8 +1,8 @@
 ---
 id: 482
 name: Sand Guard
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 148
 ---
 
 # Sand Guard - Ability ID 482
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Guard blocks priority moves and reduces special attack damage by 50% during sandstorm weather. Works with all sandstorm forms including Sand Stream. Priority blocking protects user and allies, while damage reduction applies only to special moves targeting the user in sandstorm weather.
+Sand Guard blocks priority moves and reduces special attack damage by 50% during a sandstorm. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
