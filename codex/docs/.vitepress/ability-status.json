@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 278,
+    "completed": 279,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:52:46.019468Z"
+    "generated_at": "2025-07-19T23:55:50.393899Z"
   },
   "abilities": {
     "0": {
@@ -3441,8 +3441,8 @@
       "id": 490,
       "name": "Peaceful Slumber",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "491": {
       "id": 491,
@@ -9082,10 +9082,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "490": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "491": {
       "indicator": "🟠",

@@ -498,7 +498,7 @@ In Progress: 0
 | 487 | Super Strain               | ✅       | ✅        |
 | 488 | Tipping Point              | ✅       | ✅        |
 | 489 | Enlightened                | ✅       | ✅        |
-| 490 | Peaceful Slumber           | ✅       | ❌        |
+| 490 | Peaceful Slumber           | ✅       | ✅        |
 | 491 | Aftershock                 | ✅       | ❌        |
 | 492 | Freezing Point             | ✅       | ❌        |
 | 493 | Cryo Proficiency           | ✅       | ❌        |
