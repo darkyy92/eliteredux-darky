@@ -1,8 +1,8 @@
 ---
 id: 483
 name: Natural Recovery
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 99
 ---
 
 # Natural Recovery - Ability ID 483
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Natural Recovery combines Natural Cure and Regenerator effects. Cures all status conditions when switching out, just like Natural Cure. Also restores 33% of maximum HP when switching out, like Regenerator. Both effects trigger simultaneously on exit. Perfect for hit-and-run tactics and team support.
+Cures all status conditions when switching out. Also restores 33% of maximum HP when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
