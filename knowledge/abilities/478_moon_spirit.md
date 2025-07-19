@@ -1,8 +1,8 @@
 ---
 id: 478
 name: Moon Spirit
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 195
 ---
 
 # Moon Spirit - Ability ID 478
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Moon Spirit grants STAB to all Fairy and Dark-type moves regardless of typing, providing 1.5x damage multiplier. When using Moonlight, recovery increases to 75% max HP instead of normal 50% or weather-modified amounts. Creates powerful dual-type offensive synergy with enhanced healing.
+Moon Spirit grants STAB to all Fairy and Dark-type moves regardless of the user's typing. When using Moonlight, recovery increases to 75% max HP instead of normal 50% or weather-modified amounts. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
