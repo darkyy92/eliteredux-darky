@@ -1,8 +1,8 @@
 ---
 id: 461
 name: Monkey Business
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 145
 ---
 
 # Monkey Business - Ability ID 461
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokemon's Attack and Defense stats by one stage each. This debuffing effect bypasses Substitute and works on any opponent. Perfect for disrupting physical attackers immediately.
+Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokemon's Attack and Defense stats by one stage each. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
