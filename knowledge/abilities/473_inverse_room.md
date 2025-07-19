@@ -1,8 +1,8 @@
 ---
 id: 473
 name: Inversion
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 214
 ---
 
 # Inversion - Ability ID 473
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Inversion automatically sets up Inverse Room when the Pokemon enters battle, lasting exactly 3 turns. Inverse Room reverses all type effectiveness interactions - super effective moves become not very effective and vice versa. Field effect cannot be reactivated while active. Game-changing.
+Inversion automatically sets up Inverse Room when the user enters battle, lasting 3 turns. Inverse Room reverses all type effectiveness interactions - super-effective moves become not very effective and vice versa. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -58,7 +58,7 @@ With Inverse Room active:
 - **Fighting vs Normal**: Normally normal effectiveness (1x) to remains normal (1x)
 
 ### Battle Messages
-- **On activation**: "{POKÃ‰MON}'s Inverse Room set up Inverse Room!"
+- **On activation**: "{POKÉMON}'s Inverse Room set up Inverse Room!"
 - **Field effect**: "The type effectiveness were inverted!"
 - **On end**: "The inverted dimensions returned to normal!"
 
