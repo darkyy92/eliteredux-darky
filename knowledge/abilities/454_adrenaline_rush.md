@@ -1,8 +1,8 @@
 ---
 id: 454
 name: Adrenaline Rush
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 90
 ---
 
 # Adrenaline Rush - Ability ID 454
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Adrenaline Rush boosts the Pokemon's Speed by one stage whenever it knocks out an opponent. The speed boost applies immediately after the target faints, allowing for enhanced revenge killing potential. Stacks with other speed boosts and works on all KO methods. Ideal for sweepers.
+Boosts the user's Speed by one stage whenever it knocks out an opponent with a direct hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
