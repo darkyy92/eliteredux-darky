@@ -1,8 +1,8 @@
 ---
 id: 472
 name: Super Slammer
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 60
 ---
 
 # Super Slammer - Ability ID 472
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Super Slammer boosts the power of hammer-based moves by 30%. Hammer moves include Wood Hammer, Hammer Arm, Crabhammer, Dragon Hammer, Gigaton Hammer, and many custom moves. Works with contact moves that use hammering, slamming, or striking motions to deal physical damage to opponents.
+Super Slammer boosts the power of hammer-based moves by 30%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
