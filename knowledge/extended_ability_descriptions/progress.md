@@ -457,7 +457,7 @@ In Progress: 0
 | 446 | Well Baked Body            | ✅       | ✅        |
 | 447 | Furnace                    | ✅       | ✅        |
 | 448 | Electromorphosis           | ✅       | ✅        |
-| 449 | Rocky Payload              | ✅       | ❌        |
+| 449 | Rocky Payload              | ✅       | ✅        |
 | 450 | Earth Eater                | ✅       | ❌        |
 | 451 | Lingering Aroma            | ✅       | ❌        |
 | 452 | Fairy Tale                 | ✅       | ❌        |

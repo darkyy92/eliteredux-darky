@@ -1328,7 +1328,7 @@ Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching 
 When hit by any move, the user becomes charged up, doubling the power of the next Electric-type move used. Charged status is consumed after one Electric move use.
 
 # ID: 449
-Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Seismic Toss, Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Sky Drop, Grav Apple, and Astral Barrage. Provides consistent offensive boost across diverse move types for versatile coverage.
+Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Grav Apple, and Astral Barrage.
 
 # ID: 450
 Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves. This includes all Ground attacks like Earthquake, Earth Power, and Drill Run. The healing occurs instead of taking damage, making the user immune to Ground moves while gaining recovery.
