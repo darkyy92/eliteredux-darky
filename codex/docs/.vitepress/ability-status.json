@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 268,
+    "completed": 269,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T16:56:31.770098Z"
+    "generated_at": "2025-07-19T23:12:29.047170Z"
   },
   "abilities": {
     "0": {
@@ -3371,8 +3371,8 @@
       "id": 480,
       "name": "Berserker Rage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "481": {
       "id": 481,
@@ -9022,10 +9022,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "480": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "481": {
       "indicator": "🟠",
