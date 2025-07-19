@@ -490,7 +490,7 @@ In Progress: 0
 | 479 | Dust Cloud                 | ✅       | ✅        |
 | 480 | Berserker Rage             | ✅       | ✅        |
 | 481 | Trickster                  | ✅       | ✅        |
-| 482 | Sand Guard                 | ✅       | ❌        |
+| 482 | Sand Guard                 | ✅       | ✅        |
 | 483 | Natural Recovery           | ✅       | ❌        |
 | 484 | Wind Rider                 | ✅       | ❌        |
 | 485 | Soothing Aroma             | ✅       | ❌        |
