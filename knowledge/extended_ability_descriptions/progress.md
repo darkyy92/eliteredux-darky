@@ -474,7 +474,7 @@ In Progress: 0
 | 463 | Jungle's Guard             | ✅       | ✅        |
 | 464 | Hunter's Horn              | ✅       | ❌        |
 | 465 | Pixie Power                | ✅       | ✅        |
-| 466 | Plasma Lamp                | ✅       | ❌        |
+| 466 | Plasma Lamp                | ✅       | ✅        |
 | 467 | Magma Eater                | ✅       | ❌        |
 | 468 | Super Hot Goo              | ✅       | ❌        |
 | 469 | Nika                       | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 255,
+    "completed": 256,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T01:38:16.329908Z"
+    "generated_at": "2025-07-19T01:38:43.786427Z"
   },
   "abilities": {
     "0": {
@@ -3273,8 +3273,8 @@
       "id": 466,
       "name": "Plasma Lamp",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "467": {
       "id": 467,
@@ -8938,10 +8938,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "466": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "467": {
       "indicator": "🟠",
