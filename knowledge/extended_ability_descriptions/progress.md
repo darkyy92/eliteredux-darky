@@ -491,7 +491,7 @@ In Progress: 0
 | 480 | Berserker Rage             | ✅       | ✅        |
 | 481 | Trickster                  | ✅       | ✅        |
 | 482 | Sand Guard                 | ✅       | ✅        |
-| 483 | Natural Recovery           | ✅       | ❌        |
+| 483 | Natural Recovery           | ✅       | ✅        |
 | 484 | Wind Rider                 | ✅       | ❌        |
 | 485 | Soothing Aroma             | ✅       | ❌        |
 | 486 | Prim and Proper            | ✅       | ❌        |

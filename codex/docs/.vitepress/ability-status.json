@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 271,
+    "completed": 272,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:22:44.268857Z"
+    "generated_at": "2025-07-19T23:23:39.860353Z"
   },
   "abilities": {
     "0": {
@@ -3392,8 +3392,8 @@
       "id": 483,
       "name": "Natural Recovery",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "484": {
       "id": 484,
@@ -9040,10 +9040,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "483": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "484": {
       "indicator": "🟠",

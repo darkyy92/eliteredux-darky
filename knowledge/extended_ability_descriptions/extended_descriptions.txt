@@ -1427,7 +1427,7 @@ Uses Disable on switch-in. Disable prevents the target from using their last-use
 Sand Guard blocks priority moves and reduces special attack damage by 50% during a sandstorm. Multiplicative with other sources of damage reduction.
 
 # ID: 483
-Natural Recovery combines Natural Cure and Regenerator effects. Cures all status conditions when switching out, just like Natural Cure. Also restores 33% of maximum HP when switching out, like Regenerator. Both effects trigger simultaneously on exit. Perfect for hit-and-run tactics and team support.
+Cures all status conditions when switching out. Also restores 33% of maximum HP when switching out.
 
 # ID: 484
 Boosts the Pokemon's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves like Gust, Hurricane, or Tailwind, absorbs the attack completely and raises the highest attacking stat by one stage instead of taking damage.
