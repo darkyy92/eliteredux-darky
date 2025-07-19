@@ -1,7 +1,7 @@
 ---
 id: 455
 name: Archmage
-status: ai-generated
+status: reviewed
 character_count: 267
 ---
 
