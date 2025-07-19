@@ -1,8 +1,8 @@
 ---
 id: 475
 name: Frost Burn
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 69
 ---
 
 # Frost Burn - Ability ID 475
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Frost Burn triggers a 40 BP Ice Beam immediately after using any Fire-type move. The followup Ice Beam targets the same opponent with perfect accuracy. Works with all Fire moves regardless of power or success. Creates unique Fire-Ice combination for surprising opponents with opposite type coverage.
+Triggers a 40 BP Ice Beam immediately after using any Fire-type move. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
