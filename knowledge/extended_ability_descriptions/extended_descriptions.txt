@@ -1394,7 +1394,7 @@ Punching moves are boosted by 30%. Water moves receive no penalty when sun is on
 Archer boosts the power of arrow-based moves by 30%.
 
 # ID: 471
-Cold Plasma converts Electric-type moves to inflict burn status instead of paralysis. This includes all Electric moves with paralysis chances like Thunderbolt, Discharge, and Thunder Wave. The burn applies the same probability as the original paralysis effect. Great for disrupting bulky foes.
+Causes Electric-type moves to inflict burn instead of paralysis.
 
 # ID: 472
 Super Slammer boosts the power of hammer-based moves by 30%. Hammer moves include Wood Hammer, Hammer Arm, Crabhammer, Dragon Hammer, Gigaton Hammer, and many custom moves. Works with contact moves that use hammering, slamming, or striking motions to deal physical damage to opponents.

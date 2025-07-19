@@ -479,7 +479,7 @@ In Progress: 0
 | 468 | Super Hot Goo              | ✅       | ✅        |
 | 469 | Nika                       | ✅       | ✅        |
 | 470 | Archer                     | ✅       | ✅        |
-| 471 | Cold Plasma                | ✅       | ❌        |
+| 471 | Cold Plasma                | ✅       | ✅        |
 | 472 | Super Slammer              | ✅       | ❌        |
 | 473 | Inversion                  | ✅       | ❌        |
 | 474 | Accelerate                 | ✅       | ❌        |
