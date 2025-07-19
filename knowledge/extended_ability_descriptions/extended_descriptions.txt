@@ -1370,7 +1370,7 @@ Monkey Business automatically uses Tickle upon switching into battle, lowering t
 Combat Specialist boosts the power of punching and kicking moves by 30%.
 
 # ID: 463
-Jungle's Guard shields Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun. Combines Flower Veil protection with Leaf Guard healing. Ideal for sun teams needing comprehensive status and stat protection for Grass allies.
+Jungle's Guard shields the user+Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun.
 
 # ID: 464
 Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential in battle.

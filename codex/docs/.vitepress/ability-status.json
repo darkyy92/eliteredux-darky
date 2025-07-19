@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 253,
+    "completed": 254,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T01:23:49.391086Z"
+    "generated_at": "2025-07-19T01:29:47.842429Z"
   },
   "abilities": {
     "0": {
@@ -3252,8 +3252,8 @@
       "id": 463,
       "name": "Jungle's Guard",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "464": {
       "id": 464,
@@ -8920,10 +8920,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "463": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "464": {
       "indicator": "🟠",

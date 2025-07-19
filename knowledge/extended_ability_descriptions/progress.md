@@ -471,7 +471,7 @@ In Progress: 0
 | 460 | Kunoichi's Blade           | ✅       | ❌        |
 | 461 | Monkey Business            | ✅       | ✅        |
 | 462 | Combat Specialist          | ✅       | ✅        |
-| 463 | Jungle's Guard             | ✅       | ❌        |
+| 463 | Jungle's Guard             | ✅       | ✅        |
 | 464 | Hunter's Horn              | ✅       | ❌        |
 | 465 | Pixie Power                | ✅       | ❌        |
 | 466 | Plasma Lamp                | ✅       | ❌        |
