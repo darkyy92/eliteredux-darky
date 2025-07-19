@@ -469,7 +469,7 @@ In Progress: 0
 | 458 | Purgatory                  | ✅       | ❌        |
 | 459 | Emanate                    | ✅       | ✅        |
 | 460 | Kunoichi's Blade           | ✅       | ❌        |
-| 461 | Monkey Business            | ✅       | ❌        |
+| 461 | Monkey Business            | ✅       | ✅        |
 | 462 | Combat Specialist          | ✅       | ❌        |
 | 463 | Jungle's Guard             | ✅       | ❌        |
 | 464 | Hunter's Horn              | ✅       | ❌        |
