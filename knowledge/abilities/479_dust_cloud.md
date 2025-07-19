@@ -1,8 +1,8 @@
 ---
 id: 479
 name: Dust Cloud
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 105
 ---
 
 # Dust Cloud - Ability ID 479
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dust Cloud automatically uses Sand Attack targeting the opponent upon switching into battle. The Ground-type status move reduces the target's accuracy by one stage with 100% accuracy. Works once per switch-in. Effective for disrupting opposing sweepers and accuracy-reliant strategies.
+Uses Sand Attack on the opponent upon switching into battle, reducing the target's accuracy by one stage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
