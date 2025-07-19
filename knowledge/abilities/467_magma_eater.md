@@ -1,8 +1,8 @@
 ---
 id: 467
 name: Magma Eater
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 178
 ---
 
 # Magma Eater - Ability ID 467
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Magma Eater combines predatory healing with molten type advantages. Restores 25% HP when fainting an opponent through direct attacking moves. Additionally, Fire-type moves deal 2x damage against Rock-type Pokemon instead of normal effectiveness. Excellent for aggressive Fire-type attackers.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP. Fire-type are moves super effective against Rock-types instead of resisted. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
