@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 274,
+    "completed": 275,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:29:40.399911Z"
+    "generated_at": "2025-07-19T23:41:03.633066Z"
   },
   "abilities": {
     "0": {
@@ -3413,8 +3413,8 @@
       "id": 486,
       "name": "Prim and Proper",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "487": {
       "id": 487,
@@ -9058,10 +9058,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "486": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "487": {
       "indicator": "🟠",

@@ -1436,7 +1436,7 @@ Boosts the user's highest attacking stat when entering battle under Tailwind. Wh
 On entry, heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.
 
 # ID: 486
-When hit by contact moves, has a 50% chance to infatuate the attacker (attract them). This only works on Pokemon of the opposite gender. Also immune to all offensive ability effects from opponents, making it extremely defensive.
+When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender. Immune to all offensive ability effects from opponents, other than Parental Bond and Multi Headed
 
 # ID: 487
 This ability modifies recoil damage calculation and triggers when the user causes an opponent to faint. Recoil moves deal 25% damage to user instead of normal recoil rates. When user KOs opponent, attacker's Attack stat drops by 1 stage automatically.

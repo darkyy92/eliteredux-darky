@@ -494,7 +494,7 @@ In Progress: 0
 | 483 | Natural Recovery           | ✅       | ✅        |
 | 484 | Wind Rider                 | ✅       | ✅        |
 | 485 | Soothing Aroma             | ✅       | ✅        |
-| 486 | Prim and Proper            | ✅       | ❌        |
+| 486 | Prim and Proper            | ✅       | ✅        |
 | 487 | Super Strain               | ✅       | ❌        |
 | 488 | Tipping Point              | ✅       | ❌        |
 | 489 | Enlightened                | ✅       | ❌        |
