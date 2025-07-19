@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 273,
+    "completed": 274,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:24:59.121560Z"
+    "generated_at": "2025-07-19T23:29:40.399911Z"
   },
   "abilities": {
     "0": {
@@ -3406,8 +3406,8 @@
       "id": 485,
       "name": "Soothing Aroma",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "486": {
       "id": 486,
@@ -9052,10 +9052,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "485": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "486": {
       "indicator": "🟠",
