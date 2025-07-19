@@ -460,7 +460,7 @@ In Progress: 0
 | 449 | Rocky Payload              | ✅       | ✅        |
 | 450 | Earth Eater                | ✅       | ✅        |
 | 451 | Lingering Aroma            | ✅       | ✅        |
-| 452 | Fairy Tale                 | ✅       | ❌        |
+| 452 | Fairy Tale                 | ✅       | ✅        |
 | 453 | Raging Moth                | ✅       | ❌        |
 | 454 | Adrenaline Rush            | ✅       | ❌        |
 | 455 | Archmage                   | ✅       | ❌        |

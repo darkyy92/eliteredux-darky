@@ -1337,7 +1337,7 @@ Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type 
 Lingering Aroma changes the attacker's ability (not innates) to Lingering Aroma when the user is hit by a contact move.
 
 # ID: 452
-Fairy Tale adds the Fairy type upon entering battle, granting a third type. This provides Fairy resistances to Fighting, Bug, and Dark moves plus immunity to Dragon attacks. The added type persists until switching out or fainting. Ideal for non-Fairy Pokemon needing better coverage.
+Upon entering battle, adds Fairy to the user's current typing. Retains Fairy typing even upon losing the ability, going away only when switching out.
 
 # ID: 453
 Raging Moth causes all Fire-type moves to hit twice consecutively, with each hit dealing 70% of the move's original power. This results in 140% total damage output. Both hits can trigger effects like Flame Body or items like Focus Sash separately. Perfect for breaking through defensive tactics.
