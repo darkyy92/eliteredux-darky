@@ -475,7 +475,7 @@ In Progress: 0
 | 464 | Hunter's Horn              | ✅       | ❌        |
 | 465 | Pixie Power                | ✅       | ✅        |
 | 466 | Plasma Lamp                | ✅       | ✅        |
-| 467 | Magma Eater                | ✅       | ❌        |
+| 467 | Magma Eater                | ✅       | ✅        |
 | 468 | Super Hot Goo              | ✅       | ❌        |
 | 469 | Nika                       | ✅       | ❌        |
 | 470 | Archer                     | ✅       | ❌        |

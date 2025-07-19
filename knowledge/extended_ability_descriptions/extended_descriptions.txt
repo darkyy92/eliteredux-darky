@@ -1382,7 +1382,7 @@ All Fairy moves get a 1.33x boost (opponent also gets the boost), affected by Au
 Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20% each.
 
 # ID: 467
-Magma Eater combines predatory healing with molten type advantages. Restores 25% HP when fainting an opponent through direct attacking moves. Additionally, Fire-type moves deal 2x damage against Rock-type Pokemon instead of normal effectiveness. Excellent for aggressive Fire-type attackers.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP. Fire-type are moves super effective against Rock-types instead of resisted.
 
 # ID: 468
 Super Hot Goo combines Flame Body and Gooey effects. Contact moves have a 30% chance to inflict burn and always lower the attacker's Speed by one stage. Burns deal 1/16 max HP damage per turn. Speed reduction bypasses Substitute and ignores stat-lowering immunities through Mirror Armor.

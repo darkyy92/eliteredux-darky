@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 256,
+    "completed": 257,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T01:38:43.786427Z"
+    "generated_at": "2025-07-19T01:40:35.746759Z"
   },
   "abilities": {
     "0": {
@@ -3280,8 +3280,8 @@
       "id": 467,
       "name": "Magma Eater",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "468": {
       "id": 468,
@@ -8944,10 +8944,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "467": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "468": {
       "indicator": "🟠",
