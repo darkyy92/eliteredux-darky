@@ -1,8 +1,8 @@
 ---
 id: 480
 name: Berserker Rage
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 234
 ---
 
 # Berserker Rage - Ability ID 480
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Berserker Rage combines Tipping Point and Rampage effects. When hit, raises Special Attack by 1 stage normally or maximizes it on critical hits. When the Pokemon KOs an opponent, it instantly recovers from recharge status, allowing immediate use of moves like Hyper Beam without waiting.
+When hit, raises the user's Special Attack by 1 stage or maximizes it on critical hits. When the user knocks out an opponent, it instantly recovers from recharge status, allowing immediate use of moves like Hyper Beam without waiting.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
