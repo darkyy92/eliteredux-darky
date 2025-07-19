@@ -1,8 +1,8 @@
 ---
 id: 451
 name: Lingering Aroma
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 119
 ---
 
 # Lingering Aroma - Ability ID 451
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lingering Aroma changes the attacker's ability to Lingering Aroma when hit by a contact move. Functions identically to Mummy, spreading on contact. Overrides most abilities except unsuppressable ones like Multitype. Blocked by Ability Shield item. Creates ability chain reactions when spread.
+Lingering Aroma changes the attacker's ability (not innates) to Lingering Aroma when the user is hit by a contact move. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
