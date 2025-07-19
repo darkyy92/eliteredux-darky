@@ -1,8 +1,8 @@
 ---
 id: 457
 name: Phantom Pain
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 134
 ---
 
 # Phantom Pain - Ability ID 457
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon with regular effectiveness. This bypasses the natural type interaction where Ghost moves normally have no effect on Normal-types. Works with all Ghost-type moves and their variants.
+Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon for 1x effectiveness. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
