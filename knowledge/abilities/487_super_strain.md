@@ -1,8 +1,8 @@
 ---
 id: 487
 name: Super Strain
-status: ai-generated
-character_count: 251
+status: reviewed
+character_count: 164
 ---
 
 # Super Strain - Ability ID 487
@@ -13,7 +13,7 @@ character_count: 251
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This ability modifies recoil damage calculation and triggers when the user causes an opponent to faint. Recoil moves deal 25% damage to user instead of normal recoil rates. When user KOs opponent, attacker's Attack stat drops by 1 stage automatically.
+The user's moves deal 25% of the damage done to the user as recoil. When the user knocks out the opponent with a direct attack, user's Attack stat drops by 1 stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
