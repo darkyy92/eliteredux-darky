@@ -1,8 +1,8 @@
 ---
 id: 470
 name: Archer
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 52
 ---
 
 # Archer - Ability ID 470
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Archer boosts the power of arrow-based moves by 30%. Affects moves like Thousand Arrows, Spirit Shackle, Diamond Arrow, Blazing Arrow, and Triple Arrows. The power boost applies to both physical and special arrow moves, making precision-based attackers significantly more threatening.
+Archer boosts the power of arrow-based moves by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
