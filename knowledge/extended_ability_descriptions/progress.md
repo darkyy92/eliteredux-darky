@@ -497,7 +497,7 @@ In Progress: 0
 | 486 | Prim and Proper            | ✅       | ✅        |
 | 487 | Super Strain               | ✅       | ✅        |
 | 488 | Tipping Point              | ✅       | ✅        |
-| 489 | Enlightened                | ✅       | ❌        |
+| 489 | Enlightened                | ✅       | ✅        |
 | 490 | Peaceful Slumber           | ✅       | ❌        |
 | 491 | Aftershock                 | ✅       | ❌        |
 | 492 | Freezing Point             | ✅       | ❌        |

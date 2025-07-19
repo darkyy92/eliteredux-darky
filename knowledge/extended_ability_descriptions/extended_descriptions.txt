@@ -1445,7 +1445,7 @@ The user's moves deal 25% of the damage done to the user as recoil. When the use
 When hit, raises the user's Special Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 489
-This Pokemon has achieved mental clarity that transcends normal limitations. Normal-type moves become Psychic-type and gain STAB. Focus Blast never misses due to perfect concentration. The Pokemon cannot be taunted and maintains composure under pressure, though this focus can be broken.
+Converts all Normal-type moves to Psychic-type and grants STAB for Psychic moves, regardless of the user's type. Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare.
 
 # ID: 490
 Combines Sweet Dreams and Self Sufficient healing effects. When asleep, restores 1/8 max HP minus 1/16 max HP (net 1/16 HP). When awake, restores 1/16 max HP at end of turn except on the first turn. Provides consistent healing regardless of sleep status.
