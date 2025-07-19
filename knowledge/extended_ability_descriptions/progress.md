@@ -480,7 +480,7 @@ In Progress: 0
 | 469 | Nika                       | ✅       | ✅        |
 | 470 | Archer                     | ✅       | ✅        |
 | 471 | Cold Plasma                | ✅       | ✅        |
-| 472 | Super Slammer              | ✅       | ❌        |
+| 472 | Super Slammer              | ✅       | ✅        |
 | 473 | Inversion                  | ✅       | ❌        |
 | 474 | Accelerate                 | ✅       | ❌        |
 | 475 | Frost Burn                 | ✅       | ❌        |

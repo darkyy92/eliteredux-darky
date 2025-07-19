@@ -1397,7 +1397,7 @@ Archer boosts the power of arrow-based moves by 30%.
 Causes Electric-type moves to inflict burn instead of paralysis.
 
 # ID: 472
-Super Slammer boosts the power of hammer-based moves by 30%. Hammer moves include Wood Hammer, Hammer Arm, Crabhammer, Dragon Hammer, Gigaton Hammer, and many custom moves. Works with contact moves that use hammering, slamming, or striking motions to deal physical damage to opponents.
+Super Slammer boosts the power of hammer-based moves by 30%.
 
 # ID: 473
 Inversion automatically sets up Inverse Room when the Pokemon enters battle, lasting exactly 3 turns. Inverse Room reverses all type effectiveness interactions - super effective moves become not very effective and vice versa. Field effect cannot be reactivated while active. Game-changing.
