@@ -1,8 +1,8 @@
 ---
 id: 453
 name: Raging Moth
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 130
 ---
 
 # Raging Moth - Ability ID 453
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Raging Moth causes all Fire-type moves to hit twice consecutively, with each hit dealing 70% of the move's original power. This results in 140% total damage output. Both hits can trigger effects like Flame Body or items like Focus Sash separately. Perfect for breaking through defensive tactics.
+Fire moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
