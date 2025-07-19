@@ -1,8 +1,8 @@
 ---
 id: 92
 name: Skill Link
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 178
 ---
 
 # Skill Link - Ability ID 92
@@ -13,7 +13,7 @@ Multi-hit moves always hit the maximum number of times.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Forces multi-hit moves to always hit 5 times instead of random 2-5 hits. Each hit calculates damage separately with independent critical chances. Transforms moves like Rock Blast (25 power) into reliable 125 power attacks. Each hit can trigger contact abilities and break Substitute/Focus Sash.
+Multihit moves to always hit 5 times. For moves that only hit 3 times or Population Bomb, there will be one accuracy check for all hits instead of individual checks for each hit.
 
 ## Detailed Mechanical Explanation
 
