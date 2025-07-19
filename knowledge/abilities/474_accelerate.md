@@ -1,8 +1,8 @@
 ---
 id: 474
 name: Accelerate
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 107
 ---
 
 # Accelerate - Ability ID 474
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly. Works with all charging moves including Solar Beam, Sky Attack, Skull Bash, Fly, Dig, Dive, Bounce, Shadow Force, and others. The Pokemon can immediately unleash powerful moves without delay.
+Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
