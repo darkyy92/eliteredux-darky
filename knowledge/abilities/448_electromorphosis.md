@@ -1,8 +1,8 @@
 ---
 id: 448
 name: Electromorphosis
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 162
 ---
 
 # Electromorphosis - Ability ID 448
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Electromorphosis charges up the Pokemon when it takes damage from any attack. Once charged, the next Electric-type move used by the Pokemon deals double damage. The charge effect is consumed after using an Electric-type move with base power, resetting the cycle.
+When hit by any move, the user becomes charged up, doubling the power of the next Electric-type move used. Charged status is consumed after one Electric move use.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
