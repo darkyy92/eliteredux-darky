@@ -1,8 +1,8 @@
 ---
 id: 471
 name: Cold Plasma
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 64
 ---
 
 # Cold Plasma - Ability ID 471
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cold Plasma converts Electric-type moves to inflict burn status instead of paralysis. This includes all Electric moves with paralysis chances like Thunderbolt, Discharge, and Thunder Wave. The burn applies the same probability as the original paralysis effect. Great for disrupting bulky foes.
+Causes Electric-type moves to inflict burn instead of paralysis. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
