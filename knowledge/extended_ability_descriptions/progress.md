@@ -499,7 +499,7 @@ In Progress: 0
 | 488 | Tipping Point              | ✅       | ✅        |
 | 489 | Enlightened                | ✅       | ✅        |
 | 490 | Peaceful Slumber           | ✅       | ✅        |
-| 491 | Aftershock                 | ✅       | ❌        |
+| 491 | Aftershock                 | ✅       | ✅        |
 | 492 | Freezing Point             | ✅       | ❌        |
 | 493 | Cryo Proficiency           | ✅       | ❌        |
 | 494 | Arcane Force               | ✅       | ❌        |

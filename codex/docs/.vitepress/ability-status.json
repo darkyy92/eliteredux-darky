@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 279,
+    "completed": 280,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:55:50.393899Z"
+    "generated_at": "2025-07-19T23:58:22.265927Z"
   },
   "abilities": {
     "0": {
@@ -3448,8 +3448,8 @@
       "id": 491,
       "name": "Aftershock",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "492": {
       "id": 492,
@@ -9088,10 +9088,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "491": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "492": {
       "indicator": "🟠",

@@ -1451,7 +1451,7 @@ Converts all Normal-type moves to Psychic-type and grants STAB for Psychic moves
 Sweet Dreams restores 1/8 of maximum HP at the end of each turn when the user is asleep or has the Comatose ability. Additionally, it grants immunity to Bad Dreams damage. Restores 1/16 of the Pokemon's maximum HP at the end of each turn.
 
 # ID: 491
-After using any damaging move, the Pokemon automatically follows up with Magnitude at 65 power. This Ground-type tremor hits all adjacent Pokemon, including allies in double battles. The follow-up attack can only occur if the original move successfully targets an opponent.
+After landing a damaging move, the user follows up with Magnitude at 10, 30, 50, or 70 power. Hits all adjacent Pokemon.
 
 # ID: 492
 Contact with this Pokemon has a 30% chance to inflict frostbite. Frostbitten Pokemon lose 1/8 HP each turn and have their Special Attack halved. Fire-type moves that thaw can cure frostbite. The frostbite effect is similar to burn but affects Special Attack instead of Attack.
