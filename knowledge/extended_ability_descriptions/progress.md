@@ -482,7 +482,7 @@ In Progress: 0
 | 471 | Cold Plasma                | ✅       | ✅        |
 | 472 | Super Slammer              | ✅       | ✅        |
 | 473 | Ability 473                | ❌       | ❌        |
-| 474 | Accelerate                 | ✅       | ❌        |
+| 474 | Accelerate                 | ✅       | ✅        |
 | 475 | Frost Burn                 | ✅       | ❌        |
 | 476 | Itchy Defense              | ✅       | ❌        |
 | 477 | Generator                  | ✅       | ❌        |

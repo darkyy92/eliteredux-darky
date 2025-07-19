@@ -1400,7 +1400,7 @@ Causes Electric-type moves to inflict burn instead of paralysis.
 Super Slammer boosts the power of hammer-based moves by 30%.
 
 # ID: 474
-Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly. Works with all charging moves including Solar Beam, Sky Attack, Skull Bash, Fly, Dig, Dive, Bounce, Shadow Force, and others. The Pokemon can immediately unleash powerful moves without delay.
+Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly.
 
 # ID: 475
 Frost Burn triggers a 40 BP Ice Beam immediately after using any Fire-type move. The followup Ice Beam targets the same opponent with perfect accuracy. Works with all Fire moves regardless of power or success. Creates unique Fire-Ice combination for surprising opponents with opposite type coverage.
