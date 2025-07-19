@@ -1376,7 +1376,7 @@ Jungle's Guard shields the user+Grass-type allies from status conditions and sta
 Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential in battle.
 
 # ID: 465
-Pixie Power combines fairy aura with accuracy boost. All Fairy moves get 1.33x power field-wide like Fairy Aura, affected by Aura Break. This Pokemon also gains 1.2x accuracy on all moves for improved hit rates. Strong support ability for fairy-focused teams and reliable offense.
+All Fairy moves get a 1.33x boost (opponent also gets the boost), affected by Aura Break. 1.2x accuracy on all moves.
 
 # ID: 466
 Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20% each. The power boost affects damage calculations while the accuracy boost reduces the chance of missing. Works on all Fire moves like Flamethrower and Electric moves like Thunderbolt. Ideal for mixed attackers.

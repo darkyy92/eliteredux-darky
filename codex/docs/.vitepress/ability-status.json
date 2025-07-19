@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 254,
+    "completed": 255,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T01:29:47.842429Z"
+    "generated_at": "2025-07-19T01:38:16.329908Z"
   },
   "abilities": {
     "0": {
@@ -3266,8 +3266,8 @@
       "id": 465,
       "name": "Pixie Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "466": {
       "id": 466,
@@ -8932,10 +8932,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "465": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "466": {
       "indicator": "🟠",
