@@ -1,8 +1,8 @@
 ---
 id: 462
 name: Combat Specialist
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 72
 ---
 
 # Combat Specialist - Ability ID 462
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combat Specialist boosts the power of punching and kicking moves by 30%. Affects punches like Fire Punch, Ice Punch, Thunder Punch, Focus Punch, and Mach Punch. Also affects kicks like Double Kick, High Jump Kick, Blaze Kick, and Mega Kick. Combines Iron Fist and Striker effects perfectly.
+Combat Specialist boosts the power of punching and kicking moves by 30%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
