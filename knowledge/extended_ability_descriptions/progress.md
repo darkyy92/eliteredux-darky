@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 870
+Completed: 869
 In Progress: 0
 
 ## Progress Tracking
@@ -481,7 +481,7 @@ In Progress: 0
 | 470 | Archer                     | ✅       | ✅        |
 | 471 | Cold Plasma                | ✅       | ✅        |
 | 472 | Super Slammer              | ✅       | ✅        |
-| 473 | Inversion                  | ✅       | ❌        |
+| 473 | Ability 473                | ❌       | ❌        |
 | 474 | Accelerate                 | ✅       | ❌        |
 | 475 | Frost Burn                 | ✅       | ❌        |
 | 476 | Itchy Defense              | ✅       | ❌        |

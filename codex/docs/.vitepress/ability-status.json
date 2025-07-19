@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 262,
-    "written": 870,
-    "pending": 6,
-    "generated_at": "2025-07-19T01:52:29.874682Z"
+    "written": 869,
+    "pending": 7,
+    "generated_at": "2025-07-19T01:54:24.513987Z"
   },
   "abilities": {
     "0": {
@@ -3320,10 +3320,10 @@
     },
     "473": {
       "id": 473,
-      "name": "Inversion",
-      "written": true,
+      "name": "Ability 473",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "474": {
       "id": 474,
@@ -8980,10 +8980,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "473": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "474": {
       "indicator": "🟠",

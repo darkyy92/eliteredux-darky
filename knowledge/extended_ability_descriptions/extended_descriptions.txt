@@ -1399,9 +1399,6 @@ Causes Electric-type moves to inflict burn instead of paralysis.
 # ID: 472
 Super Slammer boosts the power of hammer-based moves by 30%.
 
-# ID: 473
-Inversion automatically sets up Inverse Room when the Pokemon enters battle, lasting exactly 3 turns. Inverse Room reverses all type effectiveness interactions - super effective moves become not very effective and vice versa. Field effect cannot be reactivated while active. Game-changing.
-
 # ID: 474
 Accelerate eliminates the charging turn requirement for two-turn moves, allowing them to be used instantly. Works with all charging moves including Solar Beam, Sky Attack, Skull Bash, Fly, Dig, Dive, Bounce, Shadow Force, and others. The Pokemon can immediately unleash powerful moves without delay.
 
