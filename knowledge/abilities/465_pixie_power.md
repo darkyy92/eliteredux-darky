@@ -1,8 +1,8 @@
 ---
 id: 465
 name: Pixie Power
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 117
 ---
 
 # Pixie Power - Ability ID 465
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pixie Power combines fairy aura with accuracy boost. All Fairy moves get 1.33x power field-wide like Fairy Aura, affected by Aura Break. This Pokemon also gains 1.2x accuracy on all moves for improved hit rates. Strong support ability for fairy-focused teams and reliable offense.
+All Fairy moves get a 1.33x boost (opponent also gets the boost), affected by Aura Break. 1.2x accuracy on all moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
