@@ -461,7 +461,7 @@ In Progress: 0
 | 450 | Earth Eater                | ✅       | ✅        |
 | 451 | Lingering Aroma            | ✅       | ✅        |
 | 452 | Fairy Tale                 | ✅       | ✅        |
-| 453 | Raging Moth                | ✅       | ❌        |
+| 453 | Raging Moth                | ✅       | ✅        |
 | 454 | Adrenaline Rush            | ✅       | ❌        |
 | 455 | Archmage                   | ✅       | ❌        |
 | 456 | Cryomancy                  | ✅       | ❌        |
