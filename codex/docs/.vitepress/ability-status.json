@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 266,
+    "completed": 267,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T13:20:38.762309Z"
+    "generated_at": "2025-07-19T16:38:11.488321Z"
   },
   "abilities": {
     "0": {
@@ -3357,8 +3357,8 @@
       "id": 478,
       "name": "Moon Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "479": {
       "id": 479,
@@ -9010,10 +9010,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "478": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "479": {
       "indicator": "🟠",

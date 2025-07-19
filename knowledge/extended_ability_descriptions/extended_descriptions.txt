@@ -1412,7 +1412,7 @@ Itchy Defense traps attackers with Infestation when the user is successfully hit
 Generator charges up the user once upon switching in, doubling Electric-type move power for the next Electric attack. Recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out or after using an Electric move.
 
 # ID: 478
-Moon Spirit grants STAB to all Fairy and Dark-type moves regardless of typing, providing 1.5x damage multiplier. When using Moonlight, recovery increases to 75% max HP instead of normal 50% or weather-modified amounts. Creates powerful dual-type offensive synergy with enhanced healing.
+Moon Spirit grants STAB to all Fairy and Dark-type moves regardless of the user's typing. When using Moonlight, recovery increases to 75% max HP instead of normal 50% or weather-modified amounts.
 
 # ID: 479
 Dust Cloud automatically uses Sand Attack targeting the opponent upon switching into battle. The Ground-type status move reduces the target's accuracy by one stage with 100% accuracy. Works once per switch-in. Effective for disrupting opposing sweepers and accuracy-reliant strategies.

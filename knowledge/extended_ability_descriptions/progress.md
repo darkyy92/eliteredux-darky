@@ -486,7 +486,7 @@ In Progress: 0
 | 475 | Frost Burn                 | ✅       | ✅        |
 | 476 | Itchy Defense              | ✅       | ✅        |
 | 477 | Generator                  | ✅       | ✅        |
-| 478 | Moon Spirit                | ✅       | ❌        |
+| 478 | Moon Spirit                | ✅       | ✅        |
 | 479 | Dust Cloud                 | ✅       | ❌        |
 | 480 | Berserker Rage             | ✅       | ❌        |
 | 481 | Trickster                  | ✅       | ❌        |
