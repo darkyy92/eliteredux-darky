@@ -477,7 +477,7 @@ In Progress: 0
 | 466 | Plasma Lamp                | ✅       | ✅        |
 | 467 | Magma Eater                | ✅       | ✅        |
 | 468 | Super Hot Goo              | ✅       | ✅        |
-| 469 | Nika                       | ✅       | ❌        |
+| 469 | Nika                       | ✅       | ✅        |
 | 470 | Archer                     | ✅       | ❌        |
 | 471 | Cold Plasma                | ✅       | ❌        |
 | 472 | Super Slammer              | ✅       | ❌        |

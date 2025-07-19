@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 258,
+    "completed": 259,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T01:46:42.821140Z"
+    "generated_at": "2025-07-19T01:50:36.494920Z"
   },
   "abilities": {
     "0": {
@@ -3294,8 +3294,8 @@
       "id": 469,
       "name": "Nika",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "470": {
       "id": 470,
@@ -8956,10 +8956,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "469": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "470": {
       "indicator": "🟠",
