@@ -1331,7 +1331,7 @@ When hit by any move, the user becomes charged up, doubling the power of the nex
 Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Grav Apple, and Astral Barrage.
 
 # ID: 450
-Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves. This includes all Ground attacks like Earthquake, Earth Power, and Drill Run. The healing occurs instead of taking damage, making the user immune to Ground moves while gaining recovery.
+Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves.
 
 # ID: 451
 Lingering Aroma changes the attacker's ability to Lingering Aroma when hit by a contact move. Functions identically to Mummy, spreading on contact. Overrides most abilities except unsuppressable ones like Multitype. Blocked by Ability Shield item. Creates ability chain reactions when spread.

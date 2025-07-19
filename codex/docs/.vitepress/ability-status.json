@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 241,
+    "completed": 242,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T00:13:53.730722Z"
+    "generated_at": "2025-07-19T00:15:05.532242Z"
   },
   "abilities": {
     "0": {
@@ -3161,8 +3161,8 @@
       "id": 450,
       "name": "Earth Eater",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "451": {
       "id": 451,
@@ -8842,10 +8842,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "450": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "451": {
       "indicator": "🟠",

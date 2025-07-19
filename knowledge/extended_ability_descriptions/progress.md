@@ -458,7 +458,7 @@ In Progress: 0
 | 447 | Furnace                    | ✅       | ✅        |
 | 448 | Electromorphosis           | ✅       | ✅        |
 | 449 | Rocky Payload              | ✅       | ✅        |
-| 450 | Earth Eater                | ✅       | ❌        |
+| 450 | Earth Eater                | ✅       | ✅        |
 | 451 | Lingering Aroma            | ✅       | ❌        |
 | 452 | Fairy Tale                 | ✅       | ❌        |
 | 453 | Raging Moth                | ✅       | ❌        |
