@@ -1352,7 +1352,7 @@ Boosts the user's Speed by one stage whenever it knocks out an opponent with a d
 Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves.  Does not interact with Freezing Point.
 
 # ID: 457
-Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon with regular effectiveness. This bypasses the natural type interaction where Ghost moves normally have no effect on Normal-types. Works with all Ghost-type moves and their variants.
+Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon for 1x effectiveness.
 
 # ID: 458
 Purgatory boosts Ghost-type moves by 1.3x power normally, increasing to 1.8x when the Pokemon is below 1/3 of its maximum HP. This ability combines type specialization with a pinch effect, making Ghost-types increasingly dangerous as they take damage. Excellent for late-game sweeps.

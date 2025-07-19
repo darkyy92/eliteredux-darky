@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 248,
+    "completed": 249,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T00:53:50.795782Z"
+    "generated_at": "2025-07-19T00:55:12.529459Z"
   },
   "abilities": {
     "0": {
@@ -3210,8 +3210,8 @@
       "id": 457,
       "name": "Phantom Pain",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "458": {
       "id": 458,
@@ -8884,10 +8884,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "457": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "458": {
       "indicator": "🟠",

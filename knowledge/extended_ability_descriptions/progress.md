@@ -465,7 +465,7 @@ In Progress: 0
 | 454 | Adrenaline Rush            | ✅       | ✅        |
 | 455 | Archmage                   | ✅       | ✅        |
 | 456 | Cryomancy                  | ✅       | ✅        |
-| 457 | Phantom Pain               | ✅       | ❌        |
+| 457 | Phantom Pain               | ✅       | ✅        |
 | 458 | Purgatory                  | ✅       | ❌        |
 | 459 | Emanate                    | ✅       | ❌        |
 | 460 | Kunoichi's Blade           | ✅       | ❌        |
