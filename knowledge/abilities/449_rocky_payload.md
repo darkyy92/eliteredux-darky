@@ -1,8 +1,8 @@
 ---
 id: 449
 name: Rocky Payload
-status: analyzed
-character_count: 294
+status: reviewed
+character_count: 184
 ---
 
 # Rocky Payload - Ability ID 449
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Seismic Toss, Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Sky Drop, Grav Apple, and Astral Barrage. Provides consistent offensive boost across diverse move types for versatile coverage.
+Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Grav Apple, and Astral Barrage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
