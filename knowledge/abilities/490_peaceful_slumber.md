@@ -1,8 +1,8 @@
 ---
 id: 490
 name: Peaceful Slumber
-status: ai-generated
-character_count: 254
+status: reviewed
+character_count: 238
 ---
 
 # Peaceful Slumber - Ability ID 490
@@ -13,7 +13,7 @@ character_count: 254
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Sweet Dreams and Self Sufficient healing effects. When asleep, restores 1/8 max HP minus 1/16 max HP (net 1/16 HP). When awake, restores 1/16 max HP at end of turn except on the first turn. Provides consistent healing regardless of sleep status.
+Sweet Dreams restores 1/8 of maximum HP at the end of each turn when the user is asleep or has the Comatose ability. Additionally, it grants immunity to Bad Dreams damage. Restores 1/16 of the Pokemon's maximum HP at the end of each turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
