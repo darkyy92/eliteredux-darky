@@ -1349,7 +1349,7 @@ Boosts the user's Speed by one stage whenever it knocks out an opponent with a d
 30% chance to add type-based effects: Poison=Toxic, Ice=Frostbite, Water=Confusion, Fire=Burn, Electric/Psychic/Fairy/Grass set terrain, Normal=Encore, Rock=Stealth Rock, Ghost=Disable, Dark=Bleed, Fighting=+SpAtk, Flying=+Speed, Dragon=-Atk, Ground=Trap, Steel=+Def.
 
 # ID: 456
-Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves that can cause it. Frostbite is a status condition that deals 1/16 max HP damage per turn and halves special attack power like burn affects physical attacks. Works with moves like Ice Fang and Bitter Malice.
+Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves.  Does not interact with Freezing Point.
 
 # ID: 457
 Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon with regular effectiveness. This bypasses the natural type interaction where Ghost moves normally have no effect on Normal-types. Works with all Ghost-type moves and their variants.

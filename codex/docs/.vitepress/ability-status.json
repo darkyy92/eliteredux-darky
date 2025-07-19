@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 247,
+    "completed": 248,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T00:52:34.909489Z"
+    "generated_at": "2025-07-19T00:53:50.795782Z"
   },
   "abilities": {
     "0": {
@@ -3203,8 +3203,8 @@
       "id": 456,
       "name": "Cryomancy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "457": {
       "id": 457,
@@ -8878,10 +8878,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "456": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "457": {
       "indicator": "🟠",
