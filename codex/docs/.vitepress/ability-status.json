@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 276,
+    "completed": 277,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T23:47:28.634941Z"
+    "generated_at": "2025-07-19T23:50:03.036822Z"
   },
   "abilities": {
     "0": {
@@ -3427,8 +3427,8 @@
       "id": 488,
       "name": "Tipping Point",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "489": {
       "id": 489,
@@ -9070,10 +9070,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "488": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "489": {
       "indicator": "🟠",

@@ -496,7 +496,7 @@ In Progress: 0
 | 485 | Soothing Aroma             | ✅       | ✅        |
 | 486 | Prim and Proper            | ✅       | ✅        |
 | 487 | Super Strain               | ✅       | ✅        |
-| 488 | Tipping Point              | ✅       | ❌        |
+| 488 | Tipping Point              | ✅       | ✅        |
 | 489 | Enlightened                | ✅       | ❌        |
 | 490 | Peaceful Slumber           | ✅       | ❌        |
 | 491 | Aftershock                 | ✅       | ❌        |
