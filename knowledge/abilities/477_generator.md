@@ -1,8 +1,8 @@
 ---
 id: 477
 name: Generator
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 256
 ---
 
 # Generator - Ability ID 477
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Generator charges up the Pokemon once upon switching in, doubling Electric-type move power for the next Electric attack. Can recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out but can be regained with terrain activation.
+Generator charges up the user once upon switching in, doubling Electric-type move power for the next Electric attack. Recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out or after using an Electric move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
