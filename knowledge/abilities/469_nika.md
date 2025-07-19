@@ -1,8 +1,8 @@
 ---
 id: 469
 name: Nika
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 91
 ---
 
 # Nika - Ability ID 469
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Nika combines Iron Fist's 30% power boost to punching moves with protection for Water-type attacks in sunny weather. While Water moves normally deal reduced damage in sun, Nika prevents this penalty, allowing them to function at full power. Perfect for mixed attackers.
+Punching moves are boosted by 30%. Water moves receive no penalty when sun is on the field.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
