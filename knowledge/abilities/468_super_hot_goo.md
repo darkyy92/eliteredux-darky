@@ -1,8 +1,8 @@
 ---
 id: 468
 name: Super Hot Goo
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 132
 ---
 
 # Super Hot Goo - Ability ID 468
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Super Hot Goo combines Flame Body and Gooey effects. Contact moves have a 30% chance to inflict burn and always lower the attacker's Speed by one stage. Burns deal 1/16 max HP damage per turn. Speed reduction bypasses Substitute and ignores stat-lowering immunities through Mirror Armor.
+Contact moves have a 30% chance to inflict burn and the user lowers the attacker's Speed by one stage when receiving a contact move. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
