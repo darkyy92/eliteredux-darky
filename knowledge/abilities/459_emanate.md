@@ -1,8 +1,8 @@
 ---
 id: 459
 name: Emanate
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 112
 ---
 
 # Emanate - Ability ID 459
@@ -13,7 +13,8 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Emanate converts all Normal-type moves to Psychic-type with a 1.2x power boost. The Pokemon also gains STAB on all Psychic-type moves, including converted ones. This transforms weak Normal moves into powerful Psychic attacks while enhancing existing Psychic moves through STAB bonus.
+
+Converts all Normal-type moves to Psychic-type and grants STAB for Psychic moves, regardless of the user's type. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
