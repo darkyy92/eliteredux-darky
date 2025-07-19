@@ -1391,7 +1391,7 @@ Contact moves have a 30% chance to inflict burn and the user lowers the attacker
 Punching moves are boosted by 30%. Water moves receive no penalty when sun is on the field.
 
 # ID: 470
-Archer boosts the power of arrow-based moves by 30%. Affects moves like Thousand Arrows, Spirit Shackle, Diamond Arrow, Blazing Arrow, and Triple Arrows. The power boost applies to both physical and special arrow moves, making precision-based attackers significantly more threatening.
+Archer boosts the power of arrow-based moves by 30%.
 
 # ID: 471
 Cold Plasma converts Electric-type moves to inflict burn status instead of paralysis. This includes all Electric moves with paralysis chances like Thunderbolt, Discharge, and Thunder Wave. The burn applies the same probability as the original paralysis effect. Great for disrupting bulky foes.

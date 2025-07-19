@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 259,
+    "completed": 260,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T01:50:36.494920Z"
+    "generated_at": "2025-07-19T01:51:08.046776Z"
   },
   "abilities": {
     "0": {
@@ -3301,8 +3301,8 @@
       "id": 470,
       "name": "Archer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "471": {
       "id": 471,
@@ -8962,10 +8962,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "470": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "471": {
       "indicator": "🟠",
