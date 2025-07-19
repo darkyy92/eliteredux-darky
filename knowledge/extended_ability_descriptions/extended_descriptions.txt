@@ -1430,7 +1430,7 @@ Sand Guard blocks priority moves and reduces special attack damage by 50% during
 Cures all status conditions when switching out. Also restores 33% of maximum HP when switching out.
 
 # ID: 484
-Boosts the Pokemon's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves like Gust, Hurricane, or Tailwind, absorbs the attack completely and raises the highest attacking stat by one stage instead of taking damage.
+Boosts the user's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves, absorbs the attack and raises the highest attacking stat by one stage.
 
 # ID: 485
 On entry, if any Pokemon in the user's party has a status condition (sleep, poison, burn, freeze, paralysis, toxic, frostbite, or bleed), this ability automatically heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.

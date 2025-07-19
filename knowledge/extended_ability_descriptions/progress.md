@@ -492,7 +492,7 @@ In Progress: 0
 | 481 | Trickster                  | ✅       | ✅        |
 | 482 | Sand Guard                 | ✅       | ✅        |
 | 483 | Natural Recovery           | ✅       | ✅        |
-| 484 | Wind Rider                 | ✅       | ❌        |
+| 484 | Wind Rider                 | ✅       | ✅        |
 | 485 | Soothing Aroma             | ✅       | ❌        |
 | 486 | Prim and Proper            | ✅       | ❌        |
 | 487 | Super Strain               | ✅       | ❌        |
