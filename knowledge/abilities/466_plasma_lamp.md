@@ -1,8 +1,8 @@
 ---
 id: 466
 name: Plasma Lamp
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 87
 ---
 
 # Plasma Lamp - Ability ID 466
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20% each. The power boost affects damage calculations while the accuracy boost reduces the chance of missing. Works on all Fire moves like Flamethrower and Electric moves like Thunderbolt. Ideal for mixed attackers.
+Plasma Lamp boosts both power and accuracy of Fire and Electric-type moves by 20% each. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
