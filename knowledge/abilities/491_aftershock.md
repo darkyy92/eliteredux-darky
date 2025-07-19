@@ -1,8 +1,8 @@
 ---
 id: 491
 name: Aftershock
-status: ai-generated
-character_count: 273
+status: reviewed
+character_count: 120
 ---
 
 # Aftershock - Ability ID 491
@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-After using any damaging move, the Pokemon automatically follows up with Magnitude at 65 power. This Ground-type tremor hits all adjacent Pokemon, including allies in double battles. The follow-up attack can only occur if the original move successfully targets an opponent.
+After landing a damaging move, the user follows up with Magnitude at 10, 30, 50, or 70 power. Hits all adjacent Pokemon.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
