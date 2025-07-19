@@ -1,8 +1,8 @@
 ---
 id: 450
 name: Earth Eater
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 86
 ---
 
 # Earth Eater - Ability ID 450
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves. This includes all Ground attacks like Earthquake, Earth Power, and Drill Run. The healing occurs instead of taking damage, making the user immune to Ground moves while gaining recovery.
+Earth Eater heals the Pokemon for 25% of its maximum HP when hit by Ground-type moves. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
