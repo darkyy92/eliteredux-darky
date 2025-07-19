@@ -1,8 +1,8 @@
 ---
 id: 488
 name: Tipping Point
-status: ai-generated
-character_count: 240
+status: reviewed
+character_count: 129
 ---
 
 # Tipping Point - Ability ID 488
@@ -13,7 +13,7 @@ character_count: 240
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon is hit by an attack, it raises its Special Attack by 1 stage. If the hit was a critical hit, its Special Attack is immediately maximized to +6 stages instead. This ability triggers after taking damage from offensive moves.
+When hit, raises the user's Special Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
