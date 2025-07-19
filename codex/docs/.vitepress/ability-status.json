@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 239,
+    "completed": 240,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-18T23:51:45.172210Z"
+    "generated_at": "2025-07-19T00:10:59.089241Z"
   },
   "abilities": {
     "0": {
@@ -3147,8 +3147,8 @@
       "id": 448,
       "name": "Electromorphosis",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "449": {
       "id": 449,
@@ -8830,10 +8830,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "448": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "449": {
       "indicator": "🟠",

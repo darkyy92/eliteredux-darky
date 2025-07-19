@@ -456,7 +456,7 @@ In Progress: 0
 | 445 | Lumberjack                 | ✅       | ✅        |
 | 446 | Well Baked Body            | ✅       | ✅        |
 | 447 | Furnace                    | ✅       | ✅        |
-| 448 | Electromorphosis           | ✅       | ❌        |
+| 448 | Electromorphosis           | ✅       | ✅        |
 | 449 | Rocky Payload              | ✅       | ❌        |
 | 450 | Earth Eater                | ✅       | ❌        |
 | 451 | Lingering Aroma            | ✅       | ❌        |

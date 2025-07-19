@@ -1325,7 +1325,7 @@ Well Baked Body grants immunity to Fire-type moves and boosts Defense by 2 stage
 Furnace boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Stealth Rock present.
 
 # ID: 448
-Electromorphosis charges up the Pokemon when it takes damage from any attack. Once charged, the next Electric-type move used by the Pokemon deals double damage. The charge effect is consumed after using an Electric-type move with base power, resetting the cycle.
+When hit by any move, the user becomes charged up, doubling the power of the next Electric-type move used. Charged status is consumed after one Electric move use.
 
 # ID: 449
 Rocky Payload boosts Rock-type and throwing-based moves by 50%. Throwing moves include Seismic Toss, Rock Throw, Egg Bomb, Rock Slide, Rock Tomb, Fling, Rock Wrecker, Sky Drop, Grav Apple, and Astral Barrage. Provides consistent offensive boost across diverse move types for versatile coverage.
