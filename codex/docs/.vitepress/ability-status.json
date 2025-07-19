@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 242,
+    "completed": 243,
     "written": 870,
     "pending": 6,
-    "generated_at": "2025-07-19T00:15:05.532242Z"
+    "generated_at": "2025-07-19T00:41:41.769280Z"
   },
   "abilities": {
     "0": {
@@ -3168,8 +3168,8 @@
       "id": 451,
       "name": "Lingering Aroma",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "452": {
       "id": 452,
@@ -8848,10 +8848,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "451": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "452": {
       "indicator": "🟠",
