@@ -484,7 +484,7 @@ In Progress: 0
 | 473 | Ability 473                | ❌       | ❌        |
 | 474 | Accelerate                 | ✅       | ✅        |
 | 475 | Frost Burn                 | ✅       | ✅        |
-| 476 | Itchy Defense              | ✅       | ❌        |
+| 476 | Itchy Defense              | ✅       | ✅        |
 | 477 | Generator                  | ✅       | ❌        |
 | 478 | Moon Spirit                | ✅       | ❌        |
 | 479 | Dust Cloud                 | ✅       | ❌        |

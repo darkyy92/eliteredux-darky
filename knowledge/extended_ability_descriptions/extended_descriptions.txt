@@ -1406,7 +1406,7 @@ Accelerate eliminates the charging turn requirement for two-turn moves, allowing
 Triggers a 40 BP Ice Beam immediately after using any Fire-type move.
 
 # ID: 476
-Itchy Defense automatically traps attackers with Infestation when hit by contact moves. The trapped opponent suffers 1/8 maximum HP damage each turn for 4-5 turns and cannot switch out. Works only against contact moves that successfully hit, making it a strong deterrent against physical attackers.
+Itchy Defense traps attackers with Infestation when the user is successfully hit by a contact move. The trapped opponent loses 1/8th of their maximum HP damage each turn for 4-5 turns and cannot switch out.
 
 # ID: 477
 Generator charges up the Pokemon once upon switching in, doubling Electric-type move power for the next Electric attack. Can recharge when Electric Terrain becomes active during battle. The charged state is lost upon switching out but can be regained with terrain activation.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 264,
+    "completed": 265,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T01:58:37.659239Z"
+    "generated_at": "2025-07-19T13:12:56.117737Z"
   },
   "abilities": {
     "0": {
@@ -3343,8 +3343,8 @@
       "id": 476,
       "name": "Itchy Defense",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "477": {
       "id": 477,
@@ -8998,10 +8998,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "476": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "477": {
       "indicator": "🟠",
