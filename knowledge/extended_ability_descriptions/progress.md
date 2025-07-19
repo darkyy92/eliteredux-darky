@@ -495,7 +495,7 @@ In Progress: 0
 | 484 | Wind Rider                 | ✅       | ✅        |
 | 485 | Soothing Aroma             | ✅       | ✅        |
 | 486 | Prim and Proper            | ✅       | ✅        |
-| 487 | Super Strain               | ✅       | ❌        |
+| 487 | Super Strain               | ✅       | ✅        |
 | 488 | Tipping Point              | ✅       | ❌        |
 | 489 | Enlightened                | ✅       | ❌        |
 | 490 | Peaceful Slumber           | ✅       | ❌        |
