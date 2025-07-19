@@ -1,8 +1,8 @@
 ---
 id: 463
 name: Jungle's Guard
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 155
 ---
 
 # Jungle's Guard - Ability ID 463
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Jungle's Guard shields Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun. Combines Flower Veil protection with Leaf Guard healing. Ideal for sun teams needing comprehensive status and stat protection for Grass allies.
+Jungle's Guard shields the user+Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
