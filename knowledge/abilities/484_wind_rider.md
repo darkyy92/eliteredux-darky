@@ -1,8 +1,8 @@
 ---
 id: 484
 name: Wind Rider
-status: ai-generated
-character_count: 251
+status: reviewed
+character_count: 178
 ---
 
 # Wind Rider - Ability ID 484
@@ -13,7 +13,7 @@ character_count: 251
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts the Pokemon's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves like Gust, Hurricane, or Tailwind, absorbs the attack completely and raises the highest attacking stat by one stage instead of taking damage.
+Boosts the user's highest attacking stat when entering battle under Tailwind. When hit by wind-based moves, absorbs the attack and raises the highest attacking stat by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
