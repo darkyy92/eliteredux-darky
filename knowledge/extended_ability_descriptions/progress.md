@@ -100,7 +100,7 @@ In Progress: 0
 |  89 | Iron Fist                  | ✅       | ❌        |
 |  90 | Poison Heal                | ✅       | ❌        |
 |  91 | Adaptability               | ✅       | ❌        |
-|  92 | Skill Link                 | ✅       | ❌        |
+|  92 | Skill Link                 | ✅       | ✅        |
 |  93 | Hydration                  | ✅       | ❌        |
 |  94 | Solar Power                | ✅       | ❌        |
 |  95 | Quick Feet                 | ✅       | ❌        |

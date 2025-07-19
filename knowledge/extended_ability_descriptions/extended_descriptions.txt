@@ -269,7 +269,7 @@ Poison Heal reverses poison's effects, restoring 1/8 max HP per turn instead of 
 Adaptability enhances the Same Type Attack Bonus (STAB) from 1.5x to 2x damage when using moves matching the Pokemon's type. This massive 33% relative increase makes STAB moves hit significantly harder than coverage options. Works with all types including dual-types. Pure offensive power boost.
 
 # ID: 92
-Forces multi-hit moves to always hit 5 times instead of random 2-5 hits. Each hit calculates damage separately with independent critical chances. Transforms moves like Rock Blast (25 power) into reliable 125 power attacks. Each hit can trigger contact abilities and break Substitute/Focus Sash.
+Multihit moves to always hit 5 times. For moves that only hit 3 times or Population Bomb, there will be one accuracy check for all hits instead of individual checks for each hit.
 
 # ID: 93
 Hydration cures the Pokemon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity.
