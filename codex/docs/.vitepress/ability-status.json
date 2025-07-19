@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 267,
+    "completed": 268,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-19T16:38:11.488321Z"
+    "generated_at": "2025-07-19T16:56:31.770098Z"
   },
   "abilities": {
     "0": {
@@ -3364,8 +3364,8 @@
       "id": 479,
       "name": "Dust Cloud",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "480": {
       "id": 480,
@@ -9016,10 +9016,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "479": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "480": {
       "indicator": "🟠",
