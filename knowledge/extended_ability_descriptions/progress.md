@@ -467,7 +467,7 @@ In Progress: 0
 | 456 | Cryomancy                  | ✅       | ✅        |
 | 457 | Phantom Pain               | ✅       | ✅        |
 | 458 | Purgatory                  | ✅       | ❌        |
-| 459 | Emanate                    | ✅       | ❌        |
+| 459 | Emanate                    | ✅       | ✅        |
 | 460 | Kunoichi's Blade           | ✅       | ❌        |
 | 461 | Monkey Business            | ✅       | ❌        |
 | 462 | Combat Specialist          | ✅       | ❌        |
