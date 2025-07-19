@@ -485,7 +485,7 @@ In Progress: 0
 | 474 | Accelerate                 | ✅       | ✅        |
 | 475 | Frost Burn                 | ✅       | ✅        |
 | 476 | Itchy Defense              | ✅       | ✅        |
-| 477 | Generator                  | ✅       | ❌        |
+| 477 | Generator                  | ✅       | ✅        |
 | 478 | Moon Spirit                | ✅       | ❌        |
 | 479 | Dust Cloud                 | ✅       | ❌        |
 | 480 | Berserker Rage             | ✅       | ❌        |
