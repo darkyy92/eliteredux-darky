@@ -1,8 +1,8 @@
 ---
 id: 485
 name: Soothing Aroma
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 120
 ---
 
 # Soothing Aroma - Ability ID 485
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On entry, if any Pokemon in the user's party has a status condition (sleep, poison, burn, freeze, paralysis, toxic, frostbite, or bleed), this ability automatically heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.
+On entry, heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
