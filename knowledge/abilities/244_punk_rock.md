@@ -2,7 +2,7 @@
 id: 244
 name: Punk Rock
 status: reviewed
-character_count: 237
+character_count: 151
 ---
 
 # Punk Rock - Ability ID 244
@@ -13,7 +13,7 @@ character_count: 237
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punk Rock amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. The damage boost is additive with other damage boost sources and the damage reduction is multiplicative with other damage reduction sources. 
+Punk Rock amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
