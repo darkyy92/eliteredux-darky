@@ -1,8 +1,8 @@
 ---
 id: 555
 name: Egoist
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 115
 ---
 
 # Egoist - Ability ID 555
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. When any opponent increases their Attack, Defense, Speed, Special Attack, Special Defense, or Accuracy, the Egoist user gains the same stat boosts instantly. Perfect for countering setup sweepers.
+Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. Does not copy other Egoist boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
