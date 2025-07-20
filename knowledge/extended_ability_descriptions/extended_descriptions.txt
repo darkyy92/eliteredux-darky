@@ -788,7 +788,7 @@ Grim Neigh boosts the Pokemon's Special Attack by one stage when it causes an op
 Prevents all opposing Pokemon from consuming held items. Raise Attack by one stage when the user knocks out an opponent with a direct attack.
 
 # ID: 267
-Combines Unnerve and Grim Neigh effects. Unnerve makes opponents unable to consume held items. Grim Neigh raises Special Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
+Prevents all opposing Pokemon from consuming held items. Raise Special Attack by one stage when the user knocks out an opponent with a direct attack.
 
 # ID: 268
 Weather Ball doubles power and becomes Fire-type. Solar moves charge instantly. Growth boosts Attack and Special Attack by 2 stages. Moonlight, Morning Sun, and Synthesis recover 2/3 of your max HP. Grass and Water Pledge creates a sea of fire or rainbow respectively.
