@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 347,
+    "completed": 348,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:22:15.489771Z"
+    "generated_at": "2025-07-20T18:23:41.288092Z"
   },
   "abilities": {
     "0": {
@@ -3959,8 +3959,8 @@
       "id": 564,
       "name": "Eject Pack Ability",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "565": {
       "id": 565,
@@ -9526,10 +9526,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "564": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "565": {
       "indicator": "🟠",

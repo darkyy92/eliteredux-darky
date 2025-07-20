@@ -1664,7 +1664,7 @@ Costar copies all stat stage changes (positive and negative) from the ally when 
 Allows Tatsugiri to enter an allied Dondozo and become untargetable. Dondozo receives +2 to all stats, cannot switch or be forced out and Tatsugiri becomes unusable. If Dondozo faints, Tatsugiri reappears and can act normally again. Cannot be swapped, copied, or suppressed.
 
 # ID: 564
-Automatically switches the Pokemon out when any of its stats are lowered by an opponent's move or ability. Functions identically to the Eject Pack item but as a permanent ability. Single-use per battle - once triggered, won't activate again if the Pokemon returns to battle.
+Automatically switches the user out when any of its stats are lowered, including self drops. Triggers once per battle.
 
 # ID: 565
 Combines Haunted Spirit and Vengeance effects. When KO'd by contact moves, curses the attacker to lose 1/4 HP each turn. When at 1/3 HP or less, Ghost-type moves deal 50% more damage. Provides both defensive punishment and offensive comeback potential.
