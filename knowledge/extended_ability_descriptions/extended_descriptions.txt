@@ -1523,7 +1523,7 @@ Keen Edge moves become Special (deal Special damage and use the Special Attack s
 Uses Powder on entry, coating the target with explosive powder for the remainder of the turn. If the target uses any Fire-type move while coated, they lose 25% of their max HP and the powder is consumed.
 
 # ID: 515
-Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle.
+Retrieves original held item when switching out if not holding one. Must not be knocked out to activate.
 
 # ID: 516
 Automatically casts Trick-or-Treat when entering battle, adding Ghost as a third type to the target Pokemon. This removes Ghost immunity to physical attacks in Fog weather and adds Ghost weaknesses. The effect persists until the target switches out, making it a powerful counter to Fog teams.

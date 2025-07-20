@@ -523,7 +523,7 @@ In Progress: 0
 | 512 | Combustion                 | ✅       | ✅        |
 | 513 | Pony Power                 | ✅       | ✅        |
 | 514 | Powder Burst               | ✅       | ✅        |
-| 515 | Retriever                  | ✅       | ❌        |
+| 515 | Retriever                  | ✅       | ✅        |
 | 516 | Monster Mash               | ✅       | ❌        |
 | 517 | Two Step                   | ✅       | ❌        |
 | 518 | Spiteful                   | ✅       | ❌        |
