@@ -1,8 +1,8 @@
 ---
 id: 504
 name: Change of Heart
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 116
 ---
 
 # Change of Heart - Ability ID 504
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Change of Heart activates the moment its user switches into battle, automatically swapping all stat stage modifications with the target opponent. This includes boosts and drops to Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, and Evasion. Perfect for disrupting setup sweepers.
+Uses Heart Swap on entry. Swaps stat stages with the Pokemon directly across from the user. Ignores accuracy checks.
 
 ## Detailed Mechanical Explanation
 
