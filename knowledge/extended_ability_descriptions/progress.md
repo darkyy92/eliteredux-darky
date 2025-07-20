@@ -500,7 +500,7 @@ In Progress: 0
 | 489 | Enlightened                | ✅       | ✅        |
 | 490 | Peaceful Slumber           | ✅       | ✅        |
 | 491 | Aftershock                 | ✅       | ✅        |
-| 492 | Freezing Point             | ✅       | ❌        |
+| 492 | Freezing Point             | ✅       | ✅        |
 | 493 | Cryo Proficiency           | ✅       | ❌        |
 | 494 | Arcane Force               | ✅       | ❌        |
 | 495 | Doombringer                | ✅       | ❌        |

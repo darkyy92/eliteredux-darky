@@ -1454,7 +1454,7 @@ Sweet Dreams restores 1/8 of maximum HP at the end of each turn when the user is
 After landing a damaging move, the user follows up with Magnitude at 10, 30, 50, or 70 power. Hits all adjacent Pokemon.
 
 # ID: 492
-Contact with this Pokemon has a 30% chance to inflict frostbite. Frostbitten Pokemon lose 1/8 HP each turn and have their Special Attack halved. Fire-type moves that thaw can cure frostbite. The frostbite effect is similar to burn but affects Special Attack instead of Attack.
+Contact with this Pokemon has a 20% chance to inflict frostbite. Non-contact has a 30% chance. Works offensively and defensively. Frostbitten Pokemon lose 1/8th of their max HP each turn and have their Special Attack halved.
 
 # ID: 493
 When this Pokemon makes contact with an opponent, there's a 30% chance to inflict frostbite. Additionally, on successful contact hits, this Pokemon summons hail if no hail is active. The Pokemon is immune to hail damage, allowing it to thrive in the icy conditions it creates.
