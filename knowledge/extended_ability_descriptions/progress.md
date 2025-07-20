@@ -539,7 +539,7 @@ In Progress: 0
 | 528 | Crowned Shield             | ✅       | ✅        |
 | 529 | Ability 529                | ❌       | ❌        |
 | 530 | Crowned King               | ✅       | ✅        |
-| 531 | Clap Trap                  | ✅       | ❌        |
+| 531 | Clap Trap                  | ✅       | ✅        |
 | 532 | Permanence                 | ✅       | ❌        |
 | 533 | Hubris                     | ✅       | ❌        |
 | 534 | Cosmic Daze                | ✅       | ❌        |

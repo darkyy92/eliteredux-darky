@@ -1568,7 +1568,7 @@ Raises Defense by 1 stage upon switching in. When hit, raises the user's Defense
 Prevents all opposing Pokemon from consuming held items. Raise Attack and Special Attack by one stage when the user knocks out an opponent with a direct attack.
 
 # ID: 531
-Clap Trap counters contact moves by immediately using Snap Trap with 50 base power against the attacker. The Steel-type retaliation traps opponents for 4-5 turns while dealing damage. Only activates when hit by contact moves, providing excellent defensive utility and battlefield control.
+When the user receives a contact move, counters with a 50 BP Snap Trap. This Steel-type move traps opponents for 4-5 turns while dealing 1/8 max HP damage.
 
 # ID: 532
 Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover and Synthesis, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
