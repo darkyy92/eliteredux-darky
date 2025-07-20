@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 304,
+    "completed": 305,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:54:04.245991Z"
+    "generated_at": "2025-07-20T01:54:45.606797Z"
   },
   "abilities": {
     "0": {
@@ -3644,8 +3644,8 @@
       "id": 519,
       "name": "Fortitude",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "520": {
       "id": 520,
@@ -9256,10 +9256,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "519": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "520": {
       "indicator": "🟠",

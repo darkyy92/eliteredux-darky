@@ -1535,7 +1535,7 @@ After using a dance move, automatically follows up with a 50 BP Revelation Dance
 Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker. Fails if the attacker has no remaining PP or hasn't used any moves yet.
 
 # ID: 519
-Fortitude raises Special Defense by 1 stage when hit by any move. If the attack is a critical hit, Special Defense is maxed out to +6 stages instead. The boost applies before damage calculation, making each hit progressively weaker against special attacks.
+When hit, raises the user's Special Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 520
 Devourer combines Strong Jaw and Primal Maw effects. Boosts biting, jaw, and fang moves by 30% damage. When using these moves, the second hit of multi-hit abilities deals 40% damage instead of the usual 25%, making jaw-based attacks devastatingly powerful in combat.

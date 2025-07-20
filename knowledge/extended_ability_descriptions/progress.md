@@ -527,7 +527,7 @@ In Progress: 0
 | 516 | Monster Mash               | ✅       | ✅        |
 | 517 | Two Step                   | ✅       | ✅        |
 | 518 | Spiteful                   | ✅       | ✅        |
-| 519 | Fortitude                  | ✅       | ❌        |
+| 519 | Fortitude                  | ✅       | ✅        |
 | 520 | Devourer                   | ✅       | ❌        |
 | 521 | Phantom Thief              | ✅       | ❌        |
 | 522 | Early Grave                | ✅       | ❌        |
