@@ -1,8 +1,8 @@
 ---
 id: 552
 name: Terminal Velocity
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 116
 ---
 
 # Terminal Velocity - Ability ID 552
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Terminal Velocity adds 20% of the Pokemon's Speed stat to its Special Attack when using special moves. This bonus is calculated after stat stages and applies to the entire damage formula. Works with all special attacks including signature moves and Hidden Power. Devastating on fast special sweepers.
+Adds 20% of the user's Speed stat to damage when using non-contact moves. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
