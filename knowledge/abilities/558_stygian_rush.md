@@ -1,8 +1,8 @@
 ---
 id: 558
 name: Stygian Rush
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 54
 ---
 
 # Stygian Rush - Ability ID 558
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Stygian Rush grants +1 priority to all Dark-type moves when the Pokemon is at maximum HP. This allows Dark-type attacks to move before most other moves in battle. The priority boost is lost if the Pokemon takes any damage, making it a high-risk, high-reward ability.
+Grants +1 priority to Dark-type moves when at full HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
