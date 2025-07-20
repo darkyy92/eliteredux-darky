@@ -1,8 +1,8 @@
 ---
 id: 564
 name: Eject Pack Ability
-status: ai-generated
-character_count: 274
+status: reviewed
+character_count: 118
 ---
 
 # Eject Pack Ability - Ability ID 564
@@ -13,7 +13,7 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically switches the Pokemon out when any of its stats are lowered by an opponent's move or ability. Functions identically to the Eject Pack item but as a permanent ability. Single-use per battle - once triggered, won't activate again if the Pokemon returns to battle.
+Automatically switches the user out when any of its stats are lowered, including self drops. Triggers once per battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
