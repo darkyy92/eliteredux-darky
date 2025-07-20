@@ -2,7 +2,7 @@
 id: 266
 name: As One Ice Rider
 status: reviewed
-character_count: 214
+character_count: 141
 ---
 
 # As One Ice Rider - Ability ID 266
@@ -13,7 +13,7 @@ character_count: 214
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Unnerve and Chilling Neigh effects. Unnerve prevents all opposing Pokemon from consuming held items. Chilling Neigh raises Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
+Prevents all opposing Pokemon from consuming held items. Raise Attack by one stage when the user knocks out an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
