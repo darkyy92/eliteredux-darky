@@ -1715,7 +1715,7 @@ Beads of Ruin creates a passive aura that reduces the Special Defense of all oth
 Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokemon survive key hits they otherwise couldn't tank.
 
 # ID: 583
-Negates all damage from the first hit received per battle. Moves still connect and secondary effects apply, but damage becomes 0. For multi-hit moves, only first strike is blocked. Protection persists through switching but is consumed permanently once used. Can be suppressed by Mold Breaker.
+Negates the first instance of damage received. Moves still connect and secondary effects apply, but damage becomes 0.
 
 # ID: 584
 Orichalcum Pulse automatically creates intense sunlight when the Pokemon enters battle. While sunlight is active, this ability amplifies the Pokemon's physical Attack power by exactly 33% (1.33x multiplier). Works with all sun forms: regular, permanent, and Desolate Land.

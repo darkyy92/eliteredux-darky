@@ -591,7 +591,7 @@ In Progress: 0
 | 580 | Vessel Of Ruin             | ✅       | ✅        |
 | 581 | Beads Of Ruin              | ✅       | ❌        |
 | 582 | Thick Skin                 | ✅       | ❌        |
-| 583 | Gallantry                  | ✅       | ❌        |
+| 583 | Gallantry                  | ✅       | ✅        |
 | 584 | Orichalcum Pulse           | ✅       | ❌        |
 | 585 | Sun Basking                | ✅       | ❌        |
 | 586 | Winged King                | ✅       | ❌        |
