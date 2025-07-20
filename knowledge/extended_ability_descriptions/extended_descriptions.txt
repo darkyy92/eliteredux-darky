@@ -1580,7 +1580,7 @@ Boosts the user's Special Attack by one stage whenever it knocks out an opponent
 Attacks against confused targets deal double damage. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion.
 
 # ID: 535
-Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness, bypassing their typical immunity. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities like Sand Attack or Intimidate.
+Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities.
 
 # ID: 536
 Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at turn's end. The HP cost only applies after using damaging moves, not status moves. Magic Guard prevents the HP loss while keeping the damage boost. Risky but rewarding for glass cannon strategies.
