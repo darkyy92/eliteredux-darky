@@ -1511,7 +1511,7 @@ Fighter boosts Fighting-type moves by 20% at high HP and 50% when at 1/3 HP or b
 Allows status moves to bypass all immunities and type resistances, but forces them to move last in their priority bracket.
 
 # ID: 511
-Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet off the ground for 3 turns. While levitating, all attacks targeting the user have perfect accuracy, but the user becomes immune to Ground-type moves and terrain effects. Cannot affect grounded Pokemon.
+Casts Telekinesis on entry. All moves against the target cannot miss, but they become immune to Ground-type moves and other Grounded effects. Cannot affect Rooted Pokemon or if they hold Iron Ball. Wears off under Gravity or if they are hit by Smack Down. Lasts 3 turns.
 
 # ID: 512
 Combustion increases the power of all Fire-type moves by 50%. This ability amplifies the base power of Fire attacks before damage calculations, making every flame-based move significantly stronger. Excellent for Fire-type attackers who want consistent damage boosts.

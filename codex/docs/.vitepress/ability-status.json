@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 296,
+    "completed": 297,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:26:00.391036Z"
+    "generated_at": "2025-07-20T01:35:22.084158Z"
   },
   "abilities": {
     "0": {
@@ -3588,8 +3588,8 @@
       "id": 511,
       "name": "Telekinetic",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "512": {
       "id": 512,
@@ -9208,10 +9208,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "511": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "512": {
       "indicator": "🟠",

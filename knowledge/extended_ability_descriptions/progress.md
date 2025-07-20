@@ -519,7 +519,7 @@ In Progress: 0
 | 508 | Pure Love                  | ✅       | ✅        |
 | 509 | Fighter                    | ✅       | ❌        |
 | 510 | Mycelium Might             | ✅       | ✅        |
-| 511 | Telekinetic                | ✅       | ❌        |
+| 511 | Telekinetic                | ✅       | ✅        |
 | 512 | Combustion                 | ✅       | ❌        |
 | 513 | Pony Power                 | ✅       | ❌        |
 | 514 | Powder Burst               | ✅       | ❌        |
