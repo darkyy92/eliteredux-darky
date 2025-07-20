@@ -1,8 +1,8 @@
 ---
 id: 521
 name: Phantom Thief
-status: ai-generated
-character_count: 270
+status: reviewed
+character_count: 249
 ---
 
 # Phantom Thief - Ability ID 521
@@ -13,7 +13,7 @@ character_count: 270
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Phantom Thief automatically uses a 40 BP Spectral Thief when switching in, targeting a random opponent. Steals all positive stat boosts from the target and applies them to the user. Ghost-type attack benefits from STAB on Ghost-types. Cannot miss and ignores Substitute.
+Uses a 40 BP Spectral Thief (a Ghost-type move) when switching in, targeting the opponent across from the user. Steals all positive stat boosts (before dealing damage) from the target and applies them to the user. Cannot miss and ignores Substitute.  
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
