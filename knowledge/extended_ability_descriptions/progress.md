@@ -541,7 +541,7 @@ In Progress: 0
 | 530 | Crowned King               | ✅       | ✅        |
 | 531 | Clap Trap                  | ✅       | ✅        |
 | 532 | Permanence                 | ✅       | ✅        |
-| 533 | Hubris                     | ✅       | ❌        |
+| 533 | Hubris                     | ✅       | ✅        |
 | 534 | Cosmic Daze                | ✅       | ❌        |
 | 535 | Mind's Eye                 | ✅       | ❌        |
 | 536 | Blood Price                | ✅       | ❌        |
