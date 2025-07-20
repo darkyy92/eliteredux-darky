@@ -1520,7 +1520,7 @@ Combustion increases the power of all Fire-type moves by 50%.
 Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. Also gives another 30% to Keen Edge moves.
 
 # ID: 514
-Powder Burst automatically uses Powder on entry, coating the target with explosive powder. If the target uses any Fire-type move while coated, they take 25% max HP damage and the powder is consumed. Provides immediate battlefield control against Fire-type attackers.
+Uses Powder on entry, coating the target with explosive powder for the remainder of the turn. If the target uses any Fire-type move while coated, they lose 25% of their max HP and the powder is consumed.
 
 # ID: 515
 Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle.
