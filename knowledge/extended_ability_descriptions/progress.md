@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 866
+Completed: 865
 In Progress: 0
 
 ## Progress Tracking
@@ -587,7 +587,7 @@ In Progress: 0
 | 576 | Good As Gold               | ✅       | ✅        |
 | 577 | Sharing Is Caring          | ✅       | ✅        |
 | 578 | Tablets Of Ruin            | ✅       | ✅        |
-| 579 | Sword Of Ruin              | ✅       | ❌        |
+| 579 | Ability 579                | ❌       | ❌        |
 | 580 | Vessel Of Ruin             | ✅       | ❌        |
 | 581 | Beads Of Ruin              | ✅       | ❌        |
 | 582 | Thick Skin                 | ✅       | ❌        |
