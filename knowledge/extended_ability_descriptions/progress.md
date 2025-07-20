@@ -555,7 +555,7 @@ In Progress: 0
 | 544 | Airborne                   | ✅       | ✅        |
 | 545 | Parroting                  | ✅       | ✅        |
 | 546 | Salt Circle                | ✅       | ✅        |
-| 547 | Purifying Salt             | ✅       | ❌        |
+| 547 | Purifying Salt             | ✅       | ✅        |
 | 548 | Protosynthesis             | ✅       | ❌        |
 | 549 | Quark Drive                | ✅       | ❌        |
 | 550 | Wind Power                 | ✅       | ❌        |

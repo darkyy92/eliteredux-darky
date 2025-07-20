@@ -1613,7 +1613,7 @@ When any Pokemon on the field uses a sound move, this Pokemon immediately uses t
 Prevents all opposing Pokemon from fleeing or switching when user enters battle. Effect lasts until user leaves field. Forced switches and pivot moves like Flip Turn still work.
 
 # ID: 547
-Purifying Salt provides complete immunity to all major status conditions including sleep, paralysis, burn, freeze, and poison. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured. Suppressible by Mold Breaker.
+Immune to all status conditions. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured.
 
 # ID: 548
 Protosynthesis boosts the Pokemon's highest stat by 50% for Speed or 30% for other stats during any form of sun weather. Works with regular sun, permanent sun, and Desolate Land. When sun ends, switches to Booster Energy if held. Highest stat is recalculated each activation.

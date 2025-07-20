@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 330,
+    "completed": 331,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:31:20.617779Z"
+    "generated_at": "2025-07-20T17:32:57.836028Z"
   },
   "abilities": {
     "0": {
@@ -3840,8 +3840,8 @@
       "id": 547,
       "name": "Purifying Salt",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "548": {
       "id": 548,
@@ -9424,10 +9424,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "547": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "548": {
       "indicator": "🟠",
