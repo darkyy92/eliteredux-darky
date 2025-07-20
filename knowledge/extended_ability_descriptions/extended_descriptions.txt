@@ -719,7 +719,7 @@ Stalwart prevents the Pokemon from being affected by target redirection effects 
 Steam Engine maximizes the Speed stat to +6 stages when hit by any Fire-type or Water-type move. The boost occurs immediately after taking damage.
 
 # ID: 244
-Punk Rock amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. The damage boost is additive with other damage boost sources and the damage reduction is multiplicative with other damage reduction sources.
+Punk Rock amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources.
 
 # ID: 245
 Sand Spit activates when taking damage from an attack. Summons an 8-turn sandstorm (12 turns with Smooth Rock) that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage. Does not activate if the user faints from the attack.
