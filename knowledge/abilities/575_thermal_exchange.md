@@ -1,8 +1,8 @@
 ---
 id: 575
 name: Thermal Exchange
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 211
 ---
 
 # Thermal Exchange - Ability ID 575
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Thermal Exchange boosts Attack by one stage when hit by Fire-type moves and grants complete immunity to burn status. The Attack boost applies immediately after taking damage from any Fire attack. Burn cannot be inflicted by moves, abilities, or items. Stacks with other stat boosts.
+Boosts Attack by one stage when hit by Fire-type moves and grants immunity to burn status. The Attack boost applies immediately after taking damage from any Fire attack. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
