@@ -1703,7 +1703,7 @@ Good As Gold grants immunity to all status moves that directly target this Pokem
 All stat changes are shared between all battlers on the field, both positive and negative.
 
 # ID: 578
-Tablets of Ruin creates an ancient curse that weakens the physical strength of all opposing Pokemon on the field. This passive ability reduces the Attack stat of every other Pokemon by 25% as long as the Tablets bearer remains active. Multiple Ruin abilities do not stack together.
+Reduces the Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
 # ID: 579
 Sword Of Ruin creates an aura that permanently reduces the Defense stat of all other Pokemon on the battlefield by 25%. This passive effect applies to allies and enemies alike, making physical attacks more effective against all Pokemon except the user throughout the entire battle.
