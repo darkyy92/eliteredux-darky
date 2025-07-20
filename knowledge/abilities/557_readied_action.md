@@ -1,8 +1,8 @@
 ---
 id: 557
 name: Readied Action
-status: ai-generated
-character_count: 270
+status: reviewed
+character_count: 123
 ---
 
 # Readied Action - Ability ID 557
@@ -13,7 +13,8 @@ character_count: 270
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Readied Action doubles the Pokemon's Attack stat on the first turn after switching in. This boost applies to all physical moves used during that turn, making it excellent for immediate offensive pressure. The effect lasts only for one turn and resets upon switching out.
+Increases the user's Attack stat by 2x for one turn. Multiplicative with other damage boosts. Reapplies after switching in.
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
