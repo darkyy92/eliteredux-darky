@@ -1,8 +1,8 @@
 ---
 id: 546
 name: Salt Circle
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 177
 ---
 
 # Salt Circle - Ability ID 546
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents all opposing Pokemon from fleeing or switching when user enters battle. Works like auto Mean Look on all foes. In doubles, traps both opponents. Wild Pokemon cannot run; trainers cannot switch. Effect lasts until user leaves field. Forced switches work.
+Prevents all opposing Pokemon from fleeing or switching when user enters battle. Effect lasts until user leaves field. Forced switches and pivot moves like Flip Turn still work.
 
 ## Detailed Mechanical Explanation
 
