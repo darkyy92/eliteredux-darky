@@ -1,8 +1,8 @@
 ---
 id: 570
 name: Ill Will
-status: ai-generated
-character_count: 254
+status: reviewed
+character_count: 81
 ---
 
 # Ill Will - Ability ID 570
@@ -13,7 +13,7 @@ character_count: 254
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ill Will completely drains the PP of contact moves that defeat this Pokemon. When fainting to direct physical contact, the attacking move loses all remaining PP permanently. This vengeful ability punishes physical attackers for delivering the final blow.
+Ill Will drains the PP of the move that defeats the user. Has to be a direct hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
