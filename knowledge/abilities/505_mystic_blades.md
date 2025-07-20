@@ -1,8 +1,8 @@
 ---
 id: 505
 name: Mystic Blades
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 110
 ---
 
 # Mystic Blades - Ability ID 505
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, and Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers bypassing physical walls and gaining diverse coverage.
+Keen edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
