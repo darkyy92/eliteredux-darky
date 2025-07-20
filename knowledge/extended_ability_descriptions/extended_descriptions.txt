@@ -605,7 +605,7 @@ Slush Rush boosts the Pokemon's Speed by 50% during hail weather. The speed boos
 Long Reach prevents the user from making contact with targets when using contact moves. Additionally, physical non-contact moves receive a 1.2x damage boost. Only applies damage boost to physical moves that were originally non-contact.
 
 # ID: 204
-Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%. Damage boost is additive with other sources of damage boosts.
+Liquid Voice converts Normal-type sound moves to Water-type and boosts them by 20%.
 
 # ID: 205
 Triage grants +3 priority to most healing moves. Includes draining moves like Giga Drain, and delayed healing moves like Wish. Does not work with  Aqua Ring, Grassy Terrain, Ingrain, Leech Seed, Pain Split, Present, or Pollen Puff.
