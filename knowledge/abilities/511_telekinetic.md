@@ -1,8 +1,8 @@
 ---
 id: 511
 name: Telekinetic
-status: ai-generated
-character_count: 279
+status: reviewed
+character_count: 270
 ---
 
 # Telekinetic - Ability ID 511
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet off the ground for 3 turns. While levitating, all attacks targeting the user have perfect accuracy, but the user becomes immune to Ground-type moves and terrain effects. Cannot affect grounded Pokemon.
+Casts Telekinesis on entry. All moves against the target cannot miss, but they become immune to Ground-type moves and other Grounded effects. Cannot affect Rooted Pokemon or if they hold Iron Ball. Wears off under Gravity or if they are hit by Smack Down. Lasts 3 turns.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
