@@ -1643,7 +1643,7 @@ Egoist copies stat boosts that enemy Pokemon receive and applies them to itself.
 Doubles the effectiveness of stat drops from moves. Does not affect self-inflicted stat drops or enemy abilities.
 
 # ID: 557
-Readied Action doubles the Pokemon's Attack stat on the first turn after switching in. This boost applies to all physical moves used during that turn, making it excellent for immediate offensive pressure. The effect lasts only for one turn and resets upon switching out.
+Increases the user's Attack stat by 2x for one turn. Multiplicative with other damage boosts. Reapplies after switching in.
 
 # ID: 558
 Stygian Rush grants +1 priority to all Dark-type moves when the Pokemon is at maximum HP. This allows Dark-type attacks to move before most other moves in battle. The priority boost is lost if the Pokemon takes any damage, making it a high-risk, high-reward ability.
