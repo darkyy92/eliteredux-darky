@@ -1,8 +1,8 @@
 ---
 id: 568
 name: Mind Crush
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 117
 ---
 
 # Mind Crush - Ability ID 568
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Biting moves use Special Attack and deal 30% more damage. Transforms physical bites like Crunch, Fire Fang into special moves. All FLAG_STRONG_JAW_BOOST moves affected. Creates unique special attacker niche with physical coverage. Stronger boost than Strong Jaw.
+Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage. 
 
 ## Detailed Mechanical Explanation
 
