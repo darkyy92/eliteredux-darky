@@ -1,8 +1,8 @@
 ---
 id: 520
 name: Devourer
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 191
 ---
 
 # Devourer - Ability ID 520
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Devourer combines Strong Jaw and Primal Maw effects. Boosts biting, jaw, and fang moves by 30% damage. When using these moves, the second hit of multi-hit abilities deals 40% damage instead of the usual 25%, making jaw-based attacks devastatingly powerful in combat.
+Boosts biting moves by 30%. All biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
