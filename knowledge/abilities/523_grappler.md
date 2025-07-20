@@ -1,8 +1,8 @@
 ---
 id: 523
 name: Grappler
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 122
 ---
 
 # Grappler - Ability ID 523
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grappler extends trapping moves to last 6 turns instead of 4-5 turns and increases damage to 1/6 max HP per turn. Affects moves like Bind, Wrap, Fire Spin, and Sand Tomb. Trapping damage occurs at end of turn. Makes binding strategies more potent and reliable.
+Trapping moves last 6 turns instead of 4-5 turns and increases their damage at the end of the turn to 1/6 max HP per turn. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
