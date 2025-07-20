@@ -1544,7 +1544,7 @@ Boosts biting moves by 30%. All biting moves to hit twice. The first hit deals 1
 Uses a 40 BP Spectral Thief (a Ghost-type move) when switching in, targeting the opponent across from the user. Steals all positive stat boosts (before dealing damage) from the target and applies them to the user. Cannot miss and ignores Substitute.
 
 # ID: 522
-Ghost-type moves gain +1 priority when at full HP. Like Gale Wings for Ghost moves. Allows powerful Ghost attacks like Shadow Ball to strike first. Synergizes with revenge killing and maintaining momentum. Must stay at max HP to keep priority advantage. Rewards careful HP management.
+Ghost-type moves gain +1 priority when at full HP.
 
 # ID: 523
 Grappler extends trapping moves to last 6 turns instead of 4-5 turns and increases damage to 1/6 max HP per turn. Affects moves like Bind, Wrap, Fire Spin, and Sand Tomb. Trapping damage occurs at end of turn. Makes binding strategies more potent and reliable.
