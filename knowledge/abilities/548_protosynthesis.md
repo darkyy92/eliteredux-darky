@@ -1,8 +1,8 @@
 ---
 id: 548
 name: Protosynthesis
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 268
 ---
 
 # Protosynthesis - Ability ID 548
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Protosynthesis boosts the Pokemon's highest stat by 50% for Speed or 30% for other stats during any form of sun weather. Works with regular sun, permanent sun, and Desolate Land. When sun ends, switches to Booster Energy if held. Highest stat is recalculated each activation.
+Boosts the user's highest stat by 50% for Speed or 30% for other stats during sun. When sun ends, Booster Energy activates if held. This is considered a raw stat boost and not a stat raise. Cannot be copied, suppressed, or replaced unless by Simple Beam or Worry Seed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
