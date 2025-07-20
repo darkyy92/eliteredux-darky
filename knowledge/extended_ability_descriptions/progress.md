@@ -567,7 +567,7 @@ In Progress: 0
 | 556 | Subdue                     | ✅       | ✅        |
 | 557 | Readied Action             | ✅       | ✅        |
 | 558 | Stygian Rush               | ✅       | ✅        |
-| 559 | Guilt Trip                 | ✅       | ❌        |
+| 559 | Guilt Trip                 | ✅       | ✅        |
 | 560 | Water Gale Wings           | ✅       | ❌        |
 | 561 | Zero To Hero               | ✅       | ❌        |
 | 562 | Costar                     | ✅       | ❌        |

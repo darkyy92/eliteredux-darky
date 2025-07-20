@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 342,
+    "completed": 343,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:06:29.497577Z"
+    "generated_at": "2025-07-20T18:07:56.381957Z"
   },
   "abilities": {
     "0": {
@@ -3924,8 +3924,8 @@
       "id": 559,
       "name": "Guilt Trip",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "560": {
       "id": 560,
@@ -9496,10 +9496,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "559": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "560": {
       "indicator": "🟠",
