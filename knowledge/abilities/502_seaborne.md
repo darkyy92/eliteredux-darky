@@ -1,8 +1,8 @@
 ---
 id: 502
 name: Seaborne
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 91
 ---
 
 # Seaborne - Ability ID 502
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Seaborne combines Drizzle and Swift Swim effects. Upon entry, sets rain weather for 8 turns. During any rain weather, the Pokemon's Speed is boosted by 50%. Works with regular rain, heavy rain, and Primordial Sea. Perfect for Water-type sweepers needing both setup and speed.
+Upon entry, sets rain weather for 8 turns. During rain, the user's Speed is boosted by 50%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
