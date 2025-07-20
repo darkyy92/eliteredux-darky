@@ -564,7 +564,7 @@ In Progress: 0
 | 553 | Guard Dog                  | ✅       | ✅        |
 | 554 | Anger Shell                | ✅       | ✅        |
 | 555 | Egoist                     | ✅       | ✅        |
-| 556 | Subdue                     | ✅       | ❌        |
+| 556 | Subdue                     | ✅       | ✅        |
 | 557 | Readied Action             | ✅       | ❌        |
 | 558 | Stygian Rush               | ✅       | ❌        |
 | 559 | Guilt Trip                 | ✅       | ❌        |

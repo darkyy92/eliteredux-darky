@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 339,
+    "completed": 340,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:59:14.616762Z"
+    "generated_at": "2025-07-20T18:02:33.513210Z"
   },
   "abilities": {
     "0": {
@@ -3903,8 +3903,8 @@
       "id": 556,
       "name": "Subdue",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "557": {
       "id": 557,
@@ -9478,10 +9478,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "556": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "557": {
       "indicator": "🟠",

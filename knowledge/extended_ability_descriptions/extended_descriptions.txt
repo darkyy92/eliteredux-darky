@@ -1640,7 +1640,7 @@ When dropping to below 50% HP, the user triggers Shell Smash effects: raising At
 Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. Does not copy other Egoist boosts.
 
 # ID: 556
-Subdue enhances all stat-lowering moves used by this Pokemon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities.
+Doubles the effectiveness of stat drops from moves. Does not affect self-inflicted stat drops or enemy abilities.
 
 # ID: 557
 Readied Action doubles the Pokemon's Attack stat on the first turn after switching in. This boost applies to all physical moves used during that turn, making it excellent for immediate offensive pressure. The effect lasts only for one turn and resets upon switching out.
