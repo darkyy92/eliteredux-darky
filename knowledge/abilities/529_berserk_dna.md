@@ -1,8 +1,8 @@
 ---
 id: 529
 name: Berserk DNA
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 135
 ---
 
 # Berserk DNA - Ability ID 529
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Berserk DNA sharply raises the higher of Attack or Special Attack by 2 stages upon entering battle. The surge of power causes confusion for 3 turns unless the Pokemon is immune. Powerful entry effect but requires careful confusion management for optimal use.
+Raises the higher of Attack or Special Attack by 2 stages upon entering battle. Causes confusion for 3 turns unless the user is immune.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -26,7 +26,7 @@ Berserk DNA is an aggressive entry ability that provides a significant offensive
 2. **Stat comparison**: Compares Attack vs Special Attack stats (including stat stages)
 3. **Stat boost**: Raises the higher attacking stat by +2 stages (sharply raised)
 4. **Confusion check**: If the Pokemon can be confused, applies confusion for 3 turns
-5. **Message display**: Shows "POKÃ‰MON goes berserk!" followed by stat boost message
+5. **Message display**: Shows "POKÉMON goes berserk!" followed by stat boost message
 
 ### Technical Implementation
 ```c
