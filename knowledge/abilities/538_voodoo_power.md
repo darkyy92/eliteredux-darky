@@ -1,8 +1,8 @@
 ---
 id: 538
 name: Voodoo Power
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 249
 ---
 
 # Voodoo Power - Ability ID 538
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when hit by special moves. Bleeding deals 1/16 of max HP damage each turn, similar to poison. Only affects special attacks like Thunderbolt, Psychic, and Flamethrower. Cannot affect Pokemon immune to bleeding.
+Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when hit by special moves. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stage stages. Rock and Ghost types are immune to bleeding.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -110,11 +110,11 @@ Special moves include all moves that use the Special Attack stat:
 
 ### Example Damage Calculations
 **Against 100 HP Pokemon:**
-- Bleeding damage per turn: 100 Ã· 16 = 6 HP
+- Bleeding damage per turn: 100 ÷ 16 = 6 HP
 - Total potential damage over 5 turns: 30 HP
 
 **Against 400 HP Pokemon:**
-- Bleeding damage per turn: 400 Ã· 16 = 25 HP  
+- Bleeding damage per turn: 400 ÷ 16 = 25 HP  
 - Total potential damage over 5 turns: 125 HP
 
 ### Common Users
