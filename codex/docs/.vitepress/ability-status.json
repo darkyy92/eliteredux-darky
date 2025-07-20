@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 311,
+    "completed": 312,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T15:13:45.838533Z"
+    "generated_at": "2025-07-20T15:14:29.841394Z"
   },
   "abilities": {
     "0": {
@@ -3693,8 +3693,8 @@
       "id": 526,
       "name": "Monster Hunter",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "527": {
       "id": 527,
@@ -9298,10 +9298,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "526": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "527": {
       "indicator": "🟠",

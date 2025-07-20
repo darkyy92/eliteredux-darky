@@ -534,7 +534,7 @@ In Progress: 0
 | 523 | Grappler                   | ✅       | ✅        |
 | 524 | Bass Boosted               | ✅       | ✅        |
 | 525 | Flaming Jaws               | ✅       | ✅        |
-| 526 | Monster Hunter             | ✅       | ❌        |
+| 526 | Monster Hunter             | ✅       | ✅        |
 | 527 | Crowned Sword              | ✅       | ❌        |
 | 528 | Crowned Shield             | ✅       | ❌        |
 | 529 | Berserk DNA                | ✅       | ❌        |
