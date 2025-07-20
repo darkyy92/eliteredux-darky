@@ -515,7 +515,7 @@ In Progress: 0
 | 504 | Change of Heart            | ✅       | ✅        |
 | 505 | Mystic Blades              | ✅       | ✅        |
 | 506 | Determination              | ✅       | ✅        |
-| 507 | Fertilize                  | ✅       | ❌        |
+| 507 | Fertilize                  | ✅       | ✅        |
 | 508 | Pure Love                  | ✅       | ❌        |
 | 509 | Fighter                    | ✅       | ❌        |
 | 510 | Mycelium Might             | ✅       | ❌        |

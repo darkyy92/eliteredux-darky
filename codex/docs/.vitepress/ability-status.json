@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 293,
+    "completed": 294,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:20:57.164912Z"
+    "generated_at": "2025-07-20T01:21:53.698524Z"
   },
   "abilities": {
     "0": {
@@ -3560,8 +3560,8 @@
       "id": 507,
       "name": "Fertilize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "508": {
       "id": 508,
@@ -9184,10 +9184,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "507": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "508": {
       "indicator": "🟠",
