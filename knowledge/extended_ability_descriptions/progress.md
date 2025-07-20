@@ -584,7 +584,7 @@ In Progress: 0
 | 573 | Rapid Response             | ✅       | ✅        |
 | 574 | Sharp Edges                | ✅       | ❌        |
 | 575 | Thermal Exchange           | ✅       | ✅        |
-| 576 | Good As Gold               | ✅       | ❌        |
+| 576 | Good As Gold               | ✅       | ✅        |
 | 577 | Sharing Is Caring          | ✅       | ❌        |
 | 578 | Tablets Of Ruin            | ✅       | ❌        |
 | 579 | Sword Of Ruin              | ✅       | ❌        |
