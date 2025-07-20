@@ -1,8 +1,8 @@
 ---
 id: 495
 name: Doombringer
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 221
 ---
 
 # Doombringer - Ability ID 495
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, automatically uses Doom Desire against an opponent. This Steel-type delayed attack has 140 base power and strikes the target exactly two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
+Uses Doom Desire on entry. Doom Desire is a Steel-type 140 base power and strikes the target two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
