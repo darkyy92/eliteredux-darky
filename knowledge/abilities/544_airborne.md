@@ -1,8 +1,8 @@
 ---
 id: 544
 name: Airborne
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 91
 ---
 
 # Airborne - Ability ID 544
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Airborne provides a 1.3x power boost to all Flying-type moves used by both the Pokemon with this ability and its allies in double battles. This boost applies to any Flying-type move regardless of category or base power. Works perfectly with strategies involving Flying-type teams.
+Increases the power of Flying-type moves by 30% for both the user and its allies in battle. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
