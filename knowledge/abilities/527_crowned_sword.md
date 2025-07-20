@@ -1,8 +1,8 @@
 ---
 id: 527
 name: Crowned Sword
-status: ai-generated
-character_count: 253
+status: reviewed
+character_count: 165
 ---
 
 # Crowned Sword - Ability ID 527
@@ -13,7 +13,7 @@ character_count: 253
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Crowned Sword combines Intrepid Sword and Anger Point effects. Raises Attack by 1 stage upon switching in. When hit by any attack, raises Attack by 1 stage, or maximizes Attack if hit by a critical hit. Transforms defensive play into offensive pressure.
+Raises Attack by 1 stage upon switching in. When hit, raises the user's Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
