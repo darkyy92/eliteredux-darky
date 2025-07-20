@@ -1,8 +1,8 @@
 ---
 id: 580
 name: Vessel Of Ruin
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 144
 ---
 
 # Vessel Of Ruin - Ability ID 580
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Vessel of Ruin creates a passive aura that reduces all other Pokemon's Special Attack by 25%. This affects every Pokemon on the battlefield except the user, including allies in doubles. The reduction stacks with other stat modifications and persists while active.
+Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
