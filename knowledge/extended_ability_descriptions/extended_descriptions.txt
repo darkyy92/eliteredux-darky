@@ -1565,7 +1565,7 @@ Raises Attack by 1 stage upon switching in. When hit, raises the user's Attack b
 Raises Defense by 1 stage upon switching in. When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 530
-Crowned King combines three powerful effects: prevents opposing Pokemon from using held items like berries (Unnerve), raises Attack by one stage when knocking out a foe (Chilling Neigh), and raises Special Attack by one stage when defeating an opponent (Grim Neigh).
+Prevents all opposing Pokemon from consuming held items. Raise Attack and Special Attack by one stage when the user knocks out an opponent with a direct attack.
 
 # ID: 531
 Clap Trap counters contact moves by immediately using Snap Trap with 50 base power against the attacker. The Steel-type retaliation traps opponents for 4-5 turns while dealing damage. Only activates when hit by contact moves, providing excellent defensive utility and battlefield control.

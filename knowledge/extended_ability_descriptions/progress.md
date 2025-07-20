@@ -538,7 +538,7 @@ In Progress: 0
 | 527 | Crowned Sword              | ✅       | ✅        |
 | 528 | Crowned Shield             | ✅       | ✅        |
 | 529 | Ability 529                | ❌       | ❌        |
-| 530 | Crowned King               | ✅       | ❌        |
+| 530 | Crowned King               | ✅       | ✅        |
 | 531 | Clap Trap                  | ✅       | ❌        |
 | 532 | Permanence                 | ✅       | ❌        |
 | 533 | Hubris                     | ✅       | ❌        |

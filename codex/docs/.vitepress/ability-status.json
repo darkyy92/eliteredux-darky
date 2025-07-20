@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 314,
+    "completed": 315,
     "written": 868,
     "pending": 8,
-    "generated_at": "2025-07-20T15:22:29.594949Z"
+    "generated_at": "2025-07-20T15:23:01.065518Z"
   },
   "abilities": {
     "0": {
@@ -3721,8 +3721,8 @@
       "id": 530,
       "name": "Crowned King",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "531": {
       "id": 531,
@@ -9322,10 +9322,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "530": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "531": {
       "indicator": "🟠",
