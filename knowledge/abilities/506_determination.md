@@ -1,8 +1,8 @@
 ---
 id: 506
 name: Determination
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 170
 ---
 
 # Determination - Ability ID 506
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Determination boosts Special Attack by 50% when the Pokemon has any status condition or Comatose ability. Also prevents the freeze status from reducing Special Attack. This works with burn, poison, paralysis, sleep, freeze, and Blood Stain effects. Great for special attackers.
+Determination boosts Special Attack by 50% when the Pokemon has any status condition or Comatose ability. Also prevents the frostbite status from reducing Special Attack. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
