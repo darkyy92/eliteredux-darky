@@ -1,8 +1,8 @@
 ---
 id: 522
 name: Early Grave
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 50
 ---
 
 # Early Grave - Ability ID 522
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ghost-type moves gain +1 priority when at full HP. Like Gale Wings for Ghost moves. Allows powerful Ghost attacks like Shadow Ball to strike first. Synergizes with revenge killing and maintaining momentum. Must stay at max HP to keep priority advantage. Rewards careful HP management.
+Ghost-type moves gain +1 priority when at full HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
