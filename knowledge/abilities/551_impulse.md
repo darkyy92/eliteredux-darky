@@ -1,8 +1,8 @@
 ---
 id: 551
 name: Impulse
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 120
 ---
 
 # Impulse - Ability ID 551
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - greatly benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika.
+Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
