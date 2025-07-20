@@ -578,7 +578,7 @@ In Progress: 0
 | 567 | Armor Tail                 | ✅       | ✅        |
 | 568 | Mind Crush                 | ✅       | ✅        |
 | 569 | Supreme Overlord           | ✅       | ✅        |
-| 570 | Ill Will                   | ✅       | ❌        |
+| 570 | Ill Will                   | ✅       | ✅        |
 | 571 | Fire Scales                | ✅       | ❌        |
 | 572 | Watch Your Step            | ✅       | ❌        |
 | 573 | Rapid Response             | ✅       | ❌        |

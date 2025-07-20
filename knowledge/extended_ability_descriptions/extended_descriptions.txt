@@ -1682,7 +1682,7 @@ Biting moves use the Special Attack (still targets enemy's Defense unless stated
 Boosts Attack and Special Attack by 10% for each fainted ally on your side, capped at 5 allies maximum for a 50% boost to both stats. Stacks additively with other damage boosts.
 
 # ID: 570
-Ill Will completely drains the PP of contact moves that defeat this Pokemon. When fainting to direct physical contact, the attacking move loses all remaining PP permanently. This vengeful ability punishes physical attackers for delivering the final blow.
+Ill Will drains the PP of the move that defeats the user. Has to be a direct hit.
 
 # ID: 571
 Fire Scales provides a 50% damage reduction against all special attacks, effectively halving incoming special damage. Unlike Marvel Scale which boosts defensive stats when afflicted, Fire Scales directly reduces damage from special moves through a multiplicative modifier applied during damage calc.
