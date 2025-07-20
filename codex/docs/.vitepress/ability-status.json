@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 366,
+    "completed": 367,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-20T19:23:26.476715Z"
+    "generated_at": "2025-07-20T19:23:38.821735Z"
   },
   "abilities": {
     "0": {
@@ -4141,8 +4141,8 @@
       "id": 590,
       "name": "Sweeping Edge Plus",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "591": {
       "id": 591,
@@ -9682,10 +9682,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "590": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "591": {
       "indicator": "🟠",

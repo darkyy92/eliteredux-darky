@@ -598,7 +598,7 @@ In Progress: 0
 | 587 | Hadron Engine              | ✅       | ✅        |
 | 588 | Iron Serpent               | ✅       | ❌        |
 | 589 | Weather Double Boost       | ✅       | ✅        |
-| 590 | Sweeping Edge Plus         | ✅       | ❌        |
+| 590 | Sweeping Edge Plus         | ✅       | ✅        |
 | 591 | Celestial Blessing         | ✅       | ❌        |
 | 592 | Minion Control             | ✅       | ❌        |
 | 593 | Molten Blades              | ✅       | ❌        |

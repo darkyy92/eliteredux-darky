@@ -1736,7 +1736,7 @@ Iron Serpent strikes with devastating precision, boosting super-effective moves 
 In Sun, Water moves gain the damage boost they receive from rain. In Rain, Fire moves gain the damage boost they receive from sun.
 
 # ID: 590
-Sweeping Edge Plus combines the power of both Keen Edge and Sweeping Edge abilities. All Keen Edge moves gain 30% damage boost, perfect accuracy, and hit both opposing Pokemon in double battles. This transforms single-target slicing moves into devastating multi-target blade attacks.
+Makes all Keen Edge moves never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time. Also boosts Keen Edge moves by 30%.
 
 # ID: 591
 Celestial Blessing activates during the end turn phase, restoring 1/12 of the Pokemon's maximum HP each turn, but only while the Pokemon is on the field under Misty Terrain. This recovery is blocked by Heal Block and similar effects. The ability provides consistent healing for Fairy-type teams.
