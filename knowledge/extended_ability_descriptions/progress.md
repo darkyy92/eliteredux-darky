@@ -532,7 +532,7 @@ In Progress: 0
 | 521 | Phantom Thief              | ✅       | ✅        |
 | 522 | Early Grave                | ✅       | ✅        |
 | 523 | Grappler                   | ✅       | ✅        |
-| 524 | Bass Boosted               | ✅       | ❌        |
+| 524 | Bass Boosted               | ✅       | ✅        |
 | 525 | Flaming Jaws               | ✅       | ❌        |
 | 526 | Monster Hunter             | ✅       | ❌        |
 | 527 | Crowned Sword              | ✅       | ❌        |

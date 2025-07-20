@@ -1550,7 +1550,7 @@ Ghost-type moves gain +1 priority when at full HP.
 Trapping moves last 6 turns instead of 4-5 turns and increases their damage at the end of the turn to 1/6 max HP per turn.
 
 # ID: 524
-Bass Boosted combines Amplifier and Punk Rock effects. Boosts sound-based moves by 30% damage and reduces incoming sound move damage by 50%. Sound moves also hit both opposing Pokemon in doubles. Powerful combo ability for sound-based attackers and defensive utility.
+Boosts sound-based moves by 30%. Single-target sound moves gain spread targeting to hit both opposing Pokemon. Does not spread with multihit moves. Also boosts the user's sound moves by another 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources.
 
 # ID: 525
 Flaming Jaws gives all biting moves a 50% chance to burn the target on hit. Works with moves boosted by Strong Jaw like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Hyper Fang, Poison Fang, Psychic Fangs, and Jaw Lock. Burn inflicts damage and halves Attack.
