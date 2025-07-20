@@ -1,8 +1,8 @@
 ---
 id: 559
 name: Guilt Trip
-status: ai-generated
-character_count: 250
+status: reviewed
+character_count: 149
 ---
 
 # Guilt Trip - Ability ID 559
@@ -13,7 +13,7 @@ character_count: 250
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Guilt Trip inflicts psychological damage when the Pokemon faints. The attacker that delivers the final blow suffers reduced offensive power, having their Attack and Special Attack each lowered by 2 stages. Only works when fainting from direct damage.
+The attacker that delivers the final blow on the user drops their Attack and Special Attack by 2 stages. Only works when fainting from direct damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
