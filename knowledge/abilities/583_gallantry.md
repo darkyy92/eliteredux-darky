@@ -1,8 +1,8 @@
 ---
 id: 583
 name: Gallantry
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 117
 ---
 
 # Gallantry - Ability ID 583
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Negates all damage from the first hit received per battle. Moves still connect and secondary effects apply, but damage becomes 0. For multi-hit moves, only first strike is blocked. Protection persists through switching but is consumed permanently once used. Can be suppressed by Mold Breaker.
+Negates the first instance of damage received. Moves still connect and secondary effects apply, but damage becomes 0.
 
 ## Detailed Mechanical Explanation
 
