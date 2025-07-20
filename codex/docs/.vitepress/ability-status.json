@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 363,
+    "completed": 364,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-20T19:15:01.681861Z"
+    "generated_at": "2025-07-20T19:16:22.092146Z"
   },
   "abilities": {
     "0": {
@@ -4120,8 +4120,8 @@
       "id": 587,
       "name": "Hadron Engine",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "588": {
       "id": 588,
@@ -9664,10 +9664,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "587": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "588": {
       "indicator": "🟠",
