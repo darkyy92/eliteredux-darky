@@ -1,8 +1,8 @@
 ---
 id: 556
 name: Subdue
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 113
 ---
 
 # Subdue - Ability ID 556
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Subdue enhances all stat-lowering moves used by this Pokemon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities.
+Doubles the effectiveness of stat drops from moves. Does not affect self-inflicted stat drops or enemy abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
