@@ -577,7 +577,7 @@ In Progress: 0
 | 566 | Cud Chew                   | ✅       | ✅        |
 | 567 | Armor Tail                 | ✅       | ✅        |
 | 568 | Mind Crush                 | ✅       | ✅        |
-| 569 | Supreme Overlord           | ✅       | ❌        |
+| 569 | Supreme Overlord           | ✅       | ✅        |
 | 570 | Ill Will                   | ✅       | ❌        |
 | 571 | Fire Scales                | ✅       | ❌        |
 | 572 | Watch Your Step            | ✅       | ❌        |

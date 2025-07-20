@@ -1679,7 +1679,7 @@ Prevents the user and its ally from being targeted by priority moves with priori
 Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 # ID: 569
-Supreme Overlord boosts Attack and Special Attack by 10% for each fainted ally on your side, capped at 5 allies maximum for a 50% boost to both stats. The ability only activates when at least one ally has fainted. Perfect for revenge sweepers and late-game scenarios.
+Boosts Attack and Special Attack by 10% for each fainted ally on your side, capped at 5 allies maximum for a 50% boost to both stats. Stacks additively with other damage boosts.
 
 # ID: 570
 Ill Will completely drains the PP of contact moves that defeat this Pokemon. When fainting to direct physical contact, the attacking move loses all remaining PP permanently. This vengeful ability punishes physical attackers for delivering the final blow.
