@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 356,
+    "completed": 357,
     "written": 866,
     "pending": 10,
-    "generated_at": "2025-07-20T18:45:37.101451Z"
+    "generated_at": "2025-07-20T18:58:37.603940Z"
   },
   "abilities": {
     "0": {
@@ -4036,8 +4036,8 @@
       "id": 575,
       "name": "Thermal Exchange",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "576": {
       "id": 576,
@@ -9592,10 +9592,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "575": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "576": {
       "indicator": "🟠",

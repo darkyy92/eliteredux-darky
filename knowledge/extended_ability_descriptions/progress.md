@@ -583,7 +583,7 @@ In Progress: 0
 | 572 | Ability 572                | ❌       | ❌        |
 | 573 | Rapid Response             | ✅       | ✅        |
 | 574 | Sharp Edges                | ✅       | ❌        |
-| 575 | Thermal Exchange           | ✅       | ❌        |
+| 575 | Thermal Exchange           | ✅       | ✅        |
 | 576 | Good As Gold               | ✅       | ❌        |
 | 577 | Sharing Is Caring          | ✅       | ❌        |
 | 578 | Tablets Of Ruin            | ✅       | ❌        |

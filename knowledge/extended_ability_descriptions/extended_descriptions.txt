@@ -1694,7 +1694,7 @@ The user gains a 50% Speed boost and 20% Special Attack boost on their first tur
 Sharp Edges inflicts 1/6 maximum HP damage to attackers using contact moves, making it significantly more punishing than Iron Barbs or Rough Skin which deal 1/8 damage. The retaliation is based on the attacker's max HP and always deals at least 1 damage. Magic Guard prevents this damage entirely.
 
 # ID: 575
-Thermal Exchange boosts Attack by one stage when hit by Fire-type moves and grants complete immunity to burn status. The Attack boost applies immediately after taking damage from any Fire attack. Burn cannot be inflicted by moves, abilities, or items. Stacks with other stat boosts.
+Boosts Attack by one stage when hit by Fire-type moves and grants immunity to burn status. The Attack boost applies immediately after taking damage from any Fire attack. Activates on each hit of a multihit move.
 
 # ID: 576
 Good As Gold grants immunity to all status moves that directly target this Pokemon. The Pokemon remains vulnerable to status moves that affect the entire battlefield, such as Haze or Aromatherapy. This selective immunity creates strategic depth.
