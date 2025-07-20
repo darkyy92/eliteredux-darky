@@ -1,8 +1,8 @@
 ---
 id: 498
 name: Suppress
-status: ai-generated
-character_count: 248
+status: reviewed
+character_count: 86
 ---
 
 # Suppress - Ability ID 498
@@ -13,7 +13,7 @@ character_count: 248
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering the battlefield, automatically uses Torment on the opponent, preventing them from using the same move consecutively. This Dark-type status move forces the enemy to alternate between different attacks, disrupting repetitive strategies.
+Uses Torment on entry, preventing the opponent from using the same move consecutively. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
