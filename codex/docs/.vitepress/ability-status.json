@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 346,
+    "completed": 347,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:16:03.865112Z"
+    "generated_at": "2025-07-20T18:22:15.489771Z"
   },
   "abilities": {
     "0": {
@@ -3952,8 +3952,8 @@
       "id": 563,
       "name": "Commander",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "564": {
       "id": 564,
@@ -9520,10 +9520,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "563": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "564": {
       "indicator": "🟠",

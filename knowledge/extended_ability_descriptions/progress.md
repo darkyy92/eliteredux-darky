@@ -571,7 +571,7 @@ In Progress: 0
 | 560 | Water Gale Wings           | ✅       | ✅        |
 | 561 | Zero To Hero               | ✅       | ✅        |
 | 562 | Costar                     | ✅       | ✅        |
-| 563 | Commander                  | ✅       | ❌        |
+| 563 | Commander                  | ✅       | ✅        |
 | 564 | Eject Pack Ability         | ✅       | ❌        |
 | 565 | Vengeful Spirit            | ✅       | ❌        |
 | 566 | Cud Chew                   | ✅       | ❌        |

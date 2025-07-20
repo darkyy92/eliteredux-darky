@@ -1661,7 +1661,7 @@ After switching out, transforms user into Hero Form on entry. Lasts until the en
 Costar copies all stat stage changes (positive and negative) from the ally when switching in during doubles battles.
 
 # ID: 563
-Commander allows Tatsugiri to enter an allied Dondozo and become untargetable. When activated, the Dondozo receives +2 to all stats and Tatsugiri becomes semi-invulnerable. If Dondozo faints, Tatsugiri reappears and can act normally again.
+Allows Tatsugiri to enter an allied Dondozo and become untargetable. Dondozo receives +2 to all stats, cannot switch or be forced out and Tatsugiri becomes unusable. If Dondozo faints, Tatsugiri reappears and can act normally again. Cannot be swapped, copied, or suppressed.
 
 # ID: 564
 Automatically switches the Pokemon out when any of its stats are lowered by an opponent's move or ability. Functions identically to the Eject Pack item but as a permanent ability. Single-use per battle - once triggered, won't activate again if the Pokemon returns to battle.
