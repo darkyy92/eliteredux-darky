@@ -1706,7 +1706,7 @@ All stat changes are shared between all battlers on the field, both positive and
 Reduces the Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
 # ID: 580
-Vessel of Ruin creates a passive aura that reduces all other Pokemon's Special Attack by 25%. This affects every Pokemon on the battlefield except the user, including allies in doubles. The reduction stacks with other stat modifications and persists while active.
+Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
 # ID: 581
 Beads of Ruin creates a passive aura that reduces the Special Defense of all other Pokemon on the field by 25%. This effect applies immediately when entering battle and persists while on the field. Cannot be suppressed by abilities like Neutralizing Gas. Stacks with other stat reduction effects.

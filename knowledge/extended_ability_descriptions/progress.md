@@ -588,7 +588,7 @@ In Progress: 0
 | 577 | Sharing Is Caring          | ✅       | ✅        |
 | 578 | Tablets Of Ruin            | ✅       | ✅        |
 | 579 | Ability 579                | ❌       | ❌        |
-| 580 | Vessel Of Ruin             | ✅       | ❌        |
+| 580 | Vessel Of Ruin             | ✅       | ✅        |
 | 581 | Beads Of Ruin              | ✅       | ❌        |
 | 582 | Thick Skin                 | ✅       | ❌        |
 | 583 | Gallantry                  | ✅       | ❌        |
