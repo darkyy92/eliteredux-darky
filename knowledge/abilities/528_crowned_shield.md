@@ -1,8 +1,8 @@
 ---
 id: 528
 name: Crowned Shield
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 167
 ---
 
 # Crowned Shield - Ability ID 528
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Crowned Shield combines Dauntless Shield and Stamina effects. Boosts Defense by one stage when switching in. When taking damage, raises Defense by one stage or maxes Defense if hit by a critical hit. Provides exceptional defensive presence through stacking Defense boosts.
+Raises Defense by 1 stage upon switching in. When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
