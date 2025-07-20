@@ -1,8 +1,8 @@
 ---
 id: 530
 name: Crowned King
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 160
 ---
 
 # Crowned King - Ability ID 530
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Crowned King combines three powerful effects: prevents opposing Pokemon from using held items like berries (Unnerve), raises Attack by one stage when knocking out a foe (Chilling Neigh), and raises Special Attack by one stage when defeating an opponent (Grim Neigh).
+Prevents all opposing Pokemon from consuming held items. Raise Attack and Special Attack by one stage when the user knocks out an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
