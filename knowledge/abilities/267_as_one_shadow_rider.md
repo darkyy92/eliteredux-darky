@@ -2,7 +2,7 @@
 id: 267
 name: As One Shadow Rider
 status: reviewed
-character_count: 203
+character_count: 149
 ---
 
 # As One Shadow Rider - Ability ID 267
@@ -13,7 +13,7 @@ character_count: 203
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Unnerve and Grim Neigh effects. Unnerve makes opponents unable to consume held items. Grim Neigh raises Special Attack by one stage when this Pokemon knocks out an opponent with a direct attack.
+Prevents all opposing Pokemon from consuming held items. Raise Special Attack by one stage when the user knocks out an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
