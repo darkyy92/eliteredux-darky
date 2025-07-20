@@ -1739,7 +1739,7 @@ In Sun, Water moves gain the damage boost they receive from rain. In Rain, Fire 
 Makes all Keen Edge moves never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time. Also boosts Keen Edge moves by 30%.
 
 # ID: 591
-Celestial Blessing activates during the end turn phase, restoring 1/12 of the Pokemon's maximum HP each turn, but only while the Pokemon is on the field under Misty Terrain. This recovery is blocked by Heal Block and similar effects. The ability provides consistent healing for Fairy-type teams.
+Restores 1/12 of the user's maximum HP at the end of each turn while under Misty Terrain.
 
 # ID: 592
 Minion Control channels the strength of healthy allies into devastating multi-strike attacks. Each move hits once plus an additional time for every healthy party member (max 6 hits). The first hit deals full damage while each additional hit deals 10% damage. Rewards careful team preservation.
