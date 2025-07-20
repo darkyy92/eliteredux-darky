@@ -1517,7 +1517,7 @@ Casts Telekinesis on entry. All moves against the target cannot miss, but they b
 Combustion increases the power of all Fire-type moves by 50%.
 
 # ID: 513
-Blade's Essence combines Keen Edge and Mystic Blades effects. Boosts slicing moves by 30% and allows physical slicing moves to use the higher of Attack or Special Attack. This includes moves like Slash, Leaf Blade, Air Slash, and Night Slash. Perfect for mixed attackers wanting versatility.
+Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. Also gives another 30% to Keen Edge moves.
 
 # ID: 514
 Powder Burst automatically uses Powder on entry, coating the target with explosive powder. If the target uses any Fire-type move while coated, they take 25% max HP damage and the powder is consumed. Provides immediate battlefield control against Fire-type attackers.

@@ -521,7 +521,7 @@ In Progress: 0
 | 510 | Mycelium Might             | ✅       | ✅        |
 | 511 | Telekinetic                | ✅       | ✅        |
 | 512 | Combustion                 | ✅       | ✅        |
-| 513 | Pony Power                 | ✅       | ❌        |
+| 513 | Pony Power                 | ✅       | ✅        |
 | 514 | Powder Burst               | ✅       | ❌        |
 | 515 | Retriever                  | ✅       | ❌        |
 | 516 | Monster Mash               | ✅       | ❌        |
