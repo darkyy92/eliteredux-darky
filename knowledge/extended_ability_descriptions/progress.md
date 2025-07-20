@@ -592,7 +592,7 @@ In Progress: 0
 | 581 | Beads Of Ruin              | ✅       | ❌        |
 | 582 | Thick Skin                 | ✅       | ❌        |
 | 583 | Gallantry                  | ✅       | ✅        |
-| 584 | Orichalcum Pulse           | ✅       | ❌        |
+| 584 | Orichalcum Pulse           | ✅       | ✅        |
 | 585 | Sun Basking                | ✅       | ❌        |
 | 586 | Winged King                | ✅       | ❌        |
 | 587 | Hadron Engine              | ✅       | ❌        |

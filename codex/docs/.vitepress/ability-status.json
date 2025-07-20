@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 362,
+    "completed": 363,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-20T19:12:58.366986Z"
+    "generated_at": "2025-07-20T19:15:01.681861Z"
   },
   "abilities": {
     "0": {
@@ -4099,8 +4099,8 @@
       "id": 584,
       "name": "Orichalcum Pulse",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "585": {
       "id": 585,
@@ -9646,10 +9646,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "584": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "585": {
       "indicator": "🟠",
