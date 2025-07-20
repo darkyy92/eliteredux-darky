@@ -2,7 +2,7 @@
 id: 421
 name: Sweeping Edge
 status: reviewed
-character_count: 155
+character_count: 150
 ---
 
 # Sweeping Edge - Ability ID 421
@@ -13,7 +13,7 @@ character_count: 155
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sweeping Edge makes all Keen Edge moves have never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time.
+Sweeping Edge makes all Keen Edge moves never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
