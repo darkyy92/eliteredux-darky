@@ -1,8 +1,8 @@
 ---
 id: 547
 name: Purifying Salt
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 169
 ---
 
 # Purifying Salt - Ability ID 547
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Purifying Salt provides complete immunity to all major status conditions including sleep, paralysis, burn, freeze, and poison. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured. Suppressible by Mold Breaker.
+Immune to all status conditions. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
