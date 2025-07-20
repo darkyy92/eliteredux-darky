@@ -548,7 +548,7 @@ In Progress: 0
 | 537 | Spike Armor                | ✅       | ✅        |
 | 538 | Voodoo Power               | ✅       | ❌        |
 | 539 | Chrome Coat                | ✅       | ✅        |
-| 540 | Banshee                    | ✅       | ❌        |
+| 540 | Banshee                    | ✅       | ✅        |
 | 541 | Web Spinner                | ✅       | ❌        |
 | 542 | Showdown Mode              | ✅       | ❌        |
 | 543 | Seed Sower                 | ✅       | ❌        |

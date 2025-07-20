@@ -1595,7 +1595,7 @@ Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when h
 Chrome Coat reduces special damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
 
 # ID: 540
-Banshee boosts all sound-based moves by 20% damage and converts Normal-type sound moves to Ghost-type. This affects moves like Growl, Roar, Sing, Supersonic, Screech, Snore, Uproar, Hyper Voice, Bug Buzz, Chatter, Round, Echoed Voice, Relic Song, Snarl, Noble Roar, Boomburst, and Parting Shot.
+Boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ghost-type.
 
 # ID: 541
 Web Spinner automatically uses String Shot when the Pokemon switches into battle, harshly lowering the Speed of all opponents by 2 stages. This switch-in attack has 100% accuracy and targets both opposing Pokemon in double battles. Perfect for crippling faster threats immediately.
