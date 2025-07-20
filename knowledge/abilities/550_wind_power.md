@@ -1,8 +1,8 @@
 ---
 id: 550
 name: Wind Power
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 152
 ---
 
 # Wind Power - Ability ID 550
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Wind Power grants the Pokemon the Charged status when hit by wind-based moves like Gust, Tailwind, Whirlwind, or Blizzard. The Charged status doubles the power of Electric-type moves until used. Only activates once per battle unless status is consumed, making it ideal for Electric sweepers.
+Gain Charged status when hit by wind-based moves or entering in during Tailwind. The Charged status doubles the power of Electric-type moves until used.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
