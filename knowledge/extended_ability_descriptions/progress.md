@@ -501,7 +501,7 @@ In Progress: 0
 | 490 | Peaceful Slumber           | ✅       | ✅        |
 | 491 | Aftershock                 | ✅       | ✅        |
 | 492 | Freezing Point             | ✅       | ✅        |
-| 493 | Cryo Proficiency           | ✅       | ❌        |
+| 493 | Cryo Proficiency           | ✅       | ✅        |
 | 494 | Arcane Force               | ✅       | ❌        |
 | 495 | Doombringer                | ✅       | ❌        |
 | 496 | Wishmaker                  | ✅       | ❌        |
