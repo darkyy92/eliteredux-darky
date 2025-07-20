@@ -2,7 +2,7 @@
 id: 565
 name: Vengeful Spirit
 status: reviewed
-character_count: 251
+character_count: 269
 ---
 
 # Vengeful Spirit - Ability ID 565
@@ -13,7 +13,7 @@ character_count: 251
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Haunted Spirit and Vengeance effects. When KO'd by contact moves, curses the attacker to lose 1/4 HP each turn. When at 1/3 HP or less, Ghost-type moves deal 50% more damage. Provides both defensive punishment and offensive comeback potential
+Curses the attacker when knocked out by a direct hit. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse. Boosts the power of Ghost-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
