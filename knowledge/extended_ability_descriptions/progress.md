@@ -518,7 +518,7 @@ In Progress: 0
 | 507 | Fertilize                  | ✅       | ✅        |
 | 508 | Pure Love                  | ✅       | ✅        |
 | 509 | Fighter                    | ✅       | ❌        |
-| 510 | Mycelium Might             | ✅       | ❌        |
+| 510 | Mycelium Might             | ✅       | ✅        |
 | 511 | Telekinetic                | ✅       | ❌        |
 | 512 | Combustion                 | ✅       | ❌        |
 | 513 | Pony Power                 | ✅       | ❌        |

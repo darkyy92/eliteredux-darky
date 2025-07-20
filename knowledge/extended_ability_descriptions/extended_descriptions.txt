@@ -1508,7 +1508,7 @@ Converts all Normal-type moves to Grass-type and grants STAB for Grass moves, re
 Fighter boosts Fighting-type moves by 20% at high HP and 50% when at 1/3 HP or below. The damage multiplier increases when the Pokemon becomes desperate, making it excellent for clutch situations. Works with all Fighting-type attacks and stacks with other multipliers.
 
 # ID: 510
-Mycelium Might allows status moves to bypass all immunities and type resistances but forces them to move last in their priority bracket. Status moves ignore abilities like Limber, type immunities, and terrain effects. Only affects status moves targeting opponents, not self-targeting moves.
+Allows status moves to bypass all immunities and type resistances, but forces them to move last in their priority bracket.
 
 # ID: 511
 Telekinetic automatically casts Telekinesis on entry, lifting the user 3 feet off the ground for 3 turns. While levitating, all attacks targeting the user have perfect accuracy, but the user becomes immune to Ground-type moves and terrain effects. Cannot affect grounded Pokemon.
