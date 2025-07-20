@@ -1,8 +1,8 @@
 ---
 id: 510
 name: Mycelium Might
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 122
 ---
 
 # Mycelium Might - Ability ID 510
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mycelium Might allows status moves to bypass all immunities and type resistances but forces them to move last in their priority bracket. Status moves ignore abilities like Limber, type immunities, and terrain effects. Only affects status moves targeting opponents, not self-targeting moves.
+Allows status moves to bypass all immunities and type resistances, but forces them to move last in their priority bracket.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
