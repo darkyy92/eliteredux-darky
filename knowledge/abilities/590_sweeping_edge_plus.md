@@ -1,8 +1,8 @@
 ---
 id: 590
 name: Sweeping Edge Plus
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 172
 ---
 
 # Sweeping Edge Plus - Ability ID 590
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sweeping Edge Plus combines the power of both Keen Edge and Sweeping Edge abilities. All Keen Edge moves gain 30% damage boost, perfect accuracy, and hit both opposing Pokemon in double battles. This transforms single-target slicing moves into devastating multi-target blade attacks.
+Makes all Keen Edge moves never miss and hit both opposing Pokemon in double battles. Multihit moves will only hit each target one time. Also boosts Keen Edge moves by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
