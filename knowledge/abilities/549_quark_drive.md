@@ -1,8 +1,8 @@
 ---
 id: 549
 name: Quark Drive
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 285
 ---
 
 # Quark Drive - Ability ID 549
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Quark Drive boosts the Pokemon's highest stat by 30% (50% for Speed) when Electric Terrain is active or when holding Booster Energy. The boost applies to base stats plus stat stages. Electric Terrain activation is immediate, while Booster Energy is consumed on use for permanent effect.
+Boosts the user's highest stat by 50% for Speed or 30% for other stats during electric terrain. When terrain ends, Booster Energy activates if held. This is considered a raw stat boost and not a stat raise. Cannot be copied, suppressed, or replaced unless by Simple Beam or Worry Seed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
