@@ -1,8 +1,8 @@
 ---
 id: 584
 name: Orichalcum Pulse
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 104
 ---
 
 # Orichalcum Pulse - Ability ID 584
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Orichalcum Pulse automatically creates intense sunlight when the Pokemon enters battle. While sunlight is active, this ability amplifies the Pokemon's physical Attack power by exactly 33% (1.33x multiplier). Works with all sun forms: regular, permanent, and Desolate Land.
+Sets sun on entry for 8 turns (12 with Heat Rock). While sun is active, boosts the user's Attack by 33%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
