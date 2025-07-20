@@ -1514,7 +1514,7 @@ Allows status moves to bypass all immunities and type resistances, but forces th
 Casts Telekinesis on entry. All moves against the target cannot miss, but they become immune to Ground-type moves and other Grounded effects. Cannot affect Rooted Pokemon or if they hold Iron Ball. Wears off under Gravity or if they are hit by Smack Down. Lasts 3 turns.
 
 # ID: 512
-Combustion increases the power of all Fire-type moves by 50%. This ability amplifies the base power of Fire attacks before damage calculations, making every flame-based move significantly stronger. Excellent for Fire-type attackers who want consistent damage boosts.
+Combustion increases the power of all Fire-type moves by 50%.
 
 # ID: 513
 Blade's Essence combines Keen Edge and Mystic Blades effects. Boosts slicing moves by 30% and allows physical slicing moves to use the higher of Attack or Special Attack. This includes moves like Slash, Leaf Blade, Air Slash, and Night Slash. Perfect for mixed attackers wanting versatility.
