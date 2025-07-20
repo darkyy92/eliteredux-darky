@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 325,
+    "completed": 326,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T16:50:11.838060Z"
+    "generated_at": "2025-07-20T16:53:08.564735Z"
   },
   "abilities": {
     "0": {
@@ -3805,8 +3805,8 @@
       "id": 542,
       "name": "Showdown Mode",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "543": {
       "id": 543,
@@ -9394,10 +9394,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "542": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "543": {
       "indicator": "🟠",

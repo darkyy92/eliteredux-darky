@@ -1598,7 +1598,7 @@ Boosts the power of all sound-based moves by 20% and converts Normal-type sound 
 Uses String Shot on switch in, harshly lowering the Speed of all opponents by 2 stages.
 
 # ID: 542
-Showdown Mode combines the devastating effects of Ambush and Violent Rush on the first turn after switching in. The Pokemon gains guaranteed critical hits on all attacks plus boosts Attack by 20% and Speed by 50% for explosive opening turns that can catch opponents off guard.
+Guarantees a critical hit while also boosting the user's Attack by 20% and their Speed by 50% after switching in. Lasts one turn.
 
 # ID: 543
 Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5/8 turns depending on item. Simultaneously heals all party Pokemon's status conditions including poison, burn, paralysis, sleep, freeze, frostbite, and bleeding, plus nightmare.

@@ -550,7 +550,7 @@ In Progress: 0
 | 539 | Chrome Coat                | ✅       | ✅        |
 | 540 | Banshee                    | ✅       | ✅        |
 | 541 | Web Spinner                | ✅       | ✅        |
-| 542 | Showdown Mode              | ✅       | ❌        |
+| 542 | Showdown Mode              | ✅       | ✅        |
 | 543 | Seed Sower                 | ✅       | ❌        |
 | 544 | Airborne                   | ✅       | ❌        |
 | 545 | Parroting                  | ✅       | ❌        |
