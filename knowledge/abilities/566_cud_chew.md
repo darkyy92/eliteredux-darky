@@ -1,8 +1,8 @@
 ---
 id: 566
 name: Cud Chew
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 81
 ---
 
 # Cud Chew - Ability ID 566
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon consumes a berry, it stores the berry and re-consumes it at the end of the following turn. The berry must be naturally consumed during battle through HP thresholds, status conditions, or berry-triggering moves. Only one berry can be stored at a time.
+When consuming a berry, the user re-consumes it at the end of the following turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
