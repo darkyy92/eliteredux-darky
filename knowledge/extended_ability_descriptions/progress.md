@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 869
+Completed: 868
 In Progress: 0
 
 ## Progress Tracking
@@ -537,7 +537,7 @@ In Progress: 0
 | 526 | Monster Hunter             | ✅       | ✅        |
 | 527 | Crowned Sword              | ✅       | ✅        |
 | 528 | Crowned Shield             | ✅       | ✅        |
-| 529 | Berserk DNA                | ✅       | ❌        |
+| 529 | Ability 529                | ❌       | ❌        |
 | 530 | Crowned King               | ✅       | ❌        |
 | 531 | Clap Trap                  | ✅       | ❌        |
 | 532 | Permanence                 | ✅       | ❌        |

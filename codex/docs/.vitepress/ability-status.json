@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 314,
-    "written": 869,
-    "pending": 7,
-    "generated_at": "2025-07-20T15:18:56.438354Z"
+    "written": 868,
+    "pending": 8,
+    "generated_at": "2025-07-20T15:20:44.488727Z"
   },
   "abilities": {
     "0": {
@@ -3712,10 +3712,10 @@
     },
     "529": {
       "id": 529,
-      "name": "Berserk DNA",
-      "written": true,
+      "name": "Ability 529",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "530": {
       "id": 530,
@@ -9316,10 +9316,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "529": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "530": {
       "indicator": "🟠",

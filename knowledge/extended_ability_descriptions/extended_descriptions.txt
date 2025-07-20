@@ -1564,9 +1564,6 @@ Raises Attack by 1 stage upon switching in. When hit, raises the user's Attack b
 # ID: 528
 Raises Defense by 1 stage upon switching in. When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
-# ID: 529
-Berserk DNA sharply raises the higher of Attack or Special Attack by 2 stages upon entering battle. The surge of power causes confusion for 3 turns unless the Pokemon is immune. Powerful entry effect but requires careful confusion management for optimal use.
-
 # ID: 530
 Crowned King combines three powerful effects: prevents opposing Pokemon from using held items like berries (Unnerve), raises Attack by one stage when knocking out a foe (Chilling Neigh), and raises Special Attack by one stage when defeating an opponent (Grim Neigh).
 
