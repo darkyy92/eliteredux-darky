@@ -512,7 +512,7 @@ In Progress: 0
 | 501 | Purifying Waters           | ✅       | ✅        |
 | 502 | Seaborne                   | ✅       | ✅        |
 | 503 | High Tide                  | ✅       | ✅        |
-| 504 | Change of Heart            | ✅       | ❌        |
+| 504 | Change of Heart            | ✅       | ✅        |
 | 505 | Mystic Blades              | ✅       | ❌        |
 | 506 | Determination              | ✅       | ❌        |
 | 507 | Fertilize                  | ✅       | ❌        |

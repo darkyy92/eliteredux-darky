@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 290,
+    "completed": 291,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:06:12.699487Z"
+    "generated_at": "2025-07-20T01:11:37.331128Z"
   },
   "abilities": {
     "0": {
@@ -3539,8 +3539,8 @@
       "id": 504,
       "name": "Change of Heart",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "505": {
       "id": 505,
@@ -9166,10 +9166,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "504": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "505": {
       "indicator": "🟠",
