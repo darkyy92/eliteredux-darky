@@ -1,8 +1,8 @@
 ---
 id: 576
 name: Good As Gold
-status: ai-generated
-character_count: 245
+status: reviewed
+character_count: 162
 ---
 
 # Good As Gold - Ability ID 576
@@ -13,7 +13,7 @@ character_count: 245
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Good As Gold grants immunity to all status moves that directly target this Pokemon. The Pokemon remains vulnerable to status moves that affect the entire battlefield, such as Haze or Aromatherapy. This selective immunity creates strategic depth.
+Good As Gold grants immunity to all status moves that directly target this Pokemon. Remains vulnerable to status moves that affect the entire field, such as Haze. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
