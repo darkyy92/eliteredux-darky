@@ -525,7 +525,7 @@ In Progress: 0
 | 514 | Powder Burst               | ✅       | ✅        |
 | 515 | Retriever                  | ✅       | ✅        |
 | 516 | Monster Mash               | ✅       | ✅        |
-| 517 | Two Step                   | ✅       | ❌        |
+| 517 | Two Step                   | ✅       | ✅        |
 | 518 | Spiteful                   | ✅       | ❌        |
 | 519 | Fortitude                  | ✅       | ❌        |
 | 520 | Devourer                   | ✅       | ❌        |

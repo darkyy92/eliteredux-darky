@@ -1529,7 +1529,7 @@ Retrieves original held item when switching out if not holding one. Must not be 
 Casts Trick-or-Treat on entry, adding Ghost type to the target. They do not benefit from the effects of fog. The effect persists until the target switches out.
 
 # ID: 517
-Two Step triggers after successfully using any dance move, automatically following up with Revelation Dance at 50% power. The follow-up move matches the user's primary type and targets the same foe. Works with moves like Quiver Dance, Swords Dance, and other dance attacks for combo potential.
+After using a dance move, automatically follows up with a 50 BP Revelation Dance. The follow-up move matches the user's primary type.
 
 # ID: 518
 Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker, reducing its PP even if it wasn't the move that made contact. Cannot reduce PP below 0. Fails if the attacker has no remaining PP or hasn't used any moves yet.
