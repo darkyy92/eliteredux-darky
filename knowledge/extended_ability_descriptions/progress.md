@@ -561,7 +561,7 @@ In Progress: 0
 | 550 | Wind Power                 | ✅       | ✅        |
 | 551 | Impulse                    | ✅       | ✅        |
 | 552 | Terminal Velocity          | ✅       | ✅        |
-| 553 | Guard Dog                  | ✅       | ❌        |
+| 553 | Guard Dog                  | ✅       | ✅        |
 | 554 | Anger Shell                | ✅       | ❌        |
 | 555 | Egoist                     | ✅       | ❌        |
 | 556 | Subdue                     | ✅       | ❌        |

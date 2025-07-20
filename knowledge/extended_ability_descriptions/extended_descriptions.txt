@@ -1631,7 +1631,7 @@ Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Ch
 Adds 20% of the user's Speed stat to damage when using non-contact moves. Choice Scarf does not affect this ability.
 
 # ID: 553
-Guard Dog prevents forced switching from moves like Roar, Whirlwind, Dragon Tail, and Circle Throw, plus items like Red Card. When affected by Intimidate, it boosts Attack by one stage instead of lowering it. Perfect immunity to switch-forcing effects and stat control.
+Guard Dog prevents forced switching from moves and Red Card. When affected by Intimidate or Scare, it raises the stat by one stage instead of lowering it.
 
 # ID: 554
 When this Pokemon's HP drops below half from an attack, it triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle when crossing the threshold.

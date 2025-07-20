@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 336,
+    "completed": 337,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:44:58.964788Z"
+    "generated_at": "2025-07-20T17:49:40.462804Z"
   },
   "abilities": {
     "0": {
@@ -3882,8 +3882,8 @@
       "id": 553,
       "name": "Guard Dog",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "554": {
       "id": 554,
@@ -9460,10 +9460,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "553": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "554": {
       "indicator": "🟠",
