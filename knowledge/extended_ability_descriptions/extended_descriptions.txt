@@ -1610,7 +1610,7 @@ Increases the power of Flying-type moves by 30% for both the user and its allies
 When any Pokemon on the field uses a sound move, this Pokemon immediately uses the same move after. Triggers once per move. Also grants immunity to sound moves.
 
 # ID: 546
-Prevents all opposing Pokemon from fleeing or switching when user enters battle. Works like auto Mean Look on all foes. In doubles, traps both opponents. Wild Pokemon cannot run; trainers cannot switch. Effect lasts until user leaves field. Forced switches work.
+Prevents all opposing Pokemon from fleeing or switching when user enters battle. Effect lasts until user leaves field. Forced switches and pivot moves like Flip Turn still work.
 
 # ID: 547
 Purifying Salt provides complete immunity to all major status conditions including sleep, paralysis, burn, freeze, and poison. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured. Suppressible by Mold Breaker.

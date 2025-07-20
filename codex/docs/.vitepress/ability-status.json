@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 329,
+    "completed": 330,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:27:57.194067Z"
+    "generated_at": "2025-07-20T17:31:20.617779Z"
   },
   "abilities": {
     "0": {
@@ -3833,8 +3833,8 @@
       "id": 546,
       "name": "Salt Circle",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "547": {
       "id": 547,
@@ -9418,10 +9418,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "546": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "547": {
       "indicator": "🟠",
