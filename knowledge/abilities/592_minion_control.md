@@ -1,8 +1,8 @@
 ---
 id: 592
 name: Minion Control
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 271
 ---
 
 # Minion Control - Ability ID 592
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Minion Control channels the strength of healthy allies into devastating multi-strike attacks. Each move hits once plus an additional time for every healthy party member (max 6 hits). The first hit deals full damage while each additional hit deals 10% damage. Rewards careful team preservation.
+Moves hit an additional time for every healthy party member (max 6 hits). Members that are knocked out or have a status effect will not be counted. The first hit deals full damage while each additional hit deals 10% damage. Each hit rolls secondary effects independently.
 
 ## Detailed Mechanical Explanation
 
