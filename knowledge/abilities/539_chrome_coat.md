@@ -1,8 +1,8 @@
 ---
 id: 539
 name: Chrome Coat
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 160
 ---
 
 # Chrome Coat - Ability ID 539
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Chrome Coat provides substantial special defensive bulk by reducing all incoming special attack damage by 40%. This reflective metallic coating comes at the cost of mobility, decreasing the Pokemon's Speed stat by 10%. Perfect for defensive tanks that need to wall special attackers consistently.
+Chrome Coat reduces special damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
