@@ -552,7 +552,7 @@ In Progress: 0
 | 541 | Web Spinner                | ✅       | ✅        |
 | 542 | Showdown Mode              | ✅       | ✅        |
 | 543 | Seed Sower                 | ✅       | ✅        |
-| 544 | Airborne                   | ✅       | ❌        |
+| 544 | Airborne                   | ✅       | ✅        |
 | 545 | Parroting                  | ✅       | ❌        |
 | 546 | Salt Circle                | ✅       | ❌        |
 | 547 | Purifying Salt             | ✅       | ❌        |

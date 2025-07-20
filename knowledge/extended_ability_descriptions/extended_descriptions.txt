@@ -1604,7 +1604,7 @@ Guarantees a critical hit while also boosting the user's Attack by 20% and their
 Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5 turns (8 with Terrain Extender). Also heals all party Pokemon's status conditions.
 
 # ID: 544
-Airborne provides a 1.3x power boost to all Flying-type moves used by both the Pokemon with this ability and its allies in double battles. This boost applies to any Flying-type move regardless of category or base power. Works perfectly with strategies involving Flying-type teams.
+Increases the power of Flying-type moves by 30% for both the user and its allies in battle.
 
 # ID: 545
 Parroting grants immunity to all sound-based moves like Soundproof, while also copying sound moves used by opponents. When an enemy uses a sound move, the Pokemon immediately retaliates with the same move. Combines offensive mimicry with defensive sound immunity.
