@@ -506,7 +506,7 @@ In Progress: 0
 | 495 | Doombringer                | ✅       | ✅        |
 | 496 | Wishmaker                  | ✅       | ❌        |
 | 497 | Yuki Onna                  | ✅       | ✅        |
-| 498 | Suppress                   | ✅       | ❌        |
+| 498 | Suppress                   | ✅       | ✅        |
 | 499 | Refrigerator               | ✅       | ✅        |
 | 500 | Heaven Asunder             | ✅       | ✅        |
 | 501 | Purifying Waters           | ✅       | ❌        |

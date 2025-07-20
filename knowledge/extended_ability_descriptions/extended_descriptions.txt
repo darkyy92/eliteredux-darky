@@ -1472,7 +1472,7 @@ Automatically uses Wish upon entering battle, setting up delayed healing that re
 Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stage. Additionally provides a 30% chance to infatuate (cuts their Attack and Special Attack in half) the target on contact. Works offensively and defensively. This only works on the opposite gender.
 
 # ID: 498
-Upon entering the battlefield, automatically uses Torment on the opponent, preventing them from using the same move consecutively. This Dark-type status move forces the enemy to alternate between different attacks, disrupting repetitive strategies.
+Uses Torment on entry, preventing the opponent from using the same move consecutively.
 
 # ID: 499
 Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Additionally boosts the accuracy of all moves by 20%.
