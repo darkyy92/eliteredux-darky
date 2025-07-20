@@ -1,8 +1,8 @@
 ---
 id: 561
 name: Zero To Hero
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 146
 ---
 
 # Zero To Hero - Ability ID 561
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Zero To Hero triggers Palafin's heroic transformation after being switched out and back in. Upon re-entry, Palafin transforms from its Zero Form to its mighty Hero Form, gaining massive stat boosts to Attack, Defense, Special Attack, and Special Defense while keeping the same HP and Speed stats.
+After switching out, transforms user into Hero Form on entry. Lasts until the end of battle. Cannot be suppressed, swapped, copied, or overridden.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
