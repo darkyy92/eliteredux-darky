@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 355,
-    "written": 867,
-    "pending": 9,
-    "generated_at": "2025-07-20T18:43:03.395271Z"
+    "written": 866,
+    "pending": 10,
+    "generated_at": "2025-07-20T18:45:05.124329Z"
   },
   "abilities": {
     "0": {
@@ -4013,10 +4013,10 @@
     },
     "572": {
       "id": 572,
-      "name": "Watch Your Step",
-      "written": true,
+      "name": "Ability 572",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "573": {
       "id": 573,
@@ -9574,10 +9574,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "572": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "573": {
       "indicator": "🟠",

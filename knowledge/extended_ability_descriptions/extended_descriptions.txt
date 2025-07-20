@@ -1687,9 +1687,6 @@ Ill Will drains the PP of the move that defeats the user. Has to be a direct hit
 # ID: 571
 Halves all incoming special attack damage. Multiplicative with other sources of damage reduction.
 
-# ID: 572
-Upon switching in, the Pokemon scatters sharp spikes across the opponent's battlefield, creating two layers of Spikes that damage grounded enemies who switch in. Each layer increases the damage dealt by enemy hazards.
-
 # ID: 573
 Rapid Response provides a crucial first-turn advantage by boosting Speed by 50% and Special Attack by 20% only on the first turn after switch-in. The Speed boost allows outspeeding opponents, while the Special Attack boost enhances offensive power, making it ideal for sweepers.
 

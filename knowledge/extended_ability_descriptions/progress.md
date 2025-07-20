@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 867
+Completed: 866
 In Progress: 0
 
 ## Progress Tracking
@@ -580,7 +580,7 @@ In Progress: 0
 | 569 | Supreme Overlord           | ✅       | ✅        |
 | 570 | Ill Will                   | ✅       | ✅        |
 | 571 | Fire Scales                | ✅       | ✅        |
-| 572 | Watch Your Step            | ✅       | ❌        |
+| 572 | Ability 572                | ❌       | ❌        |
 | 573 | Rapid Response             | ✅       | ❌        |
 | 574 | Sharp Edges                | ✅       | ❌        |
 | 575 | Thermal Exchange           | ✅       | ❌        |
