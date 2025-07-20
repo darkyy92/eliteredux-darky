@@ -1652,7 +1652,7 @@ Grants +1 priority to Dark-type moves when at full HP.
 The attacker that delivers the final blow on the user drops their Attack and Special Attack by 2 stages. Only works when fainting from direct damage.
 
 # ID: 560
-Tidal Rush grants Water-type moves +1 priority when the Pokemon is at maximum HP. This powerful offensive ability allows Water-type attackers to strike first with moves like Hydro Pump, Surf, and Aqua Jet. The priority boost disappears once HP drops below maximum, encouraging aggressive play.
+Grants +1 priority to Water-type moves when at full HP.
 
 # ID: 561
 Zero To Hero triggers Palafin's heroic transformation after being switched out and back in. Upon re-entry, Palafin transforms from its Zero Form to its mighty Hero Form, gaining massive stat boosts to Attack, Defense, Special Attack, and Special Defense while keeping the same HP and Speed stats.
