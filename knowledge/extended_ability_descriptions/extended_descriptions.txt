@@ -1532,7 +1532,7 @@ Casts Trick-or-Treat on entry, adding Ghost type to the target. They do not bene
 After using a dance move, automatically follows up with a 50 BP Revelation Dance. The follow-up move matches the user's primary type.
 
 # ID: 518
-Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker, reducing its PP even if it wasn't the move that made contact. Cannot reduce PP below 0. Fails if the attacker has no remaining PP or hasn't used any moves yet.
+Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker. Fails if the attacker has no remaining PP or hasn't used any moves yet.
 
 # ID: 519
 Fortitude raises Special Defense by 1 stage when hit by any move. If the attack is a critical hit, Special Defense is maxed out to +6 stages instead. The boost applies before damage calculation, making each hit progressively weaker against special attacks.

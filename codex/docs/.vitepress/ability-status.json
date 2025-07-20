@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 303,
+    "completed": 304,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:53:17.571424Z"
+    "generated_at": "2025-07-20T01:54:04.245991Z"
   },
   "abilities": {
     "0": {
@@ -3637,8 +3637,8 @@
       "id": 518,
       "name": "Spiteful",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "519": {
       "id": 519,
@@ -9250,10 +9250,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "518": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "519": {
       "indicator": "🟠",
