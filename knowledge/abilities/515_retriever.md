@@ -1,8 +1,8 @@
 ---
 id: 515
 name: Retriever
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 104
 ---
 
 # Retriever - Ability ID 515
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Retrieves original held item when switching out if not holding one. Counters Knock Off, Trick, and item consumption. Works with berries, Focus Sash, and all holdable items. Must switch while alive to activate. Allows strategic item reuse throughout battle.
+Retrieves original held item when switching out if not holding one. Must not be knocked out to activate.
 
 ## Detailed Mechanical Explanation
 
