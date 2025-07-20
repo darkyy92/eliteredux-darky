@@ -1,8 +1,8 @@
 ---
 id: 589
 name: Weather Double Boost
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 130
 ---
 
 # Weather Double Boost - Ability ID 589
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Catastrophe reverses weather's typical effects on Fire and Water moves. In Sun, Water moves gain a 20% boost (permanent) or 50% boost (temporary) instead of the usual reduction. In Rain, Fire moves receive a 20% boost (permanent) or 50% boost (temporary) instead of being weakened by precipitation.
+In Sun, Water moves gain the damage boost they receive from rain. In Rain, Fire moves gain the damage boost they receive from sun.
 
 ## Detailed Mechanical Explanation
 
