@@ -1577,7 +1577,7 @@ Prevents all opposing Pokemon from healing through any means. Blocks healing mov
 Boosts the user's Special Attack by one stage whenever it knocks out an opponent with a direct hit.
 
 # ID: 534
-Amplifies the disorientation of confused foes. All attacks against confused targets deal double damage, creating devastating combo potential. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion, making confusion punishing.
+Attacks against confused targets deal double damage. Additionally, confused enemies hurt themselves for double damage when hitting themselves in confusion.
 
 # ID: 535
 Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness, bypassing their typical immunity. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities like Sand Attack or Intimidate.

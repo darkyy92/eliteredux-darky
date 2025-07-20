@@ -542,7 +542,7 @@ In Progress: 0
 | 531 | Clap Trap                  | ✅       | ✅        |
 | 532 | Permanence                 | ✅       | ✅        |
 | 533 | Hubris                     | ✅       | ✅        |
-| 534 | Cosmic Daze                | ✅       | ❌        |
+| 534 | Cosmic Daze                | ✅       | ✅        |
 | 535 | Mind's Eye                 | ✅       | ❌        |
 | 536 | Blood Price                | ✅       | ❌        |
 | 537 | Spike Armor                | ✅       | ❌        |

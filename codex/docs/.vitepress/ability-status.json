@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 318,
+    "completed": 319,
     "written": 868,
     "pending": 8,
-    "generated_at": "2025-07-20T15:37:46.700225Z"
+    "generated_at": "2025-07-20T15:44:16.964200Z"
   },
   "abilities": {
     "0": {
@@ -3749,8 +3749,8 @@
       "id": 534,
       "name": "Cosmic Daze",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "535": {
       "id": 535,
@@ -9346,10 +9346,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "534": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "535": {
       "indicator": "🟠",
