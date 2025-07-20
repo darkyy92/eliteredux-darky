@@ -508,7 +508,7 @@ In Progress: 0
 | 497 | Yuki Onna                  | ✅       | ✅        |
 | 498 | Suppress                   | ✅       | ❌        |
 | 499 | Refrigerator               | ✅       | ✅        |
-| 500 | Heaven Asunder             | ✅       | ❌        |
+| 500 | Heaven Asunder             | ✅       | ✅        |
 | 501 | Purifying Waters           | ✅       | ❌        |
 | 502 | Seaborne                   | ✅       | ❌        |
 | 503 | High Tide                  | ✅       | ❌        |

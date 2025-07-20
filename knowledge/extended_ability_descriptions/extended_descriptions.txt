@@ -1478,7 +1478,7 @@ Upon entering the battlefield, automatically uses Torment on the opponent, preve
 Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Additionally boosts the accuracy of all moves by 20%.
 
 # ID: 500
-Heaven Asunder guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves. This signature ability of Palkia reflects its mastery over spatial dimensions, tearing through enemy defenses with devastating precision strikes.
+Guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves.
 
 # ID: 501
 Purifying Waters combines Water Veil and Hydration effects. On entry, surrounds the Pokemon with healing waters that restore 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at turn end.
