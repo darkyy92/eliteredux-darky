@@ -1616,7 +1616,7 @@ Prevents all opposing Pokemon from fleeing or switching when user enters battle.
 Immune to all status conditions. Additionally reduces all Ghost-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured.
 
 # ID: 548
-Protosynthesis boosts the Pokemon's highest stat by 50% for Speed or 30% for other stats during any form of sun weather. Works with regular sun, permanent sun, and Desolate Land. When sun ends, switches to Booster Energy if held. Highest stat is recalculated each activation.
+Boosts the user's highest stat by 50% for Speed or 30% for other stats during sun. When sun ends, Booster Energy activates if held. This is considered a raw stat boost and not a stat raise. Cannot be copied, suppressed, or replaced unless by Simple Beam or Worry Seed.
 
 # ID: 549
 Quark Drive boosts the Pokemon's highest stat by 30% (50% for Speed) when Electric Terrain is active or when holding Booster Energy. The boost applies to base stats plus stat stages. Electric Terrain activation is immediate, while Booster Energy is consumed on use for permanent effect.

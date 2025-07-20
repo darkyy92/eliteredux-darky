@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 331,
+    "completed": 332,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:32:57.836028Z"
+    "generated_at": "2025-07-20T17:38:40.187973Z"
   },
   "abilities": {
     "0": {
@@ -3847,8 +3847,8 @@
       "id": 548,
       "name": "Protosynthesis",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "549": {
       "id": 549,
@@ -9430,10 +9430,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "548": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "549": {
       "indicator": "🟠",
