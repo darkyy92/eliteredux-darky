@@ -1,8 +1,8 @@
 ---
 id: 507
 name: Fertilize
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 108
 ---
 
 # Fertilize - Ability ID 507
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fertilize converts all Normal-type moves to Grass-type and grants STAB for Grass moves. This means Normal moves gain the power boost from being Grass-type plus STAB bonus. The user effectively gets Grass STAB regardless of their actual typing, making coverage moves stronger.
+Converts all Normal-type moves to Grass-type and grants STAB for Grass moves, regardless of the user's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
