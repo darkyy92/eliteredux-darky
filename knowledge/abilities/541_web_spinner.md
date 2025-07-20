@@ -1,8 +1,8 @@
 ---
 id: 541
 name: Web Spinner
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 87
 ---
 
 # Web Spinner - Ability ID 541
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Web Spinner automatically uses String Shot when the Pokemon switches into battle, harshly lowering the Speed of all opponents by 2 stages. This switch-in attack has 100% accuracy and targets both opposing Pokemon in double battles. Perfect for crippling faster threats immediately.
+Uses String Shot on switch in, harshly lowering the Speed of all opponents by 2 stages. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
