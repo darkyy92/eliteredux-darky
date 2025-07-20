@@ -1526,7 +1526,7 @@ Uses Powder on entry, coating the target with explosive powder for the remainder
 Retrieves original held item when switching out if not holding one. Must not be knocked out to activate.
 
 # ID: 516
-Automatically casts Trick-or-Treat when entering battle, adding Ghost as a third type to the target Pokemon. This removes Ghost immunity to physical attacks in Fog weather and adds Ghost weaknesses. The effect persists until the target switches out, making it a powerful counter to Fog teams.
+Casts Trick-or-Treat on entry, adding Ghost type to the target. They do not benefit from the effects of fog. The effect persists until the target switches out.
 
 # ID: 517
 Two Step triggers after successfully using any dance move, automatically following up with Revelation Dance at 50% power. The follow-up move matches the user's primary type and targets the same foe. Works with moves like Quiver Dance, Swords Dance, and other dance attacks for combo potential.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 301,
+    "completed": 302,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:47:05.186053Z"
+    "generated_at": "2025-07-20T01:51:15.934299Z"
   },
   "abilities": {
     "0": {
@@ -3623,8 +3623,8 @@
       "id": 516,
       "name": "Monster Mash",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "517": {
       "id": 517,
@@ -9238,10 +9238,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "516": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "517": {
       "indicator": "🟠",
