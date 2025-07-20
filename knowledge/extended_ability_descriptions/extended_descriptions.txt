@@ -1619,7 +1619,7 @@ Immune to all status conditions. Additionally reduces all Ghost-type damage by 5
 Boosts the user's highest stat by 50% for Speed or 30% for other stats during sun. When sun ends, Booster Energy activates if held. This is considered a raw stat boost and not a stat raise. Cannot be copied, suppressed, or replaced unless by Simple Beam or Worry Seed.
 
 # ID: 549
-Quark Drive boosts the Pokemon's highest stat by 30% (50% for Speed) when Electric Terrain is active or when holding Booster Energy. The boost applies to base stats plus stat stages. Electric Terrain activation is immediate, while Booster Energy is consumed on use for permanent effect.
+Boosts the user's highest stat by 50% for Speed or 30% for other stats during electric terrain. When terrain ends, Booster Energy activates if held. This is considered a raw stat boost and not a stat raise. Cannot be copied, suppressed, or replaced unless by Simple Beam or Worry Seed.
 
 # ID: 550
 Wind Power grants the Pokemon the Charged status when hit by wind-based moves like Gust, Tailwind, Whirlwind, or Blizzard. The Charged status doubles the power of Electric-type moves until used. Only activates once per battle unless status is consumed, making it ideal for Electric sweepers.

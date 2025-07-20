@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 332,
+    "completed": 333,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:38:40.187973Z"
+    "generated_at": "2025-07-20T17:39:42.874765Z"
   },
   "abilities": {
     "0": {
@@ -3854,8 +3854,8 @@
       "id": 549,
       "name": "Quark Drive",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "550": {
       "id": 550,
@@ -9436,10 +9436,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "549": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "550": {
       "indicator": "🟠",
