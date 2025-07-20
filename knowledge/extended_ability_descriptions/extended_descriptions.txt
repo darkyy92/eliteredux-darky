@@ -1673,7 +1673,7 @@ Curses the attacker when knocked out by a direct hit. The curse inflicts 25% max
 When consuming a berry, the user re-consumes it at the end of the following turn.
 
 # ID: 567
-Armor Tail prevents priority moves from targeting the user and their ally. Works against all positive priority moves like Quick Attack, Bullet Punch, and Extreme Speed. The protection applies to both single and double battles. This breakable ability can be bypassed by Mold Breaker effects.
+Prevents the user and its ally from being targeted by priority moves with priority higher than 0.
 
 # ID: 568
 Biting moves use Special Attack and deal 30% more damage. Transforms physical bites like Crunch, Fire Fang into special moves. All FLAG_STRONG_JAW_BOOST moves affected. Creates unique special attacker niche with physical coverage. Stronger boost than Strong Jaw.
