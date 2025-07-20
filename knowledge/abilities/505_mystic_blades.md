@@ -13,7 +13,7 @@ character_count: 110
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Keen edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. 
+Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
