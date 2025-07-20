@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 351,
+    "completed": 352,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:31:01.467940Z"
+    "generated_at": "2025-07-20T18:37:43.313711Z"
   },
   "abilities": {
     "0": {
@@ -3987,8 +3987,8 @@
       "id": 568,
       "name": "Mind Crush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "569": {
       "id": 569,
@@ -9550,10 +9550,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "568": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "569": {
       "indicator": "🟠",

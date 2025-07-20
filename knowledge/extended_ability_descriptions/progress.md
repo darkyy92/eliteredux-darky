@@ -576,7 +576,7 @@ In Progress: 0
 | 565 | Vengeful Spirit            | ✅       | ✅        |
 | 566 | Cud Chew                   | ✅       | ✅        |
 | 567 | Armor Tail                 | ✅       | ✅        |
-| 568 | Mind Crush                 | ✅       | ❌        |
+| 568 | Mind Crush                 | ✅       | ✅        |
 | 569 | Supreme Overlord           | ✅       | ❌        |
 | 570 | Ill Will                   | ✅       | ❌        |
 | 571 | Fire Scales                | ✅       | ❌        |
