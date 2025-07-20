@@ -1469,7 +1469,7 @@ Uses Doom Desire on entry. Doom Desire is a Steel-type 140 base power and strike
 Automatically uses Wish upon entering battle, setting up delayed healing that restores half of the user's max HP on the following turn. This self-healing ability can only be activated 3 times per battle, making it a valuable but limited source of HP recovery.
 
 # ID: 497
-Upon entering battle, the Yuki Onna's chilling presence lowers both the Attack and Special Attack of opposing Pokemon by one stage. Additionally, when the Yuki Onna makes contact with an opponent, there is a 30% chance to infatuate the target with her ethereal beauty.
+Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stage. Additionally provides a 30% chance to infatuate (cuts their Attack and Special Attack in half) the target when landing attacks. This only works on the opposite gender.
 
 # ID: 498
 Upon entering the battlefield, automatically uses Torment on the opponent, preventing them from using the same move consecutively. This Dark-type status move forces the enemy to alternate between different attacks, disrupting repetitive strategies.

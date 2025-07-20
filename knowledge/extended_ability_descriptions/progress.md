@@ -505,7 +505,7 @@ In Progress: 0
 | 494 | Arcane Force               | ✅       | ❌        |
 | 495 | Doombringer                | ✅       | ✅        |
 | 496 | Wishmaker                  | ✅       | ❌        |
-| 497 | Yuki Onna                  | ✅       | ❌        |
+| 497 | Yuki Onna                  | ✅       | ✅        |
 | 498 | Suppress                   | ✅       | ❌        |
 | 499 | Refrigerator               | ✅       | ❌        |
 | 500 | Heaven Asunder             | ✅       | ❌        |
