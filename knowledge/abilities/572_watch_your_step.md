@@ -1,8 +1,8 @@
 ---
 id: 572
 name: Watch Your Step
-status: ai-generated
-character_count: 217
+status: reviewed
+character_count: 181
 ---
 
 # Watch Your Step - Ability ID 572
@@ -13,7 +13,7 @@ character_count: 217
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon switching in, the Pokemon scatters sharp spikes across the opponent's battlefield, creating two layers of Spikes that damage grounded enemies who switch in. Each layer increases the damage dealt by enemy hazards.
+Upon switching in, sets up two layers of Spikes on the opponent's field. Each layer damages switching grounded Pokemon by 12.5%, 16.7%, or 25% of max HP for 1-3 layers respectively.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -74,9 +74,9 @@ constexpr Ability WatchYourStep = {
 
 ### Example Damage Calculations
 For a 300 HP Pokemon:
-- **After Watch Your Step**: 2 layers = 300 Ã· 6 = 50 HP damage per switch-in
-- **With 1 existing layer**: 3 layers = 300 Ã· 4 = 75 HP damage per switch-in
-- **No existing layers**: 2 layers = 300 Ã· 6 = 50 HP damage per switch-in
+- **After Watch Your Step**: 2 layers = 300 ÷ 6 = 50 HP damage per switch-in
+- **With 1 existing layer**: 3 layers = 300 ÷ 4 = 75 HP damage per switch-in
+- **No existing layers**: 2 layers = 300 ÷ 6 = 50 HP damage per switch-in
 
 ### Common Users
 - **Mega Garbodor**: Has Watch Your Step as an innate ability
