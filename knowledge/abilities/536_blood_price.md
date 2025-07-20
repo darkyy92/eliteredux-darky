@@ -1,8 +1,8 @@
 ---
 id: 536
 name: Blood Price
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 109
 ---
 
 # Blood Price - Ability ID 536
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at turn's end. The HP cost only applies after using damaging moves, not status moves. Magic Guard prevents the HP loss while keeping the damage boost. Risky but rewarding for glass cannon strategies.
+Blood Price boosts all attacking moves by 30%, but the user loses 10% of their max hp when landing an attack. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
