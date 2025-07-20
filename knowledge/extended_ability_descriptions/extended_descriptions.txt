@@ -1562,7 +1562,7 @@ Deals 1.5x damage to Dark-type Pokemon and takes 0.5x damage when attacked by Da
 Raises Attack by 1 stage upon switching in. When hit, raises the user's Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 528
-Crowned Shield combines Dauntless Shield and Stamina effects. Boosts Defense by one stage when switching in. When taking damage, raises Defense by one stage or maxes Defense if hit by a critical hit. Provides exceptional defensive presence through stacking Defense boosts.
+Raises Defense by 1 stage upon switching in. When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 529
 Berserk DNA sharply raises the higher of Attack or Special Attack by 2 stages upon entering battle. The surge of power causes confusion for 3 turns unless the Pokemon is immune. Powerful entry effect but requires careful confusion management for optimal use.

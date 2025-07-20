@@ -536,7 +536,7 @@ In Progress: 0
 | 525 | Flaming Jaws               | ✅       | ✅        |
 | 526 | Monster Hunter             | ✅       | ✅        |
 | 527 | Crowned Sword              | ✅       | ✅        |
-| 528 | Crowned Shield             | ✅       | ❌        |
+| 528 | Crowned Shield             | ✅       | ✅        |
 | 529 | Berserk DNA                | ✅       | ❌        |
 | 530 | Crowned King               | ✅       | ❌        |
 | 531 | Clap Trap                  | ✅       | ❌        |
