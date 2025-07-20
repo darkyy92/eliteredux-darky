@@ -1571,7 +1571,7 @@ Prevents all opposing Pokemon from consuming held items. Raise Attack and Specia
 When the user receives a contact move, counters with a 50 BP Snap Trap. This Steel-type move traps opponents for 4-5 turns while dealing 1/8 max HP damage.
 
 # ID: 532
-Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover and Synthesis, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
+Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
 
 # ID: 533
 Hubris boosts the Pokemon's Special Attack by one stage each time it knocks out an opponent with a damaging move. The boost only occurs when the Pokemon with Hubris directly causes the KO through damage, not through status effects, entry hazards, or weather damage. Multiple KOs stack.
