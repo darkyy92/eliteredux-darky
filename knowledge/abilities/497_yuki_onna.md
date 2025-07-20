@@ -1,8 +1,8 @@
 ---
 id: 497
 name: Yuki Onna
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 250
 ---
 
 # Yuki Onna - Ability ID 497
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, the Yuki Onna's chilling presence lowers both the Attack and Special Attack of opposing Pokemon by one stage. Additionally, when the Yuki Onna makes contact with an opponent, there is a 30% chance to infatuate the target with her ethereal beauty.
+Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stage. Additionally provides a 30% chance to infatuate (cuts their Attack and Special Attack in half) the target when landing attacks. This only works on the opposite gender.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
