@@ -1,8 +1,8 @@
 ---
 id: 500
 name: Heaven Asunder
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 117
 ---
 
 # Heaven Asunder - Ability ID 500
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Heaven Asunder guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves. This signature ability of Palkia reflects its mastery over spatial dimensions, tearing through enemy defenses with devastating precision strikes.
+Guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
