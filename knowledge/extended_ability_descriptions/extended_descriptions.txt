@@ -1733,7 +1733,7 @@ Sets electric terrain on entry for 8 turns (12 with Terrain Extender). While ter
 Iron Serpent strikes with devastating precision, boosting super-effective moves by an additional 33%. This transforms 2x effective hits into 2.66x devastation and 4x weaknesses into 5.32x damage. Perfect for Pokemon with wide type coverage, turning every super-effective hit into a potential OHKO.
 
 # ID: 589
-Catastrophe reverses weather's typical effects on Fire and Water moves. In Sun, Water moves gain a 20% boost (permanent) or 50% boost (temporary) instead of the usual reduction. In Rain, Fire moves receive a 20% boost (permanent) or 50% boost (temporary) instead of being weakened by precipitation.
+In Sun, Water moves gain the damage boost they receive from rain. In Rain, Fire moves gain the damage boost they receive from sun.
 
 # ID: 590
 Sweeping Edge Plus combines the power of both Keen Edge and Sweeping Edge abilities. All Keen Edge moves gain 30% damage boost, perfect accuracy, and hit both opposing Pokemon in double battles. This transforms single-target slicing moves into devastating multi-target blade attacks.
