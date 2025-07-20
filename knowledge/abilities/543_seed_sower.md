@@ -1,8 +1,8 @@
 ---
 id: 543
 name: Seed Sower
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 169
 ---
 
 # Seed Sower - Ability ID 543
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5/8 turns depending on item. Simultaneously heals all party Pokemon's status conditions including poison, burn, paralysis, sleep, freeze, frostbite, and bleeding, plus nightmare.
+Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5 turns (8 with Terrain Extender). Also heals all party Pokemon's status conditions.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
