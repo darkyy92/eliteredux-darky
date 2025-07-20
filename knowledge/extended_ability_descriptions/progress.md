@@ -529,7 +529,7 @@ In Progress: 0
 | 518 | Spiteful                   | ✅       | ✅        |
 | 519 | Fortitude                  | ✅       | ✅        |
 | 520 | Devourer                   | ✅       | ✅        |
-| 521 | Phantom Thief              | ✅       | ❌        |
+| 521 | Phantom Thief              | ✅       | ✅        |
 | 522 | Early Grave                | ✅       | ❌        |
 | 523 | Grappler                   | ✅       | ❌        |
 | 524 | Bass Boosted               | ✅       | ❌        |

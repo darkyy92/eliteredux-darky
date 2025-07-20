@@ -1541,7 +1541,7 @@ When hit, raises the user's Special Defense by 1 stage or maximizes it on critic
 Boosts biting moves by 30%. All biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
 
 # ID: 521
-Phantom Thief automatically uses a 40 BP Spectral Thief when switching in, targeting a random opponent. Steals all positive stat boosts from the target and applies them to the user. Ghost-type attack benefits from STAB on Ghost-types. Cannot miss and ignores Substitute.
+Uses a 40 BP Spectral Thief (a Ghost-type move) when switching in, targeting the opponent across from the user. Steals all positive stat boosts (before dealing damage) from the target and applies them to the user. Cannot miss and ignores Substitute.
 
 # ID: 522
 Ghost-type moves gain +1 priority when at full HP. Like Gale Wings for Ghost moves. Allows powerful Ghost attacks like Shadow Ball to strike first. Synergizes with revenge killing and maintaining momentum. Must stay at max HP to keep priority advantage. Rewards careful HP management.
