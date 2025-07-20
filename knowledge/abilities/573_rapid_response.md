@@ -1,8 +1,8 @@
 ---
 id: 573
 name: Rapid Response
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 101
 ---
 
 # Rapid Response - Ability ID 573
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rapid Response provides a crucial first-turn advantage by boosting Speed by 50% and Special Attack by 20% only on the first turn after switch-in. The Speed boost allows outspeeding opponents, while the Special Attack boost enhances offensive power, making it ideal for sweepers.
+The user gains a 50% Speed boost and 20% Special Attack boost on their first turn after switching in.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
