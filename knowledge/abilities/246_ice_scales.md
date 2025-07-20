@@ -2,7 +2,7 @@
 id: 246
 name: Ice Scales
 status: reviewed
-character_count: 108
+character_count: 97
 ---
 
 # Ice Scales - Ability ID 246
@@ -13,7 +13,7 @@ character_count: 108
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Scales halves all incoming special attack damage. Multiplicative with other sources of damage reduction.   
+Halves all incoming special attack damage. Multiplicative with other sources of damage reduction.   
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
