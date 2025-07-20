@@ -1583,7 +1583,7 @@ Attacks against confused targets deal double damage. Additionally, confused enem
 Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities.
 
 # ID: 536
-Blood Price boosts all attacking moves by 30% damage but costs 10% of max HP at turn's end. The HP cost only applies after using damaging moves, not status moves. Magic Guard prevents the HP loss while keeping the damage boost. Risky but rewarding for glass cannon strategies.
+Blood Price boosts all attacking moves by 30%, but the user loses 10% of their max hp when landing an attack.
 
 # ID: 537
 Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn. Rock and Ghost types are immune to bleeding, as are Pokemon already afflicted with status conditions.
