@@ -1,8 +1,8 @@
 ---
 id: 499
 name: Refrigerator
-status: ai-generated
-character_count: 246
+status: reviewed
+character_count: 157
 ---
 
 # Refrigerator - Ability ID 499
@@ -13,7 +13,7 @@ character_count: 246
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Refrigerator combines Filter and Illuminate effects. Reduces damage from super effective attacks by 35%, taking only 65% of the original damage. Additionally boosts the accuracy of all moves by 20%, making attacks more likely to hit their target.
+Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Additionally boosts the accuracy of all moves by 20%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
