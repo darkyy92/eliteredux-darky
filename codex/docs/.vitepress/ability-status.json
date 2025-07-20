@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 344,
+    "completed": 345,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:09:09.982330Z"
+    "generated_at": "2025-07-20T18:14:26.645778Z"
   },
   "abilities": {
     "0": {
@@ -3938,8 +3938,8 @@
       "id": 561,
       "name": "Zero To Hero",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "562": {
       "id": 562,
@@ -9508,10 +9508,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "561": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "562": {
       "indicator": "🟠",

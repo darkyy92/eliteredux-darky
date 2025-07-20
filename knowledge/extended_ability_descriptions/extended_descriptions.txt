@@ -1655,7 +1655,7 @@ The attacker that delivers the final blow on the user drops their Attack and Spe
 Grants +1 priority to Water-type moves when at full HP.
 
 # ID: 561
-Zero To Hero triggers Palafin's heroic transformation after being switched out and back in. Upon re-entry, Palafin transforms from its Zero Form to its mighty Hero Form, gaining massive stat boosts to Attack, Defense, Special Attack, and Special Defense while keeping the same HP and Speed stats.
+After switching out, transforms user into Hero Form on entry. Lasts until the end of battle. Cannot be suppressed, swapped, copied, or overridden.
 
 # ID: 562
 Costar copies all stat stage changes from the ally when switching in during doubles battles. If the ally has +2 Attack and -1 Defense, the Costar user gains the exact same stat modifications. Only works with a living ally and applies to all seven battle stats including accuracy and evasion.
