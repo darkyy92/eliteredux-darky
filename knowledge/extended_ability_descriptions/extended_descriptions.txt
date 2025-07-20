@@ -1625,7 +1625,7 @@ Boosts the user's highest stat by 50% for Speed or 30% for other stats during el
 Gain Charged status when hit by wind-based moves or entering in during Tailwind. The Charged status doubles the power of Electric-type moves until used.
 
 # ID: 551
-Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Opposite of Momentum - greatly benefits special attackers with high Speed. Most special moves are non-contact. Speed investment provides both offense and turn order. Seen on electric speedsters like Zebstrika.
+Non-contact moves use Speed stat for damage instead of Attack/Special Attack. Choice Scarf does not affect this ability.
 
 # ID: 552
 Terminal Velocity adds 20% of the Pokemon's Speed stat to its Special Attack when using special moves. This bonus is calculated after stat stages and applies to the entire damage formula. Works with all special attacks including signature moves and Hidden Power. Devastating on fast special sweepers.

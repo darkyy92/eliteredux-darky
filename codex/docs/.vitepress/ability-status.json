@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 334,
+    "completed": 335,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:42:29.707205Z"
+    "generated_at": "2025-07-20T17:44:18.680932Z"
   },
   "abilities": {
     "0": {
@@ -3868,8 +3868,8 @@
       "id": 551,
       "name": "Impulse",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "552": {
       "id": 552,
@@ -9448,10 +9448,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "551": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "552": {
       "indicator": "🟠",
