@@ -1547,7 +1547,7 @@ Uses a 40 BP Spectral Thief (a Ghost-type move) when switching in, targeting the
 Ghost-type moves gain +1 priority when at full HP.
 
 # ID: 523
-Grappler extends trapping moves to last 6 turns instead of 4-5 turns and increases damage to 1/6 max HP per turn. Affects moves like Bind, Wrap, Fire Spin, and Sand Tomb. Trapping damage occurs at end of turn. Makes binding strategies more potent and reliable.
+Trapping moves last 6 turns instead of 4-5 turns and increases their damage at the end of the turn to 1/6 max HP per turn.
 
 # ID: 524
 Bass Boosted combines Amplifier and Punk Rock effects. Boosts sound-based moves by 30% damage and reduces incoming sound move damage by 50%. Sound moves also hit both opposing Pokemon in doubles. Powerful combo ability for sound-based attackers and defensive utility.
