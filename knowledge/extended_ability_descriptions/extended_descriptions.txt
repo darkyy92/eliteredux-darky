@@ -1484,7 +1484,7 @@ Guarantees Spacial Rend always lands critical hits and increases critical hit ra
 Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at at the end of the turn.
 
 # ID: 502
-Seaborne combines Drizzle and Swift Swim effects. Upon entry, sets rain weather for 8 turns. During any rain weather, the Pokemon's Speed is boosted by 50%. Works with regular rain, heavy rain, and Primordial Sea. Perfect for Water-type sweepers needing both setup and speed.
+Upon entry, sets rain weather for 8 turns. During rain, the user's Speed is boosted by 50%.
 
 # ID: 503
 High Tide triggers a 50 BP Surf attack immediately after the Pokemon uses any Water-type move. The followup Surf uses the same target as the original move and cannot miss. Works with all Water-type attacks including status moves. Creates powerful two-hit combos for sustained offensive pressure.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 288,
+    "completed": 289,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T00:59:02.167797Z"
+    "generated_at": "2025-07-20T01:00:14.278118Z"
   },
   "abilities": {
     "0": {
@@ -3525,8 +3525,8 @@
       "id": 502,
       "name": "Seaborne",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "503": {
       "id": 503,
@@ -9154,10 +9154,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "502": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "503": {
       "indicator": "🟠",
