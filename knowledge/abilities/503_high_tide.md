@@ -1,8 +1,8 @@
 ---
 id: 503
 name: High Tide
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 129
 ---
 
 # High Tide - Ability ID 503
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-High Tide triggers a 50 BP Surf attack immediately after the Pokemon uses any Water-type move. The followup Surf uses the same target as the original move and cannot miss. Works with all Water-type attacks including status moves. Creates powerful two-hit combos for sustained offensive pressure.
+Triggers a 50 BP Surf after the user lands a Water-type attack, including status moves like Soak. Surf hits all adjacent Pokemon.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
