@@ -1,8 +1,8 @@
 ---
 id: 524
 name: Bass Boosted
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 299
 ---
 
 # Bass Boosted - Ability ID 524
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Bass Boosted combines Amplifier and Punk Rock effects. Boosts sound-based moves by 30% damage and reduces incoming sound move damage by 50%. Sound moves also hit both opposing Pokemon in doubles. Powerful combo ability for sound-based attackers and defensive utility.
+Boosts sound-based moves by 30%. Single-target sound moves gain spread targeting to hit both opposing Pokemon. Does not spread with multihit moves. Also boosts the user's sound moves by another 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
