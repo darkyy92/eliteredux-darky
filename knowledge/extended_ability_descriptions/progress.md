@@ -558,7 +558,7 @@ In Progress: 0
 | 547 | Purifying Salt             | ✅       | ✅        |
 | 548 | Protosynthesis             | ✅       | ✅        |
 | 549 | Quark Drive                | ✅       | ✅        |
-| 550 | Wind Power                 | ✅       | ❌        |
+| 550 | Wind Power                 | ✅       | ✅        |
 | 551 | Impulse                    | ✅       | ❌        |
 | 552 | Terminal Velocity          | ✅       | ❌        |
 | 553 | Guard Dog                  | ✅       | ❌        |

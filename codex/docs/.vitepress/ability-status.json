@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 333,
+    "completed": 334,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:39:42.874765Z"
+    "generated_at": "2025-07-20T17:42:29.707205Z"
   },
   "abilities": {
     "0": {
@@ -3861,8 +3861,8 @@
       "id": 550,
       "name": "Wind Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "551": {
       "id": 551,
@@ -9442,10 +9442,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "550": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "551": {
       "indicator": "🟠",
