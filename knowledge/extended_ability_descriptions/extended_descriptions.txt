@@ -1481,7 +1481,7 @@ Reduces damage from super effective attacks by 35%. Multiplicative with other da
 Guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves.
 
 # ID: 501
-Purifying Waters combines Water Veil and Hydration effects. On entry, surrounds the Pokemon with healing waters that restore 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at turn end.
+Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at at the end of the turn.
 
 # ID: 502
 Seaborne combines Drizzle and Swift Swim effects. Upon entry, sets rain weather for 8 turns. During any rain weather, the Pokemon's Speed is boosted by 50%. Works with regular rain, heavy rain, and Primordial Sea. Perfect for Water-type sweepers needing both setup and speed.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 287,
+    "completed": 288,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T00:43:25.515581Z"
+    "generated_at": "2025-07-20T00:59:02.167797Z"
   },
   "abilities": {
     "0": {
@@ -3518,8 +3518,8 @@
       "id": 501,
       "name": "Purifying Waters",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "502": {
       "id": 502,
@@ -9148,10 +9148,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "501": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "502": {
       "indicator": "🟠",

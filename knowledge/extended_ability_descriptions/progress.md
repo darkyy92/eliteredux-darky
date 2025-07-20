@@ -509,7 +509,7 @@ In Progress: 0
 | 498 | Suppress                   | ✅       | ✅        |
 | 499 | Refrigerator               | ✅       | ✅        |
 | 500 | Heaven Asunder             | ✅       | ✅        |
-| 501 | Purifying Waters           | ✅       | ❌        |
+| 501 | Purifying Waters           | ✅       | ✅        |
 | 502 | Seaborne                   | ✅       | ❌        |
 | 503 | High Tide                  | ✅       | ❌        |
 | 504 | Change of Heart            | ✅       | ❌        |
