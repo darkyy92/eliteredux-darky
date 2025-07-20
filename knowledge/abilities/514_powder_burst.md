@@ -1,8 +1,8 @@
 ---
 id: 514
 name: Powder Burst
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 203
 ---
 
 # Powder Burst - Ability ID 514
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Powder Burst automatically uses Powder on entry, coating the target with explosive powder. If the target uses any Fire-type move while coated, they take 25% max HP damage and the powder is consumed. Provides immediate battlefield control against Fire-type attackers.
+Uses Powder on entry, coating the target with explosive powder for the remainder of the turn. If the target uses any Fire-type move while coated, they lose 25% of their max HP and the powder is consumed. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
