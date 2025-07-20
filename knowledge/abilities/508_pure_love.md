@@ -1,8 +1,8 @@
 ---
 id: 508
 name: Pure Love
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 191
 ---
 
 # Pure Love - Ability ID 508
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Infatuates on contact ignoring all gender requirements. Can infatuate genderless, same-gender, or any Pokemon unlike regular infatuation. Heals 25% of damage dealt when attacking infatuated targets. One of only two abilities (with Beautiful Music) that bypasses gender restrictions for infatuation.
+50% to infatuate on contact  (cuts their Attack and Special Attack in half). Can infatuate any Pokemon unlike regular infatuation. Heals 25% of damage dealt when attacking infatuated targets.
 
 ## Detailed Mechanical Explanation
 
