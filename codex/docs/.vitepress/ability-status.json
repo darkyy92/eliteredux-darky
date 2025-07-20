@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 289,
+    "completed": 290,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T01:00:14.278118Z"
+    "generated_at": "2025-07-20T01:06:12.699487Z"
   },
   "abilities": {
     "0": {
@@ -3532,8 +3532,8 @@
       "id": 503,
       "name": "High Tide",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "504": {
       "id": 504,
@@ -9160,10 +9160,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "503": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "504": {
       "indicator": "🟠",

@@ -511,7 +511,7 @@ In Progress: 0
 | 500 | Heaven Asunder             | ✅       | ✅        |
 | 501 | Purifying Waters           | ✅       | ✅        |
 | 502 | Seaborne                   | ✅       | ✅        |
-| 503 | High Tide                  | ✅       | ❌        |
+| 503 | High Tide                  | ✅       | ✅        |
 | 504 | Change of Heart            | ✅       | ❌        |
 | 505 | Mystic Blades              | ✅       | ❌        |
 | 506 | Determination              | ✅       | ❌        |

@@ -1487,7 +1487,7 @@ Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to bu
 Upon entry, sets rain weather for 8 turns. During rain, the user's Speed is boosted by 50%.
 
 # ID: 503
-High Tide triggers a 50 BP Surf attack immediately after the Pokemon uses any Water-type move. The followup Surf uses the same target as the original move and cannot miss. Works with all Water-type attacks including status moves. Creates powerful two-hit combos for sustained offensive pressure.
+Triggers a 50 BP Surf after the user lands a Water-type attack, including status moves like Soak. Surf hits all adjacent Pokemon.
 
 # ID: 504
 Change of Heart activates the moment its user switches into battle, automatically swapping all stat stage modifications with the target opponent. This includes boosts and drops to Attack, Defense, Special Attack, Special Defense, Speed, Accuracy, and Evasion. Perfect for disrupting setup sweepers.
