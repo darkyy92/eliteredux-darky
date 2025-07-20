@@ -1,8 +1,8 @@
 ---
 id: 562
 name: Costar
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 116
 ---
 
 # Costar - Ability ID 562
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Costar copies all stat stage changes from the ally when switching in during doubles battles. If the ally has +2 Attack and -1 Defense, the Costar user gains the exact same stat modifications. Only works with a living ally and applies to all seven battle stats including accuracy and evasion.
+Costar copies all stat stage changes (positive and negative) from the ally when switching in during doubles battles.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
