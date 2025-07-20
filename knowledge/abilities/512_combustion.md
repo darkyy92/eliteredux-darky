@@ -1,8 +1,8 @@
 ---
 id: 512
 name: Combustion
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 61
 ---
 
 # Combustion - Ability ID 512
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combustion increases the power of all Fire-type moves by 50%. This ability amplifies the base power of Fire attacks before damage calculations, making every flame-based move significantly stronger. Excellent for Fire-type attackers who want consistent damage boosts.
+Combustion increases the power of all Fire-type moves by 50%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
