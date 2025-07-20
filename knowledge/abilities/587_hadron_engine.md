@@ -1,8 +1,8 @@
 ---
 id: 587
 name: Hadron Engine
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 136
 ---
 
 # Hadron Engine - Ability ID 587
@@ -13,4 +13,4 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hadron Engine establishes Electric Terrain upon entering battle, boosting Electric-type moves by 50% and preventing sleep for grounded Pokemon. While Electric Terrain remains active, this ability grants the user a significant 33% Special Attack increase, creating powerful synergy.
+Sets electric terrain on entry for 8 turns (12 with Terrain Extender). While terrain is active, boosts the user's Special Attack by 33%.
