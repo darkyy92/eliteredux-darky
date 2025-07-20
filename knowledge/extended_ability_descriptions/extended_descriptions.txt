@@ -1658,7 +1658,7 @@ Grants +1 priority to Water-type moves when at full HP.
 After switching out, transforms user into Hero Form on entry. Lasts until the end of battle. Cannot be suppressed, swapped, copied, or overridden.
 
 # ID: 562
-Costar copies all stat stage changes from the ally when switching in during doubles battles. If the ally has +2 Attack and -1 Defense, the Costar user gains the exact same stat modifications. Only works with a living ally and applies to all seven battle stats including accuracy and evasion.
+Costar copies all stat stage changes (positive and negative) from the ally when switching in during doubles battles.
 
 # ID: 563
 Commander allows Tatsugiri to enter an allied Dondozo and become untargetable. When activated, the Dondozo receives +2 to all stats and Tatsugiri becomes semi-invulnerable. If Dondozo faints, Tatsugiri reappears and can act normally again.

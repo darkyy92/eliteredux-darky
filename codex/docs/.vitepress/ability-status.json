@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 345,
+    "completed": 346,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:14:26.645778Z"
+    "generated_at": "2025-07-20T18:16:03.865112Z"
   },
   "abilities": {
     "0": {
@@ -3945,8 +3945,8 @@
       "id": 562,
       "name": "Costar",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "563": {
       "id": 563,
@@ -9514,10 +9514,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "562": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "563": {
       "indicator": "🟠",

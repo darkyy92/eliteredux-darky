@@ -570,7 +570,7 @@ In Progress: 0
 | 559 | Guilt Trip                 | ✅       | ✅        |
 | 560 | Water Gale Wings           | ✅       | ✅        |
 | 561 | Zero To Hero               | ✅       | ✅        |
-| 562 | Costar                     | ✅       | ❌        |
+| 562 | Costar                     | ✅       | ✅        |
 | 563 | Commander                  | ✅       | ❌        |
 | 564 | Eject Pack Ability         | ✅       | ❌        |
 | 565 | Vengeful Spirit            | ✅       | ❌        |
