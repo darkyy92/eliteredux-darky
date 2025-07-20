@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 322,
+    "completed": 323,
     "written": 868,
     "pending": 8,
-    "generated_at": "2025-07-20T15:51:25.741348Z"
+    "generated_at": "2025-07-20T15:55:03.781559Z"
   },
   "abilities": {
     "0": {
@@ -3784,8 +3784,8 @@
       "id": 539,
       "name": "Chrome Coat",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "540": {
       "id": 540,
@@ -9376,10 +9376,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "539": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "540": {
       "indicator": "🟠",

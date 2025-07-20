@@ -1592,7 +1592,7 @@ Spike Armor has a 30% chance to inflict bleeding on contact moves, both when att
 Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when hit by special moves. Bleeding deals 1/16 of max HP damage each turn, similar to poison. Only affects special attacks like Thunderbolt, Psychic, and Flamethrower. Cannot affect Pokemon immune to bleeding.
 
 # ID: 539
-Chrome Coat provides substantial special defensive bulk by reducing all incoming special attack damage by 40%. This reflective metallic coating comes at the cost of mobility, decreasing the Pokemon's Speed stat by 10%. Perfect for defensive tanks that need to wall special attackers consistently.
+Chrome Coat reduces special damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
 
 # ID: 540
 Banshee boosts all sound-based moves by 20% damage and converts Normal-type sound moves to Ghost-type. This affects moves like Growl, Roar, Sing, Supersonic, Screech, Snore, Uproar, Hyper Voice, Bug Buzz, Chatter, Round, Echoed Voice, Relic Song, Snarl, Noble Roar, Boomburst, and Parting Shot.
