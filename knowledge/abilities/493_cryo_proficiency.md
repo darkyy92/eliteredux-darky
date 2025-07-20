@@ -1,8 +1,8 @@
 ---
 id: 493
 name: Cryo Proficiency
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 281
 ---
 
 # Cryo Proficiency - Ability ID 493
@@ -13,7 +13,8 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon makes contact with an opponent, there's a 30% chance to inflict frostbite. Additionally, on successful contact hits, this Pokemon summons hail if no hail is active. The Pokemon is immune to hail damage, allowing it to thrive in the icy conditions it creates.
+Contact with this Pokemon has a 20% chance to inflict frostbite. Non-contact has a 30% chance. Works offensively and defensively. Frostbitten Pokemon lose 1/8th of their max HP each turn and have their Special Attack halved. 
+Sets hail after receiving a hit. Immune to hail damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
