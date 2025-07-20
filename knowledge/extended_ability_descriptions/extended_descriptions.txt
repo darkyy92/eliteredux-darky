@@ -1463,7 +1463,7 @@ Contact with this Pokemon has a 20% chance to inflict frostbite. Non-contact has
 Arcane Force grants all moves STAB (Same Type Attack Bonus), regardless of type matching. This mystical power also amplifies super-effective attacks by 10%, making hits that would normally deal 2x damage or more even stronger. A perfect fusion of versatility and power.
 
 # ID: 495
-Upon entering battle, automatically uses Doom Desire against an opponent. This Steel-type delayed attack has 140 base power and strikes the target exactly two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
+Uses Doom Desire on entry. Doom Desire is a Steel-type 140 base power and strikes the target two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
 
 # ID: 496
 Automatically uses Wish upon entering battle, setting up delayed healing that restores half of the user's max HP on the following turn. This self-healing ability can only be activated 3 times per battle, making it a valuable but limited source of HP recovery.

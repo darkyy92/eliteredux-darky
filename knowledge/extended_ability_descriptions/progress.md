@@ -503,7 +503,7 @@ In Progress: 0
 | 492 | Freezing Point             | ✅       | ✅        |
 | 493 | Cryo Proficiency           | ✅       | ✅        |
 | 494 | Arcane Force               | ✅       | ❌        |
-| 495 | Doombringer                | ✅       | ❌        |
+| 495 | Doombringer                | ✅       | ✅        |
 | 496 | Wishmaker                  | ✅       | ❌        |
 | 497 | Yuki Onna                  | ✅       | ❌        |
 | 498 | Suppress                   | ✅       | ❌        |
