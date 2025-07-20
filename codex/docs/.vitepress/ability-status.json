@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 335,
+    "completed": 336,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T17:44:18.680932Z"
+    "generated_at": "2025-07-20T17:44:58.964788Z"
   },
   "abilities": {
     "0": {
@@ -3875,8 +3875,8 @@
       "id": 552,
       "name": "Terminal Velocity",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "553": {
       "id": 553,
@@ -9454,10 +9454,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "552": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "553": {
       "indicator": "🟠",
