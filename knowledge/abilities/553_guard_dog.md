@@ -1,8 +1,8 @@
 ---
 id: 553
 name: Guard Dog
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 154
 ---
 
 # Guard Dog - Ability ID 553
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Guard Dog prevents forced switching from moves like Roar, Whirlwind, Dragon Tail, and Circle Throw, plus items like Red Card. When affected by Intimidate, it boosts Attack by one stage instead of lowering it. Perfect immunity to switch-forcing effects and stat control.
+Guard Dog prevents forced switching from moves and Red Card. When affected by Intimidate or Scare, it raises the stat by one stage instead of lowering it. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
