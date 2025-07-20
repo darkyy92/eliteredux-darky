@@ -1,8 +1,8 @@
 ---
 id: 563
 name: Commander
-status: ai-generated
-character_count: 239
+status: reviewed
+character_count: 274
 ---
 
 # Commander - Ability ID 563
@@ -13,7 +13,7 @@ character_count: 239
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Commander allows Tatsugiri to enter an allied Dondozo and become untargetable. When activated, the Dondozo receives +2 to all stats and Tatsugiri becomes semi-invulnerable. If Dondozo faints, Tatsugiri reappears and can act normally again.
+Allows Tatsugiri to enter an allied Dondozo and become untargetable. Dondozo receives +2 to all stats, cannot switch or be forced out and Tatsugiri becomes unusable. If Dondozo faints, Tatsugiri reappears and can act normally again. Cannot be swapped, copied, or suppressed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
