@@ -1,8 +1,8 @@
 ---
 id: 571
 name: Fire Scales
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 97
 ---
 
 # Fire Scales - Ability ID 571
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fire Scales provides a 50% damage reduction against all special attacks, effectively halving incoming special damage. Unlike Marvel Scale which boosts defensive stats when afflicted, Fire Scales directly reduces damage from special moves through a multiplicative modifier applied during damage calc.
+Halves all incoming special attack damage. Multiplicative with other sources of damage reduction.   
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
