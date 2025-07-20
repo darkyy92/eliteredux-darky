@@ -2,7 +2,7 @@
 id: 335
 name: Haunted Spirit
 status: reviewed
-character_count: 209
+character_count: 194
 ---
 
 # Haunted Spirit - Ability ID 335
@@ -13,7 +13,7 @@ character_count: 209
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Haunted Spirit curses the attacker when knocked out by a direct hit. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse.
+Curses the attacker when knocked out by a direct hit. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse.
 
 ## Detailed Mechanical Explanation
 
