@@ -1538,7 +1538,7 @@ Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the l
 When hit, raises the user's Special Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 520
-Devourer combines Strong Jaw and Primal Maw effects. Boosts biting, jaw, and fang moves by 30% damage. When using these moves, the second hit of multi-hit abilities deals 40% damage instead of the usual 25%, making jaw-based attacks devastatingly powerful in combat.
+Boosts biting moves by 30%. All biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
 
 # ID: 521
 Phantom Thief automatically uses a 40 BP Spectral Thief when switching in, targeting a random opponent. Steals all positive stat boosts from the target and applies them to the user. Ghost-type attack benefits from STAB on Ghost-types. Cannot miss and ignores Substitute.

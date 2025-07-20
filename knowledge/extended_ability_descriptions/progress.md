@@ -528,7 +528,7 @@ In Progress: 0
 | 517 | Two Step                   | ✅       | ✅        |
 | 518 | Spiteful                   | ✅       | ✅        |
 | 519 | Fortitude                  | ✅       | ✅        |
-| 520 | Devourer                   | ✅       | ❌        |
+| 520 | Devourer                   | ✅       | ✅        |
 | 521 | Phantom Thief              | ✅       | ❌        |
 | 522 | Early Grave                | ✅       | ❌        |
 | 523 | Grappler                   | ✅       | ❌        |
