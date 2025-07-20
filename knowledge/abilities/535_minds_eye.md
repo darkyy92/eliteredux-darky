@@ -1,8 +1,8 @@
 ---
 id: 535
 name: Mind's Eye
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 213
 ---
 
 # Mind's Eye - Ability ID 535
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness, bypassing their typical immunity. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities like Sand Attack or Intimidate.
+Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with normal effectiveness. Additionally, this ability prevents the user's accuracy stat from being lowered by opposing moves or abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
