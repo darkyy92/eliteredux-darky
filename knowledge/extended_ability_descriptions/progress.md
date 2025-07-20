@@ -581,7 +581,7 @@ In Progress: 0
 | 570 | Ill Will                   | ✅       | ✅        |
 | 571 | Fire Scales                | ✅       | ✅        |
 | 572 | Ability 572                | ❌       | ❌        |
-| 573 | Rapid Response             | ✅       | ❌        |
+| 573 | Rapid Response             | ✅       | ✅        |
 | 574 | Sharp Edges                | ✅       | ❌        |
 | 575 | Thermal Exchange           | ✅       | ❌        |
 | 576 | Good As Gold               | ✅       | ❌        |
