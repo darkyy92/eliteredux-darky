@@ -1,8 +1,8 @@
 ---
 id: 531
 name: Clap Trap
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 155
 ---
 
 # Clap Trap - Ability ID 531
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Clap Trap counters contact moves by immediately using Snap Trap with 50 base power against the attacker. The Steel-type retaliation traps opponents for 4-5 turns while dealing damage. Only activates when hit by contact moves, providing excellent defensive utility and battlefield control.
+When the user receives a contact move, counters with a 50 BP Snap Trap. This Steel-type move traps opponents for 4-5 turns while dealing 1/8 max HP damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
