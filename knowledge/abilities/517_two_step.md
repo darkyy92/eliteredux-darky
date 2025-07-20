@@ -1,8 +1,8 @@
 ---
 id: 517
 name: Two Step
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 133
 ---
 
 # Two Step - Ability ID 517
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Two Step triggers after successfully using any dance move, automatically following up with Revelation Dance at 50% power. The follow-up move matches the user's primary type and targets the same foe. Works with moves like Quiver Dance, Swords Dance, and other dance attacks for combo potential.
+After using a dance move, automatically follows up with a 50 BP Revelation Dance. The follow-up move matches the user's primary type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
