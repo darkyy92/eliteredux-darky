@@ -1,8 +1,8 @@
 ---
 id: 525
 name: Flaming Jaws
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 52
 ---
 
 # Flaming Jaws - Ability ID 525
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flaming Jaws gives all biting moves a 50% chance to burn the target on hit. Works with moves boosted by Strong Jaw like Bite, Crunch, Fire Fang, Thunder Fang, Ice Fang, Hyper Fang, Poison Fang, Psychic Fangs, and Jaw Lock. Burn inflicts damage and halves Attack.
+Biting moves a 50% chance to burn the target on hit. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
