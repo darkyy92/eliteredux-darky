@@ -1700,7 +1700,7 @@ Boosts Attack by one stage when hit by Fire-type moves and grants immunity to bu
 Good As Gold grants immunity to all status moves that directly target this Pokemon. Remains vulnerable to status moves that affect the entire field, such as Haze.
 
 # ID: 577
-All stat changes are shared between all battlers on the field. Both positive and negative stat changes affect everyone equally. Creates a level playing field where no Pokemon can gain stat advantages. Counters setup sweepers but also shares your own boosts with opponents. Double-edged strategy tool.
+All stat changes are shared between all battlers on the field, both positive and negative.
 
 # ID: 578
 Tablets of Ruin creates an ancient curse that weakens the physical strength of all opposing Pokemon on the field. This passive ability reduces the Attack stat of every other Pokemon by 25% as long as the Tablets bearer remains active. Multiple Ruin abilities do not stack together.

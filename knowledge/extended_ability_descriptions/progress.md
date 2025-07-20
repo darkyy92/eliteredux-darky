@@ -585,7 +585,7 @@ In Progress: 0
 | 574 | Sharp Edges                | ✅       | ❌        |
 | 575 | Thermal Exchange           | ✅       | ✅        |
 | 576 | Good As Gold               | ✅       | ✅        |
-| 577 | Sharing Is Caring          | ✅       | ❌        |
+| 577 | Sharing Is Caring          | ✅       | ✅        |
 | 578 | Tablets Of Ruin            | ✅       | ❌        |
 | 579 | Sword Of Ruin              | ✅       | ❌        |
 | 580 | Vessel Of Ruin             | ✅       | ❌        |

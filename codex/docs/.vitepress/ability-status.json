@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 358,
+    "completed": 359,
     "written": 866,
     "pending": 10,
-    "generated_at": "2025-07-20T19:00:33.639161Z"
+    "generated_at": "2025-07-20T19:01:16.223854Z"
   },
   "abilities": {
     "0": {
@@ -4050,8 +4050,8 @@
       "id": 577,
       "name": "Sharing Is Caring",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "578": {
       "id": 578,
@@ -9604,10 +9604,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "577": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "578": {
       "indicator": "🟠",
