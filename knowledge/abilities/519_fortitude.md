@@ -1,8 +1,8 @@
 ---
 id: 519
 name: Fortitude
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 130
 ---
 
 # Fortitude - Ability ID 519
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fortitude raises Special Defense by 1 stage when hit by any move. If the attack is a critical hit, Special Defense is maxed out to +6 stages instead. The boost applies before damage calculation, making each hit progressively weaker against special attacks.
+When hit, raises the user's Special Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
