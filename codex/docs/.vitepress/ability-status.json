@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 310,
+    "completed": 311,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T15:13:13.899437Z"
+    "generated_at": "2025-07-20T15:13:45.838533Z"
   },
   "abilities": {
     "0": {
@@ -3686,8 +3686,8 @@
       "id": 525,
       "name": "Flaming Jaws",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "526": {
       "id": 526,
@@ -9292,10 +9292,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "525": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "526": {
       "indicator": "🟠",

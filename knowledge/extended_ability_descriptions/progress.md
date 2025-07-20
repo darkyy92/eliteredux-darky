@@ -533,7 +533,7 @@ In Progress: 0
 | 522 | Early Grave                | ✅       | ✅        |
 | 523 | Grappler                   | ✅       | ✅        |
 | 524 | Bass Boosted               | ✅       | ✅        |
-| 525 | Flaming Jaws               | ✅       | ❌        |
+| 525 | Flaming Jaws               | ✅       | ✅        |
 | 526 | Monster Hunter             | ✅       | ❌        |
 | 527 | Crowned Sword              | ✅       | ❌        |
 | 528 | Crowned Shield             | ✅       | ❌        |
