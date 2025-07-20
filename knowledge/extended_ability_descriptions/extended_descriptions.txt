@@ -1637,7 +1637,7 @@ Guard Dog prevents forced switching from moves and Red Card. When affected by In
 When dropping to below 50% HP, the user triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle. Activates at the last hit of multihit moves.
 
 # ID: 555
-Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. When any opponent increases their Attack, Defense, Speed, Special Attack, Special Defense, or Accuracy, the Egoist user gains the same stat boosts instantly. Perfect for countering setup sweepers.
+Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. Does not copy other Egoist boosts.
 
 # ID: 556
 Subdue enhances all stat-lowering moves used by this Pokemon, doubling their effectiveness. Leer becomes as strong as Screech, while Screech drops Defense by 4 stages. Works on all stat drops including multi-stat moves. Does not affect self-inflicted stat drops or enemy abilities.

@@ -563,7 +563,7 @@ In Progress: 0
 | 552 | Terminal Velocity          | ✅       | ✅        |
 | 553 | Guard Dog                  | ✅       | ✅        |
 | 554 | Anger Shell                | ✅       | ✅        |
-| 555 | Egoist                     | ✅       | ❌        |
+| 555 | Egoist                     | ✅       | ✅        |
 | 556 | Subdue                     | ✅       | ❌        |
 | 557 | Readied Action             | ✅       | ❌        |
 | 558 | Stygian Rush               | ✅       | ❌        |
