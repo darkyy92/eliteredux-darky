@@ -1,8 +1,8 @@
 ---
 id: 518
 name: Spiteful
-status: ai-generated
-character_count: 270
+status: reviewed
+character_count: 182
 ---
 
 # Spiteful - Ability ID 518
@@ -13,7 +13,7 @@ character_count: 270
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker, reducing its PP even if it wasn't the move that made contact. Cannot reduce PP below 0. Fails if the attacker has no remaining PP or hasn't used any moves yet.
+Spiteful reduces the attacker's PP by 4 when hit by contact moves. Targets the last move used by the attacker. Fails if the attacker has no remaining PP or hasn't used any moves yet.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
