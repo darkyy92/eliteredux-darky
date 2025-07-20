@@ -549,7 +549,7 @@ In Progress: 0
 | 538 | Ability 538                | ❌       | ❌        |
 | 539 | Chrome Coat                | ✅       | ✅        |
 | 540 | Banshee                    | ✅       | ✅        |
-| 541 | Web Spinner                | ✅       | ❌        |
+| 541 | Web Spinner                | ✅       | ✅        |
 | 542 | Showdown Mode              | ✅       | ❌        |
 | 543 | Seed Sower                 | ✅       | ❌        |
 | 544 | Airborne                   | ✅       | ❌        |
