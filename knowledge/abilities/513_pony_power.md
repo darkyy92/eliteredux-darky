@@ -1,8 +1,8 @@
 ---
 id: 513
 name: Pony Power
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 153
 ---
 
 # Pony Power (Blade's Essence) - Ability ID 513
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blade's Essence combines Keen Edge and Mystic Blades effects. Boosts slicing moves by 30% and allows physical slicing moves to use the higher of Attack or Special Attack. This includes moves like Slash, Leaf Blade, Air Slash, and Night Slash. Perfect for mixed attackers wanting versatility.
+Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. Also gives another 30% to Keen Edge moves. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
