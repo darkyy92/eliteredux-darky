@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 349,
+    "completed": 350,
     "written": 867,
     "pending": 9,
-    "generated_at": "2025-07-20T18:28:56.489074Z"
+    "generated_at": "2025-07-20T18:30:26.121438Z"
   },
   "abilities": {
     "0": {
@@ -3973,8 +3973,8 @@
       "id": 566,
       "name": "Cud Chew",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "567": {
       "id": 567,
@@ -9538,10 +9538,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "566": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "567": {
       "indicator": "🟠",
