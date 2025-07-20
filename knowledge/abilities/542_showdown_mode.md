@@ -1,8 +1,8 @@
 ---
 id: 542
 name: Showdown Mode
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 129
 ---
 
 # Showdown Mode - Ability ID 542
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Showdown Mode combines the devastating effects of Ambush and Violent Rush on the first turn after switching in. The Pokemon gains guaranteed critical hits on all attacks plus boosts Attack by 20% and Speed by 50% for explosive opening turns that can catch opponents off guard.
+Guarantees a critical hit while also boosting the user's Attack by 20% and their Speed by 50% after switching in. Lasts one turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
