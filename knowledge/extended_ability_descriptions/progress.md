@@ -579,7 +579,7 @@ In Progress: 0
 | 568 | Mind Crush                 | ✅       | ✅        |
 | 569 | Supreme Overlord           | ✅       | ✅        |
 | 570 | Ill Will                   | ✅       | ✅        |
-| 571 | Fire Scales                | ✅       | ❌        |
+| 571 | Fire Scales                | ✅       | ✅        |
 | 572 | Watch Your Step            | ✅       | ❌        |
 | 573 | Rapid Response             | ✅       | ❌        |
 | 574 | Sharp Edges                | ✅       | ❌        |

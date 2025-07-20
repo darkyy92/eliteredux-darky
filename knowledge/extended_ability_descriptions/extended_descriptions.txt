@@ -1685,7 +1685,7 @@ Boosts Attack and Special Attack by 10% for each fainted ally on your side, capp
 Ill Will drains the PP of the move that defeats the user. Has to be a direct hit.
 
 # ID: 571
-Fire Scales provides a 50% damage reduction against all special attacks, effectively halving incoming special damage. Unlike Marvel Scale which boosts defensive stats when afflicted, Fire Scales directly reduces damage from special moves through a multiplicative modifier applied during damage calc.
+Halves all incoming special attack damage. Multiplicative with other sources of damage reduction.
 
 # ID: 572
 Upon switching in, the Pokemon scatters sharp spikes across the opponent's battlefield, creating two layers of Spikes that damage grounded enemies who switch in. Each layer increases the damage dealt by enemy hazards.
