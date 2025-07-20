@@ -1,8 +1,8 @@
 ---
 id: 526
 name: Monster Hunter
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 213
 ---
 
 # Monster Hunter - Ability ID 526
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Monster Hunter grants 1.5x damage when attacking Dark-type Pokemon and takes 0.5x damage from Dark-type attacks. The damage bonus applies to all moves used against Dark types. The damage reduction works against all Dark-type moves regardless of category. Breakable by Mold Breaker.
+Deals 1.5x damage to Dark-type Pokemon and takes 0.5x damage when attacked by Dark-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
