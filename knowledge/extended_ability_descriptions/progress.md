@@ -562,7 +562,7 @@ In Progress: 0
 | 551 | Impulse                    | ✅       | ✅        |
 | 552 | Terminal Velocity          | ✅       | ✅        |
 | 553 | Guard Dog                  | ✅       | ✅        |
-| 554 | Anger Shell                | ✅       | ❌        |
+| 554 | Anger Shell                | ✅       | ✅        |
 | 555 | Egoist                     | ✅       | ❌        |
 | 556 | Subdue                     | ✅       | ❌        |
 | 557 | Readied Action             | ✅       | ❌        |

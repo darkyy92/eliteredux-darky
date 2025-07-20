@@ -1634,7 +1634,7 @@ Adds 20% of the user's Speed stat to damage when using non-contact moves. Choice
 Guard Dog prevents forced switching from moves and Red Card. When affected by Intimidate or Scare, it raises the stat by one stage instead of lowering it.
 
 # ID: 554
-When this Pokemon's HP drops below half from an attack, it triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle when crossing the threshold.
+When this Pokemon's HP drops below half from an attack, it triggers Shell Smash effects: raising Attack, Special Attack, and Speed by 2 stages each while lowering Defense and Special Defense by 1 stage each. Only activates once per battle when crossing the threshold
 
 # ID: 555
 Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. When any opponent increases their Attack, Defense, Speed, Special Attack, Special Defense, or Accuracy, the Egoist user gains the same stat boosts instantly. Perfect for countering setup sweepers.
