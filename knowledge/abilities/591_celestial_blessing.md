@@ -1,8 +1,8 @@
 ---
 id: 591
 name: Celestial Blessing
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 89
 ---
 
 # Celestial Blessing - Ability ID 591
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Celestial Blessing activates during the end turn phase, restoring 1/12 of the Pokemon's maximum HP each turn, but only while the Pokemon is on the field under Misty Terrain. This recovery is blocked by Heal Block and similar effects. The ability provides consistent healing for Fairy-type teams.
+Restores 1/12 of the user's maximum HP at the end of each turn while under Misty Terrain. 
 
 ## Detailed Mechanical Explanation
 
