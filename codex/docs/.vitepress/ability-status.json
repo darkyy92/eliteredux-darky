@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 324,
-    "written": 868,
-    "pending": 8,
-    "generated_at": "2025-07-20T15:56:27.360625Z"
+    "written": 867,
+    "pending": 9,
+    "generated_at": "2025-07-20T16:00:52.792949Z"
   },
   "abilities": {
     "0": {
@@ -3775,10 +3775,10 @@
     },
     "538": {
       "id": 538,
-      "name": "Voodoo Power",
-      "written": true,
+      "name": "Ability 538",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "539": {
       "id": 539,
@@ -9370,10 +9370,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "538": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "539": {
       "indicator": "✅",

@@ -1588,9 +1588,6 @@ Blood Price boosts all attacking moves by 30%, but the user loses 10% of their m
 # ID: 537
 Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stage stages. Rock and Ghost types are immune to bleeding.
 
-# ID: 538
-Voodoo Power gives the user a 30% chance to inflict bleeding on attackers when hit by special moves. Bleeding deals 1/16 of max HP damage each turn, similar to poison. Only affects special attacks like Thunderbolt, Psychic, and Flamethrower. Cannot affect Pokemon immune to bleeding.
-
 # ID: 539
 Chrome Coat reduces special damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
 

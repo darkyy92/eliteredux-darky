@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 868
+Completed: 867
 In Progress: 0
 
 ## Progress Tracking
@@ -546,7 +546,7 @@ In Progress: 0
 | 535 | Mind's Eye                 | ✅       | ✅        |
 | 536 | Blood Price                | ✅       | ✅        |
 | 537 | Spike Armor                | ✅       | ✅        |
-| 538 | Voodoo Power               | ✅       | ❌        |
+| 538 | Ability 538                | ❌       | ❌        |
 | 539 | Chrome Coat                | ✅       | ✅        |
 | 540 | Banshee                    | ✅       | ✅        |
 | 541 | Web Spinner                | ✅       | ❌        |
