@@ -1,8 +1,8 @@
 ---
 id: 532
 name: Permanence
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 252
 ---
 
 # Permanence - Ability ID 532
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover and Synthesis, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
+Prevents all opposing Pokemon from healing through any means. Blocks healing moves like Recover, absorbing moves like Drain Punch, passive healing from Leftovers and abilities like Regenerator, and prevents health recovery from berries and other items.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
