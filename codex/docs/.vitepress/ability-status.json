@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 284,
+    "completed": 285,
     "written": 869,
     "pending": 7,
-    "generated_at": "2025-07-20T00:29:29.344796Z"
+    "generated_at": "2025-07-20T00:32:26.835958Z"
   },
   "abilities": {
     "0": {
@@ -3504,8 +3504,8 @@
       "id": 499,
       "name": "Refrigerator",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "500": {
       "id": 500,
@@ -9136,10 +9136,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "499": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "500": {
       "indicator": "🟠",

@@ -1475,7 +1475,7 @@ Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stag
 Upon entering the battlefield, automatically uses Torment on the opponent, preventing them from using the same move consecutively. This Dark-type status move forces the enemy to alternate between different attacks, disrupting repetitive strategies.
 
 # ID: 499
-Refrigerator combines Filter and Illuminate effects. Reduces damage from super effective attacks by 35%, taking only 65% of the original damage. Additionally boosts the accuracy of all moves by 20%, making attacks more likely to hit their target.
+Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Additionally boosts the accuracy of all moves by 20%.
 
 # ID: 500
 Heaven Asunder guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves. This signature ability of Palkia reflects its mastery over spatial dimensions, tearing through enemy defenses with devastating precision strikes.
