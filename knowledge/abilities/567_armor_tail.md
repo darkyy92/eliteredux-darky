@@ -1,8 +1,8 @@
 ---
 id: 567
 name: Armor Tail
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 97
 ---
 
 # Armor Tail - Ability ID 567
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Armor Tail prevents priority moves from targeting the user and their ally. Works against all positive priority moves like Quick Attack, Bullet Punch, and Extreme Speed. The protection applies to both single and double battles. This breakable ability can be bypassed by Mold Breaker effects.
+Prevents the user and its ally from being targeted by priority moves with priority higher than 0.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
