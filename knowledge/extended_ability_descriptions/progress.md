@@ -516,7 +516,7 @@ In Progress: 0
 | 505 | Mystic Blades              | ✅       | ✅        |
 | 506 | Determination              | ✅       | ✅        |
 | 507 | Fertilize                  | ✅       | ✅        |
-| 508 | Pure Love                  | ✅       | ❌        |
+| 508 | Pure Love                  | ✅       | ✅        |
 | 509 | Fighter                    | ✅       | ❌        |
 | 510 | Mycelium Might             | ✅       | ❌        |
 | 511 | Telekinetic                | ✅       | ❌        |
