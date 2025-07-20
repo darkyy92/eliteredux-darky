@@ -1,8 +1,8 @@
 ---
 id: 516
 name: Monster Mash
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 159
 ---
 
 # Monster Mash - Ability ID 516
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically casts Trick-or-Treat when entering battle, adding Ghost as a third type to the target Pokemon. This removes Ghost immunity to physical attacks in Fog weather and adds Ghost weaknesses. The effect persists until the target switches out, making it a powerful counter to Fog teams.
+Casts Trick-or-Treat on entry, adding Ghost type to the target. They do not benefit from the effects of fog. The effect persists until the target switches out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
