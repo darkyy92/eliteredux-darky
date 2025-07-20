@@ -553,7 +553,7 @@ In Progress: 0
 | 542 | Showdown Mode              | ✅       | ✅        |
 | 543 | Seed Sower                 | ✅       | ✅        |
 | 544 | Airborne                   | ✅       | ✅        |
-| 545 | Parroting                  | ✅       | ❌        |
+| 545 | Parroting                  | ✅       | ✅        |
 | 546 | Salt Circle                | ✅       | ❌        |
 | 547 | Purifying Salt             | ✅       | ❌        |
 | 548 | Protosynthesis             | ✅       | ❌        |
