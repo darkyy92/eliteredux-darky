@@ -573,7 +573,7 @@ In Progress: 0
 | 562 | Costar                     | ✅       | ✅        |
 | 563 | Commander                  | ✅       | ✅        |
 | 564 | Eject Pack Ability         | ✅       | ✅        |
-| 565 | Vengeful Spirit            | ✅       | ❌        |
+| 565 | Vengeful Spirit            | ✅       | ✅        |
 | 566 | Cud Chew                   | ✅       | ❌        |
 | 567 | Armor Tail                 | ✅       | ❌        |
 | 568 | Mind Crush                 | ✅       | ❌        |
