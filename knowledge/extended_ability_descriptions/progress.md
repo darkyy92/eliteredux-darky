@@ -551,7 +551,7 @@ In Progress: 0
 | 540 | Banshee                    | ✅       | ✅        |
 | 541 | Web Spinner                | ✅       | ✅        |
 | 542 | Showdown Mode              | ✅       | ✅        |
-| 543 | Seed Sower                 | ✅       | ❌        |
+| 543 | Seed Sower                 | ✅       | ✅        |
 | 544 | Airborne                   | ✅       | ❌        |
 | 545 | Parroting                  | ✅       | ❌        |
 | 546 | Salt Circle                | ✅       | ❌        |

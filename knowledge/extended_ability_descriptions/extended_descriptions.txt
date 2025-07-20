@@ -1601,7 +1601,7 @@ Uses String Shot on switch in, harshly lowering the Speed of all opponents by 2 
 Guarantees a critical hit while also boosting the user's Attack by 20% and their Speed by 50% after switching in. Lasts one turn.
 
 # ID: 543
-Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5/8 turns depending on item. Simultaneously heals all party Pokemon's status conditions including poison, burn, paralysis, sleep, freeze, frostbite, and bleeding, plus nightmare.
+Activates Grassy Terrain when the Pokemon takes damage from a direct attack, lasting 5 turns (8 with Terrain Extender). Also heals all party Pokemon's status conditions.
 
 # ID: 544
 Airborne provides a 1.3x power boost to all Flying-type moves used by both the Pokemon with this ability and its allies in double battles. This boost applies to any Flying-type move regardless of category or base power. Works perfectly with strategies involving Flying-type teams.
