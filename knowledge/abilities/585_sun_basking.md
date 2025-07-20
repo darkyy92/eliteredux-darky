@@ -1,8 +1,8 @@
 ---
 id: 585
 name: Sun Basking
-status: ai-generated
-character_count: 265
+status: reviewed
+character_count: 126
 ---
 
 # Sun Basking - Ability ID 585
@@ -13,7 +13,7 @@ character_count: 265
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sun Basking provides dual protection in harsh sunlight: complete immunity to enemy priority moves and 50% physical damage reduction. Both effects activate only during sunny weather, making this breakable ability essential for sun teams. Perfect for defensive cores.
+Blocks priority moves and reduces physical attack damage by 50% in sun. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 
