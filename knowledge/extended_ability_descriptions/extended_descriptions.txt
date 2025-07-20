@@ -1493,7 +1493,7 @@ Triggers a 50 BP Surf after the user lands a Water-type attack, including status
 Uses Heart Swap on entry. Swaps stat stages with the Pokemon directly across from the user. Ignores accuracy checks.
 
 # ID: 505
-Keen edge moves become special and deal 30% more damage. Affects 50+ slashing moves including Slash, Leaf Blade, Dragon Claw, and Night Slash. Converts physical slashes to special attacks using SpAtk stat. Perfect for special attackers bypassing physical walls and gaining diverse coverage.
+Keen edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage.
 
 # ID: 506
 Determination boosts Special Attack by 50% when the Pokemon has any status condition or Comatose ability. Also prevents the freeze status from reducing Special Attack. This works with burn, poison, paralysis, sleep, freeze, and Blood Stain effects. Great for special attackers.

@@ -513,7 +513,7 @@ In Progress: 0
 | 502 | Seaborne                   | ✅       | ✅        |
 | 503 | High Tide                  | ✅       | ✅        |
 | 504 | Change of Heart            | ✅       | ✅        |
-| 505 | Mystic Blades              | ✅       | ❌        |
+| 505 | Mystic Blades              | ✅       | ✅        |
 | 506 | Determination              | ✅       | ❌        |
 | 507 | Fertilize                  | ✅       | ❌        |
 | 508 | Pure Love                  | ✅       | ❌        |
