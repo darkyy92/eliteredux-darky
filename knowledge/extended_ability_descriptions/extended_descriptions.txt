@@ -1559,7 +1559,7 @@ Biting moves a 50% chance to burn the target on hit.
 Deals 1.5x damage to Dark-type Pokemon and takes 0.5x damage when attacked by Dark-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 # ID: 527
-Crowned Sword combines Intrepid Sword and Anger Point effects. Raises Attack by 1 stage upon switching in. When hit by any attack, raises Attack by 1 stage, or maximizes Attack if hit by a critical hit. Transforms defensive play into offensive pressure.
+Raises Attack by 1 stage upon switching in. When hit, raises the user's Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 528
 Crowned Shield combines Dauntless Shield and Stamina effects. Boosts Defense by one stage when switching in. When taking damage, raises Defense by one stage or maxes Defense if hit by a critical hit. Provides exceptional defensive presence through stacking Defense boosts.
