@@ -1,8 +1,8 @@
 ---
 id: 565
 name: Vengeful Spirit
-status: ai-generated
-character_count: 252
+status: reviewed
+character_count: 251
 ---
 
 # Vengeful Spirit - Ability ID 565
@@ -13,7 +13,7 @@ character_count: 252
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Haunted Spirit and Vengeance effects. When KO'd by contact moves, curses the attacker to lose 1/4 HP each turn. When at 1/3 HP or less, Ghost-type moves deal 50% more damage. Provides both defensive punishment and offensive comeback potential.
+Combines Haunted Spirit and Vengeance effects. When KO'd by contact moves, curses the attacker to lose 1/4 HP each turn. When at 1/3 HP or less, Ghost-type moves deal 50% more damage. Provides both defensive punishment and offensive comeback potential
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
