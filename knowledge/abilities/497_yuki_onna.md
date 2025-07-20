@@ -2,7 +2,7 @@
 id: 497
 name: Yuki Onna
 status: reviewed
-character_count: 250
+character_count: 275
 ---
 
 # Yuki Onna - Ability ID 497
@@ -13,7 +13,7 @@ character_count: 250
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stage. Additionally provides a 30% chance to infatuate (cuts their Attack and Special Attack in half) the target when landing attacks. This only works on the opposite gender.
+Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stage. Additionally provides a 30% chance to infatuate (cuts their Attack and Special Attack in half) the target on contact. Works offensively and defensively. This only works on the opposite gender.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
