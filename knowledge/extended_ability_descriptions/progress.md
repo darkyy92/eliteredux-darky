@@ -613,7 +613,7 @@ In Progress: 0
 | 602 | Lawnmower                  | ✅       | ✅        |
 | 603 | Flourish                   | ✅       | ✅        |
 | 604 | Desert Spirit              | ✅       | ✅        |
-| 605 | Contempt                   | ✅       | ❌        |
+| 605 | Contempt                   | ✅       | ✅        |
 | 606 | Aerialist                  | ✅       | ❌        |
 | 607 | Tera Shell                 | ✅       | ❌        |
 | 608 | Toxic Chain                | ✅       | ❌        |
