@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 374,
+    "completed": 375,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:21:33.029324Z"
+    "generated_at": "2025-07-21T00:22:55.175712Z"
   },
   "abilities": {
     "0": {
@@ -4197,8 +4197,8 @@
       "id": 598,
       "name": "Malicious",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "599": {
       "id": 599,
@@ -9730,10 +9730,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "598": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "599": {
       "indicator": "🟠",
