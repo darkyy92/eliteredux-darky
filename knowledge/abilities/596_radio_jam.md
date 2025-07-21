@@ -1,8 +1,8 @@
 ---
 id: 596
 name: Radio Jam
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 97
 ---
 
 # Radio Jam - Ability ID 596
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon hits opponents with sound-based moves, there's a 20% chance to disable their last used move. This electromagnetic interference disrupts the target's ability to repeat their previous attack, making it excellent for disrupting setup sweepers and forcing switches in competitive play.
+20% chance to disable the last move used by the target after landing a sound move. Lasts 4 turns.
 
 ## Detailed Mechanical Explanation
 
