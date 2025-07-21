@@ -1,8 +1,8 @@
 ---
 id: 594
 name: Haunting Frenzy
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 104
 ---
 
 # Haunting Frenzy - Ability ID 594
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Haunting Frenzy grants attacks a 20% chance to flinch opponents, applying to all moves affected by King's Rock. Upon defeating an enemy, the user gains +1 Speed stage. This dual effect creates offensive momentum through flinch pressure and speed control, excelling at sweeping weakened teams.
+Attacks have a 20% chance to flinch. Upon defeating an enemy with a direct hit, the user gains +1 Speed.
 
 ## Detailed Mechanical Explanation
 
