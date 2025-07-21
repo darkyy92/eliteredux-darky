@@ -1,8 +1,8 @@
 ---
 id: 604
 name: Desert Spirit
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 222
 ---
 
 # Desert Spirit - Ability ID 604
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Desert Spirit summons sandstorm on entry, lasting 8 turns. During sandstorm, Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage. Creates strategic pressure by forcing grounded interactions and enhancing Ground-type coverage.
+Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). During sandstorm, the user's Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage. 
 
 ## Detailed Mechanical Explanation
 
