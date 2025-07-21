@@ -612,7 +612,7 @@ In Progress: 0
 | 601 | Mythical Arrows            | ✅       | ✅        |
 | 602 | Lawnmower                  | ✅       | ✅        |
 | 603 | Flourish                   | ✅       | ✅        |
-| 604 | Desert Spirit              | ✅       | ❌        |
+| 604 | Desert Spirit              | ✅       | ✅        |
 | 605 | Contempt                   | ✅       | ❌        |
 | 606 | Aerialist                  | ✅       | ❌        |
 | 607 | Tera Shell                 | ✅       | ❌        |

@@ -1778,7 +1778,7 @@ On switch-in, removes any active terrain and gains a stat boost: Defense +1 when
 Boosts Grass-type moves by 50% when Grassy Terrain is active.
 
 # ID: 604
-Desert Spirit summons sandstorm on entry, lasting 8 turns. During sandstorm, Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage. Creates strategic pressure by forcing grounded interactions and enhancing Ground-type coverage.
+Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). During sandstorm, the user's Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage.
 
 # ID: 605
 Contempt functions as a pure Unaware ability, completely ignoring all stat stage changes during damage calculations. Despite its description claiming "Unaware + Defiant" properties, the implementation only includes unaware mechanics. This makes stat-based strategies ineffective.

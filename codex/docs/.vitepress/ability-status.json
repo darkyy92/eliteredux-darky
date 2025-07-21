@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 380,
+    "completed": 381,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T23:32:27.264079Z"
+    "generated_at": "2025-07-21T23:34:27.619668Z"
   },
   "abilities": {
     "0": {
@@ -4239,8 +4239,8 @@
       "id": 604,
       "name": "Desert Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "605": {
       "id": 605,
@@ -9766,10 +9766,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "604": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "605": {
       "indicator": "🟠",
