@@ -1,8 +1,8 @@
 ---
 id: 605
 name: Contempt
-status: ai-generated
-character_count: 279
+status: reviewed
+character_count: 152
 ---
 
 # Contempt - Ability ID 605
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contempt functions as a pure Unaware ability, completely ignoring all stat stage changes during damage calculations. Despite its description claiming "Unaware + Defiant" properties, the implementation only includes unaware mechanics. This makes stat-based strategies ineffective.
+Ignores all stat stage changes during damage calculations. When the user has their stats lowered by anther Pokemon, they raise their Attack by 2 stages.
 
 ## Detailed Mechanical Explanation
 
