@@ -1769,7 +1769,7 @@ Boosts the user's Attack stat by 50% and 20% chance to inflict curse on contact 
 Guarantees hits for all moves used by and against the user. Dragon-type moves are treated as punching moves.
 
 # ID: 601
-Arrow moves become special and deal 30% more damage. Affects all 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage using Special Attack stat. Perfect for Aegislash Redux's high Special Attack of 140 (200 as Mega).
+Arrow moves moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage.
 
 # ID: 602
 On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. No effect if no terrain is active. Terrain removal happens before stat boost. Works on extended terrain.

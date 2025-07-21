@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 377,
+    "completed": 378,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:28:59.029481Z"
+    "generated_at": "2025-07-21T23:29:50.866502Z"
   },
   "abilities": {
     "0": {
@@ -4218,8 +4218,8 @@
       "id": 601,
       "name": "Mythical Arrows",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "602": {
       "id": 602,
@@ -9748,10 +9748,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "601": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "602": {
       "indicator": "🟠",
