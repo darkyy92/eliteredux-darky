@@ -611,7 +611,7 @@ In Progress: 0
 | 600 | Brawling Wyvern            | ✅       | ✅        |
 | 601 | Mythical Arrows            | ✅       | ✅        |
 | 602 | Lawnmower                  | ✅       | ✅        |
-| 603 | Flourish                   | ✅       | ❌        |
+| 603 | Flourish                   | ✅       | ✅        |
 | 604 | Desert Spirit              | ✅       | ❌        |
 | 605 | Contempt                   | ✅       | ❌        |
 | 606 | Aerialist                  | ✅       | ❌        |

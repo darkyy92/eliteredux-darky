@@ -1775,7 +1775,7 @@ Arrow moves moves become Special (deal Special damage and use the Special Attack
 On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain.
 
 # ID: 603
-Flourish boosts Grass-type moves by 50% when affected by Grassy Terrain. Creates powerful synergy with Grassy Surge partners or terrain-setting moves. Most effective on Pokemon with strong Grass movesets, allowing them to deal massive damage under ideal battlefield conditions and terrain support.
+Boosts Grass-type moves by 50% when Grassy Terrain is active.
 
 # ID: 604
 Desert Spirit summons sandstorm on entry, lasting 8 turns. During sandstorm, Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage. Creates strategic pressure by forcing grounded interactions and enhancing Ground-type coverage.
