@@ -1763,7 +1763,7 @@ Reduces the accuracy of all single-target moves aimed at the user by 20%. Spread
 On switch-in, lowers all opposing Pokemon's highest offensive stat (Attack or Special Attack) and highest defensive stat (Defense or Special Defense) by 1 stage each.
 
 # ID: 599
-Grants a 1.5x Attack boost and 20% chance to inflict curse on contact moves. Cursed enemies lose 25% max HP each turn. Only affects contact moves like Tackle, Punch, and Bite. Cannot curse already cursed targets. Great for physical attackers seeking sustained damage pressure.
+Boosts the user's Attack stat by 50% and 20% chance to inflict curse on contact moves. Curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. The Attack boost is multiplicative with other damage boosts.
 
 # ID: 600
 Guarantees perfect accuracy for all moves used by and against this Pokemon. Dragon-type moves are treated as punching moves, gaining 30% power boost and punch-item interactions. This transforms Dragon moves into powerful offensive options while maintaining tactical reliability.

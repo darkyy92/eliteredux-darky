@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 375,
+    "completed": 376,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:22:55.175712Z"
+    "generated_at": "2025-07-21T00:25:43.455132Z"
   },
   "abilities": {
     "0": {
@@ -4204,8 +4204,8 @@
       "id": 599,
       "name": "Dead Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "600": {
       "id": 600,
@@ -9736,10 +9736,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "599": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "600": {
       "indicator": "🟠",
