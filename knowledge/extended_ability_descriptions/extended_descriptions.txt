@@ -1742,7 +1742,7 @@ Makes all Keen Edge moves never miss and hit both opposing Pokemon in double bat
 Restores 1/12 of the user's maximum HP at the end of each turn while under Misty Terrain.
 
 # ID: 592
-Minion Control channels the strength of healthy allies into devastating multi-strike attacks. Each move hits once plus an additional time for every healthy party member (max 6 hits). The first hit deals full damage while each additional hit deals 10% damage. Rewards careful team preservation.
+Moves hit an additional time for every healthy party member (max 6 hits). Members that are knocked out or have a status effect will not be counted. The first hit deals full damage while each additional hit deals 10% damage. Each hit rolls secondary effects independently.
 
 # ID: 593
 Molten Blades superheats slicing attacks, boosting damage by 30% while adding 20% burn chance. Works with Slash, Night Slash, Leaf Blade, Sacred Sword, and all Keen Edge-boosted moves. The combination of immediate power and burn potential makes every slice a dual threat to opponents.

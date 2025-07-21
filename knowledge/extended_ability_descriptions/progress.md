@@ -600,7 +600,7 @@ In Progress: 0
 | 589 | Weather Double Boost       | ✅       | ✅        |
 | 590 | Sweeping Edge Plus         | ✅       | ✅        |
 | 591 | Celestial Blessing         | ✅       | ✅        |
-| 592 | Minion Control             | ✅       | ❌        |
+| 592 | Minion Control             | ✅       | ✅        |
 | 593 | Molten Blades              | ✅       | ❌        |
 | 594 | Haunting Frenzy            | ✅       | ❌        |
 | 595 | Noise Cancel               | ✅       | ❌        |

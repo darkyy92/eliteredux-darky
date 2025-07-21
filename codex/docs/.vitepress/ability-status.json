@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 368,
+    "completed": 369,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-20T23:43:02.242530Z"
+    "generated_at": "2025-07-21T00:00:11.681043Z"
   },
   "abilities": {
     "0": {
@@ -4155,8 +4155,8 @@
       "id": 592,
       "name": "Minion Control",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "593": {
       "id": 593,
@@ -9694,10 +9694,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "592": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "593": {
       "indicator": "🟠",
