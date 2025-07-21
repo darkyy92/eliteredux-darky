@@ -608,7 +608,7 @@ In Progress: 0
 | 597 | Ole                        | ✅       | ✅        |
 | 598 | Malicious                  | ✅       | ✅        |
 | 599 | Dead Power                 | ✅       | ✅        |
-| 600 | Brawling Wyvern            | ✅       | ❌        |
+| 600 | Brawling Wyvern            | ✅       | ✅        |
 | 601 | Mythical Arrows            | ✅       | ❌        |
 | 602 | Lawnmower                  | ✅       | ❌        |
 | 603 | Flourish                   | ✅       | ❌        |

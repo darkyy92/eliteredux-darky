@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 376,
+    "completed": 377,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:25:43.455132Z"
+    "generated_at": "2025-07-21T00:28:59.029481Z"
   },
   "abilities": {
     "0": {
@@ -4211,8 +4211,8 @@
       "id": 600,
       "name": "Brawling Wyvern",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "601": {
       "id": 601,
@@ -9742,10 +9742,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "600": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "601": {
       "indicator": "🟠",

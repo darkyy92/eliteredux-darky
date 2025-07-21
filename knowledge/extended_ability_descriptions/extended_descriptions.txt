@@ -1766,7 +1766,7 @@ On switch-in, lowers all opposing Pokemon's highest offensive stat (Attack or Sp
 Boosts the user's Attack stat by 50% and 20% chance to inflict curse on contact moves. Curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. The Attack boost is multiplicative with other damage boosts.
 
 # ID: 600
-Guarantees perfect accuracy for all moves used by and against this Pokemon. Dragon-type moves are treated as punching moves, gaining 30% power boost and punch-item interactions. This transforms Dragon moves into powerful offensive options while maintaining tactical reliability.
+Guarantees hits for all moves used by and against the user. Dragon-type moves are treated as punching moves.
 
 # ID: 601
 Arrow moves become special and deal 30% more damage. Affects all 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage using Special Attack stat. Perfect for Aegislash Redux's high Special Attack of 140 (200 as Mega).
