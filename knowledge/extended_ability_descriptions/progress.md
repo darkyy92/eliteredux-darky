@@ -605,7 +605,7 @@ In Progress: 0
 | 594 | Haunting Frenzy            | ✅       | ✅        |
 | 595 | Noise Cancel               | ✅       | ✅        |
 | 596 | Radio Jam                  | ✅       | ✅        |
-| 597 | Ole                        | ✅       | ❌        |
+| 597 | Ole                        | ✅       | ✅        |
 | 598 | Malicious                  | ✅       | ❌        |
 | 599 | Dead Power                 | ✅       | ❌        |
 | 600 | Brawling Wyvern            | ✅       | ❌        |
