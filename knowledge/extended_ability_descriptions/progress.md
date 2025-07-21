@@ -601,7 +601,7 @@ In Progress: 0
 | 590 | Sweeping Edge Plus         | ✅       | ✅        |
 | 591 | Celestial Blessing         | ✅       | ✅        |
 | 592 | Minion Control             | ✅       | ✅        |
-| 593 | Molten Blades              | ✅       | ❌        |
+| 593 | Molten Blades              | ✅       | ✅        |
 | 594 | Haunting Frenzy            | ✅       | ❌        |
 | 595 | Noise Cancel               | ✅       | ❌        |
 | 596 | Radio Jam                  | ✅       | ❌        |

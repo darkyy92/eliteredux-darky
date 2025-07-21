@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 369,
+    "completed": 370,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:00:11.681043Z"
+    "generated_at": "2025-07-21T00:15:14.099976Z"
   },
   "abilities": {
     "0": {
@@ -4162,8 +4162,8 @@
       "id": 593,
       "name": "Molten Blades",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "594": {
       "id": 594,
@@ -9700,10 +9700,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "593": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "594": {
       "indicator": "🟠",

@@ -1745,7 +1745,7 @@ Restores 1/12 of the user's maximum HP at the end of each turn while under Misty
 Moves hit an additional time for every healthy party member (max 6 hits). Members that are knocked out or have a status effect will not be counted. The first hit deals full damage while each additional hit deals 10% damage. Each hit rolls secondary effects independently.
 
 # ID: 593
-Molten Blades superheats slicing attacks, boosting damage by 30% while adding 20% burn chance. Works with Slash, Night Slash, Leaf Blade, Sacred Sword, and all Keen Edge-boosted moves. The combination of immediate power and burn potential makes every slice a dual threat to opponents.
+Keen Edge moves are boosted by 30% and have a 20% chance to burn on hit.
 
 # ID: 594
 Haunting Frenzy grants attacks a 20% chance to flinch opponents, applying to all moves affected by King's Rock. Upon defeating an enemy, the user gains +1 Speed stage. This dual effect creates offensive momentum through flinch pressure and speed control, excelling at sweeping weakened teams.
