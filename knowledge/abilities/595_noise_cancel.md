@@ -1,8 +1,8 @@
 ---
 id: 595
 name: Noise Cancel
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 66
 ---
 
 # Noise Cancel - Ability ID 595
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Provides sound-based move immunity to the user and allies on the same side. Functions identically to Soundproof but extends protection to team members, making it invaluable in doubles battles. Blocks all moves with the FLAG_SOUND property, including Hyper Voice, Boomburst, and Bug Buzz.
+Prevents the user and its ally from being targeted by sound moves.
 
 ## Detailed Mechanical Explanation
 
