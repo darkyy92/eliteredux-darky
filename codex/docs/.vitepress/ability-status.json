@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 371,
+    "completed": 372,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:16:46.084945Z"
+    "generated_at": "2025-07-21T00:18:13.064831Z"
   },
   "abilities": {
     "0": {
@@ -4176,8 +4176,8 @@
       "id": 595,
       "name": "Noise Cancel",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "596": {
       "id": 596,
@@ -9712,10 +9712,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "595": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "596": {
       "indicator": "🟠",

@@ -603,7 +603,7 @@ In Progress: 0
 | 592 | Minion Control             | ✅       | ✅        |
 | 593 | Molten Blades              | ✅       | ✅        |
 | 594 | Haunting Frenzy            | ✅       | ✅        |
-| 595 | Noise Cancel               | ✅       | ❌        |
+| 595 | Noise Cancel               | ✅       | ✅        |
 | 596 | Radio Jam                  | ✅       | ❌        |
 | 597 | Ole                        | ✅       | ❌        |
 | 598 | Malicious                  | ✅       | ❌        |

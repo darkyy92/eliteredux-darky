@@ -1751,7 +1751,7 @@ Keen Edge moves are boosted by 30% and have a 20% chance to burn on hit.
 Attacks have a 20% chance to flinch. Upon defeating an enemy with a direct hit, the user gains +1 Speed.
 
 # ID: 595
-Provides sound-based move immunity to the user and allies on the same side. Functions identically to Soundproof but extends protection to team members, making it invaluable in doubles battles. Blocks all moves with the FLAG_SOUND property, including Hyper Voice, Boomburst, and Bug Buzz.
+Prevents the user and its ally from being targeted by sound moves.
 
 # ID: 596
 When this Pokemon hits opponents with sound-based moves, there's a 20% chance to disable their last used move. This electromagnetic interference disrupts the target's ability to repeat their previous attack, making it excellent for disrupting setup sweepers and forcing switches in competitive play.
