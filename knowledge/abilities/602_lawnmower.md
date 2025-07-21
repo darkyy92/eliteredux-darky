@@ -1,8 +1,8 @@
 ---
 id: 602
 name: Lawnmower
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 184
 ---
 
 # Lawnmower - Ability ID 602
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. No effect if no terrain is active. Terrain removal happens before stat boost. Works on extended terrain.
+On switch-in, removes any active terrain and gains a stat boost: Defense +1 when removing Grassy or Electric Terrain, Special Defense +1 when removing Misty, Psychic, or Toxic Terrain. 
 
 ## Detailed Mechanical Explanation
 
