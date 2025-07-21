@@ -1,8 +1,8 @@
 ---
 id: 599
 name: Dead Power
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 238
 ---
 
 # Dead Power - Ability ID 599
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants a 1.5x Attack boost and 20% chance to inflict curse on contact moves. Cursed enemies lose 25% max HP each turn. Only affects contact moves like Tackle, Punch, and Bite. Cannot curse already cursed targets. Great for physical attackers seeking sustained damage pressure.
+Boosts the user's Attack stat by 50% and 20% chance to inflict curse on contact moves. Curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. The Attack boost is multiplicative with other damage boosts.
 
 ## Detailed Mechanical Explanation
 
