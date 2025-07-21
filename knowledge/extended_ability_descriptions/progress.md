@@ -602,7 +602,7 @@ In Progress: 0
 | 591 | Celestial Blessing         | ✅       | ✅        |
 | 592 | Minion Control             | ✅       | ✅        |
 | 593 | Molten Blades              | ✅       | ✅        |
-| 594 | Haunting Frenzy            | ✅       | ❌        |
+| 594 | Haunting Frenzy            | ✅       | ✅        |
 | 595 | Noise Cancel               | ✅       | ❌        |
 | 596 | Radio Jam                  | ✅       | ❌        |
 | 597 | Ole                        | ✅       | ❌        |

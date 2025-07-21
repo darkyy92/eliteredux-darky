@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 370,
+    "completed": 371,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T00:15:14.099976Z"
+    "generated_at": "2025-07-21T00:16:46.084945Z"
   },
   "abilities": {
     "0": {
@@ -4169,8 +4169,8 @@
       "id": 594,
       "name": "Haunting Frenzy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "595": {
       "id": 595,
@@ -9706,10 +9706,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "594": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "595": {
       "indicator": "🟠",

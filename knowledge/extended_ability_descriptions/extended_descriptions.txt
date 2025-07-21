@@ -1748,7 +1748,7 @@ Moves hit an additional time for every healthy party member (max 6 hits). Member
 Keen Edge moves are boosted by 30% and have a 20% chance to burn on hit.
 
 # ID: 594
-Haunting Frenzy grants attacks a 20% chance to flinch opponents, applying to all moves affected by King's Rock. Upon defeating an enemy, the user gains +1 Speed stage. This dual effect creates offensive momentum through flinch pressure and speed control, excelling at sweeping weakened teams.
+Attacks have a 20% chance to flinch. Upon defeating an enemy with a direct hit, the user gains +1 Speed.
 
 # ID: 595
 Provides sound-based move immunity to the user and allies on the same side. Functions identically to Soundproof but extends protection to team members, making it invaluable in doubles battles. Blocks all moves with the FLAG_SOUND property, including Hyper Voice, Boomburst, and Bug Buzz.
