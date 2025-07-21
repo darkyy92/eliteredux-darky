@@ -1,8 +1,8 @@
 ---
 id: 600
 name: Brawling Wyvern
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 108
 ---
 
 # Brawling Wyvern - Ability ID 600
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Guarantees perfect accuracy for all moves used by and against this Pokemon. Dragon-type moves are treated as punching moves, gaining 30% power boost and punch-item interactions. This transforms Dragon moves into powerful offensive options while maintaining tactical reliability.
+Guarantees hits for all moves used by and against the user. Dragon-type moves are treated as punching moves.
 
 ## Detailed Mechanical Explanation
 
