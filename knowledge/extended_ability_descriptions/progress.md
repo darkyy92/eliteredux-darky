@@ -610,7 +610,7 @@ In Progress: 0
 | 599 | Dead Power                 | ✅       | ✅        |
 | 600 | Brawling Wyvern            | ✅       | ✅        |
 | 601 | Mythical Arrows            | ✅       | ✅        |
-| 602 | Lawnmower                  | ✅       | ❌        |
+| 602 | Lawnmower                  | ✅       | ✅        |
 | 603 | Flourish                   | ✅       | ❌        |
 | 604 | Desert Spirit              | ✅       | ❌        |
 | 605 | Contempt                   | ✅       | ❌        |

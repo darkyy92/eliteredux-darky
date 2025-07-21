@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 378,
+    "completed": 379,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T23:29:50.866502Z"
+    "generated_at": "2025-07-21T23:31:42.915894Z"
   },
   "abilities": {
     "0": {
@@ -4225,8 +4225,8 @@
       "id": 602,
       "name": "Lawnmower",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "603": {
       "id": 603,
@@ -9754,10 +9754,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "602": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "603": {
       "indicator": "🟠",
