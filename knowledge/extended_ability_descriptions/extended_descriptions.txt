@@ -1754,7 +1754,7 @@ Attacks have a 20% chance to flinch. Upon defeating an enemy with a direct hit, 
 Prevents the user and its ally from being targeted by sound moves.
 
 # ID: 596
-When this Pokemon hits opponents with sound-based moves, there's a 20% chance to disable their last used move. This electromagnetic interference disrupts the target's ability to repeat their previous attack, making it excellent for disrupting setup sweepers and forcing switches in competitive play.
+20% chance to disable the last move used by the target after landing a sound move. Lasts 4 turns.
 
 # ID: 597
 Ole makes this Pokemon naturally evasive, reducing the accuracy of all single-target moves by 20%. Named after the bullfighting dodge, it turns every incoming attack into a gamble - 100% accurate moves drop to 80%, while less reliable moves become even more frustrating.

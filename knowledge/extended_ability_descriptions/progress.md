@@ -604,7 +604,7 @@ In Progress: 0
 | 593 | Molten Blades              | ✅       | ✅        |
 | 594 | Haunting Frenzy            | ✅       | ✅        |
 | 595 | Noise Cancel               | ✅       | ✅        |
-| 596 | Radio Jam                  | ✅       | ❌        |
+| 596 | Radio Jam                  | ✅       | ✅        |
 | 597 | Ole                        | ✅       | ❌        |
 | 598 | Malicious                  | ✅       | ❌        |
 | 599 | Dead Power                 | ✅       | ❌        |
