@@ -1,8 +1,8 @@
 ---
 id: 601
 name: Mythical Arrows
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 112
 ---
 
 # Mythical Arrows - Ability ID 601
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Arrow moves become special and deal 30% more damage. Affects all 18 arrow moves with diverse types and effects (burn, poison, paralysis, leech seed). Allows physical attackers to deal special damage using Special Attack stat. Perfect for Aegislash Redux's high Special Attack of 140 (200 as Mega).
+Arrow moves moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
