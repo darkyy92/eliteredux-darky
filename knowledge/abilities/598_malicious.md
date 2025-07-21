@@ -1,8 +1,8 @@
 ---
 id: 598
 name: Malicious
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 166
 ---
 
 # Malicious - Ability ID 598
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, lowers all opposing Pokemon's highest offensive stat (Attack or Special Attack) and highest defensive stat (Defense or Special Defense) by 1 stage each. More versatile than Intimidate, intelligently adapting to each opponent's current stat distribution including boosts.
+On switch-in, lowers all opposing Pokemon's highest offensive stat (Attack or Special Attack) and highest defensive stat (Defense or Special Defense) by 1 stage each. 
 
 ## Detailed Mechanical Explanation
 
