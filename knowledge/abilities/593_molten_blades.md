@@ -1,8 +1,8 @@
 ---
 id: 593
 name: Molten Blades
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 72
 ---
 
 # Molten Blades - Ability ID 593
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Molten Blades superheats slicing attacks, boosting damage by 30% while adding 20% burn chance. Works with Slash, Night Slash, Leaf Blade, Sacred Sword, and all Keen Edge-boosted moves. The combination of immediate power and burn potential makes every slice a dual threat to opponents.
+Keen Edge moves are boosted by 30% and have a 20% chance to burn on hit.
 
 ## Detailed Mechanical Explanation
 
