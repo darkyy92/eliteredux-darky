@@ -1,8 +1,8 @@
 ---
 id: 619
 name: Low Visibility
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 275
 ---
 
 # Low Visibility - Ability ID 619
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically summons Eerie Fog weather upon entry, lasting 8 turns. This supernatural mist drains stat boosts from non-Ghost and non-Psychic Pokemon each turn while reducing damage taken by Ghost types by 20%. Also weakens Solar Beam and enables synergies with fog-boosted abilities like Ectoplasm.
+Summons Eerie Fog upon entry, lasting 8 turns (12 with Smoke Ball). Fog reduces stat buffs from non-Ghost/Psychic-types by 1 each turn, halves weather-based recovery, grants Ghost/Psychic-types +20% damage reduction from moves, and turns all Curses into the Ghost-type Curse.
 
 ## Detailed Mechanical Explanation
 
