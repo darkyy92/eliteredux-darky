@@ -1802,7 +1802,7 @@ When the user applies poison, they also apply confusion. Does not activate from 
 When the user confuses an opponent, it also infatuates them (cuts their Attack and Special Attack in half) if they are the opposite gender.
 
 # ID: 612
-Upon switch-in, creates a temporal distortion field lasting 5 turns that reduces all move priorities to -4, effectively neutralizing speed-based strategies and priority moves. This battlefield-wide effect forces predictable turn order and counters rush tactics, making battles methodical.
+Casts Quash on entry. Quash nullifies most Speed altering effects, including Tailwind, Trick Room, positive priority, Speed stat raises, etc. Negative priority works as normal. Lasts 5 turns.
 
 # ID: 613
 Apple Enlightenment combines Fur Coat and Magic Guard. Physical attacks deal half damage while indirect damage from poison, burn, weather, hazards, and recoil is blocked. Only direct moves can harm the user. Excellent bulk vs physical attacks and passive damage but vulnerable to special moves.

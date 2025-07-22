@@ -620,7 +620,7 @@ In Progress: 0
 | 609 | Parasitic Spores           | ✅       | ✅        |
 | 610 | Poison Puppeteer           | ✅       | ✅        |
 | 611 | Entrance                   | ✅       | ✅        |
-| 612 | Rejection                  | ✅       | ❌        |
+| 612 | Rejection                  | ✅       | ✅        |
 | 613 | Apple Enlightenment        | ✅       | ❌        |
 | 614 | Balloon Bomber             | ✅       | ❌        |
 | 615 | Flaming Maw                | ✅       | ❌        |

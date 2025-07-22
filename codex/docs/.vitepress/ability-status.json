@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 387,
+    "completed": 388,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T00:27:38.747880Z"
+    "generated_at": "2025-07-22T00:42:15.314994Z"
   },
   "abilities": {
     "0": {
@@ -4295,8 +4295,8 @@
       "id": 612,
       "name": "Rejection",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "613": {
       "id": 613,
@@ -9814,10 +9814,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "612": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "613": {
       "indicator": "🟠",
