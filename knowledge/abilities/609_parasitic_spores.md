@@ -1,8 +1,8 @@
 ---
 id: 609
 name: Parasitic Spores
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 185
 ---
 
 # Parasitic Spores - Ability ID 609
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, coats the user in parasitic spores. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokemon can be infected at once.
+Gain parasitic spores on entry. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spread spores to the target. Spores persist until switch-out.
 
 ## Detailed Mechanical Explanation
 
