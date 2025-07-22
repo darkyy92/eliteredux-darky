@@ -1,8 +1,8 @@
 ---
 id: 616
 name: Demolitionist
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 171
 ---
 
 # Demolitionist - Ability ID 616
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants priority on the first turn after switching in (Readied Action effect). While in readied state, completely ignores all Protect-type moves and automatically shatters Light Screen, Reflect, and Aurora Veil when hitting opponents with physical or special attacks. Powerful battlefield control.
+Increases the user's Attack stat by 2x, breaks screens, and ignores Protection effects for one turn. Multiplicative with other damage boosts. Reapplies after switching in.
 
 ## Detailed Mechanical Explanation
 
