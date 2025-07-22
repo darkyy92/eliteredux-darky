@@ -1,8 +1,8 @@
 ---
 id: 613
 name: Apple Enlightenment
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 224
 ---
 
 # Apple Enlightenment - Ability ID 613
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Apple Enlightenment combines Fur Coat and Magic Guard. Physical attacks deal half damage while indirect damage from poison, burn, weather, hazards, and recoil is blocked. Only direct moves can harm the user. Excellent bulk vs physical attacks and passive damage but vulnerable to special moves.
+Halves all incoming physical attack damage. Multiplicative with other sources of damage reduction. Also grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 ## Detailed Mechanical Explanation
 
