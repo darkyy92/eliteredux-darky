@@ -1,8 +1,8 @@
 ---
 id: 610
 name: Poison Puppeteer
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 93
 ---
 
 # Poison Puppeteer - Ability ID 610
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When any Pokemon becomes poisoned, all opponents that can be confused become confused. Triggers from any poison source including moves, abilities, or items. The confusion bypasses Substitute and Safeguard, making it highly disruptive in battles where poison spreads across the field.
+When the user applies poison, they also apply confusion. Does not activate from Toxic Spikes.
 
 ## Detailed Mechanical Explanation
 
