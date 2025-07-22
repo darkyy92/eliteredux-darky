@@ -619,7 +619,7 @@ In Progress: 0
 | 608 | Toxic Chain                | ✅       | ✅        |
 | 609 | Parasitic Spores           | ✅       | ✅        |
 | 610 | Poison Puppeteer           | ✅       | ✅        |
-| 611 | Entrance                   | ✅       | ❌        |
+| 611 | Entrance                   | ✅       | ✅        |
 | 612 | Rejection                  | ✅       | ❌        |
 | 613 | Apple Enlightenment        | ✅       | ❌        |
 | 614 | Balloon Bomber             | ✅       | ❌        |
