@@ -626,7 +626,7 @@ In Progress: 0
 | 615 | Flaming Maw                | ✅       | ✅        |
 | 616 | Demolitionist              | ✅       | ✅        |
 | 617 | Rockhard Will              | ✅       | ❌        |
-| 618 | Fragrant Daze              | ✅       | ❌        |
+| 618 | Fragrant Daze              | ✅       | ✅        |
 | 619 | Low Visibility             | ✅       | ❌        |
 | 620 | Old Mariner                | ✅       | ❌        |
 | 621 | Ectoplasm                  | ✅       | ❌        |
