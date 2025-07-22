@@ -1787,7 +1787,7 @@ Ignores all stat stage changes during damage calculations. When the user has the
 Combines ground immunity with exceptional Flying-type prowess. Immune to all Ground-type moves while boosting Flying-type move power by 50%. When HP drops to 33% or below, Flying-type moves gain an additional power boost, reaching nearly double strength for devastating aerial assaults.
 
 # ID: 607
-At full HP, all attacks deal half damage regardless of type effectiveness. This powerful defensive ability transforms the holder into a formidable wall, requiring strategic chip damage or status conditions to overcome. Unlike other defensive abilities, Tera Shell provides universal protection.
+At full HP, all attacks towards the user deal "not very effective" damage regardless of type effectiveness. Activates on each hit of a multihit attack unlike other similar abilities.
 
 # ID: 608
 Toxic Chain inflicts badly poison on contact with foes. Each attacking move has a 30% chance to apply the devastating status condition. Unlike regular poison, badly poison damage escalates each turn, starting at 1/16 HP and increasing progressively, making it lethal over extended battles.

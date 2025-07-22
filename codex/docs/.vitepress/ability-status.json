@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 382,
+    "completed": 383,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-21T23:38:01.420099Z"
+    "generated_at": "2025-07-22T00:12:39.380456Z"
   },
   "abilities": {
     "0": {
@@ -4260,8 +4260,8 @@
       "id": 607,
       "name": "Tera Shell",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "608": {
       "id": 608,
@@ -9784,10 +9784,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "607": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "608": {
       "indicator": "🟠",
