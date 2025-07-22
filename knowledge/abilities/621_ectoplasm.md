@@ -1,8 +1,8 @@
 ---
 id: 621
 name: Ectoplasm
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 62
 ---
 
 # Ectoplasm - Ability ID 621
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts the Pokemon's highest attacking stat by 1.5x during fog weather conditions. Compares Attack and Special Attack stats to determine which receives the boost. Functions similarly to Solar Power in sun or Sand Force in sandstorm, making it a weather-dependent offensive ability.
+Boosts the Pokemon's highest attacking stat by 50% during fog.
 
 ## Detailed Mechanical Explanation
 
