@@ -1,8 +1,8 @@
 ---
 id: 611
 name: Entrance
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 139
 ---
 
 # Entrance - Ability ID 611
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon confuses an opponent, it simultaneously infatuates all eligible opposing Pokemon of the opposite gender. The infatuation effect only applies to targets that aren't already infatuated or protected by immunity. This creates devastating dual status combinations in battle.
+When the user confuses an opponent, it also infatuates them (cuts their Attack and Special Attack in half) if they are the opposite gender. 
 
 ## Detailed Mechanical Explanation
 
