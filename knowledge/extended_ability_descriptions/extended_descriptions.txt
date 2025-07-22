@@ -1796,7 +1796,7 @@ Each attacking move on hit has a 30% chance to badly poison the target. Multihit
 Gain parasitic spores on entry. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spread spores to the target. Spores persist until switch-out.
 
 # ID: 610
-When any Pokemon becomes poisoned, all opponents that can be confused become confused. Triggers from any poison source including moves, abilities, or items. The confusion bypasses Substitute and Safeguard, making it highly disruptive in battles where poison spreads across the field.
+When the user applies poison, they also apply confusion. Does not activate from Toxic Spikes.
 
 # ID: 611
 When this Pokemon confuses an opponent, it simultaneously infatuates all eligible opposing Pokemon of the opposite gender. The infatuation effect only applies to targets that aren't already infatuated or protected by immunity. This creates devastating dual status combinations in battle.

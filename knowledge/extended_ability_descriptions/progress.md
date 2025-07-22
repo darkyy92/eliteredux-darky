@@ -618,7 +618,7 @@ In Progress: 0
 | 607 | Tera Shell                 | ✅       | ✅        |
 | 608 | Toxic Chain                | ✅       | ✅        |
 | 609 | Parasitic Spores           | ✅       | ✅        |
-| 610 | Poison Puppeteer           | ✅       | ❌        |
+| 610 | Poison Puppeteer           | ✅       | ✅        |
 | 611 | Entrance                   | ✅       | ❌        |
 | 612 | Rejection                  | ✅       | ❌        |
 | 613 | Apple Enlightenment        | ✅       | ❌        |

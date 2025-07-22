@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 385,
+    "completed": 386,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T00:20:50.903583Z"
+    "generated_at": "2025-07-22T00:25:59.846665Z"
   },
   "abilities": {
     "0": {
@@ -4281,8 +4281,8 @@
       "id": 610,
       "name": "Poison Puppeteer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "611": {
       "id": 611,
@@ -9802,10 +9802,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "610": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "611": {
       "indicator": "🟠",
