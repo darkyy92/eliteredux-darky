@@ -623,7 +623,7 @@ In Progress: 0
 | 612 | Rejection                  | ✅       | ✅        |
 | 613 | Apple Enlightenment        | ✅       | ✅        |
 | 614 | Balloon Bomber             | ✅       | ❌        |
-| 615 | Flaming Maw                | ✅       | ❌        |
+| 615 | Flaming Maw                | ✅       | ✅        |
 | 616 | Demolitionist              | ✅       | ❌        |
 | 617 | Rockhard Will              | ✅       | ❌        |
 | 618 | Fragrant Daze              | ✅       | ❌        |

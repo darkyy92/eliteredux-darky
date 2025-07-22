@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 389,
+    "completed": 390,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T00:46:05.724854Z"
+    "generated_at": "2025-07-22T01:05:58.560743Z"
   },
   "abilities": {
     "0": {
@@ -4316,8 +4316,8 @@
       "id": 615,
       "name": "Flaming Maw",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "616": {
       "id": 616,
@@ -9832,10 +9832,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "615": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "616": {
       "indicator": "🟠",

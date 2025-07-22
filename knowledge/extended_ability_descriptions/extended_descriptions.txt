@@ -1811,7 +1811,7 @@ Halves all incoming physical attack damage. Multiplicative with other sources of
 When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokemon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.
 
 # ID: 615
-Flaming Maw combines Strong Jaw and Flaming Jaws abilities. Boosts bite and fang moves by 30% damage, including Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, Bolt Beak, and Fishious Rend. Additionally provides 50% burn chance when using these powerful jaw moves.
+Biting moves moves are boosted by 30% and have a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.
 
 # ID: 616
 Grants priority on the first turn after switching in (Readied Action effect). While in readied state, completely ignores all Protect-type moves and automatically shatters Light Screen, Reflect, and Aurora Veil when hitting opponents with physical or special attacks. Powerful battlefield control.
