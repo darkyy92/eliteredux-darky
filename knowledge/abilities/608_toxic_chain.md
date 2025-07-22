@@ -1,8 +1,8 @@
 ---
 id: 608
 name: Toxic Chain
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 121
 ---
 
 # Toxic Chain - Ability ID 608
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Toxic Chain inflicts badly poison on contact with foes. Each attacking move has a 30% chance to apply the devastating status condition. Unlike regular poison, badly poison damage escalates each turn, starting at 1/16 HP and increasing progressively, making it lethal over extended battles.
+Each attacking move on hit has a 30% chance to badly poison the target. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 
