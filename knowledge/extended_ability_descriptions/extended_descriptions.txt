@@ -1793,7 +1793,7 @@ At full HP, all attacks towards the user deal "not very effective" damage regard
 Each attacking move on hit has a 30% chance to badly poison the target. Multihits roll the activation chance on each hit.
 
 # ID: 609
-On switch-in, coats the user in parasitic spores. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokemon can be infected at once.
+Gain parasitic spores on entry. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spread spores to the target. Spores persist until switch-out.
 
 # ID: 610
 When any Pokemon becomes poisoned, all opponents that can be confused become confused. Triggers from any poison source including moves, abilities, or items. The confusion bypasses Substitute and Safeguard, making it highly disruptive in battles where poison spreads across the field.

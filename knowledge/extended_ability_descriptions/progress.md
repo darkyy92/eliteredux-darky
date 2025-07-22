@@ -617,7 +617,7 @@ In Progress: 0
 | 606 | Aerialist                  | ✅       | ❌        |
 | 607 | Tera Shell                 | ✅       | ✅        |
 | 608 | Toxic Chain                | ✅       | ✅        |
-| 609 | Parasitic Spores           | ✅       | ❌        |
+| 609 | Parasitic Spores           | ✅       | ✅        |
 | 610 | Poison Puppeteer           | ✅       | ❌        |
 | 611 | Entrance                   | ✅       | ❌        |
 | 612 | Rejection                  | ✅       | ❌        |

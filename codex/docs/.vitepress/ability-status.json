@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 384,
+    "completed": 385,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T00:16:29.785135Z"
+    "generated_at": "2025-07-22T00:20:50.903583Z"
   },
   "abilities": {
     "0": {
@@ -4274,8 +4274,8 @@
       "id": 609,
       "name": "Parasitic Spores",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "610": {
       "id": 610,
@@ -9796,10 +9796,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "609": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "610": {
       "indicator": "🟠",
