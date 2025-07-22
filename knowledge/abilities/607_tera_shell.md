@@ -1,8 +1,8 @@
 ---
 id: 607
 name: Tera Shell
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 182
 ---
 
 # Tera Shell - Ability ID 607
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-At full HP, all attacks deal half damage regardless of type effectiveness. This powerful defensive ability transforms the holder into a formidable wall, requiring strategic chip damage or status conditions to overcome. Unlike other defensive abilities, Tera Shell provides universal protection.
+At full HP, all attacks towards the user deal "not very effective" damage regardless of type effectiveness. Activates on each hit of a multihit attack unlike other similar abilities.
 
 ## Detailed Mechanical Explanation
 
