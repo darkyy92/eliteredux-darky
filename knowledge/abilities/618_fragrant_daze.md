@@ -1,8 +1,8 @@
 ---
 id: 618
 name: Fragrant Daze
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 89
 ---
 
 # Fragrant Daze - Ability ID 618
@@ -13,7 +13,7 @@ character_count: 271
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, has a 30% chance to inflict confusion on the attacker. The ability activates during physical attacks that make direct contact with the user. Only affects opponents that can be confused, making it ineffective against certain types or abilities.
+30% chance to inflict confusion on contact moves, both when attacking and being attacked.
 
 ## Detailed Mechanical Explanation
 
