@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 383,
+    "completed": 384,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T00:12:39.380456Z"
+    "generated_at": "2025-07-22T00:16:29.785135Z"
   },
   "abilities": {
     "0": {
@@ -4267,8 +4267,8 @@
       "id": 608,
       "name": "Toxic Chain",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "609": {
       "id": 609,
@@ -9790,10 +9790,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "608": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "609": {
       "indicator": "🟠",

@@ -1790,7 +1790,7 @@ Combines ground immunity with exceptional Flying-type prowess. Immune to all Gro
 At full HP, all attacks towards the user deal "not very effective" damage regardless of type effectiveness. Activates on each hit of a multihit attack unlike other similar abilities.
 
 # ID: 608
-Toxic Chain inflicts badly poison on contact with foes. Each attacking move has a 30% chance to apply the devastating status condition. Unlike regular poison, badly poison damage escalates each turn, starting at 1/16 HP and increasing progressively, making it lethal over extended battles.
+Each attacking move on hit has a 30% chance to badly poison the target. Multihits roll the activation chance on each hit.
 
 # ID: 609
 On switch-in, coats the user in parasitic spores. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spreads spores to the target. Magic Guard prevents damage but not spreading. Spores persist until switch-out. Multiple Pokemon can be infected at once.
