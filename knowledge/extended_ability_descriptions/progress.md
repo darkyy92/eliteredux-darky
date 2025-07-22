@@ -629,7 +629,7 @@ In Progress: 0
 | 618 | Fragrant Daze              | ✅       | ✅        |
 | 619 | Low Visibility             | ✅       | ✅        |
 | 620 | Old Mariner                | ✅       | ❌        |
-| 621 | Ectoplasm                  | ✅       | ❌        |
+| 621 | Ectoplasm                  | ✅       | ✅        |
 | 622 | Beautiful Music            | ✅       | ❌        |
 | 623 | Surprise                   | ✅       | ❌        |
 | 624 | Snow Song                  | ✅       | ❌        |

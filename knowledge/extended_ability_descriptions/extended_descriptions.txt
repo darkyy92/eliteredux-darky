@@ -1829,7 +1829,7 @@ Summons Eerie Fog upon entry, lasting 8 turns (12 with Smoke Ball). Fog reduces 
 Combines Seaweed and Amphibious effects. Grants Water-type STAB to all moves and immunity to drench status. Grass moves deal 2x damage to Fire types while Fire moves deal 0.5x damage to Grass types. An effective maritime battler with botanical advantages against specific matchups.
 
 # ID: 621
-Boosts the Pokemon's highest attacking stat by 1.5x during fog weather conditions. Compares Attack and Special Attack stats to determine which receives the boost. Functions similarly to Solar Power in sun or Sand Force in sandstorm, making it a weather-dependent offensive ability.
+Boosts the Pokemon's highest attacking stat by 50% during fog.
 
 # ID: 622
 Sound moves gain 50% chance to infatuate targets, ignoring ALL gender restrictions. Works on any Pokemon including genderless. Only ability besides Pure Love that bypasses gender limits for attraction. Turns damaging sound attacks into potential disablers.
