@@ -1,8 +1,8 @@
 ---
 id: 612
 name: Rejection
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 191
 ---
 
 # Rejection - Ability ID 612
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon switch-in, creates a temporal distortion field lasting 5 turns that reduces all move priorities to -4, effectively neutralizing speed-based strategies and priority moves. This battlefield-wide effect forces predictable turn order and counters rush tactics, making battles methodical.
+Casts Quash on entry. Quash nullifies most Speed altering effects, including Tailwind, Trick Room, positive priority, Speed stat raises, etc. Negative priority works as normal. Lasts 5 turns.
 
 ## Detailed Mechanical Explanation
 
