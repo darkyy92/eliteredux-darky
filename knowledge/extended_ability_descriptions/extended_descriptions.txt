@@ -1805,7 +1805,7 @@ When the user confuses an opponent, it also infatuates them (cuts their Attack a
 Casts Quash on entry. Quash nullifies most Speed altering effects, including Tailwind, Trick Room, positive priority, Speed stat raises, etc. Negative priority works as normal. Lasts 5 turns.
 
 # ID: 613
-Apple Enlightenment combines Fur Coat and Magic Guard. Physical attacks deal half damage while indirect damage from poison, burn, weather, hazards, and recoil is blocked. Only direct moves can harm the user. Excellent bulk vs physical attacks and passive damage but vulnerable to special moves.
+Halves all incoming physical attack damage. Multiplicative with other sources of damage reduction. Also grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 # ID: 614
 When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokemon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.

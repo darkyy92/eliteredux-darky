@@ -621,7 +621,7 @@ In Progress: 0
 | 610 | Poison Puppeteer           | ✅       | ✅        |
 | 611 | Entrance                   | ✅       | ✅        |
 | 612 | Rejection                  | ✅       | ✅        |
-| 613 | Apple Enlightenment        | ✅       | ❌        |
+| 613 | Apple Enlightenment        | ✅       | ✅        |
 | 614 | Balloon Bomber             | ✅       | ❌        |
 | 615 | Flaming Maw                | ✅       | ❌        |
 | 616 | Demolitionist              | ✅       | ❌        |

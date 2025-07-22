@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 388,
+    "completed": 389,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T00:42:15.314994Z"
+    "generated_at": "2025-07-22T00:44:18.528952Z"
   },
   "abilities": {
     "0": {
@@ -4302,8 +4302,8 @@
       "id": 613,
       "name": "Apple Enlightenment",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "614": {
       "id": 614,
@@ -9820,10 +9820,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "613": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "614": {
       "indicator": "🟠",
