@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 392,
+    "completed": 393,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T01:12:11.961348Z"
+    "generated_at": "2025-07-22T01:20:29.488778Z"
   },
   "abilities": {
     "0": {
@@ -4344,8 +4344,8 @@
       "id": 619,
       "name": "Low Visibility",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "620": {
       "id": 620,
@@ -9856,10 +9856,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "619": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "620": {
       "indicator": "🟠",

@@ -1823,7 +1823,7 @@ Rockhard Will demonstrates unwavering determination through type-focused damage 
 30% chance to inflict confusion on contact moves, both when attacking and being attacked.
 
 # ID: 619
-Automatically summons Eerie Fog weather upon entry, lasting 8 turns. This supernatural mist drains stat boosts from non-Ghost and non-Psychic Pokemon each turn while reducing damage taken by Ghost types by 20%. Also weakens Solar Beam and enables synergies with fog-boosted abilities like Ectoplasm.
+Summons Eerie Fog upon entry, lasting 8 turns (12 with Smoke Ball). Fog reduces stat buffs from non-Ghost/Psychic-types by 1 each turn, halves weather-based recovery, grants Ghost/Psychic-types +20% damage reduction from moves, and turns all Curses into the Ghost-type Curse.
 
 # ID: 620
 Combines Seaweed and Amphibious effects. Grants Water-type STAB to all moves and immunity to drench status. Grass moves deal 2x damage to Fire types while Fire moves deal 0.5x damage to Grass types. An effective maritime battler with botanical advantages against specific matchups.

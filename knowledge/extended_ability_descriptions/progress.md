@@ -627,7 +627,7 @@ In Progress: 0
 | 616 | Demolitionist              | ✅       | ✅        |
 | 617 | Rockhard Will              | ✅       | ❌        |
 | 618 | Fragrant Daze              | ✅       | ✅        |
-| 619 | Low Visibility             | ✅       | ❌        |
+| 619 | Low Visibility             | ✅       | ✅        |
 | 620 | Old Mariner                | ✅       | ❌        |
 | 621 | Ectoplasm                  | ✅       | ❌        |
 | 622 | Beautiful Music            | ✅       | ❌        |
