@@ -624,7 +624,7 @@ In Progress: 0
 | 613 | Apple Enlightenment        | ✅       | ✅        |
 | 614 | Balloon Bomber             | ✅       | ❌        |
 | 615 | Flaming Maw                | ✅       | ✅        |
-| 616 | Demolitionist              | ✅       | ❌        |
+| 616 | Demolitionist              | ✅       | ✅        |
 | 617 | Rockhard Will              | ✅       | ❌        |
 | 618 | Fragrant Daze              | ✅       | ❌        |
 | 619 | Low Visibility             | ✅       | ❌        |

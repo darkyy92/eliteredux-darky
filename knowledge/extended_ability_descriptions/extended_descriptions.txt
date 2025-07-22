@@ -1814,7 +1814,7 @@ When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense 
 Biting moves moves are boosted by 30% and have a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.
 
 # ID: 616
-Grants priority on the first turn after switching in (Readied Action effect). While in readied state, completely ignores all Protect-type moves and automatically shatters Light Screen, Reflect, and Aurora Veil when hitting opponents with physical or special attacks. Powerful battlefield control.
+Increases the user's Attack stat by 2x, breaks screens, and ignores Protection effects for one turn. Multiplicative with other damage boosts. Reapplies after switching in.
 
 # ID: 617
 Rockhard Will demonstrates unwavering determination through type-focused damage scaling. The ability grants Rock-type moves a 1.2x damage boost normally, increasing to 1.5x when HP falls to 1/3 or below. This creates strategic depth, rewarding both aggressive early pressure and clutch endgame play.
