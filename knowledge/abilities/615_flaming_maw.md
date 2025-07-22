@@ -1,8 +1,8 @@
 ---
 id: 615
 name: Flaming Maw
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 136
 ---
 
 # Flaming Maw - Ability ID 615
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flaming Maw combines Strong Jaw and Flaming Jaws abilities. Boosts bite and fang moves by 30% damage, including Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, Bolt Beak, and Fishious Rend. Additionally provides 50% burn chance when using these powerful jaw moves.
+Biting moves moves are boosted by 30% and have a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 
