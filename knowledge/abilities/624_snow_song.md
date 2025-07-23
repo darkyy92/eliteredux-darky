@@ -1,8 +1,8 @@
 ---
 id: 624
 name: Snow Song
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 98
 ---
 
 # Snow Song - Ability ID 624
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Harmonizes battle prowess with icy melodies. Sound-based moves receive a powerful 1.2x damage boost, while Normal-type sound moves are converted to Ice-type, allowing for strategic type coverage. Perfect for Pokemon that rely on vocal attacks to freeze out the competition with enhanced precision.
+Boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ice-type.
 
 ## Detailed Mechanical Explanation
 
