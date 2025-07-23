@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 406,
+    "completed": 407,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-23T01:44:06.432662Z"
+    "generated_at": "2025-07-23T01:56:33.169218Z"
   },
   "abilities": {
     "0": {
@@ -4456,8 +4456,8 @@
       "id": 635,
       "name": "Pyroclastic Flow",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "636": {
       "id": 636,
@@ -9952,10 +9952,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "635": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "636": {
       "indicator": "🟠",

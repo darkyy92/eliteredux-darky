@@ -643,7 +643,7 @@ In Progress: 0
 | 632 | Terrify                    | ✅       | ✅        |
 | 633 | Ice Downfall               | ✅       | ✅        |
 | 634 | Last Stand                 | ✅       | ❌        |
-| 635 | Pyroclastic Flow           | ✅       | ❌        |
+| 635 | Pyroclastic Flow           | ✅       | ✅        |
 | 636 | Blood Bath                 | ✅       | ❌        |
 | 637 | Battle Aura                | ✅       | ❌        |
 | 638 | Bloodlust                  | ✅       | ❌        |

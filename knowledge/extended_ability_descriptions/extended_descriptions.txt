@@ -1871,7 +1871,7 @@ When hit by a contact move, the user retaliates with Icicle Crash at 60 base pow
 Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 x missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
 
 # ID: 635
-Combines volcanic devastation effects. Fire-type moves deal super effective damage to Rock-types, melting their defenses. Poison-type moves deal super effective damage to Steel-types, corroding their metallic bodies. Can poison Steel and Poison-type Pokemon normally immune to poison.
+Makes Fire-type moves super effective against Rock-types instead of resisted. Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type.
 
 # ID: 636
 Blood Bath provides complete immunity to the bleeding status condition while turning the bearer into a fearsome predator. When this Pokemon successfully inflicts bleeding on an opponent that isn't already feared, it automatically triggers terror in that target, causing the Fear status.
