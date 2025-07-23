@@ -1844,7 +1844,7 @@ Boosts the power of all sound-based moves by 20% and converts Normal-type sound 
 When entering battle during fog, boosts the user's highest stat by one stage.
 
 # ID: 626
-Sound moves have a 50% chance to inflict bleeding on the target. Bleeding deals 1/16 max HP damage each turn. Cannot affect targets with existing status conditions, Rock-types, or Ghost-types. Sound moves include attacks with the sound flag or Normal moves from users with Reverbate ability.
+Sound moves have a 50% chance to inflict bleeding on the target when landing a hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 # ID: 627
 Ethereal Rush grants a potent 1.5x Speed boost in fog weather, enabling swift tactical dominance. This weather-dependent ability transforms slower Pokemon into speed demons, perfect for offensive strategies requiring priority control or sweeping potential in misty battlefield conditions.

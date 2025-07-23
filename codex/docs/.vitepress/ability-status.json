@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 398,
+    "completed": 399,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-23T01:17:42.806394Z"
+    "generated_at": "2025-07-23T01:18:48.737815Z"
   },
   "abilities": {
     "0": {
@@ -4393,8 +4393,8 @@
       "id": 626,
       "name": "Resonance",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "627": {
       "id": 627,
@@ -9898,10 +9898,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "626": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "627": {
       "indicator": "🟠",
