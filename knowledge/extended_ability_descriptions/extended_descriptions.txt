@@ -1862,7 +1862,7 @@ Has a 30% chance to inflict Fear on contact moves, both when attacking and being
 Boosts the user's accuracy by 1.2x, and Thunder never misses.
 
 # ID: 632
-Terrify intimidates opposing Pokemon upon switching in, drastically reducing their special attacking capabilities. When the Pokemon with this ability enters battle, all enemies suffer a severe two-stage drop to their Special Attack stat, making their special moves significantly weaker.
+Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by two stages.
 
 # ID: 633
 When hit by a contact move, the Pokemon retaliates with Icicle Crash at 60 base power. This defensive ability punishes physical attackers with an automatic Ice-type counter-attack that can flinch the opponent. The retaliation doesn't consume PP, making it an effective deterrent.
