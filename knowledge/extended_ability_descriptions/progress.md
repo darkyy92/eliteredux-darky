@@ -632,7 +632,7 @@ In Progress: 0
 | 621 | Ectoplasm                  | ✅       | ✅        |
 | 622 | Beautiful Music            | ✅       | ✅        |
 | 623 | Surprise                   | ✅       | ✅        |
-| 624 | Snow Song                  | ✅       | ❌        |
+| 624 | Snow Song                  | ✅       | ✅        |
 | 625 | Greater Spirit             | ✅       | ❌        |
 | 626 | Resonance                  | ✅       | ❌        |
 | 627 | Ethereal Rush              | ✅       | ❌        |

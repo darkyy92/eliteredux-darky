@@ -1838,7 +1838,7 @@ Sound moves gain 50% chance to infatuate targets on hit (cuts their Attack and S
 In fog, counters priority moves with Astonish, a 40 BP Ghost-type attack with +3 priority and always flinches. This ability will activate before the opponent's priority move comes out.
 
 # ID: 624
-Harmonizes battle prowess with icy melodies. Sound-based moves receive a powerful 1.2x damage boost, while Normal-type sound moves are converted to Ice-type, allowing for strategic type coverage. Perfect for Pokemon that rely on vocal attacks to freeze out the competition with enhanced precision.
+Boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Ice-type.
 
 # ID: 625
 Upon entry in fog weather, Greater Spirit automatically identifies the holder's highest base stat and raises it by one stage. This weather-conditional ability strategically enhances the Pokemon's strongest attribute, making it valuable for specialized battle roles and fog teams.
