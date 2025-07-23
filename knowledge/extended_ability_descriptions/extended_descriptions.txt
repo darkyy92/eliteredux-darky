@@ -1835,7 +1835,7 @@ Boosts the Pokemon's highest attacking stat by 50% during fog.
 Sound moves gain 50% chance to infatuate targets on hit (cuts their Attack and Special Attack in half). Can infatuate any Pokemon unlike regular infatuation.
 
 # ID: 623
-In fog weather conditions, this ability detects opponents using moves that target multiple battlers or allies. Upon detection, the user immediately counters with Astonish, a 40-power Ghost-type attack that has a high flinch chance, potentially disrupting the opponent's strategies.
+In fog, counters priority moves with Astonish, a 40 BP Ghost-type attack with +3 priority and always flinches. This ability will activate before the opponent's priority move comes out.
 
 # ID: 624
 Harmonizes battle prowess with icy melodies. Sound-based moves receive a powerful 1.2x damage boost, while Normal-type sound moves are converted to Ice-type, allowing for strategic type coverage. Perfect for Pokemon that rely on vocal attacks to freeze out the competition with enhanced precision.
