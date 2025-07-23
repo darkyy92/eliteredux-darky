@@ -2,7 +2,7 @@
 id: 537
 name: Spike Armor
 status: reviewed
-character_count: 255
+character_count: 254
 ---
 
 # Spike Armor - Ability ID 537
@@ -13,7 +13,7 @@ character_count: 255
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stage stages. Rock and Ghost types are immune to bleeding.
+Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
