@@ -1,8 +1,8 @@
 ---
 id: 629
 name: Recurring Nightmare
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 187
 ---
 
 # Recurring Nightmare - Ability ID 629
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Persistent revival ability that functions exclusively in fog weather conditions. When the user faints while fog is active, this ability automatically revives them once per battle at exactly 25% of maximum HP. The revival triggers immediately after fainting with strategic comeback potential.
+After fainting while fog is active, the user revives at 25% max Hp when sending out your next party member. This still activates when the user faints on the last turn of fog being active.
 
 ## Detailed Mechanical Explanation
 
