@@ -1,8 +1,8 @@
 ---
 id: 635
 name: Pyroclastic Flow
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 212
 ---
 
 # Pyroclastic Flow - Ability ID 635
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines volcanic devastation effects. Fire-type moves deal super effective damage to Rock-types, melting their defenses. Poison-type moves deal super effective damage to Steel-types, corroding their metallic bodies. Can poison Steel and Poison-type Pokemon normally immune to poison.
+Makes Fire-type moves super effective against Rock-types instead of resisted. Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type.
 
 ## Detailed Mechanical Explanation
 
