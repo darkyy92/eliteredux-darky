@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 394,
+    "completed": 395,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-22T01:22:56.379637Z"
+    "generated_at": "2025-07-23T00:57:22.602587Z"
   },
   "abilities": {
     "0": {
@@ -4365,8 +4365,8 @@
       "id": 622,
       "name": "Beautiful Music",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "623": {
       "id": 623,
@@ -9874,10 +9874,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "622": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "623": {
       "indicator": "🟠",

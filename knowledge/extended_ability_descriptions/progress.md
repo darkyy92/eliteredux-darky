@@ -630,7 +630,7 @@ In Progress: 0
 | 619 | Low Visibility             | ✅       | ✅        |
 | 620 | Old Mariner                | ✅       | ❌        |
 | 621 | Ectoplasm                  | ✅       | ✅        |
-| 622 | Beautiful Music            | ✅       | ❌        |
+| 622 | Beautiful Music            | ✅       | ✅        |
 | 623 | Surprise                   | ✅       | ❌        |
 | 624 | Snow Song                  | ✅       | ❌        |
 | 625 | Greater Spirit             | ✅       | ❌        |
