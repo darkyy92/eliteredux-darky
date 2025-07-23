@@ -1,8 +1,8 @@
 ---
 id: 628
 name: Cute Antecedence
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 55
 ---
 
 # Cute Antecedence - Ability ID 628
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them to outspeed most attacks. The effect is lost if HP drops below 100%, making HP management crucial. Particularly effective for revenge killing or preventing enemy setup with priority Moonblast or Play Rough.
+Grants +1 priority to Fairy-type moves when at full HP.
 
 ## Detailed Mechanical Explanation
 
