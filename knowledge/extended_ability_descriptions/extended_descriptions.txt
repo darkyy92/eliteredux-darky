@@ -1847,7 +1847,7 @@ When entering battle during fog, boosts the user's highest stat by one stage.
 Sound moves have a 50% chance to inflict bleeding on the target when landing a hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 # ID: 627
-Ethereal Rush grants a potent 1.5x Speed boost in fog weather, enabling swift tactical dominance. This weather-dependent ability transforms slower Pokemon into speed demons, perfect for offensive strategies requiring priority control or sweeping potential in misty battlefield conditions.
+Boosts the Pokemon's Speed stat by 50% during fog.
 
 # ID: 628
 At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them to outspeed most attacks. The effect is lost if HP drops below 100%, making HP management crucial. Particularly effective for revenge killing or preventing enemy setup with priority Moonblast or Play Rough.

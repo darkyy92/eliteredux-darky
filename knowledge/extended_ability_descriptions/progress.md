@@ -635,7 +635,7 @@ In Progress: 0
 | 624 | Snow Song                  | ✅       | ✅        |
 | 625 | Greater Spirit             | ✅       | ✅        |
 | 626 | Resonance                  | ✅       | ✅        |
-| 627 | Ethereal Rush              | ✅       | ❌        |
+| 627 | Ethereal Rush              | ✅       | ✅        |
 | 628 | Cute Antecedence           | ✅       | ❌        |
 | 629 | Recurring Nightmare        | ✅       | ❌        |
 | 630 | Menacing Situation         | ✅       | ❌        |
