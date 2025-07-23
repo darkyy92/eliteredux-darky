@@ -1,8 +1,8 @@
 ---
 id: 623
 name: Surprise
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 184
 ---
 
 # Surprise - Ability ID 623
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-In fog weather conditions, this ability detects opponents using moves that target multiple battlers or allies. Upon detection, the user immediately counters with Astonish, a 40-power Ghost-type attack that has a high flinch chance, potentially disrupting the opponent's strategies.
+In fog, counters priority moves with Astonish, a 40 BP Ghost-type attack with +3 priority and always flinches. This ability will activate before the opponent's priority move comes out.
 
 ## Detailed Mechanical Explanation
 
