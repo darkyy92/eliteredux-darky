@@ -1,8 +1,8 @@
 ---
 id: 631
 name: Shiny Lightning
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 61
 ---
 
 # Shiny Lightning - Ability ID 631
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This ability harnesses the power of brilliant electrical energy, enhancing the Pokemon's precision in all combat scenarios. Every attack becomes 20% more accurate through electrified focus, while Thunder attacks achieve perfect targeting with guaranteed hits through divine lightning.
+Boosts the user's accuracy by 1.2x, and Thunder never misses.
 
 ## Detailed Mechanical Explanation
 
