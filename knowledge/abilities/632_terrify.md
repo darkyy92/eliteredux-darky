@@ -1,8 +1,8 @@
 ---
 id: 632
 name: Terrify
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 99
 ---
 
 # Terrify - Ability ID 632
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Terrify intimidates opposing Pokemon upon switching in, drastically reducing their special attacking capabilities. When the Pokemon with this ability enters battle, all enemies suffer a severe two-stage drop to their Special Attack stat, making their special moves significantly weaker.
+Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by two stages.
 
 ## Detailed Mechanical Explanation
 
