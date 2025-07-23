@@ -633,7 +633,7 @@ In Progress: 0
 | 622 | Beautiful Music            | ✅       | ✅        |
 | 623 | Surprise                   | ✅       | ✅        |
 | 624 | Snow Song                  | ✅       | ✅        |
-| 625 | Greater Spirit             | ✅       | ❌        |
+| 625 | Greater Spirit             | ✅       | ✅        |
 | 626 | Resonance                  | ✅       | ❌        |
 | 627 | Ethereal Rush              | ✅       | ❌        |
 | 628 | Cute Antecedence           | ✅       | ❌        |

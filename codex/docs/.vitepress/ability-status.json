@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 397,
+    "completed": 398,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-23T01:16:28.321050Z"
+    "generated_at": "2025-07-23T01:17:42.806394Z"
   },
   "abilities": {
     "0": {
@@ -4386,8 +4386,8 @@
       "id": 625,
       "name": "Greater Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "626": {
       "id": 626,
@@ -9892,10 +9892,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "625": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "626": {
       "indicator": "🟠",
