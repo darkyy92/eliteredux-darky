@@ -641,7 +641,7 @@ In Progress: 0
 | 630 | Menacing Situation         | ✅       | ✅        |
 | 631 | Shiny Lightning            | ✅       | ✅        |
 | 632 | Terrify                    | ✅       | ✅        |
-| 633 | Ice Downfall               | ✅       | ❌        |
+| 633 | Ice Downfall               | ✅       | ✅        |
 | 634 | Last Stand                 | ✅       | ❌        |
 | 635 | Pyroclastic Flow           | ✅       | ❌        |
 | 636 | Blood Bath                 | ✅       | ❌        |

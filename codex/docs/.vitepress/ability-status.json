@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 405,
+    "completed": 406,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-23T01:41:53.155701Z"
+    "generated_at": "2025-07-23T01:44:06.432662Z"
   },
   "abilities": {
     "0": {
@@ -4442,8 +4442,8 @@
       "id": 633,
       "name": "Ice Downfall",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "634": {
       "id": 634,
@@ -9940,10 +9940,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "633": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "634": {
       "indicator": "🟠",
