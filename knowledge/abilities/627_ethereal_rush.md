@@ -1,8 +1,8 @@
 ---
 id: 627
 name: Ethereal Rush
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 50
 ---
 
 # Ethereal Rush - Ability ID 627
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ethereal Rush grants a potent 1.5x Speed boost in fog weather, enabling swift tactical dominance. This weather-dependent ability transforms slower Pokemon into speed demons, perfect for offensive strategies requiring priority control or sweeping potential in misty battlefield conditions.
+Boosts the Pokemon's Speed stat by 50% during fog. 
 
 ## Detailed Mechanical Explanation
 
