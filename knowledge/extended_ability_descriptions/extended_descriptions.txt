@@ -1850,7 +1850,7 @@ Sound moves have a 50% chance to inflict bleeding on the target when landing a h
 Boosts the Pokemon's Speed stat by 50% during fog.
 
 # ID: 628
-At maximum HP, this Pokemon's Fairy-type moves gain +1 priority, allowing them to outspeed most attacks. The effect is lost if HP drops below 100%, making HP management crucial. Particularly effective for revenge killing or preventing enemy setup with priority Moonblast or Play Rough.
+Grants +1 priority to Fairy-type moves when at full HP.
 
 # ID: 629
 Persistent revival ability that functions exclusively in fog weather conditions. When the user faints while fog is active, this ability automatically revives them once per battle at exactly 25% of maximum HP. The revival triggers immediately after fainting with strategic comeback potential.
