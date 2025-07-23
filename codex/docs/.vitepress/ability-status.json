@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 401,
+    "completed": 402,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-23T01:24:46.098252Z"
+    "generated_at": "2025-07-23T01:33:41.397541Z"
   },
   "abilities": {
     "0": {
@@ -4414,8 +4414,8 @@
       "id": 629,
       "name": "Recurring Nightmare",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "630": {
       "id": 630,
@@ -9916,10 +9916,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "629": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "630": {
       "indicator": "🟠",

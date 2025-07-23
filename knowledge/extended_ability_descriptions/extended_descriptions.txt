@@ -1853,7 +1853,7 @@ Boosts the Pokemon's Speed stat by 50% during fog.
 Grants +1 priority to Fairy-type moves when at full HP.
 
 # ID: 629
-Persistent revival ability that functions exclusively in fog weather conditions. When the user faints while fog is active, this ability automatically revives them once per battle at exactly 25% of maximum HP. The revival triggers immediately after fainting with strategic comeback potential.
+After fainting while fog is active, the user revives at 25% max Hp when sending out your next party member. This still activates when the user faints on the last turn of fog being active.
 
 # ID: 630
 This intimidating ability causes fear in opponents through both offensive and defensive contact situations. When the Pokemon makes or receives contact moves, there's a 30% chance to inflict the Fear status condition on the opposing Pokemon, effectively preventing them from switching out.

@@ -637,7 +637,7 @@ In Progress: 0
 | 626 | Resonance                  | ✅       | ✅        |
 | 627 | Ethereal Rush              | ✅       | ✅        |
 | 628 | Cute Antecedence           | ✅       | ✅        |
-| 629 | Recurring Nightmare        | ✅       | ❌        |
+| 629 | Recurring Nightmare        | ✅       | ✅        |
 | 630 | Menacing Situation         | ✅       | ❌        |
 | 631 | Shiny Lightning            | ✅       | ❌        |
 | 632 | Terrify                    | ✅       | ❌        |
