@@ -1,8 +1,8 @@
 ---
 id: 630
 name: Menacing Situation
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 217
 ---
 
 # Menacing Situation - Ability ID 630
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This intimidating ability causes fear in opponents through both offensive and defensive contact situations. When the Pokemon makes or receives contact moves, there's a 30% chance to inflict the Fear status condition on the opposing Pokemon, effectively preventing them from switching out.
+Has a 30% chance to inflict Fear on contact moves, both when attacking and being attacked. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 ## Detailed Mechanical Explanation
 
