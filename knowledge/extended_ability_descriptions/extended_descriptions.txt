@@ -1586,7 +1586,7 @@ Mind's Eye allows Normal and Fighting-type moves to hit Ghost-type Pokemon with 
 Blood Price boosts all attacking moves by 30%, but the user loses 10% of their max hp when landing an attack.
 
 # ID: 537
-Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stage stages. Rock and Ghost types are immune to bleeding.
+Spike Armor has a 30% chance to inflict bleeding on contact moves, both when attacking and being attacked. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 # ID: 539
 Chrome Coat reduces special damage by 40% but decreases Speed by 10%. Also triples the user's weight. The damage reduction is multiplicative with other sources.
