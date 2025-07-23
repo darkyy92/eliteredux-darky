@@ -639,7 +639,7 @@ In Progress: 0
 | 628 | Cute Antecedence           | ✅       | ✅        |
 | 629 | Recurring Nightmare        | ✅       | ✅        |
 | 630 | Menacing Situation         | ✅       | ✅        |
-| 631 | Shiny Lightning            | ✅       | ❌        |
+| 631 | Shiny Lightning            | ✅       | ✅        |
 | 632 | Terrify                    | ✅       | ❌        |
 | 633 | Ice Downfall               | ✅       | ❌        |
 | 634 | Last Stand                 | ✅       | ❌        |

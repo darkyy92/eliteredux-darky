@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 403,
+    "completed": 404,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-23T01:38:38.762502Z"
+    "generated_at": "2025-07-23T01:40:57.683517Z"
   },
   "abilities": {
     "0": {
@@ -4428,8 +4428,8 @@
       "id": 631,
       "name": "Shiny Lightning",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "632": {
       "id": 632,
@@ -9928,10 +9928,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "631": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "632": {
       "indicator": "🟠",

@@ -1859,7 +1859,7 @@ After fainting while fog is active, the user revives at 25% max Hp when sending 
 Has a 30% chance to inflict Fear on contact moves, both when attacking and being attacked. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 631
-This ability harnesses the power of brilliant electrical energy, enhancing the Pokemon's precision in all combat scenarios. Every attack becomes 20% more accurate through electrified focus, while Thunder attacks achieve perfect targeting with guaranteed hits through divine lightning.
+Boosts the user's accuracy by 1.2x, and Thunder never misses.
 
 # ID: 632
 Terrify intimidates opposing Pokemon upon switching in, drastically reducing their special attacking capabilities. When the Pokemon with this ability enters battle, all enemies suffer a severe two-stage drop to their Special Attack stat, making their special moves significantly weaker.
