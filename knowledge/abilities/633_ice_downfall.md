@@ -1,8 +1,8 @@
 ---
 id: 633
 name: Ice Downfall
-status: ai-generated
-character_count: 279
+status: reviewed
+character_count: 124
 ---
 
 # Ice Downfall - Ability ID 633
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, the Pokemon retaliates with Icicle Crash at 60 base power. This defensive ability punishes physical attackers with an automatic Ice-type counter-attack that can flinch the opponent. The retaliation doesn't consume PP, making it an effective deterrent.
+When hit by a contact move, the user retaliates with Icicle Crash at 60 base power. Icicle Crash has a 20% chance to flinch.
 
 ## Detailed Mechanical Explanation
 
