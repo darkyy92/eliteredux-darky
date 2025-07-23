@@ -1,8 +1,8 @@
 ---
 id: 622
 name: Beautiful Music
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 157
 ---
 
 # Beautiful Music - Ability ID 622
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sound moves gain 50% chance to infatuate targets, ignoring ALL gender restrictions. Works on any Pokemon including genderless. Only ability besides Pure Love that bypasses gender limits for attraction. Turns damaging sound attacks into potential disablers.
+Sound moves gain 50% chance to infatuate targets on hit (cuts their Attack and Special Attack in half). Can infatuate any Pokemon unlike regular infatuation.
 
 ## Detailed Mechanical Explanation
 
