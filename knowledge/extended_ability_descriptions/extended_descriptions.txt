@@ -1856,7 +1856,7 @@ Grants +1 priority to Fairy-type moves when at full HP.
 After fainting while fog is active, the user revives at 25% max Hp when sending out your next party member. This still activates when the user faints on the last turn of fog being active.
 
 # ID: 630
-This intimidating ability causes fear in opponents through both offensive and defensive contact situations. When the Pokemon makes or receives contact moves, there's a 30% chance to inflict the Fear status condition on the opposing Pokemon, effectively preventing them from switching out.
+Has a 30% chance to inflict Fear on contact moves, both when attacking and being attacked. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 631
 This ability harnesses the power of brilliant electrical energy, enhancing the Pokemon's precision in all combat scenarios. Every attack becomes 20% more accurate through electrified focus, while Thunder attacks achieve perfect targeting with guaranteed hits through divine lightning.

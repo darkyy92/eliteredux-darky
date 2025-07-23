@@ -638,7 +638,7 @@ In Progress: 0
 | 627 | Ethereal Rush              | ✅       | ✅        |
 | 628 | Cute Antecedence           | ✅       | ✅        |
 | 629 | Recurring Nightmare        | ✅       | ✅        |
-| 630 | Menacing Situation         | ✅       | ❌        |
+| 630 | Menacing Situation         | ✅       | ✅        |
 | 631 | Shiny Lightning            | ✅       | ❌        |
 | 632 | Terrify                    | ✅       | ❌        |
 | 633 | Ice Downfall               | ✅       | ❌        |
