@@ -653,7 +653,7 @@ In Progress: 0
 | 642 | Jackhammer                 | ✅       | ✅        |
 | 643 | Last Stand                 | ✅       | ❌        |
 | 644 | Ice Cold Hunter            | ✅       | ✅        |
-| 645 | Soul Crusher               | ✅       | ❌        |
+| 645 | Soul Crusher               | ✅       | ✅        |
 | 646 | Arc Flash                  | ✅       | ❌        |
 | 647 | Unicorn                    | ✅       | ❌        |
 | 648 | On the Prowl               | ✅       | ❌        |

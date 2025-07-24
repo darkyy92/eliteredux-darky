@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 416,
+    "completed": 417,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T01:29:02.688248Z"
+    "generated_at": "2025-07-24T01:30:27.578589Z"
   },
   "abilities": {
     "0": {
@@ -4526,8 +4526,8 @@
       "id": 645,
       "name": "Soul Crusher",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "646": {
       "id": 646,
@@ -10012,10 +10012,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "645": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "646": {
       "indicator": "🟠",
