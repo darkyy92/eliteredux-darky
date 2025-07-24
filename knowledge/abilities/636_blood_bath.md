@@ -1,8 +1,8 @@
 ---
 id: 636
 name: Blood Bath
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 237
 ---
 
 # Blood Bath - Ability ID 636
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blood Bath provides complete immunity to the bleeding status condition while turning the bearer into a fearsome predator. When this Pokemon successfully inflicts bleeding on an opponent that isn't already feared, it automatically triggers terror in that target, causing the Fear status.
+Immunity to the bleeding. When this Pokemon successfully inflicts bleeding on an opponent, it also gains Fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 ## Detailed Mechanical Explanation
 
