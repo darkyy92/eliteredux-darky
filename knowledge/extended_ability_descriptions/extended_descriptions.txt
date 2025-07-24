@@ -1877,7 +1877,7 @@ Makes Fire-type moves super effective against Rock-types instead of resisted. Po
 Immunity to the bleeding. When this Pokemon successfully inflicts bleeding on an opponent, it also gains Fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 637
-Battle Aura creates an intimidating presence that amplifies critical hit chances for all battlers. This powerful aura increases each Pokemon's critical hit stage by +2, making devastating critical strikes significantly more likely. Enhanced probability transforms battles into encounters.
+Increases each Pokemon's critical hit stage by +2. Includes both allies and opponents.
 
 # ID: 638
 Bloodlust combines Blood Bath and Soul Eater effects. When this Pokemon inflicts bleeding on an opponent, it simultaneously induces fear, causing both physical and psychological trauma. Upon knocking out any opposing Pokemon, Bloodlust restores 25% of the user's max HP for sustained combat prowess.

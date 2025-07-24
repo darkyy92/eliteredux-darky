@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 409,
+    "completed": 410,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T00:47:21.192220Z"
+    "generated_at": "2025-07-24T00:49:21.382073Z"
   },
   "abilities": {
     "0": {
@@ -4470,8 +4470,8 @@
       "id": 637,
       "name": "Battle Aura",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "638": {
       "id": 638,
@@ -9964,10 +9964,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "637": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "638": {
       "indicator": "🟠",
