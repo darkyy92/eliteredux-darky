@@ -1904,7 +1904,7 @@ Ice-type moves hit twice in hail for full damage on both hits. User is immune to
 Hammer moves gain a 10% damage boost and target Special Defense instead of Defense.
 
 # ID: 646
-Arc Flash is a versatile dual-trigger ability that can inflict status conditions both offensively and defensively. When the Pokemon attacks, it has a 50% chance to paralyze the target upon contact. When defending and taking damage, it has a 50% chance to burn the attacking Pokemon in retaliation.
+When the user attacks, it has a 50% chance to paralyze the target upon contact. When receiving damage, it has a 50% chance to burn the attacker.
 
 # ID: 647
 This mystical ability grants horn-based moves a 30% power boost while converting all Normal-type moves to Fairy-type. The converted moves gain additional power and benefit from STAB if the user is Fairy-type, making unicorn Pokemon fearsome with both physical horn attacks and magical fairy power.
