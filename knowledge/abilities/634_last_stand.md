@@ -1,8 +1,8 @@
 ---
 id: 634
 name: Last Stand
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 182
 ---
 
 # Last Stand - Ability ID 634
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 x missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
+Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
 
 ## Detailed Mechanical Explanation
 
