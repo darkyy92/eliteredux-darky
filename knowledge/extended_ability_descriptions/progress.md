@@ -646,7 +646,7 @@ In Progress: 0
 | 635 | Pyroclastic Flow           | ✅       | ✅        |
 | 636 | Blood Bath                 | ✅       | ✅        |
 | 637 | Battle Aura                | ✅       | ✅        |
-| 638 | Bloodlust                  | ✅       | ❌        |
+| 638 | Bloodlust                  | ✅       | ✅        |
 | 639 | Piercing Solo              | ✅       | ❌        |
 | 640 | Rhythmic                   | ✅       | ❌        |
 | 641 | Chunky Bass Line           | ✅       | ❌        |
