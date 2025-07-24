@@ -1,8 +1,8 @@
 ---
 id: 637
 name: Battle Aura
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 86
 ---
 
 # Battle Aura - Ability ID 637
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Battle Aura creates an intimidating presence that amplifies critical hit chances for all battlers. This powerful aura increases each Pokemon's critical hit stage by +2, making devastating critical strikes significantly more likely. Enhanced probability transforms battles into encounters.
+Increases each Pokemon's critical hit stage by +2. Includes both allies and opponents.
 
 ## Detailed Mechanical Explanation
 
