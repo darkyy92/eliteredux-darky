@@ -2,7 +2,7 @@
 id: 433
 name: Dual Wield
 status: reviewed
-character_count: 153
+character_count: 181
 ---
 
 # Dual Wield - Ability ID 433
@@ -13,7 +13,7 @@ character_count: 153
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mega Launcher and Keen Edge moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
+Mega Launcher and Keen Edge moves that hit one time normally now hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
