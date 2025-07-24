@@ -1868,7 +1868,7 @@ Upon entering battle, the user drops the Special Attack stat of all opposing Pok
 When hit by a contact move, the user retaliates with Icicle Crash at 60 base power. Icicle Crash has a 20% chance to flinch.
 
 # ID: 634
-Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP (formula: 1 + 0.6 x missing HP%). Updates dynamically during battle. Affects both defensive stats simultaneously. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
+Defense and Special Defense increase linearly as HP decreases. Multiplier scales from 1.0x at full HP to 1.6x at 0% HP. At 50% HP provides 1.3x boost, at 25% HP provides 1.45x boost.
 
 # ID: 635
 Makes Fire-type moves super effective against Rock-types instead of resisted. Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type.
