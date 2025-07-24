@@ -1,8 +1,8 @@
 ---
 id: 644
 name: Ice Cold Hunter
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 142
 ---
 
 # Ice Cold Hunter - Ability ID 644
@@ -13,7 +13,7 @@ Ice-type moves hit twice in hail.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, effectively doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail.
+Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently. 
 
 ## Detailed Mechanical Explanation
 
