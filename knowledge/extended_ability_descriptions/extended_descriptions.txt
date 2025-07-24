@@ -1889,7 +1889,7 @@ When landing a sound move, the user inflicts bleeding. Bleeding causes 1/16 max 
 Each consecutive use of the same move increases damage by 10%. No maximum cap. Resets when switching moves or when moves fail.
 
 # ID: 641
-This rhythmic ability creates powerful seismic vibrations that shake the battlefield after every sound-based attack. When the Pokemon uses any move with the sound flag, the intense bass frequencies resonate through the ground, triggering a localized earthquake that damages nearby opponents.
+After landing any sound move, the user follows up with a 40 BP Earthquake that hits all adjacent Pokemon.
 
 # ID: 642
 Jackhammer transforms hammer-based moves into devastating double strikes. When using any hammer move, it hits twice in succession. The first hit deals full damage, while the second strike connects for 70% power, creating a reliable combo that breaks through Substitutes and Focus Sash items.
