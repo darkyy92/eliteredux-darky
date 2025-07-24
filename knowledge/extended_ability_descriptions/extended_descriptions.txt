@@ -1910,7 +1910,7 @@ When the user attacks, it has a 50% chance to paralyze the target upon contact. 
 Boosts the power of horn and drill-based attacks by 30%. Converts Normal-type moves to Fairy-type and grants STAB for Fairy moves regardless of typing.
 
 # ID: 648
-On the Prowl enhances battle initiative upon entry. During the first turn after switching in, all moves with priority 0 or higher gain +1 priority, making them faster than usual. Negative priority moves become priority 0, eliminating their speed penalty and allowing normal-speed execution instead.
+All moves with priority 0 or higher gain +1 priority on the user's first turn. Negative priority moves become priority 0 instead of adding +1 priority.
 
 # ID: 649
 This arrogant ability manifests when the Pokemon defeats an opponent, boosting its critical hit ratio by one stage as a display of superiority. Each knockout makes the Pokemon more likely to land devastating critical hits in subsequent battles, reflecting growing overconfidence and disdain.

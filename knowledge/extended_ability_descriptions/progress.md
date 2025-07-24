@@ -656,7 +656,7 @@ In Progress: 0
 | 645 | Soul Crusher               | ✅       | ✅        |
 | 646 | Arc Flash                  | ✅       | ✅        |
 | 647 | Unicorn                    | ✅       | ✅        |
-| 648 | On the Prowl               | ✅       | ❌        |
+| 648 | On the Prowl               | ✅       | ✅        |
 | 649 | Pretentious                | ✅       | ❌        |
 | 650 | Venoblaze Pincers          | ✅       | ❌        |
 | 651 | Eternal Blessing           | ✅       | ❌        |

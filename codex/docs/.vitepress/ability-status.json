@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 419,
+    "completed": 420,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T01:46:26.103419Z"
+    "generated_at": "2025-07-24T01:48:12.725485Z"
   },
   "abilities": {
     "0": {
@@ -4547,8 +4547,8 @@
       "id": 648,
       "name": "On the Prowl",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "649": {
       "id": 649,
@@ -10030,10 +10030,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "648": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "649": {
       "indicator": "🟠",
