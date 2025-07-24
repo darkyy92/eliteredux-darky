@@ -652,7 +652,7 @@ In Progress: 0
 | 641 | Chunky Bass Line           | ✅       | ✅        |
 | 642 | Jackhammer                 | ✅       | ✅        |
 | 643 | Last Stand                 | ✅       | ❌        |
-| 644 | Ice Cold Hunter            | ✅       | ❌        |
+| 644 | Ice Cold Hunter            | ✅       | ✅        |
 | 645 | Soul Crusher               | ✅       | ❌        |
 | 646 | Arc Flash                  | ✅       | ❌        |
 | 647 | Unicorn                    | ✅       | ❌        |

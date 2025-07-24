@@ -1898,7 +1898,7 @@ Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage
 Last Stand transforms desperation into defensive prowess. As the Pokemon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.
 
 # ID: 644
-Ice-type moves hit twice in hail weather. Unlike Parental Bond (25% damage on 2nd hit), Ice Cold Hunter delivers full damage on both hits, effectively doubling Ice damage output. User is immune to hail damage. Each hit can trigger freeze independently. Devastating for Ice attackers in hail.
+Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently.
 
 # ID: 645
 Soul Crusher enhances the wielder's mastery over hammer-based combat techniques. The ability boosts the power of hammer moves like Slam, Crabhammer, and Hammer Arm by 10%, while forcing opponents to use their special defense instead of defense when calculating damage from these devastating attacks.
