@@ -650,7 +650,7 @@ In Progress: 0
 | 639 | Piercing Solo              | ✅       | ✅        |
 | 640 | Rhythmic                   | ✅       | ✅        |
 | 641 | Chunky Bass Line           | ✅       | ✅        |
-| 642 | Jackhammer                 | ✅       | ❌        |
+| 642 | Jackhammer                 | ✅       | ✅        |
 | 643 | Last Stand                 | ✅       | ❌        |
 | 644 | Ice Cold Hunter            | ✅       | ❌        |
 | 645 | Soul Crusher               | ✅       | ❌        |

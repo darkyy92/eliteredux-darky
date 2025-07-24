@@ -1892,7 +1892,7 @@ Each consecutive use of the same move increases damage by 10%. No maximum cap. R
 After landing any sound move, the user follows up with a 40 BP Earthquake that hits all adjacent Pokemon.
 
 # ID: 642
-Jackhammer transforms hammer-based moves into devastating double strikes. When using any hammer move, it hits twice in succession. The first hit deals full damage, while the second strike connects for 70% power, creating a reliable combo that breaks through Substitutes and Focus Sash items.
+Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
 
 # ID: 643
 Last Stand transforms desperation into defensive prowess. As the Pokemon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.
