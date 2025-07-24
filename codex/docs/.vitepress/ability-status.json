@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 411,
+    "completed": 412,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T00:51:42.484308Z"
+    "generated_at": "2025-07-24T00:54:04.944820Z"
   },
   "abilities": {
     "0": {
@@ -4484,8 +4484,8 @@
       "id": 639,
       "name": "Piercing Solo",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "640": {
       "id": 640,
@@ -9976,10 +9976,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "639": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "640": {
       "indicator": "🟠",

@@ -1883,7 +1883,7 @@ Increases each Pokemon's critical hit stage by +2. Includes both allies and oppo
 Immunity to the bleeding. When this Pokemon successfully inflicts bleeding on an opponent, it also gains Fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear. Also recovers 25% of max HP when scoring a direct KO.
 
 # ID: 639
-Piercing Solo turns the user into a sound-based predator. When any sound move hits an opponent, the intense vibrations pierce through defenses and cause internal bleeding. This transforms utility sound moves into damaging threats over time, making Pokemon with this ability dangerous.
+When landing a sound move, the user inflicts bleeding. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 # ID: 640
 Each consecutive use of the same move increases damage by 10%. No maximum cap (unlike Metronome item). Turn 1: 100%, Turn 2: 110%, Turn 3: 120%, etc. Resets when switching moves or when moves fail. Stacks with similar effects. By turn 10 reaches 200% damage. Excellent synergy with Choice items.
