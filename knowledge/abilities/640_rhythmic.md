@@ -1,8 +1,8 @@
 ---
 id: 640
 name: Rhythmic
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 126
 ---
 
 # Rhythmic - Ability ID 640
@@ -13,7 +13,7 @@ Deals 10% more damage for each repeated move use.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Each consecutive use of the same move increases damage by 10%. No maximum cap (unlike Metronome item). Turn 1: 100%, Turn 2: 110%, Turn 3: 120%, etc. Resets when switching moves or when moves fail. Stacks with similar effects. By turn 10 reaches 200% damage. Excellent synergy with Choice items.
+Each consecutive use of the same move increases damage by 10%. No maximum cap. Resets when switching moves or when moves fail. 
 
 ## Detailed Mechanical Explanation
 
