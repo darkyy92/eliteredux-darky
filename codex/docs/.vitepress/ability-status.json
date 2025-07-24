@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 412,
+    "completed": 413,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T00:54:04.944820Z"
+    "generated_at": "2025-07-24T01:01:57.429305Z"
   },
   "abilities": {
     "0": {
@@ -4491,8 +4491,8 @@
       "id": 640,
       "name": "Rhythmic",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "641": {
       "id": 641,
@@ -9982,10 +9982,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "640": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "641": {
       "indicator": "🟠",

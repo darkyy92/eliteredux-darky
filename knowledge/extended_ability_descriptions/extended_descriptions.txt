@@ -1886,7 +1886,7 @@ Immunity to the bleeding. When this Pokemon successfully inflicts bleeding on an
 When landing a sound move, the user inflicts bleeding. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 # ID: 640
-Each consecutive use of the same move increases damage by 10%. No maximum cap (unlike Metronome item). Turn 1: 100%, Turn 2: 110%, Turn 3: 120%, etc. Resets when switching moves or when moves fail. Stacks with similar effects. By turn 10 reaches 200% damage. Excellent synergy with Choice items.
+Each consecutive use of the same move increases damage by 10%. No maximum cap. Resets when switching moves or when moves fail.
 
 # ID: 641
 This rhythmic ability creates powerful seismic vibrations that shake the battlefield after every sound-based attack. When the Pokemon uses any move with the sound flag, the intense bass frequencies resonate through the ground, triggering a localized earthquake that damages nearby opponents.

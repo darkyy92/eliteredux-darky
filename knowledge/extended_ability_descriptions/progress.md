@@ -648,7 +648,7 @@ In Progress: 0
 | 637 | Battle Aura                | ✅       | ✅        |
 | 638 | Bloodlust                  | ✅       | ✅        |
 | 639 | Piercing Solo              | ✅       | ✅        |
-| 640 | Rhythmic                   | ✅       | ❌        |
+| 640 | Rhythmic                   | ✅       | ✅        |
 | 641 | Chunky Bass Line           | ✅       | ❌        |
 | 642 | Jackhammer                 | ✅       | ❌        |
 | 643 | Last Stand                 | ✅       | ❌        |
