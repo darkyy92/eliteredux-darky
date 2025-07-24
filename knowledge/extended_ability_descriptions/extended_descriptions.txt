@@ -1874,7 +1874,7 @@ Defense and Special Defense increase linearly as HP decreases. Multiplier scales
 Makes Fire-type moves super effective against Rock-types instead of resisted. Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type.
 
 # ID: 636
-Blood Bath provides complete immunity to the bleeding status condition while turning the bearer into a fearsome predator. When this Pokemon successfully inflicts bleeding on an opponent that isn't already feared, it automatically triggers terror in that target, causing the Fear status.
+Immunity to the bleeding. When this Pokemon successfully inflicts bleeding on an opponent, it also gains Fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 637
 Battle Aura creates an intimidating presence that amplifies critical hit chances for all battlers. This powerful aura increases each Pokemon's critical hit stage by +2, making devastating critical strikes significantly more likely. Enhanced probability transforms battles into encounters.

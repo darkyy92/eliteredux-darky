@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 408,
+    "completed": 409,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T00:34:37.124994Z"
+    "generated_at": "2025-07-24T00:47:21.192220Z"
   },
   "abilities": {
     "0": {
@@ -4463,8 +4463,8 @@
       "id": 636,
       "name": "Blood Bath",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "637": {
       "id": 637,
@@ -9958,10 +9958,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "636": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "637": {
       "indicator": "🟠",
