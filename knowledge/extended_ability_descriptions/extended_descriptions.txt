@@ -1913,7 +1913,7 @@ Boosts the power of horn and drill-based attacks by 30%. Converts Normal-type mo
 All moves with priority 0 or higher gain +1 priority on the user's first turn. Negative priority moves become priority 0 instead of adding +1 priority.
 
 # ID: 649
-This arrogant ability manifests when the Pokemon defeats an opponent, boosting its critical hit ratio by one stage as a display of superiority. Each knockout makes the Pokemon more likely to land devastating critical hits in subsequent battles, reflecting growing overconfidence and disdain.
+Boosts the user's critical hit ratio by one stage whenever it knocks out an opponent with a direct hit.
 
 # ID: 650
 Venoblaze Pincers boosts all physical moves by 20% damage while adding a menacing 20% chance to inflict Burn or Poison on contact. The razor-sharp, venom-coated pincers deliver devastating strikes that combine immediate power with lingering status effects, making every physical attack dual threat.

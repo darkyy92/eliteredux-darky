@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 420,
+    "completed": 421,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-24T01:48:12.725485Z"
+    "generated_at": "2025-07-24T01:49:44.838823Z"
   },
   "abilities": {
     "0": {
@@ -4554,8 +4554,8 @@
       "id": 649,
       "name": "Pretentious",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "650": {
       "id": 650,
@@ -10036,10 +10036,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "649": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "650": {
       "indicator": "🟠",
