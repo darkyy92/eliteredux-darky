@@ -1,8 +1,8 @@
 ---
 id: 663
 name: Funeral Pyre
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 78
 ---
 
 # Funeral Pyre - Ability ID 663
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Funeral Pyre creates a supernatural field that burns the life force of all Pok√©mon except Ghost and Dark-types. Affected Pok√©mon lose 25% of their max HP at the end of each turn. The damage ignores type immunities but is blocked by Magic Guard. Creates persistent pressure forcing switches.
+All non-Ghost and Dark-types lose 25% of their max HP at the end of each turn. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -21,11 +21,11 @@ Funeral Pyre creates a supernatural field that burns the life force of all Pok√©
 ### Mechanics
 - **Damage**: 1/4 (25%) of max HP per turn
 - **Timing**: Activates at the end of each turn
-- **Targets**: All Pok√©mon on the field except the ability holder
-- **Type Immunity**: Ghost-type and Dark-type Pok√©mon are completely immune
+- **Targets**: All PokÈmon on the field except the ability holder
+- **Type Immunity**: Ghost-type and Dark-type PokÈmon are completely immune
 - **Ability Immunity**: Magic Guard protects against this damage
 - **Stacking**: Multiple Funeral Pyre abilities on the field don't stack damage
-- **Switch-in Message**: Announces when a Pok√©mon with this ability enters battle
+- **Switch-in Message**: Announces when a PokÈmon with this ability enters battle
 
 ### Technical Implementation
 - Uses `onEndTurn` callback to apply damage
@@ -44,7 +44,7 @@ Funeral Pyre creates a supernatural field that burns the life force of all Pok√©
 
 ### Common Users
 - Gyaradeath Mega X (innate ability)
-- Typically found on Ghost-type themed Pok√©mon
+- Typically found on Ghost-type themed PokÈmon
 - Often paired with defensive stats to maximize field time
 
 ### Competitive Usage Notes
@@ -52,10 +52,10 @@ Funeral Pyre creates a supernatural field that burns the life force of all Pok√©
 - Pairs well with Protect/Substitute strategies
 - Can be combined with trapping moves/abilities
 - Forces opponents to carry Ghost/Dark coverage
-- Makes switching in frailer Pok√©mon extremely risky
+- Makes switching in frailer PokÈmon extremely risky
 
 ### Counters and Counterplay
-- **Type Immunity**: Use Ghost or Dark-type Pok√©mon
+- **Type Immunity**: Use Ghost or Dark-type PokÈmon
 - **Magic Guard**: Completely negates the damage
 - **Quick Offense**: KO the user before taking too much damage
 - **Taunt**: Prevent defensive plays that prolong exposure
@@ -74,5 +74,5 @@ Funeral Pyre creates a supernatural field that burns the life force of all Pok√©
 - One of the most oppressive field control abilities
 - Dramatically warps team building around it
 - Effectively a stronger, type-selective Bad Dreams
-- The 25% damage is significant enough to 4HKO any Pok√©mon
+- The 25% damage is significant enough to 4HKO any PokÈmon
 - Animation uses the "cursed" status effect for thematic consistency
