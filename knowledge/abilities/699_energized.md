@@ -1,8 +1,8 @@
 ---
 id: 699
 name: Energized
-status: ai-generated
-character_count: 247
+status: reviewed
+character_count: 300
 ---
 
 # Energized - Ability ID 699
@@ -13,7 +13,7 @@ character_count: 247
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Energized charges up the Pokemon on entry or when Electric Terrain is active, like Generator. Additionally charges up when knocking out an opponent with an Electric-type move. Charged status doubles the power of all Electric-type moves until used.
+Charges up the user once upon switching in, doubling Electric-type move power for the next Electric attack. Recharge when Electric Terrain becomes active during battle. Charged state is lost upon switching out or after using an Electric move. Recharges when scoring a direct KO with an Electric move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
