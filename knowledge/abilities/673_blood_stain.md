@@ -1,8 +1,8 @@
 ---
 id: 673
 name: Blood Stain
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 226
 ---
 
 # Blood Stain - Ability ID 673
@@ -13,7 +13,7 @@ User perpetually bleeds and spreads bleeding condition on contact.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This terrifying ability causes the user to perpetually bleed, taking 1/16 maximum HP damage each turn. The bleeding condition cannot be healed by any means and spreads to opposing Pokemon making physical contact. Ghost and Rock types are immune to infection, but the original user remains affected.
+Pokemon with this ability gain an unremovable bleed status condition. When the user contact offensively or defensively with another Pokemon who does not have this ability, it replaces their current ability and causes bleeding.
 
 ## Detailed Mechanical Explanation
 
