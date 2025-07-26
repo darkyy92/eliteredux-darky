@@ -690,7 +690,7 @@ In Progress: 0
 | 679 | Way of Precision           | ✅       | ✅        |
 | 680 | Way of Swiftness           | ✅       | ✅        |
 | 681 | Ability 681                | ❌       | ❌        |
-| 682 | Iron Giant                 | ✅       | ❌        |
+| 682 | Iron Giant                 | ✅       | ✅        |
 | 683 | Master Hand                | ✅       | ❌        |
 | 684 | Final Blow                 | ✅       | ❌        |
 | 685 | Hospitality                | ✅       | ❌        |
