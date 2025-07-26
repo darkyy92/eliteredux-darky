@@ -1553,7 +1553,7 @@ Trapping moves last 6 turns instead of 4-5 turns and increases their damage at t
 Boosts sound-based moves by 30%. Single-target sound moves gain spread targeting to hit both opposing Pokemon. Does not spread with multihit moves. Also boosts the user's sound moves by another 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources.
 
 # ID: 525
-Biting moves a 50% chance to burn the target on hit.
+Biting moves a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.
 
 # ID: 526
 Deals 1.5x damage to Dark-type Pokemon and takes 0.5x damage when attacked by Dark-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
