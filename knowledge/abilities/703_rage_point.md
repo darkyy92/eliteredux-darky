@@ -1,8 +1,8 @@
 ---
 id: 703
 name: Rage Point
-status: ai-generated
-character_count: 249
+status: reviewed
+character_count: 231
 ---
 
 # Rage Point - Ability ID 703
@@ -13,7 +13,7 @@ character_count: 249
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rage Point boosts all offensive moves by 50% while the Pokemon has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
+Boosts offensive moves by 50% while the user has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
