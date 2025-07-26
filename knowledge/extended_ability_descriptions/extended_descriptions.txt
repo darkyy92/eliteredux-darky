@@ -2006,7 +2006,7 @@ Boosts the user's critical hit ratio by one stage whenever it knocks out an oppo
 Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Boosts contact moves by adding 20% of the user's Defense stat to attack calculations. Prevents paralysis and immediately cures the status if inflicted on the user.
 
 # ID: 683
-Master Hand merges Mega Launcher and Rampage abilities. Aura and pulse moves gain 30% power while status moves become enhanced. After defeating opponents, recharge status immediately ends, enabling continuous offensive chains through boosted projectile attacks and relentless momentum.
+Boosts pulse, beam, ball, and aura moves by 30%. Eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 # ID: 684
 Final Blow grants devastating precision by bypassing all protective moves like Protect and Detect. When using super effective attacks, this ability ensures perfect accuracy and guaranteed critical hits, making the Pokemon exceptionally dangerous against vulnerable opponents in battle.

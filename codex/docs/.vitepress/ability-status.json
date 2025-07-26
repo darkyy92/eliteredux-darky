@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 457,
+    "completed": 458,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T17:37:45.975166Z"
+    "generated_at": "2025-07-26T17:38:38.854064Z"
   },
   "abilities": {
     "0": {
@@ -4792,8 +4792,8 @@
       "id": 683,
       "name": "Master Hand",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "684": {
       "id": 684,
@@ -10240,10 +10240,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "683": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "684": {
       "indicator": "🟠",

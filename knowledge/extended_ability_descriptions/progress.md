@@ -691,7 +691,7 @@ In Progress: 0
 | 680 | Way of Swiftness           | ✅       | ✅        |
 | 681 | Ability 681                | ❌       | ❌        |
 | 682 | Iron Giant                 | ✅       | ✅        |
-| 683 | Master Hand                | ✅       | ❌        |
+| 683 | Master Hand                | ✅       | ✅        |
 | 684 | Final Blow                 | ✅       | ❌        |
 | 685 | Hospitality                | ✅       | ❌        |
 | 686 | Butter Up                  | ✅       | ❌        |
