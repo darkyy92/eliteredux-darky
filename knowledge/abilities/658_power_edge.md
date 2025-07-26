@@ -1,8 +1,8 @@
 ---
 id: 658
 name: Power Edge
-status: ai-generated
-character_count: 253
+status: reviewed
+character_count: 86
 ---
 
 # Power Edge - Ability ID 658
@@ -13,7 +13,7 @@ character_count: 253
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Power Edge enhances all slashing attacks by 30% while forcing them to target Special Defense instead of Defense. This transforms physical slashing moves into mixed attackers that exploit weaker special bulk. Perfect for breaking through defensive walls.
+Keen Edge moves gain a 30% damage boost and target Special Defense instead of Defense.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
