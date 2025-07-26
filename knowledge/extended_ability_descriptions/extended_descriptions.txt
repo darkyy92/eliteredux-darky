@@ -1898,7 +1898,7 @@ Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage
 Last Stand transforms desperation into defensive prowess. As the Pokemon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.
 
 # ID: 644
-Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently.
+Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently (except flinch).
 
 # ID: 645
 Hammer moves gain a 10% damage boost and target Special Defense instead of Defense.
