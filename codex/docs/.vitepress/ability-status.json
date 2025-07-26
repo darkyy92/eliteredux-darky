@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 446,
+    "completed": 447,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T16:45:58.931214Z"
+    "generated_at": "2025-07-26T16:47:33.026756Z"
   },
   "abilities": {
     "0": {
@@ -4736,8 +4736,8 @@
       "id": 675,
       "name": "Max Acceleration",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "676": {
       "id": 676,
@@ -10192,10 +10192,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "675": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "676": {
       "indicator": "🟠",
