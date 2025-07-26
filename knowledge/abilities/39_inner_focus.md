@@ -1,8 +1,8 @@
 ---
 id: 39
 name: Inner Focus
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 69
 ---
 
 # Inner Focus - Ability ID 39
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Inner Focus provides immunity to flinching, Intimidate-like effects (Intimidate, Scare, Fearmonger, etc.), and status conditions from Taunt. Additionally, when this Pokemon uses Focus Blast, it bypasses accuracy checks and always hits the target, improving its battle reliability.
+Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
