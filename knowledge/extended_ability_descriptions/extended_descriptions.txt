@@ -1928,7 +1928,7 @@ When consuming or losing a held item, the user's base Speed stat is multiplied b
 Restores 1/8 of the user's maximum HP at the end of each turn while in fog.
 
 # ID: 654
-White Noise combines Static and Peaceful Rest. Contact moves against this Pokemon have a 30% chance to paralyze the attacker. During fog weather, heals 1/8 max HP at the end of each turn. Both effects work independently - paralysis on contact defense and healing in fog conditions.
+The user has a 30% chance to inflict paralysis on contact moves, both when attacking and being attacked. Restores 1/8 of the user's maximum HP at the end of each turn while in fog.
 
 # ID: 655
 This Pokemon has mastered the art of combat in low visibility conditions. When fog weather is active on the battlefield, the Pokemon becomes harder to hit by using the obscured environment to its advantage. Fog reduces incoming attack accuracy by 25%, making this an elusive target.

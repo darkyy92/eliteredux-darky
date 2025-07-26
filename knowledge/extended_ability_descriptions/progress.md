@@ -662,7 +662,7 @@ In Progress: 0
 | 651 | Eternal Blessing           | ✅       | ✅        |
 | 652 | Sugar Rush                 | ✅       | ✅        |
 | 653 | Peaceful Rest              | ✅       | ✅        |
-| 654 | White Noise                | ✅       | ❌        |
+| 654 | White Noise                | ✅       | ✅        |
 | 655 | Smokey Maneuvers           | ✅       | ❌        |
 | 656 | Tag                        | ✅       | ❌        |
 | 657 | Power Metal                | ✅       | ❌        |
