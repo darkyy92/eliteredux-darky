@@ -2,7 +2,7 @@
 id: 685
 name: Hospitality
 status: reviewed
-character_count: 86
+character_count: 82
 ---
 
 # Hospitality - Ability ID 685
@@ -13,7 +13,7 @@ Heals doubles partner for 25% HP on switch-in.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon switches into battle, it heals its ally for 25% of the their max HP. 
+When this Pokemon switches into battle, it heals its ally for 25% of their max HP. 
 
 ## Detailed Mechanical Explanation
 
