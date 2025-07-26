@@ -207,7 +207,7 @@ In Progress: 0
 | 196 | Merciless                  | ✅       | ❌        |
 | 197 | Shields Down               | ✅       | ❌        |
 | 198 | Stakeout                   | ✅       | ❌        |
-| 199 | Water Bubble               | ✅       | ❌        |
+| 199 | Water Bubble               | ✅       | ✅        |
 | 200 | Steelworker                | ✅       | ✅        |
 | 201 | Berserk                    | ✅       | ✅        |
 | 202 | Slush Rush                 | ✅       | ✅        |

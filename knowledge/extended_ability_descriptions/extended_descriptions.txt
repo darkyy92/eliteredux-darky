@@ -590,7 +590,7 @@ Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50
 Stakeout doubles damage dealt to Pokemon that just switched in this turn. The ability triggers when the target has isFirstTurn set to 2, indicating a fresh switch-in. Works on all offensive moves and provides significant wallbreaker potential against switching opponents in battle.
 
 # ID: 199
-Water Bubble creates a protective bubble that doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burn status, removing existing burns upon gaining the ability. Elite Redux's multi-ability system.
+Doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burns, removing existing burns upon gaining the ability.
 
 # ID: 200
 Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves.
