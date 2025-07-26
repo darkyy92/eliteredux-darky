@@ -1,8 +1,8 @@
 ---
 id: 676
 name: Sidewinder
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 165
 ---
 
 # Sidewinder - Ability ID 676
@@ -13,7 +13,7 @@ First biting move each entry gets +1 priority. Resets on KO.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sidewinder grants the Pokemon a "coiled" status upon entry. While coiled, the first biting move used gains +1 priority. After using a biting move, the coiled status is consumed. If Sidewinder KOs an opponent with a biting move, the coiled status is immediately restored for the next battle.
+On entry, gives +1 priority to the first biting move used. Priority boost is consumed after landing any biting move. Upon scoring a direct KO, regains priority buff.
 
 ## Detailed Mechanical Explanation
 
