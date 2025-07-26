@@ -2,7 +2,7 @@
 id: 218
 name: Fluffy
 status: reviewed
-character_count: 140
+character_count: 152
 ---
 
 # Fluffy - Ability ID 218
@@ -13,7 +13,7 @@ character_count: 140
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage. Multiplicative with other forms of damage reduction.
+Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage to the user. Multiplicative with other forms of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
