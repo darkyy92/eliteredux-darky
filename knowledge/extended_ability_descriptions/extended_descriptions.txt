@@ -1997,7 +1997,7 @@ Removes stat raises from opposing Pokemon, then drops their Speed by 1 stage.
 Reduces damage from contact moves by 75%. Fire-type moves to deal x4 damage to the user. Multiplicative with other forms of damage reduction.
 
 # ID: 679
-Way of Precision combines Inner Focus and Precise Fist into a devastating martial arts ability. This makes Focus Blast never miss while dramatically enhancing all punching moves through increased critical hit rates and amplified secondary effects that activate 5x more often than normal.
+Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. Punching moves gain +1 critical hit stage and 5x their normal secondary effect chance.
 
 # ID: 680
 Way of Swiftness combines the pride of battle with aquatic agility. When this Pokemon defeats an opponent, its critical hit ratio increases by one stage, channeling victory into precise strikes. Additionally, rainy weather doubles the user's Speed stat, enabling swift dominance.

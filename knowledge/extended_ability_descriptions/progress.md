@@ -687,7 +687,7 @@ In Progress: 0
 | 676 | Sidewinder                 | ✅       | ✅        |
 | 677 | Petrify                    | ✅       | ✅        |
 | 678 | Fluffiest                  | ✅       | ✅        |
-| 679 | Way of Precision           | ✅       | ❌        |
+| 679 | Way of Precision           | ✅       | ✅        |
 | 680 | Way of Swiftness           | ✅       | ❌        |
 | 681 | Atomic Punch               | ✅       | ❌        |
 | 682 | Iron Giant                 | ✅       | ❌        |
