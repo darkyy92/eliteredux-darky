@@ -2,7 +2,7 @@
 id: 319
 name: Raging Boxer
 status: reviewed
-character_count: 168
+character_count: 184
 ---
 
 # Raging Boxer - Ability ID 319
@@ -13,7 +13,7 @@ character_count: 168
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Raging Boxer causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances.
+Raging Boxer causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances (except flinch).
 
 ## Detailed Mechanical Explanation
 
