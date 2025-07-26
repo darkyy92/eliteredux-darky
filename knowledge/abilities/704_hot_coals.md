@@ -1,8 +1,8 @@
 ---
 id: 704
 name: Hot Coals
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 223
 ---
 
 # Hot Coals - Ability ID 704
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hot Coals sets a burning trap on the opponent's side when the Pokemon switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Only affects the first switch-in and is consumed when triggered. Does not stack multiple traps.
+Sets a burning trap on the opponent's side when the user switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Consumed when triggered. Does not stack multiple traps.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
