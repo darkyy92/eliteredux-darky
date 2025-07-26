@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 427,
+    "completed": 428,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T14:39:57.085243Z"
+    "generated_at": "2025-07-26T14:57:29.391616Z"
   },
   "abilities": {
     "0": {
@@ -4596,8 +4596,8 @@
       "id": 655,
       "name": "Smokey Maneuvers",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "656": {
       "id": 656,
@@ -10072,10 +10072,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "655": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "656": {
       "indicator": "🟠",

@@ -663,7 +663,7 @@ In Progress: 0
 | 652 | Sugar Rush                 | ✅       | ✅        |
 | 653 | Peaceful Rest              | ✅       | ✅        |
 | 654 | White Noise                | ✅       | ✅        |
-| 655 | Smokey Maneuvers           | ✅       | ❌        |
+| 655 | Smokey Maneuvers           | ✅       | ✅        |
 | 656 | Tag                        | ✅       | ❌        |
 | 657 | Power Metal                | ✅       | ❌        |
 | 658 | Power Edge                 | ✅       | ❌        |
