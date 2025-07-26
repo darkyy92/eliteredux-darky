@@ -1,8 +1,8 @@
 ---
 id: 701
 name: Steel Beetle
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 245
 ---
 
 # Steel Beetle - Ability ID 701
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Steel Beetle combines Raging Boxer and Pollinate effects. Punching moves hit twice with first hit at 100% power and second at 40%. Normal-type moves become Bug-type with 1.2x power boost. Bug-type moves always receive STAB regardless of Pokemon's actual typing.
+Causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances. Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
