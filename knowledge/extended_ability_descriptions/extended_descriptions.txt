@@ -1952,7 +1952,7 @@ Reduces all damage by 20%. Multiplicative with other damage reduction sources. C
 Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. When the user drops to half HP or below from an opposing attack, boosting its highest attacking stat by one stage. Triggers only once per battle. Other damage sources that bring you to half HP or below will not activate it.
 
 # ID: 662
-Higher Rank grants elite Pokemon authority to make priority moves more devastating. When using moves with increased priority (+1 or higher), attacks receive a 20% damage boost, reflecting superior tactical positioning and refined combat techniques that strike harder during decisive moments.
+Moves with increased priority (+1 or higher) receive a 20% damage boost.
 
 # ID: 663
 Funeral Pyre creates a supernatural field that burns the life force of all Pokémon except Ghost and Dark-types. Affected Pokémon lose 25% of their max HP at the end of each turn. The damage ignores type immunities but is blocked by Magic Guard. Creates persistent pressure forcing switches.
