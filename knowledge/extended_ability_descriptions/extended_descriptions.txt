@@ -1340,7 +1340,7 @@ Lingering Aroma changes the attacker's ability (not innates) to Lingering Aroma 
 Upon entering battle, adds Fairy to the user's current typing. Retains Fairy typing even upon losing the ability, going away only when switching out.
 
 # ID: 453
-Fire moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
+Fire moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 # ID: 454
 Boosts the user's Speed by one stage whenever it knocks out an opponent with a direct hit.
