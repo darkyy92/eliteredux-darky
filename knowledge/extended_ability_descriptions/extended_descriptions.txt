@@ -1991,7 +1991,7 @@ User's Speed increases by one stage at end of each full turn they remain on the 
 On entry, gives +1 priority to the first biting move used. Priority boost is consumed after landing any biting move. Upon scoring a direct KO, regains priority buff.
 
 # ID: 677
-Upon switching in, Petrify activates both Intimidate-like effects and buff clearing simultaneously. It lowers the Attack stat of opposing Pokemon by one stage through its intimidate component, then completely strips away all positive stat boosts from enemy Pokemon, neutralizing any setup.
+Removes stat raises from opposing Pokemon, then drops their Speed by 1 stage.
 
 # ID: 678
 This ability makes the Pokemon extremely fluffy and soft, providing exceptional protection against physical contact moves by reducing contact damage by 75%. However, this incredible fluffiness comes with a significant drawback - the Pokemon becomes vulnerable to fire attacks, taking double damage.

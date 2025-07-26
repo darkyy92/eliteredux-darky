@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 448,
+    "completed": 449,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T17:15:40.252052Z"
+    "generated_at": "2025-07-26T17:17:21.889894Z"
   },
   "abilities": {
     "0": {
@@ -4750,8 +4750,8 @@
       "id": 677,
       "name": "Petrify",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "678": {
       "id": 678,
@@ -10204,10 +10204,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "677": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "678": {
       "indicator": "🟠",
