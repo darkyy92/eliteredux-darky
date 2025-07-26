@@ -1,8 +1,8 @@
 ---
 id: 686
 name: Butter Up
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 164
 ---
 
 # Butter Up - Ability ID 686
@@ -13,7 +13,7 @@ Hospitality + Soothing Aroma effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-On switch-in, Butter Up heals allies for 25% of their max HP (Hospitality) and cures all status conditions for the entire party (Soothing Aroma). Both effects trigger simultaneously upon entering battle. Invaluable support ability for doubles, providing instant healing and cleansing.
+On entry, heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon; and heals its ally for 25% of their max HP. 
 
 ## Detailed Mechanical Explanation
 
