@@ -1,8 +1,8 @@
 ---
 id: 683
 name: Master Hand
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 139
 ---
 
 # Master Hand - Ability ID 683
@@ -13,7 +13,7 @@ Mega Launcher + Rampage effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Master Hand merges Mega Launcher and Rampage abilities. Aura and pulse moves gain 30% power while status moves become enhanced. After defeating opponents, recharge status immediately ends, enabling continuous offensive chains through boosted projectile attacks and relentless momentum.
+Boosts pulse, beam, ball, and aura moves by 30%. Eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 
