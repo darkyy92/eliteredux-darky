@@ -1,8 +1,8 @@
 ---
 id: 698
 name: Pinnacle Blade
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 123
 ---
 
 # Pinnacle Blade - Ability ID 698
@@ -13,7 +13,7 @@ Slashing moves always hit and break protection and barriers.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This elite ability makes the user an unstoppable blade master. All slashing moves bypass accuracy checks for guaranteed hits and ignore protective measures, shattering screens like Reflect and Light Screen, destroying Substitutes, and penetrating Protect. Only affects moves with the slashing flag.
+All Keen Edge moves can never miss, and they bypass protection moves and ignore any secondary effects associated with them.
 
 ## Detailed Mechanical Explanation
 
