@@ -708,7 +708,7 @@ In Progress: 0
 | 697 | Dragon's Ritual            | ✅       | ❌        |
 | 698 | Pinnacle Blade             | ✅       | ✅        |
 | 699 | Energized                  | ✅       | ✅        |
-| 700 | Color Spectrum             | ✅       | ❌        |
+| 700 | Color Spectrum             | ✅       | ✅        |
 | 701 | Steel Beetle               | ✅       | ❌        |
 | 702 | From the Shadows           | ✅       | ❌        |
 | 703 | Rage Point                 | ✅       | ❌        |

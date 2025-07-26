@@ -2057,7 +2057,7 @@ All Keen Edge moves can never miss, and they bypass protection moves and ignore 
 Charges up the user once upon switching in, doubling Electric-type move power for the next Electric attack. Recharge when Electric Terrain becomes active during battle. Charged state is lost upon switching out or after using an Electric move. Recharges when scoring a direct KO with an Electric move.
 
 # ID: 700
-Color Spectrum gives same-type attacks a 1.2x damage boost instead of the usual 1.5x STAB multiplier. At the end of each turn, the Pokemon randomly changes to a completely new type, avoiding Mystery and Stellar types. Both primary and secondary typing become the newly chosen type.
+STAB moves are boosted by 20%. The user changes to a random Pure type at the start of every turn.
 
 # ID: 701
 Steel Beetle combines Raging Boxer and Pollinate effects. Punching moves hit twice with first hit at 100% power and second at 40%. Normal-type moves become Bug-type with 1.2x power boost. Bug-type moves always receive STAB regardless of Pokemon's actual typing.

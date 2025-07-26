@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 475,
+    "completed": 476,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T18:12:46.518747Z"
+    "generated_at": "2025-07-26T18:14:33.367734Z"
   },
   "abilities": {
     "0": {
@@ -4911,8 +4911,8 @@
       "id": 700,
       "name": "Color Spectrum",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "701": {
       "id": 701,
@@ -10342,10 +10342,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "700": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "701": {
       "indicator": "🟠",
