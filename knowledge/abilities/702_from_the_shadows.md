@@ -1,8 +1,8 @@
 ---
 id: 702
 name: From the Shadows
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 215
 ---
 
 # From the Shadows - Ability ID 702
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-From the Shadows traps the target with every attack, preventing escape like Block. When the user moves first in a turn, attacks gain a 20% chance to flinch. The trap effect applies regardless of flinch success. Creates pressure through speed control and escape denial.
+When the user moves first in a turn, attacks gain a 20% chance to flinch and trap the target on hit. The trap effect applies regardless of flinch success. Flinch chance only works on the first hit of multihit moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
