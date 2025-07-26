@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 437,
+    "completed": 438,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T15:11:04.345196Z"
+    "generated_at": "2025-07-26T15:15:57.750189Z"
   },
   "abilities": {
     "0": {
@@ -4666,8 +4666,8 @@
       "id": 665,
       "name": "Elemental Vortex",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "666": {
       "id": 666,
@@ -10132,10 +10132,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "665": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "666": {
       "indicator": "🟠",

@@ -673,7 +673,7 @@ In Progress: 0
 | 662 | Higher Rank                | ✅       | ✅        |
 | 663 | Ability 663                | ❌       | ❌        |
 | 664 | Ability 664                | ❌       | ❌        |
-| 665 | Elemental Vortex           | ✅       | ❌        |
+| 665 | Elemental Vortex           | ✅       | ✅        |
 | 666 | Snowy Wrath                | ✅       | ❌        |
 | 667 | Pattern Change             | ✅       | ❌        |
 | 668 | No Turning Back            | ✅       | ❌        |
