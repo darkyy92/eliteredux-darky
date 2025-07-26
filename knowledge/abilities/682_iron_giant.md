@@ -1,8 +1,8 @@
 ---
 id: 682
 name: Iron Giant
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 256
 ---
 
 # Iron Giant - Ability ID 682
@@ -13,7 +13,7 @@ Heatproof + Juggernaut effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Giant halves Fire-type damage and prevents burn damage (Heatproof). Physical contact moves gain 20% of user's Defense as bonus Attack power (Juggernaut). Also grants paralysis immunity with automatic status cure on activation. Combines defensive Fire resistance with Defense-scaling offense.
+Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Boosts contact moves by adding 20% of the user's Defense stat to attack calculations. Prevents paralysis and immediately cures the status if inflicted on the user.
 
 ## Detailed Mechanical Explanation
 
