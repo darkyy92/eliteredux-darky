@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 453,
+    "completed": 454,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T17:28:35.895036Z"
+    "generated_at": "2025-07-26T17:29:56.661116Z"
   },
   "abilities": {
     "0": {
@@ -634,8 +634,8 @@
       "id": 89,
       "name": "Iron Fist",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "90": {
       "id": 90,
@@ -6676,10 +6676,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "89": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "90": {
       "indicator": "🟠",

@@ -260,7 +260,7 @@ Dry Skin heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Take
 Download analyzes the opposing Pokemon's defenses upon entering battle. If the foe's Defense is higher than Special Defense, it raises Special Attack by one stage. If Special Defense is higher or equal, it raises Attack by one stage. Works on switch-in and uses actual stat values including boosts.
 
 # ID: 89
-Iron Fist boosts the power of all punching moves by 30%. Affects moves like Fire Punch, Ice Punch, Thunder Punch, Mach Punch, Bullet Punch, and Hammer Arm. The boost stacks multiplicatively with other damage modifiers like STAB and weather. Essential for physical fighters using punching attacks.
+Boosts the power of punching moves by 30%.
 
 # ID: 90
 Poison Heal reverses poison's effects, restoring 1/8 max HP per turn instead of taking damage. Works with both regular poison and toxic poison. The healing occurs at the end of each turn when poison would normally damage. Pokemon with this ability actively benefit from being poisoned.
