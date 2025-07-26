@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 479,
+    "completed": 480,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T23:43:45.567367Z"
+    "generated_at": "2025-07-26T23:44:42.406781Z"
   },
   "abilities": {
     "0": {
@@ -4932,8 +4932,8 @@
       "id": 703,
       "name": "Rage Point",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "704": {
       "id": 704,
@@ -10360,10 +10360,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "703": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "704": {
       "indicator": "🟠",

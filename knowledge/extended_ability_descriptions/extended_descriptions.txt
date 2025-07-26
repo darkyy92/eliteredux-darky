@@ -2066,7 +2066,7 @@ Causes punching moves to hit twice, with the first hit at 100% power and second 
 When the user moves first in a turn, attacks gain a 20% chance to flinch and trap the target on hit. The trap effect applies regardless of flinch success. Flinch chance only works on the first hit of multihit moves.
 
 # ID: 703
-Rage Point boosts all offensive moves by 50% while the Pokemon has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
+Boosts offensive moves by 50% while the user has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
 
 # ID: 704
 Hot Coals sets a burning trap on the opponent's side when the Pokemon switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Only affects the first switch-in and is consumed when triggered. Does not stack multiple traps.
