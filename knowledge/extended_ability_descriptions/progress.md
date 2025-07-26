@@ -152,7 +152,7 @@ In Progress: 0
 | 141 | Moody                      | ✅       | ❌        |
 | 142 | Overcoat                   | ✅       | ❌        |
 | 143 | Poison Touch               | ✅       | ❌        |
-| 144 | Regenerator                | ✅       | ❌        |
+| 144 | Regenerator                | ✅       | ✅        |
 | 145 | Big Pecks                  | ✅       | ❌        |
 | 146 | Sand Rush                  | ✅       | ❌        |
 | 147 | Wonder Skin                | ✅       | ❌        |
