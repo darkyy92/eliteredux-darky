@@ -1,8 +1,8 @@
 ---
 id: 690
 name: Restraining Order
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 115
 ---
 
 # Restraining Order - Ability ID 690
@@ -13,7 +13,7 @@ Forces attacker to switch out when hit by contact moves (once per switch-in).
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, Restraining Order forces the attacker to switch out to a random ally. This defensive mechanism triggers only once per switch-in. After activation, the ability remains dormant until this Pokemon switches out and returns to battle, resetting the one-time trigger.
+When the user is hit by a contact move, they force the attacker to switch out to a random ally. Once per switch in.
 
 ## Detailed Mechanical Explanation
 
