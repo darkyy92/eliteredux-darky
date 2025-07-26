@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 477,
+    "completed": 478,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T23:24:50.308675Z"
+    "generated_at": "2025-07-26T23:32:16.302144Z"
   },
   "abilities": {
     "0": {
@@ -4925,8 +4925,8 @@
       "id": 702,
       "name": "From the Shadows",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "703": {
       "id": 703,
@@ -10354,10 +10354,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "702": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "703": {
       "indicator": "🟠",
