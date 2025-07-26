@@ -1,8 +1,8 @@
 ---
 id: 178
 name: Mega Launcher
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 48
 ---
 
 # Mega Launcher - Ability ID 178
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Powers up pulse, beam, ball, and aura moves by 30% damage. Also boosts all status moves for enhanced utility. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles, energy attacks, and support moves for versatile offensive strategies.
+Boosts pulse, beam, ball, and aura moves by 30%.
 
 ## Detailed Mechanical Explanation
 **Mega Launcher** provides a significant **1.3x damage multiplier** to an extensive range of moves, plus special interactions with healing moves.
