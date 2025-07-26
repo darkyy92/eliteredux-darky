@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 437,
-    "written": 864,
-    "pending": 12,
-    "generated_at": "2025-07-26T15:10:22.336244Z"
+    "written": 863,
+    "pending": 13,
+    "generated_at": "2025-07-26T15:11:04.345196Z"
   },
   "abilities": {
     "0": {
@@ -4657,10 +4657,10 @@
     },
     "664": {
       "id": 664,
-      "name": "Flame Bubble",
-      "written": true,
+      "name": "Ability 664",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "665": {
       "id": 665,
@@ -10126,10 +10126,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "664": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "665": {
       "indicator": "🟠",

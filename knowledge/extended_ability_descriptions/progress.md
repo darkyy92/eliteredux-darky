@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 864
+Completed: 863
 In Progress: 0
 
 ## Progress Tracking
@@ -672,7 +672,7 @@ In Progress: 0
 | 661 | Unlocked Potential         | ✅       | ✅        |
 | 662 | Higher Rank                | ✅       | ✅        |
 | 663 | Ability 663                | ❌       | ❌        |
-| 664 | Flame Bubble               | ✅       | ❌        |
+| 664 | Ability 664                | ❌       | ❌        |
 | 665 | Elemental Vortex           | ✅       | ❌        |
 | 666 | Snowy Wrath                | ✅       | ❌        |
 | 667 | Pattern Change             | ✅       | ❌        |
