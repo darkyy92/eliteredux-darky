@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 459,
+    "completed": 460,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T17:40:06.058706Z"
+    "generated_at": "2025-07-26T17:41:08.492271Z"
   },
   "abilities": {
     "0": {
@@ -4806,8 +4806,8 @@
       "id": 685,
       "name": "Hospitality",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "686": {
       "id": 686,
@@ -10252,10 +10252,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "685": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "686": {
       "indicator": "🟠",

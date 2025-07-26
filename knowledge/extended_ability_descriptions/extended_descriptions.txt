@@ -2012,7 +2012,7 @@ Boosts pulse, beam, ball, and aura moves by 30%. Eliminates recharge turns when 
 Allows all contact moves to bypass protection moves and ignore any secondary effects associated with them. Super-effective damaging moves never miss and always land critical hits.
 
 # ID: 685
-When this Pokemon switches into battle, it immediately heals its doubles partner for 25% of the partner's maximum HP. This welcoming gesture ensures allies stay healthy and battle-ready, embodying true hospitality by prioritizing teammate welfare above all else with consistent healing.
+When this Pokemon switches into battle, it heals its ally for 25% of the their max HP.
 
 # ID: 686
 On switch-in, Butter Up heals allies for 25% of their max HP (Hospitality) and cures all status conditions for the entire party (Soothing Aroma). Both effects trigger simultaneously upon entering battle. Invaluable support ability for doubles, providing instant healing and cleansing.
