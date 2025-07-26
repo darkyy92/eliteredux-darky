@@ -1964,7 +1964,7 @@ Summons hail for 8 turns (12 with Icy Rock) when entering battle. Hail damages n
 Before each attack, the user overrides their type to match their move's type. At the end of each turn, there's a 30% chance for the user to cure status conditions afflicted on them.
 
 # ID: 668
-When HP drops to half or below for the first time, the Pokemon's fighting spirit awakens. All stats increase by one stage while becoming trapped in battle, unable to switch out or flee. This desperate transformation from weakness to strength embodies a cornered warrior's final stand.
+When HP drops to half or below for the first time, all stats increase by one stage and the user becomes unable to switch out or flee. Normal ways to bypass this effects such as Eject Button or Shed Shell still allow switching out.
 
 # ID: 669
 Transforms Lumbering Sloth into its Engulfed form when hit by Fire-type moves or when using Fire-type moves. The transformation changes the Pokemon from Normal/Grass to Fire/Grass type, dramatically increasing Attack and granting abilities like Volcano Rage, Protosynthesis, Tough Claws, Pyromancy.

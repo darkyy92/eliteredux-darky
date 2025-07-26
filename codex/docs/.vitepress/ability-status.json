@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 440,
+    "completed": 441,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T15:55:26.725455Z"
+    "generated_at": "2025-07-26T16:06:16.072006Z"
   },
   "abilities": {
     "0": {
@@ -4687,8 +4687,8 @@
       "id": 668,
       "name": "No Turning Back",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "669": {
       "id": 669,
@@ -10150,10 +10150,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "668": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "669": {
       "indicator": "🟠",
