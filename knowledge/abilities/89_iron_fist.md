@@ -1,8 +1,8 @@
 ---
 id: 89
 name: Iron Fist
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 42
 ---
 
 # Iron Fist - Ability ID 89
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Fist boosts the power of all punching moves by 30%. Affects moves like Fire Punch, Ice Punch, Thunder Punch, Mach Punch, Bullet Punch, and Hammer Arm. The boost stacks multiplicatively with other damage modifiers like STAB and weather. Essential for physical fighters using punching attacks.
+Boosts the power of punching moves by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
