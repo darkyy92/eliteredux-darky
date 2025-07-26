@@ -1,8 +1,8 @@
 ---
 id: 85
 name: Heatproof
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 92
 ---
 
 # Heatproof - Ability ID 85
@@ -13,7 +13,7 @@ Halves damage taken from Fire-type moves. Takes no burn damage.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. Can still be inflicted with burn but suffers no harmful effects. Allows burn status for Guts synergy and Facade power boosts while defending against Fire-type attacks.
+Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status. 
 
 ## Detailed Mechanical Explanation
 **Heatproof** provides comprehensive protection against Fire-type attacks and burn effects, but with a crucial distinction regarding burn status.
