@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 460,
+    "completed": 461,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T17:42:40.688938Z"
+    "generated_at": "2025-07-26T17:43:58.939972Z"
   },
   "abilities": {
     "0": {
@@ -4813,8 +4813,8 @@
       "id": 686,
       "name": "Butter Up",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "687": {
       "id": 687,
@@ -10258,10 +10258,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "686": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "687": {
       "indicator": "🟠",

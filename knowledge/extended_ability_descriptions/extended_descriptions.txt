@@ -2015,7 +2015,7 @@ Allows all contact moves to bypass protection moves and ignore any secondary eff
 When this Pokemon switches into battle, it heals its ally for 25% of their max HP.
 
 # ID: 686
-On switch-in, Butter Up heals allies for 25% of their max HP (Hospitality) and cures all status conditions for the entire party (Soothing Aroma). Both effects trigger simultaneously upon entering battle. Invaluable support ability for doubles, providing instant healing and cleansing.
+On entry, heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon; and heals its ally for 25% of their max HP.
 
 # ID: 687
 When the user deals damage with punching moves (Iron Fist boosted moves), it recovers HP equal to 10% of damage dealt. This vampiric effect only triggers when not at full HP and capable of healing, providing sustainable recovery for punch-focused attackers in extended battles against foes.

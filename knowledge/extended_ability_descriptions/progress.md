@@ -694,7 +694,7 @@ In Progress: 0
 | 683 | Master Hand                | ✅       | ✅        |
 | 684 | Final Blow                 | ✅       | ✅        |
 | 685 | Hospitality                | ✅       | ✅        |
-| 686 | Butter Up                  | ✅       | ❌        |
+| 686 | Butter Up                  | ✅       | ✅        |
 | 687 | Vitality Strike            | ✅       | ❌        |
 | 688 | Huge Wings                 | ✅       | ❌        |
 | 689 | Sword of Damnation         | ✅       | ❌        |
