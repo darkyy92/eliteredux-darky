@@ -1922,7 +1922,7 @@ Boosts all physical moves by 20% damage and they have a 20% chance to either inf
 Restores 1/12 of the user's maximum HP at the end of each turn while under Misty Terrain. Also restores 33% of maximum HP when switching out. This heal is not blocked by Heal Block.
 
 # ID: 652
-Sugar Rush doubles the Pokemon's Speed stat after consuming its held item. When a held item is used up or removed, the ability activates and provides a 2x Speed boost for the rest of the battle. This makes it perfect for setup strategies using consumable items.
+When consuming or losing a held item, the user's base Speed stat is multiplied by x2. Boost goes away when switching out, gaining a new item, or upon losing the ability. Doubles all beneficial berry effects.
 
 # ID: 653
 Peaceful Rest grants gradual healing during fog weather. When fog is active, the Pokemon restores 1/8 of its maximum HP at the end of each turn, provided it isn't at full health and can heal. This ability excels in prolonged battles, offering sustained recovery in foggy conditions.

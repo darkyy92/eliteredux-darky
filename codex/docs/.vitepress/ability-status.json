@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 424,
+    "completed": 425,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T14:29:40.665132Z"
+    "generated_at": "2025-07-26T14:35:52.999312Z"
   },
   "abilities": {
     "0": {
@@ -4575,8 +4575,8 @@
       "id": 652,
       "name": "Sugar Rush",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "653": {
       "id": 653,
@@ -10054,10 +10054,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "652": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "653": {
       "indicator": "🟠",
