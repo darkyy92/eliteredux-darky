@@ -1,8 +1,8 @@
 ---
 id: 661
 name: Unlocked Potential
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 293
 ---
 
 # Unlocked Potential - Ability ID 661
@@ -13,7 +13,7 @@ Inner Focus + Berserk.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This hybrid ability combines Inner Focus precision with Berserk fury. When hit below half HP, raises the highest attacking stat by one stage. Also provides taunt immunity and makes Focus Blast always hit, perfect for Pokemon seeking defensive resilience and offensive precision.
+Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. When the user drops to half HP or below from an opposing attack, boosting its highest attacking stat by one stage. Triggers only once per battle. Other damage sources that bring you to half HP or below will not activate it.
 
 ## Detailed Mechanical Explanation
 
