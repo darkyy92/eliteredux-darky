@@ -1022,7 +1022,7 @@ Absorbs Poison-type moves to heal 25% max HP instead of taking damage. On Toxic 
 When this Pokemon defeats an opponent with a direct hit, it immediately regains 25% of its maximum HP.
 
 # ID: 347
-Pokemon with multiple heads attack 2-3 times per move based on their anatomy. Two-headed Pokemon strike twice (1st hit does 100%, 2nd does 25%), three-headed hit thrice (1st hit does 100%, 2nd does 20%, 3rd does 15%). Each hit rolls secondary effects independently. Bypasses Fort Knox/Wonder Skin.
+Attack 2-3 times per move based on number of heads. Two-headed Pokemon strike twice (1st hit does 100%, 2nd does 25%), three-headed hit thrice (1st hit does 100%, 2nd does 20%, 3rd does 15%). Each hit rolls secondary effects independently (except flinch). Bypasses Fort Knox/Wonder Skin.
 
 # ID: 348
 Sets up Aurora Veil upon entering battle, cutting physical and special damage recieved by half for your entire team. Aurora Veil lasts 3 turns, or 5 turns with Light Clay. The user is also immune to Hail damage. Cannot trigger again if Aurora Veil is already active.
