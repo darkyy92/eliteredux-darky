@@ -644,7 +644,7 @@ When any Pokemon on the field uses a dance move, this Pokemon immediately uses t
 Battery provides a 30% boost to ally Pokemon's Special attacks in double battles. Does not affect the user's own moves.
 
 # ID: 218
-Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage. Multiplicative with other forms of damage reduction.
+Fluffy reduces damage from contact moves by 50%. Fire-type moves to deal double damage to the user. Multiplicative with other forms of damage reduction.
 
 # ID: 219
 Dazzling blocks all priority moves from opponents targeting the user or allies.
@@ -1994,7 +1994,7 @@ On entry, gives +1 priority to the first biting move used. Priority boost is con
 Removes stat raises from opposing Pokemon, then drops their Speed by 1 stage.
 
 # ID: 678
-This ability makes the Pokemon extremely fluffy and soft, providing exceptional protection against physical contact moves by reducing contact damage by 75%. However, this incredible fluffiness comes with a significant drawback - the Pokemon becomes vulnerable to fire attacks, taking double damage.
+Reduces damage from contact moves by 75%. Fire-type moves to deal x4 damage to the user. Multiplicative with other forms of damage reduction.
 
 # ID: 679
 Way of Precision combines Inner Focus and Precise Fist into a devastating martial arts ability. This makes Focus Blast never miss while dramatically enhancing all punching moves through increased critical hit rates and amplified secondary effects that activate 5x more often than normal.

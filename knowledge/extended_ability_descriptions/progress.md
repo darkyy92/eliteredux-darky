@@ -686,7 +686,7 @@ In Progress: 0
 | 675 | Max Acceleration           | ✅       | ✅        |
 | 676 | Sidewinder                 | ✅       | ✅        |
 | 677 | Petrify                    | ✅       | ✅        |
-| 678 | Fluffiest                  | ✅       | ❌        |
+| 678 | Fluffiest                  | ✅       | ✅        |
 | 679 | Way of Precision           | ✅       | ❌        |
 | 680 | Way of Swiftness           | ✅       | ❌        |
 | 681 | Atomic Punch               | ✅       | ❌        |
