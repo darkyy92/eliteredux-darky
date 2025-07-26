@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 431,
+    "completed": 432,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T15:01:12.856746Z"
+    "generated_at": "2025-07-26T15:02:08.942010Z"
   },
   "abilities": {
     "0": {
@@ -4624,8 +4624,8 @@
       "id": 659,
       "name": "Superconductor",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "660": {
       "id": 660,
@@ -10096,10 +10096,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "659": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "660": {
       "indicator": "🟠",

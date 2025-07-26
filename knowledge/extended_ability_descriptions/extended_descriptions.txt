@@ -1943,7 +1943,7 @@ Boosts the power of all sound-based moves by 20% and converts Normal-type sound 
 Keen Edge moves gain a 30% damage boost and target Special Defense instead of Defense.
 
 # ID: 659
-This ability transforms Steel-type attacks into highly conductive Electric-type energy. All Steel-type moves become Electric-type and receive a 10% power boost, creating devastating electrical assaults that bypass Steel resistances while capitalizing on Electric-type advantages.
+All Steel-type moves become Electric-type instead and receive a 10% power boost.
 
 # ID: 660
 Ultra Instinct grants dual defensive benefits. When hit by contact moves, the Pokemon automatically counters with Vacuum Wave without using a turn. All incoming damage is reduced by 20%, making the user more durable while punishing physical attackers with instant Fighting-type retaliation.
