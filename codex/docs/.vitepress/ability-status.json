@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 433,
+    "completed": 434,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T15:03:32.723353Z"
+    "generated_at": "2025-07-26T15:06:08.551662Z"
   },
   "abilities": {
     "0": {
@@ -4638,8 +4638,8 @@
       "id": 661,
       "name": "Unlocked Potential",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "662": {
       "id": 662,
@@ -10108,10 +10108,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "661": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "662": {
       "indicator": "🟠",

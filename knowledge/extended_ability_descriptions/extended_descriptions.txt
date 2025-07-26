@@ -1949,7 +1949,7 @@ All Steel-type moves become Electric-type instead and receive a 10% power boost.
 Reduces all damage by 20%. Multiplicative with other damage reduction sources. Counters contact moves with Vacuum Wave (40 BP Fighting-type, Special, +1 priority).
 
 # ID: 661
-This hybrid ability combines Inner Focus precision with Berserk fury. When hit below half HP, raises the highest attacking stat by one stage. Also provides taunt immunity and makes Focus Blast always hit, perfect for Pokemon seeking defensive resilience and offensive precision.
+Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. When the user drops to half HP or below from an opposing attack, boosting its highest attacking stat by one stage. Triggers only once per battle. Other damage sources that bring you to half HP or below will not activate it.
 
 # ID: 662
 Higher Rank grants elite Pokemon authority to make priority moves more devastating. When using moves with increased priority (+1 or higher), attacks receive a 20% damage boost, reflecting superior tactical positioning and refined combat techniques that strike harder during decisive moments.
