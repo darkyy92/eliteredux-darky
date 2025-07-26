@@ -2,7 +2,7 @@
 id: 642
 name: Jackhammer
 status: reviewed
-character_count: 132
+character_count: 148
 ---
 
 # Jackhammer - Ability ID 642
@@ -13,7 +13,7 @@ Hammer moves hit twice in succession.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
+Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 ## Detailed Mechanical Explanation
 
