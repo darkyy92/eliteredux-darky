@@ -1,8 +1,8 @@
 ---
 id: 678
 name: Fluffiest
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 141
 ---
 
 # Fluffiest - Ability ID 678
@@ -13,7 +13,7 @@ Quarters contact damage taken. 2x weak to fire.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This ability makes the Pokemon extremely fluffy and soft, providing exceptional protection against physical contact moves by reducing contact damage by 75%. However, this incredible fluffiness comes with a significant drawback - the Pokemon becomes vulnerable to fire attacks, taking double damage.
+Reduces damage from contact moves by 75%. Fire-type moves to deal x4 damage to the user. Multiplicative with other forms of damage reduction.
 
 ## Detailed Mechanical Explanation
 
