@@ -659,7 +659,7 @@ In Progress: 0
 | 648 | On the Prowl               | ✅       | ✅        |
 | 649 | Pretentious                | ✅       | ✅        |
 | 650 | Venoblaze Pincers          | ✅       | ✅        |
-| 651 | Eternal Blessing           | ✅       | ❌        |
+| 651 | Eternal Blessing           | ✅       | ✅        |
 | 652 | Sugar Rush                 | ✅       | ❌        |
 | 653 | Peaceful Rest              | ✅       | ❌        |
 | 654 | White Noise                | ✅       | ❌        |

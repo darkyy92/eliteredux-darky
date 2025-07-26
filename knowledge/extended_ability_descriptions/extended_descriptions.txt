@@ -1919,7 +1919,7 @@ Boosts the user's critical hit ratio by one stage whenever it knocks out an oppo
 Boosts all physical moves by 20% damage and they have a 20% chance to either inflict Burn or Poison on contact.
 
 # ID: 651
-Eternal Blessing combines the regenerative powers of Celestial Blessing and Regenerator into one divine ability. While under Misty Terrain, the Pokemon recovers 1/12 of its maximum HP at the end of each turn, granting exceptional longevity. When switching out, it regains 1/3 of its maximum HP.
+Restores 1/12 of the user's maximum HP at the end of each turn while under Misty Terrain. Also restores 33% of maximum HP when switching out. This heal is not blocked by Heal Block.
 
 # ID: 652
 Sugar Rush doubles the Pokemon's Speed stat after consuming its held item. When a held item is used up or removed, the ability activates and provides a 2x Speed boost for the rest of the battle. This makes it perfect for setup strategies using consumable items.
