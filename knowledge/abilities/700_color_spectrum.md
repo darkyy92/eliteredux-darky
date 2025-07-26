@@ -1,8 +1,8 @@
 ---
 id: 700
 name: Color Spectrum
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 97
 ---
 
 # Color Spectrum - Ability ID 700
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Color Spectrum gives same-type attacks a 1.2x damage boost instead of the usual 1.5x STAB multiplier. At the end of each turn, the Pokemon randomly changes to a completely new type, avoiding Mystery and Stellar types. Both primary and secondary typing become the newly chosen type.
+STAB moves are boosted by 20%. The user changes to a random Pure type at the start of every turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
