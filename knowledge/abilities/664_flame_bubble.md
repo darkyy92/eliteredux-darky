@@ -1,8 +1,8 @@
 ---
 id: 664
 name: Flame Bubble
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 227
 ---
 
 # Flame Bubble - Ability ID 664
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flame Bubble combines Water Bubble and Flaming Soul effects. Fire damage taken is halved, Water moves deal double damage, and the Pokémon is immune to burns. Fire-type moves gain +1 priority when at full HP. Perfect for mixed Fire/Water attackers needing defensive utility.
+Doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burns, removing existing burns upon gaining the ability. Grants +1 priority to Fire-type moves when at full HP.
 
 *Character count: 296*
 
@@ -25,7 +25,7 @@ Flame Bubble is a powerful hybrid ability that combines all the effects of Water
 ### Water Bubble Components:
 - **Fire Resistance**: Takes 50% damage from Fire-type moves (using Heatproof's defensive multiplier)
 - **Water Power**: Water-type moves deal 2x damage
-- **Burn Immunity**: Cannot be burned, and if the Pokémon already has burn status when gaining this ability, the burn is removed
+- **Burn Immunity**: Cannot be burned, and if the Pok�mon already has burn status when gaining this ability, the burn is removed
 
 ### Flaming Soul Component:
 - **Priority Fire Moves**: Fire-type moves gain +1 priority when the user is at maximum HP (similar to Gale Wings)
