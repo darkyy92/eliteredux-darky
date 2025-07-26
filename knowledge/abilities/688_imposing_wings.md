@@ -1,8 +1,8 @@
 ---
 id: 688
 name: Huge Wings
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 76
 ---
 
 # Huge Wings - Ability ID 688
@@ -13,7 +13,7 @@ Huge Wings ability effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines the flight mastery of giant wings with magical levitation. Boosts all Flying-type moves by 25% and grants a 30% power increase to air-based moves like Fly, Bounce, and Sky Attack. Provides complete immunity to Ground-type moves and hazards while floating above the battlefield.
+Boosts the power of all wing, wind, and air-based moves by 30%. Additionally 
 
 ## Detailed Mechanical Explanation
 
