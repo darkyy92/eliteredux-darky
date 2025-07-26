@@ -2072,7 +2072,7 @@ Boosts offensive moves by 50% while the user has any status condition. When the 
 Sets a burning trap on the opponent's side when the user switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Consumed when triggered. Does not stack multiple traps.
 
 # ID: 705
-Terastal Treasure reduces incoming damage by 40% while lowering the Pokemon's Speed by 20%. This defensive trade-off allows tanks to survive powerful attacks at the cost of reduced priority. The damage reduction applies to all forms of damage including physical, special, and status-based damage.
+Reduces incoming damage by 40% while lowering the Pokemon's Speed by 20%. Multiplicative with other sources of damage reduction.
 
 # ID: 706
 Shocking Maw combines Strong Jaw and paralysis effects for bite moves. Strong Jaw boosts bite move power by 30% while each bite move has a 50% chance to paralyze the target. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, and other biting attacks.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 481,
+    "completed": 482,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T23:47:31.769749Z"
+    "generated_at": "2025-07-26T23:51:22.490725Z"
   },
   "abilities": {
     "0": {
@@ -4946,8 +4946,8 @@
       "id": 705,
       "name": "Terastal Treasure",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "706": {
       "id": 706,
@@ -10372,10 +10372,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "705": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "706": {
       "indicator": "🟠",

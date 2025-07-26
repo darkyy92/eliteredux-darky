@@ -713,7 +713,7 @@ In Progress: 0
 | 702 | From the Shadows           | ✅       | ✅        |
 | 703 | Rage Point                 | ✅       | ✅        |
 | 704 | Hot Coals                  | ✅       | ✅        |
-| 705 | Terastal Treasure          | ✅       | ❌        |
+| 705 | Terastal Treasure          | ✅       | ✅        |
 | 706 | Shocking Maw               | ✅       | ❌        |
 | 707 | Gleam Eyes                 | ✅       | ❌        |
 | 708 | Roused Fangs               | ✅       | ❌        |
