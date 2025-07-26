@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 434,
+    "completed": 435,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T15:06:08.551662Z"
+    "generated_at": "2025-07-26T15:06:57.004463Z"
   },
   "abilities": {
     "0": {
@@ -284,8 +284,8 @@
       "id": 39,
       "name": "Inner Focus",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "40": {
       "id": 40,
@@ -6376,10 +6376,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "39": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "40": {
       "indicator": "🟠",

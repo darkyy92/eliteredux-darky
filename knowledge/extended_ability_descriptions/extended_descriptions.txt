@@ -110,7 +110,7 @@ Huge Power doubles the Pokemon's Attack stat before stat stage modifiers are app
 Poison Point has a 30% chance to poison opponents when making or receiving contact moves. Works both defensively when attacked with contact moves and offensively when using contact moves. The poison inflicts 1/8 max HP damage each turn. Bypasses Safeguard protection when triggered by ability.
 
 # ID: 39
-Inner Focus provides immunity to flinching, Intimidate-like effects (Intimidate, Scare, Fearmonger, etc.), and status conditions from Taunt. Additionally, when this Pokemon uses Focus Blast, it bypasses accuracy checks and always hits the target, improving its battle reliability.
+Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare.
 
 # ID: 40
 Magma Armor grants complete immunity to the frostbite status condition and reduces damage from Water and Ice-type moves by 30%. This defensive ability is particularly effective against Ice-type Pokemon and moves that inflict frostbite. The resistance helps mitigate common weaknesses.
