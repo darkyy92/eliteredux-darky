@@ -1979,7 +1979,7 @@ Opponents deal minimum damage rolls when attacking, forcing 85% damage instead o
 Boosts ally attacks by 25%, or by 50% if it is a recoil move. The user receives no boost.
 
 # ID: 673
-This terrifying ability causes the user to perpetually bleed, taking 1/16 maximum HP damage each turn. The bleeding condition cannot be healed by any means and spreads to opposing Pokemon making physical contact. Ghost and Rock types are immune to infection, but the original user remains affected.
+Pokemon with this ability gain an unremovable bleed status condition. When the user contact offensively or defensively with another Pokemon who does not have this ability, it replaces their current ability and causes bleeding.
 
 # ID: 674
 Blood Stigma doubles the power of all moves when attacking a target that is bleeding or affected by Blood Stain. This ability grants complete immunity to all major status conditions and is unsuppressable, making it a formidable offensive tool against bleeding foes while offering defensive utility.

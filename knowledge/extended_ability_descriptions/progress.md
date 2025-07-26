@@ -681,7 +681,7 @@ In Progress: 0
 | 670 | Draco Morale               | ✅       | ✅        |
 | 671 | Bad Omen                   | ✅       | ❌        |
 | 672 | Mosh Pit                   | ✅       | ✅        |
-| 673 | Blood Stain                | ✅       | ❌        |
+| 673 | Blood Stain                | ✅       | ✅        |
 | 674 | Blood Stigma               | ✅       | ❌        |
 | 675 | Max Acceleration           | ✅       | ❌        |
 | 676 | Sidewinder                 | ✅       | ❌        |
