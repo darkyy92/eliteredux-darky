@@ -2054,7 +2054,7 @@ Dragon's Ritual is a powerful draconic ability that enhances the user's connecti
 All Keen Edge moves can never miss, and they bypass protection moves and ignore any secondary effects associated with them.
 
 # ID: 699
-Energized charges up the Pokemon on entry or when Electric Terrain is active, like Generator. Additionally charges up when knocking out an opponent with an Electric-type move. Charged status doubles the power of all Electric-type moves until used.
+Charges up the user once upon switching in, doubling Electric-type move power for the next Electric attack. Recharge when Electric Terrain becomes active during battle. Charged state is lost upon switching out or after using an Electric move. Recharges when scoring a direct KO with an Electric move.
 
 # ID: 700
 Color Spectrum gives same-type attacks a 1.2x damage boost instead of the usual 1.5x STAB multiplier. At the end of each turn, the Pokemon randomly changes to a completely new type, avoiding Mystery and Stellar types. Both primary and secondary typing become the newly chosen type.

@@ -707,7 +707,7 @@ In Progress: 0
 | 696 | Apex Predator              | ✅       | ✅        |
 | 697 | Dragon's Ritual            | ✅       | ❌        |
 | 698 | Pinnacle Blade             | ✅       | ✅        |
-| 699 | Energized                  | ✅       | ❌        |
+| 699 | Energized                  | ✅       | ✅        |
 | 700 | Color Spectrum             | ✅       | ❌        |
 | 701 | Steel Beetle               | ✅       | ❌        |
 | 702 | From the Shadows           | ✅       | ❌        |
