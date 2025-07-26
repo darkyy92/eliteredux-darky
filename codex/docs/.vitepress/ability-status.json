@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 458,
+    "completed": 459,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T17:38:38.854064Z"
+    "generated_at": "2025-07-26T17:40:06.058706Z"
   },
   "abilities": {
     "0": {
@@ -4799,8 +4799,8 @@
       "id": 684,
       "name": "Final Blow",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "685": {
       "id": 685,
@@ -10246,10 +10246,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "684": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "685": {
       "indicator": "🟠",

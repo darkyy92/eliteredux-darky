@@ -2009,7 +2009,7 @@ Halves damage from Fire-type moves. Immune to burn damage and Attack drops from 
 Boosts pulse, beam, ball, and aura moves by 30%. Eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 # ID: 684
-Final Blow grants devastating precision by bypassing all protective moves like Protect and Detect. When using super effective attacks, this ability ensures perfect accuracy and guaranteed critical hits, making the Pokemon exceptionally dangerous against vulnerable opponents in battle.
+Allows all contact moves to bypass protection moves and ignore any secondary effects associated with them. Super-effective damaging moves never miss and always land critical hits.
 
 # ID: 685
 When this Pokemon switches into battle, it immediately heals its doubles partner for 25% of the partner's maximum HP. This welcoming gesture ensures allies stay healthy and battle-ready, embodying true hospitality by prioritizing teammate welfare above all else with consistent healing.

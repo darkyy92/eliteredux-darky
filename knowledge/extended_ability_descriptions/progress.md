@@ -692,7 +692,7 @@ In Progress: 0
 | 681 | Ability 681                | ❌       | ❌        |
 | 682 | Iron Giant                 | ✅       | ✅        |
 | 683 | Master Hand                | ✅       | ✅        |
-| 684 | Final Blow                 | ✅       | ❌        |
+| 684 | Final Blow                 | ✅       | ✅        |
 | 685 | Hospitality                | ✅       | ❌        |
 | 686 | Butter Up                  | ✅       | ❌        |
 | 687 | Vitality Strike            | ✅       | ❌        |
