@@ -2018,7 +2018,7 @@ When this Pokemon switches into battle, it heals its ally for 25% of their max H
 On entry, heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon; and heals its ally for 25% of their max HP.
 
 # ID: 687
-When the user deals damage with punching moves (Iron Fist boosted moves), it recovers HP equal to 10% of damage dealt. This vampiric effect only triggers when not at full HP and capable of healing, providing sustainable recovery for punch-focused attackers in extended battles against foes.
+When dealing damage with punching moves, recover HP equal to 10% of damage dealt.
 
 # ID: 688
 Combines the flight mastery of giant wings with magical levitation. Boosts all Flying-type moves by 25% and grants a 30% power increase to air-based moves like Fly, Bounce, and Sky Attack. Provides complete immunity to Ground-type moves and hazards while floating above the battlefield.

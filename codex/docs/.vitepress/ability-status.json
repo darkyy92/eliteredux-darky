@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 461,
+    "completed": 462,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T17:43:58.939972Z"
+    "generated_at": "2025-07-26T17:44:47.576985Z"
   },
   "abilities": {
     "0": {
@@ -4820,8 +4820,8 @@
       "id": 687,
       "name": "Vitality Strike",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "688": {
       "id": 688,
@@ -10264,10 +10264,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "687": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "688": {
       "indicator": "🟠",

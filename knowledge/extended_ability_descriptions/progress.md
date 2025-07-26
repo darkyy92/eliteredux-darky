@@ -695,7 +695,7 @@ In Progress: 0
 | 684 | Final Blow                 | ✅       | ✅        |
 | 685 | Hospitality                | ✅       | ✅        |
 | 686 | Butter Up                  | ✅       | ✅        |
-| 687 | Vitality Strike            | ✅       | ❌        |
+| 687 | Vitality Strike            | ✅       | ✅        |
 | 688 | Huge Wings                 | ✅       | ❌        |
 | 689 | Sword of Damnation         | ✅       | ❌        |
 | 690 | Restraining Order          | ✅       | ❌        |
