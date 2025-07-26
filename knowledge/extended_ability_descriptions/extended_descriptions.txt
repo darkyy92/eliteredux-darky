@@ -1940,7 +1940,7 @@ When an enemy attempts to switch out, automatically trigger a 20 BP Pursuit to p
 Boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Steel-type.
 
 # ID: 658
-Power Edge enhances all slashing attacks by 30% while forcing them to target Special Defense instead of Defense. This transforms physical slashing moves into mixed attackers that exploit weaker special bulk. Perfect for breaking through defensive walls.
+Keen Edge moves gain a 30% damage boost and target Special Defense instead of Defense.
 
 # ID: 659
 This ability transforms Steel-type attacks into highly conductive Electric-type energy. All Steel-type moves become Electric-type and receive a 10% power boost, creating devastating electrical assaults that bypass Steel resistances while capitalizing on Electric-type advantages.

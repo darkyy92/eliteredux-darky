@@ -666,7 +666,7 @@ In Progress: 0
 | 655 | Smokey Maneuvers           | ✅       | ✅        |
 | 656 | Tag                        | ✅       | ✅        |
 | 657 | Power Metal                | ✅       | ✅        |
-| 658 | Power Edge                 | ✅       | ❌        |
+| 658 | Power Edge                 | ✅       | ✅        |
 | 659 | Superconductor             | ✅       | ❌        |
 | 660 | Ultra Instinct             | ✅       | ❌        |
 | 661 | Unlocked Potential         | ✅       | ❌        |
