@@ -1,8 +1,8 @@
 ---
 id: 199
 name: Water Bubble
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 172
 ---
 
 # Water Bubble - Ability ID 199
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Water Bubble creates a protective bubble that doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burn status, removing existing burns upon gaining the ability. Elite Redux's multi-ability system.
+Doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burns, removing existing burns upon gaining the ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
