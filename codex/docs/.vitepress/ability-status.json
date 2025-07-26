@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 441,
+    "completed": 442,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T16:06:16.072006Z"
+    "generated_at": "2025-07-26T16:10:16.017993Z"
   },
   "abilities": {
     "0": {
@@ -4694,8 +4694,8 @@
       "id": 669,
       "name": "Flammable Coat",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "670": {
       "id": 670,
@@ -10156,10 +10156,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "669": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "670": {
       "indicator": "🟠",

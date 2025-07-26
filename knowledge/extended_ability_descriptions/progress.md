@@ -677,7 +677,7 @@ In Progress: 0
 | 666 | Snowy Wrath                | ✅       | ✅        |
 | 667 | Pattern Change             | ✅       | ✅        |
 | 668 | No Turning Back            | ✅       | ✅        |
-| 669 | Flammable Coat             | ✅       | ❌        |
+| 669 | Flammable Coat             | ✅       | ✅        |
 | 670 | Draco Morale               | ✅       | ❌        |
 | 671 | Bad Omen                   | ✅       | ❌        |
 | 672 | Mosh Pit                   | ✅       | ❌        |
