@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 429,
+    "completed": 430,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T14:58:51.687302Z"
+    "generated_at": "2025-07-26T15:00:17.006300Z"
   },
   "abilities": {
     "0": {
@@ -4610,8 +4610,8 @@
       "id": 657,
       "name": "Power Metal",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "658": {
       "id": 658,
@@ -10084,10 +10084,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "657": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "658": {
       "indicator": "🟠",

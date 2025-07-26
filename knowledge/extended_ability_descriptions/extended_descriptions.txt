@@ -1937,7 +1937,7 @@ Fog reduces incoming move accuracy targeting the user by 25%.
 When an enemy attempts to switch out, automatically trigger a 20 BP Pursuit to prevent them from leaving.
 
 # ID: 657
-Power Metal transforms Normal-type sound moves into Steel-type and boosts all sound-based moves by 20%. This metallic enhancement represents the Pokemon's ability to channel sound waves through steel, creating resonant frequencies that amplify power while hardening sound into metallic vibrations.
+Boosts the power of all sound-based moves by 20% and converts Normal-type sound moves to Steel-type.
 
 # ID: 658
 Power Edge enhances all slashing attacks by 30% while forcing them to target Special Defense instead of Defense. This transforms physical slashing moves into mixed attackers that exploit weaker special bulk. Perfect for breaking through defensive walls.
