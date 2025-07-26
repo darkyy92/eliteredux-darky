@@ -699,7 +699,7 @@ In Progress: 0
 | 688 | Huge Wings                 | ✅       | ✅        |
 | 689 | Sword of Damnation         | ✅       | ✅        |
 | 690 | Restraining Order          | ✅       | ✅        |
-| 691 | Assassin's Tools           | ✅       | ❌        |
+| 691 | Assassin's Tools           | ✅       | ✅        |
 | 692 | Frostmaw                   | ✅       | ❌        |
 | 693 | Patchwork                  | ✅       | ❌        |
 | 694 | Blind Rage                 | ✅       | ❌        |

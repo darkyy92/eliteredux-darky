@@ -2030,7 +2030,7 @@ Reduces the Defense stat of every other Pokemon by 25% while the user is out. Mu
 When the user is hit by a contact move, they force the attacker to switch out to a random ally. Once per switch in.
 
 # ID: 691
-Like a master assassin's arsenal, this ability turns every physical strike into a potentially deadly encounter. When the Pokemon lands contact moves, there's a 30% chance of inflicting poison, paralysis, or bleeding on the target, chosen randomly from these three debilitating effects.
+When the user lands contact moves, there's a 30% chance of inflicting poison, paralysis, or bleeding on the target, chosen randomly. Multihits roll the activation chance on each hit.
 
 # ID: 692
 When this Pokemon uses a biting move like Bite, Crunch, or any Fang attack, there's a 50% chance the target will be inflicted with frostbite. Frostbitten Pokemon lose 1/16 of their maximum HP each turn and suffer a 50% reduction to their Special Attack stat until cured.
