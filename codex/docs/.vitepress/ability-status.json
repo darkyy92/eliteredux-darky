@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 480,
+    "completed": 481,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T23:44:42.406781Z"
+    "generated_at": "2025-07-26T23:46:02.403202Z"
   },
   "abilities": {
     "0": {
@@ -4939,8 +4939,8 @@
       "id": 704,
       "name": "Hot Coals",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "705": {
       "id": 705,
@@ -10366,10 +10366,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "704": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "705": {
       "indicator": "🟠",

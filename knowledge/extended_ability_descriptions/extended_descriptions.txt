@@ -2069,7 +2069,7 @@ When the user moves first in a turn, attacks gain a 20% chance to flinch and tra
 Boosts offensive moves by 50% while the user has any status condition. When the Pokemon takes a critical hit, both Attack and Special Attack are raised by one stage. Also negates burn's Attack drop and freeze's Special Attack drop.
 
 # ID: 704
-Hot Coals sets a burning trap on the opponent's side when the Pokemon switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Only affects the first switch-in and is consumed when triggered. Does not stack multiple traps.
+Sets a burning trap on the opponent's side when the user switches in. The next opposing Pokemon that switches in will be burned if they are grounded and can be burned. Consumed when triggered. Does not stack multiple traps.
 
 # ID: 705
 Terastal Treasure reduces incoming damage by 40% while lowering the Pokemon's Speed by 20%. This defensive trade-off allows tanks to survive powerful attacks at the cost of reduced priority. The damage reduction applies to all forms of damage including physical, special, and status-based damage.
