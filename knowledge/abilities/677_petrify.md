@@ -1,8 +1,8 @@
 ---
 id: 677
 name: Petrify
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 77
 ---
 
 # Petrify - Ability ID 677
@@ -13,7 +13,7 @@ Clears stat buffs then lowers attack by one stage on entry.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon switching in, Petrify activates both Intimidate-like effects and buff clearing simultaneously. It lowers the Attack stat of opposing Pokemon by one stage through its intimidate component, then completely strips away all positive stat boosts from enemy Pokemon, neutralizing any setup.
+Removes stat raises from opposing Pokemon, then drops their Speed by 1 stage.
 
 ## Detailed Mechanical Explanation
 
