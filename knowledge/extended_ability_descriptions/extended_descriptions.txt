@@ -800,7 +800,7 @@ Whiteout boosts the Pokemon's highest attacking stat by 50% during hail. Also gr
 Pyromancy multiplies the burn chance of all moves by 5x. Does not interact with Flame Body.
 
 # ID: 271
-Keen Edge boosts all slashing attacks by 30%. Stacks additively with other damage modifiers.
+Keen Edge boosts all slashing attacks by 30%.
 
 # ID: 272
 Prism Scales reduces damage from all Special attacks by 30%. Stacks multiplicatively with other damage reduction sources.
