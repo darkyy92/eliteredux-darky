@@ -2,7 +2,7 @@
 id: 644
 name: Ice Cold Hunter
 status: reviewed
-character_count: 142
+character_count: 158
 ---
 
 # Ice Cold Hunter - Ability ID 644
@@ -13,7 +13,7 @@ Ice-type moves hit twice in hail.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently. 
+Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently (except flinch). 
 
 ## Detailed Mechanical Explanation
 
