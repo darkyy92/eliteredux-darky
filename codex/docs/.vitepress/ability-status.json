@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 469,
+    "completed": 470,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T18:04:54.552374Z"
+    "generated_at": "2025-07-26T18:05:11.230895Z"
   },
   "abilities": {
     "0": {
@@ -739,8 +739,8 @@
       "id": 104,
       "name": "Mold Breaker",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "105": {
       "id": 105,
@@ -6766,10 +6766,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "104": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "105": {
       "indicator": "🟠",
