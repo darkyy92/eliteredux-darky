@@ -2042,7 +2042,7 @@ Patchwork functions identically to Disguise, but with a vengeful twist. When the
 The user can land Normal and Fighting-type moves on Ghost-type Pokemon for neutral damage. Also grants immunity to Intimidate and Scare. Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage.
 
 # ID: 695
-Slipstream combines velocity with power, adding 20% of the Pokemon's Speed stat as additional offensive damage. Fast Pokemon become devastating attackers where higher Speed directly boosts damage output. This creates synergy between speed and power, making speed investment valuable.
+Adds 20% of the user's Speed stat to damage when using attacks. Choice Scarf does not affect this ability.
 
 # ID: 696
 Combines Tough Claws' 30% contact move damage boost with Predator's healing effect. When knocking out an opponent, restores 25% max HP. This dual offensive-recovery ability excels in sweeping strategies, letting Pokemon chain knockouts while staying healthy through extended battles.
