@@ -706,7 +706,7 @@ In Progress: 0
 | 695 | Slipstream                 | ✅       | ✅        |
 | 696 | Apex Predator              | ✅       | ✅        |
 | 697 | Dragon's Ritual            | ✅       | ❌        |
-| 698 | Pinnacle Blade             | ✅       | ❌        |
+| 698 | Pinnacle Blade             | ✅       | ✅        |
 | 699 | Energized                  | ✅       | ❌        |
 | 700 | Color Spectrum             | ✅       | ❌        |
 | 701 | Steel Beetle               | ✅       | ❌        |

@@ -2051,7 +2051,7 @@ Contact moves are boosted by 30%. When the user knocks out an opponent with a di
 Dragon's Ritual is a powerful draconic ability that enhances the user's connection to dragon energy. This mystical ritual grants enhanced power and special effects when using Dragon-type moves, reflecting the Pokemon's mastery over ancient draconic techniques and elemental forces.
 
 # ID: 698
-This elite ability makes the user an unstoppable blade master. All slashing moves bypass accuracy checks for guaranteed hits and ignore protective measures, shattering screens like Reflect and Light Screen, destroying Substitutes, and penetrating Protect. Only affects moves with the slashing flag.
+All Keen Edge moves can never miss, and they bypass protection moves and ignore any secondary effects associated with them.
 
 # ID: 699
 Energized charges up the Pokemon on entry or when Electric Terrain is active, like Generator. Additionally charges up when knocking out an opponent with an Electric-type move. Charged status doubles the power of all Electric-type moves until used.
