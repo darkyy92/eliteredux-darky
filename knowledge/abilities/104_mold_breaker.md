@@ -1,8 +1,8 @@
 ---
 id: 104
 name: Mold Breaker
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 103
 ---
 
 # Mold Breaker - Ability ID 104
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mold Breaker allows moves to ignore the target's abilities and innate abilities that could interfere with or reduce damage. Only affects abilities marked as "breakable" - does not ignore protective abilities like Magic Guard or unsuppressable abilities. Bypasses all 4 Elite Redux ability slots.
+Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
