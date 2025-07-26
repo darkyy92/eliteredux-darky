@@ -709,7 +709,7 @@ In Progress: 0
 | 698 | Pinnacle Blade             | ✅       | ✅        |
 | 699 | Energized                  | ✅       | ✅        |
 | 700 | Color Spectrum             | ✅       | ✅        |
-| 701 | Steel Beetle               | ✅       | ❌        |
+| 701 | Steel Beetle               | ✅       | ✅        |
 | 702 | From the Shadows           | ✅       | ❌        |
 | 703 | Rage Point                 | ✅       | ❌        |
 | 704 | Hot Coals                  | ✅       | ❌        |
