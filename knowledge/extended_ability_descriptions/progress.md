@@ -700,7 +700,7 @@ In Progress: 0
 | 689 | Sword of Damnation         | ✅       | ✅        |
 | 690 | Restraining Order          | ✅       | ✅        |
 | 691 | Assassin's Tools           | ✅       | ✅        |
-| 692 | Frostmaw                   | ✅       | ❌        |
+| 692 | Frostmaw                   | ✅       | ✅        |
 | 693 | Patchwork                  | ✅       | ❌        |
 | 694 | Blind Rage                 | ✅       | ❌        |
 | 695 | Slipstream                 | ✅       | ❌        |

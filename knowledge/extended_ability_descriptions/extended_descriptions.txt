@@ -2033,7 +2033,7 @@ When the user is hit by a contact move, they force the attacker to switch out to
 When the user lands contact moves, there's a 30% chance of inflicting poison, paralysis, or bleeding on the target, chosen randomly. Multihits roll the activation chance on each hit.
 
 # ID: 692
-When this Pokemon uses a biting move like Bite, Crunch, or any Fang attack, there's a 50% chance the target will be inflicted with frostbite. Frostbitten Pokemon lose 1/16 of their maximum HP each turn and suffer a 50% reduction to their Special Attack stat until cured.
+Biting moves a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.
 
 # ID: 693
 Patchwork functions identically to Disguise, but with a vengeful twist. When the Pokemon's disguise is broken by taking damage, it automatically curses the attacker. The curse inflicts ongoing damage equal to 25% of the opponent's maximum HP each turn until they switch out or faint.
