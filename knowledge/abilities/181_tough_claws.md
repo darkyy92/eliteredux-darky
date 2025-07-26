@@ -1,8 +1,8 @@
 ---
 id: 181
 name: Tough Claws
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 33
 ---
 
 # Tough Claws - Ability ID 181
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Tough Claws enhances the user's close-range attacks. It boosts the power of all moves that make direct contact with the target by 30%. This includes many powerful physical attacks, allowing the user to inflict significantly more damage in battle. A great ability for Pokemon specializing in melee.
+Contact moves are boosted by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
