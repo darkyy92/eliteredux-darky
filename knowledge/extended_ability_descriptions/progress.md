@@ -42,7 +42,7 @@ In Progress: 0
 |  31 | Lightning Rod              | ✅       | ❌        |
 |  32 | Serene Grace               | ✅       | ❌        |
 |  33 | Swift Swim                 | ✅       | ❌        |
-|  34 | Chlorophyll                | ✅       | ❌        |
+|  34 | Chlorophyll                | ✅       | ✅        |
 |  35 | Illuminate                 | ✅       | ❌        |
 |  36 | Trace                      | ✅       | ❌        |
 |  37 | Huge Power                 | ✅       | ❌        |

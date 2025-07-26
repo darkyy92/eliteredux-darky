@@ -95,7 +95,7 @@ Doubles the chance of all secondary effects from this Pokemon's moves. Turns unr
 Swift Swim boosts the Pokemon's Speed by 50% during rain weather. Works with all forms of rain including regular rain, heavy rain, and Primordial Sea. The speed boost applies immediately when rain is active and disappears when rain ends. Stacks with other speed modifiers for sweeping potential.
 
 # ID: 34
-Chlorophyll harnesses solar energy to boost Speed by 50% in harsh sunlight. Works with all sun forms: regular (8 turns), permanent (Drought), and primal (Desolate Land). This ability excels in sun teams, enabling fast Solar Beam sweeps and outpacing threats. Pairs perfectly with Drought setters.
+Boosts the Pokemon's Speed by 50% during sun.
 
 # ID: 35
 Illuminate increases the accuracy of all moves used by the Pokemon by 20% (1.2x multiplier). Additionally, when this Pokemon is in the lead position of your party while exploring, it doubles the wild encounter rate, making it easier to find wild Pokemon in tall grass, caves, and water.
