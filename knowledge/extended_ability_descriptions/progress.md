@@ -688,7 +688,7 @@ In Progress: 0
 | 677 | Petrify                    | ✅       | ✅        |
 | 678 | Fluffiest                  | ✅       | ✅        |
 | 679 | Way of Precision           | ✅       | ✅        |
-| 680 | Way of Swiftness           | ✅       | ❌        |
+| 680 | Way of Swiftness           | ✅       | ✅        |
 | 681 | Atomic Punch               | ✅       | ❌        |
 | 682 | Iron Giant                 | ✅       | ❌        |
 | 683 | Master Hand                | ✅       | ❌        |

@@ -2000,7 +2000,7 @@ Reduces damage from contact moves by 75%. Fire-type moves to deal x4 damage to t
 Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. Punching moves gain +1 critical hit stage and 5x their normal secondary effect chance.
 
 # ID: 680
-Way of Swiftness combines the pride of battle with aquatic agility. When this Pokemon defeats an opponent, its critical hit ratio increases by one stage, channeling victory into precise strikes. Additionally, rainy weather doubles the user's Speed stat, enabling swift dominance.
+Boosts the user's critical hit ratio by one stage whenever it knocks out an opponent with a direct hit. Boosts the Pokemon's Speed by 50% during rain.
 
 # ID: 681
 Atomic Punch combines Iron Fist's 30% boost to punching moves with an additional 30% boost to all Steel-type moves. When using Steel-type punching moves like Meteor Mash or Bullet Punch, both effects multiply for a 69% total damage boost. Perfect for physical Steel attackers.
