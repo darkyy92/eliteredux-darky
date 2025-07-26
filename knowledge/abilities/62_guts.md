@@ -2,7 +2,7 @@
 id: 62
 name: Guts
 status: reviewed
-character_count: 136
+character_count: 133
 ---
 
 # Guts - Ability ID 62
@@ -13,7 +13,7 @@ character_count: 136
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts offensive moves by 50% while the user has any status condition. Also negates burn's Attack drop and freeze's Special Attack drop.
+Boosts Attack by 50% when suffering from any status condition. Only affects physical moves. Negates the Attack drop from burn status.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
