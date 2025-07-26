@@ -93,7 +93,7 @@ In Progress: 0
 |  82 | Gluttony                   | ✅       | ❌        |
 |  83 | Anger Point                | ✅       | ❌        |
 |  84 | Unburden                   | ✅       | ❌        |
-|  85 | Heatproof                  | ✅       | ❌        |
+|  85 | Heatproof                  | ✅       | ✅        |
 |  86 | Simple                     | ✅       | ❌        |
 |  87 | Dry Skin                   | ✅       | ❌        |
 |  88 | Download                   | ✅       | ❌        |
