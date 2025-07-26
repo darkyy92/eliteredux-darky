@@ -2,7 +2,7 @@
 id: 525
 name: Flaming Jaws
 status: reviewed
-character_count: 52
+character_count: 102
 ---
 
 # Flaming Jaws - Ability ID 525
@@ -13,7 +13,7 @@ character_count: 52
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Biting moves a 50% chance to burn the target on hit. 
+Biting moves a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
