@@ -1934,7 +1934,7 @@ The user has a 30% chance to inflict paralysis on contact moves, both when attac
 Fog reduces incoming move accuracy targeting the user by 25%.
 
 # ID: 656
-Tag makes the Pokemon a persistent hunter that never lets opponents escape. When an enemy attempts to switch out, this ability automatically triggers a pursuit-style attack that strikes the fleeing target with 20 base power, punishing switching strategies and maintaining pressure.
+When an enemy attempts to switch out, automatically trigger a 20 BP Pursuit to prevent them from leaving.
 
 # ID: 657
 Power Metal transforms Normal-type sound moves into Steel-type and boosts all sound-based moves by 20%. This metallic enhancement represents the Pokemon's ability to channel sound waves through steel, creating resonant frequencies that amplify power while hardening sound into metallic vibrations.
