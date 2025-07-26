@@ -2027,7 +2027,7 @@ Boosts the power of all wing, wind, and air-based moves by 30%. Additionally
 Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together. Ignores all stat stage changes during damage calculations.
 
 # ID: 690
-When hit by a contact move, Restraining Order forces the attacker to switch out to a random ally. This defensive mechanism triggers only once per switch-in. After activation, the ability remains dormant until this Pokemon switches out and returns to battle, resetting the one-time trigger.
+When the user is hit by a contact move, they force the attacker to switch out to a random ally. Once per switch in.
 
 # ID: 691
 Like a master assassin's arsenal, this ability turns every physical strike into a potentially deadly encounter. When the Pokemon lands contact moves, there's a 30% chance of inflicting poison, paralysis, or bleeding on the target, chosen randomly from these three debilitating effects.
