@@ -1,8 +1,8 @@
 ---
 id: 689
 name: Sword of Damnation
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 196
 ---
 
 # Sword of Damnation - Ability ID 689
@@ -13,7 +13,7 @@ Reduces opposing Pokemon's Defense by 25% and ignores stat changes.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This cursed blade combines terrifying power with tactical precision. The weapon's malevolent aura reduces all opposing Pokemon's Defense by 25%, making them vulnerable to physical attacks. Additionally, the wielder fights with singular focus, ignoring all stat changes when calculating damage.
+Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together. Ignores all stat stage changes during damage calculations.
 
 ## Detailed Mechanical Explanation
 
