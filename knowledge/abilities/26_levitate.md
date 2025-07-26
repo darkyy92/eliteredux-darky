@@ -1,8 +1,8 @@
 ---
 id: 26
 name: Levitate
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 140
 ---
 
 # Levitate - Ability ID 26
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Levitate grants complete immunity to all Ground-type moves and boosts the power of the user's Flying-type moves by 25%. This includes damaging moves like Earthquake and status moves like Sand Attack. The immunity cannot be bypassed by moves like Gravity or Smack Down. Avoids Spikes damage.
+The user is immune to Ground-type moves and other ground effects such as Spikes and terrains. Boosts the damage of Flying-type moves by 25%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
