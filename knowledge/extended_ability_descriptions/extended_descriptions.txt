@@ -2060,7 +2060,7 @@ Charges up the user once upon switching in, doubling Electric-type move power fo
 STAB moves are boosted by 20%. The user changes to a random Pure type at the start of every turn.
 
 # ID: 701
-Causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances. Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type.
+Causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances (except flinch). Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 702
 When the user moves first in a turn, attacks gain a 20% chance to flinch and trap the target on hit. The trap effect applies regardless of flinch success. Flinch chance only works on the first hit of multihit moves.
