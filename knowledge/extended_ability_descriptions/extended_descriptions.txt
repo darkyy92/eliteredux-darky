@@ -1892,7 +1892,7 @@ Each consecutive use of the same move increases damage by 10%. No maximum cap. R
 After landing any sound move, the user follows up with a 40 BP Earthquake that hits all adjacent Pokemon.
 
 # ID: 642
-Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
+Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 # ID: 643
 Last Stand transforms desperation into defensive prowess. As the Pokemon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.
