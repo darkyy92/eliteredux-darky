@@ -675,7 +675,7 @@ In Progress: 0
 | 664 | Ability 664                | ❌       | ❌        |
 | 665 | Elemental Vortex           | ✅       | ✅        |
 | 666 | Snowy Wrath                | ✅       | ✅        |
-| 667 | Pattern Change             | ✅       | ❌        |
+| 667 | Pattern Change             | ✅       | ✅        |
 | 668 | No Turning Back            | ✅       | ❌        |
 | 669 | Flammable Coat             | ✅       | ❌        |
 | 670 | Draco Morale               | ✅       | ❌        |

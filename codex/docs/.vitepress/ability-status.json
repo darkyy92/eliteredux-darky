@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 439,
+    "completed": 440,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T15:19:38.507394Z"
+    "generated_at": "2025-07-26T15:55:26.725455Z"
   },
   "abilities": {
     "0": {
@@ -4680,8 +4680,8 @@
       "id": 667,
       "name": "Pattern Change",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "668": {
       "id": 668,
@@ -10144,10 +10144,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "667": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "668": {
       "indicator": "🟠",

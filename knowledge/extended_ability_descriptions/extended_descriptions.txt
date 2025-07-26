@@ -1961,7 +1961,7 @@ Immune to Fire and Water-type moves. When hit by a Fire move, boosts the power o
 Summons hail for 8 turns (12 with Icy Rock) when entering battle. Hail damages non-Ice types by 1/16 HP per turn and boosts the Defense stat of Ice-types on the field by 50%. Multiplies the chance of inflicting frostbite by 5x on all moves. Does not interact with Freezing Point.
 
 # ID: 667
-Pattern Change is a versatile hybrid ability that combines the strategic benefits of Protean and Shed Skin. The Pokemon adapts its type to match the move it's about to use (once per turn), gaining STAB bonus, while also having a 30% chance to cure status conditions at turn end.
+Before each attack, the user overrides their type to match their move's type. At the end of each turn, there's a 30% chance for the user to cure status conditions afflicted on them.
 
 # ID: 668
 When HP drops to half or below for the first time, the Pokemon's fighting spirit awakens. All stats increase by one stage while becoming trapped in battle, unable to switch out or flee. This desperate transformation from weakness to strength embodies a cornered warrior's final stand.
