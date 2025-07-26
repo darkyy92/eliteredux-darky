@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 443,
+    "completed": 444,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T16:12:28.032646Z"
+    "generated_at": "2025-07-26T16:22:16.509435Z"
   },
   "abilities": {
     "0": {
@@ -4715,8 +4715,8 @@
       "id": 672,
       "name": "Mosh Pit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "673": {
       "id": 673,
@@ -10174,10 +10174,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "672": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "673": {
       "indicator": "🟠",

@@ -680,7 +680,7 @@ In Progress: 0
 | 669 | Flammable Coat             | ✅       | ✅        |
 | 670 | Draco Morale               | ✅       | ✅        |
 | 671 | Bad Omen                   | ✅       | ❌        |
-| 672 | Mosh Pit                   | ✅       | ❌        |
+| 672 | Mosh Pit                   | ✅       | ✅        |
 | 673 | Blood Stain                | ✅       | ❌        |
 | 674 | Blood Stigma               | ✅       | ❌        |
 | 675 | Max Acceleration           | ✅       | ❌        |
