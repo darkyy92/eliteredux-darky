@@ -2,7 +2,7 @@
 id: 701
 name: Steel Beetle
 status: reviewed
-character_count: 245
+character_count: 261
 ---
 
 # Steel Beetle - Ability ID 701
@@ -13,7 +13,7 @@ character_count: 245
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances. Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type.
+Causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances (except flinch). Normal-type moves become Bug-type and they receive STAB regardless of the Pokemon's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
