@@ -2021,7 +2021,7 @@ On entry, heals all status conditions from every Pokemon in the user's party, in
 When dealing damage with punching moves, recover HP equal to 10% of damage dealt.
 
 # ID: 688
-Boosts the power of all wing, wind, and air-based moves by 30%. Additionally
+Boosts the power of all wing, wind, and air-based moves by 30%. Additionally, the user is immune to Ground-type moves and other ground effects such as Spikes and terrains.
 
 # ID: 689
 Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together. Ignores all stat stage changes during damage calculations.
