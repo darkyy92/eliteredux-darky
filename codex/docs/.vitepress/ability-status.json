@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 438,
+    "completed": 439,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T15:15:57.750189Z"
+    "generated_at": "2025-07-26T15:19:38.507394Z"
   },
   "abilities": {
     "0": {
@@ -4673,8 +4673,8 @@
       "id": 666,
       "name": "Snowy Wrath",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "667": {
       "id": 667,
@@ -10138,10 +10138,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "666": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "667": {
       "indicator": "🟠",

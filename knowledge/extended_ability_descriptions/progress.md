@@ -674,7 +674,7 @@ In Progress: 0
 | 663 | Ability 663                | ❌       | ❌        |
 | 664 | Ability 664                | ❌       | ❌        |
 | 665 | Elemental Vortex           | ✅       | ✅        |
-| 666 | Snowy Wrath                | ✅       | ❌        |
+| 666 | Snowy Wrath                | ✅       | ✅        |
 | 667 | Pattern Change             | ✅       | ❌        |
 | 668 | No Turning Back            | ✅       | ❌        |
 | 669 | Flammable Coat             | ✅       | ❌        |
