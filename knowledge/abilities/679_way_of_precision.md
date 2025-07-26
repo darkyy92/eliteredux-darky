@@ -1,8 +1,8 @@
 ---
 id: 679
 name: Way of Precision
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 156
 ---
 
 # Way of Precision - Ability ID 679
@@ -13,7 +13,7 @@ Inner Focus + Precise Fist effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Way of Precision combines Inner Focus and Precise Fist into a devastating martial arts ability. This makes Focus Blast never miss while dramatically enhancing all punching moves through increased critical hit rates and amplified secondary effects that activate 5x more often than normal.
+Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. Punching moves gain +1 critical hit stage and 5x their normal secondary effect chance.
 
 ## Detailed Mechanical Explanation
 
