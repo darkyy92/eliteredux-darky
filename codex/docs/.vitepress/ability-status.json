@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 447,
+    "completed": 448,
     "written": 863,
     "pending": 13,
-    "generated_at": "2025-07-26T16:47:33.026756Z"
+    "generated_at": "2025-07-26T17:15:40.252052Z"
   },
   "abilities": {
     "0": {
@@ -4743,8 +4743,8 @@
       "id": 676,
       "name": "Sidewinder",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "677": {
       "id": 677,
@@ -10198,10 +10198,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "676": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "677": {
       "indicator": "🟠",

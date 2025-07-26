@@ -684,7 +684,7 @@ In Progress: 0
 | 673 | Blood Stain                | ✅       | ✅        |
 | 674 | Blood Stigma               | ✅       | ✅        |
 | 675 | Max Acceleration           | ✅       | ✅        |
-| 676 | Sidewinder                 | ✅       | ❌        |
+| 676 | Sidewinder                 | ✅       | ✅        |
 | 677 | Petrify                    | ✅       | ❌        |
 | 678 | Fluffiest                  | ✅       | ❌        |
 | 679 | Way of Precision           | ✅       | ❌        |

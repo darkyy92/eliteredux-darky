@@ -1988,7 +1988,7 @@ Deal double damage to targets inflicted with bleeding and the user is immune to 
 User's Speed increases by one stage at end of each full turn they remain on the field. Doesn't activate on the turn the user is switched in. Adds 20% of the user's Speed stat to damage when using attacks. Choice Scarf does not affect this ability.
 
 # ID: 676
-Sidewinder grants the Pokemon a "coiled" status upon entry. While coiled, the first biting move used gains +1 priority. After using a biting move, the coiled status is consumed. If Sidewinder KOs an opponent with a biting move, the coiled status is immediately restored for the next battle.
+On entry, gives +1 priority to the first biting move used. Priority boost is consumed after landing any biting move. Upon scoring a direct KO, regains priority buff.
 
 # ID: 677
 Upon switching in, Petrify activates both Intimidate-like effects and buff clearing simultaneously. It lowers the Attack stat of opposing Pokemon by one stage through its intimidate component, then completely strips away all positive stat boosts from enemy Pokemon, neutralizing any setup.
