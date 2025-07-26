@@ -668,7 +668,7 @@ In Progress: 0
 | 657 | Power Metal                | ✅       | ✅        |
 | 658 | Power Edge                 | ✅       | ✅        |
 | 659 | Superconductor             | ✅       | ✅        |
-| 660 | Ultra Instinct             | ✅       | ❌        |
+| 660 | Ultra Instinct             | ✅       | ✅        |
 | 661 | Unlocked Potential         | ✅       | ❌        |
 | 662 | Higher Rank                | ✅       | ❌        |
 | 663 | Funeral Pyre               | ✅       | ❌        |

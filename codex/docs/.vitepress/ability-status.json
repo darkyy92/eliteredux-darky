@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 432,
+    "completed": 433,
     "written": 865,
     "pending": 11,
-    "generated_at": "2025-07-26T15:02:08.942010Z"
+    "generated_at": "2025-07-26T15:03:32.723353Z"
   },
   "abilities": {
     "0": {
@@ -4631,8 +4631,8 @@
       "id": 660,
       "name": "Ultra Instinct",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "661": {
       "id": 661,
@@ -10102,10 +10102,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "660": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "661": {
       "indicator": "🟠",

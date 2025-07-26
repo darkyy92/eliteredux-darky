@@ -1946,7 +1946,7 @@ Keen Edge moves gain a 30% damage boost and target Special Defense instead of De
 All Steel-type moves become Electric-type instead and receive a 10% power boost.
 
 # ID: 660
-Ultra Instinct grants dual defensive benefits. When hit by contact moves, the Pokemon automatically counters with Vacuum Wave without using a turn. All incoming damage is reduced by 20%, making the user more durable while punishing physical attackers with instant Fighting-type retaliation.
+Reduces all damage by 20%. Multiplicative with other damage reduction sources. Counters contact moves with Vacuum Wave (40 BP Fighting-type, Special, +1 priority).
 
 # ID: 661
 This hybrid ability combines Inner Focus precision with Berserk fury. When hit below half HP, raises the highest attacking stat by one stage. Also provides taunt immunity and makes Focus Blast always hit, perfect for Pokemon seeking defensive resilience and offensive precision.
