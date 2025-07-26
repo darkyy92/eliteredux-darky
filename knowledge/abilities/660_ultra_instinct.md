@@ -1,8 +1,8 @@
 ---
 id: 660
 name: Ultra Instinct
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 163
 ---
 
 # Ultra Instinct - Ability ID 660
@@ -13,4 +13,4 @@ Counters contact with Vacuum Wave. Takes 20% less damage.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ultra Instinct grants dual defensive benefits. When hit by contact moves, the Pokemon automatically counters with Vacuum Wave without using a turn. All incoming damage is reduced by 20%, making the user more durable while punishing physical attackers with instant Fighting-type retaliation.
+Reduces all damage by 20%. Multiplicative with other damage reduction sources. Counters contact moves with Vacuum Wave (40 BP Fighting-type, Special, +1 priority).
