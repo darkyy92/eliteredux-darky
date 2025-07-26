@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 471,
+    "completed": 472,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T18:05:53.336566Z"
+    "generated_at": "2025-07-26T18:07:31.383962Z"
   },
   "abilities": {
     "0": {
@@ -1278,8 +1278,8 @@
       "id": 181,
       "name": "Tough Claws",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "182": {
       "id": 182,
@@ -7228,10 +7228,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "181": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "182": {
       "indicator": "🟠",

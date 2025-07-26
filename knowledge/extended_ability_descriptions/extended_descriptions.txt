@@ -536,7 +536,7 @@ Grass Pelt boosts the Pokemon's Defense stat by 50% when Grassy Terrain is activ
 Symbiosis automatically transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. Only works in Double/Multi battles with teammates on the same side. Perfect for supporting strategies.
 
 # ID: 181
-Tough Claws enhances the user's close-range attacks. It boosts the power of all moves that make direct contact with the target by 30%. This includes many powerful physical attacks, allowing the user to inflict significantly more damage in battle. A great ability for Pokemon specializing in melee.
+Contact moves are boosted by 30%.
 
 # ID: 182
 Pixilate transforms all Normal-type attacking moves into Fairy-type moves and boosts their power by 20%. The Pokemon gains STAB from these converted moves if it's part Fairy-type. Works with moves like Hyper Beam, Return, and Boomburst, making them strong Fairy attacks. Perfect for mixed attackers.
