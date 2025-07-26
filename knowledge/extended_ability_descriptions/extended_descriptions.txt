@@ -527,7 +527,7 @@ Automatically changes Aegislash's form based on moves used. Shield form switches
 Grants Flying-type moves +1 priority when the Pokemon is at full HP. Works with any move that becomes Flying-type including ones changed by abilities like Aerilate. Priority boost disappears if HP drops below maximum, even by 1 point. Essential for fast offensive Flying-types.
 
 # ID: 178
-Powers up pulse, beam, ball, and aura moves by 30% damage. Also boosts all status moves for enhanced utility. Heal Pulse restores 75% HP instead of 50% when boosted. Covers a vast movepool including projectiles, energy attacks, and support moves for versatile offensive strategies.
+Boosts pulse, beam, ball, and aura moves by 30%.
 
 # ID: 179
 Grass Pelt boosts the Pokemon's Defense stat by 50% when Grassy Terrain is active. Works with terrain from moves like Grassy Terrain or abilities like Grassy Surge. The boost applies immediately when terrain becomes active and disappears when terrain ends. Stacks with other Defense boosts.
