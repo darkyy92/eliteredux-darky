@@ -704,7 +704,7 @@ In Progress: 0
 | 693 | Patchwork                  | ✅       | ❌        |
 | 694 | Blind Rage                 | ✅       | ✅        |
 | 695 | Slipstream                 | ✅       | ✅        |
-| 696 | Apex Predator              | ✅       | ❌        |
+| 696 | Apex Predator              | ✅       | ✅        |
 | 697 | Dragon's Ritual            | ✅       | ❌        |
 | 698 | Pinnacle Blade             | ✅       | ❌        |
 | 699 | Energized                  | ✅       | ❌        |
