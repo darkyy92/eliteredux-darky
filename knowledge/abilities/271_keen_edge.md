@@ -2,7 +2,7 @@
 id: 271
 name: Keen Edge
 status: reviewed
-character_count: 92
+character_count: 45
 ---
 
 # Keen Edge - Ability ID 271
@@ -13,7 +13,7 @@ character_count: 92
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Keen Edge boosts all slashing attacks by 30%. Stacks additively with other damage modifiers.
+Keen Edge boosts all slashing attacks by 30%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
