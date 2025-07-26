@@ -179,7 +179,7 @@ Sticky Hold prevents the Pokemon from losing its held item through any means. Bl
 Each turn, has a 30% chance to automatically cure any status condition. Removes poison, burn, paralysis, sleep, freeze, frostbite, and bleed. Provides passive recovery from status ailments without switching. Ideal for bulky Pokemon that can outlast status effects. No item required for healing.
 
 # ID: 62
-Guts boosts Attack by 50% when suffering from any status condition. Only affects physical moves. Additionally, completely negates the Attack drop from burn status while still taking burn damage. Perfect for status-immune strategies and Flame Orb users seeking massive physical power.
+Boosts offensive moves by 50% while the user has any status condition. Also negates burn's Attack drop and freeze's Special Attack drop.
 
 # ID: 63
 Marvel Scale increases Defense and Special Defense by 50% when afflicted with any status condition. Activates with sleep, poison, burn, paralysis, freeze, frostbite, bleed, and special conditions like Comatose. Excellent for defensive strategies and combines well with status orbs for reliable bulk.

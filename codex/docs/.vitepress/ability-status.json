@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 478,
+    "completed": 479,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T23:41:35.989155Z"
+    "generated_at": "2025-07-26T23:43:45.567367Z"
   },
   "abilities": {
     "0": {
@@ -445,8 +445,8 @@
       "id": 62,
       "name": "Guts",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "63": {
       "id": 63,
@@ -6514,10 +6514,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "62": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "63": {
       "indicator": "🟠",
