@@ -2,7 +2,7 @@
 id: 453
 name: Raging Moth
 status: reviewed
-character_count: 130
+character_count: 146
 ---
 
 # Raging Moth - Ability ID 453
@@ -13,7 +13,7 @@ character_count: 130
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fire moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit.
+Fire moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
