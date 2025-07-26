@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 467,
+    "completed": 468,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T17:55:59.212076Z"
+    "generated_at": "2025-07-26T17:56:53.160502Z"
   },
   "abilities": {
     "0": {
@@ -193,8 +193,8 @@
       "id": 26,
       "name": "Levitate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "27": {
       "id": 27,
@@ -6298,10 +6298,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "26": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "27": {
       "indicator": "🟠",

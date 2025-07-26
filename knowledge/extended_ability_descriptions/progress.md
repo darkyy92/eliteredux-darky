@@ -34,7 +34,7 @@ In Progress: 0
 |  23 | Shadow Tag                 | ✅       | ❌        |
 |  24 | Rough Skin                 | ✅       | ❌        |
 |  25 | Wonder Guard               | ✅       | ❌        |
-|  26 | Levitate                   | ✅       | ❌        |
+|  26 | Levitate                   | ✅       | ✅        |
 |  27 | Effect Spore               | ✅       | ❌        |
 |  28 | Synchronize                | ✅       | ❌        |
 |  29 | Clear Body                 | ✅       | ❌        |
