@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 863
+Completed: 862
 In Progress: 0
 
 ## Progress Tracking
@@ -689,7 +689,7 @@ In Progress: 0
 | 678 | Fluffiest                  | ✅       | ✅        |
 | 679 | Way of Precision           | ✅       | ✅        |
 | 680 | Way of Swiftness           | ✅       | ✅        |
-| 681 | Atomic Punch               | ✅       | ❌        |
+| 681 | Ability 681                | ❌       | ❌        |
 | 682 | Iron Giant                 | ✅       | ❌        |
 | 683 | Master Hand                | ✅       | ❌        |
 | 684 | Final Blow                 | ✅       | ❌        |

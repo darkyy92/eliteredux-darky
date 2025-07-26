@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 454,
-    "written": 863,
-    "pending": 13,
-    "generated_at": "2025-07-26T17:29:56.661116Z"
+    "written": 862,
+    "pending": 14,
+    "generated_at": "2025-07-26T17:30:35.285638Z"
   },
   "abilities": {
     "0": {
@@ -4776,10 +4776,10 @@
     },
     "681": {
       "id": 681,
-      "name": "Atomic Punch",
-      "written": true,
+      "name": "Ability 681",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "682": {
       "id": 682,
@@ -10228,10 +10228,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "681": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "682": {
       "indicator": "🟠",

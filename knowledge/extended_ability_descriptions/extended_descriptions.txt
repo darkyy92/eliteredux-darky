@@ -2002,9 +2002,6 @@ Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. Punching m
 # ID: 680
 Boosts the user's critical hit ratio by one stage whenever it knocks out an opponent with a direct hit. Boosts the Pokemon's Speed by 50% during rain.
 
-# ID: 681
-Atomic Punch combines Iron Fist's 30% boost to punching moves with an additional 30% boost to all Steel-type moves. When using Steel-type punching moves like Meteor Mash or Bullet Punch, both effects multiply for a 69% total damage boost. Perfect for physical Steel attackers.
-
 # ID: 682
 Iron Giant halves Fire-type damage and prevents burn damage (Heatproof). Physical contact moves gain 20% of user's Defense as bonus Attack power (Juggernaut). Also grants paralysis immunity with automatic status cure on activation. Combines defensive Fire resistance with Defense-scaling offense.
 
