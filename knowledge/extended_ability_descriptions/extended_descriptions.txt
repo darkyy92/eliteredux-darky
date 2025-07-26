@@ -1954,9 +1954,6 @@ Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare. When the u
 # ID: 662
 Moves with increased priority (+1 or higher) receive a 20% damage boost.
 
-# ID: 663
-Funeral Pyre creates a supernatural field that burns the life force of all Pokémon except Ghost and Dark-types. Affected Pokémon lose 25% of their max HP at the end of each turn. The damage ignores type immunities but is blocked by Magic Guard. Creates persistent pressure forcing switches.
-
 # ID: 664
 Flame Bubble combines Water Bubble and Flaming Soul effects. Fire damage taken is halved, Water moves deal double damage, and the Pokémon is immune to burns. Fire-type moves gain +1 priority when at full HP. Perfect for mixed Fire/Water attackers needing defensive utility.
 

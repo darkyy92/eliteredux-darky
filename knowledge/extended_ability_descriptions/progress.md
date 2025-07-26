@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 865
+Completed: 864
 In Progress: 0
 
 ## Progress Tracking
@@ -671,7 +671,7 @@ In Progress: 0
 | 660 | Ultra Instinct             | ✅       | ✅        |
 | 661 | Unlocked Potential         | ✅       | ✅        |
 | 662 | Higher Rank                | ✅       | ✅        |
-| 663 | Funeral Pyre               | ✅       | ❌        |
+| 663 | Ability 663                | ❌       | ❌        |
 | 664 | Flame Bubble               | ✅       | ❌        |
 | 665 | Elemental Vortex           | ✅       | ❌        |
 | 666 | Snowy Wrath                | ✅       | ❌        |

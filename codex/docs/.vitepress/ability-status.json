@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 436,
-    "written": 865,
-    "pending": 11,
-    "generated_at": "2025-07-26T15:07:44.156608Z"
+    "written": 864,
+    "pending": 12,
+    "generated_at": "2025-07-26T15:09:22.828139Z"
   },
   "abilities": {
     "0": {
@@ -4650,10 +4650,10 @@
     },
     "663": {
       "id": 663,
-      "name": "Funeral Pyre",
-      "written": true,
+      "name": "Ability 663",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "664": {
       "id": 664,
@@ -10120,10 +10120,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "663": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "664": {
       "indicator": "🟠",
