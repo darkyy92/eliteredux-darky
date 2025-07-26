@@ -1,8 +1,8 @@
 ---
 id: 654
 name: White Noise
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 180
 ---
 
 # White Noise - Ability ID 654
@@ -13,7 +13,7 @@ Static + Peaceful Rest.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-White Noise combines Static and Peaceful Rest. Contact moves against this Pokemon have a 30% chance to paralyze the attacker. During fog weather, heals 1/8 max HP at the end of each turn. Both effects work independently - paralysis on contact defense and healing in fog conditions.
+The user has a 30% chance to inflict paralysis on contact moves, both when attacking and being attacked. Restores 1/8 of the user's maximum HP at the end of each turn while in fog.
 
 ## Detailed Mechanical Explanation
 
