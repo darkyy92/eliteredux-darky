@@ -2,7 +2,7 @@
 id: 420
 name: Primal Maw
 status: reviewed
-character_count: 181
+character_count: 197
 ---
 
 # Primal Maw - Ability ID 420
@@ -13,7 +13,7 @@ character_count: 181
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Primal Maw causes all biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit.
+Primal Maw causes all biting moves to hit twice. The first hit deals 100% damage while the second hit deals 40% damage. Independently rolls secondary effects of attacks on each hit (except flinch).
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
