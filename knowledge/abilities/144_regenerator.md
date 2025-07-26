@@ -1,8 +1,8 @@
 ---
 id: 144
 name: Regenerator
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 86
 ---
 
 # Regenerator - Ability ID 144
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Regenerator restores 33% of user's maximum HP whenever it switches out of battle, provided it's still alive and not at full health. Works with voluntary switches, forced switches from moves like Roar, and U-turn/Volt Switch. Does not activate if KO'd. Essential for defensive pivoting strategies.
+Restores 33% of maximum HP when switching out. This heal is not blocked by Heal Block.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
