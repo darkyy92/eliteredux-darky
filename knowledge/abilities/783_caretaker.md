@@ -1,8 +1,8 @@
 ---
 id: 783
 name: Caretaker
-status: ai-generated
-character_count: 247
+status: reviewed
+character_count: 293
 ---
 
 # Caretaker - Ability ID 783
@@ -13,7 +13,8 @@ character_count: 247
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Each turn, 30% chance to heal status conditions of self or partner (prioritizing partner). Additionally reduces damage dealt to the partner by 50%. A protective ability perfect for double battles, combining healing support with defensive coverage.
+Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon. In a double battle, the user's ally receives 50% less damage. Multiplicative with other damage reduction sources. 
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
