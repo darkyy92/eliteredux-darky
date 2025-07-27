@@ -1784,7 +1784,7 @@ Combines ground immunity with exceptional Flying-type prowess. Immune to all Gro
 At full HP, all attacks towards the user deal "not very effective" damage regardless of type effectiveness. Activates on each hit of a multihit attack unlike other similar abilities.
 
 # ID: 608
-Each attacking move on hit has a 30% chance to badly poison the target. Multihits roll the activation chance on each hit.
+The user has a 30% to badly poison the target after landing any move. Multihits roll the activation chance on each hit.
 
 # ID: 609
 Gain parasitic spores on entry. Each turn, affected Pokemon lose 1/8 max HP (Ghost types immune). When using contact moves, spread spores to the target. Spores persist until switch-out.
