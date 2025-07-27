@@ -1,8 +1,8 @@
 ---
 id: 725
 name: Trash Heap
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 266
 ---
 
 # Trash Heap - Ability ID 725
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Trash Heap combines Corrosion and Toxic Spill effects. Poison-type moves hit Steel-types for super effective damage and can poison any type. Upon entry, creates toxic waste that damages all non-Poison types by 1/8 HP each turn. Poison Heal users recover instead. Waste disappears when switched out.
+Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type. Damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. Disappears when the user leaves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
