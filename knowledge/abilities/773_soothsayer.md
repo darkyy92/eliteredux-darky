@@ -1,8 +1,8 @@
 ---
 id: 773
 name: Soothsayer
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 123
 ---
 
 # Soothsayer - Ability ID 773
@@ -13,7 +13,7 @@ Resists all attacks for three turns on first entry.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-First switch-in only: Take 0.5x damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field.
+On entry, all attacks received by the user are considered "not very effective" for 3 turns. Deactivates when switching out.
 
 ## Detailed Mechanical Explanation
 
