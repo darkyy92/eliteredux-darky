@@ -714,7 +714,7 @@ In Progress: 0
 | 703 | Rage Point                 | ✅       | ✅        |
 | 704 | Hot Coals                  | ✅       | ✅        |
 | 705 | Terastal Treasure          | ✅       | ✅        |
-| 706 | Shocking Maw               | ✅       | ❌        |
+| 706 | Shocking Maw               | ✅       | ✅        |
 | 707 | Gleam Eyes                 | ✅       | ❌        |
 | 708 | Roused Fangs               | ✅       | ❌        |
 | 709 | Dream State                | ✅       | ❌        |

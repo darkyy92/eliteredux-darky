@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 483,
+    "completed": 484,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T00:01:46.874795Z"
+    "generated_at": "2025-07-27T00:04:36.246938Z"
   },
   "abilities": {
     "0": {
@@ -4953,8 +4953,8 @@
       "id": 706,
       "name": "Shocking Maw",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "707": {
       "id": 707,
@@ -10378,10 +10378,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "706": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "707": {
       "indicator": "🟠",
