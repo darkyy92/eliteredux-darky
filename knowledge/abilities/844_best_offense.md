@@ -1,8 +1,8 @@
 ---
 id: 844
 name: Best Offense
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 156
 ---
 
 # Best Offense - Ability ID 844
@@ -13,7 +13,7 @@ Combines two powerful offensive mechanics with Keen Edge effect and Mystic Blade
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Best Offense boosts damage by 30% on all blade moves (Keen Edge) and adds 20% of the user's Special Defense to attack calculations. Physical blade moves become special attacks via Mystic Blades, targeting Special Defense instead of Defense while keeping the damage boost.
+Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and use 20% of the user's Special Defense stat for attack calculations.
 
 ## Detailed Mechanical Explanation
 
