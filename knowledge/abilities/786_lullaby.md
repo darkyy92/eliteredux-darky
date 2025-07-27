@@ -1,8 +1,8 @@
 ---
 id: 786
 name: Lullaby
-status: ai-generated
-character_count: 245
+status: reviewed
+character_count: 126
 ---
 
 # Lullaby - Ability ID 786
@@ -13,7 +13,7 @@ character_count: 245
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon's soothing voice enhances the effectiveness of Sing, boosting its accuracy from a normally unreliable 60% to a much more dependable 90%. This makes sleep-inducing strategies far more viable in battle, especially against faster foes.
+Boosts Sing's accuracy to 90%. Does not lock to accuracy to 90%, the move still gets affected by accuracy/evasiveness changes.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
