@@ -721,7 +721,7 @@ In Progress: 0
 | 710 | Dream Whimsy               | ✅       | ✅        |
 | 711 | Lunar Affinity             | ✅       | ✅        |
 | 712 | Flame Shield               | ✅       | ✅        |
-| 713 | Aquatic Dweller            | ✅       | ❌        |
+| 713 | Aquatic Dweller            | ✅       | ✅        |
 | 714 | Apple Pie                  | ✅       | ❌        |
 | 715 | Hover                      | ✅       | ❌        |
 | 716 | Depravity                  | ✅       | ❌        |
