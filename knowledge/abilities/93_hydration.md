@@ -1,8 +1,8 @@
 ---
 id: 93
 name: Hydration
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 64
 ---
 
 # Hydration - Ability ID 93
@@ -13,7 +13,7 @@ Cures own status at the end of every turn in rain.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hydration cures the Pokemon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity.
+During rain, cures all status conditions at the end of the turn.
 
 ## Detailed Mechanical Explanation
 
