@@ -1,8 +1,8 @@
 ---
 id: 853
 name: Purple Haze
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 127
 ---
 
 # Purple Haze - Ability ID 853
@@ -13,7 +13,7 @@ Follow up with weakened Poison Gas after any move.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-After using any move, this Pokemon automatically follows up with a weakened Poison Gas attack that deals 20 base power damage. The poisonous gas has a 20% chance to inflict poison status and is super effective against Flying-types, providing consistent chip damage and battlefield pressure.
+After using a move, follow up with a 20 BP Poison Gas (Poison, Special, 20% chance to poison, super effective on Flying-types). 
 
 ## Detailed Mechanical Explanation
 
