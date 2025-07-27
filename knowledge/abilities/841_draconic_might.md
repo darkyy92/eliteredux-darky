@@ -1,8 +1,8 @@
 ---
 id: 841
 name: Draconic Might
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 265
 ---
 
 # Draconic Might - Ability ID 841
@@ -13,7 +13,7 @@ Draconize + Half Drake.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Transforms the Pokemon into a mighty dragon warrior by adding Dragon as a third type and converting all Normal-type moves to Dragon-type. Normal moves become Dragon attacks that gain STAB (1.5x damage) from the added Dragon typing, turning basic attacks into powerful draconic strikes.
+Converts all Normal-type moves into Dragon-type moves and grants STAB for Dragon-type moves, regardless of the user's typing. On entry, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 
