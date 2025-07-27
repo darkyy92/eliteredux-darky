@@ -2369,7 +2369,7 @@ Deals 1.5x damage to Fire-type Pokemon and takes 0.5x damage when attacked by Fi
 Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.
 
 # ID: 806
-Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics. Critical hits deal 1.5x extra damage like Sniper. When an opponent switches out, this Pokemon automatically attacks the switching target with its selected move at half power, bypassing turn order.
+Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Attacks strike foes before they finish switching out for 50% power, damaging them before leaving.
 
 # ID: 807
 Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokemon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.

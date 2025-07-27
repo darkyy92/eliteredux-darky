@@ -814,7 +814,7 @@ In Progress: 0
 | 803 | Headstrong                 | ✅       | ✅        |
 | 804 | Firefighter                | ✅       | ✅        |
 | 805 | Sepia Lens                 | ✅       | ❌        |
-| 806 | Super Sniper               | ✅       | ❌        |
+| 806 | Super Sniper               | ✅       | ✅        |
 | 807 | Woodland Curse             | ✅       | ❌        |
 | 808 | Malodor                    | ✅       | ❌        |
 | 809 | Blur                       | ✅       | ❌        |
