@@ -2162,7 +2162,7 @@ Transforms the Pokemon when HP drops to 50% or below, automatically curing all s
 Landing contact moves causes the target to always move last regardless of priority, speed, or other effects for 5 turns. Effect does not stack or refresh on already afflicted targets.
 
 # ID: 736
-Deep Cuts gives all slashing moves a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage each turn until healed. Only affects moves with the Keen Edge flag like Slash, Fury Cutter, and Razor Wind. Rock and Ghost types are immune to bleeding.
+Keen Edge have a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.immune to bleeding. Multihits roll the activation chance on each hit.
 
 # ID: 737
 Life Steal drains 1/10 of each opponent's maximum HP at the end of every turn and restores that amount to the user. Affects all living opponents simultaneously. Ignores substitutes and type immunities but can be blocked by Magic Guard. Provides consistent recovery and offensive pressure.

@@ -744,7 +744,7 @@ In Progress: 0
 | 733 | Taekkyeon                  | ✅       | ✅        |
 | 734 | Ape Shift                  | ✅       | ✅        |
 | 735 | Know Your Place            | ✅       | ✅        |
-| 736 | Deep Cuts                  | ✅       | ❌        |
+| 736 | Deep Cuts                  | ✅       | ✅        |
 | 737 | Life Steal                 | ✅       | ❌        |
 | 738 | Rude Awakening             | ✅       | ❌        |
 | 739 | Teraform Zero              | ✅       | ❌        |
