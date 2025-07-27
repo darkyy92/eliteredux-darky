@@ -2114,7 +2114,7 @@ Uses Fire Spin upon switching into battle, a 50 BP Fire-type Special move that t
 Uses Astonish on switch in, a 40 BP Ghost-type Physical move with +3 priority that always causes flinching. Once per battle.
 
 # ID: 719
-Tar Toss automatically uses Tar Shot when switching into battle. The tar covers opponents, lowering their Speed by one stage and making them take double damage from Fire-type moves. Only works once per target per battle. Excellent for setting up Fire-type teammates or sweepers.
+Uses Tar Shot on switch in, lowering the target's Speed by one stage and making them take double damage from Fire-type moves. Does not stack the Fire-type damage debuff on successive uses.
 
 # ID: 720
 Stun Shock gives each attack a 60% chance to inflict either Paralysis or Poison on the target, chosen randomly. The status effect is determined by a coin flip when the ability triggers. Only works on moves that make contact or deal damage. Perfect for disrupting opposing teams.
