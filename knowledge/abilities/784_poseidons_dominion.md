@@ -1,8 +1,8 @@
 ---
 id: 784
 name: Poseidons Dominion
-status: ai-generated
-character_count: 221
+status: reviewed
+character_count: 201
 ---
 
 # Poseidons Dominion - Ability ID 784
@@ -13,7 +13,7 @@ character_count: 221
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon switching in, the Pokemon immediately summons a powerful whirlpool that targets any opposing Pokemon present. This Water-type attack traps the opponent for 2-5 turns, dealing damage each turn while preventing escape.
+Uses Whirlpool upon switching into battle, a 50 BP Water-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out until the trap ends.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
