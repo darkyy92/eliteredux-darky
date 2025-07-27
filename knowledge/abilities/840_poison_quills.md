@@ -1,8 +1,8 @@
 ---
 id: 840
 name: Poison Quills
-status: ai-generated
-character_count: 264
+status: reviewed
+character_count: 207
 ---
 
 # Poison Quills - Ability ID 840
@@ -13,7 +13,7 @@ Rough Skin + Poison Point.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sharp venomous barbs punish physical contact. When struck by a contact move, the attacker takes 1/8 of their max HP damage and has a 30% chance to be poisoned. Both effects trigger from the same contact move, providing strong deterrence against physical attackers.
+Damages attackers using contact moves for 1/8 of their max HP. Also has a 30% chance to inflict poison on contact moves, both when attacking and being attacked. Activates on every hit for multihitting moves.
 
 ## Detailed Mechanical Explanation
 
