@@ -2138,7 +2138,7 @@ Poison-type moves become super effective against Steel-type Pokemon. Additionall
 Converts all Normal-type moves into Poison-type moves and grants STAB for Poison-type moves, regardless of the user's typing. Amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources.
 
 # ID: 727
-Overwatch combines On the Prowl and Stakeout effects. Gives +1 priority to all moves on the first turn after switching in, with negative priority moves becoming +0. Additionally, deals double damage to opponents switching into battle. Perfect for punishing switch-ins with priority.
+All moves with priority 0 or higher gain +1 priority on the user's first turn. Negative priority moves become priority 0 instead of adding +1 priority. Deals double damage to opponents that just switched in. Only works right after they switch in for 1 turn.
 
 # ID: 728
 Wind Rage automatically uses Defog when switching into battle, clearing all entry hazards and screens. Additionally, all air-based moves receive a 1.3x damage boost. Air-based moves include Flying-type attacks and moves with the air-based flag. Great for hazard control and boosting aerial attacks.

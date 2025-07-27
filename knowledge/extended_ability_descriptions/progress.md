@@ -735,7 +735,7 @@ In Progress: 0
 | 724 | Lucky Halo                 | ✅       | ✅        |
 | 725 | Trash Heap                 | ✅       | ✅        |
 | 726 | Sludgy Mix                 | ✅       | ✅        |
-| 727 | Overwatch                  | ✅       | ❌        |
+| 727 | Overwatch                  | ✅       | ✅        |
 | 728 | Wind Rage                  | ✅       | ❌        |
 | 729 | Victory Bomb               | ✅       | ❌        |
 | 730 | Razor Sharp                | ✅       | ❌        |
