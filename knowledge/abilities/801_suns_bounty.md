@@ -1,8 +1,8 @@
 ---
 id: 801
 name: Sun's Bounty
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 138
 ---
 
 # Sun's Bounty - Ability ID 801
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sun's Bounty combines two powerful abilities: Leaf Guard heals all status conditions at the end of each turn during harsh sunlight, while Harvest restores consumed berries. In sun, berry restoration is guaranteed; otherwise it's 50%. Perfect for sustainable recovery.
+During sun, cures all status conditions at at the end of the turn; and 50% chance to restore your consumed berry on turn end, 100% in sun.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
