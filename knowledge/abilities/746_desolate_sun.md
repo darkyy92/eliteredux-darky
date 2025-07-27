@@ -1,8 +1,8 @@
 ---
 id: 746
 name: Desolate Sun
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 242
 ---
 
 # Desolate Sun - Ability ID 746
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Desolate Sun creates extremely harsh sunlight that lasts until the user switches out and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves. Combines weather control with Ground immunity for strong defensive utility.
+Creates extremely harsh sunlight that lasts until the user switches out. Has the standard sun effects and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves instead of taking damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
