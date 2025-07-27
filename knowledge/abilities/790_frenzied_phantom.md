@@ -1,8 +1,8 @@
 ---
 id: 790
 name: Frenzied Phantom
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 296
 ---
 
 # Frenzied Phantom - Ability ID 790
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Frenzied Phantom combines dual-strike attacks with trapping power. All damaging moves hit twice with the second hit dealing 25% damage, while simultaneously preventing opponents from switching. Ghost-types are immune to the trapping effect but still take double hits from attacks.
+Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Prevents all non-Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
