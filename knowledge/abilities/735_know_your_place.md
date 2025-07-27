@@ -1,8 +1,8 @@
 ---
 id: 735
 name: Know Your Place
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 183
 ---
 
 # Know Your Place - Ability ID 735
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact moves inflict dazed status for 5 turns. Dazed Pokemon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokemon compete normally among themselves. Status effect does not stack or refresh on already dazed targets.
+Landing contact moves causes the target to always move last regardless of priority, speed, or other effects for 5 turns. Effect does not stack or refresh on already afflicted targets.
 
 ## Detailed Mechanical Explanation
 **Know Your Place** is a powerful speed control ability that completely overrides the normal priority system through the "dazed" status effect.
