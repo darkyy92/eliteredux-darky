@@ -1,8 +1,8 @@
 ---
 id: 775
 name: Flame Coat
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 68
 ---
 
 # Flame Coat - Ability ID 775
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Creates a blazing aura that scorches all non-Fire-type Pokemon on the battlefield. At the end of each turn, all non-Fire-types suffer burns equivalent to 1/8 of their maximum HP, creating a punishing environment that favors Fire-types and forces strategic switching.
+All non-Fire-types lose 1/8 of their max HP at the end of each turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -39,7 +39,7 @@ The following abilities and conditions prevent Flame Coat damage:
 ### Visual and Audio Effects
 - **Switch-in**: Displays a special announcement message when the user enters battle
 - **Damage Animation**: Uses the burn status animation when dealing damage
-- **Message**: Shows "POKÃ‰MON was hurt by the blazing heat!" or similar
+- **Message**: Shows "POKÉMON was hurt by the blazing heat!" or similar
 
 ### Strategic Applications
 
