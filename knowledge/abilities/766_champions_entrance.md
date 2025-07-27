@@ -1,8 +1,8 @@
 ---
 id: 766
 name: Champions Entrance
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 184
 ---
 
 # Champions Entrance - Ability ID 766
@@ -13,7 +13,8 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, this Pokemon makes a dramatic champions entrance that intimidates all opposing Pokemon, lowering their Attack stat by one stage. Simultaneously, it enters an aggressive violent rush state that significantly boosts its own Speed by 50% and Attack by 20% for the first turn only.
+Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage. The user gains a 50% Speed boost and 20% Attack boost on their first turn after switching in.
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
