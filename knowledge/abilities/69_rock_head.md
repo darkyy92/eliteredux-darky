@@ -1,8 +1,8 @@
 ---
 id: 69
 name: Rock Head
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 174
 ---
 
 # Rock Head - Ability ID 69
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rock Head prevents all recoil damage from the user's moves, including Take Down, Double-Edge, Flare Blitz, and Head Smash. Also grants immunity to confusion status. However, crash damage from missed Jump Kicks and self-destruction from Explosion/Self-Destruct still occur normally.
+Prevents all recoil damage from the user's moves and abilities. Also grants immunity to enrage recoil damage. Does not prevent crash damage or Explosion/Self-Destruct damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
