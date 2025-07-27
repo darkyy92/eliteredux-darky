@@ -1,8 +1,8 @@
 ---
 id: 33
 name: Swift Swim
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 32
 ---
 
 # Swift Swim - Ability ID 33
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Swift Swim boosts the Pokemon's Speed by 50% during rain weather. Works with all forms of rain including regular rain, heavy rain, and Primordial Sea. The speed boost applies immediately when rain is active and disappears when rain ends. Stacks with other speed modifiers for sweeping potential.
+Boosts Speed by 50% during rain.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
