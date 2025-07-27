@@ -1,8 +1,8 @@
 ---
 id: 754
 name: Puffy
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 145
 ---
 
 # Puffy - Ability ID 754
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Puffy reduces damage from contact moves by 50%, providing excellent protection against physical attackers. However, Fire-type moves deal double damage to Puffy users, creating a significant vulnerability. The contact protection works against all physical contact moves.
+Reduces damage from contact moves by 50%. Fire-type moves to deal double damage to the user. Multiplicative with other forms of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
