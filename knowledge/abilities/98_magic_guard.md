@@ -1,8 +1,8 @@
 ---
 id: 98
 name: Magic Guard
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 120
 ---
 
 # Magic Guard - Ability ID 98
@@ -13,7 +13,7 @@ Only damaged by attacks.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents all indirect damage: entry hazards (Stealth Rock, Spikes), weather (Sandstorm, Hail), poison/burn damage, Toxic, Curse, recoil from moves and Life Orb, Leech Seed, Nightmare, trap moves, Rocky Helmet/Rough Skin/Iron Barbs. Only direct attacks deal damage. Status effects still apply.
+Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 ## Detailed Mechanical Explanation
 
