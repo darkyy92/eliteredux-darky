@@ -1,8 +1,8 @@
 ---
 id: 782
 name: Hemolysis
-status: ai-generated
-character_count: 259
+status: reviewed
+character_count: 129
 ---
 
 # Hemolysis - Ability ID 782
@@ -13,7 +13,7 @@ character_count: 259
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon is on the field, poisoned enemies cannot heal HP through any means and lose all benefits from stat-boosting moves and abilities. This blood-corrupting ability disrupts the opponent's recovery strategies and neutralizes their stat advantages.
+When the user poisons a Pokemon, the poisoned target is cleared of all stat raises and they are unable to heal through any means.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
