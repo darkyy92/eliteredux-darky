@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 628,
+    "completed": 629,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:56:14.988802Z"
+    "generated_at": "2025-07-27T18:58:52.466032Z"
   },
   "abilities": {
     "0": {
@@ -1264,8 +1264,8 @@
       "id": 179,
       "name": "Grass Pelt",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "180": {
       "id": 180,
@@ -7216,10 +7216,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "179": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "180": {
       "indicator": "🟠",

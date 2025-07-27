@@ -527,7 +527,7 @@ Grants Flying-type moves +1 priority when the Pokemon is at full HP. Works with 
 Boosts pulse, beam, ball, and aura moves by 30%.
 
 # ID: 179
-Grass Pelt boosts the Pokemon's Defense stat by 50% when Grassy Terrain is active. Works with terrain from moves like Grassy Terrain or abilities like Grassy Surge. The boost applies immediately when terrain becomes active and disappears when terrain ends. Stacks with other Defense boosts.
+Boosts the user's Defense stat by 50% when in Grassy Terrain.
 
 # ID: 180
 Symbiosis automatically transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. Only works in Double/Multi battles with teammates on the same side. Perfect for supporting strategies.
