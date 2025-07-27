@@ -815,7 +815,7 @@ In Progress: 0
 | 804 | Firefighter                | ✅       | ✅        |
 | 805 | Sepia Lens                 | ✅       | ❌        |
 | 806 | Super Sniper               | ✅       | ✅        |
-| 807 | Woodland Curse             | ✅       | ❌        |
+| 807 | Woodland Curse             | ✅       | ✅        |
 | 808 | Malodor                    | ✅       | ❌        |
 | 809 | Blur                       | ✅       | ❌        |
 | 810 | Elude                      | ✅       | ❌        |

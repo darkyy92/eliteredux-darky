@@ -2372,7 +2372,7 @@ Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when atta
 Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Attacks strike foes before they finish switching out for 50% power, damaging them before leaving.
 
 # ID: 807
-Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokemon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.
+Upon entering battle, uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with the user, they also gain Grass as an extra type. Only affects non-Grass types. Persists until switching out.
 
 # ID: 808
 When hit by a contact move, Malodor suppresses the attacker's ability until they switch out, similar to Gastro Acid. This prevents abilities like Poison Touch, Static, or Flame Body from activating on subsequent turns. The suppression persists even if the Malodor user faints.
