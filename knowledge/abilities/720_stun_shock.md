@@ -1,8 +1,8 @@
 ---
 id: 720
 name: Stun Shock
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 153
 ---
 
 # Stun Shock - Ability ID 720
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Stun Shock gives each attack a 60% chance to inflict either Paralysis or Poison on the target, chosen randomly. The status effect is determined by a coin flip when the ability triggers. Only works on moves that make contact or deal damage. Perfect for disrupting opposing teams.
+When the user lands an attack, there's a 60% chance of inflicting poison or paralysis, chosen randomly. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
