@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 520,
+    "completed": 521,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T02:01:20.293855Z"
+    "generated_at": "2025-07-27T02:05:20.153432Z"
   },
   "abilities": {
     "0": {
@@ -5198,8 +5198,8 @@
       "id": 741,
       "name": "Breakwater",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "742": {
       "id": 742,
@@ -10588,10 +10588,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "741": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "742": {
       "indicator": "🟠",

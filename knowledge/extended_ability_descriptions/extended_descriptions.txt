@@ -2177,7 +2177,7 @@ At full HP, all attacks towards the user deal "not very effective" damage regard
 When the user applies burn, they also apply fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 741
-Swift Swim boosts Speed by 50% during rain weather. Stall reduces damage by 30% when moving before the opponent. Both effects stack for excellent defensive rain sweeping. Works with all rain types including Primordial Sea. Strategic positioning for optimal benefits.
+Boosts Speed by 50% during rain. Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn.
 
 # ID: 742
 Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting additional punching coverage types. Grumpig and Darmanitan Redux Aura notably have access to this very powerful ability.
