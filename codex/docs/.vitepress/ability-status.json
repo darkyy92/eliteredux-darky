@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 517,
+    "completed": 518,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:56:58.527770Z"
+    "generated_at": "2025-07-27T01:58:05.677957Z"
   },
   "abilities": {
     "0": {
@@ -5177,8 +5177,8 @@
       "id": 738,
       "name": "Rude Awakening",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "739": {
       "id": 739,
@@ -10570,10 +10570,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "738": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "739": {
       "indicator": "🟠",

@@ -746,7 +746,7 @@ In Progress: 0
 | 735 | Know Your Place            | ✅       | ✅        |
 | 736 | Deep Cuts                  | ✅       | ✅        |
 | 737 | Life Steal                 | ✅       | ✅        |
-| 738 | Rude Awakening             | ✅       | ❌        |
+| 738 | Rude Awakening             | ✅       | ✅        |
 | 739 | Teraform Zero              | ✅       | ❌        |
 | 740 | Set Ablaze                 | ✅       | ❌        |
 | 741 | Breakwater                 | ✅       | ❌        |

@@ -2168,7 +2168,7 @@ Keen Edge have a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max
 Drains 1/10 of each active opponent's max HP at the end of every turn and restores that amount to the user. Ignores Substitute.
 
 # ID: 738
-Rude Awakening activates when the Pokemon wakes up from sleep naturally or forced awake. Upon awakening, the Pokemon permanently gains immunity to sleep status and receives a boost to all stats. The ability only triggers once per battle after first wake-up event.
+Upon awakening, the user permanently gains immunity to sleep status and boosts all stats by one stage. Once per battle.
 
 # ID: 739
 Teraform Zero reduces super effective damage to 50% when at full HP like Tera Shell, and clears all weather and terrain upon first entry. Only activates once per battle entry. Provides both defensive protection and field control by neutralizing environmental hazards.
