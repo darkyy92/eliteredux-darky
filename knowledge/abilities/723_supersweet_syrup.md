@@ -1,8 +1,8 @@
 ---
 id: 723
 name: Supersweet Syrup
-status: ai-generated
-character_count: 251
+status: reviewed
+character_count: 119
 ---
 
 # Supersweet Syrup - Ability ID 723
@@ -13,7 +13,7 @@ character_count: 251
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Supersweet Syrup combines Sticky Hold's item protection with item disruption. The Pokemon's item cannot be removed or stolen. When hit by contact moves, the attacker's item is disabled for 2 turns, preventing item activation and effects during battle.
+The user's item cannot be forcibly removed or stolen. When making contact, the opponent's item is disabled for 2 turns.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
