@@ -176,7 +176,7 @@ Changes form and type to match active weather. When using weather moves, automat
 Sticky Hold prevents the Pokemon from losing its held item through any means. Blocks Knock Off, Thief, Covet, Trick, Switcheroo, and other item-removing effects. The item remains secure throughout battle, enabling consistent item-dependent strategies and protecting valuable held items from theft.
 
 # ID: 61
-Each turn, has a 30% chance to automatically cure any status condition. Removes poison, burn, paralysis, sleep, freeze, frostbite, and bleed. Provides passive recovery from status ailments without switching. Ideal for bulky Pokemon that can outlast status effects. No item required for healing
+At the end of each turn, there's a 30% chance for the user to cure status conditions afflicted on them.
 
 # ID: 62
 Boosts Attack by 50% when suffering from any status condition. Only affects physical moves. Negates the Attack drop from burn status.
