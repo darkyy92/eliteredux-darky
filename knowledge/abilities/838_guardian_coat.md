@@ -1,8 +1,8 @@
 ---
 id: 838
 name: Guardian Coat
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 298
 ---
 
 # Guardian Coat - Ability ID 838
@@ -13,7 +13,7 @@ Blocks weather dmg and powders. Takes -20% physical damage.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Guardian Coat provides triple protection: complete immunity to weather damage from sandstorm and hail, total immunity to all powder-based moves like Sleep Powder and Spore, and reduces all physical damage taken by 20%. This defensive ability can be suppressed by Mold Breaker-type abilities.
+Provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming physical  damage by 20%. Multiplicative with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 
