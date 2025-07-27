@@ -833,7 +833,7 @@ In Progress: 0
 | 822 | Ominous Shroud             | ✅       | ✅        |
 | 823 | Chilling Presence          | ✅       | ✅        |
 | 824 | Frostbind                  | ✅       | ✅        |
-| 825 | Glacial Ghost              | ✅       | ❌        |
+| 825 | Glacial Ghost              | ✅       | ✅        |
 | 826 | Tender Affection           | ✅       | ❌        |
 | 827 | Wonder Scale               | ✅       | ❌        |
 | 828 | Overzealous                | ✅       | ❌        |
