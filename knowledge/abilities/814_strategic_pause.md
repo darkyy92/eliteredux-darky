@@ -2,7 +2,7 @@
 id: 814
 name: Strategic Pause
 status: reviewed
-character_count: 287
+character_count: 100
 ---
 
 # Strategic Pause - Ability ID 814
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Strategic Pause combines patience with precision. When moving after the target, this ability provides a 30% damage boost from Analytic plus raises critical hit rate by 2 stages. The critical hit bonus transforms rare crits into frequent ones, making slow sweepers devastatingly effective
+When the user moves after the target, boosts critical hit ratio by 2 stages and attack power by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
