@@ -1,8 +1,8 @@
 ---
 id: 745
 name: Sand Pit
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 175
 ---
 
 # Sand Pit - Ability ID 745
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Pit automatically uses Sand Tomb with 20 base power when the Pokemon switches into battle. The attack targets all opposing Pokemon and traps them in quicksand for 2-5 turns, dealing Ground-type damage each turn. Cannot miss and ignores accuracy checks. Perfect for entry hazard control.
+Uses Sand Tomb with 20 BP on switch in. Hits all opposing Pokemon and traps them for 4-5 turns, making them lose 1/8 max HP each turn. Cannot miss and ignores accuracy checks. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
