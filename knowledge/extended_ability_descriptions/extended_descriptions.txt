@@ -461,7 +461,7 @@ Justified activates when hit by Dark-type moves, granting immunity to damage and
 Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only works on damaging moves and doesn't activate if the Pokemon faints from the hit. Provides defensive utility by turning weaknesses into opportunity.
 
 # ID: 156
-Magic Bounce automatically reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Works against moves like Toxic, Leech Seed, Taunt, and Will-O-Wisp but not damaging moves or self-targeting status moves.
+Reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Does not reflect moves that were already reflected.
 
 # ID: 157
 Sap Sipper provides immunity to Grass-type moves and boosts the highest attacking stat by one stage when hit. Also redirects single-target Grass moves in doubles. The boost applies to Attack or Special Attack, whichever is higher. Great defensive utility with offensive potential.

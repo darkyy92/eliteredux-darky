@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 546,
+    "completed": 547,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T13:48:00.731722Z"
+    "generated_at": "2025-07-27T14:04:56.096444Z"
   },
   "abilities": {
     "0": {
@@ -1103,8 +1103,8 @@
       "id": 156,
       "name": "Magic Bounce",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "157": {
       "id": 157,
@@ -7078,10 +7078,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "156": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "157": {
       "indicator": "🟠",

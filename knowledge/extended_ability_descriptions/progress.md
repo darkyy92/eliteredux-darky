@@ -164,7 +164,7 @@ In Progress: 0
 | 153 | Moxie                      | ✅       | ❌        |
 | 154 | Justified                  | ✅       | ❌        |
 | 155 | Rattled                    | ✅       | ❌        |
-| 156 | Magic Bounce               | ✅       | ❌        |
+| 156 | Magic Bounce               | ✅       | ✅        |
 | 157 | Sap Sipper                 | ✅       | ❌        |
 | 158 | Prankster                  | ✅       | ❌        |
 | 159 | Sand Force                 | ✅       | ❌        |
