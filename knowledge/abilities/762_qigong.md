@@ -1,8 +1,8 @@
 ---
 id: 762
 name: Qigong
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 223
 ---
 
 # Qigong - Ability ID 762
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Qigong ensures all moves never miss while converting Normal-type moves to Fighting-type with STAB. Additionally, eliminates recharge requirements after successfully KOing opponents with high-power moves like Hyper Beam, enabling devastating sweep potential with perfect accuracy and reliability.
+The user always lands their moves. Converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. Eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
