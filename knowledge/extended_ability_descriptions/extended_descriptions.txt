@@ -2399,7 +2399,7 @@ When the user moves after the target, boosts critical hit ratio by 2 stages and 
 When this Pokemon's moves land critical hits, they ignore type resistances (any amount of resists, but not immunities) and defensive abilities that would normally reduce damage.
 
 # ID: 816
-Mental Pollution renders all opposing Pokemon's abilities completely inactive while they are confused. Only other Pokemon with Mental Pollution remain unaffected. This creates powerful disruption against ability-reliant teams but requires inflicting confusion first to take effect.
+Nullifies all opposing Pokemon's abilities and innates while they are confused. Pokemon with Mental Pollution remain unaffected.
 
 # ID: 817
 Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokemon is confused, making it a double-edged defensive tool that trades control for survivability.

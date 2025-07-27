@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 606,
+    "completed": 607,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T17:34:00.953901Z"
+    "generated_at": "2025-07-27T17:46:19.555412Z"
   },
   "abilities": {
     "0": {
@@ -5723,8 +5723,8 @@
       "id": 816,
       "name": "Mental Pollution (N)",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "817": {
       "id": 817,
@@ -11038,10 +11038,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "816": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "817": {
       "indicator": "🟠",
