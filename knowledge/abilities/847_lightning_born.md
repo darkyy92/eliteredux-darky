@@ -1,8 +1,8 @@
 ---
 id: 847
 name: Lightning Born
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 155
 ---
 
 # Lightning Born - Ability ID 847
@@ -13,7 +13,7 @@ Grants Electric-type as a third type when entering battle.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants Electric-type as a third type when entering battle. This additional typing stacks with the Pokemon's original types, adding Electric resistances (Flying, Steel, Electric 0.5x) and weakness (Ground 2x). The Pokemon gains STAB on Electric moves and all type interactions are recalculated.
+Upon entering battle, adds Electric to the user's current typing. Retains Electric typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 
