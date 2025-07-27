@@ -1,8 +1,8 @@
 ---
 id: 721
 name: Raging Goddess 
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 255
 ---
 
 # Raging Goddess - Ability ID 721
@@ -13,7 +13,8 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Raging Goddess combines two powerful effects. Moves hit twice with the second hit dealing 25% damage like Hyper Aggressive. Additionally, like Rampage, eliminates recharge after knocking out an opponent from moves that normally require recharge, allowing for relentless combat.
+Eliminates recharge turns when the user successfully KOs an opponent with a direct attack. Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch).
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
