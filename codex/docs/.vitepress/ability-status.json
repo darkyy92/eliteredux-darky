@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 567,
+    "completed": 568,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:04:11.502709Z"
+    "generated_at": "2025-07-27T15:05:52.379699Z"
   },
   "abilities": {
     "0": {
@@ -5478,8 +5478,8 @@
       "id": 781,
       "name": "Hunter's Mark",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "782": {
       "id": 782,
@@ -10828,10 +10828,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "781": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "782": {
       "indicator": "🟠",

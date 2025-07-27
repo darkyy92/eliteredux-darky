@@ -789,7 +789,7 @@ In Progress: 0
 | 778 | Venom Crown                | ✅       | ✅        |
 | 779 | Blight Scale               | ✅       | ✅        |
 | 780 | Gunman                     | ✅       | ✅        |
-| 781 | Hunter's Mark              | ✅       | ❌        |
+| 781 | Hunter's Mark              | ✅       | ✅        |
 | 782 | Hemolysis                  | ✅       | ❌        |
 | 783 | Caretaker                  | ✅       | ❌        |
 | 784 | Poseidons Dominion         | ✅       | ❌        |
