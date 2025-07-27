@@ -1,8 +1,8 @@
 ---
 id: 780
 name: Gunman
-status: ai-generated
-character_count: 216
+status: reviewed
+character_count: 177
 ---
 
 # Gunman - Ability ID 780
@@ -13,7 +13,7 @@ character_count: 216
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as projectile moves, meaning they also receive the 30% damage boost and trigger other projectile-based effects.
+Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as Mega Launcher moves, receiving boosts from abilities related to them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
