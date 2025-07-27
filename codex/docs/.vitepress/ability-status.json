@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 510,
+    "completed": 511,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T01:43:07.531048Z"
+    "generated_at": "2025-07-27T01:43:58.929276Z"
   },
   "abilities": {
     "0": {
@@ -5121,8 +5121,8 @@
       "id": 730,
       "name": "Razor Sharp",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "731": {
       "id": 731,
@@ -10522,10 +10522,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "730": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "731": {
       "indicator": "🟠",
