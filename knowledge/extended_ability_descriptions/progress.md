@@ -718,7 +718,7 @@ In Progress: 0
 | 707 | Gleam Eyes                 | ✅       | ✅        |
 | 708 | Roused Fangs               | ✅       | ✅        |
 | 709 | Dream State                | ✅       | ✅        |
-| 710 | Dream Whimsy               | ✅       | ❌        |
+| 710 | Dream Whimsy               | ✅       | ✅        |
 | 711 | Lunar Affinity             | ✅       | ❌        |
 | 712 | Flame Shield               | ✅       | ❌        |
 | 713 | Aquatic Dweller            | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 489,
+    "completed": 490,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T00:39:35.395396Z"
+    "generated_at": "2025-07-27T00:41:45.391782Z"
   },
   "abilities": {
     "0": {
@@ -4981,8 +4981,8 @@
       "id": 710,
       "name": "Dream Whimsy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "711": {
       "id": 711,
@@ -10402,10 +10402,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "710": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "711": {
       "indicator": "🟠",
