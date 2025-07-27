@@ -2255,7 +2255,7 @@ Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pok
 Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage. The user gains a 50% Speed boost and 20% Attack boost on their first turn after switching in.
 
 # ID: 767
-When at full HP, this Pokemon's sound-based moves gain increased priority, striking first in battle. The musical mastery grants tactical advantage by accelerating harmonious attacks when the performer is in perfect condition, turning melodies into swift strikes that resonate with enhanced tempo.
+Grants +1 priority to sound moves when at full HP.
 
 # ID: 768
 Combines the power of Striker and elegance of Dancer. Moves with striking techniques deal 30% more damage, while all dance moves are automatically copied when used by any Pokemon on the field. Perfect fusion of offense and rhythm.

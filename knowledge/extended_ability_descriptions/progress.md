@@ -775,7 +775,7 @@ In Progress: 0
 | 764 | Deep Freeze                | ✅       | ✅        |
 | 765 | Soul Devourer              | ✅       | ❌        |
 | 766 | Champions Entrance         | ✅       | ✅        |
-| 767 | Presto                     | ✅       | ❌        |
+| 767 | Presto                     | ✅       | ✅        |
 | 768 | Samba                      | ✅       | ❌        |
 | 769 | Junshi Sanda               | ✅       | ❌        |
 | 770 | Gladiator                  | ✅       | ❌        |

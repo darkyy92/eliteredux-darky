@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 553,
+    "completed": 554,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:13:47.256981Z"
+    "generated_at": "2025-07-27T14:14:47.242253Z"
   },
   "abilities": {
     "0": {
@@ -5380,8 +5380,8 @@
       "id": 767,
       "name": "Presto",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "768": {
       "id": 768,
@@ -10744,10 +10744,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "767": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "768": {
       "indicator": "🟠",
