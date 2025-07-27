@@ -2300,7 +2300,7 @@ Guarantees a critical hit on the user's first turn after switching in or at the 
 When the user poisons a Pokemon, the poisoned target is cleared of all stat raises and they are unable to heal through any means.
 
 # ID: 783
-Each turn, 30% chance to heal status conditions of self or partner (prioritizing partner). Additionally reduces damage dealt to the partner by 50%. A protective ability perfect for double battles, combining healing support with defensive coverage.
+Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon. In a double battle, the user's ally receives 50% less damage. Multiplicative with other damage reduction sources.
 
 # ID: 784
 Upon switching in, the Pokemon immediately summons a powerful whirlpool that targets any opposing Pokemon present. This Water-type attack traps the opponent for 2-5 turns, dealing damage each turn while preventing escape.

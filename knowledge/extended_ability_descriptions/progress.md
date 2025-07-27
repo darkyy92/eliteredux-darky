@@ -791,7 +791,7 @@ In Progress: 0
 | 780 | Gunman                     | ✅       | ✅        |
 | 781 | Hunter's Mark              | ✅       | ✅        |
 | 782 | Hemolysis                  | ✅       | ✅        |
-| 783 | Caretaker                  | ✅       | ❌        |
+| 783 | Caretaker                  | ✅       | ✅        |
 | 784 | Poseidons Dominion         | ✅       | ❌        |
 | 785 | Dual Shadow                | ✅       | ❌        |
 | 786 | Lullaby                    | ✅       | ❌        |
