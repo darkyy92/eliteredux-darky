@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 630,
+    "completed": 631,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T19:00:04.593942Z"
+    "generated_at": "2025-07-27T19:03:43.070417Z"
   },
   "abilities": {
     "0": {
@@ -5870,8 +5870,8 @@
       "id": 837,
       "name": "Chokehold",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "838": {
       "id": 838,
@@ -11164,10 +11164,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "837": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "838": {
       "indicator": "🟠",

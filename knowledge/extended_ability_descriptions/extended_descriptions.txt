@@ -2459,7 +2459,7 @@ Upon entering battle, adds Water to the user's current typing. Retains Water typ
 Boosts the user's Special Defense stat by 50% when in Toxic Terrain.
 
 # ID: 837
-Chokehold enhances binding moves like Wrap, Bind, and Fire Spin by adding paralysis and speed reduction effects. When this Pokemon uses a binding move, the trapped target becomes paralyzed and has its Speed stat lowered. The binding damage and trap duration remain unchanged from normal.
+When the user traps a target, they inflict paralysis and drop their speed by one stage once every turn while trapped.
 
 # ID: 838
 Guardian Coat provides triple protection: complete immunity to weather damage from sandstorm and hail, total immunity to all powder-based moves like Sleep Powder and Spore, and reduces all physical damage taken by 20%. This defensive ability can be suppressed by Mold Breaker-type abilities.
