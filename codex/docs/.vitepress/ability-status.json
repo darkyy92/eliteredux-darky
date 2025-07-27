@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 601,
+    "completed": 602,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:49:44.062468Z"
+    "generated_at": "2025-07-27T16:50:08.453413Z"
   },
   "abilities": {
     "0": {
@@ -5688,8 +5688,8 @@
       "id": 811,
       "name": "Drake Of Rage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "812": {
       "id": 812,
@@ -11008,10 +11008,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "811": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "812": {
       "indicator": "🟠",

@@ -819,7 +819,7 @@ In Progress: 0
 | 808 | Malodor                    | ✅       | ✅        |
 | 809 | Blur                       | ✅       | ✅        |
 | 810 | Elude                      | ✅       | ✅        |
-| 811 | Drake Of Rage              | ✅       | ❌        |
+| 811 | Drake Of Rage              | ✅       | ✅        |
 | 812 | Reverbate                  | ✅       | ❌        |
 | 813 | Mixed Martial Arts         | ✅       | ❌        |
 | 814 | Strategic Pause            | ✅       | ❌        |
