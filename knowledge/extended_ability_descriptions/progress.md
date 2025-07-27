@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 861
+Completed: 860
 In Progress: 0
 
 ## Progress Tracking
@@ -783,7 +783,7 @@ In Progress: 0
 | 772 | Relentless                 | ✅       | ✅        |
 | 773 | Soothsayer                 | ✅       | ✅        |
 | 774 | Corrupted Mind             | ✅       | ✅        |
-| 775 | Flame Coat                 | ✅       | ❌        |
+| 775 | Ability 775                | ❌       | ❌        |
 | 776 | Unown Power                | ✅       | ❌        |
 | 777 | Super Scope                | ✅       | ❌        |
 | 778 | Venom Crown                | ✅       | ❌        |

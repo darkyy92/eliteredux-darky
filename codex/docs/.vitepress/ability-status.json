@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 560,
-    "written": 861,
-    "pending": 15,
-    "generated_at": "2025-07-27T14:35:59.689265Z"
+    "written": 860,
+    "pending": 16,
+    "generated_at": "2025-07-27T14:43:42.161896Z"
   },
   "abilities": {
     "0": {
@@ -5434,10 +5434,10 @@
     },
     "775": {
       "id": 775,
-      "name": "Flame Coat",
-      "written": true,
+      "name": "Ability 775",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "776": {
       "id": 776,
@@ -10792,10 +10792,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "775": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "776": {
       "indicator": "🟠",
