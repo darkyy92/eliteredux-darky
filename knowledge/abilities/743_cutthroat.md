@@ -1,8 +1,8 @@
 ---
 id: 743
 name: Cutthroat
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 157
 ---
 
 # Cutthroat - Ability ID 743
@@ -13,9 +13,7 @@ First slicing move gets +1 priority.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-First slicing move gets +1 priority, then ability deactivates. Sharpen move uniquely RESETS this ability, allowing repeated priority slicing. Coil does NOT reset it. Works with moves having keen edge flag like Sacred Sword. Perfect for Sharpen + slicing combos.
-
-## Detailed Mechanical Explanation
+On entry, gives +1 priority to the first Keen Edge move used. Priority boost is consumed after landing any Keen Edge move. Resets ability if Sharpen is used.
 
 ### Implementation Details
 
