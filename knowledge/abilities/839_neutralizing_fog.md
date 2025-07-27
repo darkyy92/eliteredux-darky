@@ -1,8 +1,8 @@
 ---
 id: 839
 name: Neutralizing Fog
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 131
 ---
 
 # Neutralizing Fog - Ability ID 839
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Neutralizing Fog automatically uses Defog when the Pokemon enters battle. Clears entry hazards (Stealth Rock, Spikes, Toxic Spikes, Sticky Web), screens (Light Screen, Reflect, Aurora Veil), and terrain effects from both sides. Lowers opponent's evasion by 1. Excellent hazard control.
+Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mist. Also lowers the opponent's evasion by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
