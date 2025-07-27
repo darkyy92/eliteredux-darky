@@ -1,8 +1,8 @@
 ---
 id: 808
 name: Malodor
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 105
 ---
 
 # Malodor - Ability ID 808
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, Malodor suppresses the attacker's ability until they switch out, similar to Gastro Acid. This prevents abilities like Poison Touch, Static, or Flame Body from activating on subsequent turns. The suppression persists even if the Malodor user faints.
+When hit by a contact move, the user suppresses the attacker's ability and innates until they switch out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
