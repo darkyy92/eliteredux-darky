@@ -2108,7 +2108,7 @@ Upon entering battle, adds Psychic to the user's current typing. Retains Psychic
 Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered. The user's Electric-type moves become effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows the user to paralyze Electric-types.
 
 # ID: 717
-Wildfire automatically uses Fire Spin upon switching into battle, dealing 50 base power Fire-type damage and trapping the opponent for 2-5 turns. The trapped opponent takes 1/8 max HP damage each turn and cannot switch out until the trap ends. Perfect for securing KOs.
+Uses Fire Spin upon switching into battle, a 50 BP Fire-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out until the trap ends.
 
 # ID: 718
 Jump Scare automatically uses Astonish when the Pokemon switches into battle, but only on the first entry per battle. Astonish is a 40 power Ghost-type move with priority +3 that causes flinching. The one-time restriction prevents repeated switch abuse while maintaining surprise factor.

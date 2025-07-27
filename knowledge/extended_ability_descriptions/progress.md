@@ -725,7 +725,7 @@ In Progress: 0
 | 714 | Apple Pie                  | ✅       | ❌        |
 | 715 | Hover                      | ✅       | ✅        |
 | 716 | Depravity                  | ✅       | ✅        |
-| 717 | Wildfire                   | ✅       | ❌        |
+| 717 | Wildfire                   | ✅       | ✅        |
 | 718 | Jump Scare                 | ✅       | ❌        |
 | 719 | Tar Toss                   | ✅       | ❌        |
 | 720 | Stun Shock                 | ✅       | ❌        |

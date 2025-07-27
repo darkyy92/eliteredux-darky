@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 496,
+    "completed": 497,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T01:09:18.308985Z"
+    "generated_at": "2025-07-27T01:10:52.945655Z"
   },
   "abilities": {
     "0": {
@@ -5030,8 +5030,8 @@
       "id": 717,
       "name": "Wildfire",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "718": {
       "id": 718,
@@ -10444,10 +10444,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "717": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "718": {
       "indicator": "🟠",
