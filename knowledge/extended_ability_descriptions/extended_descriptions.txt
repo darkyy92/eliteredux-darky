@@ -512,7 +512,7 @@ Provides complete immunity to ball, bomb, and projectile moves. Blocks Shadow Ba
 Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokemon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.
 
 # ID: 173
-Strong Jaw boosts the power of biting and fang moves by 30%. Works with Bite, Crunch, Hyper Fang, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, Jaw Lock, and custom moves like Iron Fangs, Draconic Fangs, and Kilobite. Multiplicative with other damage boosts for powerful offense.
+Boosts the power of biting and fang moves by 30%.
 
 # ID: 174
 Refrigerate converts all Normal-type moves to Ice-type. The Pokemon gains STAB (1.5x power) for Ice moves regardless of its original typing. Unlike the main series, this ability does not provide an additional 1.2x power boost to converted moves, only type conversion and STAB access.

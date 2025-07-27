@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 482,
+    "completed": 483,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-26T23:51:22.490725Z"
+    "generated_at": "2025-07-27T00:01:46.874795Z"
   },
   "abilities": {
     "0": {
@@ -1222,8 +1222,8 @@
       "id": 173,
       "name": "Strong Jaw",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "174": {
       "id": 174,
@@ -7180,10 +7180,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "173": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "174": {
       "indicator": "🟠",
