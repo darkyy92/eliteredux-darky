@@ -1,8 +1,8 @@
 ---
 id: 741
 name: Breakwater
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 129
 ---
 
 # Breakwater - Ability ID 741
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Swift Swim boosts Speed by 50% during rain weather. Stall reduces damage by 30% when moving before the opponent. Both effects stack for excellent defensive rain sweeping. Works with all rain types including Primordial Sea. Strategic positioning for optimal benefits.
+Boosts Speed by 50% during rain. Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
