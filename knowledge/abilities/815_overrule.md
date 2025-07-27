@@ -1,8 +1,8 @@
 ---
 id: 815
 name: Overrule
-status: ai-generated
-character_count: 270
+status: reviewed
+character_count: 177
 ---
 
 # Overrule - Ability ID 815
@@ -13,7 +13,7 @@ character_count: 270
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon's moves land critical hits, they completely ignore type resistances and defensive abilities that would normally reduce damage. Super-effective moves stay super-effective, but not-very-effective and immune matchups are treated as neutral damage instead.
+When this Pokemon's moves land critical hits, they ignore type resistances (any amount of resists, but not immunities) and defensive abilities that would normally reduce damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
