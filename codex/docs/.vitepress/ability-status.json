@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 604,
+    "completed": 605,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:53:25.324732Z"
+    "generated_at": "2025-07-27T16:54:38.339069Z"
   },
   "abilities": {
     "0": {
@@ -5709,8 +5709,8 @@
       "id": 814,
       "name": "Strategic Pause",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "815": {
       "id": 815,
@@ -11026,10 +11026,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "814": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "815": {
       "indicator": "🟠",
