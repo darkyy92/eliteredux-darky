@@ -1,8 +1,8 @@
 ---
 id: 833
 name: Harukaze
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 160
 ---
 
 # Harukaze - Ability ID 833
@@ -13,7 +13,7 @@ Setting Grassy Terrain sets Tailwind and vice versa.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon or an ally sets Grassy Terrain, your team automatically gains Tailwind for the same duration. Conversely, when your team gains Tailwind, Grassy Terrain is automatically set. This bidirectional synergy creates a powerful field control combination, boosting both offense and defense.
+Sets Grassy Terrain when setting Tailwind, and sets Tailwind when setting Grassy Terrain. Does not refresh the duration in either case if one is already active. 
 
 ## Detailed Mechanical Explanation
 
