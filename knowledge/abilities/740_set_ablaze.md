@@ -1,8 +1,8 @@
 ---
 id: 740
 name: Set Ablaze
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 176
 ---
 
 # Set Ablaze - Ability ID 740
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Set Ablaze causes the Pokemon to inflict fear status alongside burn whenever it successfully burns an opponent. Fear prevents the target from switching out or using status moves. Works with all burn-inflicting moves and abilities. Creates powerful control combinations.
+When the user applies burn, they also apply fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
