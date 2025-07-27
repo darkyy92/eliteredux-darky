@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 542,
+    "completed": 543,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:40:17.164352Z"
+    "generated_at": "2025-07-27T12:41:47.263598Z"
   },
   "abilities": {
     "0": {
@@ -5317,8 +5317,8 @@
       "id": 758,
       "name": "Bruteforce",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "759": {
       "id": 759,
@@ -10690,10 +10690,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "758": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "759": {
       "indicator": "🟠",

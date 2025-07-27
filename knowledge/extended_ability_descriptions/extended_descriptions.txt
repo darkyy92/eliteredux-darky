@@ -2228,7 +2228,7 @@ Increases the power of all kicking moves by 30%. Includes Pyro Ball. Normal-type
 Boosts Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
 
 # ID: 758
-Bruteforce combines Reckless and Rock Head effects. Boosts recoil moves by 20% damage while preventing all recoil damage taken. Grants immunity to confusion status and removes confusion when hit by moves that would cause it. Perfect for aggressive attackers using high-risk moves.
+Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves. Prevents all recoil damage from the user's moves and abilities. Also grants immunity to enrage recoil damage. Does not prevent crash damage or Explosion/Self-Destruct damage.
 
 # ID: 759
 Protects from critical hits and reduces physical damage by 20%. When hit by contact moves, automatically uses Thunder Cage at 50 power to trap the attacker in electricity for 2-5 turns, dealing damage at the end of each turn and preventing escape.
