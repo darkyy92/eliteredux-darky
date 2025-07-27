@@ -2468,7 +2468,7 @@ Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mis
 Damages attackers using contact moves for 1/8 of their max HP. Also has a 30% chance to inflict poison on contact moves, both when attacking and being attacked. Activates on every hit for multihitting moves.
 
 # ID: 841
-Transforms the Pokemon into a mighty dragon warrior by adding Dragon as a third type and converting all Normal-type moves to Dragon-type. Normal moves become Dragon attacks that gain STAB (1.5x damage) from the added Dragon typing, turning basic attacks into powerful draconic strikes.
+Converts all Normal-type moves into Dragon-type moves and grants STAB for Dragon-type moves, regardless of the user's typing. On entry, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out.
 
 # ID: 842
 This innate ability swaps sound and dance move properties. Sound moves like Hyper Voice and Boomburst function as dance moves, while dance moves like Dragon Dance and Quiver Dance act as sound moves. This affects interactions with abilities like Soundproof and Dancer, creating unique strategies.
