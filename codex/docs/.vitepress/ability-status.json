@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 616,
+    "completed": 617,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:10:13.569844Z"
+    "generated_at": "2025-07-27T18:14:34.000308Z"
   },
   "abilities": {
     "0": {
@@ -5793,8 +5793,8 @@
       "id": 826,
       "name": "Tender Affection",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "827": {
       "id": 827,
@@ -11098,10 +11098,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "826": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "827": {
       "indicator": "🟠",

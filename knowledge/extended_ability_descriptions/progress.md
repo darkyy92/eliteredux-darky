@@ -834,7 +834,7 @@ In Progress: 0
 | 823 | Chilling Presence          | ✅       | ✅        |
 | 824 | Frostbind                  | ✅       | ✅        |
 | 825 | Glacial Ghost              | ✅       | ✅        |
-| 826 | Tender Affection           | ✅       | ❌        |
+| 826 | Tender Affection           | ✅       | ✅        |
 | 827 | Wonder Scale               | ✅       | ❌        |
 | 828 | Overzealous                | ✅       | ❌        |
 | 829 | Stainless Steel            | ✅       | ❌        |

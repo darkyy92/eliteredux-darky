@@ -2426,7 +2426,7 @@ When inflicting frostbite, the user also inflicts disable. Disable prevents the 
 Boosts the Pokemon's Speed by 50% and reduces opponent accuracy by 25% during hail. Immune to hail damage.
 
 # ID: 826
-Combines Cute Charm's 50% chance to infatuate attackers on contact with Same Type Attack Bonus for Fairy-type moves. The infatuation effect triggers when hit by physical contact moves from opposite gender Pokemon. Fairy-type moves gain 1.5x damage multiplier regardless of the user's actual type.
+When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). Also gives STAB to Fairy-type moves.
 
 # ID: 827
 Wonder Scale grants a 30% chance to cure any status condition at the end of each turn. Also provides immunity to offensive ability effects like Parental Bond and ability-based damage multipliers. This dual defense protects against both status ailments and passive damage abilities.
