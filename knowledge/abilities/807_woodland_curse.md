@@ -1,8 +1,8 @@
 ---
 id: 807
 name: Woodland Curse
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 226
 ---
 
 # Woodland Curse - Ability ID 807
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, automatically uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with this Pokemon, they also gain Grass as a third type. Only affects non-Grass types. The type addition persists until switching out.
+Upon entering battle, uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with the user, they also gain Grass as an extra type. Only affects non-Grass types. Persists until switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
