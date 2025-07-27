@@ -2405,7 +2405,7 @@ Nullifies all opposing Pokemon's abilities and innates while they are confused. 
 Forces self-confusion when entering fog. All incoming damage is reduced by 50% when the user is confused and it will never hurt itself.
 
 # ID: 818
-Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.
+Trapping moves last 6 turns instead of 4-5 turns and increases their damage at the end of the turn to 1/6 max HP per turn. Gives attacks a 50% chance to trap the target for 6 turns, preventing escape or switching. Once trapped, their speed drops by one stage each turn they remain on the field.
 
 # ID: 819
 Gives attacks a 50% chance to trap the target for 4-5 turns, preventing escape or switching. Once trapped, their speed drops by one stage each turn they remain on the field.
