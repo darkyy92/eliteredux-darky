@@ -1,8 +1,8 @@
 ---
 id: 132
 name: Friend Guard
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 113
 ---
 
 # Friend Guard - Ability ID 132
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Friend Guard provides powerful team support by reducing damage taken by your ally Pokemon by 50% in double battles. This protective aura only works when both Pokemon are active and conscious on the field. Does not stack with multiple Friend Guard users but combines with other damage reduction.
+In a double battle, the user's ally receives 50% less damage. Multiplicative with other damage reduction sources. 
 
 ## Detailed Mechanical Explanation
 
