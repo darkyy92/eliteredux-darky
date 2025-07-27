@@ -1,8 +1,8 @@
 ---
 id: 788
 name: Glacial Rage
-status: ai-generated
-character_count: 234
+status: reviewed
+character_count: 150
 ---
 
 # Glacial Rage - Ability ID 788
@@ -13,7 +13,7 @@ character_count: 234
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-After using any Ice-type move, the Pokemon automatically follows up with a 50 BP Blizzard that can hit both opponents in double battles. This creates a devastating combo that turns every Ice attack into a potential freeze opportunity.
+After using an Ice-type move, the user follows up with a 50 BP Blizzard (Ice, 85% accuracy, hits both opponents, 20% frostbite chance. Weather-based). 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
