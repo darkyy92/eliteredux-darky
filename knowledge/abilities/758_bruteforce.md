@@ -1,8 +1,8 @@
 ---
 id: 758
 name: Bruteforce
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 278
 ---
 
 # Bruteforce - Ability ID 758
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Bruteforce combines Reckless and Rock Head effects. Boosts recoil moves by 20% damage while preventing all recoil damage taken. Grants immunity to confusion status and removes confusion when hit by moves that would cause it. Perfect for aggressive attackers using high-risk moves.
+Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves. Prevents all recoil damage from the user's moves and abilities. Also grants immunity to enrage recoil damage. Does not prevent crash damage or Explosion/Self-Destruct damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
