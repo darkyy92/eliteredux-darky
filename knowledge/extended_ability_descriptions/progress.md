@@ -150,7 +150,7 @@ In Progress: 0
 | 139 | Harvest                    | ✅       | ✅        |
 | 140 | Telepathy                  | ✅       | ❌        |
 | 141 | Moody                      | ✅       | ❌        |
-| 142 | Overcoat                   | ✅       | ❌        |
+| 142 | Overcoat                   | ✅       | ✅        |
 | 143 | Poison Touch               | ✅       | ❌        |
 | 144 | Regenerator                | ✅       | ✅        |
 | 145 | Big Pecks                  | ✅       | ❌        |

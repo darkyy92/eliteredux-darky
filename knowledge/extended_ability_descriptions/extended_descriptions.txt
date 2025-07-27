@@ -416,7 +416,7 @@ Telepathy protects the Pokemon from all damage-dealing moves used by its allies 
 Moody triggers at the end of each turn, randomly selecting one stat to sharply raise (+2 stages) and another stat to lower (-1 stage). The same stat cannot be both raised and lowered in the same turn. Only activates if at least one stat change is possible.
 
 # ID: 142
-Overcoat provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming special damage by 20%.
+Provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming special damage by 20%. Multiplicative with other damage reduction sources.
 
 # ID: 143
 When this Pokemon makes physical contact, either by using contact moves or being hit by them, there's a 30% chance the opposing Pokemon becomes poisoned. This ability functions both offensively and defensively during battle, but cannot poison targets already poisoned or immune to poison.
