@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 643,
+    "completed": 644,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T19:32:03.531422Z"
+    "generated_at": "2025-07-27T19:32:53.169367Z"
   },
   "abilities": {
     "0": {
@@ -5954,8 +5954,8 @@
       "id": 849,
       "name": "World Serpent",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "850": {
       "id": 850,
@@ -11236,10 +11236,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "849": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "850": {
       "indicator": "🟠",
