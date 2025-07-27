@@ -2273,7 +2273,7 @@ Raises Attack by one stage when any Pokemon faints on the battlefield, including
 When attacking a statused opponent, deals 1.25x damage and automatically targets their lower defensive stat. Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered.
 
 # ID: 773
-First switch-in only: Take 0.5x damage from all attacks for 3 turns. Breakable by Mold Breaker. Persistent ability - states maintained through switches. After 3 turns, effect permanently ends even if switching. Countdown only happens while active on field.
+On entry, all attacks received by the user are considered "not very effective" for 3 turns. Deactivates when switching out.
 
 # ID: 774
 Psychic-type moves bypass all type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%, making status infliction more reliable.
