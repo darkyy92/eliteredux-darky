@@ -1,8 +1,8 @@
 ---
 id: 75
 name: Shell Armor
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 215
 ---
 
 # Shell Armor - Ability ID 75
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon's shell prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokemon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
+Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
