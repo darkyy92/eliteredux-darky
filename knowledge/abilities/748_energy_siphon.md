@@ -1,8 +1,8 @@
 ---
 id: 748
 name: Energy Siphon
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 135
 ---
 
 # Energy Siphon - Ability ID 748
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Energy Siphon heals the user for 25% of all damage they deal to opponents. Works with any attack that causes damage, including physical, special, and multi-hit moves. Healing occurs immediately after damage is dealt. Minimum healing is 1 HP even for very weak attacks.
+Heals the user for 25% of all damage they deal to opponents. Healing occurs immediately after damage is dealt. Minimum healing of 1 HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
