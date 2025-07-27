@@ -1,8 +1,8 @@
 ---
 id: 718
 name: Jump Scare
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 124
 ---
 
 # Jump Scare - Ability ID 718
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Jump Scare automatically uses Astonish when the Pokemon switches into battle, but only on the first entry per battle. Astonish is a 40 power Ghost-type move with priority +3 that causes flinching. The one-time restriction prevents repeated switch abuse while maintaining surprise factor.
+Uses Astonish on switch in, a 40 BP Ghost-type Physical move with +3 priority that always causes flinching. Once per battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
