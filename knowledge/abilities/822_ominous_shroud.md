@@ -1,8 +1,8 @@
 ---
 id: 822
 name: Ominous Shroud
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 245
 ---
 
 # Ominous Shroud - Ability ID 822
@@ -13,7 +13,7 @@ Phantom + Shadow Shield.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ominous Shroud grants Ghost typing upon entering battle and reduces all damage by 50% when at full HP. The Ghost typing remains throughout battle, granting immunity to Normal and Fighting moves. The damage reduction is lost when HP drops below maximum but returns when healed to full.
+Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing even upon losing the ability, going away only when switching out. Halves damage from all attacks when at full HP. Multiplicative with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 
