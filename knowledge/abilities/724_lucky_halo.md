@@ -1,8 +1,8 @@
 ---
 id: 724
 name: Lucky Halo
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 136
 ---
 
 # Lucky Halo - Ability ID 724
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lucky Halo prevents all negative stat changes to the user and allows survival of one KO hit per battle with exactly 1 HP remaining. The stat drop prevention works like Clear Body, blocking Intimidate and stat-lowering moves. The endure effect activates once per battle similar to Focus Sash effects.
+Prevents self-inflicted stat drops on the user and allows them to survive an attack that would KO them one time, leaving them with 1 HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
