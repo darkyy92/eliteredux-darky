@@ -2246,7 +2246,7 @@ The user always lands their moves. Converts all Normal-type moves into Fighting-
 Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. Reflects most status moves back to the user before they can take effect. Reflected moves target the original user. Does not reflect moves that were already reflected.
 
 # ID: 764
-Deep Freeze boosts Water and Ice-type moves by 25% while halving Fire-type damage taken. This dual offensive and defensive ability provides excellent type synergy for Water/Ice Pokemon, enhancing STAB attacks while providing crucial Fire resistance. Stacks with other damage modifiers.
+Boosts the damage of Water and Ice-type moves by 25%. Halves damage received from Fire-type moves. Multiplicative with other damage reduction sources.
 
 # ID: 765
 Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokemon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokemon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
