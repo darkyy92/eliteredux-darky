@@ -1,8 +1,8 @@
 ---
 id: 755
 name: Balloon Blitz
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 299
 ---
 
 # Balloon Blitz - Ability ID 755
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Inflatable and Hyper Aggressive effects. When hit by Fire or Flying moves, boosts Defense and Special Defense by one stage each. Additionally, all moves strike twice, with the second hit dealing 25% damage. Perfect for aggressive tanks that capitalize on defensive boosts.
+When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage. Activates on each hit of a multihit move. Boost applies after the hit lands. All attacks hit twice. First hit deals 100%, while the second deals 25%. Each hit rolls secondary effects independently (except flinch).
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
