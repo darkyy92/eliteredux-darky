@@ -1,8 +1,8 @@
 ---
 id: 729
 name: Victory Bomb
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 147
 ---
 
 # Victory Bomb - Ability ID 729
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Victory Bomb triggers when the Pokemon faints, causing it to retaliate with a 100 Base Power Fire-type Explosion targeting the attacker. The explosion occurs after fainting and cannot miss. Works regardless of how the Pokemon was KOed, making it a dangerous last-resort revenge ability.
+When fainting, retaliate with a 100 BP Fire-type Explosion targeting all adjacent Pokemon. Cannot miss. Works regardless of how the user. was KOed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
