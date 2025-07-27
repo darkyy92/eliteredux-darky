@@ -101,7 +101,7 @@ In Progress: 0
 |  90 | Poison Heal                | ✅       | ❌        |
 |  91 | Adaptability               | ✅       | ❌        |
 |  92 | Skill Link                 | ✅       | ✅        |
-|  93 | Hydration                  | ✅       | ❌        |
+|  93 | Hydration                  | ✅       | ✅        |
 |  94 | Solar Power                | ✅       | ❌        |
 |  95 | Quick Feet                 | ✅       | ❌        |
 |  96 | Normalize                  | ✅       | ❌        |

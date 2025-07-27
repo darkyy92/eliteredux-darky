@@ -272,7 +272,7 @@ Adaptability enhances the Same Type Attack Bonus (STAB) from 1.5x to 2x damage w
 Multihit moves to always hit 5 times. For moves that only hit 3 times or Population Bomb, there will be one accuracy check for all hits instead of individual checks for each hit.
 
 # ID: 93
-Hydration cures the Pokemon of any status condition at the end of each turn during rain weather. Works with all forms of rain including Rain Dance, heavy rain, and Primordial Sea. Cures sleep, poison, toxic poison, burn, freeze, and paralysis. Essential for rain teams seeking status immunity.
+During rain, cures all status conditions at the end of the turn.
 
 # ID: 94
 Boosts highest attacking stat by 50% in sun. Compares Attack vs Special Attack including stat stages and applies 1.5x multiplier to the higher stat. Works with regular sun, Drought, and Desolate Land weather conditions. No HP loss unlike main series. Pure offensive boost with no drawbacks.
