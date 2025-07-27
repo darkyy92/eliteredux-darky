@@ -1,8 +1,8 @@
 ---
 id: 709
 name: Dream State
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 215
 ---
 
 # Dream State - Ability ID 709
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dream State grants complete immunity to critical hits and reduces all incoming damage by 20%. The damage reduction stacks with resistances and items. Critical immunity blocks all crit sources including abilities and held items, making it excellent against high-crit Pokemon and luck strategies.
+Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
