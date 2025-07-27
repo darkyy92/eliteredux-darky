@@ -1,8 +1,8 @@
 ---
 id: 742
 name: Magical Fists
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 119
 ---
 
 # Magical Fists - Ability ID 742
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting additional punching coverage types. Grumpig and Darmanitan Redux Aura notably have access to this very powerful ability.
+Punching moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
