@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 527,
+    "completed": 528,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T02:13:54.668500Z"
+    "generated_at": "2025-07-27T02:16:00.533551Z"
   },
   "abilities": {
     "0": {
@@ -5233,8 +5233,8 @@
       "id": 746,
       "name": "Desolate Sun",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "747": {
       "id": 747,
@@ -10618,10 +10618,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "746": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "747": {
       "indicator": "🟠",

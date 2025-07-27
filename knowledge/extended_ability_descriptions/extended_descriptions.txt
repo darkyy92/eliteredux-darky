@@ -2192,7 +2192,7 @@ Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). Boosts the P
 Uses Sand Tomb with 20 BP on switch in. Hits all opposing Pokemon and traps them for 4-5 turns, making them lose 1/8 max HP each turn. Cannot miss and ignores accuracy checks.
 
 # ID: 746
-Desolate Sun creates extremely harsh sunlight that lasts until the user switches out and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves. Combines weather control with Ground immunity for strong defensive utility.
+Creates extremely harsh sunlight that lasts until the user switches out. Has the standard sun effects and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves instead of taking damage.
 
 # ID: 747
 Daybreak guarantees burn on all contact moves, both offensive and defensive. Unlike Flame Body's 30% chance, this ability burns attackers 100% of the time when they use contact moves. Also burns defenders when the Daybreak user attacks with contact moves.

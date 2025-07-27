@@ -754,7 +754,7 @@ In Progress: 0
 | 743 | Cutthroat                  | ✅       | ✅        |
 | 744 | Sand Bender                | ✅       | ✅        |
 | 745 | Sand Pit                   | ✅       | ✅        |
-| 746 | Desolate Sun               | ✅       | ❌        |
+| 746 | Desolate Sun               | ✅       | ✅        |
 | 747 | Daybreak                   | ✅       | ❌        |
 | 748 | Energy Siphon              | ✅       | ❌        |
 | 749 | Reservoir                  | ✅       | ❌        |
