@@ -1,8 +1,8 @@
 ---
 id: 120
 name: Reckless
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 103
 ---
 
 # Reckless - Ability ID 120
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reckless increases the damage of moves that cause recoil by 20%, making them deal 1.2x damage. This applies to moves like Double-Edge, Brave Bird, Flare Blitz, Wood Hammer, Volt Tackle, and other recoil-inducing attacks. The recoil damage itself remains unchanged by this ability.
+Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
