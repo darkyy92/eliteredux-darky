@@ -1,8 +1,8 @@
 ---
 id: 830
 name: Temporal Rupture
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 212
 ---
 
 # Temporal Rupture - Ability ID 830
@@ -13,7 +13,7 @@ Roar of Time is altered drastically.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-A legendary power that warps time itself when Roar of Time is used. This innate ability fundamentally alters the move, transforming it into something more devastating than its modified form. The exact nature of this temporal distortion remains a secret. Found only on legendary Dragon/Steel types.
+Roar of Time becomes a 100 BP +0 Priority attack that changes the target's Ability to Slow Start (halves attacking stats and speed for 5 turns). It also no longer forces Pokemon out or is considered a sound move.
 
 ## Detailed Mechanical Explanation
 
