@@ -1,8 +1,8 @@
 ---
 id: 747
 name: Daybreak
-status: ai-generated
-character_count: 255
+status: reviewed
+character_count: 64
 ---
 
 # Daybreak - Ability ID 747
@@ -13,7 +13,7 @@ character_count: 255
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Daybreak guarantees burn on all contact moves, both offensive and defensive. Unlike Flame Body's 30% chance, this ability burns attackers 100% of the time when they use contact moves. Also burns defenders when the Daybreak user attacks with contact moves.
+The user burns the foe on contact. Works on offense and defense.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
