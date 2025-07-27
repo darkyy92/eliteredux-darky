@@ -1,8 +1,8 @@
 ---
 id: 809
 name: Blur
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 121
 ---
 
 # Blur - Ability ID 809
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. This makes fast Pokemon extremely tanky against physical attacks like Tackle, Punch moves, and Earthquake while remaining vulnerable to special projectiles.
+When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
