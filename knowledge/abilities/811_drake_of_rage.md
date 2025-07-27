@@ -2,7 +2,7 @@
 id: 811
 name: Drake Of Rage
 status: reviewed
-character_count: 262
+character_count: 221
 ---
 
 # Drake Of Rage - Ability ID 811
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Doubles damage of not very effective moves like Tinted Lens. When this Pokemon knocks out a foe, it immediately recovers from recharge effects and removes recharge status, allowing consecutive use of powerful moves like Hyper Beam without the mandatory rest turn
+Doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x. Eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
