@@ -1,8 +1,8 @@
 ---
 id: 823
 name: Chilling Presence
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 116
 ---
 
 # Chilling Presence - Ability ID 823
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Chilling Presence automatically uses a weakened Icy Wind when the Pokemon enters battle, targeting all opposing Pokemon. The move deals 10 base power Ice-type damage instead of the usual 60, but retains perfect accuracy and guaranteed Speed reduction effects. Useful for slowing fast threats.
+Uses a 10 BP Icy Wind (Ice, Special, Air-based) on entry, hitting all opponents and lowering their Speed by 1 stage.
 
 ## Detailed Mechanical Explanation
 
