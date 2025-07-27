@@ -1,8 +1,8 @@
 ---
 id: 777
 name: Super Scope
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 204
 ---
 
 # Super Scope - Ability ID 777
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Mega Launcher and Artillery for the ultimate projectile mastery. Boosts pulse, beam, ball, and aura moves by 30% while ensuring they always hit and strike both opponents simultaneously. Perfect accuracy meets devastating power for comprehensive battlefield dominance.
+Boosts pulse, beam, ball, and aura moves by 30%. Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Unable to miss with pulse, beam, ball, aura, and other blast related moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
