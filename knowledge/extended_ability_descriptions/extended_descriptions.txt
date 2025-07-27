@@ -2213,7 +2213,7 @@ Horn moves become Special (deal Special damage and use the Special Attack stat) 
 Sets Sticky Web on opponent's field when the user enters battle. Lasts 7 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field.
 
 # ID: 753
-Crust Coat provides comprehensive defensive protection by making the Pokemon immune to critical hits and reducing all incoming damage by 20%. This dual defense mechanism is particularly effective against high-critical-hit-ratio moves and strong attackers, making it excellent for tanky builds.
+Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 # ID: 754
 Puffy reduces damage from contact moves by 50%, providing excellent protection against physical attackers. However, Fire-type moves deal double damage to Puffy users, creating a significant vulnerability. The contact protection works against all physical contact moves.

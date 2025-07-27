@@ -761,7 +761,7 @@ In Progress: 0
 | 750 | Neurotoxin                 | ✅       | ✅        |
 | 751 | Energized Horns            | ✅       | ✅        |
 | 752 | Spider Lair Upgrade        | ✅       | ✅        |
-| 753 | Crust Coat                 | ✅       | ❌        |
+| 753 | Crust Coat                 | ✅       | ✅        |
 | 754 | Puffy                      | ✅       | ❌        |
 | 755 | Balloon Blitz              | ✅       | ❌        |
 | 756 | Striker Pixilate           | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 534,
+    "completed": 535,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:07:24.791320Z"
+    "generated_at": "2025-07-27T12:10:14.881162Z"
   },
   "abilities": {
     "0": {
@@ -5282,8 +5282,8 @@
       "id": 753,
       "name": "Crust Coat",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "754": {
       "id": 754,
@@ -10660,10 +10660,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "753": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "754": {
       "indicator": "🟠",
