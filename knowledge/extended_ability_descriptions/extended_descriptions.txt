@@ -2123,7 +2123,7 @@ When the user lands an attack, there's a 60% chance of inflicting poison or para
 Eliminates recharge turns when the user successfully KOs an opponent with a direct attack. Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch).
 
 # ID: 722
-Whiplash lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. Works with all physical moves including multi-hit attacks. The Defense drop occurs after damage, helping break through defensive walls and support teammates.
+Lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. The Defense drop occurs after damage.
 
 # ID: 723
 Supersweet Syrup combines Sticky Hold's item protection with item disruption. The Pokemon's item cannot be removed or stolen. When hit by contact moves, the attacker's item is disabled for 2 turns, preventing item activation and effects during battle.

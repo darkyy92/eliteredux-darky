@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 501,
+    "completed": 502,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T01:23:38.566469Z"
+    "generated_at": "2025-07-27T01:24:38.805468Z"
   },
   "abilities": {
     "0": {
@@ -5065,8 +5065,8 @@
       "id": 722,
       "name": "Whiplash",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "723": {
       "id": 723,
@@ -10474,10 +10474,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "722": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "723": {
       "indicator": "🟠",
