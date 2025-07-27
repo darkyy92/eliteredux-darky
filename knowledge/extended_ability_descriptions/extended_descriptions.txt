@@ -1424,7 +1424,7 @@ When hit, raises the user's Special Attack by 1 stage or maximizes it on critica
 Uses Disable on switch-in. Disable prevents the target from using their last-used move for 4 turns. Fails if the target has not moved yet.
 
 # ID: 482
-Sand Guard blocks priority moves and reduces special attack damage by 50% during a sandstorm. Multiplicative with other sources of damage reduction.
+Sand Guard blocks priority moves and reduces Special Attack damage by 50% during a sandstorm. Multiplicative with other sources of damage reduction.
 
 # ID: 483
 Cures all status conditions when switching out. Also restores 33% of maximum HP when switching out.
