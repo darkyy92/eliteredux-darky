@@ -2,7 +2,7 @@
 id: 801
 name: Sun's Bounty
 status: reviewed
-character_count: 138
+character_count: 191
 ---
 
 # Sun's Bounty - Ability ID 801
@@ -13,7 +13,7 @@ character_count: 138
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-During sun, cures all status conditions at at the end of the turn; and 50% chance to restore your consumed berry on turn end, 100% in sun.
+During sun, cures all status conditions at at the end of the turn; and 50% chance to restore berry on turn end, 100% in sun. Includes berries that were used for Fling, Natural Gift, or eaten.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
