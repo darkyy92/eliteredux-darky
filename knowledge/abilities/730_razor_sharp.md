@@ -1,8 +1,8 @@
 ---
 id: 730
 name: Razor Sharp
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 190
 ---
 
 # Razor Sharp - Ability ID 730
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Razor Sharp inflicts bleeding status on opponents when the Pokemon lands a critical hit. Bleeding deals 1/16 max HP damage per turn and prevents healing until cured. Only affects Pokemon that can normally be afflicted with status conditions. Rock and Ghost types are immune to bleeding effects.
+Inflict bleed when landing a critical hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
