@@ -386,7 +386,7 @@ Defeatist halves both Attack and Special Attack stats when HP drops below 33% of
 Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokemon.
 
 # ID: 131
-Healer gives a 30% chance to cure status conditions at the end of each turn. In single battles, it only cures the user. In double battles, it can cure either the user or their ally partner. The ability checks for both Pokemon separately and can potentially cure both in the same turn if lucky.
+Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon.
 
 # ID: 132
 Friend Guard provides powerful team support by reducing damage taken by your ally Pokemon by 50% in double battles. This protective aura only works when both Pokemon are active and conscious on the field. Does not stack with multiple Friend Guard users but combines with other damage reduction.

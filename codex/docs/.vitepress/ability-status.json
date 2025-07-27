@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 569,
+    "completed": 570,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:09:50.909001Z"
+    "generated_at": "2025-07-27T15:12:13.104573Z"
   },
   "abilities": {
     "0": {
@@ -928,8 +928,8 @@
       "id": 131,
       "name": "Healer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "132": {
       "id": 132,
@@ -6928,10 +6928,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "131": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "132": {
       "indicator": "🟠",

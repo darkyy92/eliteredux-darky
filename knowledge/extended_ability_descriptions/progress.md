@@ -139,7 +139,7 @@ In Progress: 0
 | 128 | Defiant                    | ✅       | ❌        |
 | 129 | Defeatist                  | ✅       | ❌        |
 | 130 | Cursed Body                | ✅       | ❌        |
-| 131 | Healer                     | ✅       | ❌        |
+| 131 | Healer                     | ✅       | ✅        |
 | 132 | Friend Guard               | ✅       | ❌        |
 | 133 | Weak Armor                 | ✅       | ❌        |
 | 134 | Heavy Metal                | ✅       | ❌        |
