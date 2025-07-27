@@ -717,7 +717,7 @@ In Progress: 0
 | 706 | Shocking Maw               | ✅       | ✅        |
 | 707 | Gleam Eyes                 | ✅       | ✅        |
 | 708 | Roused Fangs               | ✅       | ✅        |
-| 709 | Dream State                | ✅       | ❌        |
+| 709 | Dream State                | ✅       | ✅        |
 | 710 | Dream Whimsy               | ✅       | ❌        |
 | 711 | Lunar Affinity             | ✅       | ❌        |
 | 712 | Flame Shield               | ✅       | ❌        |
