@@ -817,7 +817,7 @@ In Progress: 0
 | 806 | Super Sniper               | ✅       | ✅        |
 | 807 | Woodland Curse             | ✅       | ✅        |
 | 808 | Malodor                    | ✅       | ✅        |
-| 809 | Blur                       | ✅       | ❌        |
+| 809 | Blur                       | ✅       | ✅        |
 | 810 | Elude                      | ✅       | ❌        |
 | 811 | Drake Of Rage              | ✅       | ❌        |
 | 812 | Reverbate                  | ✅       | ❌        |
