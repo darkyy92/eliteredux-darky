@@ -353,7 +353,7 @@ Honey Gather gives a 50% chance to find a Honey item at the end of each turn, bu
 Upon entering battle, reveals the opponents' items and prevents them from working for 2 turns. Does not prevent Mega Stones and other similar items from working.
 
 # ID: 120
-Reckless increases the damage of moves that cause recoil by 20%, making them deal 1.2x damage. This applies to moves like Double-Edge, Brave Bird, Flare Blitz, Wood Hammer, Volt Tackle, and other recoil-inducing attacks. The recoil damage itself remains unchanged by this ability.
+Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves.
 
 # ID: 121
 Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.

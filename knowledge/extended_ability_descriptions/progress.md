@@ -128,7 +128,7 @@ In Progress: 0
 | 117 | Snow Warning               | ✅       | ❌        |
 | 118 | Honey Gather               | ✅       | ❌        |
 | 119 | Frisk                      | ✅       | ✅        |
-| 120 | Reckless                   | ✅       | ❌        |
+| 120 | Reckless                   | ✅       | ✅        |
 | 121 | Multitype                  | ✅       | ❌        |
 | 122 | Flower Gift                | ✅       | ❌        |
 | 123 | Bad Dreams                 | ✅       | ❌        |

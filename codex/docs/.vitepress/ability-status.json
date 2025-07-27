@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 540,
+    "completed": 541,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:21:04.628598Z"
+    "generated_at": "2025-07-27T12:28:33.664355Z"
   },
   "abilities": {
     "0": {
@@ -851,8 +851,8 @@
       "id": 120,
       "name": "Reckless",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "121": {
       "id": 121,
@@ -6862,10 +6862,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "120": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "121": {
       "indicator": "🟠",
