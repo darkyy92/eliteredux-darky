@@ -1,8 +1,8 @@
 ---
 id: 842
 name: Festivities (N)
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 168
 ---
 
 # Festivities (N) - Ability ID 842
@@ -13,7 +13,7 @@ Sound moves become dance moves and vice versa.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This innate ability swaps sound and dance move properties. Sound moves like Hyper Voice and Boomburst function as dance moves, while dance moves like Dragon Dance and Quiver Dance act as sound moves. This affects interactions with abilities like Soundproof and Dancer, creating unique strategies.
+Sound moves are also treated as dance moves, benefiting from Dancer-type abilities. Dancer moves are also treated as sound moves, benefiting from sound-based abilities.
 
 ## Detailed Mechanical Explanation
 
