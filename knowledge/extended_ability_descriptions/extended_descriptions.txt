@@ -2156,7 +2156,7 @@ Triggers a 50 BP Leaf Blade (Grass-type, Physical) follow-up attack immediately 
 Makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects.
 
 # ID: 734
-Ape Shift transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions during transformation. After transforming, all attacks become critical hits. Works on entry, during battle, and at turn end. Exclusive to Mega Slaking forms.
+Transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions after transformation. After transforming, all attacks become critical hits. Activates on entry, during battle, and at turn end.
 
 # ID: 735
 Contact moves inflict dazed status for 5 turns. Dazed Pokemon always move absolutely last regardless of priority, speed, or other effects. Multiple dazed Pokemon compete normally among themselves. Status effect does not stack or refresh on already dazed targets.

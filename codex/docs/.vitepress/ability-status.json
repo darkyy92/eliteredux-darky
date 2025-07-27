@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 513,
+    "completed": 514,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:48:03.152509Z"
+    "generated_at": "2025-07-27T01:49:53.014794Z"
   },
   "abilities": {
     "0": {
@@ -5149,8 +5149,8 @@
       "id": 734,
       "name": "Ape Shift",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "735": {
       "id": 735,
@@ -10546,10 +10546,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "734": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "735": {
       "indicator": "🟠",

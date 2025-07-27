@@ -742,7 +742,7 @@ In Progress: 0
 | 731 | Ability 731                | ❌       | ❌        |
 | 732 | Blade Dance                | ✅       | ✅        |
 | 733 | Taekkyeon                  | ✅       | ✅        |
-| 734 | Ape Shift                  | ✅       | ❌        |
+| 734 | Ape Shift                  | ✅       | ✅        |
 | 735 | Know Your Place            | ✅       | ❌        |
 | 736 | Deep Cuts                  | ✅       | ❌        |
 | 737 | Life Steal                 | ✅       | ❌        |
