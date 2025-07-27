@@ -2135,7 +2135,7 @@ Prevents self-inflicted stat drops on the user and allows them to survive an att
 Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type. Damages all non-Poison-type Pokemon by 1/8 HP each turn. Pokemon with Poison Heal recover instead. Disappears when the user leaves.
 
 # ID: 726
-Sludgy Mix combines Intoxicate and Punk Rock effects. Converts Normal-type moves to Poison-type with 20% power boost. Sound-based moves deal 30% more damage and take 50% less damage from opposing sound moves. Creates a unique offensive profile with poison typing and sound move mastery.
+Converts all Normal-type moves into Poison-type moves and grants STAB for Poison-type moves, regardless of the user's typing. Amplifies the user's sound moves by 30% and reduces incoming sound move damage by 50%. Damage reduction is multiplicative with other sources.
 
 # ID: 727
 Overwatch combines On the Prowl and Stakeout effects. Gives +1 priority to all moves on the first turn after switching in, with negative priority moves becoming +0. Additionally, deals double damage to opponents switching into battle. Perfect for punishing switch-ins with priority.

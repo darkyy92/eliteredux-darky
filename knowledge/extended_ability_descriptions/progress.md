@@ -734,7 +734,7 @@ In Progress: 0
 | 723 | Supersweet Syrup           | ✅       | ✅        |
 | 724 | Lucky Halo                 | ✅       | ✅        |
 | 725 | Trash Heap                 | ✅       | ✅        |
-| 726 | Sludgy Mix                 | ✅       | ❌        |
+| 726 | Sludgy Mix                 | ✅       | ✅        |
 | 727 | Overwatch                  | ✅       | ❌        |
 | 728 | Wind Rage                  | ✅       | ❌        |
 | 729 | Victory Bomb               | ✅       | ❌        |
