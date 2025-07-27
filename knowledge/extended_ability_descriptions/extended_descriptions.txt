@@ -2354,7 +2354,7 @@ Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When 
 Converts all Normal-type moves to Dark-type and grants STAB for Dark moves, regardless of the user's type.
 
 # ID: 801
-During sun, cures all status conditions at at the end of the turn; and 50% chance to restore your consumed berry on turn end, 100% in sun.
+During sun, cures all status conditions at at the end of the turn; and 50% chance to restore berry on turn end, 100% in sun. Includes berries that were used for Fling, Natural Gift, or eaten.
 
 # ID: 802
 Boosts Speed by 50% in sun weather while also increasing the higher attacking stat by 50% in sun. Works with all forms of sun including regular sun, harsh sunlight, and Primal Groudon's weather. Both effects activate simultaneously when sun is present.
