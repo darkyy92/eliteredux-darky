@@ -62,7 +62,7 @@ Suction Cups anchors the Pokemon in place, preventing forced switching from enem
 Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage.
 
 # ID: 23
-Shadow Tag traps opposing Pokemon, preventing them from switching out through normal means. Ghost-type Pokemon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape.
+Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 # ID: 24
 Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance. Stacks with Rocky Helmet for 1/6 total damage.
