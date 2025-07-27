@@ -2,7 +2,7 @@
 id: 374
 name: Big Leaves
 status: reviewed
-character_count: 201
+character_count: 208
 ---
 
 # Big Leaves - Ability ID 374
@@ -13,7 +13,7 @@ character_count: 201
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Activates any Sun related effects for the user's moves. Boosts Speed stat by 50% in Sun. Cures status in Sun. 50% to restore berry on turn end, 100% in Sun. Raises highest attacking stat by 50% in Sun.
+Activates any sun related effects for the user's moves. Boosts Speed stat by 50% in sun. Cures status in sun. 50% chance to restore berry on turn end, 100% in sun. Raises highest attacking stat by 50% in sun.
 
 ## Technical Implementation
 
