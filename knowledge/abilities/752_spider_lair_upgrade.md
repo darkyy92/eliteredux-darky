@@ -1,8 +1,8 @@
 ---
 id: 752
 name: Spider Lair Upgrade
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 215
 ---
 
 # Spider Lair Upgrade - Ability ID 752
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, automatically sets up Sticky Web on the opponent's side for exactly 7 turns. This enhanced hazard lowers the Speed stat of any enemy Pokemon that switches in by one stage, providing extended entry control without turn investment until the webs naturally expire.
+Sets Sticky Web on opponent's field when the user enters battle. Lasts 7 turns and lowers Speed by 1 stage for any grounded Pokemon switching in. Cannot activate if Sticky Web is already present on opponent's field.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
