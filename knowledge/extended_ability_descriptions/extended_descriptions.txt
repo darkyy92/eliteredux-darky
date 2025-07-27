@@ -2423,7 +2423,7 @@ Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing 
 Uses a 10 BP Icy Wind (Ice, Special, Air-based) on entry, hitting all opponents and lowering their Speed by 1 stage.
 
 # ID: 824
-Frostbind inflicts both Frostbite and Disable when an opponent faints from the Pokemon's attacks. Frostbite deals 1/16 max HP damage per turn and halves special attack. Disable prevents the target's last used move for 4 turns. Creates powerful disruption through dual status effects.
+When inflicting frostbite, the user also inflicts disable. Disable prevents the target from using their last-used move for 4 turns. Fails if the target has not moved yet.
 
 # ID: 825
 Combines Slush Rush and Snow Cloak abilities during hail weather. Speed is boosted by 50% while incoming move accuracy is reduced by 20%. Both effects activate in regular or permanent hail conditions. This ability is disabled by Mold Breaker. Provides hail damage immunity as an added benefit.

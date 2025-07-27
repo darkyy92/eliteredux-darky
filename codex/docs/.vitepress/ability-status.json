@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 614,
+    "completed": 615,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T18:04:34.262009Z"
+    "generated_at": "2025-07-27T18:07:17.698554Z"
   },
   "abilities": {
     "0": {
@@ -5779,8 +5779,8 @@
       "id": 824,
       "name": "Frostbind",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "825": {
       "id": 825,
@@ -11086,10 +11086,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "824": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "825": {
       "indicator": "🟠",
