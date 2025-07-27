@@ -1,8 +1,8 @@
 ---
 id: 744
 name: Sand Bender
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 178
 ---
 
 # Sand Bender - Ability ID 744
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Bender combines Sand Stream and Sand Force effects. Automatically summons an 8-turn sandstorm on entry, then boosts the Pokemon's highest attacking stat by 50% while in sandstorm weather. The user is immune to sandstorm damage. Perfect for offensive sand sweepers and setters.
+Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). Boosts the Pokemon's highest attacking stat by 50% during sandstorm. Also grants immunity to sandstorm damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
