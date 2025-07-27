@@ -2420,7 +2420,7 @@ Upon entering battle, the user drops the Special Attack stat of all opposing Pok
 Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing even upon losing the ability, going away only when switching out. Halves damage from all attacks when at full HP. Multiplicative with other damage reduction sources.
 
 # ID: 823
-Chilling Presence automatically uses a weakened Icy Wind when the Pokemon enters battle, targeting all opposing Pokemon. The move deals 10 base power Ice-type damage instead of the usual 60, but retains perfect accuracy and guaranteed Speed reduction effects. Useful for slowing fast threats.
+Uses a 10 BP Icy Wind (Ice, Special, Air-based) on entry, hitting all opponents and lowering their Speed by 1 stage.
 
 # ID: 824
 Frostbind inflicts both Frostbite and Disable when an opponent faints from the Pokemon's attacks. Frostbite deals 1/16 max HP damage per turn and halves special attack. Disable prevents the target's last used move for 4 turns. Creates powerful disruption through dual status effects.

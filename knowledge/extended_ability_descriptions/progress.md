@@ -831,7 +831,7 @@ In Progress: 0
 | 820 | Soul Tap                   | ✅       | ✅        |
 | 821 | Scarecrow                  | ✅       | ✅        |
 | 822 | Ominous Shroud             | ✅       | ✅        |
-| 823 | Chilling Presence          | ✅       | ❌        |
+| 823 | Chilling Presence          | ✅       | ✅        |
 | 824 | Frostbind                  | ✅       | ❌        |
 | 825 | Glacial Ghost              | ✅       | ❌        |
 | 826 | Tender Affection           | ✅       | ❌        |
