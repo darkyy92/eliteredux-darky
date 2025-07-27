@@ -105,7 +105,7 @@ In Progress: 0
 |  94 | Solar Power                | ✅       | ❌        |
 |  95 | Quick Feet                 | ✅       | ❌        |
 |  96 | Normalize                  | ✅       | ❌        |
-|  97 | Sniper                     | ✅       | ❌        |
+|  97 | Sniper                     | ✅       | ✅        |
 |  98 | Magic Guard                | ✅       | ✅        |
 |  99 | No Guard                   | ✅       | ✅        |
 | 100 | Stall                      | ✅       | ✅        |

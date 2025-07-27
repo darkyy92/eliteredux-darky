@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 595,
+    "completed": 596,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:22:34.451963Z"
+    "generated_at": "2025-07-27T16:24:22.221824Z"
   },
   "abilities": {
     "0": {
@@ -690,8 +690,8 @@
       "id": 97,
       "name": "Sniper",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "98": {
       "id": 98,
@@ -6724,10 +6724,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "97": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "98": {
       "indicator": "✅",

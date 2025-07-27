@@ -284,7 +284,7 @@ Quick Feet boosts Speed by 50% when afflicted with any status condition includin
 Normalize converts all damaging moves to Normal-type and grants 10% power boost. These Normal-type moves bypass resistances - Rock and Steel take neutral damage instead of resisting. Works on all damaging moves regardless of original type. Ghost-types remain immune. No super effective hits.
 
 # ID: 97
-Sniper boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Works excellently with high crit-ratio moves like Night Slash, Leaf Blade, and Cross Chop. Pairs well with Focus Energy (+2 crit stages) and crit-boosting items like Scope Lens or Razor Claw.
+Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier.
 
 # ID: 98
 Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
