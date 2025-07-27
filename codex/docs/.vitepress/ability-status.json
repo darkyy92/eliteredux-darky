@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 538,
+    "completed": 539,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:19:56.759407Z"
+    "generated_at": "2025-07-27T12:20:19.164441Z"
   },
   "abilities": {
     "0": {
@@ -5303,8 +5303,8 @@
       "id": 756,
       "name": "Striker Pixilate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "757": {
       "id": 757,
@@ -10678,10 +10678,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "756": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "757": {
       "indicator": "🟠",

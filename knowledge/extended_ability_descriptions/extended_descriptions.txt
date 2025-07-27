@@ -2222,7 +2222,7 @@ Reduces damage from contact moves by 50%. Fire-type moves to deal double damage 
 When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage. Activates on each hit of a multihit move. Boost applies after the hit lands. All attacks hit twice. First hit deals 100%, while the second deals 25%. Each hit rolls secondary effects independently (except flinch).
 
 # ID: 756
-Combines Striker and Pixilate effects. Boosts the power of kicking moves by 30% and converts all Normal-type moves to Fairy-type with a 20% power boost. This dual enhancement makes the Pokemon excel at both physical kicking attacks and special Fairy-type moves.
+Increases the power of all kicking moves by 30%. Includes Pyro Ball. Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 757
 Doom Blast boosts all Dark-type moves by 35% damage but causes 10% recoil damage after each Dark-type attack. The recoil is calculated as 5% of damage dealt with a minimum of 1 HP. Creates high-risk, high-reward Dark-type sweeping potential at the cost of gradual self-damage.

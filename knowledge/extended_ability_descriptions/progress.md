@@ -764,7 +764,7 @@ In Progress: 0
 | 753 | Crust Coat                 | ✅       | ✅        |
 | 754 | Puffy                      | ✅       | ✅        |
 | 755 | Balloon Blitz              | ✅       | ✅        |
-| 756 | Striker Pixilate           | ✅       | ❌        |
+| 756 | Striker Pixilate           | ✅       | ✅        |
 | 757 | Doom Blast                 | ✅       | ❌        |
 | 758 | Bruteforce                 | ✅       | ❌        |
 | 759 | Faraday Cage               | ✅       | ❌        |
