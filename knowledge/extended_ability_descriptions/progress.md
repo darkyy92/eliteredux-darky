@@ -155,7 +155,7 @@ In Progress: 0
 | 144 | Regenerator                | ✅       | ✅        |
 | 145 | Big Pecks                  | ✅       | ❌        |
 | 146 | Sand Rush                  | ✅       | ❌        |
-| 147 | Wonder Skin                | ✅       | ❌        |
+| 147 | Wonder Skin                | ✅       | ✅        |
 | 148 | Analytic                   | ✅       | ❌        |
 | 149 | Illusion                   | ✅       | ❌        |
 | 150 | Imposter                   | ✅       | ❌        |
@@ -837,7 +837,7 @@ In Progress: 0
 | 826 | Tender Affection           | ✅       | ✅        |
 | 827 | Wonder Scale               | ✅       | ✅        |
 | 828 | Overzealous                | ✅       | ✅        |
-| 829 | Stainless Steel            | ✅       | ❌        |
+| 829 | Stainless Steel            | ✅       | ✅        |
 | 830 | Temporal Rupture           | ✅       | ❌        |
 | 831 | Grass Flute                | ✅       | ❌        |
 | 832 | Hemotoxin                  | ✅       | ❌        |

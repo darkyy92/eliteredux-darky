@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 620,
+    "completed": 622,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:20:25.221713Z"
+    "generated_at": "2025-07-27T18:25:43.189005Z"
   },
   "abilities": {
     "0": {
@@ -1040,8 +1040,8 @@
       "id": 147,
       "name": "Wonder Skin",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "148": {
       "id": 148,
@@ -5814,8 +5814,8 @@
       "id": 829,
       "name": "Stainless Steel",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "830": {
       "id": 830,
@@ -7024,10 +7024,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "147": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "148": {
       "indicator": "🟠",
@@ -11116,10 +11116,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "829": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "830": {
       "indicator": "🟠",
