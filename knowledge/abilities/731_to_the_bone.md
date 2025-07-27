@@ -1,8 +1,8 @@
 ---
 id: 731
 name: To The Bone
-status: ai-generated
-character_count: 252
+status: reviewed
+character_count: 202
 ---
 
 # To The Bone - Ability ID 731
@@ -13,7 +13,7 @@ character_count: 252
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-To The Bone boosts critical hit damage by 50% and causes all critical hits to inflict bleeding. Bleeding deals 1/16 max HP damage each turn like poison. Only critical hits can trigger bleeding through this ability. Excellent for high crit rate Pokemon.
+Critical hits are boosted by 50% and inflict bleeding. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -135,7 +135,7 @@ The ability creates a powerful synergy loop:
 ```
 Normal critical hit: 2.0x damage
 To The Bone critical hit: 3.0x damage (2.0 x 1.5)
-Bleeding damage per turn: Target Max HP Ã· 16 (minimum 1)
+Bleeding damage per turn: Target Max HP ÷ 16 (minimum 1)
 
 Example with 400 HP target:
 - Normal crit with 100 BP move: ~200 damage
