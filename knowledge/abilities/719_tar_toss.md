@@ -1,8 +1,8 @@
 ---
 id: 719
 name: Tar Toss
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 188
 ---
 
 # Tar Toss - Ability ID 719
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Tar Toss automatically uses Tar Shot when switching into battle. The tar covers opponents, lowering their Speed by one stage and making them take double damage from Fire-type moves. Only works once per target per battle. Excellent for setting up Fire-type teammates or sweepers.
+Uses Tar Shot on switch in, lowering the target's Speed by one stage and making them take double damage from Fire-type moves. Does not stack the Fire-type damage debuff on successive uses.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
