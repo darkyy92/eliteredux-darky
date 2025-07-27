@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 511,
+    "completed": 512,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:45:37.779965Z"
+    "generated_at": "2025-07-27T01:47:02.887070Z"
   },
   "abilities": {
     "0": {
@@ -5135,8 +5135,8 @@
       "id": 732,
       "name": "Blade Dance",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "733": {
       "id": 733,
@@ -10534,10 +10534,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "732": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "733": {
       "indicator": "🟠",

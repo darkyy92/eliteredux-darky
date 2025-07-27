@@ -740,7 +740,7 @@ In Progress: 0
 | 729 | Victory Bomb               | ✅       | ✅        |
 | 730 | Razor Sharp                | ✅       | ✅        |
 | 731 | Ability 731                | ❌       | ❌        |
-| 732 | Blade Dance                | ✅       | ❌        |
+| 732 | Blade Dance                | ✅       | ✅        |
 | 733 | Taekkyeon                  | ✅       | ❌        |
 | 734 | Ape Shift                  | ✅       | ❌        |
 | 735 | Know Your Place            | ✅       | ❌        |

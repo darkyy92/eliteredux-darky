@@ -2150,7 +2150,7 @@ When fainting, retaliate with a 100 BP Fire-type Explosion targeting all adjacen
 Inflict bleed when landing a critical hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
 # ID: 732
-Blade Dance triggers a 50 BP Leaf Blade follow-up attack immediately after using any dance move. Works with all dance moves including Swords Dance, Dragon Dance, Quiver Dance, and others with the dance flag. The follow-up Leaf Blade has high critical hit ratio and gains STAB if applicable.
+Triggers a 50 BP Leaf Blade (Grass-type, Physical) follow-up attack immediately after using any dance move.
 
 # ID: 733
 Taekkyeon makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects. Includes all physical and special attacking moves but excludes pure status moves. Creates strong synergy with teammates who have Dancer or dance-triggered abilities.
