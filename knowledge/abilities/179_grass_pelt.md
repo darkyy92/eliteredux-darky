@@ -1,8 +1,8 @@
 ---
 id: 179
 name: Grass Pelt
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 61
 ---
 
 # Grass Pelt - Ability ID 179
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grass Pelt boosts the Pokemon's Defense stat by 50% when Grassy Terrain is active. Works with terrain from moves like Grassy Terrain or abilities like Grassy Surge. The boost applies immediately when terrain becomes active and disappears when terrain ends. Stacks with other Defense boosts.
+Boosts the user's Defense stat by 50% when in Grassy Terrain. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
