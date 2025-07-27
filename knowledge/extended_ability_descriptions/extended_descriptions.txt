@@ -2375,7 +2375,7 @@ Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% mult
 Upon entering battle, uses Forest's Curse on a random opponent, adding Grass typing. When opponents make contact with the user, they also gain Grass as an extra type. Only affects non-Grass types. Persists until switching out.
 
 # ID: 808
-When hit by a contact move, Malodor suppresses the attacker's ability until they switch out, similar to Gastro Acid. This prevents abilities like Poison Touch, Static, or Flame Body from activating on subsequent turns. The suppression persists even if the Malodor user faints.
+When hit by a contact move, the user suppresses the attacker's ability and innates until they switch out.
 
 # ID: 809
 When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. This makes fast Pokemon extremely tanky against physical attacks like Tackle, Punch moves, and Earthquake while remaining vulnerable to special projectiles.

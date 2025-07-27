@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 598,
+    "completed": 599,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:45:05.925487Z"
+    "generated_at": "2025-07-27T16:48:16.835524Z"
   },
   "abilities": {
     "0": {
@@ -5667,8 +5667,8 @@
       "id": 808,
       "name": "Malodor",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "809": {
       "id": 809,
@@ -10990,10 +10990,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "808": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "809": {
       "indicator": "🟠",

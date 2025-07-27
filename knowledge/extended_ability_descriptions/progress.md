@@ -816,7 +816,7 @@ In Progress: 0
 | 805 | Sepia Lens                 | ✅       | ❌        |
 | 806 | Super Sniper               | ✅       | ✅        |
 | 807 | Woodland Curse             | ✅       | ✅        |
-| 808 | Malodor                    | ✅       | ❌        |
+| 808 | Malodor                    | ✅       | ✅        |
 | 809 | Blur                       | ✅       | ❌        |
 | 810 | Elude                      | ✅       | ❌        |
 | 811 | Drake Of Rage              | ✅       | ❌        |
