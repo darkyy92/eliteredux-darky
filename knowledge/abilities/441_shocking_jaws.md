@@ -2,7 +2,7 @@
 id: 441
 name: Shocking Jaws
 status: reviewed
-character_count: 80
+character_count: 130
 ---
 
 # Shocking Jaws - Ability ID 441
@@ -13,7 +13,7 @@ character_count: 80
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit. 
+Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
