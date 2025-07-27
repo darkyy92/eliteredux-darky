@@ -2465,7 +2465,7 @@ Provides immunity to weather damage from Sandstorm and Hail, and blocks all powd
 Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mist. Also lowers the opponent's evasion by one stage.
 
 # ID: 840
-Sharp venomous barbs punish physical contact. When struck by a contact move, the attacker takes 1/8 of their max HP damage and has a 30% chance to be poisoned. Both effects trigger from the same contact move, providing strong deterrence against physical attackers.
+Damages attackers using contact moves for 1/8 of their max HP. Also has a 30% chance to inflict poison on contact moves, both when attacking and being attacked. Activates on every hit for multihitting moves.
 
 # ID: 841
 Transforms the Pokemon into a mighty dragon warrior by adding Dragon as a third type and converting all Normal-type moves to Dragon-type. Normal moves become Dragon attacks that gain STAB (1.5x damage) from the added Dragon typing, turning basic attacks into powerful draconic strikes.

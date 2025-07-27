@@ -848,7 +848,7 @@ In Progress: 0
 | 837 | Chokehold                  | ✅       | ✅        |
 | 838 | Guardian Coat              | ✅       | ✅        |
 | 839 | Neutralizing Fog           | ✅       | ✅        |
-| 840 | Poison Quills              | ✅       | ❌        |
+| 840 | Poison Quills              | ✅       | ✅        |
 | 841 | Draconic Might             | ✅       | ❌        |
 | 842 | Festivities (N)            | ✅       | ❌        |
 | 843 | Fey Flight                 | ✅       | ❌        |
