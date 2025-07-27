@@ -1,8 +1,8 @@
 ---
 id: 778
 name: Venom Crown
-status: ai-generated
-character_count: 201
+status: reviewed
+character_count: 149
 ---
 
 # Venom Crown - Ability ID 778
@@ -13,7 +13,7 @@ character_count: 201
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by contact moves, has 30% chance to poison the attacker. Additionally, all horn-based moves gain 30% power boost. Combines poison immunity with devastating jabbing attacks for royal dominance.
+Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked. Boosts the power of horn and drill-based attacks by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
