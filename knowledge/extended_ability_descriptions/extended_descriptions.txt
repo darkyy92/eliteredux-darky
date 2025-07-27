@@ -1304,7 +1304,7 @@ Tackle Encores+Disables, String Shot sets all hazards, Harden omniboosts by one 
 Changes type to resist attacks before getting hit, changes type to match moves before landing a hit, halves physical damage, and halves special damage. Damage reduction is multiplicative with other sources.
 
 # ID: 441
-Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit.
+Shocking Jaws gives all biting moves a 50% chance to paralyze the target on hit. Multihits roll the activation chance on each hit.
 
 # ID: 442
 Deals 1.5x damage to Fairy-type Pokemon and takes 0.5x damage when attacked by Fairy-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
