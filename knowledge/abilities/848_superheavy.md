@@ -1,8 +1,8 @@
 ---
 id: 848
 name: Superheavy (N)
-status: ai-generated
-character_count: 270
+status: reviewed
+character_count: 94
 ---
 
 # Superheavy (N) - Ability ID 848
@@ -13,7 +13,7 @@ Steadfast + blocks phasing moves.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Superheavy grants immunity to forced switching moves (Roar, Whirlwind, Circle Throw, Dragon Tail) and raises Speed by +1 stage when flinched. Both effects are permanently active as this is an innate ability. Speed boosts can stack up to +6 stages with repeated flinches.
+Getting flinched raises Speed by one stage. Prevents forced switching from moves and Red Card.
 
 ## Key Mechanics
 - **Flinch Response**: Automatically raises Speed by +1 stage when flinched
