@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 648,
+    "completed": 649,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T23:54:32.395949Z"
+    "generated_at": "2025-07-27T23:57:15.160213Z"
   },
   "abilities": {
     "0": {
@@ -5989,8 +5989,8 @@
       "id": 854,
       "name": "Gnashing Cannon",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "855": {
       "id": 855,
@@ -11266,10 +11266,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "854": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "855": {
       "indicator": "🟠",

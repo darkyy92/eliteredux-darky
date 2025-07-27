@@ -2507,7 +2507,7 @@ The user has a 30% to poison the target after landing any move. Multihits roll t
 After using a move, follow up with a 20 BP Poison Gas (Poison, Special, 20% chance to poison, super effective on Flying-types).
 
 # ID: 854
-Boosts the power of aura and pulse moves by 30%. Additionally, biting moves get a 30% power boost and use Special Attack instead of Attack for damage calculation. This devastating combination transforms both projectile-based and jaw attacks into fearsome special assaults.
+Boosts pulse, beam, ball, and aura moves by 30%. Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 # ID: 855
 Hyper Cleanse provides complete immunity to all status conditions including burn, freeze, paralysis, poison, and sleep. Additionally reduces damage from poison-type moves by 50%. The status immunity cannot be bypassed by Mold Breaker. Perfect for defensive pivots and status absorbers.
