@@ -1,8 +1,8 @@
 ---
 id: 110
 name: Tinted Lens
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 130
 ---
 
 # Tinted Lens - Ability ID 110
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Tinted Lens doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x, turning weak hits into normal damage. This makes the Pokemon's attacks much harder to wall and improves coverage against defensive switch-ins.
+Doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x.
 
 ## Detailed Mechanical Explanation
 Tinted Lens is an offensive ability that modifies damage calculation when the user's attacks would be resisted by the target.
