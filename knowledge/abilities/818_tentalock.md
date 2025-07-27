@@ -1,8 +1,8 @@
 ---
 id: 818
 name: Tentalock (N)
-status: ai-generated
-character_count: 239
+status: reviewed
+character_count: 294
 ---
 
 # Tentalock (N) - Ability ID 818
@@ -13,7 +13,7 @@ character_count: 239
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.
+Trapping moves last 6 turns instead of 4-5 turns and increases their damage at the end of the turn to 1/6 max HP per turn. Gives attacks a 50% chance to trap the target for 6 turns, preventing escape or switching. Once trapped, their speed drops by one stage each turn they remain on the field. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
