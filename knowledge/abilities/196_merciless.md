@@ -1,8 +1,8 @@
 ---
 id: 196
 name: Merciless
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 108
 ---
 
 # Merciless - Ability ID 196
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Merciless guarantees critical hits against targets with status conditions or speed penalties. Affected targets include poisoned, paralyzed, bleeding foes, Pokemon with lowered Speed stats, or those holding Iron Ball. Absolutely devastating when facing debuffed opponents in battle.
+Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
