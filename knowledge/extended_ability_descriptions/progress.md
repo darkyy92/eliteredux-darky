@@ -30,7 +30,7 @@ In Progress: 0
 |  19 | Shield Dust                | ✅       | ❌        |
 |  20 | Own Tempo                  | ✅       | ❌        |
 |  21 | Suction Cups               | ✅       | ❌        |
-|  22 | Intimidate                 | ✅       | ❌        |
+|  22 | Intimidate                 | ✅       | ✅        |
 |  23 | Shadow Tag                 | ✅       | ❌        |
 |  24 | Rough Skin                 | ✅       | ❌        |
 |  25 | Wonder Guard               | ✅       | ❌        |

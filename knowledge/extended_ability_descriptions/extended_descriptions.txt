@@ -59,7 +59,7 @@ Own Tempo maintains perfect composure, granting immunity to confusion from all s
 Suction Cups anchors the Pokemon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.
 
 # ID: 22
-Intimidate lowers opposing Pokemon's Attack by one stage upon switch-in. Affects all foes in doubles/triples. Works every time user enters battle, making it great for pivoting. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, Oblivious.
+Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage.
 
 # ID: 23
 Shadow Tag traps opposing Pokemon, preventing them from switching out through normal means. Ghost-type Pokemon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape.

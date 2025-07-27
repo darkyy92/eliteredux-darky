@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 551,
+    "completed": 552,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:11:00.699581Z"
+    "generated_at": "2025-07-27T14:13:21.781529Z"
   },
   "abilities": {
     "0": {
@@ -165,8 +165,8 @@
       "id": 22,
       "name": "Intimidate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "23": {
       "id": 23,
@@ -6274,10 +6274,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "22": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "23": {
       "indicator": "🟠",
