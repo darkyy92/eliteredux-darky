@@ -2288,7 +2288,7 @@ Boosts pulse, beam, ball, and aura moves by 30%. Mega Launcher moves always hit 
 Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked. Boosts the power of horn and drill-based attacks by 30%.
 
 # ID: 779
-When at full HP, takes half damage from attacks. Contact moves have a 30% chance to poison the attacker. Combines defensive durability with punishing counterattack potential, making this Pokemon dangerous to engage in direct combat at maximum health.
+Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction. Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 # ID: 780
 Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as projectile moves, meaning they also receive the 30% damage boost and trigger other projectile-based effects.
