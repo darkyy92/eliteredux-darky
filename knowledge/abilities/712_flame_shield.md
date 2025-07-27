@@ -1,8 +1,8 @@
 ---
 id: 712
 name: Flame Shield
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 106
 ---
 
 # Flame Shield - Ability ID 712
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flame Shield reduces damage from super-effective moves by 35%, helping Pokemon survive type disadvantages. Works against all attacks with 2x or greater effectiveness. The damage reduction applies before other calculations, making it valuable for frail Pokemon facing coverage moves.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
