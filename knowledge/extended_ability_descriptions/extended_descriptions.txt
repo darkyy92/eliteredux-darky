@@ -389,7 +389,7 @@ Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit
 Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon.
 
 # ID: 132
-Friend Guard provides powerful team support by reducing damage taken by your ally Pokemon by 50% in double battles. This protective aura only works when both Pokemon are active and conscious on the field. Does not stack with multiple Friend Guard users but combines with other damage reduction.
+In a double battle, the user's ally receives 50% less damage. Multiplicative with other damage reduction sources.
 
 # ID: 133
 When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the user become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
