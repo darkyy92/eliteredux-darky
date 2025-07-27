@@ -851,7 +851,7 @@ In Progress: 0
 | 840 | Poison Quills              | ✅       | ✅        |
 | 841 | Draconic Might             | ✅       | ✅        |
 | 842 | Festivities (N)            | ✅       | ✅        |
-| 843 | Fey Flight                 | ✅       | ❌        |
+| 843 | Fey Flight                 | ✅       | ✅        |
 | 844 | Best Offense               | ✅       | ❌        |
 | 845 | Impaler                    | ✅       | ❌        |
 | 846 | Magus Blades               | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 638,
+    "completed": 639,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T19:19:53.240602Z"
+    "generated_at": "2025-07-27T19:20:42.498900Z"
   },
   "abilities": {
     "0": {
@@ -5912,8 +5912,8 @@
       "id": 843,
       "name": "Fey Flight",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "844": {
       "id": 844,
@@ -11200,10 +11200,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "843": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "844": {
       "indicator": "🟠",

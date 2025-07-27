@@ -2474,7 +2474,7 @@ Converts all Normal-type moves into Dragon-type moves and grants STAB for Dragon
 Sound moves are also treated as dance moves, benefiting from Dancer-type abilities. Dancer moves are also treated as sound moves, benefiting from sound-based abilities.
 
 # ID: 843
-Grants the mystical powers of the fey, adding Fairy as a third type and enabling magical levitation. The Fairy typing provides key resistances to Fighting, Bug, and Dark moves while the levitation grants complete immunity to Ground-type attacks and entry hazards like Spikes and Sticky Web.
+Upon entering battle, adds Fairy to the user's current typing. Retains Fairy typing even upon losing the ability, going away only when switching out. The user is immune to Ground-type moves and other ground effects such as Spikes and terrains. Boosts the damage of Flying-type moves by 25%.
 
 # ID: 844
 Best Offense boosts damage by 30% on all blade moves (Keen Edge) and adds 20% of the user's Special Defense to attack calculations. Physical blade moves become special attacks via Mystic Blades, targeting Special Defense instead of Defense while keeping the damage boost.
