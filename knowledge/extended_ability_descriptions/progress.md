@@ -861,7 +861,7 @@ In Progress: 0
 | 850 | Lucky Wings                | ✅       | ✅        |
 | 851 | Komodo                     | ✅       | ✅        |
 | 852 | Envenom                    | ✅       | ✅        |
-| 853 | Purple Haze                | ✅       | ❌        |
+| 853 | Purple Haze                | ✅       | ✅        |
 | 854 | Gnashing Cannon            | ✅       | ❌        |
 | 855 | Hyper Cleanse              | ✅       | ❌        |
 | 856 | Molten Coat                | ✅       | ❌        |

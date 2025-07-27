@@ -2504,7 +2504,7 @@ Upon entering battle, adds Dragon to the user's current typing. Retains Dragon t
 The user has a 30% to poison the target after landing any move. Multihits roll the activation chance on each hit.
 
 # ID: 853
-After using any move, this Pokemon automatically follows up with a weakened Poison Gas attack that deals 20 base power damage. The poisonous gas has a 20% chance to inflict poison status and is super effective against Flying-types, providing consistent chip damage and battlefield pressure.
+After using a move, follow up with a 20 BP Poison Gas (Poison, Special, 20% chance to poison, super effective on Flying-types).
 
 # ID: 854
 Boosts the power of aura and pulse moves by 30%. Additionally, biting moves get a 30% power boost and use Special Attack instead of Attack for damage calculation. This devastating combination transforms both projectile-based and jaw attacks into fearsome special assaults.

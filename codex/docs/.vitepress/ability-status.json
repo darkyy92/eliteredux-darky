@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 647,
+    "completed": 648,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T23:51:18.416345Z"
+    "generated_at": "2025-07-27T23:54:32.395949Z"
   },
   "abilities": {
     "0": {
@@ -5982,8 +5982,8 @@
       "id": 853,
       "name": "Purple Haze",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "854": {
       "id": 854,
@@ -11260,10 +11260,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "853": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "854": {
       "indicator": "🟠",
