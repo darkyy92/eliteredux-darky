@@ -1,8 +1,8 @@
 ---
 id: 837
 name: Chokehold
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 117
 ---
 
 # Chokehold - Ability ID 837
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Chokehold enhances binding moves like Wrap, Bind, and Fire Spin by adding paralysis and speed reduction effects. When this Pokemon uses a binding move, the trapped target becomes paralyzed and has its Speed stat lowered. The binding damage and trap duration remain unchanged from normal.
+When the user traps a target, they inflict paralysis and drop their speed by one stage once every turn while trapped.
 
 ## Detailed Mechanical Explanation
 - **Trigger**: When the Pokemon uses a binding move (Wrap, Bind, Fire Spin, Whirlpool, Sand Tomb, Clamp, Magma Storm, Infestation, etc.)
