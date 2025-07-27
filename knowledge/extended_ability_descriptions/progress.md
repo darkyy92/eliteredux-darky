@@ -777,7 +777,7 @@ In Progress: 0
 | 766 | Champions Entrance         | ✅       | ✅        |
 | 767 | Presto                     | ✅       | ✅        |
 | 768 | Samba                      | ✅       | ✅        |
-| 769 | Junshi Sanda               | ✅       | ❌        |
+| 769 | Junshi Sanda               | ✅       | ✅        |
 | 770 | Gladiator                  | ✅       | ❌        |
 | 771 | Forsaken Heart             | ✅       | ❌        |
 | 772 | Relentless                 | ✅       | ❌        |

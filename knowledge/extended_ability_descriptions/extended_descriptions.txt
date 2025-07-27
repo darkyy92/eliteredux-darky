@@ -2261,7 +2261,7 @@ Grants +1 priority to sound moves when at full HP.
 Increases the power of all kicking moves by 30%. Includes Pyro Ball. When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move after. Triggers once per move.
 
 # ID: 769
-Punching and kicking moves gain each other's properties. Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities. This dual classification enables powerful synergies.
+Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities.
 
 # ID: 770
 Empowers the inner warrior spirit, boosting all Fighting-type moves by 30% damage under normal conditions. When pushed to the brink with HP at 1/3 or below, the gladiator enters a desperate berserker state, amplifying Fighting moves by a massive 80% instead. Perfect for dramatic comeback victories.
