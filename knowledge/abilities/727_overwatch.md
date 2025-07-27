@@ -1,8 +1,8 @@
 ---
 id: 727
 name: Overwatch
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 257
 ---
 
 # Overwatch - Ability ID 727
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Overwatch combines On the Prowl and Stakeout effects. Gives +1 priority to all moves on the first turn after switching in, with negative priority moves becoming +0. Additionally, deals double damage to opponents switching into battle. Perfect for punishing switch-ins with priority.
+All moves with priority 0 or higher gain +1 priority on the user's first turn. Negative priority moves become priority 0 instead of adding +1 priority. Deals double damage to opponents that just switched in. Only works right after they switch in for 1 turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
