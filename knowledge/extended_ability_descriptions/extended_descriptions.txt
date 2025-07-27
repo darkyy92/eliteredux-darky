@@ -107,7 +107,7 @@ Trace copies the ability of an opposing Pokemon when entering battle, replacing 
 Huge Power doubles the Pokemon's Attack stat before stat stage modifiers are applied. This multiplies the effective Attack by 2.0x, making physical moves significantly more powerful. Works with stat stages, items, and other modifiers that are applied after. Identical effect to Pure Power.
 
 # ID: 38
-Poison Point has a 30% chance to poison opponents when making or receiving contact moves. Works both defensively when attacked with contact moves and offensively when using contact moves. The poison inflicts 1/8 max HP damage each turn. Bypasses Safeguard protection when triggered by ability.
+Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 # ID: 39
 Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare.

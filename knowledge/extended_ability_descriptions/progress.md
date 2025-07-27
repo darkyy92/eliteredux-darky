@@ -46,7 +46,7 @@ In Progress: 0
 |  35 | Illuminate                 | ✅       | ❌        |
 |  36 | Trace                      | ✅       | ❌        |
 |  37 | Huge Power                 | ✅       | ❌        |
-|  38 | Poison Point               | ✅       | ❌        |
+|  38 | Poison Point               | ✅       | ✅        |
 |  39 | Inner Focus                | ✅       | ✅        |
 |  40 | Magma Armor                | ✅       | ❌        |
 |  41 | Water Veil                 | ✅       | ❌        |
