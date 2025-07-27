@@ -1,8 +1,8 @@
 ---
 id: 764
 name: Deep Freeze
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 150
 ---
 
 # Deep Freeze - Ability ID 764
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Deep Freeze boosts Water and Ice-type moves by 25% while halving Fire-type damage taken. This dual offensive and defensive ability provides excellent type synergy for Water/Ice Pokemon, enhancing STAB attacks while providing crucial Fire resistance. Stacks with other damage modifiers.
+Boosts the damage of Water and Ice-type moves by 25%. Halves damage received from Fire-type moves. Multiplicative with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
