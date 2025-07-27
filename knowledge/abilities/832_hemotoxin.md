@@ -1,8 +1,8 @@
 ---
 id: 832
 name: Hemotoxin
-status: ai-generated
-character_count: 270
+status: reviewed
+character_count: 128
 ---
 
 # Hemotoxin - Ability ID 832
@@ -13,7 +13,7 @@ character_count: 270
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hemotoxin seeps into poisoned foes, temporarily neutralizing their abilities while they suffer from poison status. The toxic compounds disrupt the target's natural powers, leaving them unable to utilize their ability effects until the poison is cured or they switch out.
+Negates the opponent's ability and innates when the user successfully poisons them. Suppression wears off after they switch out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
