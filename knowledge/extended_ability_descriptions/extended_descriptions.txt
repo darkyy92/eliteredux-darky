@@ -2321,7 +2321,7 @@ After using an Ice-type move, the user follows up with a 50 BP Blizzard (Ice, 85
 Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining.
 
 # ID: 790
-Frenzied Phantom combines dual-strike attacks with trapping power. All damaging moves hit twice with the second hit dealing 25% damage, while simultaneously preventing opponents from switching. Ghost-types are immune to the trapping effect but still take double hits from attacks.
+Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Prevents all non-Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 # ID: 791
 DNA Scramble transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form (180 Atk/SpAtk), Recover triggers Defense form (160 Def/SpDef), other status moves trigger Speed form (180 Speed). Base form has balanced 150 stats. Form changes occur before attack.

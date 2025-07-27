@@ -798,7 +798,7 @@ In Progress: 0
 | 787 | Cryo Architect             | ✅       | ✅        |
 | 788 | Glacial Rage               | ✅       | ✅        |
 | 789 | Immovable Object           | ✅       | ✅        |
-| 790 | Frenzied Phantom           | ✅       | ❌        |
+| 790 | Frenzied Phantom           | ✅       | ✅        |
 | 791 | DNA Scramble               | ✅       | ❌        |
 | 792 | Metallic Jaws              | ✅       | ❌        |
 | 793 | Calculative                | ✅       | ❌        |
