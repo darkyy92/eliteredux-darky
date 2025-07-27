@@ -2333,7 +2333,7 @@ Upon entering battle, adds Steel to the user's current typing. Retains Steel typ
 Calculative combines Analytic and Neuroforce. Analytic boosts damage by 30% when moving after the target. Neuroforce increases super-effective moves by 35%. Together they reward calculated plays and exploiting type matchups. Ideal for slow, strategic Pokemon who excel at precise timing.
 
 # ID: 794
-When using super-effective moves, this Pokemon gains perfect accuracy and ignores the target's defensive abilities. Works with all moves that deal 2x or higher damage, ensuring they connect and bypass abilities like Levitate, Flash Fire, or Water Absorb for maximum offensive pressure.
+Always land super effective attacks on the opponent. Allows super effective attacks to ignore the target's abilities and innates that interfere with effects or reduce damage.
 
 # ID: 795
 Embody Aspect raises a stat by 1 stage upon entering battle. Base form boosts Speed, Hearthflame boosts Attack, Cornerstone boosts Defense, and Wellspring boosts Special Defense. Activates every time the Pokemon switches in, including from revival. The boost persists until switching out or fainting.
