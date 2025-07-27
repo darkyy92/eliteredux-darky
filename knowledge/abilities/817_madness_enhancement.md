@@ -1,8 +1,8 @@
 ---
 id: 817
 name: Madness Enhancement (N)
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 135
 ---
 
 # Madness Enhancement (N) - Ability ID 817
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokemon is confused, making it a double-edged defensive tool that trades control for survivability.
+Forces self-confusion when entering fog. All incoming damage is reduced by 50% when the user is confused and it will never hurt itself.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
