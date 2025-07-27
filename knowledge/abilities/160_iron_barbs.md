@@ -1,8 +1,8 @@
 ---
 id: 160
 name: Iron Barbs
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 281
 ---
 
 # Iron Barbs - Ability ID 160
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Barbs deals 1/8 maximum HP damage to attackers using contact moves. Damage is based on the attacker's max HP, not current HP. Magic Guard blocks this retaliation damage. Always deals at least 1 HP damage even if 1/8 calculation rounds to 0. Functions identically to Rough Skin.
+Iron Barbs deals 1/8 maximum HP damage to attackers using contact moves. Damage is based on the attacker's max HP, not current HP. Magic Guard blocks this retaliation damage. Always deals at least 1 HP damage even if 1/8 calculation rounds to 0. Functions identically to Rough Skin
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -81,15 +81,15 @@ Iron Barbs triggers on any move with the contact flag, including but not limited
 ### Damage Calculation Examples
 
 **Example 1**: Garchomp (404 max HP) uses Earthquake against Iron Barbs user
-- Calculation: 404 Ã· 8 = 50.5 to 50 HP damage to Garchomp
+- Calculation: 404 ÷ 8 = 50.5 to 50 HP damage to Garchomp
 - Note: Earthquake doesn't make contact, so Iron Barbs wouldn't actually trigger
 
 **Example 2**: Garchomp uses Dragon Claw against Iron Barbs user
-- Calculation: 404 Ã· 8 = 50.5 to 50 HP damage to Garchomp
+- Calculation: 404 ÷ 8 = 50.5 to 50 HP damage to Garchomp
 - Dragon Claw makes contact, so Iron Barbs triggers
 
 **Example 3**: Shedinja (1 max HP) uses Shadow Sneak against Iron Barbs user
-- Calculation: 1 Ã· 8 = 0.125 to rounds to 0, but minimum is 1
+- Calculation: 1 ÷ 8 = 0.125 to rounds to 0, but minimum is 1
 - Shedinja takes 1 HP damage and faints
 
 **Example 4**: Magic Guard Alakazam uses Psycho Cut against Iron Barbs user
