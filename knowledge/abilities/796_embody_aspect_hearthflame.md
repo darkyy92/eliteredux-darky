@@ -1,8 +1,8 @@
 ---
 id: 796
 name: Embody Aspect (Hearthflame)
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 73
 ---
 
 # Embody Aspect (Hearthflame) - Ability ID 796
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Embody Aspect (Hearthflame) raises the Pokemon's Attack stat by one stage upon entering battle. This boost applies immediately when switching in or at the start of battle. The ability activates before any other switch-in effects and provides a permanent +50% damage boost to physical moves.
+Raises the Pokemon's Attack stat by one stage when switching into battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
