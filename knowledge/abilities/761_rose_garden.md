@@ -1,8 +1,8 @@
 ---
 id: 761
 name: Rose Garden
-status: ai-generated
-character_count: 264
+status: reviewed
+character_count: 152
 ---
 
 # Rose Garden - Ability ID 761
@@ -13,7 +13,7 @@ character_count: 264
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rose Garden instantly spreads two layers of Toxic Spikes on the opponent's side when the Pokemon enters battle. Any grounded enemy that switches in will be badly poisoned, taking increasing damage each turn. Flying types and Poison types are immune to this effect.
+Spreads two layers of Toxic Spikes on the opponent's side on entry. Any non-Poison or Steel-type grounded enemy that switches in will be badly poisoned.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
