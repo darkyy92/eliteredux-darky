@@ -1,8 +1,8 @@
 ---
 id: 736
 name: Deep Cuts
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 272
 ---
 
 # Deep Cuts - Ability ID 736
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Deep Cuts gives all slashing moves a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage each turn until healed. Only affects moves with the Keen Edge flag like Slash, Fury Cutter, and Razor Wind. Rock and Ghost types are immune to bleeding.
+Keen Edge have a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.immune to bleeding. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
