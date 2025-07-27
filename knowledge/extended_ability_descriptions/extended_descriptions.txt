@@ -2090,7 +2090,7 @@ Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduc
 Uses Yawn on switch in, targeting the opposing Pokemon. Yawn causes drowsiness that makes the target fall asleep at the end of the next turn. The sleep effect can be prevented by switching out.
 
 # ID: 711
-Lunar Affinity automatically copies and uses lunar moves when other Pokemon use them in battle. Triggers on Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. The copied move uses the original user's stats and targets but is performed by this Pokemon immediately afterwards.
+Copies lunar moves when other Pokemon use them in battle. Includes Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. Triggers once per move.
 
 # ID: 712
 Flame Shield reduces damage from super-effective moves by 35%, helping Pokemon survive type disadvantages. Works against all attacks with 2x or greater effectiveness. The damage reduction applies before other calculations, making it valuable for frail Pokemon facing coverage moves.

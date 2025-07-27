@@ -719,7 +719,7 @@ In Progress: 0
 | 708 | Roused Fangs               | ✅       | ✅        |
 | 709 | Dream State                | ✅       | ✅        |
 | 710 | Dream Whimsy               | ✅       | ✅        |
-| 711 | Lunar Affinity             | ✅       | ❌        |
+| 711 | Lunar Affinity             | ✅       | ✅        |
 | 712 | Flame Shield               | ✅       | ❌        |
 | 713 | Aquatic Dweller            | ✅       | ❌        |
 | 714 | Apple Pie                  | ✅       | ❌        |
