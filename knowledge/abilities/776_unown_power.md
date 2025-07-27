@@ -1,8 +1,8 @@
 ---
 id: 776
 name: Unown Power
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 216
 ---
 
 # Unown Power - Ability ID 776
@@ -13,8 +13,9 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants STAB to all moves (Mystic Power effect) and makes Hidden Power and Secret Power deal super-effective damage against all targets regardless of type matchups. This ability transforms these variable-type moves into universally effective attacks while providing STAB on every move used.
+Grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does not boost moves that already receive a STAB bonus. Hidden/Secret Power is always super effective (x2).
 
+Detailed Mechanical Explanation 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
