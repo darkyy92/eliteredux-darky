@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 629,
+    "completed": 630,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:58:52.466032Z"
+    "generated_at": "2025-07-27T19:00:04.593942Z"
   },
   "abilities": {
     "0": {
@@ -5863,8 +5863,8 @@
       "id": 836,
       "name": "Biofilm",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "837": {
       "id": 837,
@@ -11158,10 +11158,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "836": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "837": {
       "indicator": "🟠",

@@ -844,7 +844,7 @@ In Progress: 0
 | 833 | Harukaze                   | ✅       | ✅        |
 | 834 | Toxic Surge                | ✅       | ✅        |
 | 835 | Atlantic Ruler             | ✅       | ✅        |
-| 836 | Biofilm                    | ✅       | ❌        |
+| 836 | Biofilm                    | ✅       | ✅        |
 | 837 | Chokehold                  | ✅       | ❌        |
 | 838 | Guardian Coat              | ✅       | ❌        |
 | 839 | Neutralizing Fog           | ✅       | ❌        |

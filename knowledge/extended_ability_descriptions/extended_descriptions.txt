@@ -2456,7 +2456,7 @@ Sets Toxic Terrain on switch-in for 8 turns (12 with Terrain Extender). While ac
 Upon entering battle, adds Water to the user's current typing. Retains Water typing even upon losing the ability, going away only when switching out. Also boosts the power of Water-type moves by 50%. Boosts Speed by 50% during rain.
 
 # ID: 836
-Secrets a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves.
+Boosts the user's Special Defense stat by 50% when in Toxic Terrain.
 
 # ID: 837
 Chokehold enhances binding moves like Wrap, Bind, and Fire Spin by adding paralysis and speed reduction effects. When this Pokemon uses a binding move, the trapped target becomes paralyzed and has its Speed stat lowered. The binding damage and trap duration remain unchanged from normal.
