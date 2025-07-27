@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 548,
+    "completed": 549,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:06:12.855142Z"
+    "generated_at": "2025-07-27T14:07:14.813486Z"
   },
   "abilities": {
     "0": {
@@ -697,8 +697,8 @@
       "id": 98,
       "name": "Magic Guard",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "99": {
       "id": 99,
@@ -6730,10 +6730,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "98": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "99": {
       "indicator": "🟠",

@@ -106,7 +106,7 @@ In Progress: 0
 |  95 | Quick Feet                 | ✅       | ❌        |
 |  96 | Normalize                  | ✅       | ❌        |
 |  97 | Sniper                     | ✅       | ❌        |
-|  98 | Magic Guard                | ✅       | ❌        |
+|  98 | Magic Guard                | ✅       | ✅        |
 |  99 | No Guard                   | ✅       | ❌        |
 | 100 | Stall                      | ✅       | ✅        |
 | 101 | Technician                 | ✅       | ❌        |

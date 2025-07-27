@@ -287,7 +287,7 @@ Normalize converts all damaging moves to Normal-type and grants 10% power boost.
 Sniper boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Works excellently with high crit-ratio moves like Night Slash, Leaf Blade, and Cross Chop. Pairs well with Focus Energy (+2 crit stages) and crit-boosting items like Scope Lens or Razor Claw.
 
 # ID: 98
-Prevents all indirect damage: entry hazards (Stealth Rock, Spikes), weather (Sandstorm, Hail), poison/burn damage, Toxic, Curse, recoil from moves and Life Orb, Leech Seed, Nightmare, trap moves, Rocky Helmet/Rough Skin/Iron Barbs. Only direct attacks deal damage. Status effects still apply.
+Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 # ID: 99
 No Guard ensures all attacks hit by bypassing accuracy checks for both user and opponents. Makes inaccurate moves like Dynamic Punch and Focus Blast 100% reliable while making you vulnerable to all enemy attacks including OHKO moves. High-risk, high-reward ability for aggressive offense.
