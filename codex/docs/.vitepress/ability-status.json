@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 557,
+    "completed": 558,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:18:33.235537Z"
+    "generated_at": "2025-07-27T14:19:16.058736Z"
   },
   "abilities": {
     "0": {
@@ -5415,8 +5415,8 @@
       "id": 772,
       "name": "Relentless",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "773": {
       "id": 773,
@@ -10774,10 +10774,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "772": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "773": {
       "indicator": "🟠",

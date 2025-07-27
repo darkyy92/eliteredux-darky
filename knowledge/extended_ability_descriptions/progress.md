@@ -780,7 +780,7 @@ In Progress: 0
 | 769 | Junshi Sanda               | ✅       | ✅        |
 | 770 | Gladiator                  | ✅       | ❌        |
 | 771 | Forsaken Heart             | ✅       | ✅        |
-| 772 | Relentless                 | ✅       | ❌        |
+| 772 | Relentless                 | ✅       | ✅        |
 | 773 | Soothsayer                 | ✅       | ❌        |
 | 774 | Corrupted Mind             | ✅       | ❌        |
 | 775 | Flame Coat                 | ✅       | ❌        |
