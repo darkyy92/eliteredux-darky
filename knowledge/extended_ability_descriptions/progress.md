@@ -784,7 +784,7 @@ In Progress: 0
 | 773 | Soothsayer                 | ✅       | ✅        |
 | 774 | Corrupted Mind             | ✅       | ✅        |
 | 775 | Ability 775                | ❌       | ❌        |
-| 776 | Unown Power                | ✅       | ❌        |
+| 776 | Unown Power                | ✅       | ✅        |
 | 777 | Super Scope                | ✅       | ❌        |
 | 778 | Venom Crown                | ✅       | ❌        |
 | 779 | Blight Scale               | ✅       | ❌        |

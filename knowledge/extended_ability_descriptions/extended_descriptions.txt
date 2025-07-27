@@ -2279,7 +2279,7 @@ On entry, all attacks received by the user are considered "not very effective" f
 Psychic-type moves bypass type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%.
 
 # ID: 776
-Grants STAB to all moves (Mystic Power effect) and makes Hidden Power and Secret Power deal super-effective damage against all targets regardless of type matchups. This ability transforms these variable-type moves into universally effective attacks while providing STAB on every move used.
+Grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does not boost moves that already receive a STAB bonus. Hidden/Secret Power is always super effective (x2).  Detailed Mechanical Explanation
 
 # ID: 777
 Combines Mega Launcher and Artillery for the ultimate projectile mastery. Boosts pulse, beam, ball, and aura moves by 30% while ensuring they always hit and strike both opponents simultaneously. Perfect accuracy meets devastating power for comprehensive battlefield dominance.
