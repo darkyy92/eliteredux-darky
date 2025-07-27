@@ -1,8 +1,8 @@
 ---
 id: 707
 name: Gleam Eyes
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 242
 ---
 
 # Gleam Eyes - Ability ID 707
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Gleam Eyes combines Frisk and Scare effects on entry. Checks and disables all opposing Pokemon's held items for two turns while lowering their Special Attack by one stage. This dual intimidation effect disrupts item-dependent strategies and weakens special attackers simultaneously.
+Upon entering battle, reveals the opponents' items and prevents them from working for 2 turns; and the user drops the Special Attack stat of all opposing Pokemon by one stage. Does not prevent Mega Stones and other similar items from working. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
