@@ -1,8 +1,8 @@
 ---
 id: 789
 name: Immovable Object
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 211
 ---
 
 # Immovable Object - Ability ID 789
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon combines the defensive properties of both Impenetrable and Sturdy abilities. It is completely immune to all forms of indirect damage including poison, burn, weather effects, and entry hazards, while also surviving any attack that would knock it out from full HP with 1 HP remaining.
+Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
