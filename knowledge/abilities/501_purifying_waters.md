@@ -2,7 +2,7 @@
 id: 501
 name: Purifying Waters
 status: reviewed
-character_count: 191
+character_count: 188
 ---
 
 # Purifying Waters - Ability ID 501
@@ -13,7 +13,7 @@ character_count: 191
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at at the end of the turn.
+Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at the end of the turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
