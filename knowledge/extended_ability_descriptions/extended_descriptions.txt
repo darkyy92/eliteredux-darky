@@ -539,7 +539,7 @@ Symbiosis automatically transfers the holder's item to an ally immediately after
 Contact moves are boosted by 30%.
 
 # ID: 182
-Pixilate transforms all Normal-type attacking moves into Fairy-type moves and boosts their power by 20%. The Pokemon gains STAB from these converted moves if it's part Fairy-type. Works with moves like Hyper Beam, Return, and Boomburst, making them strong Fairy attacks. Perfect for mixed attackers.
+Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 183
 When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace through their slimy nature.
