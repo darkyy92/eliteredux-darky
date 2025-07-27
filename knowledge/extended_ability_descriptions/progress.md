@@ -756,7 +756,7 @@ In Progress: 0
 | 745 | Sand Pit                   | ✅       | ✅        |
 | 746 | Desolate Sun               | ✅       | ✅        |
 | 747 | Daybreak                   | ✅       | ✅        |
-| 748 | Energy Siphon              | ✅       | ❌        |
+| 748 | Energy Siphon              | ✅       | ✅        |
 | 749 | Reservoir                  | ✅       | ❌        |
 | 750 | Neurotoxin                 | ✅       | ❌        |
 | 751 | Energized Horns            | ✅       | ❌        |

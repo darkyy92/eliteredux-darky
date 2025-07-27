@@ -2198,7 +2198,7 @@ Creates extremely harsh sunlight that lasts until the user switches out. Has the
 The user burns the foe on contact. Works on offense and defense.
 
 # ID: 748
-Energy Siphon heals the user for 25% of all damage they deal to opponents. Works with any attack that causes damage, including physical, special, and multi-hit moves. Healing occurs immediately after damage is dealt. Minimum healing is 1 HP even for very weak attacks.
+Heals the user for 25% of all damage they deal to opponents. Healing occurs immediately after damage is dealt. Minimum healing of 1 HP.
 
 # ID: 749
 Reservoir combines Water Absorb and Storm Drain effects. When hit by Water-type moves, the Pokemon recovers 25% HP and boosts its highest attacking stat by one stage. Single-target Water moves are redirected to this Pokemon. Perfect for mixed attackers on water-weak teams needing sustain.
