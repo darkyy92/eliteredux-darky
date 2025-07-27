@@ -1,8 +1,8 @@
 ---
 id: 716
 name: Depravity
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 271
 ---
 
 # Depravity - Ability ID 716
@@ -13,7 +13,8 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Depravity combines Merciless and Overcharge effects. Guarantees critical hits against poisoned, paralyzed, bleeding, or speed-lowered foes while making Electric moves super effective against Electric-types and allowing paralysis of Electric-types. Perfect for overwhelming opponents.
+Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered. The user's Electric-type moves become effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows the user to paralyze Electric-types.
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
