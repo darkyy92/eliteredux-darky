@@ -2201,7 +2201,7 @@ The user burns the foe on contact. Works on offense and defense.
 Heals the user for 25% of all damage they deal to opponents. Healing occurs immediately after damage is dealt. Minimum healing of 1 HP.
 
 # ID: 749
-Reservoir combines Water Absorb and Storm Drain effects. When hit by Water-type moves, the Pokemon recovers 25% HP and boosts its highest attacking stat by one stage. Single-target Water moves are redirected to this Pokemon. Perfect for mixed attackers on water-weak teams needing sustain.
+The user is draws in Water-type moves and is immune to them. Additionally, Water-type moves boost the highest attacking stat of the user and heal for 25% of their max HP when absorbing them.
 
 # ID: 750
 When this Pokemon poisons an opponent, the toxic effects also weaken their offensive capabilities and mobility. Each poisoned foe has their Attack, Special Attack, and Speed lowered by one stage immediately upon being poisoned.
