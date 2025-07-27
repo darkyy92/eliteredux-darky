@@ -842,7 +842,7 @@ In Progress: 0
 | 831 | Grass Flute                | ✅       | ✅        |
 | 832 | Hemotoxin                  | ✅       | ✅        |
 | 833 | Harukaze                   | ✅       | ✅        |
-| 834 | Toxic Surge                | ✅       | ❌        |
+| 834 | Toxic Surge                | ✅       | ✅        |
 | 835 | Atlantic Ruler             | ✅       | ❌        |
 | 836 | Biofilm                    | ✅       | ❌        |
 | 837 | Chokehold                  | ✅       | ❌        |

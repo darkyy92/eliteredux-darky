@@ -2450,7 +2450,7 @@ Negates the opponent's ability and innates when the user successfully poisons th
 Sets Grassy Terrain when setting Tailwind, and sets Tailwind when setting Grassy Terrain. Does not refresh the duration in either case if one is already active.
 
 # ID: 834
-Toxic Surge sets Toxic Terrain on switch-in. The toxic sludge covers the field for 5 turns (8 with Terrain Extender). Grounded Pokemon that aren't Poison or Steel-type take 1/16 max HP damage each turn. Flying-types and Levitate users avoid damage unless grounded.
+Sets Toxic Terrain on switch-in for 8 turns (12 with Terrain Extender). While active, grounded Pokemon that aren't Poison or Steel-type take 1/16 max HP damage each turn, Poison-type moves deal 30% more damage, and Spikes are converted to Toxic Spikes.
 
 # ID: 835
 Empowers the user with mastery over aquatic environments. Water-type moves gain a 1.5x power boost, allowing for devastating oceanic attacks. During rain, the user's Speed is multiplied by 1.5x, enabling swift underwater maneuvers. This dual enhancement makes the bearer a true ruler of the seas.
