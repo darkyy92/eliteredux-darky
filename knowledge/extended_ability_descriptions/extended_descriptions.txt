@@ -2282,7 +2282,7 @@ Psychic-type moves bypass type resistances and immunities, hitting for at least 
 Grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does not boost moves that already receive a STAB bonus. Hidden/Secret Power is always super effective (x2).  Detailed Mechanical Explanation
 
 # ID: 777
-Combines Mega Launcher and Artillery for the ultimate projectile mastery. Boosts pulse, beam, ball, and aura moves by 30% while ensuring they always hit and strike both opponents simultaneously. Perfect accuracy meets devastating power for comprehensive battlefield dominance.
+Boosts pulse, beam, ball, and aura moves by 30%. Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Unable to miss with pulse, beam, ball, aura, and other blast related moves.
 
 # ID: 778
 When hit by contact moves, has 30% chance to poison the attacker. Additionally, all horn-based moves gain 30% power boost. Combines poison immunity with devastating jabbing attacks for royal dominance.
