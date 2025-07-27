@@ -2276,7 +2276,7 @@ When attacking a statused opponent, deals 1.25x damage and automatically targets
 On entry, all attacks received by the user are considered "not very effective" for 3 turns. Deactivates when switching out.
 
 # ID: 774
-Psychic-type moves bypass all type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%, making status infliction more reliable.
+Psychic-type moves bypass type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%.
 
 # ID: 775
 Creates a blazing aura that scorches all non-Fire-type Pokemon on the battlefield. At the end of each turn, all non-Fire-types suffer burns equivalent to 1/8 of their maximum HP, creating a punishing environment that favors Fire-types and forces strategic switching.
