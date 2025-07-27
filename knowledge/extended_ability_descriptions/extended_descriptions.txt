@@ -2465,7 +2465,7 @@ When the user traps a target, they inflict paralysis and drop their speed by one
 Provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming physical  damage by 20%. Multiplicative with other damage reduction sources.
 
 # ID: 839
-Neutralizing Fog automatically uses Defog when the Pokemon enters battle. Clears entry hazards (Stealth Rock, Spikes, Toxic Spikes, Sticky Web), screens (Light Screen, Reflect, Aurora Veil), and terrain effects from both sides. Lowers opponent's evasion by 1. Excellent hazard control.
+Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mist. Also lowers the opponent's evasion by one stage.
 
 # ID: 840
 Sharp venomous barbs punish physical contact. When struck by a contact move, the attacker takes 1/8 of their max HP damage and has a 30% chance to be poisoned. Both effects trigger from the same contact move, providing strong deterrence against physical attackers.
