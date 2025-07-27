@@ -1,8 +1,8 @@
 ---
 id: 749
 name: Reservoir
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 190
 ---
 
 # Reservoir - Ability ID 749
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reservoir combines Water Absorb and Storm Drain effects. When hit by Water-type moves, the Pokemon recovers 25% HP and boosts its highest attacking stat by one stage. Single-target Water moves are redirected to this Pokemon. Perfect for mixed attackers on water-weak teams needing sustain.
+The user is draws in Water-type moves and is immune to them. Additionally, Water-type moves boost the highest attacking stat of the user and heal for 25% of their max HP when absorbing them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
