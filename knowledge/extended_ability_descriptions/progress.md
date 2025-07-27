@@ -732,7 +732,7 @@ In Progress: 0
 | 721 | Raging Goddess             | ✅       | ✅        |
 | 722 | Whiplash                   | ✅       | ✅        |
 | 723 | Supersweet Syrup           | ✅       | ✅        |
-| 724 | Lucky Halo                 | ✅       | ❌        |
+| 724 | Lucky Halo                 | ✅       | ✅        |
 | 725 | Trash Heap                 | ✅       | ❌        |
 | 726 | Sludgy Mix                 | ✅       | ❌        |
 | 727 | Overwatch                  | ✅       | ❌        |

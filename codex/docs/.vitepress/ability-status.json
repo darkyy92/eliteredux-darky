@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 503,
+    "completed": 504,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T01:27:14.653677Z"
+    "generated_at": "2025-07-27T01:31:22.948354Z"
   },
   "abilities": {
     "0": {
@@ -5079,8 +5079,8 @@
       "id": 724,
       "name": "Lucky Halo",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "725": {
       "id": 725,
@@ -10486,10 +10486,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "724": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "725": {
       "indicator": "🟠",

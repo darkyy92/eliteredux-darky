@@ -2129,7 +2129,7 @@ Lowers the target's Defense by one stage when hitting with physical attacks. Eac
 The user's item cannot be forcibly removed or stolen. When making contact, the opponent's item is disabled for 2 turns.
 
 # ID: 724
-Lucky Halo prevents all negative stat changes to the user and allows survival of one KO hit per battle with exactly 1 HP remaining. The stat drop prevention works like Clear Body, blocking Intimidate and stat-lowering moves. The endure effect activates once per battle similar to Focus Sash effects.
+Prevents self-inflicted stat drops on the user and allows them to survive an attack that would KO them one time, leaving them with 1 HP.
 
 # ID: 725
 Trash Heap combines Corrosion and Toxic Spill effects. Poison-type moves hit Steel-types for super effective damage and can poison any type. Upon entry, creates toxic waste that damages all non-Poison types by 1/8 HP each turn. Poison Heal users recover instead. Waste disappears when switched out.
