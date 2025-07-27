@@ -731,7 +731,7 @@ In Progress: 0
 | 720 | Stun Shock                 | ✅       | ✅        |
 | 721 | Raging Goddess             | ✅       | ✅        |
 | 722 | Whiplash                   | ✅       | ✅        |
-| 723 | Supersweet Syrup           | ✅       | ❌        |
+| 723 | Supersweet Syrup           | ✅       | ✅        |
 | 724 | Lucky Halo                 | ✅       | ❌        |
 | 725 | Trash Heap                 | ✅       | ❌        |
 | 726 | Sludgy Mix                 | ✅       | ❌        |

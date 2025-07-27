@@ -2126,7 +2126,7 @@ Eliminates recharge turns when the user successfully KOs an opponent with a dire
 Lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. The Defense drop occurs after damage.
 
 # ID: 723
-Supersweet Syrup combines Sticky Hold's item protection with item disruption. The Pokemon's item cannot be removed or stolen. When hit by contact moves, the attacker's item is disabled for 2 turns, preventing item activation and effects during battle.
+The user's item cannot be forcibly removed or stolen. When making contact, the opponent's item is disabled for 2 turns.
 
 # ID: 724
 Lucky Halo prevents all negative stat changes to the user and allows survival of one KO hit per battle with exactly 1 HP remaining. The stat drop prevention works like Clear Body, blocking Intimidate and stat-lowering moves. The endure effect activates once per battle similar to Focus Sash effects.
