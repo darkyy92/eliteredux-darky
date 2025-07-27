@@ -763,7 +763,7 @@ In Progress: 0
 | 752 | Spider Lair Upgrade        | ✅       | ✅        |
 | 753 | Crust Coat                 | ✅       | ✅        |
 | 754 | Puffy                      | ✅       | ✅        |
-| 755 | Balloon Blitz              | ✅       | ❌        |
+| 755 | Balloon Blitz              | ✅       | ✅        |
 | 756 | Striker Pixilate           | ✅       | ❌        |
 | 757 | Doom Blast                 | ✅       | ❌        |
 | 758 | Bruteforce                 | ✅       | ❌        |

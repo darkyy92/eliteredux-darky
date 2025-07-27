@@ -2219,7 +2219,7 @@ Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduc
 Reduces damage from contact moves by 50%. Fire-type moves to deal double damage to the user. Multiplicative with other forms of damage reduction.
 
 # ID: 755
-Combines Inflatable and Hyper Aggressive effects. When hit by Fire or Flying moves, boosts Defense and Special Defense by one stage each. Additionally, all moves strike twice, with the second hit dealing 25% damage. Perfect for aggressive tanks that capitalize on defensive boosts.
+When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage. Activates on each hit of a multihit move. Boost applies after the hit lands. All attacks hit twice. First hit deals 100%, while the second deals 25%. Each hit rolls secondary effects independently (except flinch).
 
 # ID: 756
 Combines Striker and Pixilate effects. Boosts the power of kicking moves by 30% and converts all Normal-type moves to Fairy-type with a 20% power boost. This dual enhancement makes the Pokemon excel at both physical kicking attacks and special Fairy-type moves.
