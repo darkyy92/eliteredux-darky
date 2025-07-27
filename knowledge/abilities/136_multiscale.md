@@ -1,8 +1,8 @@
 ---
 id: 136
 name: Multiscale
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 120
 ---
 
 # Multiscale - Ability ID 136
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Multiscale provides a powerful defensive barrier, reducing all incoming damage by 50% when the Pokemon is at maximum HP. This protection applies to all attack types including physical, special, and fixed damage moves. The ability deactivates after taking any damage but resets when healed to full.
+Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 
