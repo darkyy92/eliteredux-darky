@@ -293,7 +293,7 @@ Prevents all indirect damage: entry hazards (Stealth Rock, Spikes), weather (San
 No Guard ensures all attacks hit by bypassing accuracy checks for both user and opponents. Makes inaccurate moves like Dynamic Punch and Focus Blast 100% reliable while making you vulnerable to all enemy attacks including OHKO moves. High-risk, high-reward ability for aggressive offense.
 
 # ID: 100
-Takes 30% less damage when attacked before moving this turn. Activates when opponents act first due to higher speed or priority moves. Works on physical, special and fixed damage. Benefits slow Pokemon and Trick Room teams. Damage reduction applies to all attacks received before the user's turn.
+Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn.
 
 # ID: 101
 Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts.
