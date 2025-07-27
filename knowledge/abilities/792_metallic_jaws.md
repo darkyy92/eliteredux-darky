@@ -1,8 +1,8 @@
 ---
 id: 792
 name: Metallic Jaws
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 295
 ---
 
 # Metallic Jaws - Ability ID 792
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Metallic Jaws grants the Steel type upon switching in and enables jaw-based attacks to hit twice with 60% power on the second strike. The first hit deals full damage while the follow-up strike deals reduced damage, creating devastating combo potential with bite attacks like Crunch and Fang moves.
+Upon entering battle, adds Steel to the user's current typing. Retains Steel typing even upon losing the ability, going away only when switching out. all biting moves to hit twice. First hit deals 100% damage, second hit deals 40%. Each hit rolls secondary effects independently (except flinch).
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
