@@ -821,7 +821,7 @@ In Progress: 0
 | 810 | Elude                      | ✅       | ✅        |
 | 811 | Drake Of Rage              | ✅       | ✅        |
 | 812 | Reverbate                  | ✅       | ✅        |
-| 813 | Mixed Martial Arts         | ✅       | ❌        |
+| 813 | Mixed Martial Arts         | ✅       | ✅        |
 | 814 | Strategic Pause            | ✅       | ❌        |
 | 815 | Overrule                   | ✅       | ❌        |
 | 816 | Mental Pollution (N)       | ✅       | ❌        |

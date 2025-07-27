@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 603,
+    "completed": 604,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:51:50.051145Z"
+    "generated_at": "2025-07-27T16:53:25.324732Z"
   },
   "abilities": {
     "0": {
@@ -5702,8 +5702,8 @@
       "id": 813,
       "name": "Mixed Martial Arts",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "814": {
       "id": 814,
@@ -11020,10 +11020,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "813": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "814": {
       "indicator": "🟠",

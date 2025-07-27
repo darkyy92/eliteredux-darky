@@ -2390,7 +2390,7 @@ Doubles damage when attacking into resistances. If a move would be resisted (0.5
 Converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions.
 
 # ID: 813
-Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, allowing them to benefit from abilities like Iron Fist, Strong Jaw, and similar move-based enhancements. This transforms typical Normal attacks into martial arts techniques with increased power and special interactions.
+Converts all Normal-type moves into Iron Fist and Striker moves, enabling them to benefit from related abilities and interactions.
 
 # ID: 814
 Strategic Pause combines patience with precision. When moving after the target, this ability provides a 30% damage boost from Analytic plus raises critical hit rate by 2 stages. The critical hit bonus transforms rare crits into frequent ones, making slow sweepers devastatingly effective.
