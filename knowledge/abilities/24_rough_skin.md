@@ -1,8 +1,8 @@
 ---
 id: 24
 name: Rough Skin
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 109
 ---
 
 # Rough Skin - Ability ID 24
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance. Stacks with Rocky Helmet for 1/6 total damage.
+Damages attackers using contact moves for 1/8 of their max HP. Activates on every hit for multihitting moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
