@@ -860,7 +860,7 @@ In Progress: 0
 | 849 | World Serpent              | ✅       | ✅        |
 | 850 | Lucky Wings                | ✅       | ✅        |
 | 851 | Komodo                     | ✅       | ✅        |
-| 852 | Envenom                    | ✅       | ❌        |
+| 852 | Envenom                    | ✅       | ✅        |
 | 853 | Purple Haze                | ✅       | ❌        |
 | 854 | Gnashing Cannon            | ✅       | ❌        |
 | 855 | Hyper Cleanse              | ✅       | ❌        |

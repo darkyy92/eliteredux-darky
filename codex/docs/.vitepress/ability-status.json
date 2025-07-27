@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 646,
+    "completed": 647,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T23:50:30.394071Z"
+    "generated_at": "2025-07-27T23:50:47.667900Z"
   },
   "abilities": {
     "0": {
@@ -5975,8 +5975,8 @@
       "id": 852,
       "name": "Envenom",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "853": {
       "id": 853,
@@ -11254,10 +11254,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "852": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "853": {
       "indicator": "🟠",

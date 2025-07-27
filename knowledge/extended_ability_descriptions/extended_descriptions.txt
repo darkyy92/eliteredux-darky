@@ -2501,7 +2501,7 @@ Doubles the activation chance of the user's secondary effects on their attacks. 
 Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out. 30% chance to badly poison targets when landing attacks.
 
 # ID: 852
-When this Pokemon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.
+The user has a 30% to poison the target after landing any move. Multihits roll the activation chance on each hit.
 
 # ID: 853
 After using any move, this Pokemon automatically follows up with a weakened Poison Gas attack that deals 20 base power damage. The poisonous gas has a 20% chance to inflict poison status and is super effective against Flying-types, providing consistent chip damage and battlefield pressure.
