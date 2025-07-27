@@ -1,8 +1,8 @@
 ---
 id: 769
 name: Junshi Sanda
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 181
 ---
 
 # Junshi Sanda - Ability ID 769
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Punching and kicking moves gain each other's properties. Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities. This dual classification enables powerful synergies.
+Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
