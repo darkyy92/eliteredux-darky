@@ -1,8 +1,8 @@
 ---
 id: 119
 name: Frisk
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 161
 ---
 
 # Frisk - Ability ID 119
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Upon entering battle, Frisk immediately scans all opposing Pokemon, revealing their held items to you. It then applies Embargo status for two turns, preventing all foes from using their items. This enhanced version provides strong tactical advantage by denying crucial item usage.
+Upon entering battle, reveals the opponents' items and prevents them from working for 2 turns. Does not prevent Mega Stones and other similar items from working.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
