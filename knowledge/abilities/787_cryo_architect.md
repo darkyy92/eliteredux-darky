@@ -1,8 +1,8 @@
 ---
 id: 787
 name: Cryo Architect
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 164
 ---
 
 # Cryo Architect - Ability ID 787
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by Water-type moves, immediately boosts Attack by 1 stage and triggers an additional Defense boost at the end of turn. When hit by Ice-type moves, immediately raises both Attack and Defense by 1 stage each. Creates excellent synergy with defensive Ice-types seeking offensive presence.
+When hit by any Water or Ice moves, boost Attack and Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the move resolves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
