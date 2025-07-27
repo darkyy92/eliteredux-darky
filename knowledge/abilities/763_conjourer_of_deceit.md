@@ -1,8 +1,8 @@
 ---
 id: 763
 name: Conjourer of Deceit
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 287
 ---
 
 # Conjourer of Deceit - Ability ID 763
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Magic Guard and Magic Bounce effects. Prevents all indirect damage from status conditions, weather, entry hazards, recoil, and items. Additionally bounces back all status moves and entry hazard moves to the user, making this Pokemon nearly untouchable by most support moves.
+Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. Reflects most status moves back to the user before they can take effect. Reflected moves target the original user. Does not reflect moves that were already reflected.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
