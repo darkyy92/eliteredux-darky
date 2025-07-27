@@ -2081,7 +2081,7 @@ Boosts the power of biting and fang moves by 30% and they have a 50% chance to p
 Upon entering battle, reveals the opponents' items and prevents them from working for 2 turns; and the user drops the Special Attack stat of all opposing Pokemon by one stage. Does not prevent Mega Stones and other similar items from working.
 
 # ID: 708
-Roused Fangs makes biting moves use Special Attack instead of Attack and boosts their damage by 30%. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, and similar moves. Transforms physical biters into special attackers with enhanced power.
+Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 # ID: 709
 Dream State grants complete immunity to critical hits and reduces all incoming damage by 20%. The damage reduction stacks with resistances and items. Critical immunity blocks all crit sources including abilities and held items, making it excellent against high-crit Pokemon and luck strategies.

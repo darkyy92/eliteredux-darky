@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 486,
+    "completed": 487,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T00:32:45.402009Z"
+    "generated_at": "2025-07-27T00:36:28.288879Z"
   },
   "abilities": {
     "0": {
@@ -4967,8 +4967,8 @@
       "id": 708,
       "name": "Roused Fangs",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "709": {
       "id": 709,
@@ -10390,10 +10390,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "708": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "709": {
       "indicator": "🟠",
