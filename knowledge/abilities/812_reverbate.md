@@ -1,8 +1,8 @@
 ---
 id: 812
 name: Reverbate
-status: ai-generated
-character_count: 251
+status: reviewed
+character_count: 118
 ---
 
 # Reverbate - Ability ID 812
@@ -13,7 +13,7 @@ character_count: 251
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reverbate converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions. Sound moves can target multiple foes with Amplifier or Bass Boosted abilities, but are blocked by Throat Chop for 2 turns.
+Converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
