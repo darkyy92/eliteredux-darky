@@ -469,9 +469,6 @@ Status moves gain +1 priority, going first in their priority bracket. This inclu
 # ID: 159
 Sand Force boosts the Pokemon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.
 
-# ID: 160
-Iron Barbs deals 1/8 maximum HP damage to attackers using contact moves. Damage is based on the attacker's max HP, not current HP. Magic Guard blocks this retaliation damage. Always deals at least 1 HP damage even if 1/8 calculation rounds to 0. Functions identically to Rough Skin.
-
 # ID: 161
 Zen Mode triggers permanent form change upon battle entry. Unlike HP-based transformations, this activates unconditionally when entering battle. The transformation lasts the entire battle and cannot be reversed. Works with Darmanitan forms, changing stats, typing, and complete movepool access.
 

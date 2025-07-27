@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 859
+Completed: 858
 In Progress: 0
 
 ## Progress Tracking
@@ -168,7 +168,7 @@ In Progress: 0
 | 157 | Sap Sipper                 | ✅       | ❌        |
 | 158 | Prankster                  | ✅       | ❌        |
 | 159 | Sand Force                 | ✅       | ❌        |
-| 160 | Iron Barbs                 | ✅       | ❌        |
+| 160 | Ability 160                | ❌       | ❌        |
 | 161 | Zen Mode                   | ✅       | ❌        |
 | 162 | Victory Star               | ✅       | ❌        |
 | 163 | Turboblaze                 | ✅       | ❌        |

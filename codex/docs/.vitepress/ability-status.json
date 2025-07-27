@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 634,
-    "written": 859,
-    "pending": 17,
-    "generated_at": "2025-07-27T19:12:43.298694Z"
+    "written": 858,
+    "pending": 18,
+    "generated_at": "2025-07-27T19:13:45.146601Z"
   },
   "abilities": {
     "0": {
@@ -1129,10 +1129,10 @@
     },
     "160": {
       "id": 160,
-      "name": "Iron Barbs",
-      "written": true,
+      "name": "Ability 160",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "161": {
       "id": 161,
@@ -7102,10 +7102,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "160": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "161": {
       "indicator": "🟠",
