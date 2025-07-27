@@ -2444,7 +2444,7 @@ Roar of Time becomes a 100 BP +0 Priority attack that changes the target's Abili
 Sound moves inflict Fear on hit. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 832
-Hemotoxin seeps into poisoned foes, temporarily neutralizing their abilities while they suffer from poison status. The toxic compounds disrupt the target's natural powers, leaving them unable to utilize their ability effects until the poison is cured or they switch out.
+Negates the opponent's ability and innates when the user successfully poisons them. Suppression wears off after they switch out.
 
 # ID: 833
 When this Pokemon or an ally sets Grassy Terrain, your team automatically gains Tailwind for the same duration. Conversely, when your team gains Tailwind, Grassy Terrain is automatically set. This bidirectional synergy creates a powerful field control combination, boosting both offense and defense.
