@@ -2117,7 +2117,7 @@ Uses Astonish on switch in, a 40 BP Ghost-type Physical move with +3 priority th
 Uses Tar Shot on switch in, lowering the target's Speed by one stage and making them take double damage from Fire-type moves. Does not stack the Fire-type damage debuff on successive uses.
 
 # ID: 720
-Stun Shock gives each attack a 60% chance to inflict either Paralysis or Poison on the target, chosen randomly. The status effect is determined by a coin flip when the ability triggers. Only works on moves that make contact or deal damage. Perfect for disrupting opposing teams.
+When the user lands an attack, there's a 60% chance of inflicting poison or paralysis, chosen randomly. Multihits roll the activation chance on each hit.
 
 # ID: 721
 Raging Goddess combines two powerful effects. Moves hit twice with the second hit dealing 25% damage like Hyper Aggressive. Additionally, like Rampage, eliminates recharge after knocking out an opponent from moves that normally require recharge, allowing for relentless combat.
