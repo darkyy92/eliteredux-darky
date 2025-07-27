@@ -1,8 +1,8 @@
 ---
 id: 806
 name: Super Sniper
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 185
 ---
 
 # Super Sniper - Ability ID 806
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Super Sniper combines Sniper's critical hit damage boost with pursuit mechanics. Critical hits deal 1.5x extra damage like Sniper. When an opponent switches out, this Pokemon automatically attacks the switching target with its selected move at half power, bypassing turn order.
+Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Attacks strike foes before they finish switching out for 50% power, damaging them before leaving. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
