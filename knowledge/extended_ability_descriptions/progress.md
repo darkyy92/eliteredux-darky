@@ -786,7 +786,7 @@ In Progress: 0
 | 775 | Ability 775                | ❌       | ❌        |
 | 776 | Unown Power                | ✅       | ✅        |
 | 777 | Super Scope                | ✅       | ✅        |
-| 778 | Venom Crown                | ✅       | ❌        |
+| 778 | Venom Crown                | ✅       | ✅        |
 | 779 | Blight Scale               | ✅       | ❌        |
 | 780 | Gunman                     | ✅       | ❌        |
 | 781 | Hunter's Mark              | ✅       | ❌        |

@@ -2285,7 +2285,7 @@ Grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does
 Boosts pulse, beam, ball, and aura moves by 30%. Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. Unable to miss with pulse, beam, ball, aura, and other blast related moves.
 
 # ID: 778
-When hit by contact moves, has 30% chance to poison the attacker. Additionally, all horn-based moves gain 30% power boost. Combines poison immunity with devastating jabbing attacks for royal dominance.
+Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked. Boosts the power of horn and drill-based attacks by 30%.
 
 # ID: 779
 When at full HP, takes half damage from attacks. Contact moves have a 30% chance to poison the attacker. Combines defensive durability with punishing counterattack potential, making this Pokemon dangerous to engage in direct combat at maximum health.
