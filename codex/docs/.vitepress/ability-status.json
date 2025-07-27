@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 583,
+    "completed": 584,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:57:37.828377Z"
+    "generated_at": "2025-07-27T15:58:10.574368Z"
   },
   "abilities": {
     "0": {
@@ -5583,8 +5583,8 @@
       "id": 796,
       "name": "Embody Aspect (Hearthflame)",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "797": {
       "id": 797,
@@ -10918,10 +10918,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "796": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "797": {
       "indicator": "🟠",

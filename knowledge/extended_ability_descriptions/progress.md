@@ -804,7 +804,7 @@ In Progress: 0
 | 793 | Calculative                | ✅       | ❌        |
 | 794 | Deadly Precision           | ✅       | ✅        |
 | 795 | Embody Aspect              | ✅       | ✅        |
-| 796 | Embody Aspect (Hearthflame) | ✅       | ❌        |
+| 796 | Embody Aspect (Hearthflame) | ✅       | ✅        |
 | 797 | Embody Aspect (Cornerstone) | ✅       | ❌        |
 | 798 | Embody Aspect (Wellspring) | ✅       | ❌        |
 | 799 | Rockhard Shaft             | ✅       | ❌        |

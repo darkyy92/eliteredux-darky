@@ -2339,7 +2339,7 @@ Always land super effective attacks on the opponent. Allows super effective atta
 Raises the Pokemon's Speed stat by one stage when switching into battle.
 
 # ID: 796
-Embody Aspect (Hearthflame) raises the Pokemon's Attack stat by one stage upon entering battle. This boost applies immediately when switching in or at the start of battle. The ability activates before any other switch-in effects and provides a permanent +50% damage boost to physical moves.
+Raises the Pokemon's Attack stat by one stage when switching into battle.
 
 # ID: 797
 Embody Aspect (Cornerstone) raises the Pokemon's Defense by one stage immediately upon switching into battle. This defensive boost occurs regardless of how the Pokemon enters battle, whether through normal switching, forced switching, or other entry methods.
