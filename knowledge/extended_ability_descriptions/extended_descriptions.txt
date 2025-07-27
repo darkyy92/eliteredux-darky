@@ -401,7 +401,7 @@ Heavy Metal doubles the Pokemon's weight in battle. This makes weight-based atta
 Light Metal halves the Pokemon's weight and boosts Speed by 30%. The weight reduction affects weight-based moves like Low Kick, Grass Knot, Heavy Slam, and Heat Crash. Lower weight reduces damage taken from opposing weight moves but reduces damage dealt by the user's own weight-based attacks.
 
 # ID: 136
-Multiscale provides a powerful defensive barrier, reducing all incoming damage by 50% when the Pokemon is at maximum HP. This protection applies to all attack types including physical, special, and fixed damage moves. The ability deactivates after taking any damage but resets when healed to full.
+Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction.
 
 # ID: 137
 Toxic Boost increases the Pokemon's physical Attack by 50% when poisoned (regular or badly poisoned). The ability completely prevents poison damage both in battle and in the field. Works with self-inflicted poison from Toxic Orb. The Attack boost applies immediately upon becoming poisoned.
