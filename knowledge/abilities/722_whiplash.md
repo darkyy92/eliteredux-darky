@@ -1,8 +1,8 @@
 ---
 id: 722
 name: Whiplash
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 162
 ---
 
 # Whiplash - Ability ID 722
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Whiplash lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. Works with all physical moves including multi-hit attacks. The Defense drop occurs after damage, helping break through defensive walls and support teammates.
+Lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. The Defense drop occurs after damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
