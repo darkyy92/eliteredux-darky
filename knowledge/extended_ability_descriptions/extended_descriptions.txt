@@ -2363,7 +2363,7 @@ Boosts the user's Speed and highest attacking stat by 50% when sun is active.
 Raises the Pokemon's Special Defense stat by one stage when switching into battle.
 
 # ID: 804
-Firefighter provides offensive and defensive advantages against Fire-types. When attacking Fire-type Pokemon, damage output is increased by 50%. When receiving Fire-type attacks, incoming damage is reduced by 50%. This dual-purpose ability makes it excellent for countering Fire opponents.
+Deals 1.5x damage to Fire-type Pokemon and takes 0.5x damage when attacked by Fire-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 # ID: 805
 Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.

@@ -812,7 +812,7 @@ In Progress: 0
 | 801 | Sun's Bounty               | ✅       | ✅        |
 | 802 | Rite Of Spring             | ✅       | ✅        |
 | 803 | Headstrong                 | ✅       | ✅        |
-| 804 | Firefighter                | ✅       | ❌        |
+| 804 | Firefighter                | ✅       | ✅        |
 | 805 | Sepia Lens                 | ✅       | ❌        |
 | 806 | Super Sniper               | ✅       | ❌        |
 | 807 | Woodland Curse             | ✅       | ❌        |

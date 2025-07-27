@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 593,
+    "completed": 594,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:18:56.249405Z"
+    "generated_at": "2025-07-27T16:19:51.136239Z"
   },
   "abilities": {
     "0": {
@@ -5639,8 +5639,8 @@
       "id": 804,
       "name": "Firefighter",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "805": {
       "id": 805,
@@ -10966,10 +10966,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "804": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "805": {
       "indicator": "🟠",
