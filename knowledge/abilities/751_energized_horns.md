@@ -1,8 +1,8 @@
 ---
 id: 751
 name: Energized Horns
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 105
 ---
 
 # Energized Horns - Ability ID 751
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Horn moves become special and deal 30% more damage. Converts physical horn attacks (Horn Attack, Megahorn, Smart Strike) to special moves using SpAtk. Creates mixed attacker threats that bypass high Defense. Megahorn becomes 156 BP special Bug nuke. Horn Leech provides special Grass recovery.
+Horn moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
