@@ -2303,7 +2303,7 @@ When the user poisons a Pokemon, the poisoned target is cleared of all stat rais
 Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon. In a double battle, the user's ally receives 50% less damage. Multiplicative with other damage reduction sources.
 
 # ID: 784
-Upon switching in, the Pokemon immediately summons a powerful whirlpool that targets any opposing Pokemon present. This Water-type attack traps the opponent for 2-5 turns, dealing damage each turn while preventing escape.
+Uses Whirlpool upon switching into battle, a 50 BP Water-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out until the trap ends.
 
 # ID: 785
 This ability combines two effects: it switches between two forms at the end of each turn like Hunger Switch, and boosts Electric and Dark-type moves. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.

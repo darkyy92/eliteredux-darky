@@ -792,7 +792,7 @@ In Progress: 0
 | 781 | Hunter's Mark              | ✅       | ✅        |
 | 782 | Hemolysis                  | ✅       | ✅        |
 | 783 | Caretaker                  | ✅       | ✅        |
-| 784 | Poseidons Dominion         | ✅       | ❌        |
+| 784 | Poseidons Dominion         | ✅       | ✅        |
 | 785 | Dual Shadow                | ✅       | ❌        |
 | 786 | Lullaby                    | ✅       | ❌        |
 | 787 | Cryo Architect             | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 572,
+    "completed": 573,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:14:05.974196Z"
+    "generated_at": "2025-07-27T15:15:11.259869Z"
   },
   "abilities": {
     "0": {
@@ -5499,8 +5499,8 @@
       "id": 784,
       "name": "Poseidons Dominion",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "785": {
       "id": 785,
@@ -10846,10 +10846,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "784": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "785": {
       "indicator": "🟠",
