@@ -825,7 +825,7 @@ In Progress: 0
 | 814 | Strategic Pause            | ✅       | ✅        |
 | 815 | Overrule                   | ✅       | ✅        |
 | 816 | Mental Pollution (N)       | ✅       | ✅        |
-| 817 | Madness Enhancement (N)    | ✅       | ❌        |
+| 817 | Madness Enhancement (N)    | ✅       | ✅        |
 | 818 | Tentalock (N)              | ✅       | ❌        |
 | 819 | Serpent Bind (N)           | ✅       | ❌        |
 | 820 | Soul Tap                   | ✅       | ❌        |

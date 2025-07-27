@@ -2402,7 +2402,7 @@ When this Pokemon's moves land critical hits, they ignore type resistances (any 
 Nullifies all opposing Pokemon's abilities and innates while they are confused. Pokemon with Mental Pollution remain unaffected.
 
 # ID: 817
-Madness Enhancement forces self-confusion when entering fog weather but provides substantial protection while confused. All incoming damage is reduced by 50% when the Pokemon is confused, making it a double-edged defensive tool that trades control for survivability.
+Forces self-confusion when entering fog. All incoming damage is reduced by 50% when the user is confused and it will never hurt itself.
 
 # ID: 818
 Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 607,
+    "completed": 608,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T17:46:19.555412Z"
+    "generated_at": "2025-07-27T17:49:25.881236Z"
   },
   "abilities": {
     "0": {
@@ -5730,8 +5730,8 @@
       "id": 817,
       "name": "Madness Enhancement (N)",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "818": {
       "id": 818,
@@ -11044,10 +11044,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "817": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "818": {
       "indicator": "🟠",
