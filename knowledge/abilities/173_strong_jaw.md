@@ -1,8 +1,8 @@
 ---
 id: 173
 name: Strong Jaw
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 49
 ---
 
 # Strong Jaw - Ability ID 173
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Strong Jaw boosts the power of biting and fang moves by 30%. Works with Bite, Crunch, Hyper Fang, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, Jaw Lock, and custom moves like Iron Fangs, Draconic Fangs, and Kilobite. Multiplicative with other damage boosts for powerful offense.
+Boosts the power of biting and fang moves by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
