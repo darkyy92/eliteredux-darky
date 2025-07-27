@@ -1,8 +1,8 @@
 ---
 id: 61
 name: Shed Skin
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 293
 ---
 
 # Shed Skin - Ability ID 61
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Each turn, has a 30% chance to automatically cure any status condition. Removes poison, burn, paralysis, sleep, freeze, frostbite, and bleed. Provides passive recovery from status ailments without switching. Ideal for bulky Pokemon that can outlast status effects. No item required for healing.
+Each turn, has a 30% chance to automatically cure any status condition. Removes poison, burn, paralysis, sleep, freeze, frostbite, and bleed. Provides passive recovery from status ailments without switching. Ideal for bulky Pokemon that can outlast status effects. No item required for healing
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
