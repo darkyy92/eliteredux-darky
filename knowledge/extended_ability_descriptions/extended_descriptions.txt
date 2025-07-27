@@ -2120,7 +2120,7 @@ Uses Tar Shot on switch in, lowering the target's Speed by one stage and making 
 When the user lands an attack, there's a 60% chance of inflicting poison or paralysis, chosen randomly. Multihits roll the activation chance on each hit.
 
 # ID: 721
-Raging Goddess combines two powerful effects. Moves hit twice with the second hit dealing 25% damage like Hyper Aggressive. Additionally, like Rampage, eliminates recharge after knocking out an opponent from moves that normally require recharge, allowing for relentless combat.
+Eliminates recharge turns when the user successfully KOs an opponent with a direct attack. Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch).
 
 # ID: 722
 Whiplash lowers the target's Defense by one stage when hitting with physical attacks. Each target can only be affected once per turn. Works with all physical moves including multi-hit attacks. The Defense drop occurs after damage, helping break through defensive walls and support teammates.

@@ -729,7 +729,7 @@ In Progress: 0
 | 718 | Jump Scare                 | ✅       | ✅        |
 | 719 | Tar Toss                   | ✅       | ✅        |
 | 720 | Stun Shock                 | ✅       | ✅        |
-| 721 | Raging Goddess             | ✅       | ❌        |
+| 721 | Raging Goddess             | ✅       | ✅        |
 | 722 | Whiplash                   | ✅       | ❌        |
 | 723 | Supersweet Syrup           | ✅       | ❌        |
 | 724 | Lucky Halo                 | ✅       | ❌        |
