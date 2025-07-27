@@ -1,8 +1,8 @@
 ---
 id: 81
 name: Snow Cloak
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 68
 ---
 
 # Snow Cloak - Ability ID 81
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Snow Cloak reduces opponent accuracy by 20% during hail weather, providing a defensive boost through evasion. The Pokemon is also immune to hail damage. This ability is breakable by moves like Mold Breaker but still grants hail immunity even when suppressed.
+Reduces opponent accuracy by 25% during hail. Immune to hail damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -32,7 +32,7 @@ Snow Cloak reduces opponent accuracy by 20% during hail weather, providing a def
 - Functions against physical, special, and status moves with accuracy checks
 
 ### Numerical Values:
-- **Accuracy Modifier**: Ã·1.25 (equivalent to 80% accuracy on incoming moves)
+- **Accuracy Modifier**: ÷1.25 (equivalent to 80% accuracy on incoming moves)
 - **Example**: 100% accuracy move becomes 80% accuracy, 90% accuracy becomes 72%
 - **Hail Immunity**: 100% protection from hail damage each turn
 
