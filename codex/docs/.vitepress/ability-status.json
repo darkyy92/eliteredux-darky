@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 639,
+    "completed": 640,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T19:20:42.498900Z"
+    "generated_at": "2025-07-27T19:24:01.244327Z"
   },
   "abilities": {
     "0": {
@@ -5919,8 +5919,8 @@
       "id": 844,
       "name": "Best Offense",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "845": {
       "id": 845,
@@ -11206,10 +11206,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "844": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "845": {
       "indicator": "🟠",

@@ -852,7 +852,7 @@ In Progress: 0
 | 841 | Draconic Might             | ✅       | ✅        |
 | 842 | Festivities (N)            | ✅       | ✅        |
 | 843 | Fey Flight                 | ✅       | ✅        |
-| 844 | Best Offense               | ✅       | ❌        |
+| 844 | Best Offense               | ✅       | ✅        |
 | 845 | Impaler                    | ✅       | ❌        |
 | 846 | Magus Blades               | ✅       | ❌        |
 | 847 | Lightning Born             | ✅       | ❌        |
