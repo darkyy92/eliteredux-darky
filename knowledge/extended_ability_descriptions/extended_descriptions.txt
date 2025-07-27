@@ -200,7 +200,7 @@ Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% 
 Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pokemon's HP drops to 1/3 or less. The ability activates automatically when health is low, providing a significant damage boost when most needed. Perfect for Bug-type attackers who can capitalize on the enhanced power.
 
 # ID: 69
-Rock Head prevents all recoil damage from the user's moves, including Take Down, Double-Edge, Flare Blitz, and Head Smash. Also grants immunity to confusion status. However, crash damage from missed Jump Kicks and self-destruction from Explosion/Self-Destruct still occur normally.
+Prevents all recoil damage from the user's moves and abilities. Also grants immunity to enrage recoil damage. Does not prevent crash damage or Explosion/Self-Destruct damage.
 
 # ID: 70
 Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane miss more. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 541,
+    "completed": 542,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:28:33.664355Z"
+    "generated_at": "2025-07-27T12:40:17.164352Z"
   },
   "abilities": {
     "0": {
@@ -494,8 +494,8 @@
       "id": 69,
       "name": "Rock Head",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "70": {
       "id": 70,
@@ -6556,10 +6556,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "69": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "70": {
       "indicator": "🟠",
