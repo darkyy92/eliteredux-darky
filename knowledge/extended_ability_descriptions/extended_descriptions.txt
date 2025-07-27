@@ -2462,7 +2462,7 @@ Boosts the user's Special Defense stat by 50% when in Toxic Terrain.
 When the user traps a target, they inflict paralysis and drop their speed by one stage once every turn while trapped.
 
 # ID: 838
-Guardian Coat provides triple protection: complete immunity to weather damage from sandstorm and hail, total immunity to all powder-based moves like Sleep Powder and Spore, and reduces all physical damage taken by 20%. This defensive ability can be suppressed by Mold Breaker-type abilities.
+Provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming physical  damage by 20%. Multiplicative with other damage reduction sources.
 
 # ID: 839
 Neutralizing Fog automatically uses Defog when the Pokemon enters battle. Clears entry hazards (Stealth Rock, Spikes, Toxic Spikes, Sticky Web), screens (Light Screen, Reflect, Aurora Veil), and terrain effects from both sides. Lowers opponent's evasion by 1. Excellent hazard control.

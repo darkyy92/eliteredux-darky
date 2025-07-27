@@ -846,7 +846,7 @@ In Progress: 0
 | 835 | Atlantic Ruler             | ✅       | ✅        |
 | 836 | Biofilm                    | ✅       | ✅        |
 | 837 | Chokehold                  | ✅       | ✅        |
-| 838 | Guardian Coat              | ✅       | ❌        |
+| 838 | Guardian Coat              | ✅       | ✅        |
 | 839 | Neutralizing Fog           | ✅       | ❌        |
 | 840 | Poison Quills              | ✅       | ❌        |
 | 841 | Draconic Might             | ✅       | ❌        |
