@@ -1,8 +1,8 @@
 ---
 id: 732
 name: Blade Dance
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 107
 ---
 
 # Blade Dance - Ability ID 732
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blade Dance triggers a 50 BP Leaf Blade follow-up attack immediately after using any dance move. Works with all dance moves including Swords Dance, Dragon Dance, Quiver Dance, and others with the dance flag. The follow-up Leaf Blade has high critical hit ratio and gains STAB if applicable.
+Triggers a 50 BP Leaf Blade (Grass-type, Physical) follow-up attack immediately after using any dance move. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
