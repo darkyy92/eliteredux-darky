@@ -1,8 +1,8 @@
 ---
 id: 715
 name: Hover
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 247
 ---
 
 # Hover - Ability ID 715
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Adds Psychic type on entry and grants Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards completely. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation effects.
+Upon entering battle, adds Psychic to the user's current typing. Retains Psychic typing even upon losing the ability, going away only when switching out. The user is immune to Ground-type moves and other ground effects such as Spikes and terrains.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
