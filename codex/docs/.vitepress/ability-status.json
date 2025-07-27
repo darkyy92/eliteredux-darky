@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 522,
+    "completed": 523,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T02:05:36.143680Z"
+    "generated_at": "2025-07-27T02:06:44.388711Z"
   },
   "abilities": {
     "0": {
@@ -242,8 +242,8 @@
       "id": 33,
       "name": "Swift Swim",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "34": {
       "id": 34,
@@ -6340,10 +6340,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "33": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "34": {
       "indicator": "✅",

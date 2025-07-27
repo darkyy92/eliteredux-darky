@@ -92,7 +92,7 @@ Draws all Electric-type moves to this Pokemon. Absorbs Electric attacks harmless
 Doubles the chance of all secondary effects from this Pokemon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely to occur.
 
 # ID: 33
-Swift Swim boosts the Pokemon's Speed by 50% during rain weather. Works with all forms of rain including regular rain, heavy rain, and Primordial Sea. The speed boost applies immediately when rain is active and disappears when rain ends. Stacks with other speed modifiers for sweeping potential.
+Boosts Speed by 50% during rain.
 
 # ID: 34
 Boosts the Pokemon's Speed by 50% during sun.
