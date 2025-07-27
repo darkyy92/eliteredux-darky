@@ -1,8 +1,8 @@
 ---
 id: 772
 name: Relentless
-status: ai-generated
-character_count: 250
+status: reviewed
+character_count: 217
 ---
 
 # Relentless - Ability ID 772
@@ -13,7 +13,7 @@ character_count: 250
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon combines devastating tactics: deals 25% more damage to status-afflicted targets, uses their weaker defensive stat, and automatically lands critical hits on poisoned, paralyzed, bleeding, or speed-reduced foes. A true predator's instinct.
+When attacking a statused opponent, deals 1.25x damage and automatically targets their lower defensive stat. Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
