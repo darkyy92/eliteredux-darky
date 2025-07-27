@@ -1,8 +1,8 @@
 ---
 id: 756
 name: Striker Pixilate
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 160
 ---
 
 # Striker Pixilate - Ability ID 756
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Striker and Pixilate effects. Boosts the power of kicking moves by 30% and converts all Normal-type moves to Fairy-type with a 20% power boost. This dual enhancement makes the Pokemon excel at both physical kicking attacks and special Fairy-type moves.
+Increases the power of all kicking moves by 30%. Includes Pyro Ball. Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
