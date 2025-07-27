@@ -1,8 +1,8 @@
 ---
 id: 795
 name: Embody Aspect
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 72
 ---
 
 # Embody Aspect - Ability ID 795
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Embody Aspect raises a stat by 1 stage upon entering battle. Base form boosts Speed, Hearthflame boosts Attack, Cornerstone boosts Defense, and Wellspring boosts Special Defense. Activates every time the Pokemon switches in, including from revival. The boost persists until switching out or fainting.
+Raises the Pokemon's Speed stat by one stage when switching into battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
