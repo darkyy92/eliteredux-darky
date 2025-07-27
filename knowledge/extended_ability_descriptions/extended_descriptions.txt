@@ -2105,7 +2105,7 @@ Apple Pie combines Self Sufficient and Ripen effects. Heals 1/16 of max HP at th
 Upon entering battle, adds Psychic to the user's current typing. Retains Psychic typing even upon losing the ability, going away only when switching out. The user is immune to Ground-type moves and other ground effects such as Spikes and terrains.
 
 # ID: 716
-Depravity combines Merciless and Overcharge effects. Guarantees critical hits against poisoned, paralyzed, bleeding, or speed-lowered foes while making Electric moves super effective against Electric-types and allowing paralysis of Electric-types. Perfect for overwhelming opponents.
+Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered. The user's Electric-type moves become effective against Electric-type Pokemon, dealing 2x damage instead of 0.5x. Also allows the user to paralyze Electric-types.
 
 # ID: 717
 Wildfire automatically uses Fire Spin upon switching into battle, dealing 50 base power Fire-type damage and trapping the opponent for 2-5 turns. The trapped opponent takes 1/8 max HP damage each turn and cannot switch out until the trap ends. Perfect for securing KOs.
