@@ -818,7 +818,7 @@ In Progress: 0
 | 807 | Woodland Curse             | ✅       | ✅        |
 | 808 | Malodor                    | ✅       | ✅        |
 | 809 | Blur                       | ✅       | ✅        |
-| 810 | Elude                      | ✅       | ❌        |
+| 810 | Elude                      | ✅       | ✅        |
 | 811 | Drake Of Rage              | ✅       | ❌        |
 | 812 | Reverbate                  | ✅       | ❌        |
 | 813 | Mixed Martial Arts         | ✅       | ❌        |
