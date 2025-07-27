@@ -1481,7 +1481,7 @@ Reduces damage from super effective attacks by 35%. Multiplicative with other da
 Guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves.
 
 # ID: 501
-Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at at the end of the turn.
+Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in. During rain, cures all status conditions at the end of the turn.
 
 # ID: 502
 Upon entry, sets rain weather for 8 turns. During rain, the user's Speed is boosted by 50%.
