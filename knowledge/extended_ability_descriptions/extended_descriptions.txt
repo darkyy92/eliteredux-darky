@@ -2216,7 +2216,7 @@ Sets Sticky Web on opponent's field when the user enters battle. Lasts 7 turns a
 Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 # ID: 754
-Puffy reduces damage from contact moves by 50%, providing excellent protection against physical attackers. However, Fire-type moves deal double damage to Puffy users, creating a significant vulnerability. The contact protection works against all physical contact moves.
+Reduces damage from contact moves by 50%. Fire-type moves to deal double damage to the user. Multiplicative with other forms of damage reduction.
 
 # ID: 755
 Combines Inflatable and Hyper Aggressive effects. When hit by Fire or Flying moves, boosts Defense and Special Defense by one stage each. Additionally, all moves strike twice, with the second hit dealing 25% damage. Perfect for aggressive tanks that capitalize on defensive boosts.

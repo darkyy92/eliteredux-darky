@@ -762,7 +762,7 @@ In Progress: 0
 | 751 | Energized Horns            | ✅       | ✅        |
 | 752 | Spider Lair Upgrade        | ✅       | ✅        |
 | 753 | Crust Coat                 | ✅       | ✅        |
-| 754 | Puffy                      | ✅       | ❌        |
+| 754 | Puffy                      | ✅       | ✅        |
 | 755 | Balloon Blitz              | ✅       | ❌        |
 | 756 | Striker Pixilate           | ✅       | ❌        |
 | 757 | Doom Blast                 | ✅       | ❌        |
