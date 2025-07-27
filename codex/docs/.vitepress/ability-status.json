@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 602,
+    "completed": 603,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:50:08.453413Z"
+    "generated_at": "2025-07-27T16:51:05.897824Z"
   },
   "abilities": {
     "0": {
@@ -5695,8 +5695,8 @@
       "id": 812,
       "name": "Reverbate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "813": {
       "id": 813,
@@ -11014,10 +11014,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "812": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "813": {
       "indicator": "🟠",

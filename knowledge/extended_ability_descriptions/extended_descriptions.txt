@@ -2387,7 +2387,7 @@ When hit by non-contact moves, the Pokemon uses its Speed stat instead of Defens
 Doubles damage of not very effective moves like Tinted Lens. When this Pokemon knocks out a foe, it immediately recovers from recharge effects and removes recharge status, allowing consecutive use of powerful moves like Hyper Beam without the mandatory rest turn
 
 # ID: 812
-Reverbate converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions. Sound moves can target multiple foes with Amplifier or Bass Boosted abilities, but are blocked by Throat Chop for 2 turns.
+Converts all Normal-type moves into Sound moves, enabling them to benefit from sound-based abilities and interactions.
 
 # ID: 813
 Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, allowing them to benefit from abilities like Iron Fist, Strong Jaw, and similar move-based enhancements. This transforms typical Normal attacks into martial arts techniques with increased power and special interactions.
