@@ -2102,7 +2102,7 @@ Upon entering battle, adds Water to the user's current typing. Retains Water typ
 Apple Pie combines Self Sufficient and Ripen effects. Heals 1/16 of max HP at the end of each turn and doubles all berry effects including healing, stat boosts, and damage from offensive berries. Perfect for sustained battles with berry-based strategies and natural recovery.
 
 # ID: 715
-Adds Psychic type on entry and grants Ground immunity like Levitate. Gains Psychic resistances (Fighting/Psychic) but also weaknesses (Bug/Ghost/Dark). Avoids entry hazards completely. Breakable by Mold Breaker. Common on flying insects. Dual function: type change plus levitation effects.
+Upon entering battle, adds Psychic to the user's current typing. Retains Psychic typing even upon losing the ability, going away only when switching out. The user is immune to Ground-type moves and other ground effects such as Spikes and terrains.
 
 # ID: 716
 Depravity combines Merciless and Overcharge effects. Guarantees critical hits against poisoned, paralyzed, bleeding, or speed-lowered foes while making Electric moves super effective against Electric-types and allowing paralysis of Electric-types. Perfect for overwhelming opponents.

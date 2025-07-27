@@ -723,7 +723,7 @@ In Progress: 0
 | 712 | Flame Shield               | ✅       | ✅        |
 | 713 | Aquatic Dweller            | ✅       | ✅        |
 | 714 | Apple Pie                  | ✅       | ❌        |
-| 715 | Hover                      | ✅       | ❌        |
+| 715 | Hover                      | ✅       | ✅        |
 | 716 | Depravity                  | ✅       | ❌        |
 | 717 | Wildfire                   | ✅       | ❌        |
 | 718 | Jump Scare                 | ✅       | ❌        |
