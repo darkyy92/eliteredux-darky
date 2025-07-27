@@ -2432,7 +2432,7 @@ When hit by contact moves, has a 50% chance to infatuate the attacker (cuts thei
 Wonder Scale grants a 30% chance to cure any status condition at the end of each turn. Also provides immunity to offensive ability effects like Parental Bond and ability-based damage multipliers. This dual defense protects against both status ailments and passive damage abilities
 
 # ID: 828
-Overzealous adds +1 priority to any damaging move that would be super-effective against the target. Priority boost stacks with base move priority (Quick Attack becomes +2). Works with all attack types and damage categories. Turns type advantage coverage moves into priority attacks.
+Will not be implemented.
 
 # ID: 829
 Stainless Steel blocks multi-hit abilities like Parental Bond from triggering against this Pokemon. Additionally, all Normal-type moves become Steel-type and receive a 20% power boost. Combines Fort Knox's protection with Steel-type conversion for defense and offense.

@@ -836,7 +836,7 @@ In Progress: 0
 | 825 | Glacial Ghost              | ✅       | ✅        |
 | 826 | Tender Affection           | ✅       | ✅        |
 | 827 | Wonder Scale               | ✅       | ✅        |
-| 828 | Overzealous                | ✅       | ❌        |
+| 828 | Overzealous                | ✅       | ✅        |
 | 829 | Stainless Steel            | ✅       | ❌        |
 | 830 | Temporal Rupture           | ✅       | ❌        |
 | 831 | Grass Flute                | ✅       | ❌        |

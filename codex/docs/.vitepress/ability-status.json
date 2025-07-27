@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 618,
+    "completed": 619,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:15:19.811495Z"
+    "generated_at": "2025-07-27T18:16:05.917451Z"
   },
   "abilities": {
     "0": {
@@ -5807,8 +5807,8 @@
       "id": 828,
       "name": "Overzealous",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "829": {
       "id": 829,
@@ -11110,10 +11110,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "828": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "829": {
       "indicator": "🟠",
