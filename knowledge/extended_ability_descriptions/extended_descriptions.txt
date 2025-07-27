@@ -2078,7 +2078,7 @@ Reduces incoming damage by 40% while lowering the Pokemon's Speed by 20%. Multip
 Boosts the power of biting and fang moves by 30% and they have a 50% chance to paralyze the target on hit.
 
 # ID: 707
-Gleam Eyes combines Frisk and Scare effects on entry. Checks and disables all opposing Pokemon's held items for two turns while lowering their Special Attack by one stage. This dual intimidation effect disrupts item-dependent strategies and weakens special attackers simultaneously.
+Upon entering battle, reveals the opponents' items and prevents them from working for 2 turns; and the user drops the Special Attack stat of all opposing Pokemon by one stage. Does not prevent Mega Stones and other similar items from working.
 
 # ID: 708
 Roused Fangs makes biting moves use Special Attack instead of Attack and boosts their damage by 30%. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, and similar moves. Transforms physical biters into special attackers with enhanced power.

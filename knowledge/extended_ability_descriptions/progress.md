@@ -715,7 +715,7 @@ In Progress: 0
 | 704 | Hot Coals                  | ✅       | ✅        |
 | 705 | Terastal Treasure          | ✅       | ✅        |
 | 706 | Shocking Maw               | ✅       | ✅        |
-| 707 | Gleam Eyes                 | ✅       | ❌        |
+| 707 | Gleam Eyes                 | ✅       | ✅        |
 | 708 | Roused Fangs               | ✅       | ❌        |
 | 709 | Dream State                | ✅       | ❌        |
 | 710 | Dream Whimsy               | ✅       | ❌        |

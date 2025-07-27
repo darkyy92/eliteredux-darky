@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 485,
+    "completed": 486,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T00:31:21.161448Z"
+    "generated_at": "2025-07-27T00:32:45.402009Z"
   },
   "abilities": {
     "0": {
@@ -4960,8 +4960,8 @@
       "id": 707,
       "name": "Gleam Eyes",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "708": {
       "id": 708,
@@ -10384,10 +10384,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "707": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "708": {
       "indicator": "🟠",
