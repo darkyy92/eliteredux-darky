@@ -1,8 +1,8 @@
 ---
 id: 816
 name: Mental Pollution (N)
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 128
 ---
 
 # Mental Pollution (N) - Ability ID 816
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mental Pollution renders all opposing Pokemon's abilities completely inactive while they are confused. Only other Pokemon with Mental Pollution remain unaffected. This creates powerful disruption against ability-reliant teams but requires inflicting confusion first to take effect.
+Nullifies all opposing Pokemon's abilities and innates while they are confused. Pokemon with Mental Pollution remain unaffected. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
