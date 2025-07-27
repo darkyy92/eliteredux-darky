@@ -758,7 +758,7 @@ In Progress: 0
 | 747 | Daybreak                   | ✅       | ✅        |
 | 748 | Energy Siphon              | ✅       | ✅        |
 | 749 | Reservoir                  | ✅       | ✅        |
-| 750 | Neurotoxin                 | ✅       | ❌        |
+| 750 | Neurotoxin                 | ✅       | ✅        |
 | 751 | Energized Horns            | ✅       | ❌        |
 | 752 | Spider Lair Upgrade        | ✅       | ❌        |
 | 753 | Crust Coat                 | ✅       | ❌        |
