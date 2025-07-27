@@ -1,8 +1,8 @@
 ---
 id: 810
 name: Elude
-status: ai-generated
-character_count: 229
+status: reviewed
+character_count: 125
 ---
 
 # Elude - Ability ID 810
@@ -13,7 +13,7 @@ character_count: 229
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Elude replaces Defense or Special Defense with Speed when taking damage from non-contact moves. Works with projectiles, special attacks, and ranged moves like Water Gun, Psychic, or Rock Slide. Perfect complement to Blur ability.
+When hit by non-contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
