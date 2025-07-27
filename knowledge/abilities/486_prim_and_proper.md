@@ -2,7 +2,7 @@
 id: 486
 name: Prim and Proper
 status: reviewed
-character_count: 266
+character_count: 273
 ---
 
 # Prim and Proper - Ability ID 486
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender. Immune to all offensive ability effects from opponents, other than Parental Bond and Multi Headed
+When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender. Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
