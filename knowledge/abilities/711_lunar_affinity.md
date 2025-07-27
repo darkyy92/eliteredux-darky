@@ -1,8 +1,8 @@
 ---
 id: 711
 name: Lunar Affinity
-status: ai-generated
-character_count: 278
+status: reviewed
+character_count: 145
 ---
 
 # Lunar Affinity - Ability ID 711
@@ -13,7 +13,7 @@ character_count: 278
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lunar Affinity automatically copies and uses lunar moves when other Pokemon use them in battle. Triggers on Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. The copied move uses the original user's stats and targets but is performed by this Pokemon immediately afterwards.
+Copies lunar moves when other Pokemon use them in battle. Includes Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. Triggers once per move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
