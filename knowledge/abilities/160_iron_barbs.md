@@ -2,7 +2,7 @@
 id: 160
 name: Iron Barbs
 status: reviewed
-character_count: 281
+character_count: 109
 ---
 
 # Iron Barbs - Ability ID 160
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Barbs deals 1/8 maximum HP damage to attackers using contact moves. Damage is based on the attacker's max HP, not current HP. Magic Guard blocks this retaliation damage. Always deals at least 1 HP damage even if 1/8 calculation rounds to 0. Functions identically to Rough Skin
+Damages attackers using contact moves for 1/8 of their max HP. Activates on every hit for multihitting moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
