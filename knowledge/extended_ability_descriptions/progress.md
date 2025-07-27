@@ -32,7 +32,7 @@ In Progress: 0
 |  21 | Suction Cups               | ✅       | ❌        |
 |  22 | Intimidate                 | ✅       | ✅        |
 |  23 | Shadow Tag                 | ✅       | ✅        |
-|  24 | Rough Skin                 | ✅       | ❌        |
+|  24 | Rough Skin                 | ✅       | ✅        |
 |  25 | Wonder Guard               | ✅       | ❌        |
 |  26 | Levitate                   | ✅       | ✅        |
 |  27 | Effect Spore               | ✅       | ❌        |

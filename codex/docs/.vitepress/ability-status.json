@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 634,
+    "completed": 635,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T19:13:45.146601Z"
+    "generated_at": "2025-07-27T19:15:08.943335Z"
   },
   "abilities": {
     "0": {
@@ -179,8 +179,8 @@
       "id": 24,
       "name": "Rough Skin",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "25": {
       "id": 25,
@@ -6286,10 +6286,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "24": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "25": {
       "indicator": "🟠",

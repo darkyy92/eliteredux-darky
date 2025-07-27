@@ -65,7 +65,7 @@ Upon entering battle, the user drops the Attack stat of all opposing Pokemon by 
 Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 # ID: 24
-Damages attackers using contact moves for 1/8 their max HP. This passive retaliation punishes physical attackers, turning defense into offense. Magic Guard blocks the damage. Works identically to Iron Barbs. Minimum 1 damage guaranteed. No miss chance. Stacks with Rocky Helmet for 1/6 total damage.
+Damages attackers using contact moves for 1/8 of their max HP. Activates on every hit for multihitting moves.
 
 # ID: 25
 Only super-effective moves can damage this Pokemon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense. Forces careful teambuilding.
