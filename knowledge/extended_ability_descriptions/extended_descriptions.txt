@@ -2291,7 +2291,7 @@ Has a 30% chance to inflict poison on contact moves, both when attacking and bei
 Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction. Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 # ID: 780
-Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as projectile moves, meaning they also receive the 30% damage boost and trigger other projectile-based effects.
+Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all status moves are treated as Mega Launcher moves, receiving boosts from abilities related to them.
 
 # ID: 781
 Grants perfect accuracy to Mega Launcher boosted moves and arrow-based attacks. Always critical hits on first turn. Critical hits target the opponent's lower defensive stat, dealing maximum damage through strategic precision.

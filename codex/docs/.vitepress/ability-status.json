@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 566,
+    "completed": 567,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:03:01.868520Z"
+    "generated_at": "2025-07-27T15:04:11.502709Z"
   },
   "abilities": {
     "0": {
@@ -5471,8 +5471,8 @@
       "id": 780,
       "name": "Gunman",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "781": {
       "id": 781,
@@ -10822,10 +10822,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "780": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "781": {
       "indicator": "🟠",
