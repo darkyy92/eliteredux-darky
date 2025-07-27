@@ -1,8 +1,8 @@
 ---
 id: 38
 name: Poison Point
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 92
 ---
 
 # Poison Point - Ability ID 38
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Poison Point has a 30% chance to poison opponents when making or receiving contact moves. Works both defensively when attacked with contact moves and offensively when using contact moves. The poison inflicts 1/8 max HP damage each turn. Bypasses Safeguard protection when triggered by ability.
+Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
