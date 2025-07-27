@@ -2324,7 +2324,7 @@ Grants immunity to all non-attack damage sources including entry hazards, weathe
 Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Prevents all non-Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 # ID: 791
-DNA Scramble transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form (180 Atk/SpAtk), Recover triggers Defense form (160 Def/SpDef), other status moves trigger Speed form (180 Speed). Base form has balanced 150 stats. Form changes occur before attack.
+Transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form, Recover triggers Defense form, other status moves trigger Speed form. Form changes occur before attack.
 
 # ID: 792
 Metallic Jaws grants the Steel type upon switching in and enables jaw-based attacks to hit twice with 60% power on the second strike. The first hit deals full damage while the follow-up strike deals reduced damage, creating devastating combo potential with bite attacks like Crunch and Fang moves.

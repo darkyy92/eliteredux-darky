@@ -799,7 +799,7 @@ In Progress: 0
 | 788 | Glacial Rage               | ✅       | ✅        |
 | 789 | Immovable Object           | ✅       | ✅        |
 | 790 | Frenzied Phantom           | ✅       | ✅        |
-| 791 | DNA Scramble               | ✅       | ❌        |
+| 791 | DNA Scramble               | ✅       | ✅        |
 | 792 | Metallic Jaws              | ✅       | ❌        |
 | 793 | Calculative                | ✅       | ❌        |
 | 794 | Deadly Precision           | ✅       | ❌        |
