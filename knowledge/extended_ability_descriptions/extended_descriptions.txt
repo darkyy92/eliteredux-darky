@@ -2153,7 +2153,7 @@ Inflict bleed when landing a critical hit. Bleeding causes 1/16 max HP damage pe
 Triggers a 50 BP Leaf Blade (Grass-type, Physical) follow-up attack immediately after using any dance move.
 
 # ID: 733
-Taekkyeon makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects. Includes all physical and special attacking moves but excludes pure status moves. Creates strong synergy with teammates who have Dancer or dance-triggered abilities.
+Makes all non-status moves count as dance moves, triggering abilities like Dancer and interactions with dance-based effects.
 
 # ID: 734
 Ape Shift transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions during transformation. After transforming, all attacks become critical hits. Works on entry, during battle, and at turn end. Exclusive to Mega Slaking forms.

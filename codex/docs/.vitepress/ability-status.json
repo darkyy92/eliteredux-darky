@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 512,
+    "completed": 513,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:47:02.887070Z"
+    "generated_at": "2025-07-27T01:48:03.152509Z"
   },
   "abilities": {
     "0": {
@@ -5142,8 +5142,8 @@
       "id": 733,
       "name": "Taekkyeon",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "734": {
       "id": 734,
@@ -10540,10 +10540,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "733": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "734": {
       "indicator": "🟠",
