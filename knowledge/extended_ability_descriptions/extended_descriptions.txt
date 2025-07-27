@@ -2258,7 +2258,7 @@ Upon entering battle, the user drops the Attack stat of all opposing Pokemon by 
 Grants +1 priority to sound moves when at full HP.
 
 # ID: 768
-Combines the power of Striker and elegance of Dancer. Moves with striking techniques deal 30% more damage, while all dance moves are automatically copied when used by any Pokemon on the field. Perfect fusion of offense and rhythm.
+Increases the power of all kicking moves by 30%. Includes Pyro Ball. When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move after. Triggers once per move.
 
 # ID: 769
 Punching and kicking moves gain each other's properties. Punching moves are also treated as kicking moves, benefiting from Striker-type abilities. Kicking moves are also treated as punching moves, benefiting from Iron Fist-type abilities. This dual classification enables powerful synergies.

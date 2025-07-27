@@ -776,7 +776,7 @@ In Progress: 0
 | 765 | Soul Devourer              | ✅       | ❌        |
 | 766 | Champions Entrance         | ✅       | ✅        |
 | 767 | Presto                     | ✅       | ✅        |
-| 768 | Samba                      | ✅       | ❌        |
+| 768 | Samba                      | ✅       | ✅        |
 | 769 | Junshi Sanda               | ✅       | ❌        |
 | 770 | Gladiator                  | ✅       | ❌        |
 | 771 | Forsaken Heart             | ✅       | ❌        |
