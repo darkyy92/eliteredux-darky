@@ -1,8 +1,8 @@
 ---
 id: 739
 name: Teraform Zero
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 229
 ---
 
 # Teraform Zero - Ability ID 739
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Teraform Zero reduces super effective damage to 50% when at full HP like Tera Shell, and clears all weather and terrain upon first entry. Only activates once per battle entry. Provides both defensive protection and field control by neutralizing environmental hazards.
+At full HP, all attacks towards the user deal "not very effective" damage regardless of type effectiveness. Activates on each hit of a multihit attack unlike other similar abilities. On entry, clears normal weathers and terrains.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
