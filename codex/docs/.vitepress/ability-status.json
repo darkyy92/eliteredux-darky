@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 625,
+    "completed": 626,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:34:02.603706Z"
+    "generated_at": "2025-07-27T18:49:19.560508Z"
   },
   "abilities": {
     "0": {
@@ -5842,8 +5842,8 @@
       "id": 833,
       "name": "Harukaze",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "834": {
       "id": 834,
@@ -11140,10 +11140,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "833": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "834": {
       "indicator": "🟠",

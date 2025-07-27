@@ -2447,7 +2447,7 @@ Sound moves inflict Fear on hit. Fear traps the target for 2 turns and they take
 Negates the opponent's ability and innates when the user successfully poisons them. Suppression wears off after they switch out.
 
 # ID: 833
-When this Pokemon or an ally sets Grassy Terrain, your team automatically gains Tailwind for the same duration. Conversely, when your team gains Tailwind, Grassy Terrain is automatically set. This bidirectional synergy creates a powerful field control combination, boosting both offense and defense.
+Sets Grassy Terrain when setting Tailwind, and sets Tailwind when setting Grassy Terrain. Does not refresh the duration in either case if one is already active.
 
 # ID: 834
 Toxic Surge sets Toxic Terrain on switch-in. The toxic sludge covers the field for 5 turns (8 with Terrain Extender). Grounded Pokemon that aren't Poison or Steel-type take 1/16 max HP damage each turn. Flying-types and Levitate users avoid damage unless grounded.
