@@ -1,8 +1,8 @@
 ---
 id: 791
 name: DNA Scramble
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 195
 ---
 
 # DNA Scramble - Ability ID 791
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-DNA Scramble transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form (180 Atk/SpAtk), Recover triggers Defense form (160 Def/SpDef), other status moves trigger Speed form (180 Speed). Base form has balanced 150 stats. Form changes occur before attack.
+Transforms Deoxys between forms based on the move used. Damaging moves trigger Attack form, Recover triggers Defense form, other status moves trigger Speed form. Form changes occur before attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
