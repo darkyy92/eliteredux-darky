@@ -736,7 +736,7 @@ In Progress: 0
 | 725 | Trash Heap                 | ✅       | ✅        |
 | 726 | Sludgy Mix                 | ✅       | ✅        |
 | 727 | Overwatch                  | ✅       | ✅        |
-| 728 | Wind Rage                  | ✅       | ❌        |
+| 728 | Wind Rage                  | ✅       | ✅        |
 | 729 | Victory Bomb               | ✅       | ❌        |
 | 730 | Razor Sharp                | ✅       | ❌        |
 | 731 | To The Bone                | ✅       | ❌        |

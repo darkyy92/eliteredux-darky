@@ -2141,7 +2141,7 @@ Converts all Normal-type moves into Poison-type moves and grants STAB for Poison
 All moves with priority 0 or higher gain +1 priority on the user's first turn. Negative priority moves become priority 0 instead of adding +1 priority. Deals double damage to opponents that just switched in. Only works right after they switch in for 1 turn.
 
 # ID: 728
-Wind Rage automatically uses Defog when switching into battle, clearing all entry hazards and screens. Additionally, all air-based moves receive a 1.3x damage boost. Air-based moves include Flying-type attacks and moves with the air-based flag. Great for hazard control and boosting aerial attacks.
+Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mist. Additionally, all air-based moves receive a 1.3x damage boost.
 
 # ID: 729
 Victory Bomb triggers when the Pokemon faints, causing it to retaliate with a 100 Base Power Fire-type Explosion targeting the attacker. The explosion occurs after fainting and cannot miss. Works regardless of how the Pokemon was KOed, making it a dangerous last-resort revenge ability.
