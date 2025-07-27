@@ -2,7 +2,7 @@
 id: 233
 name: Neuroforce
 status: reviewed
-character_count: 146
+character_count: 101
 ---
 
 # Neuroforce - Ability ID 233
@@ -13,7 +13,7 @@ character_count: 146
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Neuroforce gives super-effective moves with a 1.35x boost on top of the normal 2x type effectiveness. Additive with other damage boosting sources.
+Neuroforce gives super-effective moves with a 1.35x boost on top of the normal 2x type effectiveness. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
