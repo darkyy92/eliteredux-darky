@@ -1,8 +1,8 @@
 ---
 id: 706
 name: Shocking Maw
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 106
 ---
 
 # Shocking Maw - Ability ID 706
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shocking Maw combines Strong Jaw and paralysis effects for bite moves. Strong Jaw boosts bite move power by 30% while each bite move has a 50% chance to paralyze the target. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, Psychic Fangs, and other biting attacks.
+Boosts the power of biting and fang moves by 30% and they have a 50% chance to paralyze the target on hit. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
