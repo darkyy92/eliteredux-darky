@@ -2207,7 +2207,7 @@ The user is draws in Water-type moves and is immune to them. Additionally, Water
 When inflicting poison on an opponent, drop their Attack, Special Attack, and Speed by one stage immediately after it applies.
 
 # ID: 751
-Horn moves become special and deal 30% more damage. Converts physical horn attacks (Horn Attack, Megahorn, Smart Strike) to special moves using SpAtk. Creates mixed attacker threats that bypass high Defense. Megahorn becomes 156 BP special Bug nuke. Horn Leech provides special Grass recovery.
+Horn moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage.
 
 # ID: 752
 Upon entering battle, automatically sets up Sticky Web on the opponent's side for exactly 7 turns. This enhanced hazard lowers the Speed stat of any enemy Pokemon that switches in by one stage, providing extended entry control without turn investment until the webs naturally expire.
