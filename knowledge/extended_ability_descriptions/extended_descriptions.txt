@@ -2297,7 +2297,7 @@ Boosts the power of pulse, aura, and projectile moves by 30%. Additionally, all 
 Guarantees a critical hit on the user's first turn after switching in or at the start of battle. The user is unable to miss arrow-based attacks and cannon moves (only moves blocked by Bulletproof). Additionally, when landing critical hits, the attack targets the opponent's weaker defensive stat.
 
 # ID: 782
-When this Pokemon is on the field, poisoned enemies cannot heal HP through any means and lose all benefits from stat-boosting moves and abilities. This blood-corrupting ability disrupts the opponent's recovery strategies and neutralizes their stat advantages.
+When the user poisons a Pokemon, the poisoned target is cleared of all stat raises and they are unable to heal through any means.
 
 # ID: 783
 Each turn, 30% chance to heal status conditions of self or partner (prioritizing partner). Additionally reduces damage dealt to the partner by 50%. A protective ability perfect for double battles, combining healing support with defensive coverage.
