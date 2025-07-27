@@ -1,8 +1,8 @@
 ---
 id: 710
 name: Dream Whimsy
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 193
 ---
 
 # Dream Whimsy - Ability ID 710
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dream Whimsy automatically uses Yawn when the Pokemon switches in, targeting the opposing Pokemon. Yawn causes drowsiness that makes the target fall asleep at the end of the next turn. The sleep effect can be prevented by switching out or using Sleep Talk.
+Uses Yawn on switch in, targeting the opposing Pokemon. Yawn causes drowsiness that makes the target fall asleep at the end of the next turn. The sleep effect can be prevented by switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
