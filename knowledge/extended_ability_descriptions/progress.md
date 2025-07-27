@@ -838,7 +838,7 @@ In Progress: 0
 | 827 | Wonder Scale               | ✅       | ✅        |
 | 828 | Overzealous                | ✅       | ✅        |
 | 829 | Stainless Steel            | ✅       | ✅        |
-| 830 | Temporal Rupture           | ✅       | ❌        |
+| 830 | Temporal Rupture           | ✅       | ✅        |
 | 831 | Grass Flute                | ✅       | ❌        |
 | 832 | Hemotoxin                  | ✅       | ❌        |
 | 833 | Harukaze                   | ✅       | ❌        |

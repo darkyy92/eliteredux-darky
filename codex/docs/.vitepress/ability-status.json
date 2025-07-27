@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 622,
+    "completed": 623,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:25:43.189005Z"
+    "generated_at": "2025-07-27T18:29:21.310677Z"
   },
   "abilities": {
     "0": {
@@ -5821,8 +5821,8 @@
       "id": 830,
       "name": "Temporal Rupture",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "831": {
       "id": 831,
@@ -11122,10 +11122,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "830": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "831": {
       "indicator": "🟠",

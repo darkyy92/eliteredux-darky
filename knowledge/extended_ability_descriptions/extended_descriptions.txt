@@ -2438,7 +2438,7 @@ Will not be implemented.
 Converts Normal-type moves to Steel-type and grants STAB for Steel moves regardless of typing. Additionally takes half damage from Dark and Ghost-type moves. Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 # ID: 830
-A legendary power that warps time itself when Roar of Time is used. This innate ability fundamentally alters the move, transforming it into something more devastating than its modified form. The exact nature of this temporal distortion remains a secret. Found only on legendary Dragon/Steel types.
+Roar of Time becomes a 100 BP +0 Priority attack that changes the target's Ability to Slow Start (halves attacking stats and speed for 5 turns). It also no longer forces Pokemon out or is considered a sound move.
 
 # ID: 831
 Grass Flute transforms the user's sound-based moves into fear-inducing melodies. When this Pokemon uses any sound move (like Hyper Voice, Boomburst, or Sing), it has a chance to inflict the Fear status on the target. Feared Pokemon cannot switch out and take 1.5x damage from all attacks.
