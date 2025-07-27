@@ -2237,7 +2237,7 @@ Protects from critical hits and reduces physical damage by 20%. When hit by cont
 Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type. Also gives STAB to Poison-type moves.
 
 # ID: 761
-Rose Garden instantly spreads two layers of Toxic Spikes on the opponent's side when the Pokemon enters battle. Any grounded enemy that switches in will be badly poisoned, taking increasing damage each turn. Flying types and Poison types are immune to this effect.
+Spreads two layers of Toxic Spikes on the opponent's side on entry. Any non-Poison or Steel-type grounded enemy that switches in will be badly poisoned.
 
 # ID: 762
 Qigong ensures all moves never miss while converting Normal-type moves to Fighting-type with STAB. Additionally, eliminates recharge requirements after successfully KOing opponents with high-power moves like Hyper Beam, enabling devastating sweep potential with perfect accuracy and reliability.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 544,
+    "completed": 545,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T13:37:59.428817Z"
+    "generated_at": "2025-07-27T13:43:54.164969Z"
   },
   "abilities": {
     "0": {
@@ -5338,8 +5338,8 @@
       "id": 761,
       "name": "Rose Garden",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "762": {
       "id": 762,
@@ -10708,10 +10708,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "761": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "762": {
       "indicator": "🟠",
