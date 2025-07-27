@@ -218,7 +218,7 @@ White Smoke automatically sets Smokescreen on the user's side when entering batt
 Pure Power doubles the Pokemon's Attack stat directly, not just the base stat. This massive boost applies to all physical moves, making even moderate base Attack stats incredibly threatening. The doubling occurs after all other stat calculations, making it one of the best offensive abilities.
 
 # ID: 75
-This Pokemon's shell prevents critical hits from landing. Additionally, all incoming damage is reduced by 20%, making this Pokemon significantly more durable in battle. The damage reduction stacks multiplicatively with other defensive effects, effectively increasing total bulk by 25%.
+Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 # ID: 76
 Air Lock clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
