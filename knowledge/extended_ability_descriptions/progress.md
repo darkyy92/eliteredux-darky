@@ -127,7 +127,7 @@ In Progress: 0
 | 116 | Solid Rock                 | ✅       | ❌        |
 | 117 | Snow Warning               | ✅       | ❌        |
 | 118 | Honey Gather               | ✅       | ❌        |
-| 119 | Frisk                      | ✅       | ❌        |
+| 119 | Frisk                      | ✅       | ✅        |
 | 120 | Reckless                   | ✅       | ❌        |
 | 121 | Multitype                  | ✅       | ❌        |
 | 122 | Flower Gift                | ✅       | ❌        |

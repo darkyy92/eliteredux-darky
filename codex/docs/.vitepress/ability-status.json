@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 484,
+    "completed": 485,
     "written": 862,
     "pending": 14,
-    "generated_at": "2025-07-27T00:04:36.246938Z"
+    "generated_at": "2025-07-27T00:31:21.161448Z"
   },
   "abilities": {
     "0": {
@@ -844,8 +844,8 @@
       "id": 119,
       "name": "Frisk",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "120": {
       "id": 120,
@@ -6856,10 +6856,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "119": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "120": {
       "indicator": "🟠",
