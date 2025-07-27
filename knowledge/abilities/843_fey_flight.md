@@ -1,7 +1,7 @@
 ---
 id: 843
 name: Fey Flight
-status: ai-generated
+status: reviewed
 character_count: 290
 ---
 
@@ -13,7 +13,7 @@ Adds Fairy-type and levitates.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants the mystical powers of the fey, adding Fairy as a third type and enabling magical levitation. The Fairy typing provides key resistances to Fighting, Bug, and Dark moves while the levitation grants complete immunity to Ground-type attacks and entry hazards like Spikes and Sticky Web.
+Upon entering battle, adds Fairy to the user's current typing. Retains Fairy typing even upon losing the ability, going away only when switching out. The user is immune to Ground-type moves and other ground effects such as Spikes and terrains. Boosts the damage of Flying-type moves by 25%.
 
 ## Detailed Mechanical Explanation
 
