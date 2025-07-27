@@ -587,7 +587,7 @@ Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, 
 Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert to Meteor Form once transformed during battle.
 
 # ID: 198
-Stakeout doubles damage dealt to Pokemon that just switched in this turn. The ability triggers when the target has isFirstTurn set to 2, indicating a fresh switch-in. Works on all offensive moves and provides significant wallbreaker potential against switching opponents in battle.
+Deals double damage to opponents that just switched in. Only works right after they switch in for 1 turn.
 
 # ID: 199
 Doubles the power of Water-type moves and reduces Fire-type damage taken by 50%. Also provides complete immunity to burns, removing existing burns upon gaining the ability.

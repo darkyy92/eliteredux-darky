@@ -206,7 +206,7 @@ In Progress: 0
 | 195 | Water Compaction           | ✅       | ❌        |
 | 196 | Merciless                  | ✅       | ✅        |
 | 197 | Shields Down               | ✅       | ❌        |
-| 198 | Stakeout                   | ✅       | ❌        |
+| 198 | Stakeout                   | ✅       | ✅        |
 | 199 | Water Bubble               | ✅       | ✅        |
 | 200 | Steelworker                | ✅       | ✅        |
 | 201 | Berserk                    | ✅       | ✅        |
