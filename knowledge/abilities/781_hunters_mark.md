@@ -1,8 +1,8 @@
 ---
 id: 781
 name: Hunter's Mark
-status: ai-generated
-character_count: 225
+status: reviewed
+character_count: 296
 ---
 
 # Hunter's Mark - Ability ID 781
@@ -13,7 +13,7 @@ character_count: 225
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants perfect accuracy to Mega Launcher boosted moves and arrow-based attacks. Always critical hits on first turn. Critical hits target the opponent's lower defensive stat, dealing maximum damage through strategic precision.
+Guarantees a critical hit on the user's first turn after switching in or at the start of battle. The user is unable to miss arrow-based attacks and cannon moves (only moves blocked by Bulletproof). Additionally, when landing critical hits, the attack targets the opponent's weaker defensive stat.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
