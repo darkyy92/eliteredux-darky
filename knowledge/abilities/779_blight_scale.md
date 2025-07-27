@@ -1,8 +1,8 @@
 ---
 id: 779
 name: Blight Scale
-status: ai-generated
-character_count: 250
+status: reviewed
+character_count: 213
 ---
 
 # Blight Scale - Ability ID 779
@@ -13,7 +13,7 @@ character_count: 250
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When at full HP, takes half damage from attacks. Contact moves have a 30% chance to poison the attacker. Combines defensive durability with punishing counterattack potential, making this Pokemon dangerous to engage in direct combat at maximum health.
+Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction. Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
