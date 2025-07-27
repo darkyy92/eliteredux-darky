@@ -1,8 +1,8 @@
 ---
 id: 734
 name: Ape Shift
-status: ai-generated
-character_count: 264
+status: reviewed
+character_count: 224
 ---
 
 # Ape Shift - Ability ID 734
@@ -13,7 +13,7 @@ character_count: 264
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ape Shift transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions during transformation. After transforming, all attacks become critical hits. Works on entry, during battle, and at turn end. Exclusive to Mega Slaking forms.
+Transforms the Pokemon when HP drops to 50% or below, automatically curing all status conditions after transformation. After transforming, all attacks become critical hits. Activates on entry, during battle, and at turn end. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
