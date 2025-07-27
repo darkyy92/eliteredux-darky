@@ -2453,7 +2453,7 @@ Sets Grassy Terrain when setting Tailwind, and sets Tailwind when setting Grassy
 Sets Toxic Terrain on switch-in for 8 turns (12 with Terrain Extender). While active, grounded Pokemon that aren't Poison or Steel-type take 1/16 max HP damage each turn, Poison-type moves deal 30% more damage, and Spikes are converted to Toxic Spikes.
 
 # ID: 835
-Empowers the user with mastery over aquatic environments. Water-type moves gain a 1.5x power boost, allowing for devastating oceanic attacks. During rain, the user's Speed is multiplied by 1.5x, enabling swift underwater maneuvers. This dual enhancement makes the bearer a true ruler of the seas.
+Upon entering battle, adds Water to the user's current typing. Retains Water typing even upon losing the ability, going away only when switching out. Also boosts the power of Water-type moves by 50%. Boosts Speed by 50% during rain.
 
 # ID: 836
 Secrets a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves.
