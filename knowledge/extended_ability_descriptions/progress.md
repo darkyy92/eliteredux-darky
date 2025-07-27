@@ -779,7 +779,7 @@ In Progress: 0
 | 768 | Samba                      | ✅       | ✅        |
 | 769 | Junshi Sanda               | ✅       | ✅        |
 | 770 | Gladiator                  | ✅       | ❌        |
-| 771 | Forsaken Heart             | ✅       | ❌        |
+| 771 | Forsaken Heart             | ✅       | ✅        |
 | 772 | Relentless                 | ✅       | ❌        |
 | 773 | Soothsayer                 | ✅       | ❌        |
 | 774 | Corrupted Mind             | ✅       | ❌        |

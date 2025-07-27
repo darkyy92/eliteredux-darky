@@ -2267,7 +2267,7 @@ Punching moves are also treated as kicking moves, benefiting from Striker-type a
 Empowers the inner warrior spirit, boosting all Fighting-type moves by 30% damage under normal conditions. When pushed to the brink with HP at 1/3 or below, the gladiator enters a desperate berserker state, amplifying Fighting moves by a massive 80% instead. Perfect for dramatic comeback victories.
 
 # ID: 771
-Whenever any Pokemon faints on the battlefield, this Pokemon's Attack rises by one stage. Unlike abilities such as Moxie that only activate when the user defeats an opponent, Forsaken Heart triggers from any KO that occurs during battle, including ally defeats.
+Raises Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies.
 
 # ID: 772
 This Pokemon combines devastating tactics: deals 25% more damage to status-afflicted targets, uses their weaker defensive stat, and automatically lands critical hits on poisoned, paralyzed, bleeding, or speed-reduced foes. A true predator's instinct.

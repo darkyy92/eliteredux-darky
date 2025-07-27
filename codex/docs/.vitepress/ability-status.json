@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 556,
+    "completed": 557,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:17:49.366061Z"
+    "generated_at": "2025-07-27T14:18:33.235537Z"
   },
   "abilities": {
     "0": {
@@ -5408,8 +5408,8 @@
       "id": 771,
       "name": "Forsaken Heart",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "772": {
       "id": 772,
@@ -10768,10 +10768,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "771": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "772": {
       "indicator": "🟠",
