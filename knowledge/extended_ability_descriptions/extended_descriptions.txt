@@ -2342,7 +2342,7 @@ Raises the Pokemon's Speed stat by one stage when switching into battle.
 Raises the Pokemon's Attack stat by one stage when switching into battle.
 
 # ID: 797
-Embody Aspect (Cornerstone) raises the Pokemon's Defense by one stage immediately upon switching into battle. This defensive boost occurs regardless of how the Pokemon enters battle, whether through normal switching, forced switching, or other entry methods.
+Raises the Pokemon's Defense stat by one stage when switching into battle.
 
 # ID: 798
 Embody Aspect (Wellspring) raises the Pokemon's Special Defense by one stage when it switches into battle. This variant is exclusive to Ogerpon's Wellspring Mask form, reflecting its defensive Water-type capabilities. Works only once per switch-in, stacking with other stat-boosting effects.
