@@ -1,8 +1,8 @@
 ---
 id: 99
 name: No Guard
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 59
 ---
 
 # No Guard - Ability ID 99
@@ -13,7 +13,7 @@ Attacks used by and on this Pokemon bypass accuracy checks.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-No Guard ensures all attacks hit by bypassing accuracy checks for both user and opponents. Makes inaccurate moves like Dynamic Punch and Focus Blast 100% reliable while making you vulnerable to all enemy attacks including OHKO moves. High-risk, high-reward ability for aggressive offense.
+Guarantees hits for all moves used by and against the user. 
 
 ## Detailed Mechanical Explanation
 
