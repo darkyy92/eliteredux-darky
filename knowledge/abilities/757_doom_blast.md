@@ -1,8 +1,8 @@
 ---
 id: 757
 name: Doom Blast
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 143
 ---
 
 # Doom Blast - Ability ID 757
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Doom Blast boosts all Dark-type moves by 35% damage but causes 10% recoil damage after each Dark-type attack. The recoil is calculated as 5% of damage dealt with a minimum of 1 HP. Creates high-risk, high-reward Dark-type sweeping potential at the cost of gradual self-damage.
+Boosts Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
