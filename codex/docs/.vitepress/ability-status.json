@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 640,
+    "completed": 641,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T19:24:01.244327Z"
+    "generated_at": "2025-07-27T19:28:21.488804Z"
   },
   "abilities": {
     "0": {
@@ -5933,8 +5933,8 @@
       "id": 846,
       "name": "Magus Blades",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "847": {
       "id": 847,
@@ -11218,10 +11218,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "846": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "847": {
       "indicator": "🟠",

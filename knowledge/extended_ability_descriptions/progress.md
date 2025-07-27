@@ -854,7 +854,7 @@ In Progress: 0
 | 843 | Fey Flight                 | ✅       | ✅        |
 | 844 | Best Offense               | ✅       | ✅        |
 | 845 | Impaler                    | ✅       | ❌        |
-| 846 | Magus Blades               | ✅       | ❌        |
+| 846 | Magus Blades               | ✅       | ✅        |
 | 847 | Lightning Born             | ✅       | ❌        |
 | 848 | Superheavy (N)             | ✅       | ❌        |
 | 849 | World Serpent              | ✅       | ❌        |

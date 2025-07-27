@@ -2483,7 +2483,7 @@ Keen Edge moves become Special (deal Special damage and use the Special Attack s
 Impaler combines the power of Mighty Horn to boost all horn-based moves by 30% with a dangerous bleeding effect. Each horn move has a 30% chance to inflict Bleed status on the target. The bleed damage stacks with the boosted move damage for truly devastating offensive potential in battle.
 
 # ID: 846
-Slash moves (cutting/blade attacks) and launcher-boosted moves hit twice. These attacks gain 30% power boost and can use Special Defense as the attacking stat (adds 20% of SpDef to damage). Physical slash moves can be calculated as special attacks.
+Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and use 20% of the user's Special Defense stat for attack calculations. Also, Keen Edge moves hit twice, dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 # ID: 847
 Grants Electric-type as a third type when entering battle. This additional typing stacks with the Pokemon's original types, adding Electric resistances (Flying, Steel, Electric 0.5x) and weakness (Ground 2x). The Pokemon gains STAB on Electric moves and all type interactions are recalculated.
