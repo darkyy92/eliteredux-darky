@@ -1,8 +1,8 @@
 ---
 id: 156
 name: Magic Bounce
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 202
 ---
 
 # Magic Bounce - Ability ID 156
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Magic Bounce automatically reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Works against moves like Toxic, Leech Seed, Taunt, and Will-O-Wisp but not damaging moves or self-targeting status moves.
+Reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Does not reflect moves that were already reflected.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
