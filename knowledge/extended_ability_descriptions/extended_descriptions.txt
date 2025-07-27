@@ -1433,7 +1433,7 @@ Boosts the user's highest attacking stat when entering battle under Tailwind. Wh
 On entry, heals all status conditions from every Pokemon in the user's party, including both active and benched Pokemon.
 
 # ID: 486
-When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender. Immune to all offensive ability effects from opponents, other than Parental Bond and Multi Headed
+When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender. Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 # ID: 487
 The user's moves deal 25% of the damage done to the user as recoil. When the user knocks out the opponent with a direct attack, user's Attack stat drops by 1 stage.
@@ -2429,7 +2429,7 @@ Boosts the Pokemon's Speed by 50% and reduces opponent accuracy by 25% during ha
 When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). Also gives STAB to Fairy-type moves.
 
 # ID: 827
-Wonder Scale grants a 30% chance to cure any status condition at the end of each turn. Also provides immunity to offensive ability effects like Parental Bond and ability-based damage multipliers. This dual defense protects against both status ailments and passive damage abilities
+At the end of each turn, there's a 30% chance for the user to cure status conditions afflicted on them. Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 # ID: 828
 Will not be implemented.
