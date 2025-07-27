@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 511,
-    "written": 862,
-    "pending": 14,
-    "generated_at": "2025-07-27T01:43:58.929276Z"
+    "written": 861,
+    "pending": 15,
+    "generated_at": "2025-07-27T01:45:37.779965Z"
   },
   "abilities": {
     "0": {
@@ -5126,10 +5126,10 @@
     },
     "731": {
       "id": 731,
-      "name": "To The Bone",
-      "written": true,
+      "name": "Ability 731",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "732": {
       "id": 732,
@@ -10528,10 +10528,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "731": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "732": {
       "indicator": "🟠",

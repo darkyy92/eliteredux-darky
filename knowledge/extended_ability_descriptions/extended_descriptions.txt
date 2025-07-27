@@ -2149,9 +2149,6 @@ When fainting, retaliate with a 100 BP Fire-type Explosion targeting all adjacen
 # ID: 730
 Inflict bleed when landing a critical hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.
 
-# ID: 731
-To The Bone boosts critical hit damage by 50% and causes all critical hits to inflict bleeding. Bleeding deals 1/16 max HP damage each turn like poison. Only critical hits can trigger bleeding through this ability. Excellent for high crit rate Pokemon.
-
 # ID: 732
 Blade Dance triggers a 50 BP Leaf Blade follow-up attack immediately after using any dance move. Works with all dance moves including Swords Dance, Dragon Dance, Quiver Dance, and others with the dance flag. The follow-up Leaf Blade has high critical hit ratio and gains STAB if applicable.
 

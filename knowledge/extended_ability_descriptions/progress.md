@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 862
+Completed: 861
 In Progress: 0
 
 ## Progress Tracking
@@ -739,7 +739,7 @@ In Progress: 0
 | 728 | Wind Rage                  | ✅       | ✅        |
 | 729 | Victory Bomb               | ✅       | ✅        |
 | 730 | Razor Sharp                | ✅       | ✅        |
-| 731 | To The Bone                | ✅       | ❌        |
+| 731 | Ability 731                | ❌       | ❌        |
 | 732 | Blade Dance                | ✅       | ❌        |
 | 733 | Taekkyeon                  | ✅       | ❌        |
 | 734 | Ape Shift                  | ✅       | ❌        |
