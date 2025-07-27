@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 545,
+    "completed": 546,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T13:43:54.164969Z"
+    "generated_at": "2025-07-27T13:48:00.731722Z"
   },
   "abilities": {
     "0": {
@@ -5345,8 +5345,8 @@
       "id": 762,
       "name": "Qigong",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "763": {
       "id": 763,
@@ -10714,10 +10714,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "762": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "763": {
       "indicator": "🟠",
