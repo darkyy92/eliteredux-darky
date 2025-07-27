@@ -2336,7 +2336,7 @@ Calculative combines Analytic and Neuroforce. Analytic boosts damage by 30% when
 Always land super effective attacks on the opponent. Allows super effective attacks to ignore the target's abilities and innates that interfere with effects or reduce damage.
 
 # ID: 795
-Embody Aspect raises a stat by 1 stage upon entering battle. Base form boosts Speed, Hearthflame boosts Attack, Cornerstone boosts Defense, and Wellspring boosts Special Defense. Activates every time the Pokemon switches in, including from revival. The boost persists until switching out or fainting.
+Raises the Pokemon's Speed stat by one stage when switching into battle.
 
 # ID: 796
 Embody Aspect (Hearthflame) raises the Pokemon's Attack stat by one stage upon entering battle. This boost applies immediately when switching in or at the start of battle. The ability activates before any other switch-in effects and provides a permanent +50% damage boost to physical moves.
