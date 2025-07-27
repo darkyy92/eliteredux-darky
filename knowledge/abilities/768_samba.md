@@ -1,8 +1,8 @@
 ---
 id: 768
 name: Samba
-status: ai-generated
-character_count: 230
+status: reviewed
+character_count: 192
 ---
 
 # Samba - Ability ID 768
@@ -13,7 +13,7 @@ character_count: 230
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines the power of Striker and elegance of Dancer. Moves with striking techniques deal 30% more damage, while all dance moves are automatically copied when used by any Pokemon on the field. Perfect fusion of offense and rhythm.
+Increases the power of all kicking moves by 30%. Includes Pyro Ball. When any Pokemon on the field uses a dance move, this Pokemon immediately uses the same move after. Triggers once per move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
