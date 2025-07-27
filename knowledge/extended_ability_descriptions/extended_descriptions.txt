@@ -2144,7 +2144,7 @@ All moves with priority 0 or higher gain +1 priority on the user's first turn. N
 Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mist. Additionally, all air-based moves receive a 1.3x damage boost.
 
 # ID: 729
-Victory Bomb triggers when the Pokemon faints, causing it to retaliate with a 100 Base Power Fire-type Explosion targeting the attacker. The explosion occurs after fainting and cannot miss. Works regardless of how the Pokemon was KOed, making it a dangerous last-resort revenge ability.
+When fainting, retaliate with a 100 BP Fire-type Explosion targeting all adjacent Pokemon. Cannot miss. Works regardless of how the user. was KOed.
 
 # ID: 730
 Razor Sharp inflicts bleeding status on opponents when the Pokemon lands a critical hit. Bleeding deals 1/16 max HP damage per turn and prevents healing until cured. Only affects Pokemon that can normally be afflicted with status conditions. Rock and Ghost types are immune to bleeding effects.
