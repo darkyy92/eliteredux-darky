@@ -1,8 +1,8 @@
 ---
 id: 824
 name: Frostbind
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 170
 ---
 
 # Frostbind - Ability ID 824
@@ -13,7 +13,7 @@ Inflicting Frostbite also inflicts Disable.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Frostbind inflicts both Frostbite and Disable when an opponent faints from the Pokemon's attacks. Frostbite deals 1/16 max HP damage per turn and halves special attack. Disable prevents the target's last used move for 4 turns. Creates powerful disruption through dual status effects.
+When inflicting frostbite, the user also inflicts disable. Disable prevents the target from using their last-used move for 4 turns. Fails if the target has not moved yet.
 
 ## Detailed Mechanical Explanation
 
