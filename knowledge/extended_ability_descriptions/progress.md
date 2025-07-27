@@ -850,7 +850,7 @@ In Progress: 0
 | 839 | Neutralizing Fog           | ✅       | ✅        |
 | 840 | Poison Quills              | ✅       | ✅        |
 | 841 | Draconic Might             | ✅       | ✅        |
-| 842 | Festivities (N)            | ✅       | ❌        |
+| 842 | Festivities (N)            | ✅       | ✅        |
 | 843 | Fey Flight                 | ✅       | ❌        |
 | 844 | Best Offense               | ✅       | ❌        |
 | 845 | Impaler                    | ✅       | ❌        |
