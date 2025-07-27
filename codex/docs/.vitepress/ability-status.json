@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 549,
+    "completed": 550,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:07:14.813486Z"
+    "generated_at": "2025-07-27T14:08:07.105139Z"
   },
   "abilities": {
     "0": {
@@ -704,8 +704,8 @@
       "id": 99,
       "name": "No Guard",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "100": {
       "id": 100,
@@ -6736,10 +6736,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "99": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "100": {
       "indicator": "✅",

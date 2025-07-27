@@ -290,7 +290,7 @@ Sniper boosts critical hit damage from 1.5x to 2.25x by applying an additional 5
 Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 # ID: 99
-No Guard ensures all attacks hit by bypassing accuracy checks for both user and opponents. Makes inaccurate moves like Dynamic Punch and Focus Blast 100% reliable while making you vulnerable to all enemy attacks including OHKO moves. High-risk, high-reward ability for aggressive offense.
+Guarantees hits for all moves used by and against the user.
 
 # ID: 100
 Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn.

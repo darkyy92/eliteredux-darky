@@ -107,7 +107,7 @@ In Progress: 0
 |  96 | Normalize                  | ✅       | ❌        |
 |  97 | Sniper                     | ✅       | ❌        |
 |  98 | Magic Guard                | ✅       | ✅        |
-|  99 | No Guard                   | ✅       | ❌        |
+|  99 | No Guard                   | ✅       | ✅        |
 | 100 | Stall                      | ✅       | ✅        |
 | 101 | Technician                 | ✅       | ❌        |
 | 102 | Leaf Guard                 | ✅       | ❌        |
