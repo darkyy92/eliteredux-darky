@@ -2,7 +2,7 @@
 id: 827
 name: Wonder Scale
 status: reviewed
-character_count: 280
+character_count: 208
 ---
 
 # Wonder Scale - Ability ID 827
@@ -13,7 +13,7 @@ Shed Skin + Wonder Skin.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Wonder Scale grants a 30% chance to cure any status condition at the end of each turn. Also provides immunity to offensive ability effects like Parental Bond and ability-based damage multipliers. This dual defense protects against both status ailments and passive damage abilities
+At the end of each turn, there's a 30% chance for the user to cure status conditions afflicted on them. Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 ## Detailed Mechanical Explanation
 
