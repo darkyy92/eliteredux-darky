@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 526,
+    "completed": 527,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T02:12:16.257073Z"
+    "generated_at": "2025-07-27T02:13:54.668500Z"
   },
   "abilities": {
     "0": {
@@ -5226,8 +5226,8 @@
       "id": 745,
       "name": "Sand Pit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "746": {
       "id": 746,
@@ -10612,10 +10612,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "745": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "746": {
       "indicator": "🟠",

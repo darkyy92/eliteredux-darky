@@ -753,7 +753,7 @@ In Progress: 0
 | 742 | Magical Fists              | ✅       | ✅        |
 | 743 | Cutthroat                  | ✅       | ✅        |
 | 744 | Sand Bender                | ✅       | ✅        |
-| 745 | Sand Pit                   | ✅       | ❌        |
+| 745 | Sand Pit                   | ✅       | ✅        |
 | 746 | Desolate Sun               | ✅       | ❌        |
 | 747 | Daybreak                   | ✅       | ❌        |
 | 748 | Energy Siphon              | ✅       | ❌        |

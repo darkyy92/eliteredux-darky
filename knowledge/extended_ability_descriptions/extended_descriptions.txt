@@ -2189,7 +2189,7 @@ On entry, gives +1 priority to the first Keen Edge move used. Priority boost is 
 Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). Boosts the Pokemon's highest attacking stat by 50% during sandstorm. Also grants immunity to sandstorm damage.
 
 # ID: 745
-Sand Pit automatically uses Sand Tomb with 20 base power when the Pokemon switches into battle. The attack targets all opposing Pokemon and traps them in quicksand for 2-5 turns, dealing Ground-type damage each turn. Cannot miss and ignores accuracy checks. Perfect for entry hazard control.
+Uses Sand Tomb with 20 BP on switch in. Hits all opposing Pokemon and traps them for 4-5 turns, making them lose 1/8 max HP each turn. Cannot miss and ignores accuracy checks.
 
 # ID: 746
 Desolate Sun creates extremely harsh sunlight that lasts until the user switches out and nullifies all Water-type moves. Additionally, the user heals 25% of their max HP when hit by Ground-type moves. Combines weather control with Ground immunity for strong defensive utility.
