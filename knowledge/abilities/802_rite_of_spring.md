@@ -1,8 +1,8 @@
 ---
 id: 802
 name: Rite Of Spring
-status: ai-generated
-character_count: 252
+status: reviewed
+character_count: 77
 ---
 
 # Rite Of Spring - Ability ID 802
@@ -13,7 +13,7 @@ character_count: 252
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts Speed by 50% in sun weather while also increasing the higher attacking stat by 50% in sun. Works with all forms of sun including regular sun, harsh sunlight, and Primal Groudon's weather. Both effects activate simultaneously when sun is present.
+Boosts the user's Speed and highest attacking stat by 50% when sun is active.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
