@@ -1,8 +1,8 @@
 ---
 id: 835
 name: Atlantic Ruler
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 232
 ---
 
 # Atlantic Ruler - Ability ID 835
@@ -13,7 +13,7 @@ Aquatic Dweller + Swift Swim.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Empowers the user with mastery over aquatic environments. Water-type moves gain a 1.5x power boost, allowing for devastating oceanic attacks. During rain, the user's Speed is multiplied by 1.5x, enabling swift underwater maneuvers. This dual enhancement makes the bearer a true ruler of the seas.
+Upon entering battle, adds Water to the user's current typing. Retains Water typing even upon losing the ability, going away only when switching out. Also boosts the power of Water-type moves by 50%. Boosts Speed by 50% during rain.
 
 ## Detailed Mechanical Explanation
 
