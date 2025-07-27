@@ -1,8 +1,8 @@
 ---
 id: 852
 name: Envenom
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 113
 ---
 
 # Envenom - Ability ID 852
@@ -13,7 +13,7 @@ Moves have a 30% chance to poison the target.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.
+The user has a 30% to poison the target after landing any move. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 
