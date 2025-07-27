@@ -2183,7 +2183,7 @@ Boosts Speed by 50% during rain. Reduces damage by 30% when moving before the op
 Punching moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 # ID: 743
-First slicing move gets +1 priority, then ability deactivates. Sharpen move uniquely RESETS this ability, allowing repeated priority slicing. Coil does NOT reset it. Works with moves having keen edge flag like Sacred Sword. Perfect for Sharpen + slicing combos.
+On entry, gives +1 priority to the first Keen Edge move used. Priority boost is consumed after landing any Keen Edge move. Resets ability if Sharpen is used.
 
 # ID: 744
 Sand Bender combines Sand Stream and Sand Force effects. Automatically summons an 8-turn sandstorm on entry, then boosts the Pokemon's highest attacking stat by 50% while in sandstorm weather. The user is immune to sandstorm damage. Perfect for offensive sand sweepers and setters.
