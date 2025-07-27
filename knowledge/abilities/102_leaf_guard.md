@@ -1,8 +1,8 @@
 ---
 id: 102
 name: Leaf Guard
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 63
 ---
 
 # Leaf Guard - Ability ID 102
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Leaf Guard cures the Pokemon's status conditions at the end of each turn during sunny weather. Works with regular sun, harsh sunlight from Drought, and extremely harsh sunlight from Desolate Land. Status healing occurs after damage from burn/poison. Pairs well with sun teams.
+During sun, cures all status conditions at the end of the turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
