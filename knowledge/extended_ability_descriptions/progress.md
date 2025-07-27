@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 860
+Completed: 859
 In Progress: 0
 
 ## Progress Tracking
@@ -89,7 +89,7 @@ In Progress: 0
 |  78 | Motor Drive                | ✅       | ❌        |
 |  79 | Rivalry                    | ✅       | ❌        |
 |  80 | Steadfast                  | ✅       | ❌        |
-|  81 | Snow Cloak                 | ✅       | ❌        |
+|  81 | Ability 81                 | ❌       | ❌        |
 |  82 | Gluttony                   | ✅       | ❌        |
 |  83 | Anger Point                | ✅       | ❌        |
 |  84 | Unburden                   | ✅       | ❌        |

@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 615,
-    "written": 860,
-    "pending": 16,
-    "generated_at": "2025-07-27T18:07:17.698554Z"
+    "written": 859,
+    "pending": 17,
+    "generated_at": "2025-07-27T18:08:56.600747Z"
   },
   "abilities": {
     "0": {
@@ -576,10 +576,10 @@
     },
     "81": {
       "id": 81,
-      "name": "Snow Cloak",
-      "written": true,
+      "name": "Ability 81",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "82": {
       "id": 82,
@@ -6628,10 +6628,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "81": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "82": {
       "indicator": "🟠",
