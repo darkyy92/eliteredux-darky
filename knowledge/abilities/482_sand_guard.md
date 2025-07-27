@@ -13,7 +13,7 @@ character_count: 148
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Guard blocks priority moves and reduces special attack damage by 50% during a sandstorm. Multiplicative with other sources of damage reduction.
+Sand Guard blocks priority moves and reduces Special Attack damage by 50% during a sandstorm. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
