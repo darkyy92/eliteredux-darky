@@ -1,8 +1,8 @@
 ---
 id: 819
 name: Serpent Bind (N)
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 173
 ---
 
 # Serpent Bind (N) - Ability ID 819
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Serpent Bind gives attacks a 50% chance to trap the target, preventing escape or switching. Once trapped, the victim's speed drops by one stage each turn they remain on the field. The binding effect persists until the user faints or switches out, maintaining constant pressure.
+Gives attacks a 50% chance to trap the target for 4-5 turns, preventing escape or switching. Once trapped, their speed drops by one stage each turn they remain on the field. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
