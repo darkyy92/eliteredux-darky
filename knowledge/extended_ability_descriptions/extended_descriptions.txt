@@ -2417,7 +2417,7 @@ While fog is active, drains 1/10 of each active opponent's max HP at the end of 
 Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by one stage. Foes can not land critical hits, always roll minimum damage (85% instead of 85-100%), fail to inflict secondary effects that are not guaranteed, and have a 5% chance to miss a move.
 
 # ID: 822
-Ominous Shroud grants Ghost typing upon entering battle and reduces all damage by 50% when at full HP. The Ghost typing remains throughout battle, granting immunity to Normal and Fighting moves. The damage reduction is lost when HP drops below maximum but returns when healed to full.
+Upon entering battle, adds Ghost to user's current typing. Retains Ghost typing even upon losing the ability, going away only when switching out. Halves damage from all attacks when at full HP. Multiplicative with other damage reduction sources.
 
 # ID: 823
 Chilling Presence automatically uses a weakened Icy Wind when the Pokemon enters battle, targeting all opposing Pokemon. The move deals 10 base power Ice-type damage instead of the usual 60, but retains perfect accuracy and guaranteed Speed reduction effects. Useful for slowing fast threats.

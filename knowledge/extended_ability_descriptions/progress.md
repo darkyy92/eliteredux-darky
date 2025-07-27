@@ -830,7 +830,7 @@ In Progress: 0
 | 819 | Serpent Bind (N)           | ✅       | ✅        |
 | 820 | Soul Tap                   | ✅       | ✅        |
 | 821 | Scarecrow                  | ✅       | ✅        |
-| 822 | Ominous Shroud             | ✅       | ❌        |
+| 822 | Ominous Shroud             | ✅       | ✅        |
 | 823 | Chilling Presence          | ✅       | ❌        |
 | 824 | Frostbind                  | ✅       | ❌        |
 | 825 | Glacial Ghost              | ✅       | ❌        |
