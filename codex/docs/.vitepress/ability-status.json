@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 617,
+    "completed": 618,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:14:34.000308Z"
+    "generated_at": "2025-07-27T18:15:19.811495Z"
   },
   "abilities": {
     "0": {
@@ -5800,8 +5800,8 @@
       "id": 827,
       "name": "Wonder Scale",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "828": {
       "id": 828,
@@ -11104,10 +11104,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "827": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "828": {
       "indicator": "🟠",

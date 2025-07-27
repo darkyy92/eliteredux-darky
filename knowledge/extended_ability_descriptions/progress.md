@@ -835,7 +835,7 @@ In Progress: 0
 | 824 | Frostbind                  | ✅       | ✅        |
 | 825 | Glacial Ghost              | ✅       | ✅        |
 | 826 | Tender Affection           | ✅       | ✅        |
-| 827 | Wonder Scale               | ✅       | ❌        |
+| 827 | Wonder Scale               | ✅       | ✅        |
 | 828 | Overzealous                | ✅       | ❌        |
 | 829 | Stainless Steel            | ✅       | ❌        |
 | 830 | Temporal Rupture           | ✅       | ❌        |

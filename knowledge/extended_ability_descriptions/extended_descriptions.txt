@@ -2429,7 +2429,7 @@ Boosts the Pokemon's Speed by 50% and reduces opponent accuracy by 25% during ha
 When hit by contact moves, has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). Also gives STAB to Fairy-type moves.
 
 # ID: 827
-Wonder Scale grants a 30% chance to cure any status condition at the end of each turn. Also provides immunity to offensive ability effects like Parental Bond and ability-based damage multipliers. This dual defense protects against both status ailments and passive damage abilities.
+Wonder Scale grants a 30% chance to cure any status condition at the end of each turn. Also provides immunity to offensive ability effects like Parental Bond and ability-based damage multipliers. This dual defense protects against both status ailments and passive damage abilities
 
 # ID: 828
 Overzealous adds +1 priority to any damaging move that would be super-effective against the target. Priority boost stacks with base move priority (Quick Attack becomes +2). Works with all attack types and damage categories. Turns type advantage coverage moves into priority attacks.
