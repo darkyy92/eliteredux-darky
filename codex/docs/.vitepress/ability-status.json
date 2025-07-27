@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 586,
+    "completed": 587,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:59:24.977042Z"
+    "generated_at": "2025-07-27T16:03:47.597719Z"
   },
   "abilities": {
     "0": {
@@ -5611,8 +5611,8 @@
       "id": 800,
       "name": "Deviate",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "801": {
       "id": 801,
@@ -10942,10 +10942,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "800": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "801": {
       "indicator": "🟠",

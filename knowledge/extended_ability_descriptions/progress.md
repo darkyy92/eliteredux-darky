@@ -808,7 +808,7 @@ In Progress: 0
 | 797 | Embody Aspect (Cornerstone) | ✅       | ✅        |
 | 798 | Embody Aspect (Wellspring) | ✅       | ✅        |
 | 799 | Rockhard Shaft             | ✅       | ❌        |
-| 800 | Deviate                    | ✅       | ❌        |
+| 800 | Deviate                    | ✅       | ✅        |
 | 801 | Sun's Bounty               | ✅       | ❌        |
 | 802 | Rite Of Spring             | ✅       | ❌        |
 | 803 | Headstrong                 | ✅       | ❌        |

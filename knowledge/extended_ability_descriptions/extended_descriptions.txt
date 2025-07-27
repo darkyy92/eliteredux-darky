@@ -2351,7 +2351,7 @@ Raises the Pokemon's Special Defense stat by one stage when switching into battl
 Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When the Pokemon drops below 1/3 of its maximum HP, the boost increases to 1.8x damage. This works with any Rock-type move regardless of category. The ability activates automatically based on current HP percentage.
 
 # ID: 800
-Deviate converts all Normal-type moves to Dark-type and provides STAB for Dark-type moves. This transformation affects all Normal-type moves including Tackle, Body Slam, and Hyper Beam. The ability grants immediate Dark-type STAB bonus for Pokemon that wouldn't normally receive it.
+Converts all Normal-type moves to Dark-type and grants STAB for Dark moves, regardless of the user's type.
 
 # ID: 801
 Sun's Bounty combines two powerful abilities: Leaf Guard heals all status conditions at the end of each turn during harsh sunlight, while Harvest restores consumed berries. In sun, berry restoration is guaranteed; otherwise it's 50%. Perfect for sustainable recovery.
