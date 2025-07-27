@@ -1,8 +1,8 @@
 ---
 id: 713
 name: Aquatic Dweller
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 199
 ---
 
 # Aquatic Dweller - Ability ID 713
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Aquatic Dweller combines two powerful effects: adds Water typing to the Pokemon and boosts all Water-type moves by 50%. The additional Water typing provides STAB bonuses and resistances while the damage boost makes Water attacks significantly stronger. Perfect for mixed attackers.
+Upon entering battle, adds Water to the user's current typing. Retains Water typing even upon losing the ability, going away only when switching out. Also boosts the power of Water-type moves by 50%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
