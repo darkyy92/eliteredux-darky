@@ -1,8 +1,8 @@
 ---
 id: 813
 name: Mixed Martial Arts
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 130
 ---
 
 # Mixed Martial Arts - Ability ID 813
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mixed Martial Arts flags all Normal-type moves as both Punch and Kick moves, allowing them to benefit from abilities like Iron Fist, Strong Jaw, and similar move-based enhancements. This transforms typical Normal attacks into martial arts techniques with increased power and special interactions.
+Converts all Normal-type moves into Iron Fist and Striker moves, enabling them to benefit from related abilities and interactions.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
