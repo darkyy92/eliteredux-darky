@@ -828,7 +828,7 @@ In Progress: 0
 | 817 | Madness Enhancement (N)    | ✅       | ✅        |
 | 818 | Tentalock (N)              | ✅       | ✅        |
 | 819 | Serpent Bind (N)           | ✅       | ✅        |
-| 820 | Soul Tap                   | ✅       | ❌        |
+| 820 | Soul Tap                   | ✅       | ✅        |
 | 821 | Scarecrow                  | ✅       | ❌        |
 | 822 | Ominous Shroud             | ✅       | ❌        |
 | 823 | Chilling Presence          | ✅       | ❌        |

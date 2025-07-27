@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 610,
+    "completed": 611,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T17:58:48.197080Z"
+    "generated_at": "2025-07-27T18:00:27.777069Z"
   },
   "abilities": {
     "0": {
@@ -5751,8 +5751,8 @@
       "id": 820,
       "name": "Soul Tap",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "821": {
       "id": 821,
@@ -11062,10 +11062,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "820": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "821": {
       "indicator": "🟠",

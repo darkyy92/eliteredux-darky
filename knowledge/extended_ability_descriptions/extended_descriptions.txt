@@ -2411,7 +2411,7 @@ Trapping moves last 6 turns instead of 4-5 turns and increases their damage at t
 Gives attacks a 50% chance to trap the target for 4-5 turns, preventing escape or switching. Once trapped, their speed drops by one stage each turn they remain on the field.
 
 # ID: 820
-Soul Tap drains 10% of max HP from all opposing Pokemon at the end of each turn during fog weather. The drained HP heals the user. Magic Guard blocks the damage. Ignores Substitute and Disguise. Requires active fog to function and affects all living opponents simultaneously.
+While fog is active, drains 1/10 of each active opponent's max HP at the end of every turn and restores that amount to the user. Ignores Substitute.
 
 # ID: 821
 Scarecrow combines Scare and Bad Luck abilities. On entry, it lowers all foes' Sp.Atk by 1 stage. It prevents foes from landing critical hits and reduces their secondary effect chances below 100% to 0%. Affects both foes in doubles. Merges intimidation with complete RNG manipulation.
