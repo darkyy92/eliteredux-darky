@@ -1,8 +1,8 @@
 ---
 id: 728
 name: Wind Rage
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 145
 ---
 
 # Wind Rage - Ability ID 728
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Wind Rage automatically uses Defog when switching into battle, clearing all entry hazards and screens. Additionally, all air-based moves receive a 1.3x damage boost. Air-based moves include Flying-type attacks and moves with the air-based flag. Great for hazard control and boosting aerial attacks.
+Uses Defog on switch in, clearing all entry hazards, screens, Safeguard, and Mist. Additionally, all air-based moves receive a 1.3x damage boost.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
