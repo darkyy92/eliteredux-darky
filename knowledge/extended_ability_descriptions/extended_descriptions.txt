@@ -2243,7 +2243,7 @@ Spreads two layers of Toxic Spikes on the opponent's side on entry. Any non-Pois
 The user always lands their moves. Converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks. Eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 # ID: 763
-Combines Magic Guard and Magic Bounce effects. Prevents all indirect damage from status conditions, weather, entry hazards, recoil, and items. Additionally bounces back all status moves and entry hazard moves to the user, making this Pokemon nearly untouchable by most support moves.
+Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. Reflects most status moves back to the user before they can take effect. Reflected moves target the original user. Does not reflect moves that were already reflected.
 
 # ID: 764
 Deep Freeze boosts Water and Ice-type moves by 25% while halving Fire-type damage taken. This dual offensive and defensive ability provides excellent type synergy for Water/Ice Pokemon, enhancing STAB attacks while providing crucial Fire resistance. Stacks with other damage modifiers.

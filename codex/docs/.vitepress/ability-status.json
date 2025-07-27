@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 547,
+    "completed": 548,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T14:04:56.096444Z"
+    "generated_at": "2025-07-27T14:06:12.855142Z"
   },
   "abilities": {
     "0": {
@@ -5352,8 +5352,8 @@
       "id": 763,
       "name": "Conjourer of Deceit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "764": {
       "id": 764,
@@ -10720,10 +10720,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "763": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "764": {
       "indicator": "🟠",

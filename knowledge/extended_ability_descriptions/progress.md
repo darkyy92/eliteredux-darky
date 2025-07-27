@@ -771,7 +771,7 @@ In Progress: 0
 | 760 | Acidic Slime               | ✅       | ✅        |
 | 761 | Rose Garden                | ✅       | ✅        |
 | 762 | Qigong                     | ✅       | ✅        |
-| 763 | Conjourer of Deceit        | ✅       | ❌        |
+| 763 | Conjourer of Deceit        | ✅       | ✅        |
 | 764 | Deep Freeze                | ✅       | ❌        |
 | 765 | Soul Devourer              | ✅       | ❌        |
 | 766 | Champions Entrance         | ✅       | ❌        |
