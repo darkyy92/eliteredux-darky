@@ -1,8 +1,8 @@
 ---
 id: 131
 name: Healer
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 179
 ---
 
 # Healer - Ability ID 131
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Healer gives a 30% chance to cure status conditions at the end of each turn. In single battles, it only cures the user. In double battles, it can cure either the user or their ally partner. The ability checks for both Pokemon separately and can potentially cure both in the same turn if lucky.
+Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon.
 
 ## Detailed Mechanical Explanation
 Healer is a supportive ability that provides passive status condition removal at the end of each turn. Here's how it works in detail:
