@@ -2315,7 +2315,7 @@ Boosts Sing's accuracy to 90%. Does not lock to accuracy to 90%, the move still 
 When hit by any Water or Ice moves, boost Attack and Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the move resolves.
 
 # ID: 788
-After using any Ice-type move, the Pokemon automatically follows up with a 50 BP Blizzard that can hit both opponents in double battles. This creates a devastating combo that turns every Ice attack into a potential freeze opportunity.
+After using an Ice-type move, the user follows up with a 50 BP Blizzard (Ice, 85% accuracy, hits both opponents, 20% frostbite chance. Weather-based).
 
 # ID: 789
 This Pokemon combines the defensive properties of both Impenetrable and Sturdy abilities. It is completely immune to all forms of indirect damage including poison, burn, weather effects, and entry hazards, while also surviving any attack that would knock it out from full HP with 1 HP remaining.

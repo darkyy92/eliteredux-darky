@@ -796,7 +796,7 @@ In Progress: 0
 | 785 | Dual Shadow                | ✅       | ❌        |
 | 786 | Lullaby                    | ✅       | ✅        |
 | 787 | Cryo Architect             | ✅       | ✅        |
-| 788 | Glacial Rage               | ✅       | ❌        |
+| 788 | Glacial Rage               | ✅       | ✅        |
 | 789 | Immovable Object           | ✅       | ❌        |
 | 790 | Frenzied Phantom           | ✅       | ❌        |
 | 791 | DNA Scramble               | ✅       | ❌        |
