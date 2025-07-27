@@ -204,7 +204,7 @@ In Progress: 0
 | 193 | Wimp Out                   | ✅       | ❌        |
 | 194 | Emergency Exit             | ✅       | ❌        |
 | 195 | Water Compaction           | ✅       | ❌        |
-| 196 | Merciless                  | ✅       | ❌        |
+| 196 | Merciless                  | ✅       | ✅        |
 | 197 | Shields Down               | ✅       | ❌        |
 | 198 | Stakeout                   | ✅       | ❌        |
 | 199 | Water Bubble               | ✅       | ✅        |

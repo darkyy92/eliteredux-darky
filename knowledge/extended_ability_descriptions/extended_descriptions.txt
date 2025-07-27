@@ -581,7 +581,7 @@ When this Pokemon's HP drops to half or below from an attack, it automatically s
 Water Compaction reduces damage from Water-type moves by 50% and raises Defense by 2 stages when hit by Water moves. Both effects trigger on the same Water attack - first the damage reduction applies, then the Defense boost activates if the Pokemon can still raise its Defense stat further.
 
 # ID: 196
-Merciless guarantees critical hits against targets with status conditions or speed penalties. Affected targets include poisoned, paralyzed, bleeding foes, Pokemon with lowered Speed stats, or those holding Iron Ball. Absolutely devastating when facing debuffed opponents in battle.
+Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered.
 
 # ID: 197
 Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert to Meteor Form once transformed during battle.
