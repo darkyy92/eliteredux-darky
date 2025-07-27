@@ -2498,7 +2498,7 @@ Physical non-contact moves deal 20% more damage. Contact moves have a 50% chance
 Doubles the activation chance of the user's secondary effects on their attacks. Boosts the power of all wing, wind, and air-based moves by 30%.
 
 # ID: 851
-Grants the Dragon type as an additional typing upon switching in, allowing dual/triple-type combinations. All offensive moves have a 30% chance to inflict bad poison (toxic) on the target. Bad poison damage increases each turn, starting at 1/16 max HP and doubling each turn.
+Upon entering battle, adds Dragon to the user's current typing. Retains Dragon typing even upon losing the ability, going away only when switching out. 30% chance to badly poison targets when landing attacks.
 
 # ID: 852
 When this Pokemon attacks and deals damage, there's a 30% chance to poison the target. The poisoning effect bypasses protective abilities like Safeguard but cannot affect targets that are already statused, immune to poison, or are Poison/Steel-type unless overridden by specific abilities.

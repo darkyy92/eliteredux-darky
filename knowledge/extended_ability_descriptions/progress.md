@@ -859,7 +859,7 @@ In Progress: 0
 | 848 | Superheavy (N)             | ✅       | ✅        |
 | 849 | World Serpent              | ✅       | ✅        |
 | 850 | Lucky Wings                | ✅       | ✅        |
-| 851 | Komodo                     | ✅       | ❌        |
+| 851 | Komodo                     | ✅       | ✅        |
 | 852 | Envenom                    | ✅       | ❌        |
 | 853 | Purple Haze                | ✅       | ❌        |
 | 854 | Gnashing Cannon            | ✅       | ❌        |
