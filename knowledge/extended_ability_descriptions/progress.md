@@ -774,7 +774,7 @@ In Progress: 0
 | 763 | Conjourer of Deceit        | ✅       | ✅        |
 | 764 | Deep Freeze                | ✅       | ✅        |
 | 765 | Soul Devourer              | ✅       | ❌        |
-| 766 | Champions Entrance         | ✅       | ❌        |
+| 766 | Champions Entrance         | ✅       | ✅        |
 | 767 | Presto                     | ✅       | ❌        |
 | 768 | Samba                      | ✅       | ❌        |
 | 769 | Junshi Sanda               | ✅       | ❌        |

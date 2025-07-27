@@ -2252,7 +2252,7 @@ Boosts the damage of Water and Ice-type moves by 25%. Halves damage received fro
 Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokemon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokemon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
 
 # ID: 766
-Upon entering battle, this Pokemon makes a dramatic champions entrance that intimidates all opposing Pokemon, lowering their Attack stat by one stage. Simultaneously, it enters an aggressive violent rush state that significantly boosts its own Speed by 50% and Attack by 20% for the first turn only.
+Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage. The user gains a 50% Speed boost and 20% Attack boost on their first turn after switching in.
 
 # ID: 767
 When at full HP, this Pokemon's sound-based moves gain increased priority, striking first in battle. The musical mastery grants tactical advantage by accelerating harmonious attacks when the performer is in perfect condition, turning melodies into swift strikes that resonate with enhanced tempo.
