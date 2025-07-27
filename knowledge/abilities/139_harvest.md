@@ -1,8 +1,8 @@
 ---
 id: 139
 name: Harvest
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 120
 ---
 
 # Harvest - Ability ID 139
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-At the end of each turn, Harvest has a 50% chance to restore any Berry the Pokemon has consumed during battle. In sun weather (including harsh sun), this chance increases to 100%. The ability can restore Berries used by effects like Natural Gift, Fling, or consumed for their effects.
+50% chance to restore berry on turn end, 100% in sun. Includes berries that were used for Fling, Natural Gift, or eaten.
 
 ## Detailed Mechanical Explanation
 
