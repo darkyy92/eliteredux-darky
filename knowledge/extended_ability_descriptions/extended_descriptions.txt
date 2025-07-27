@@ -2486,7 +2486,7 @@ Impaler combines the power of Mighty Horn to boost all horn-based moves by 30% w
 Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and use 20% of the user's Special Defense stat for attack calculations. Also, Keen Edge moves hit twice, dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 # ID: 847
-Grants Electric-type as a third type when entering battle. This additional typing stacks with the Pokemon's original types, adding Electric resistances (Flying, Steel, Electric 0.5x) and weakness (Ground 2x). The Pokemon gains STAB on Electric moves and all type interactions are recalculated.
+Upon entering battle, adds Electric to the user's current typing. Retains Electric typing even upon losing the ability, going away only when switching out.
 
 # ID: 848
 Superheavy grants immunity to forced switching moves (Roar, Whirlwind, Circle Throw, Dragon Tail) and raises Speed by +1 stage when flinched. Both effects are permanently active as this is an innate ability. Speed boosts can stack up to +6 stages with repeated flinches.

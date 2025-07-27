@@ -855,7 +855,7 @@ In Progress: 0
 | 844 | Best Offense               | ✅       | ✅        |
 | 845 | Impaler                    | ✅       | ❌        |
 | 846 | Magus Blades               | ✅       | ✅        |
-| 847 | Lightning Born             | ✅       | ❌        |
+| 847 | Lightning Born             | ✅       | ✅        |
 | 848 | Superheavy (N)             | ✅       | ❌        |
 | 849 | World Serpent              | ✅       | ❌        |
 | 850 | Lucky Wings                | ✅       | ❌        |
