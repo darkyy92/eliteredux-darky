@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 543,
+    "completed": 544,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:41:47.263598Z"
+    "generated_at": "2025-07-27T13:37:59.428817Z"
   },
   "abilities": {
     "0": {
@@ -5331,8 +5331,8 @@
       "id": 760,
       "name": "Acidic Slime",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "761": {
       "id": 761,
@@ -10702,10 +10702,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "760": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "761": {
       "indicator": "🟠",

@@ -2234,7 +2234,7 @@ Increases the damage of moves that cause recoil by 20%. While enraged, this boos
 Protects from critical hits and reduces physical damage by 20%. When hit by contact moves, automatically uses Thunder Cage at 50 power to trap the attacker in electricity for 2-5 turns, dealing damage at the end of each turn and preventing escape.
 
 # ID: 760
-Acidic Slime grants Water-type moves STAB bonus (1.5x damage) regardless of user's actual type and allows Poison moves to hit Steel types for 2x damage instead of immunity. Can poison any type including Steel and Poison. Effectively combines offensive typing flexibility with status utility.
+Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type. Also gives STAB to Poison-type moves.
 
 # ID: 761
 Rose Garden instantly spreads two layers of Toxic Spikes on the opponent's side when the Pokemon enters battle. Any grounded enemy that switches in will be badly poisoned, taking increasing damage each turn. Flying types and Poison types are immune to this effect.
