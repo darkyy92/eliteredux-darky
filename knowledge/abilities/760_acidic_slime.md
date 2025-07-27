@@ -1,8 +1,8 @@
 ---
 id: 760
 name: Acidic Slime
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 172
 ---
 
 # Acidic Slime - Ability ID 760
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Acidic Slime grants Water-type moves STAB bonus (1.5x damage) regardless of user's actual type and allows Poison moves to hit Steel types for 2x damage instead of immunity. Can poison any type including Steel and Poison. Effectively combines offensive typing flexibility with status utility.
+Poison-type moves become super effective against Steel-type Pokemon. Additionally, this Pokemon can inflict poison status on any type. Also gives STAB to Poison-type moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
