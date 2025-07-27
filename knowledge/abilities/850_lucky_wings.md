@@ -1,8 +1,8 @@
 ---
 id: 850
 name: Lucky Wings
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 143
 ---
 
 # Lucky Wings - Ability ID 850
@@ -13,7 +13,7 @@ Serene Grace + Giant Wings.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Lucky Wings combines two powerful effects: doubles the chance of moves' secondary effects activating (Serene Grace), and boosts the power of all airborne moves by 30% (Giant Wings). This creates a potent synergy for flying attackers with high-utility moves that can overwhelm opponents.
+Doubles the activation chance of the user's secondary effects on their attacks. Boosts the power of all wing, wind, and air-based moves by 30%.
 
 ## Detailed Mechanical Explanation
 
