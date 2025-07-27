@@ -1,8 +1,8 @@
 ---
 id: 804
 name: Firefighter
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 213
 ---
 
 # Firefighter - Ability ID 804
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Firefighter provides offensive and defensive advantages against Fire-types. When attacking Fire-type Pokemon, damage output is increased by 50%. When receiving Fire-type attacks, incoming damage is reduced by 50%. This dual-purpose ability makes it excellent for countering Fire opponents.
+Deals 1.5x damage to Fire-type Pokemon and takes 0.5x damage when attacked by Fire-type Pokemon. Based on attacker/defender Pokemon types, not move types. The damage reduction is multiplicative with other sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
