@@ -2495,7 +2495,7 @@ Getting flinched raises Speed by one stage. Prevents forced switching from moves
 Physical non-contact moves deal 20% more damage. Contact moves have a 50% chance to trap the target for 4-5 turns.
 
 # ID: 850
-Lucky Wings combines two powerful effects: doubles the chance of moves' secondary effects activating (Serene Grace), and boosts the power of all airborne moves by 30% (Giant Wings). This creates a potent synergy for flying attackers with high-utility moves that can overwhelm opponents.
+Doubles the activation chance of the user's secondary effects on their attacks. Boosts the power of all wing, wind, and air-based moves by 30%.
 
 # ID: 851
 Grants the Dragon type as an additional typing upon switching in, allowing dual/triple-type combinations. All offensive moves have a 30% chance to inflict bad poison (toxic) on the target. Bad poison damage increases each turn, starting at 1/16 max HP and doubling each turn.

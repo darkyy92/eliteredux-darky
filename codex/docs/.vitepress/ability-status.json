@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 644,
+    "completed": 645,
     "written": 858,
     "pending": 18,
-    "generated_at": "2025-07-27T19:32:53.169367Z"
+    "generated_at": "2025-07-27T19:34:14.779158Z"
   },
   "abilities": {
     "0": {
@@ -5961,8 +5961,8 @@
       "id": 850,
       "name": "Lucky Wings",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "851": {
       "id": 851,
@@ -11242,10 +11242,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "850": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "851": {
       "indicator": "🟠",
