@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 574,
+    "completed": 575,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:16:27.150894Z"
+    "generated_at": "2025-07-27T15:17:26.005423Z"
   },
   "abilities": {
     "0": {
@@ -5520,8 +5520,8 @@
       "id": 787,
       "name": "Cryo Architect",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "788": {
       "id": 788,
@@ -10864,10 +10864,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "787": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "788": {
       "indicator": "🟠",
