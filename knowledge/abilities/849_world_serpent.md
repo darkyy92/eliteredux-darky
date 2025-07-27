@@ -1,8 +1,8 @@
 ---
 id: 849
 name: World Serpent
-status: ai-generated
-character_count: 264
+status: reviewed
+character_count: 114
 ---
 
 # World Serpent - Ability ID 849
@@ -13,7 +13,7 @@ Physical non-contact moves deal 20% more damage. Contact moves can trap.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Physical non-contact moves deal 20% more damage. Contact moves have a 50% chance to trap the target (Bind effect) for 4-5 turns, or 7 turns with Grip Claw. Trapped foes cannot miss with their moves against the user. Combines the binding coils of mythical serpents.
+Physical non-contact moves deal 20% more damage. Contact moves have a 50% chance to trap the target for 4-5 turns.
 
 ## Detailed Mechanical Explanation
 
