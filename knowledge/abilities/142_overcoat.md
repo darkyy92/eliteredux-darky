@@ -1,8 +1,8 @@
 ---
 id: 142
 name: Overcoat
-status: ai-generated
-character_count: 253
+status: reviewed
+character_count: 296
 ---
 
 # Overcoat - Ability ID 142
@@ -13,7 +13,7 @@ character_count: 253
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Overcoat provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming special damage by 20%.
+Provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming special damage by 20%. Multiplicative with other damage reduction sources.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
