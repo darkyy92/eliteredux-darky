@@ -118,7 +118,7 @@ In Progress: 0
 | 107 | Anticipation               | ✅       | ❌        |
 | 108 | Forewarn                   | ✅       | ❌        |
 | 109 | Unaware                    | ✅       | ❌        |
-| 110 | Tinted Lens                | ✅       | ❌        |
+| 110 | Tinted Lens                | ✅       | ✅        |
 | 111 | Filter                     | ✅       | ❌        |
 | 112 | Slow Start                 | ✅       | ❌        |
 | 113 | Scrappy                    | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 594,
+    "completed": 595,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:19:51.136239Z"
+    "generated_at": "2025-07-27T16:21:23.288838Z"
   },
   "abilities": {
     "0": {
@@ -781,8 +781,8 @@
       "id": 110,
       "name": "Tinted Lens",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "111": {
       "id": 111,
@@ -6802,10 +6802,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "110": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "111": {
       "indicator": "🟠",

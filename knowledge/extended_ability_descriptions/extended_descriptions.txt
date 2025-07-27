@@ -323,7 +323,7 @@ Forewarn automatically casts an 80 BP Future Sight on the opposing Pokemon when 
 Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers like Dragon Dance users and ignore defensive boosts, while also being unaffected by opponent stat debuffs.
 
 # ID: 110
-Tinted Lens doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x, turning weak hits into normal damage. This makes the Pokemon's attacks much harder to wall and improves coverage against defensive switch-ins.
+Doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x.
 
 # ID: 111
 Filter reduces damage from super-effective attacks by 35%, making them deal only 65% of their normal damage. This effectively changes a 2x super-effective hit to 1.3x damage. Stacks with other damage reduction. The ability can be bypassed by Mold Breaker, Teravolt, and Turboblaze.
