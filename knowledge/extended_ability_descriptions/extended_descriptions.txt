@@ -2489,7 +2489,7 @@ Keen Edge moves become Special (deal Special damage and use the Special Attack s
 Upon entering battle, adds Electric to the user's current typing. Retains Electric typing even upon losing the ability, going away only when switching out.
 
 # ID: 848
-Superheavy grants immunity to forced switching moves (Roar, Whirlwind, Circle Throw, Dragon Tail) and raises Speed by +1 stage when flinched. Both effects are permanently active as this is an innate ability. Speed boosts can stack up to +6 stages with repeated flinches.
+Getting flinched raises Speed by one stage. Prevents forced switching from moves and Red Card.
 
 # ID: 849
 Physical non-contact moves deal 20% more damage. Contact moves have a 50% chance to trap the target (Bind effect) for 4-5 turns, or 7 turns with Grip Claw. Trapped foes cannot miss with their moves against the user. Combines the binding coils of mythical serpents.
