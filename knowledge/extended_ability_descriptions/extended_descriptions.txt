@@ -2225,7 +2225,7 @@ When hit by any Fire or Flying moves, boost Defense and Special Defense by one s
 Increases the power of all kicking moves by 30%. Includes Pyro Ball. Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 757
-Doom Blast boosts all Dark-type moves by 35% damage but causes 10% recoil damage after each Dark-type attack. The recoil is calculated as 5% of damage dealt with a minimum of 1 HP. Creates high-risk, high-reward Dark-type sweeping potential at the cost of gradual self-damage.
+Boosts Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
 
 # ID: 758
 Bruteforce combines Reckless and Rock Head effects. Boosts recoil moves by 20% damage while preventing all recoil damage taken. Grants immunity to confusion status and removes confusion when hit by moves that would cause it. Perfect for aggressive attackers using high-risk moves.

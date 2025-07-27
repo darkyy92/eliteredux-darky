@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 539,
+    "completed": 540,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T12:20:19.164441Z"
+    "generated_at": "2025-07-27T12:21:04.628598Z"
   },
   "abilities": {
     "0": {
@@ -5310,8 +5310,8 @@
       "id": 757,
       "name": "Doom Blast",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "758": {
       "id": 758,
@@ -10684,10 +10684,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "757": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "758": {
       "indicator": "🟠",

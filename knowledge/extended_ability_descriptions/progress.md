@@ -765,7 +765,7 @@ In Progress: 0
 | 754 | Puffy                      | ✅       | ✅        |
 | 755 | Balloon Blitz              | ✅       | ✅        |
 | 756 | Striker Pixilate           | ✅       | ✅        |
-| 757 | Doom Blast                 | ✅       | ❌        |
+| 757 | Doom Blast                 | ✅       | ✅        |
 | 758 | Bruteforce                 | ✅       | ❌        |
 | 759 | Faraday Cage               | ✅       | ❌        |
 | 760 | Acidic Slime               | ✅       | ❌        |
