@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 523,
+    "completed": 524,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T02:06:44.388711Z"
+    "generated_at": "2025-07-27T02:09:21.191072Z"
   },
   "abilities": {
     "0": {
@@ -5205,8 +5205,8 @@
       "id": 742,
       "name": "Magical Fists",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "743": {
       "id": 743,
@@ -10594,10 +10594,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "742": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "743": {
       "indicator": "🟠",

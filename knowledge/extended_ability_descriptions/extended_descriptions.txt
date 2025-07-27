@@ -2180,7 +2180,7 @@ When the user applies burn, they also apply fear. Fear traps the target for 2 tu
 Boosts Speed by 50% during rain. Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn.
 
 # ID: 742
-Punching moves use Special Attack and get 30% boost. Affects all Iron Fist moves, turning physical punches into special attacks. Perfect for special attackers wanting additional punching coverage types. Grumpig and Darmanitan Redux Aura notably have access to this very powerful ability.
+Punching moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 # ID: 743
 First slicing move gets +1 priority, then ability deactivates. Sharpen move uniquely RESETS this ability, allowing repeated priority slicing. Coil does NOT reset it. Works with moves having keen edge flag like Sacred Sword. Perfect for Sharpen + slicing combos.
