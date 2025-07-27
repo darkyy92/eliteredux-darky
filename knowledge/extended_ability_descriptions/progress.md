@@ -743,7 +743,7 @@ In Progress: 0
 | 732 | Blade Dance                | ✅       | ✅        |
 | 733 | Taekkyeon                  | ✅       | ✅        |
 | 734 | Ape Shift                  | ✅       | ✅        |
-| 735 | Know Your Place            | ✅       | ❌        |
+| 735 | Know Your Place            | ✅       | ✅        |
 | 736 | Deep Cuts                  | ✅       | ❌        |
 | 737 | Life Steal                 | ✅       | ❌        |
 | 738 | Rude Awakening             | ✅       | ❌        |

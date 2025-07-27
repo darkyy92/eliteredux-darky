@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 514,
+    "completed": 515,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:49:53.014794Z"
+    "generated_at": "2025-07-27T01:53:22.086554Z"
   },
   "abilities": {
     "0": {
@@ -5156,8 +5156,8 @@
       "id": 735,
       "name": "Know Your Place",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "736": {
       "id": 736,
@@ -10552,10 +10552,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "735": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "736": {
       "indicator": "🟠",
