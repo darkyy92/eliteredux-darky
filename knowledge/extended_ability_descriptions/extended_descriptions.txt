@@ -299,7 +299,7 @@ Reduces damage by 30% when moving before the opponent. Works when the user switc
 Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts.
 
 # ID: 102
-Leaf Guard cures the Pokemon's status conditions at the end of each turn during sunny weather. Works with regular sun, harsh sunlight from Drought, and extremely harsh sunlight from Desolate Land. Status healing occurs after damage from burn/poison. Pairs well with sun teams.
+During sun, cures all status conditions at the end of the turn.
 
 # ID: 103
 Klutz disables all held item effects including berries, stat boosts, damage multipliers, and special abilities. Items can still be knocked off or stolen but give no benefits. Item-based moves like Fling fail. Mega Stones bypass this restriction allowing mega evolution despite the ability.

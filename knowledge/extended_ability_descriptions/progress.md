@@ -110,7 +110,7 @@ In Progress: 0
 |  99 | No Guard                   | ✅       | ✅        |
 | 100 | Stall                      | ✅       | ✅        |
 | 101 | Technician                 | ✅       | ❌        |
-| 102 | Leaf Guard                 | ✅       | ❌        |
+| 102 | Leaf Guard                 | ✅       | ✅        |
 | 103 | Klutz                      | ✅       | ❌        |
 | 104 | Mold Breaker               | ✅       | ✅        |
 | 105 | Super Luck                 | ✅       | ❌        |
