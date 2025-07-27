@@ -1,8 +1,8 @@
 ---
 id: 774
 name: Corrupted Mind
-status: ai-generated
-character_count: 273
+status: reviewed
+character_count: 229
 ---
 
 # Corrupted Mind - Ability ID 774
@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Psychic-type moves bypass all type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%, making status infliction more reliable.
+Psychic-type moves bypass type resistances and immunities, hitting for at least neutral damage regardless of the target's typing. Additionally, all secondary effects of Psychic moves have their activation chance increased by 40%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
