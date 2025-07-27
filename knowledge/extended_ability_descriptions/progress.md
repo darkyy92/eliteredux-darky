@@ -726,7 +726,7 @@ In Progress: 0
 | 715 | Hover                      | ✅       | ✅        |
 | 716 | Depravity                  | ✅       | ✅        |
 | 717 | Wildfire                   | ✅       | ✅        |
-| 718 | Jump Scare                 | ✅       | ❌        |
+| 718 | Jump Scare                 | ✅       | ✅        |
 | 719 | Tar Toss                   | ✅       | ❌        |
 | 720 | Stun Shock                 | ✅       | ❌        |
 | 721 | Raging Goddess             | ✅       | ❌        |

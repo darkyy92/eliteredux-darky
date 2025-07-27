@@ -2111,7 +2111,7 @@ Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, 
 Uses Fire Spin upon switching into battle, a 50 BP Fire-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out until the trap ends.
 
 # ID: 718
-Jump Scare automatically uses Astonish when the Pokemon switches into battle, but only on the first entry per battle. Astonish is a 40 power Ghost-type move with priority +3 that causes flinching. The one-time restriction prevents repeated switch abuse while maintaining surprise factor.
+Uses Astonish on switch in, a 40 BP Ghost-type Physical move with +3 priority that always causes flinching. Once per battle.
 
 # ID: 719
 Tar Toss automatically uses Tar Shot when switching into battle. The tar covers opponents, lowering their Speed by one stage and making them take double damage from Fire-type moves. Only works once per target per battle. Excellent for setting up Fire-type teammates or sweepers.
