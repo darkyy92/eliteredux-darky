@@ -1,8 +1,8 @@
 ---
 id: 836
 name: Biofilm
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 68
 ---
 
 # Biofilm - Ability ID 836
@@ -13,7 +13,7 @@ Biofilm provides a significant defensive boost to the user's Special Defense whe
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Secrets a protective toxic film when exposed to Toxic Terrain, reinforcing cellular membranes against energy-based attacks. This biofilm coating increases Special Defense by 50% while the user remains in contact with the poisonous ground, making them remarkably resilient to special moves.
+Boosts the user's Special Defense stat by 50% when in Toxic Terrain. 
 
 ## Detailed Mechanical Explanation
 
