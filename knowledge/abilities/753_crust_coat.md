@@ -1,8 +1,8 @@
 ---
 id: 753
 name: Crust Coat
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 215
 ---
 
 # Crust Coat - Ability ID 753
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Crust Coat provides comprehensive defensive protection by making the Pokemon immune to critical hits and reducing all incoming damage by 20%. This dual defense mechanism is particularly effective against high-critical-hit-ratio moves and strong attackers, making it excellent for tanky builds.
+Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
