@@ -1,8 +1,8 @@
 ---
 id: 821
 name: Scarecrow
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 280
 ---
 
 # Scarecrow - Ability ID 821
@@ -13,7 +13,7 @@ Scare + Bad Luck.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Scarecrow combines Scare and Bad Luck abilities. On entry, it lowers all foes' Sp.Atk by 1 stage. It prevents foes from landing critical hits and reduces their secondary effect chances below 100% to 0%. Affects both foes in doubles. Merges intimidation with complete RNG manipulation.
+Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by one stage. Foes can not land critical hits, always roll minimum damage (85% instead of 85-100%), fail to inflict secondary effects that are not guaranteed, and have a 5% chance to miss a move.
 
 ## Detailed Mechanical Explanation
 
