@@ -1,8 +1,8 @@
 ---
 id: 708
 name: Roused Fangs
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 117
 ---
 
 # Roused Fangs - Ability ID 708
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Roused Fangs makes biting moves use Special Attack instead of Attack and boosts their damage by 30%. Works with Bite, Crunch, Fire Fang, Ice Fang, Thunder Fang, Poison Fang, and similar moves. Transforms physical biters into special attackers with enhanced power.
+Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
