@@ -1,8 +1,8 @@
 ---
 id: 22
 name: Intimidate
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 90
 ---
 
 # Intimidate - Ability ID 22
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Intimidate lowers opposing Pokemon's Attack by one stage upon switch-in. Affects all foes in doubles/triples. Works every time user enters battle, making it great for pivoting. Blocked by Clear Body, Hyper Cutter, Guard Dog (which gains Attack instead), Inner Focus, Own Tempo, Scrappy, Oblivious.
+Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
