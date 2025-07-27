@@ -2174,7 +2174,7 @@ Upon awakening, the user permanently gains immunity to sleep status and boosts a
 At full HP, all attacks towards the user deal "not very effective" damage regardless of type effectiveness. Activates on each hit of a multihit attack unlike other similar abilities. On entry, clears normal weathers and terrains.
 
 # ID: 740
-Set Ablaze causes the Pokemon to inflict fear status alongside burn whenever it successfully burns an opponent. Fear prevents the target from switching out or using status moves. Works with all burn-inflicting moves and abilities. Creates powerful control combinations.
+When the user applies burn, they also apply fear. Fear traps the target for 2 turns and they take 50% more damage. If forced out by moves like Whirlwind, the target loses Fear.
 
 # ID: 741
 Swift Swim boosts Speed by 50% during rain weather. Stall reduces damage by 30% when moving before the opponent. Both effects stack for excellent defensive rain sweeping. Works with all rain types including Primordial Sea. Strategic positioning for optimal benefits.

@@ -748,7 +748,7 @@ In Progress: 0
 | 737 | Life Steal                 | ✅       | ✅        |
 | 738 | Rude Awakening             | ✅       | ✅        |
 | 739 | Teraform Zero              | ✅       | ✅        |
-| 740 | Set Ablaze                 | ✅       | ❌        |
+| 740 | Set Ablaze                 | ✅       | ✅        |
 | 741 | Breakwater                 | ✅       | ❌        |
 | 742 | Magical Fists              | ✅       | ❌        |
 | 743 | Cutthroat                  | ✅       | ❌        |

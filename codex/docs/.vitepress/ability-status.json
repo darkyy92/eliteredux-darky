@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 519,
+    "completed": 520,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:59:58.721069Z"
+    "generated_at": "2025-07-27T02:01:20.293855Z"
   },
   "abilities": {
     "0": {
@@ -5191,8 +5191,8 @@
       "id": 740,
       "name": "Set Ablaze",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "741": {
       "id": 741,
@@ -10582,10 +10582,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "740": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "741": {
       "indicator": "🟠",
