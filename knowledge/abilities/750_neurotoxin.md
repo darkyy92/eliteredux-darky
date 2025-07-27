@@ -1,8 +1,8 @@
 ---
 id: 750
 name: Neurotoxin
-status: ai-generated
-character_count: 227
+status: reviewed
+character_count: 126
 ---
 
 # Neurotoxin - Ability ID 750
@@ -13,7 +13,7 @@ character_count: 227
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon poisons an opponent, the toxic effects also weaken their offensive capabilities and mobility. Each poisoned foe has their Attack, Special Attack, and Speed lowered by one stage immediately upon being poisoned.
+When inflicting poison on an opponent, drop their Attack, Special Attack, and Speed by one stage immediately after it applies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
