@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Prevents all non-Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
+Makes all attacks hit twice in succession. First hit deals 100%, second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
