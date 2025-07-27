@@ -1,8 +1,8 @@
 ---
 id: 738
 name: Rude Awakening
-status: ai-generated
-character_count: 263
+status: reviewed
+character_count: 119
 ---
 
 # Rude Awakening - Ability ID 738
@@ -13,7 +13,7 @@ character_count: 263
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rude Awakening activates when the Pokemon wakes up from sleep naturally or forced awake. Upon awakening, the Pokemon permanently gains immunity to sleep status and receives a boost to all stats. The ability only triggers once per battle after first wake-up event.
+Upon awakening, the user permanently gains immunity to sleep status and boosts all stats by one stage. Once per battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
