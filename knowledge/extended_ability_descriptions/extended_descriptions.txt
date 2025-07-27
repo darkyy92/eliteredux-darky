@@ -2165,7 +2165,7 @@ Landing contact moves causes the target to always move last regardless of priori
 Keen Edge have a 50% chance to inflict bleeding on hit. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding.immune to bleeding. Multihits roll the activation chance on each hit.
 
 # ID: 737
-Life Steal drains 1/10 of each opponent's maximum HP at the end of every turn and restores that amount to the user. Affects all living opponents simultaneously. Ignores substitutes and type immunities but can be blocked by Magic Guard. Provides consistent recovery and offensive pressure.
+Drains 1/10 of each active opponent's max HP at the end of every turn and restores that amount to the user. Ignores Substitute.
 
 # ID: 738
 Rude Awakening activates when the Pokemon wakes up from sleep naturally or forced awake. Upon awakening, the Pokemon permanently gains immunity to sleep status and receives a boost to all stats. The ability only triggers once per battle after first wake-up event.

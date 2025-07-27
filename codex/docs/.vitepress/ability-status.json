@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 516,
+    "completed": 517,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:55:40.504192Z"
+    "generated_at": "2025-07-27T01:56:58.527770Z"
   },
   "abilities": {
     "0": {
@@ -5170,8 +5170,8 @@
       "id": 737,
       "name": "Life Steal",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "738": {
       "id": 738,
@@ -10564,10 +10564,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "737": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "738": {
       "indicator": "🟠",
