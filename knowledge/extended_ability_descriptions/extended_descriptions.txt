@@ -2093,7 +2093,7 @@ Uses Yawn on switch in, targeting the opposing Pokemon. Yawn causes drowsiness t
 Copies lunar moves when other Pokemon use them in battle. Includes Moonlight, Moonblast, Lunar Dance, and Lunar Blessing. Triggers once per move.
 
 # ID: 712
-Flame Shield reduces damage from super-effective moves by 35%, helping Pokemon survive type disadvantages. Works against all attacks with 2x or greater effectiveness. The damage reduction applies before other calculations, making it valuable for frail Pokemon facing coverage moves.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 713
 Aquatic Dweller combines two powerful effects: adds Water typing to the Pokemon and boosts all Water-type moves by 50%. The additional Water typing provides STAB bonuses and resistances while the damage boost makes Water attacks significantly stronger. Perfect for mixed attackers.

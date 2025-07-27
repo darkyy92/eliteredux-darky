@@ -720,7 +720,7 @@ In Progress: 0
 | 709 | Dream State                | ✅       | ✅        |
 | 710 | Dream Whimsy               | ✅       | ✅        |
 | 711 | Lunar Affinity             | ✅       | ✅        |
-| 712 | Flame Shield               | ✅       | ❌        |
+| 712 | Flame Shield               | ✅       | ✅        |
 | 713 | Aquatic Dweller            | ✅       | ❌        |
 | 714 | Apple Pie                  | ✅       | ❌        |
 | 715 | Hover                      | ✅       | ❌        |
