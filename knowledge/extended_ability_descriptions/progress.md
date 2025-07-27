@@ -829,7 +829,7 @@ In Progress: 0
 | 818 | Tentalock (N)              | ✅       | ✅        |
 | 819 | Serpent Bind (N)           | ✅       | ✅        |
 | 820 | Soul Tap                   | ✅       | ✅        |
-| 821 | Scarecrow                  | ✅       | ❌        |
+| 821 | Scarecrow                  | ✅       | ✅        |
 | 822 | Ominous Shroud             | ✅       | ❌        |
 | 823 | Chilling Presence          | ✅       | ❌        |
 | 824 | Frostbind                  | ✅       | ❌        |

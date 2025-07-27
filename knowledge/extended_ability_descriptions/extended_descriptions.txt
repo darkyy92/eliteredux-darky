@@ -2414,7 +2414,7 @@ Gives attacks a 50% chance to trap the target for 4-5 turns, preventing escape o
 While fog is active, drains 1/10 of each active opponent's max HP at the end of every turn and restores that amount to the user. Ignores Substitute.
 
 # ID: 821
-Scarecrow combines Scare and Bad Luck abilities. On entry, it lowers all foes' Sp.Atk by 1 stage. It prevents foes from landing critical hits and reduces their secondary effect chances below 100% to 0%. Affects both foes in doubles. Merges intimidation with complete RNG manipulation.
+Upon entering battle, the user drops the Special Attack stat of all opposing Pokemon by one stage. Foes can not land critical hits, always roll minimum damage (85% instead of 85-100%), fail to inflict secondary effects that are not guaranteed, and have a 5% chance to miss a move.
 
 # ID: 822
 Ominous Shroud grants Ghost typing upon entering battle and reduces all damage by 50% when at full HP. The Ghost typing remains throughout battle, granting immunity to Normal and Fighting moves. The damage reduction is lost when HP drops below maximum but returns when healed to full.
