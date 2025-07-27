@@ -1,8 +1,8 @@
 ---
 id: 717
 name: Wildfire
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 200
 ---
 
 # Wildfire - Ability ID 717
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Wildfire automatically uses Fire Spin upon switching into battle, dealing 50 base power Fire-type damage and trapping the opponent for 2-5 turns. The trapped opponent takes 1/8 max HP damage each turn and cannot switch out until the trap ends. Perfect for securing KOs.
+Uses Fire Spin upon switching into battle, a 50 BP Fire-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out until the trap ends. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
