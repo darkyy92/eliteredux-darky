@@ -1,8 +1,8 @@
 ---
 id: 97
 name: Sniper
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 87
 ---
 
 # Sniper - Ability ID 97
@@ -13,7 +13,7 @@ Critical hits have a 2.25x dmg multiplier instead of 1.5x.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sniper boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. Works excellently with high crit-ratio moves like Night Slash, Leaf Blade, and Cross Chop. Pairs well with Focus Energy (+2 crit stages) and crit-boosting items like Scope Lens or Razor Claw.
+Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier. 
 
 ## Detailed Mechanical Explanation
 
