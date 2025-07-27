@@ -1,8 +1,8 @@
 ---
 id: 23
 name: Shadow Tag
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 145
 ---
 
 # Shadow Tag - Ability ID 23
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shadow Tag traps opposing Pokemon, preventing them from switching out through normal means. Ghost-type Pokemon are completely immune to this trapping effect. Other Shadow Tag users can also switch freely. While trapped, opponents must KO the Shadow Tag user or use special switch moves to escape.
+Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
