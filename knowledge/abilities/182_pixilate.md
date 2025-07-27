@@ -1,8 +1,8 @@
 ---
 id: 182
 name: Pixilate
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 91
 ---
 
 # Pixilate - Ability ID 182
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pixilate transforms all Normal-type attacking moves into Fairy-type moves and boosts their power by 20%. The Pokemon gains STAB from these converted moves if it's part Fairy-type. Works with moves like Hyper Beam, Return, and Boomburst, making them strong Fairy attacks. Perfect for mixed attackers.
+Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
