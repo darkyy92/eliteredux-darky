@@ -1,8 +1,8 @@
 ---
 id: 100
 name: Stall
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 96
 ---
 
 # Stall - Ability ID 100
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Takes 30% less damage when attacked before moving this turn. Activates when opponents act first due to higher speed or priority moves. Works on physical, special and fixed damage. Benefits slow Pokemon and Trick Room teams. Damage reduction applies to all attacks received before the user's turn.
+Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn.
 
 ## Detailed Mechanical Explanation
 
