@@ -1,8 +1,8 @@
 ---
 id: 797
 name: Embody Aspect (Cornerstone)
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 74
 ---
 
 # Embody Aspect (Cornerstone) - Ability ID 797
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Embody Aspect (Cornerstone) raises the Pokemon's Defense by one stage immediately upon switching into battle. This defensive boost occurs regardless of how the Pokemon enters battle, whether through normal switching, forced switching, or other entry methods.
+Raises the Pokemon's Defense stat by one stage when switching into battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
