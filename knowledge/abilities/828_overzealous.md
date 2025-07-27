@@ -1,8 +1,8 @@
 ---
 id: 828
 name: Overzealous
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 24
 ---
 
 # Overzealous - Ability ID 828
@@ -13,7 +13,7 @@ User's super-effective moves have +1 prio.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Overzealous adds +1 priority to any damaging move that would be super-effective against the target. Priority boost stacks with base move priority (Quick Attack becomes +2). Works with all attack types and damage categories. Turns type advantage coverage moves into priority attacks.
+Will not be implemented. 
 
 ## Detailed Mechanical Explanation
 
