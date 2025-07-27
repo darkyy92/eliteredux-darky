@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 608,
+    "completed": 609,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T17:49:25.881236Z"
+    "generated_at": "2025-07-27T17:57:32.056375Z"
   },
   "abilities": {
     "0": {
@@ -5744,8 +5744,8 @@
       "id": 819,
       "name": "Serpent Bind (N)",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "820": {
       "id": 820,
@@ -11056,10 +11056,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "819": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "820": {
       "indicator": "🟠",

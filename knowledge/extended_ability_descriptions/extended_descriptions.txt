@@ -2408,7 +2408,7 @@ Forces self-confusion when entering fog. All incoming damage is reduced by 50% w
 Tentalock combines Grappler and Serpent Bind effects. Trapping moves last 6 turns and deal 1/6 max HP damage each turn. Additionally, when trapping opponents, there's a 50% chance to reduce their Speed by one stage each turn while trapped.
 
 # ID: 819
-Serpent Bind gives attacks a 50% chance to trap the target, preventing escape or switching. Once trapped, the victim's speed drops by one stage each turn they remain on the field. The binding effect persists until the user faints or switches out, maintaining constant pressure.
+Gives attacks a 50% chance to trap the target for 4-5 turns, preventing escape or switching. Once trapped, their speed drops by one stage each turn they remain on the field.
 
 # ID: 820
 Soul Tap drains 10% of max HP from all opposing Pokemon at the end of each turn during fog weather. The drained HP heals the user. Magic Guard blocks the damage. Ignores Substitute and Disguise. Requires active fog to function and affects all living opponents simultaneously.
