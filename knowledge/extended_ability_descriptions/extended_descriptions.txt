@@ -2309,7 +2309,7 @@ Uses Whirlpool upon switching into battle, a 50 BP Water-type Special move that 
 This ability combines two effects: it switches between two forms at the end of each turn like Hunger Switch, and boosts Electric and Dark-type moves. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.
 
 # ID: 786
-This Pokemon's soothing voice enhances the effectiveness of Sing, boosting its accuracy from a normally unreliable 60% to a much more dependable 90%. This makes sleep-inducing strategies far more viable in battle, especially against faster foes.
+Boosts Sing's accuracy to 90%. Does not lock to accuracy to 90%, the move still gets affected by accuracy/evasiveness changes.
 
 # ID: 787
 When hit by Water-type moves, immediately boosts Attack by 1 stage and triggers an additional Defense boost at the end of turn. When hit by Ice-type moves, immediately raises both Attack and Defense by 1 stage each. Creates excellent synergy with defensive Ice-types seeking offensive presence.

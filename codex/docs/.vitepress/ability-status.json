@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 573,
+    "completed": 574,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:15:11.259869Z"
+    "generated_at": "2025-07-27T15:16:27.150894Z"
   },
   "abilities": {
     "0": {
@@ -5513,8 +5513,8 @@
       "id": 786,
       "name": "Lullaby",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "787": {
       "id": 787,
@@ -10858,10 +10858,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "786": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "787": {
       "indicator": "🟠",
