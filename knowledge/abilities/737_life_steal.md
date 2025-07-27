@@ -1,8 +1,8 @@
 ---
 id: 737
 name: Life Steal
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 127
 ---
 
 # Life Steal - Ability ID 737
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Life Steal drains 1/10 of each opponent's maximum HP at the end of every turn and restores that amount to the user. Affects all living opponents simultaneously. Ignores substitutes and type immunities but can be blocked by Magic Guard. Provides consistent recovery and offensive pressure.
+Drains 1/10 of each active opponent's max HP at the end of every turn and restores that amount to the user. Ignores Substitute.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
