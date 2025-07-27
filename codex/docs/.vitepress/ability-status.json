@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 518,
+    "completed": 519,
     "written": 861,
     "pending": 15,
-    "generated_at": "2025-07-27T01:58:05.677957Z"
+    "generated_at": "2025-07-27T01:59:58.721069Z"
   },
   "abilities": {
     "0": {
@@ -5184,8 +5184,8 @@
       "id": 739,
       "name": "Teraform Zero",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "740": {
       "id": 740,
@@ -10576,10 +10576,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "739": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "740": {
       "indicator": "🟠",
