@@ -1,8 +1,8 @@
 ---
 id: 771
 name: Forsaken Heart
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 100
 ---
 
 # Forsaken Heart - Ability ID 771
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Whenever any Pokemon faints on the battlefield, this Pokemon's Attack rises by one stage. Unlike abilities such as Moxie that only activate when the user defeats an opponent, Forsaken Heart triggers from any KO that occurs during battle, including ally defeats.
+Raises Attack by one stage when any Pokemon faints on the battlefield, including allies and enemies.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
