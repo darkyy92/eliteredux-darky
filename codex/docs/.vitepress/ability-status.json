@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 623,
+    "completed": 624,
     "written": 859,
     "pending": 17,
-    "generated_at": "2025-07-27T18:29:21.310677Z"
+    "generated_at": "2025-07-27T18:31:13.676978Z"
   },
   "abilities": {
     "0": {
@@ -5828,8 +5828,8 @@
       "id": 831,
       "name": "Grass Flute",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "832": {
       "id": 832,
@@ -11128,10 +11128,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "831": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "832": {
       "indicator": "🟠",
