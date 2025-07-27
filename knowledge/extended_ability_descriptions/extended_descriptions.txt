@@ -2318,7 +2318,7 @@ When hit by any Water or Ice moves, boost Attack and Defense by one stage each. 
 After using an Ice-type move, the user follows up with a 50 BP Blizzard (Ice, 85% accuracy, hits both opponents, 20% frostbite chance. Weather-based).
 
 # ID: 789
-This Pokemon combines the defensive properties of both Impenetrable and Sturdy abilities. It is completely immune to all forms of indirect damage including poison, burn, weather effects, and entry hazards, while also surviving any attack that would knock it out from full HP with 1 HP remaining.
+Grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil. When at full HP, this Pokemon will survive any single attack with at least 1 HP remaining.
 
 # ID: 790
 Frenzied Phantom combines dual-strike attacks with trapping power. All damaging moves hit twice with the second hit dealing 25% damage, while simultaneously preventing opponents from switching. Ghost-types are immune to the trapping effect but still take double hits from attacks.

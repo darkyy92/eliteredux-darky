@@ -797,7 +797,7 @@ In Progress: 0
 | 786 | Lullaby                    | ✅       | ✅        |
 | 787 | Cryo Architect             | ✅       | ✅        |
 | 788 | Glacial Rage               | ✅       | ✅        |
-| 789 | Immovable Object           | ✅       | ❌        |
+| 789 | Immovable Object           | ✅       | ✅        |
 | 790 | Frenzied Phantom           | ✅       | ❌        |
 | 791 | DNA Scramble               | ✅       | ❌        |
 | 792 | Metallic Jaws              | ✅       | ❌        |
