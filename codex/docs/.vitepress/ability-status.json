@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 580,
+    "completed": 581,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T15:44:53.822121Z"
+    "generated_at": "2025-07-27T15:46:53.460187Z"
   },
   "abilities": {
     "0": {
@@ -5555,8 +5555,8 @@
       "id": 792,
       "name": "Metallic Jaws",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "793": {
       "id": 793,
@@ -10894,10 +10894,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "792": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "793": {
       "indicator": "🟠",
