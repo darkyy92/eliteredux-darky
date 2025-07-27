@@ -1,8 +1,8 @@
 ---
 id: 800
 name: Deviate
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 106
 ---
 
 # Deviate - Ability ID 800
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Deviate converts all Normal-type moves to Dark-type and provides STAB for Dark-type moves. This transformation affects all Normal-type moves including Tackle, Body Slam, and Hyper Beam. The ability grants immediate Dark-type STAB bonus for Pokemon that wouldn't normally receive it.
+Converts all Normal-type moves to Dark-type and grants STAB for Dark moves, regardless of the user's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
