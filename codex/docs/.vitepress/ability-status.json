@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 587,
+    "completed": 588,
     "written": 860,
     "pending": 16,
-    "generated_at": "2025-07-27T16:09:12.637230Z"
+    "generated_at": "2025-07-27T16:10:21.353955Z"
   },
   "abilities": {
     "0": {
@@ -5618,8 +5618,8 @@
       "id": 801,
       "name": "Sun's Bounty",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "802": {
       "id": 802,
@@ -10948,10 +10948,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "801": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "802": {
       "indicator": "🟠",
