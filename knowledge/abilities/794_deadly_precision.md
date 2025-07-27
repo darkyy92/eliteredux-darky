@@ -1,8 +1,8 @@
 ---
 id: 794
 name: Deadly Precision
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 174
 ---
 
 # Deadly Precision - Ability ID 794
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When using super-effective moves, this Pokemon gains perfect accuracy and ignores the target's defensive abilities. Works with all moves that deal 2x or higher damage, ensuring they connect and bypass abilities like Levitate, Flash Fire, or Water Absorb for maximum offensive pressure.
+Always land super effective attacks on the opponent. Allows super effective attacks to ignore the target's abilities and innates that interfere with effects or reduce damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
