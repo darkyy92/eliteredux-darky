@@ -1,8 +1,8 @@
 ---
 id: 856
 name: Molten Coat
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 232
 ---
 
 # Molten Coat - Ability ID 856
@@ -13,7 +13,7 @@ Mineralize + Rock moves have 50% burn chance.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This combination ability grants all Mineralize effects while adding dangerous burning. Normal moves become Rock-type with STAB. Additionally, whenever this Pokemon uses any Rock move that hits an opponent, there's a 50% chance to inflict burn. Transforms utility moves into offensive Rock attacks.
+Converts all Normal-type moves into Rock-type moves and grants STAB for Rock-type moves, regardless of the user's typing. Rock-type moves have a 50% chance to burn when landing them. Multihits roll the activation chance on each hit.
 
 ## Detailed Mechanical Explanation
 
@@ -70,7 +70,7 @@ constexpr Ability MoltenCoat = {
 ### Counterplay
 
 **Type Resistances:**
-- Steel-types resist Rock moves (Â½x damage)
+- Steel-types resist Rock moves (½x damage)
 - Fire-types resist Rock moves and are immune to burn
 - Flying-types are weak to Rock moves (2x damage)
 
