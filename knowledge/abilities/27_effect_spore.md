@@ -1,8 +1,8 @@
 ---
 id: 27
 name: Effect Spore
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 95
 ---
 
 # Effect Spore - Ability ID 27
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison (equal odds). Each status checks type immunities. Grass-types, Overcoat, and Safety Goggles block all effects. Defensive deterrent that punishes physical attackers with random debilitating status conditions.
+When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison. Chosen randomly. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
