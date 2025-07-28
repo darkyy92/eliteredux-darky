@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 693,
+    "completed": 694,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:37:10.311545Z"
+    "generated_at": "2025-07-28T13:38:02.676160Z"
   },
   "abilities": {
     "0": {
@@ -340,8 +340,8 @@
       "id": 47,
       "name": "Thick Fat",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "48": {
       "id": 48,
@@ -6424,10 +6424,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "47": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "48": {
       "indicator": "🟠",

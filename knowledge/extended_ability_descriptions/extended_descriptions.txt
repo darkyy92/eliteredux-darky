@@ -134,7 +134,7 @@ Summons a Sandstorm for 8 turns (12 with Smooth Rock) on entry. Damages non-Rock
 Doubles PP usage of opposing moves and clears all positive stat stages on entry.
 
 # ID: 47
-Provides resistance to Fire and Ice type attacks, taking only half damage from these types. This dual resistance makes the Pokemon exceptionally durable against temperature-based attacks, offering excellent switch-in opportunities and defensive staying power throughout long battles.
+Reduces damage received from Fire and Ice-type moves by 50%. Multiplicative with other sources of damage reduction.
 
 # ID: 48
 Early Bird allows the Pokemon to wake up from sleep twice as fast. While normal Pokemon subtract 1 sleep turn per turn, Early Bird users subtract 2 turns, effectively halving sleep duration. Works against all sleep-inducing moves and effects, making the Pokemon more resistant to sleep strategies.
