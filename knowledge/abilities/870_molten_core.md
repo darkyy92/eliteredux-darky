@@ -1,8 +1,8 @@
 ---
 id: 870
 name: Molten Core
-status: ai-generated
-character_count: 266
+status: reviewed
+character_count: 187
 ---
 
 # Molten Core - Ability ID 870
@@ -13,7 +13,7 @@ character_count: 266
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Molten Core combines Furnace effects with Rock-type absorption. On switch-in, gains +2 Speed from Stealth Rock and removes team's Stealth Rock. When hit by Rock moves, gains +2 Speed instead of taking damage. Perfect for handling Rock-type attacks and entry hazards.
+Boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Stealth Rock present. Also, absorbs any Rock-type or Stealth Rock damage and heals for 25% of their max HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
