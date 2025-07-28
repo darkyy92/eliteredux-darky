@@ -1,7 +1,7 @@
 ---
 id: 64
 name: Liquid Ooze
-status: ai-generated
+status: reviewed
 character_count: 278
 ---
 
