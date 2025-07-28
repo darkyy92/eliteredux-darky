@@ -1,8 +1,8 @@
 ---
 id: 857
 name: Royal Decree
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 102
 ---
 
 # Royal Decree - Ability ID 857
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically uses Glare on entry once per battle, paralyzing a random opponent. Additionally, provides royal protection that blocks all enemy priority moves targeting this Pokemon or its allies, similar to Queenly Majesty's regal authority over the battlefield.
+Prevents the user and its ally from being targeted by priority moves with priority higher than 0. Once
 
 ## Detailed Mechanical Explanation
 
