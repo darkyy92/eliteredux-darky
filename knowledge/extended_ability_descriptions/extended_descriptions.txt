@@ -221,7 +221,7 @@ Increases the user's Attack stat by 2x. Multiplicative with other damage boosts.
 Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.
 
 # ID: 76
-Air Lock clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
+Clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits. Works on all weather including primal conditions.
 
 # ID: 77
 Tangled Feet halves opponents' accuracy when this Pokemon is confused. The chaotic, unsteady movements from confusion make the Pokemon harder to hit. Works against all moves targeting this Pokemon, including status moves. Only functions while confused; provides no benefit otherwise.

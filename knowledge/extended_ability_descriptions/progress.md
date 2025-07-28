@@ -84,7 +84,7 @@ In Progress: 0
 |  73 | White Smoke                | ✅       | ✅        |
 |  74 | Pure Power                 | ✅       | ✅        |
 |  75 | Shell Armor                | ✅       | ✅        |
-|  76 | Air Lock                   | ✅       | ❌        |
+|  76 | Air Lock                   | ✅       | ✅        |
 |  77 | Tangled Feet               | ✅       | ❌        |
 |  78 | Motor Drive                | ✅       | ❌        |
 |  79 | Rivalry                    | ✅       | ❌        |
