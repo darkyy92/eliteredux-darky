@@ -2,7 +2,7 @@
 id: 694
 name: Blind Rage
 status: reviewed
-character_count: 240
+character_count: 297
 ---
 
 # Blind Rage - Ability ID 694
@@ -13,7 +13,7 @@ Scrappy + Mold Breaker effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-The user can land Normal and Fighting-type moves on Ghost-type Pokemon for neutral damage. Also grants immunity to Intimidate and Scare. Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage.
+The user can land Normal and Fighting-type moves on Ghost-types for neutral damage. Grants immunity to Intimidate and Scare. Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt.
 
 ## Detailed Mechanical Explanation
 
