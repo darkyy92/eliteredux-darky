@@ -1,8 +1,8 @@
 ---
 id: 40
 name: Magma Armor
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 137
 ---
 
 # Magma Armor - Ability ID 40
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Magma Armor grants complete immunity to the frostbite status condition and reduces damage from Water and Ice-type moves by 30%. This defensive ability is particularly effective against Ice-type Pokemon and moves that inflict frostbite. The resistance helps mitigate common weaknesses.
+Immune to frostbite. Reduces damage received from Water and Ice-type moves by 30%. Multiplicative with other sources of damage reduction. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
