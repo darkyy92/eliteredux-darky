@@ -1,8 +1,8 @@
 ---
 id: 55
 name: Hustle
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 101
 ---
 
 # Hustle - Ability ID 55
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hustle boosts the power of physical moves by 1.4x but reduces their accuracy to 90% of normal. Only affects non-status moves - status moves maintain perfect accuracy. High risk, high reward ability that trades reliability for raw power. Essential for frail attackers needing extra damage.
+Boosts the power of attacks by 1.4x but reduces their accuracy by 10%. Only affects non-status moves. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
