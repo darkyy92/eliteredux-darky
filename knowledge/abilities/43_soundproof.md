@@ -1,8 +1,8 @@
 ---
 id: 43
 name: Soundproof
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 81
 ---
 
 # Soundproof - Ability ID 43
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Soundproof grants complete immunity to all sound-based moves. Blocks damage moves like Boomburst and Hyper Voice, status moves like Sing and Supersonic, and utility moves like Heal Bell and Perish Song. Mold Breaker can bypass this immunity. Self-targeting sound moves are not blocked.
+Grants immunity to sound-based moves. Self-targeting sound moves are not blocked.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
