@@ -2372,7 +2372,7 @@ Upon entering battle, uses Forest's Curse on a random opponent, adding Grass typ
 When hit by a contact move, the user suppresses the attacker's ability and innates until they switch out.
 
 # ID: 809
-When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations.
+When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. Choice Scarf does not affect this ability.
 
 # ID: 810
 When hit by non-contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations.
