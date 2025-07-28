@@ -1,8 +1,8 @@
 ---
 id: 16
 name: Color Change
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 155
 ---
 
 # Color Change - Ability ID 16
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Color Change analyzes incoming attacks and instantly transforms the user into the best defensive type BEFORE taking damage. Prioritizes immunities over resistances, changing to pure type for maximum defense. Can only activate once per turn. Major defensive upgrade from original ability.
+Transforms the user into the best defensive type before taking damage. Prioritizes immunities over resistances. Only changes to a pure type. Once per turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
