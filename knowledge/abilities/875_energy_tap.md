@@ -1,8 +1,8 @@
 ---
 id: 875
 name: Energy Tap
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 135
 ---
 
 # Energy Tap - Ability ID 875
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Energy Tap heals the Pokemon for 1/8 of all damage dealt to opponents. Works with any damaging move that successfully hits and deals damage. Healing occurs immediately after damage calculation. Does not heal if already at maximum HP. Excellent for sustaining offensive Pokemon in battle.
+Heals the user for 1/8 of all damage they deal to opponents. Healing occurs immediately after damage is dealt. Minimum healing of 1 HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
