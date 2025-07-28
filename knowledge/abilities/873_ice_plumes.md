@@ -1,8 +1,8 @@
 ---
 id: 873
 name: Ice Plumes
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 97
 ---
 
 # Ice Plumes - Ability ID 873
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Plumes reduces damage from all special moves by 50% through damage calculation rather than stat boosts. Works against all special attacks including Hidden Power and Weather Ball. Does not affect physical moves or entry hazards. Provides reliable special bulk without stat modification stacking.
+Halves all incoming Special Attack damage. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
