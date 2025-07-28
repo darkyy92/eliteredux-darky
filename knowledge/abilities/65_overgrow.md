@@ -1,8 +1,8 @@
 ---
 id: 65
 name: Overgrow
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 279
 ---
 
 # Overgrow - Ability ID 65
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Overgrow boosts all Grass-type moves by 1.2x power normally, increasing to 1.5x power when the Pokemon's HP drops to 1/3 or below. This ability activates automatically in battle, making it ideal for Grass-type attackers who can capitalize on consistent damage and emergency power.
+Overgrow boosts all Grass-type moves by 1.2x power normally, increasing to 1.5x power when the Pokemon's HP drops to 1/3 or below. This ability activates automatically in battle, making it ideal for Grass-type attackers who can capitalize on consistent damage and emergency power
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
