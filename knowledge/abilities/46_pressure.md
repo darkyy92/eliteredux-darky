@@ -1,8 +1,8 @@
 ---
 id: 46
 name: Pressure
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 80
 ---
 
 # Pressure - Ability ID 46
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pressure doubles PP usage of opposing moves and clears all stat buffs on entry. Pressure bearer keeps their stat drops while removing positive buffs from all opponents. Opposing moves cost 2 PP instead of 1, accelerating resource depletion. Displays "is exerting its pressure!" upon entry.
+Doubles PP usage of opposing moves and clears all positive stat stages on entry. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
