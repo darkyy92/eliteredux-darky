@@ -1,8 +1,8 @@
 ---
 id: 32
 name: Serene Grace
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 79
 ---
 
 # Serene Grace - Ability ID 32
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Doubles the chance of all secondary effects from this Pokemon's moves. Turns unreliable effects into consistent threats: 20% flinch becomes 40%, 10% freeze becomes 20%. Stacks with Rainbow weather for 4x effect rates. Makes status, stat changes, and flinches far more likely to occur.
+Doubles the activation chance of the user's secondary effects on their attacks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
