@@ -2,7 +2,7 @@
 id: 499
 name: Refrigerator
 status: reviewed
-character_count: 157
+character_count: 194
 ---
 
 # Refrigerator - Ability ID 499
@@ -13,7 +13,7 @@ character_count: 157
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Additionally boosts the accuracy of all moves by 20%.
+Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Boosts the user's accuracy by 1.2x. Removes Ghost-typing on target when landing an attack.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
