@@ -2,7 +2,7 @@
 id: 810
 name: Elude
 status: reviewed
-character_count: 125
+character_count: 168
 ---
 
 # Elude - Ability ID 810
@@ -13,7 +13,7 @@ character_count: 125
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by non-contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations.
+When hit by non-contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
