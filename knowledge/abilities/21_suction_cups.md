@@ -1,8 +1,8 @@
 ---
 id: 21
 name: Suction Cups
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 50
 ---
 
 # Suction Cups - Ability ID 21
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Suction Cups anchors the Pokemon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.
+Prevents forced switching from moves and Red Card.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
