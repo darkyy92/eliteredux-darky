@@ -2,7 +2,7 @@
 id: 857
 name: Royal Decree
 status: reviewed
-character_count: 102
+character_count: 157
 ---
 
 # Royal Decree - Ability ID 857
@@ -13,7 +13,7 @@ character_count: 102
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents the user and its ally from being targeted by priority moves with priority higher than 0. Once
+Prevents the user and its ally from being targeted by priority moves with priority higher than 0. Use Glare on entry, paralyzing the target. Once per battle.
 
 ## Detailed Mechanical Explanation
 
