@@ -122,7 +122,7 @@ Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to bu
 Prevents Steel-type Pokemon from switching out while the user is present. Ghost-types are immune to this effect. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle.
 
 # ID: 43
-Soundproof grants complete immunity to all sound-based moves. Blocks damage moves like Boomburst and Hyper Voice, status moves like Sing and Supersonic, and utility moves like Heal Bell and Perish Song. Mold Breaker can bypass this immunity. Self-targeting sound moves are not blocked.
+Grants immunity to sound-based moves. Self-targeting sound moves are not blocked.
 
 # ID: 44
 Rain Dish restores HP when rain weather is active, healing 1/8 of maximum HP at the end of each turn. Works with all rain types including Drizzle and Primordial Sea. Healing is blocked by Heal Block, Bleed status, Blood Stain effect, or opposing Permanence ability. Enhanced by Big Root item.
