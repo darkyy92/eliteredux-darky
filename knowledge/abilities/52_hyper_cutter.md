@@ -1,8 +1,8 @@
 ---
 id: 52
 name: Hyper Cutter
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 186
 ---
 
 # Hyper Cutter - Ability ID 52
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hyper Cutter prevents enemies from lowering the user's Attack or Special Attack stats through moves or abilities. All contact moves used by this Pokemon have their critical hit rate increased by one stage. Provides immunity to Intimidate and stat-lowering moves like Growl affecting Attack/SpAtk.
+Hyper Cutter prevents enemies from lowering the user's Attack stat through moves or abilities. All contact moves used by this Pokemon have their critical hit rate increased by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
