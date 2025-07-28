@@ -2,7 +2,7 @@
 id: 120
 name: Reckless
 status: reviewed
-character_count: 103
+character_count: 285
 ---
 
 # Reckless - Ability ID 120
@@ -13,7 +13,7 @@ character_count: 103
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves.
+Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves. Also grants Mold Breaker effects to these moves, allowing them to ignore abilities and innates that block effects or reduce damage. Does not bypass abilities that modify base stats. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
