@@ -1,8 +1,8 @@
 ---
 id: 872
 name: Aurora's Gale
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 252
 ---
 
 # Aurora's Gale - Ability ID 872
@@ -13,8 +13,8 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Aurora's Gale combines two powerful effects: boosts the Pokemon's Special Attack by 50% and automatically sets up Aurora Veil upon entry. Aurora Veil reduces incoming damage from all attacks by 50% in singles or 33% in doubles for 5 turns, providing both offensive power and defensive support.
-
+Boosts the user's Special Attack stat by 50%. Multiplicative with other damage boosts. Sets up Aurora Veil on entry, cutting physical and special damage recieved by half for your allies. Lasts 5 turns, or 8 turns with Light Clay. Immune to Hail damage.
+ 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
