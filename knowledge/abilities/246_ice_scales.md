@@ -13,7 +13,7 @@ character_count: 97
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Halves all incoming special attack damage. Multiplicative with other sources of damage reduction.   
+Halves all incoming Special Attack damage. Multiplicative with other sources of damage reduction.   
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
