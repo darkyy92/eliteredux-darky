@@ -1,8 +1,8 @@
 ---
 id: 36
 name: Trace
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 231
 ---
 
 # Trace - Ability ID 36
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Trace copies the ability of an opposing Pokemon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, Receiver, or persistent abilities. In doubles, targets the first valid opponent. Does not copy innate abilities. Shows ability popup.
+Copies the ability of an opposing Pokemon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, and most form related abilities. In doubles, targets the first valid opponent at random. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
