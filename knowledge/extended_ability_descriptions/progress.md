@@ -869,7 +869,7 @@ In Progress: 0
 | 858 | Breezy Neigh               | ✅       | ✅        |
 | 859 | Dreamscape                 | ✅       | ✅        |
 | 860 | Haste Makes Waste          | ✅       | ✅        |
-| 861 | Hungry Maws                | ✅       | ❌        |
+| 861 | Hungry Maws                | ✅       | ✅        |
 | 862 | Thermal Slide              | ✅       | ❌        |
 | 863 | Thermomancy                | ✅       | ❌        |
 | 864 | Chuckster (N)              | ✅       | ❌        |
