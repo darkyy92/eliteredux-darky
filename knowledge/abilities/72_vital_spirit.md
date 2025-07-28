@@ -1,8 +1,8 @@
 ---
 id: 72
 name: Vital Spirit
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 155
 ---
 
 # Vital Spirit - Ability ID 72
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Vital Spirit prevents sleep and provides immunity to Taunt. When the Pokemon uses a Fighting-type move, it heals all status conditions (poison, burn, paralysis, freeze, frostbite, bleed, sleep). This ability cannot be suppressed and automatically removes sleep when gained. Very useful.
+Immune to sleep. When the Pokemon uses a Fighting-type move, it heals all status conditions immediately after the move resolves. Removes sleep when gained. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
