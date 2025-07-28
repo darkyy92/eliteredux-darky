@@ -2525,7 +2525,7 @@ Reduces damage by 30% if the user has not moved yet. Multiplicative with other d
 Bite and jaw moves are boosted by 30%. Restores 50% max HP when defeating foes with biting moves or 25% with other moves. Only activates when knocking out a target with a direct hit.
 
 # ID: 862
-Thermal Slide increases the user's Speed by 50% when the weather is sunny or hailing. This boost applies to all forms of sun (temporary, permanent, and primal) and hail (temporary and permanent). The speed boost is applied during stat calculations, making it effective immediately on weather changes.
+Boosts the Pokemon's Speed by 50% during hail or sun. Also grants immunity to hail damage.
 
 # ID: 863
 Thermomancy combines Pyromancy and Cryomancy, multiplying burn and frostbite chances by 5x. Moves with 10% burn chance become 50%, 30% frostbite chance becomes guaranteed. Dominates temperature control on the battlefield with reliable dual status infliction.
