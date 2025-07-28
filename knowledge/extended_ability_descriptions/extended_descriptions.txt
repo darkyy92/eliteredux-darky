@@ -2546,7 +2546,7 @@ Summons rain and Electric Terrain upon entry, lasting 8 turns (12 with Damp Rock
 Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains
 
 # ID: 869
-Creates scorching primal sunlight that completely evaporates all Water-type moves, making them fail entirely. Fire-type moves gain a powerful 50% damage boost from the intense heat. Additionally, whips up strong winds on entry, doubling the Speed of all team allies for exactly 3 turns.
+Creates Extremely Harsh Sunlight lasting until user switches. Nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Activates extra effects on sun related moves. Sets up a 3-turn Tailwind on entry. Doubles the Speed of all allies.
 
 # ID: 870
 Molten Core combines Furnace effects with Rock-type absorption. On switch-in, gains +2 Speed from Stealth Rock and removes team's Stealth Rock. When hit by Rock moves, gains +2 Speed instead of taking damage. Perfect for handling Rock-type attacks and entry hazards.

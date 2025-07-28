@@ -877,7 +877,7 @@ In Progress: 0
 | 866 | Relic Stone                | ✅       | ✅        |
 | 867 | Supercell                  | ✅       | ✅        |
 | 868 | Lightning Aspect           | ✅       | ✅        |
-| 869 | Blistering Sun             | ✅       | ❌        |
+| 869 | Blistering Sun             | ✅       | ✅        |
 | 870 | Molten Core                | ✅       | ❌        |
 | 871 | Fire Aspect                | ✅       | ❌        |
 | 872 | Aurora's Gale              | ✅       | ❌        |
