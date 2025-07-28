@@ -35,7 +35,7 @@ This Pokemon is immune to infatuation, Scare, Intimidate and Taunt. When gaining
 Cloud Nine clears all weather upon switch-in and nullifies weather effects (including Primal weathers) while the user remains on the field. Weather can still be set, but provides no damage boosts or ability triggers until the user switches out.
 
 # ID: 14
-Boosts the user's accuracy by 1.2x. Removes Ghost-typing on target when landing an attack.
+Boosts the user's accuracy by 1.3x.
 
 # ID: 15
 Prevents falling asleep by any means, including sleep moves, abilities like Yawn, and other effects that cause sleep status. Rest will fail completely when used. If gained while asleep (via Worry Seed/Skill Swap), immediately wakes up. Can be bypassed by Mold Breaker and similar abilities. TEST
