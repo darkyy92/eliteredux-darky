@@ -22,7 +22,7 @@ In Progress: 0
 |  11 | Water Absorb               | ✅       | ✅        |
 |  12 | Oblivious                  | ✅       | ✅        |
 |  13 | Cloud Nine                 | ✅       | ✅        |
-|  14 | Compound Eyes              | ✅       | ❌        |
+|  14 | Compound Eyes              | ✅       | ✅        |
 |  15 | Insomnia                   | ✅       | ✅        |
 |  16 | Color Change               | ✅       | ❌        |
 |  17 | Immunity                   | ✅       | ❌        |
