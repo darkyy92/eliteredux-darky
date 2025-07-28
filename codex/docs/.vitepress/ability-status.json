@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 702,
+    "completed": 703,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T14:20:45.732983Z"
+    "generated_at": "2025-07-28T14:22:18.604287Z"
   },
   "abilities": {
     "0": {
@@ -403,8 +403,8 @@
       "id": 56,
       "name": "Cute Charm",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "57": {
       "id": 57,
@@ -6478,10 +6478,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "56": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "57": {
       "indicator": "🟠",

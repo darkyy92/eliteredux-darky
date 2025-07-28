@@ -161,7 +161,7 @@ Prevents consecutive attacking moves. After using an attack, the user must loaf 
 Boosts the power of attacks by 1.4x but reduces their accuracy by 10%. Only affects non-status moves.
 
 # ID: 56
-When making or receiving contact moves, has a 50% chance to infatuate the opponent. Works bidirectionally - triggers whether attacking or defending with contact moves. Infatuated Pokemon have reduced accuracy and may be unable to attack. Does not work on same-gender or genderless Pokemon.
+When hit by making contact (offensively or defensively), has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender.
 
 # ID: 57
 Plus doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus abilities. In double battles, this creates a powerful synergy effect that multiplies damage by 2.0x. Only activates when both Pokemon are alive on the field. Pairs excellently with Minus ability.
