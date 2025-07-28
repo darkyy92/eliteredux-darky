@@ -1,8 +1,8 @@
 ---
 id: 35
 name: Illuminate
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 285
 ---
 
 # Illuminate - Ability ID 35
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Illuminate increases the accuracy of all moves used by the Pokemon by 20% (1.2x multiplier). Additionally, when this Pokemon is in the lead position of your party while exploring, it doubles the wild encounter rate, making it easier to find wild Pokemon in tall grass, caves, and water.
+Illuminate increases the accuracy of all moves used by the Pokemon by 20% (1.2x multiplier). Additionally, when this Pokemon is in the lead position of your party while exploring, it doubles the wild encounter rate, making it easier to find wild Pokemon in tall grass, caves, and water
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
