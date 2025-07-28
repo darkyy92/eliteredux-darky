@@ -1,8 +1,8 @@
 ---
 id: 37
 name: Huge Power
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 80
 ---
 
 # Huge Power - Ability ID 37
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Huge Power doubles the Pokemon's Attack stat before stat stage modifiers are applied. This multiplies the effective Attack by 2.0x, making physical moves significantly more powerful. Works with stat stages, items, and other modifiers that are applied after. Identical effect to Pure Power.
+Increases the user's Attack stat by 2x. Multiplicative with other damage boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
