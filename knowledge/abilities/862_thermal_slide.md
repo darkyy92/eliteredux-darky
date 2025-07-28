@@ -1,8 +1,8 @@
 ---
 id: 862
 name: Thermal Slide
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 90
 ---
 
 # Thermal Slide - Ability ID 862
@@ -13,7 +13,7 @@ Ups speed by 50% in sun or hail.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Thermal Slide increases the user's Speed by 50% when the weather is sunny or hailing. This boost applies to all forms of sun (temporary, permanent, and primal) and hail (temporary and permanent). The speed boost is applied during stat calculations, making it effective immediately on weather changes.
+Boosts the Pokemon's Speed by 50% during hail or sun. Also grants immunity to hail damage.
 
 ## Detailed Mechanical Explanation
 
