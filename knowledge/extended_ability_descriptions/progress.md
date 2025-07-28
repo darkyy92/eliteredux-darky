@@ -874,7 +874,7 @@ In Progress: 0
 | 863 | Thermomancy                | ✅       | ✅        |
 | 864 | Chuckster (N)              | ✅       | ✅        |
 | 865 | Heat Sink                  | ✅       | ✅        |
-| 866 | Relic Stone                | ✅       | ❌        |
+| 866 | Relic Stone                | ✅       | ✅        |
 | 867 | Supercell                  | ✅       | ❌        |
 | 868 | Lightning Aspect           | ✅       | ❌        |
 | 869 | Blistering Sun             | ✅       | ❌        |

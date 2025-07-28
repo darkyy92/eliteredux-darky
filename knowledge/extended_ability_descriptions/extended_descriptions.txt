@@ -2537,7 +2537,7 @@ Once per entry when receiving a contact move, gain 50% damage reduction and forc
 Draws in Fire-type moves and gain immunity to them. Additionally, Fire-type moves boost the highest attacking stat of the user by one stage.
 
 # ID: 866
-While this ability is active, all other battlers lose their Same Type Attack Bonus, dealing normal damage instead of 1.5x with type matching moves. Even battlers with Adaptability cannot achieve 2x STAB. Only affects opponents - the user retains their STAB bonus. Suppressed by Mold Breaker abilities
+While the user is on field, every other Pokemon does not receive a STAB bonus from typing or abilities.
 
 # ID: 867
 Combines Drizzle and Electric Surge. Summons rain (boosts Water moves 20%, weakens Fire 50%) and Electric Terrain (boosts Electric moves 30%, prevents sleep) simultaneously on entry. Provides dual field control for weather and terrain strategies.
