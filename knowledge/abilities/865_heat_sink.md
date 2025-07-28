@@ -1,8 +1,8 @@
 ---
 id: 865
 name: Heat Sink
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 140
 ---
 
 # Heat Sink - Ability ID 865
@@ -13,7 +13,7 @@ Redirects Fire moves. Absorbs them, ups highest Atk.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Heat Sink redirects Fire-type moves targeting allies to this Pokemon. When hit by a Fire move, the attack is completely absorbed (no damage taken), and this Pokemon raises its highest attacking stat by one stage (Attack or Special Attack, whichever is higher at the time of absorption).
+Draws in Fire-type moves and gain immunity to them. Additionally, Fire-type moves boost the highest attacking stat of the user by one stage.
 
 ## Detailed Mechanical Explanation
 
