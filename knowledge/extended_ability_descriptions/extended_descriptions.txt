@@ -2540,7 +2540,7 @@ Draws in Fire-type moves and gain immunity to them. Additionally, Fire-type move
 While the user is on field, every other Pokemon does not receive a STAB bonus from typing or abilities.
 
 # ID: 867
-Combines Drizzle and Electric Surge. Summons rain (boosts Water moves 20%, weakens Fire 50%) and Electric Terrain (boosts Electric moves 30%, prevents sleep) simultaneously on entry. Provides dual field control for weather and terrain strategies.
+Summons rain and Electric Terrain upon entry, lasting 8 turns (12 with Damp Rock/Terrain Extender). Boosts Water moves by 50% and cuts Fire damage by 50%. Grounded Pokemon cannot fall asleep and Electric moves gain 30% power boost.
 
 # ID: 868
 Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains.

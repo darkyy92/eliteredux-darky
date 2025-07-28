@@ -875,7 +875,7 @@ In Progress: 0
 | 864 | Chuckster (N)              | ✅       | ✅        |
 | 865 | Heat Sink                  | ✅       | ✅        |
 | 866 | Relic Stone                | ✅       | ✅        |
-| 867 | Supercell                  | ✅       | ❌        |
+| 867 | Supercell                  | ✅       | ✅        |
 | 868 | Lightning Aspect           | ✅       | ❌        |
 | 869 | Blistering Sun             | ✅       | ❌        |
 | 870 | Molten Core                | ✅       | ❌        |
