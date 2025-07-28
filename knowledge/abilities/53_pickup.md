@@ -1,8 +1,8 @@
 ---
 id: 53
 name: Pickup
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 139
 ---
 
 # Pickup - Ability ID 53
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pickup automatically clears all entry hazards from your side of the field when entering battle. Removes Spikes, Toxic Spikes, Stealth Rock, Sticky Web, Hot Coals, and Caltrops. The Pokemon still takes full hazard damage on entry before clearing, but provides immediate field support for the team.
+Clears all entry hazards from your side of the field when entering battle. The Pokemon is still susceptible to hazards while clearing them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
