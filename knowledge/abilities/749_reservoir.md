@@ -2,7 +2,7 @@
 id: 749
 name: Reservoir
 status: reviewed
-character_count: 190
+character_count: 207
 ---
 
 # Reservoir - Ability ID 749
@@ -13,7 +13,7 @@ character_count: 190
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-The user is draws in Water-type moves and is immune to them. Additionally, Water-type moves boost the highest attacking stat of the user and heal for 25% of their max HP when absorbing them.
+The user is draws in Water-type moves and gain immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage and heal for 25% of their max HP when absorbing them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
