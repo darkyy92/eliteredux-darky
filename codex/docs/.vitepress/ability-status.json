@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 681,
+    "completed": 682,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:57:31.571555Z"
+    "generated_at": "2025-07-28T01:58:54.678514Z"
   },
   "abilities": {
     "0": {
@@ -221,8 +221,8 @@
       "id": 30,
       "name": "Natural Cure",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "31": {
       "id": 31,
@@ -6322,10 +6322,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "30": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "31": {
       "indicator": "🟠",

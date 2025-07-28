@@ -83,7 +83,7 @@ When inflicted with a non-volatile status (except sleep), the attacker receives 
 Gives immunity to all stat reductions from moves and abilities. Includes self stat drops from moves like Overheat.
 
 # ID: 30
-Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokemon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum. Unlimited healing uses.
+Cures all status conditions when switching out.
 
 # ID: 31
 Draws all Electric-type moves to this Pokemon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, fully protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
