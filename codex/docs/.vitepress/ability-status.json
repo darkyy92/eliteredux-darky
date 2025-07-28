@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 667,
+    "completed": 668,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:19:05.642282Z"
+    "generated_at": "2025-07-28T01:19:44.540224Z"
   },
   "abilities": {
     "0": {
@@ -6122,8 +6122,8 @@
       "id": 873,
       "name": "Ice Plumes",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "874": {
       "id": 874,
@@ -11380,10 +11380,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "873": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "874": {
       "indicator": "🟠",

@@ -2558,7 +2558,7 @@ The user gains immunity to Fire-type moves and they heal for 25% of their max HP
 Boosts the user's Special Attack stat by 50%. Multiplicative with other damage boosts. Sets up Aurora Veil on entry, cutting physical and special damage recieved by half for your allies. Lasts 5 turns, or 8 turns with Light Clay. Immune to Hail damage.
 
 # ID: 873
-Ice Plumes reduces damage from all special moves by 50% through damage calculation rather than stat boosts. Works against all special attacks including Hidden Power and Weather Ball. Does not affect physical moves or entry hazards. Provides reliable special bulk without stat modification stacking.
+Halves all incoming Special Attack damage. Multiplicative with other sources of damage reduction.
 
 # ID: 874
 Winter Throne creates a freezing field that damages all non-Ice type Pokemon for 1/8 maximum HP each turn while healing all Ice-type Pokemon for 1/8 HP. Affects every Pokemon on the battlefield regardless of position. Ice types gain significant survivability advantage in prolonged battles.
