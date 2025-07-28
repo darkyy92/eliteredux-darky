@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 700,
+    "completed": 701,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T14:02:12.844003Z"
+    "generated_at": "2025-07-28T14:05:18.272472Z"
   },
   "abilities": {
     "0": {
@@ -389,8 +389,8 @@
       "id": 54,
       "name": "Truant",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "55": {
       "id": 55,
@@ -6466,10 +6466,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "54": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "55": {
       "indicator": "🟠",

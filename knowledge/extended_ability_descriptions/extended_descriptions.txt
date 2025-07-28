@@ -155,7 +155,7 @@ Hyper Cutter prevents enemies from lowering the user's Attack stat through moves
 Clears all entry hazards from your side of the field when entering battle. The Pokemon is still susceptible to hazards while clearing them.
 
 # ID: 54
-Truant prevents consecutive attacking moves. After using any physical or special move, the Pokemon must loaf around next turn and cannot attack. Status moves remain unaffected. This creates a predictable pattern where attacking turns alternate with forced loafing turns, severely limiting offense.
+Prevents consecutive attacking moves. After using an attack, the user must loaf around next turn and cannot attack. Status moves remain unaffected.
 
 # ID: 55
 Hustle boosts the power of physical moves by 1.4x but reduces their accuracy to 90% of normal. Only affects non-status moves - status moves maintain perfect accuracy. High risk, high reward ability that trades reliability for raw power. Essential for frail attackers needing extra damage.

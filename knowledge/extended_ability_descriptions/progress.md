@@ -62,7 +62,7 @@ In Progress: 0
 |  51 | Keen Eye                   | ✅       | ✅        |
 |  52 | Hyper Cutter               | ✅       | ✅        |
 |  53 | Pickup                     | ✅       | ✅        |
-|  54 | Truant                     | ✅       | ❌        |
+|  54 | Truant                     | ✅       | ✅        |
 |  55 | Hustle                     | ✅       | ❌        |
 |  56 | Cute Charm                 | ✅       | ❌        |
 |  57 | Plus                       | ✅       | ❌        |
