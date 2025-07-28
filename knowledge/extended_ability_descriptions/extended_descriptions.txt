@@ -2543,7 +2543,7 @@ While the user is on field, every other Pokemon does not receive a STAB bonus fr
 Summons rain and Electric Terrain upon entry, lasting 8 turns (12 with Damp Rock/Terrain Extender). Boosts Water moves by 50% and cuts Fire damage by 50%. Grounded Pokemon cannot fall asleep and Electric moves gain 30% power boost.
 
 # ID: 868
-Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains.
+Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains
 
 # ID: 869
 Creates scorching primal sunlight that completely evaporates all Water-type moves, making them fail entirely. Fire-type moves gain a powerful 50% damage boost from the intense heat. Additionally, whips up strong winds on entry, doubling the Speed of all team allies for exactly 3 turns.
