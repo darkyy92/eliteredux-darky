@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 675,
+    "completed": 676,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:41:49.357025Z"
+    "generated_at": "2025-07-28T01:44:32.515199Z"
   },
   "abilities": {
     "0": {
@@ -151,8 +151,8 @@
       "id": 20,
       "name": "Own Tempo",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "21": {
       "id": 21,
@@ -6262,10 +6262,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "20": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "21": {
       "indicator": "🟠",

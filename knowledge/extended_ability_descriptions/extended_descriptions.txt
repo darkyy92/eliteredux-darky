@@ -53,7 +53,7 @@ Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks
 Blocks all secondary effects from damaging moves. Grants immunity to entry hazards. Blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder.
 
 # ID: 20
-Own Tempo maintains perfect composure, granting immunity to confusion from all sources. Also blocks Intimidate's Attack drop and prevents the custom Scared status effect. Works against Swagger, Teeter Dance, and all confusion-inducing moves. Elite Redux expanded immunities beyond confusion.
+Grants immunity to confusion, Intimidate, and Scare. Immediately cures confusion when receiving this ability.
 
 # ID: 21
 Suction Cups anchors the Pokemon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.

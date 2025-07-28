@@ -28,7 +28,7 @@ In Progress: 0
 |  17 | Immunity                   | ✅       | ✅        |
 |  18 | Flash Fire                 | ✅       | ✅        |
 |  19 | Shield Dust                | ✅       | ✅        |
-|  20 | Own Tempo                  | ✅       | ❌        |
+|  20 | Own Tempo                  | ✅       | ✅        |
 |  21 | Suction Cups               | ✅       | ❌        |
 |  22 | Intimidate                 | ✅       | ✅        |
 |  23 | Shadow Tag                 | ✅       | ✅        |
