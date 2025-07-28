@@ -1,8 +1,8 @@
 ---
 id: 56
 name: Cute Charm
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 198
 ---
 
 # Cute Charm - Ability ID 56
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When making or receiving contact moves, has a 50% chance to infatuate the opponent. Works bidirectionally - triggers whether attacking or defending with contact moves. Infatuated Pokemon have reduced accuracy and may be unable to attack. Does not work on same-gender or genderless Pokemon.
+When hit by making contact (offensively or defensively), has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
