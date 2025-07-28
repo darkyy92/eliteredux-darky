@@ -1,8 +1,8 @@
 ---
 id: 50
 name: Run Away
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 199
 ---
 
 # Run Away - Ability ID 50
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Run Away guarantees successful escape from wild Pokemon battles regardless of speed differences. Additionally, when any of the user's stats are lowered by an opponent's move or ability, Run Away triggers and raises the user's Speed by 2 stages, providing a defensive counter-stat boost mechanism.
+Guarantees successful escape from wild Pokemon battles regardless of speed differences. When any of the user's stats are lowered by an opponent's move or ability, raises the user's Speed by 2 stages.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
