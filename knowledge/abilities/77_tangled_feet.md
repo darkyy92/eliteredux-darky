@@ -1,8 +1,8 @@
 ---
 id: 77
 name: Tangled Feet
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 175
 ---
 
 # Tangled Feet - Ability ID 77
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Tangled Feet halves opponents' accuracy when this Pokemon is confused. The chaotic, unsteady movements from confusion make the Pokemon harder to hit. Works against all moves targeting this Pokemon, including status moves. Only functions while confused; provides no benefit otherwise.
+When the user is confused or enraged, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
