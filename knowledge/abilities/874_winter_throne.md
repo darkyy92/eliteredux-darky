@@ -1,8 +1,8 @@
 ---
 id: 874
 name: Winter Throne
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 125
 ---
 
 # Winter Throne - Ability ID 874
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Winter Throne creates a freezing field that damages all non-Ice type Pokemon for 1/8 maximum HP each turn while healing all Ice-type Pokemon for 1/8 HP. Affects every Pokemon on the battlefield regardless of position. Ice types gain significant survivability advantage in prolonged battles.
+All non-Ice-types lose 1/8 of their max HP at the end of each turn. Restores 1/8 max HP to Ice-types at the end of each turn.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
