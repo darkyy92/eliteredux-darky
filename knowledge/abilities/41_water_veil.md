@@ -1,8 +1,8 @@
 ---
 id: 41
 name: Water Veil
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 123
 ---
 
 # Water Veil - Ability ID 41
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Water Veil prevents burn status completely and automatically casts Aqua Ring upon entering battle. The Aqua Ring effect heals 1/16 max HP each turn. Big Root boosts healing by 50%. The healing stacks with other recovery effects and continues until the Pokemon switches out or faints.
+Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
