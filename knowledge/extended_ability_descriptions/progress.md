@@ -79,7 +79,7 @@ In Progress: 0
 |  68 | Swarm                      | ✅       | ❌        |
 |  69 | Rock Head                  | ✅       | ✅        |
 |  70 | Drought                    | ✅       | ✅        |
-|  71 | Arena Trap                 | ✅       | ❌        |
+|  71 | Arena Trap                 | ✅       | ✅        |
 |  72 | Vital Spirit               | ✅       | ❌        |
 |  73 | White Smoke                | ✅       | ❌        |
 |  74 | Pure Power                 | ✅       | ❌        |
