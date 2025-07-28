@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 709,
+    "completed": 710,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T14:33:52.302430Z"
+    "generated_at": "2025-07-28T14:36:06.240500Z"
   },
   "abilities": {
     "0": {
@@ -466,8 +466,8 @@
       "id": 65,
       "name": "Overgrow",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "66": {
       "id": 66,
@@ -6532,10 +6532,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "65": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "66": {
       "indicator": "🟠",
