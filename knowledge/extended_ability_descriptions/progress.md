@@ -45,7 +45,7 @@ In Progress: 0
 |  34 | Chlorophyll                | ✅       | ✅        |
 |  35 | Illuminate                 | ✅       | ✅        |
 |  36 | Trace                      | ✅       | ✅        |
-|  37 | Huge Power                 | ✅       | ❌        |
+|  37 | Huge Power                 | ✅       | ✅        |
 |  38 | Poison Point               | ✅       | ✅        |
 |  39 | Inner Focus                | ✅       | ✅        |
 |  40 | Magma Armor                | ✅       | ❌        |

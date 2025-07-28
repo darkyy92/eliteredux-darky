@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 685,
+    "completed": 686,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:19:51.922897Z"
+    "generated_at": "2025-07-28T13:21:00.004980Z"
   },
   "abilities": {
     "0": {
@@ -270,8 +270,8 @@
       "id": 37,
       "name": "Huge Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "38": {
       "id": 38,
@@ -6364,10 +6364,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "37": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "38": {
       "indicator": "✅",
