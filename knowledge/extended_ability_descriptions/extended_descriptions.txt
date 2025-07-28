@@ -143,7 +143,7 @@ Allows the user to wake up from sleep twice as fast. Subtract 2 sleep turns ever
 Contact with this Pokemon has a 20% chance to inflict burn. Non-contact has a 30% chance. Works offensively and defensively.
 
 # ID: 50
-Run Away guarantees successful escape from wild Pokemon battles regardless of speed differences. Additionally, when any of the user's stats are lowered by an opponent's move or ability, Run Away triggers and raises the user's Speed by 2 stages, providing a defensive counter-stat boost mechanism.
+Guarantees successful escape from wild Pokemon battles regardless of speed differences. When any of the user's stats are lowered by an opponent's move or ability, raises the user's Speed by 2 stages.
 
 # ID: 51
 Keen Eye prevents accuracy stat drops from moves like Sand Attack. All moves gain a 1.2x accuracy boost, making unreliable moves more consistent. Breakable by Mold Breaker but provides excellent reliability for accuracy-dependent movesets. Works on all move types regardless of base accuracy.

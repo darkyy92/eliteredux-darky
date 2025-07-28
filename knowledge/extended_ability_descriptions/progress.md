@@ -58,7 +58,7 @@ In Progress: 0
 |  47 | Thick Fat                  | ✅       | ✅        |
 |  48 | Early Bird                 | ✅       | ✅        |
 |  49 | Flame Body                 | ✅       | ✅        |
-|  50 | Run Away                   | ✅       | ❌        |
+|  50 | Run Away                   | ✅       | ✅        |
 |  51 | Keen Eye                   | ✅       | ❌        |
 |  52 | Hyper Cutter               | ✅       | ❌        |
 |  53 | Pickup                     | ✅       | ❌        |
