@@ -1,8 +1,8 @@
 ---
 id: 70
 name: Drought
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 164
 ---
 
 # Drought - Ability ID 70
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane miss more. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine.
+Summons harsh sunlight for 8 turns (12 with Heat Rock) on entry. Boosts Fire moves by 50%, reduces Water moves by 50%. Activates extra effects on sun related moves.
 
 ## Detailed Mechanical Explanation
 **Drought** sets up harsh sunlight weather automatically when the Pokemon with this ability enters battle. This weather effect is identical to using the move Sunny Day, but doesn't consume a turn.
