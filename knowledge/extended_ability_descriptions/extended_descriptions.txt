@@ -146,7 +146,7 @@ Contact with this Pokemon has a 20% chance to inflict burn. Non-contact has a 30
 Guarantees successful escape from wild Pokemon battles regardless of speed differences. When any of the user's stats are lowered by an opponent's move or ability, raises the user's Speed by 2 stages.
 
 # ID: 51
-Keen Eye prevents accuracy stat drops from moves like Sand Attack. All moves gain a 1.2x accuracy boost, making unreliable moves more consistent. Breakable by Mold Breaker but provides excellent reliability for accuracy-dependent movesets. Works on all move types regardless of base accuracy.
+Prevents accuracy stat stage drops. All moves gain a 1.2x accuracy boost.
 
 # ID: 52
 Hyper Cutter prevents enemies from lowering the user's Attack or Special Attack stats through moves or abilities. All contact moves used by this Pokemon have their critical hit rate increased by one stage. Provides immunity to Intimidate and stat-lowering moves like Growl affecting Attack/SpAtk.
