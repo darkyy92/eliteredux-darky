@@ -1,8 +1,8 @@
 ---
 id: 863
 name: Thermomancy
-status: ai-generated
-character_count: 258
+status: reviewed
+character_count: 126
 ---
 
 # Thermomancy - Ability ID 863
@@ -13,7 +13,7 @@ character_count: 258
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Thermomancy combines Pyromancy and Cryomancy, multiplying burn and frostbite chances by 5x. Moves with 10% burn chance become 50%, 30% frostbite chance becomes guaranteed. Dominates temperature control on the battlefield with reliable dual status infliction.
+Multiplies the chance of inflicting burn or frostbite by 5x on all moves. Does not interact with Flame Body or Freezing Point.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
