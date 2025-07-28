@@ -152,7 +152,7 @@ Prevents accuracy stat stage drops. All moves gain a 1.2x accuracy boost.
 Hyper Cutter prevents enemies from lowering the user's Attack stat through moves or abilities. All contact moves used by this Pokemon have their critical hit rate increased by one stage.
 
 # ID: 53
-Pickup automatically clears all entry hazards from your side of the field when entering battle. Removes Spikes, Toxic Spikes, Stealth Rock, Sticky Web, Hot Coals, and Caltrops. The Pokemon still takes full hazard damage on entry before clearing, but provides immediate field support for the team.
+Clears all entry hazards from your side of the field when entering battle. The Pokemon is still susceptible to hazards while clearing them.
 
 # ID: 54
 Truant prevents consecutive attacking moves. After using any physical or special move, the Pokemon must loaf around next turn and cannot attack. Status moves remain unaffected. This creates a predictable pattern where attacking turns alternate with forced loafing turns, severely limiting offense.

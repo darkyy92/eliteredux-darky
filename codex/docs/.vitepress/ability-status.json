@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 699,
+    "completed": 700,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:59:25.410543Z"
+    "generated_at": "2025-07-28T14:02:12.844003Z"
   },
   "abilities": {
     "0": {
@@ -382,8 +382,8 @@
       "id": 53,
       "name": "Pickup",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "54": {
       "id": 54,
@@ -6460,10 +6460,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "53": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "54": {
       "indicator": "🟠",
