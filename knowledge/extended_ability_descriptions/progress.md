@@ -880,7 +880,7 @@ In Progress: 0
 | 869 | Blistering Sun             | ✅       | ✅        |
 | 870 | Molten Core                | ✅       | ✅        |
 | 871 | Fire Aspect                | ✅       | ✅        |
-| 872 | Aurora's Gale              | ✅       | ❌        |
+| 872 | Aurora's Gale              | ✅       | ✅        |
 | 873 | Ice Plumes                 | ✅       | ❌        |
 | 874 | Winter Throne              | ✅       | ❌        |
 | 875 | Energy Tap                 | ✅       | ❌        |
