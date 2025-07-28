@@ -878,7 +878,7 @@ In Progress: 0
 | 867 | Supercell                  | ✅       | ✅        |
 | 868 | Lightning Aspect           | ✅       | ✅        |
 | 869 | Blistering Sun             | ✅       | ✅        |
-| 870 | Molten Core                | ✅       | ❌        |
+| 870 | Molten Core                | ✅       | ✅        |
 | 871 | Fire Aspect                | ✅       | ❌        |
 | 872 | Aurora's Gale              | ✅       | ❌        |
 | 873 | Ice Plumes                 | ✅       | ❌        |

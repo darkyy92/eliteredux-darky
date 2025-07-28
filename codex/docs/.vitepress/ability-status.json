@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 664,
+    "completed": 665,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T00:57:40.273143Z"
+    "generated_at": "2025-07-28T01:04:03.369170Z"
   },
   "abilities": {
     "0": {
@@ -6101,8 +6101,8 @@
       "id": 870,
       "name": "Molten Core",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "871": {
       "id": 871,
@@ -11362,10 +11362,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "870": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "871": {
       "indicator": "🟠",

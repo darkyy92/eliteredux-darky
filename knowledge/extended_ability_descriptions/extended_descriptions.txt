@@ -2549,7 +2549,7 @@ Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Comp
 Creates Extremely Harsh Sunlight lasting until user switches. Nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Activates extra effects on sun related moves. Sets up a 3-turn Tailwind on entry. Doubles the Speed of all allies.
 
 # ID: 870
-Molten Core combines Furnace effects with Rock-type absorption. On switch-in, gains +2 Speed from Stealth Rock and removes team's Stealth Rock. When hit by Rock moves, gains +2 Speed instead of taking damage. Perfect for handling Rock-type attacks and entry hazards.
+Boosts Speed by +2 stages when hit by Rock-type moves or when switching in with Stealth Rock present. Also, absorbs any Rock-type or Stealth Rock damage and heals for 25% of their max HP.
 
 # ID: 871
 Fire Aspect absorbs all Fire-type moves to restore HP instead of taking damage. The Pokemon recovers 25% of its maximum HP when hit by fire attacks. Works against all fire moves including status moves. The absorbed energy fuels the user's internal flames, maintaining constant heat.
