@@ -80,7 +80,7 @@ In Progress: 0
 |  69 | Rock Head                  | ✅       | ✅        |
 |  70 | Drought                    | ✅       | ✅        |
 |  71 | Arena Trap                 | ✅       | ✅        |
-|  72 | Vital Spirit               | ✅       | ❌        |
+|  72 | Vital Spirit               | ✅       | ✅        |
 |  73 | White Smoke                | ✅       | ❌        |
 |  74 | Pure Power                 | ✅       | ❌        |
 |  75 | Shell Armor                | ✅       | ✅        |

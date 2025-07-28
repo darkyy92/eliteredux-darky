@@ -209,7 +209,7 @@ Summons harsh sunlight for 8 turns (12 with Heat Rock) on entry. Boosts Fire mov
 Prevents all non-levitating or Ghost-type foes from switching out. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle
 
 # ID: 72
-Vital Spirit prevents sleep and provides immunity to Taunt. When the Pokemon uses a Fighting-type move, it heals all status conditions (poison, burn, paralysis, freeze, frostbite, bleed, sleep). This ability cannot be suppressed and automatically removes sleep when gained. Very useful.
+Immune to sleep. When the Pokemon uses a Fighting-type move, it heals all status conditions immediately after the move resolves. Removes sleep when gained.
 
 # ID: 73
 White Smoke automatically sets Smokescreen on the user's side when entering battle, lasting 3 turns (5 with Light Clay held). Smokescreen obscures the user's party in smoke, increasing their evasiveness by 25% and making all moves targeting them less accurate. Provides team-wide defensive utility.

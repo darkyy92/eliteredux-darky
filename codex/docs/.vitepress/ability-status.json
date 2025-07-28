@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 712,
+    "completed": 713,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T14:42:11.252206Z"
+    "generated_at": "2025-07-28T15:02:16.775984Z"
   },
   "abilities": {
     "0": {
@@ -515,8 +515,8 @@
       "id": 72,
       "name": "Vital Spirit",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "73": {
       "id": 73,
@@ -6574,10 +6574,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "72": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "73": {
       "indicator": "🟠",
