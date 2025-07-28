@@ -1,8 +1,8 @@
 ---
 id: 20
 name: Own Tempo
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 109
 ---
 
 # Own Tempo - Ability ID 20
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Own Tempo maintains perfect composure, granting immunity to confusion from all sources. Also blocks Intimidate's Attack drop and prevents the custom Scared status effect. Works against Swagger, Teeter Dance, and all confusion-inducing moves. Elite Redux expanded immunities beyond confusion.
+Grants immunity to confusion, Intimidate, and Scare. Immediately cures confusion when receiving this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
