@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 857
+Completed: 856
 In Progress: 0
 
 ## Progress Tracking
@@ -864,7 +864,7 @@ In Progress: 0
 | 853 | Purple Haze                | ✅       | ✅        |
 | 854 | Gnashing Cannon            | ✅       | ✅        |
 | 855 | Ability 855                | ❌       | ❌        |
-| 856 | Molten Coat                | ✅       | ❌        |
+| 856 | Ability 856                | ❌       | ❌        |
 | 857 | Royal Decree               | ✅       | ❌        |
 | 858 | Breezy Neigh               | ✅       | ❌        |
 | 859 | Dreamscape                 | ✅       | ❌        |

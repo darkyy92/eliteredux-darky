@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 649,
-    "written": 857,
-    "pending": 19,
-    "generated_at": "2025-07-28T00:02:42.580060Z"
+    "written": 856,
+    "pending": 20,
+    "generated_at": "2025-07-28T00:04:30.263450Z"
   },
   "abilities": {
     "0": {
@@ -6001,10 +6001,10 @@
     },
     "856": {
       "id": 856,
-      "name": "Molten Coat",
-      "written": true,
+      "name": "Ability 856",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "857": {
       "id": 857,
@@ -11278,10 +11278,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "856": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "857": {
       "indicator": "🟠",

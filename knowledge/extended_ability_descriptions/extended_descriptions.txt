@@ -2509,9 +2509,6 @@ After using a move, follow up with a 20 BP Poison Gas (Poison, Special, 20% chan
 # ID: 854
 Boosts pulse, beam, ball, and aura moves by 30%. Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
-# ID: 856
-This combination ability grants all Mineralize effects while adding dangerous burning. Normal moves become Rock-type with STAB. Additionally, whenever this Pokemon uses any Rock move that hits an opponent, there's a 50% chance to inflict burn. Transforms utility moves into offensive Rock attacks.
-
 # ID: 857
 Automatically uses Glare on entry once per battle, paralyzing a random opponent. Additionally, provides royal protection that blocks all enemy priority moves targeting this Pokemon or its allies, similar to Queenly Majesty's regal authority over the battlefield.
 
