@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 677,
+    "completed": 678,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:48:18.124623Z"
+    "generated_at": "2025-07-28T01:51:27.112290Z"
   },
   "abilities": {
     "0": {
@@ -186,8 +186,8 @@
       "id": 25,
       "name": "Wonder Guard",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "26": {
       "id": 26,
@@ -6292,10 +6292,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "25": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "26": {
       "indicator": "✅",

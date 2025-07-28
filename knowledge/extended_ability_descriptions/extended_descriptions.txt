@@ -68,7 +68,7 @@ Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves s
 Damages attackers using contact moves for 1/8 of their max HP. Activates on every hit for multihitting moves.
 
 # ID: 25
-Only super-effective moves can damage this Pokemon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense. Forces careful teambuilding.
+Only super-effective attacks or indirect damage can hurt the user. All other direct attacks deal zero damage. Other sources such as poison or ability damage still function as normal.
 
 # ID: 26
 The user is immune to Ground-type moves and other ground effects such as Spikes and terrains. Boosts the damage of Flying-type moves by 25%.
