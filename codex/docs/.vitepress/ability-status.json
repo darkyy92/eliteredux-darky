@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 669,
+    "completed": 670,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:25:15.337422Z"
+    "generated_at": "2025-07-28T01:25:59.725200Z"
   },
   "abilities": {
     "0": {
@@ -6136,8 +6136,8 @@
       "id": 875,
       "name": "Energy Tap",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     }
   },
   "indicators": {
@@ -11392,10 +11392,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "875": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     }
   }
 }

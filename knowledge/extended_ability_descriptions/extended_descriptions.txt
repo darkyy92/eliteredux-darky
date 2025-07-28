@@ -2564,4 +2564,4 @@ Halves all incoming Special Attack damage. Multiplicative with other sources of 
 All non-Ice-types lose 1/8 of their max HP at the end of each turn. Restores 1/8 max HP to Ice-types at the end of each turn.
 
 # ID: 875
-Energy Tap heals the Pokemon for 1/8 of all damage dealt to opponents. Works with any damaging move that successfully hits and deals damage. Healing occurs immediately after damage calculation. Does not heal if already at maximum HP. Excellent for sustaining offensive Pokemon in battle.
+Heals the user for 1/8 of all damage they deal to opponents. Healing occurs immediately after damage is dealt. Minimum healing of 1 HP.

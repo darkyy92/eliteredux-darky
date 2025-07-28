@@ -883,4 +883,4 @@ In Progress: 0
 | 872 | Aurora's Gale              | ✅       | ✅        |
 | 873 | Ice Plumes                 | ✅       | ✅        |
 | 874 | Winter Throne              | ✅       | ✅        |
-| 875 | Energy Tap                 | ✅       | ❌        |
+| 875 | Energy Tap                 | ✅       | ✅        |
