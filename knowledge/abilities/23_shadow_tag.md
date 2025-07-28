@@ -2,7 +2,7 @@
 id: 23
 name: Shadow Tag
 status: reviewed
-character_count: 145
+character_count: 212
 ---
 
 # Shadow Tag - Ability ID 23
@@ -13,7 +13,7 @@ character_count: 145
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
+Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
