@@ -167,7 +167,7 @@ When hit by making contact (offensively or defensively), has a 50% chance to inf
 Doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus.
 
 # ID: 58
-Minus doubles damage output when partnered with Plus or Minus ally. Only works in double/triple battles with living partner. Creates powerful synergy enabling devastating combo attacks. Essential for doubles strategies focused on overwhelming offensive pressure through coordinated ability synergy.
+Doubles the Pokemon's offensive power when partnered with an ally that has Minus or Plus.
 
 # ID: 59
 Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability that works even under Mold Breaker effects.
