@@ -212,10 +212,10 @@ Prevents all non-levitating or Ghost-type foes from switching out. Pokemon holdi
 Immune to sleep. When the Pokemon uses a Fighting-type move, it heals all status conditions immediately after the move resolves. Removes sleep when gained.
 
 # ID: 73
-White Smoke automatically sets Smokescreen on the user's side when entering battle, lasting 3 turns (5 with Light Clay held). Smokescreen obscures the user's party in smoke, increasing their evasiveness by 25% and making all moves targeting them less accurate. Provides team-wide defensive utility.
+Sets Smokescreen on entry, lasting 3 turns. Smokescreen increases the evasiveness of your party by 25%.
 
 # ID: 74
-Pure Power doubles the Pokemon's Attack stat directly, not just the base stat. This massive boost applies to all physical moves, making even moderate base Attack stats incredibly threatening. The doubling occurs after all other stat calculations, making it one of the best offensive abilities.
+Increases the user's Attack stat by 2x. Multiplicative with other damage boosts.
 
 # ID: 75
 Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduction. Additionally, critical hits are blocked, functioning as regular hits and not activating on-crit effects like To The Bone's bleed.

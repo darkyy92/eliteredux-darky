@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 713,
+    "completed": 715,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T15:02:16.775984Z"
+    "generated_at": "2025-07-28T19:21:55.485718Z"
   },
   "abilities": {
     "0": {
@@ -522,15 +522,15 @@
       "id": 73,
       "name": "White Smoke",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "74": {
       "id": 74,
       "name": "Pure Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "75": {
       "id": 75,
@@ -6580,16 +6580,16 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "73": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "74": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "75": {
       "indicator": "✅",
