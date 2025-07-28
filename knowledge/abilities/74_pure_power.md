@@ -1,8 +1,8 @@
 ---
 id: 74
 name: Pure Power
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 80
 ---
 
 # Pure Power - Ability ID 74
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pure Power doubles the Pokemon's Attack stat directly, not just the base stat. This massive boost applies to all physical moves, making even moderate base Attack stats incredibly threatening. The doubling occurs after all other stat calculations, making it one of the best offensive abilities.
+Increases the user's Attack stat by 2x. Multiplicative with other damage boosts.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
