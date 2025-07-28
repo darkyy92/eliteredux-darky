@@ -101,7 +101,7 @@ Boosts the Pokemon's Speed by 50% during sun.
 Boosts the user's accuracy by 1.2x. Removes Ghost-typing on target when landing an attack.
 
 # ID: 36
-Trace copies the ability of an opposing Pokemon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, Receiver, or persistent abilities. In doubles, targets the first valid opponent. Does not copy innate abilities. Shows ability popup.
+Copies the ability of an opposing Pokemon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, and most form related abilities. In doubles, targets the first valid opponent at random.
 
 # ID: 37
 Huge Power doubles the Pokemon's Attack stat before stat stage modifiers are applied. This multiplies the effective Attack by 2.0x, making physical moves significantly more powerful. Works with stat stages, items, and other modifiers that are applied after. Identical effect to Pure Power.

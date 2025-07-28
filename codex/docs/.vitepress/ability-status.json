@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 684,
+    "completed": 685,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:10:05.090308Z"
+    "generated_at": "2025-07-28T13:19:51.922897Z"
   },
   "abilities": {
     "0": {
@@ -263,8 +263,8 @@
       "id": 36,
       "name": "Trace",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "37": {
       "id": 37,
@@ -6358,10 +6358,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "36": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "37": {
       "indicator": "🟠",

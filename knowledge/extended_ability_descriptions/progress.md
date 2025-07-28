@@ -44,7 +44,7 @@ In Progress: 0
 |  33 | Swift Swim                 | ✅       | ✅        |
 |  34 | Chlorophyll                | ✅       | ✅        |
 |  35 | Illuminate                 | ✅       | ✅        |
-|  36 | Trace                      | ✅       | ❌        |
+|  36 | Trace                      | ✅       | ✅        |
 |  37 | Huge Power                 | ✅       | ❌        |
 |  38 | Poison Point               | ✅       | ✅        |
 |  39 | Inner Focus                | ✅       | ✅        |
