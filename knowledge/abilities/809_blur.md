@@ -2,7 +2,7 @@
 id: 809
 name: Blur
 status: reviewed
-character_count: 121
+character_count: 164
 ---
 
 # Blur - Ability ID 809
@@ -13,7 +13,7 @@ character_count: 121
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. 
+When hit by contact moves, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. Choice Scarf does not affect this ability.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
