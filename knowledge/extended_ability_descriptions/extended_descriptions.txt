@@ -179,7 +179,7 @@ The user's item cannot be forcibly removed or stolen.
 At the end of each turn, there's a 30% chance for the user to cure status conditions afflicted on them.
 
 # ID: 62
-Boosts Attack by 50% when suffering from any status condition. Only affects physical moves. Negates the Attack drop from burn status.
+Boosts Attack by 50% when suffering from any status condition. Negates the Attack drop from burn status.
 
 # ID: 63
 Increases Defense and Special Defense by 50% when afflicted with any status condition.
