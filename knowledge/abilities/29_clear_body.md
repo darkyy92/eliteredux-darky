@@ -1,8 +1,8 @@
 ---
 id: 29
 name: Clear Body
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 114
 ---
 
 # Clear Body - Ability ID 29
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam in competitive play.
+Gives immunity to all stat reductions from moves and abilities. Includes self stat drops from moves like Overheat.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
