@@ -26,7 +26,7 @@ All recoil damage to the user is halved; this includes moves with scaling recoil
 This Pokemon absorbs Electric-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Electric damage and effects like paralysis from Thunder Wave. Absolutely perfect for Water/Flying types to remove their 4x Electric weakness.
 
 # ID: 11
-This Pokemon absorbs Water-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Water damage, secondary effects like stat drops, and even Scald's burn chance. Fire-types can safely switch into any Water attack with this.
+The user gains immunity to Water-type moves and they heal for 25% of their max HP when hit by them.
 
 # ID: 12
 This Pokemon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
