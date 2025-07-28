@@ -56,7 +56,7 @@ In Progress: 0
 |  45 | Sand Stream                | ✅       | ✅        |
 |  46 | Pressure                   | ✅       | ✅        |
 |  47 | Thick Fat                  | ✅       | ✅        |
-|  48 | Early Bird                 | ✅       | ❌        |
+|  48 | Early Bird                 | ✅       | ✅        |
 |  49 | Flame Body                 | ✅       | ❌        |
 |  50 | Run Away                   | ✅       | ❌        |
 |  51 | Keen Eye                   | ✅       | ❌        |

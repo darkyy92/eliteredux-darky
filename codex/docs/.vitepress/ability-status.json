@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 694,
+    "completed": 695,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:38:02.676160Z"
+    "generated_at": "2025-07-28T13:40:00.110862Z"
   },
   "abilities": {
     "0": {
@@ -347,8 +347,8 @@
       "id": 48,
       "name": "Early Bird",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "49": {
       "id": 49,
@@ -6430,10 +6430,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "48": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "49": {
       "indicator": "🟠",

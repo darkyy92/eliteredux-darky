@@ -137,7 +137,7 @@ Doubles PP usage of opposing moves and clears all positive stat stages on entry.
 Reduces damage received from Fire and Ice-type moves by 50%. Multiplicative with other sources of damage reduction.
 
 # ID: 48
-Early Bird allows the Pokemon to wake up from sleep twice as fast. While normal Pokemon subtract 1 sleep turn per turn, Early Bird users subtract 2 turns, effectively halving sleep duration. Works against all sleep-inducing moves and effects, making the Pokemon more resistant to sleep strategies.
+Allows the user to wake up from sleep twice as fast. Subtract 2 sleep turns every turn instead of 1.
 
 # ID: 49
 Flame Body has a 30% chance to inflict burn status on any Pokemon that makes contact with attacks, whether attacking or defending. The burned Pokemon takes 1/16 max HP damage each turn and has Attack reduced by 50%. Also doubles egg hatching speed when in party. Fire-types cannot be burned.
