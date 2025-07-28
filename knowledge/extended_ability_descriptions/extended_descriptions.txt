@@ -332,7 +332,7 @@ Slow Start halves Attack, Special Attack, and Speed for the first 5 turns after 
 Scrappy allows Normal and Fighting-type moves to hit Ghost-type Pokemon for normal damage, bypassing their immunity. Additionally grants complete immunity to Intimidate and Scare abilities, preventing Attack drops from these sources. Perfect for physical attackers facing Ghost types.
 
 # ID: 114
-Storm Drain redirects all single-target Water-type moves to this Pokemon, absorbing them completely for no damage. When a Water move is absorbed, the Pokemon's highest attacking stat (Attack or Special Attack including stat stages) is raised by one stage. Multi-target moves are unaffected.
+The user is draws in Water-type moves and gain immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage.
 
 # ID: 115
 Ice Body restores 1/8 of max HP at the end of each turn during hailstorms. The healing occurs during any hail weather including natural hail, Snow Warning hail, and extended hail from Icy Rock. Provides complete immunity to hail damage. Does not heal on the first turn after switching in.

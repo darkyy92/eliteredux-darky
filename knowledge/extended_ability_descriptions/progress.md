@@ -122,7 +122,7 @@ In Progress: 0
 | 111 | Filter                     | ✅       | ❌        |
 | 112 | Slow Start                 | ✅       | ❌        |
 | 113 | Scrappy                    | ✅       | ❌        |
-| 114 | Storm Drain                | ✅       | ❌        |
+| 114 | Storm Drain                | ✅       | ✅        |
 | 115 | Ice Body                   | ✅       | ❌        |
 | 116 | Solid Rock                 | ✅       | ❌        |
 | 117 | Snow Warning               | ✅       | ❌        |
