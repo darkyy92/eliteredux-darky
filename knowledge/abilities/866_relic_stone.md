@@ -1,8 +1,8 @@
 ---
 id: 866
 name: Relic Stone
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 103
 ---
 
 # Relic Stone - Ability ID 866
@@ -13,7 +13,7 @@ Other battlers don't benefit from STAB.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-While this ability is active, all other battlers lose their Same Type Attack Bonus, dealing normal damage instead of 1.5x with type matching moves. Even battlers with Adaptability cannot achieve 2x STAB. Only affects opponents - the user retains their STAB bonus. Suppressed by Mold Breaker abilities
+While the user is on field, every other Pokemon does not receive a STAB bonus from typing or abilities. 
 
 ## Detailed Mechanical Explanation
 
