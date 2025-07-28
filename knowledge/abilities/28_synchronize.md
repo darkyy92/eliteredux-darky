@@ -1,8 +1,8 @@
 ---
 id: 28
 name: Synchronize
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 96
 ---
 
 # Synchronize - Ability ID 28
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When inflicted with poison, toxic, paralysis, or burn, the attacker receives the same status. Reflects exact status type (toxic stays toxic). Works through Safeguard. Also makes wild Pokemon have same nature when leading party. Status mirror that punishes status users. Deters status strategies.
+When inflicted with a non-volatile status (except sleep), the attacker receives the same status. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
