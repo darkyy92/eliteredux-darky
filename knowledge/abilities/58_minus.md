@@ -1,8 +1,8 @@
 ---
 id: 58
 name: Minus
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 89
 ---
 
 # Minus - Ability ID 58
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Minus doubles damage output when partnered with Plus or Minus ally. Only works in double/triple battles with living partner. Creates powerful synergy enabling devastating combo attacks. Essential for doubles strategies focused on overwhelming offensive pressure through coordinated ability synergy.
+Doubles the Pokemon's offensive power when partnered with an ally that has Minus or Plus.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
