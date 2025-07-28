@@ -67,7 +67,7 @@ In Progress: 0
 |  56 | Cute Charm                 | ✅       | ✅        |
 |  57 | Plus                       | ✅       | ✅        |
 |  58 | Minus                      | ✅       | ✅        |
-|  59 | Forecast                   | ✅       | ❌        |
+|  59 | Forecast                   | ✅       | ✅        |
 |  60 | Sticky Hold                | ✅       | ❌        |
 |  61 | Shed Skin                  | ✅       | ✅        |
 |  62 | Guts                       | ✅       | ✅        |

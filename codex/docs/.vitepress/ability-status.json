@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 705,
+    "completed": 706,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T14:24:28.929202Z"
+    "generated_at": "2025-07-28T14:28:45.891591Z"
   },
   "abilities": {
     "0": {
@@ -424,8 +424,8 @@
       "id": 59,
       "name": "Forecast",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "60": {
       "id": 60,
@@ -6496,10 +6496,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "59": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "60": {
       "indicator": "🟠",
