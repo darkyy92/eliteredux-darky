@@ -1,8 +1,8 @@
 ---
 id: 48
 name: Early Bird
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 100
 ---
 
 # Early Bird - Ability ID 48
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Early Bird allows the Pokemon to wake up from sleep twice as fast. While normal Pokemon subtract 1 sleep turn per turn, Early Bird users subtract 2 turns, effectively halving sleep duration. Works against all sleep-inducing moves and effects, making the Pokemon more resistant to sleep strategies.
+Allows the user to wake up from sleep twice as fast. Subtract 2 sleep turns every turn instead of 1. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
