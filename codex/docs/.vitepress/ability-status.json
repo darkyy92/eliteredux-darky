@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 672,
+    "completed": 673,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:36:32.969666Z"
+    "generated_at": "2025-07-28T01:38:08.202400Z"
   },
   "abilities": {
     "0": {
@@ -123,8 +123,8 @@
       "id": 16,
       "name": "Color Change",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "17": {
       "id": 17,
@@ -6238,10 +6238,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "16": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "17": {
       "indicator": "🟠",
