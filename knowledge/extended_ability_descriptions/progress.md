@@ -40,7 +40,7 @@ In Progress: 0
 |  29 | Clear Body                 | ✅       | ✅        |
 |  30 | Natural Cure               | ✅       | ✅        |
 |  31 | Lightning Rod              | ✅       | ❌        |
-|  32 | Serene Grace               | ✅       | ❌        |
+|  32 | Serene Grace               | ✅       | ✅        |
 |  33 | Swift Swim                 | ✅       | ✅        |
 |  34 | Chlorophyll                | ✅       | ✅        |
 |  35 | Illuminate                 | ✅       | ❌        |
