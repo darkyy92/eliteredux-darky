@@ -37,7 +37,7 @@ In Progress: 0
 |  26 | Levitate                   | ✅       | ✅        |
 |  27 | Effect Spore               | ✅       | ✅        |
 |  28 | Synchronize                | ✅       | ✅        |
-|  29 | Clear Body                 | ✅       | ❌        |
+|  29 | Clear Body                 | ✅       | ✅        |
 |  30 | Natural Cure               | ✅       | ❌        |
 |  31 | Lightning Rod              | ✅       | ❌        |
 |  32 | Serene Grace               | ✅       | ❌        |

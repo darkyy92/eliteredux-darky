@@ -80,7 +80,7 @@ When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison. C
 When inflicted with a non-volatile status (except sleep), the attacker receives the same status.
 
 # ID: 29
-Prevents all stat reductions from opponents' moves and abilities. Blocks Intimidate, stat-lowering moves, and secondary effects. Self-inflicted drops still occur. Can be bypassed by Mold Breaker. Essential protection against stat-lowering strategies and Intimidate spam in competitive play.
+Gives immunity to all stat reductions from moves and abilities. Includes self stat drops from moves like Overheat.
 
 # ID: 30
 Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokemon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum. Unlimited healing uses.
