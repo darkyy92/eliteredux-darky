@@ -1,8 +1,8 @@
 ---
 id: 44
 name: Rain Dish
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 52
 ---
 
 # Rain Dish - Ability ID 44
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rain Dish restores HP when rain weather is active, healing 1/8 of maximum HP at the end of each turn. Works with all rain types including Drizzle and Primordial Sea. Healing is blocked by Heal Block, Bleed status, Blood Stain effect, or opposing Permanence ability. Enhanced by Big Root item.
+Restores 1/8 max HP at the end of each turn in rain.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
