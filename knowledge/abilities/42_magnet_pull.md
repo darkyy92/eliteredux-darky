@@ -1,8 +1,8 @@
 ---
 id: 42
 name: Magnet Pull
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 258
 ---
 
 # Magnet Pull - Ability ID 42
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Magnet Pull prevents Steel-type Pokemon from switching out. Ghost-types are immune to this effect. Pokemon holding Shed Shell can escape. Does not block Teleport, U-turn, Volt Switch, or Baton Pass. Creates magnetic field that traps Steel Pokemon until the user switches out or faints.
+Prevents Steel-type Pokemon from switching out while the user is present. Ghost-types are immune to this effect. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
