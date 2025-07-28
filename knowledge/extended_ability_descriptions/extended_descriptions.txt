@@ -119,7 +119,7 @@ Immune to frostbite. Reduces damage received from Water and Ice-type moves by 30
 Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in.
 
 # ID: 42
-Magnet Pull prevents Steel-type Pokemon from switching out. Ghost-types are immune to this effect. Pokemon holding Shed Shell can escape. Does not block Teleport, U-turn, Volt Switch, or Baton Pass. Creates magnetic field that traps Steel Pokemon until the user switches out or faints.
+Prevents Steel-type Pokemon from switching out while the user is present. Ghost-types are immune to this effect. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle.
 
 # ID: 43
 Soundproof grants complete immunity to all sound-based moves. Blocks damage moves like Boomburst and Hyper Voice, status moves like Sing and Supersonic, and utility moves like Heal Bell and Perish Song. Mold Breaker can bypass this immunity. Self-targeting sound moves are not blocked.

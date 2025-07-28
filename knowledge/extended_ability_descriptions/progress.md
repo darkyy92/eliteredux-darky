@@ -50,7 +50,7 @@ In Progress: 0
 |  39 | Inner Focus                | ✅       | ✅        |
 |  40 | Magma Armor                | ✅       | ✅        |
 |  41 | Water Veil                 | ✅       | ✅        |
-|  42 | Magnet Pull                | ✅       | ❌        |
+|  42 | Magnet Pull                | ✅       | ✅        |
 |  43 | Soundproof                 | ✅       | ❌        |
 |  44 | Rain Dish                  | ✅       | ❌        |
 |  45 | Sand Stream                | ✅       | ❌        |
