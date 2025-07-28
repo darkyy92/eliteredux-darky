@@ -72,7 +72,7 @@ In Progress: 0
 |  61 | Shed Skin                  | ✅       | ✅        |
 |  62 | Guts                       | ✅       | ✅        |
 |  63 | Marvel Scale               | ✅       | ✅        |
-|  64 | Liquid Ooze                | ✅       | ❌        |
+|  64 | Liquid Ooze                | ✅       | ✅        |
 |  65 | Overgrow                   | ✅       | ❌        |
 |  66 | Blaze                      | ✅       | ❌        |
 |  67 | Torrent                    | ✅       | ❌        |
