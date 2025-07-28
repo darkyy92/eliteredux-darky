@@ -2510,7 +2510,7 @@ After using a move, follow up with a 20 BP Poison Gas (Poison, Special, 20% chan
 Boosts pulse, beam, ball, and aura moves by 30%. Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
 # ID: 857
-Prevents the user and its ally from being targeted by priority moves with priority higher than 0. Once
+Prevents the user and its ally from being targeted by priority moves with priority higher than 0. Use Glare on entry, paralyzing the target. Once per battle.
 
 # ID: 858
 Boosts the Pokemon's Speed by one stage when it causes an opponent to faint with a direct attack.
