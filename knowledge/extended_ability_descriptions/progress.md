@@ -68,7 +68,7 @@ In Progress: 0
 |  57 | Plus                       | ✅       | ✅        |
 |  58 | Minus                      | ✅       | ✅        |
 |  59 | Forecast                   | ✅       | ✅        |
-|  60 | Sticky Hold                | ✅       | ❌        |
+|  60 | Sticky Hold                | ✅       | ✅        |
 |  61 | Shed Skin                  | ✅       | ✅        |
 |  62 | Guts                       | ✅       | ✅        |
 |  63 | Marvel Scale               | ✅       | ❌        |
