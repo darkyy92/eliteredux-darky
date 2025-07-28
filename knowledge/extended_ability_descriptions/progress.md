@@ -872,7 +872,7 @@ In Progress: 0
 | 861 | Hungry Maws                | ✅       | ✅        |
 | 862 | Thermal Slide              | ✅       | ✅        |
 | 863 | Thermomancy                | ✅       | ✅        |
-| 864 | Chuckster (N)              | ✅       | ❌        |
+| 864 | Chuckster (N)              | ✅       | ✅        |
 | 865 | Heat Sink                  | ✅       | ❌        |
 | 866 | Relic Stone                | ✅       | ❌        |
 | 867 | Supercell                  | ✅       | ❌        |

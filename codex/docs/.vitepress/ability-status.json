@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 656,
+    "completed": 657,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T00:26:26.598022Z"
+    "generated_at": "2025-07-28T00:29:10.229155Z"
   },
   "abilities": {
     "0": {
@@ -6059,8 +6059,8 @@
       "id": 864,
       "name": "Chuckster (N)",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "865": {
       "id": 865,
@@ -11326,10 +11326,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "864": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "865": {
       "indicator": "🟠",
