@@ -36,7 +36,7 @@ In Progress: 0
 |  25 | Wonder Guard               | ✅       | ✅        |
 |  26 | Levitate                   | ✅       | ✅        |
 |  27 | Effect Spore               | ✅       | ✅        |
-|  28 | Synchronize                | ✅       | ❌        |
+|  28 | Synchronize                | ✅       | ✅        |
 |  29 | Clear Body                 | ✅       | ❌        |
 |  30 | Natural Cure               | ✅       | ❌        |
 |  31 | Lightning Rod              | ✅       | ❌        |
