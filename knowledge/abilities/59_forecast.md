@@ -1,8 +1,8 @@
 ---
 id: 59
 name: Forecast
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 279
 ---
 
 # Forecast - Ability ID 59
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Changes form and type to match active weather. When using weather moves, automatically follows up with Weather Ball (100 power, matching type). Transforms on entry, weather changes, and turn end. Unsuppressable ability that works even under Mold Breaker effects.
+Changes form and type to match active weather. When using weather setting moves, follows up with Weather Ball (100 BP, Special, matching type with set weather). Transforms on entry, weather changes, and turn end. Unsuppressable ability that works even under Mold Breaker effects.
 
 ## Detailed Mechanical Explanation
 **Forecast** is Castform's signature ability that combines form transformation with automatic offensive follow-ups.
