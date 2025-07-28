@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 650,
+    "completed": 651,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T00:05:26.492184Z"
+    "generated_at": "2025-07-28T00:06:08.777682Z"
   },
   "abilities": {
     "0": {
@@ -6017,8 +6017,8 @@
       "id": 858,
       "name": "Breezy Neigh",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "859": {
       "id": 859,
@@ -11290,10 +11290,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "858": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "859": {
       "indicator": "🟠",

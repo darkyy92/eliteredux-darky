@@ -2513,7 +2513,7 @@ Boosts pulse, beam, ball, and aura moves by 30%. Biting moves use the Special At
 Prevents the user and its ally from being targeted by priority moves with priority higher than 0. Once
 
 # ID: 858
-When this Pokemon knocks out an opponent with a direct attack, its Speed stat increases by one stage. The boost occurs immediately after the target faints. Multiple knockouts result in multiple Speed boosts up to +6. Perfect for sweeping teams after securing the first KO.
+Boosts the Pokemon's Speed by one stage when it causes an opponent to faint with a direct attack.
 
 # ID: 859
 Dreamscape combines Comatose and Dreamcatcher, keeping the Pokemon in permanent sleep while being fully functional. Gains complete immunity to all status conditions and deals 20% more damage. The sleep state also enables Dreamcatcher, doubling move power for devastating 140% total damage increase.

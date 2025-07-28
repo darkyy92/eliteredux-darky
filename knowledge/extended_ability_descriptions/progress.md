@@ -866,7 +866,7 @@ In Progress: 0
 | 855 | Ability 855                | ❌       | ❌        |
 | 856 | Ability 856                | ❌       | ❌        |
 | 857 | Royal Decree               | ✅       | ✅        |
-| 858 | Breezy Neigh               | ✅       | ❌        |
+| 858 | Breezy Neigh               | ✅       | ✅        |
 | 859 | Dreamscape                 | ✅       | ❌        |
 | 860 | Haste Makes Waste          | ✅       | ❌        |
 | 861 | Hungry Maws                | ✅       | ❌        |
