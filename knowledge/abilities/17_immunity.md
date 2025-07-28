@@ -1,8 +1,8 @@
 ---
 id: 17
 name: Immunity
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 185
 ---
 
 # Immunity - Ability ID 17
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker abilities.
+Prevents poisoning. Reduces all Poison-type damage by 50%. Multiplicative with other sources of damage reduction. If poisoned when gaining this ability, the poison is immediately cured. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
