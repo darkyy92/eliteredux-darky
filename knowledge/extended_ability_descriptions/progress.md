@@ -865,7 +865,7 @@ In Progress: 0
 | 854 | Gnashing Cannon            | ✅       | ✅        |
 | 855 | Ability 855                | ❌       | ❌        |
 | 856 | Ability 856                | ❌       | ❌        |
-| 857 | Royal Decree               | ✅       | ❌        |
+| 857 | Royal Decree               | ✅       | ✅        |
 | 858 | Breezy Neigh               | ✅       | ❌        |
 | 859 | Dreamscape                 | ✅       | ❌        |
 | 860 | Haste Makes Waste          | ✅       | ❌        |
