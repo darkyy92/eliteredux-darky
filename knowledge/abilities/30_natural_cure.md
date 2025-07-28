@@ -1,8 +1,8 @@
 ---
 id: 30
 name: Natural Cure
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 47
 ---
 
 # Natural Cure - Ability ID 30
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically cures all status conditions when switching out. Removes poison, burn, paralysis, sleep, and freeze instantly. Perfect for pivot Pokemon that absorb status moves. No activation on fainting. Enables risk-free status absorption and maintains team momentum. Unlimited healing uses.
+Cures all status conditions when switching out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
