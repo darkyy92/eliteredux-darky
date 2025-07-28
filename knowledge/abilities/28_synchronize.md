@@ -2,7 +2,7 @@
 id: 28
 name: Synchronize
 status: reviewed
-character_count: 96
+character_count: 234
 ---
 
 # Synchronize - Ability ID 28
@@ -13,7 +13,7 @@ character_count: 96
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When inflicted with a non-volatile status (except sleep), the attacker receives the same status. 
+When inflicted with a non-volatile status (except sleep), the attacker receives the same status. Bypasses Substitute. If the user can cure the status when it is inflicted, they will inflict the status to the attacker before curing it.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
