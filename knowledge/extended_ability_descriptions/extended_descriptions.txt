@@ -2509,9 +2509,6 @@ After using a move, follow up with a 20 BP Poison Gas (Poison, Special, 20% chan
 # ID: 854
 Boosts pulse, beam, ball, and aura moves by 30%. Biting moves use the Special Attack (still targets enemy's Defense unless stated otherwise) and deal 30% more damage.
 
-# ID: 855
-Hyper Cleanse provides complete immunity to all status conditions including burn, freeze, paralysis, poison, and sleep. Additionally reduces damage from poison-type moves by 50%. The status immunity cannot be bypassed by Mold Breaker. Perfect for defensive pivots and status absorbers.
-
 # ID: 856
 This combination ability grants all Mineralize effects while adding dangerous burning. Normal moves become Rock-type with STAB. Additionally, whenever this Pokemon uses any Rock move that hits an opponent, there's a 50% chance to inflict burn. Transforms utility moves into offensive Rock attacks.
 
