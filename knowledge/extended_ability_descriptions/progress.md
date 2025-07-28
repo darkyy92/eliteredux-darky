@@ -57,7 +57,7 @@ In Progress: 0
 |  46 | Pressure                   | ✅       | ✅        |
 |  47 | Thick Fat                  | ✅       | ✅        |
 |  48 | Early Bird                 | ✅       | ✅        |
-|  49 | Flame Body                 | ✅       | ❌        |
+|  49 | Flame Body                 | ✅       | ✅        |
 |  50 | Run Away                   | ✅       | ❌        |
 |  51 | Keen Eye                   | ✅       | ❌        |
 |  52 | Hyper Cutter               | ✅       | ❌        |

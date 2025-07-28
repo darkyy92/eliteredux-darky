@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 695,
+    "completed": 696,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:40:00.110862Z"
+    "generated_at": "2025-07-28T13:41:06.634432Z"
   },
   "abilities": {
     "0": {
@@ -354,8 +354,8 @@
       "id": 49,
       "name": "Flame Body",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "50": {
       "id": 50,
@@ -6436,10 +6436,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "49": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "50": {
       "indicator": "🟠",
