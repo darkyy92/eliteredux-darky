@@ -77,7 +77,7 @@ The user is immune to Ground-type moves and other ground effects such as Spikes 
 When hit by a contact move, 30% chance to inflict sleep, paralysis, or poison. Chosen randomly.
 
 # ID: 28
-When inflicted with a non-volatile status (except sleep), the attacker receives the same status.
+When inflicted with a non-volatile status (except sleep), the attacker receives the same status. Bypasses Substitute. If the user can cure the status when it is inflicted, they will inflict the status to the attacker before curing it.
 
 # ID: 29
 Gives immunity to all stat reductions from moves and abilities. Includes self stat drops from moves like Overheat.
