@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 692,
+    "completed": 693,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:33:55.783609Z"
+    "generated_at": "2025-07-28T13:37:10.311545Z"
   },
   "abilities": {
     "0": {
@@ -333,8 +333,8 @@
       "id": 46,
       "name": "Pressure",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "47": {
       "id": 47,
@@ -6418,10 +6418,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "46": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "47": {
       "indicator": "🟠",

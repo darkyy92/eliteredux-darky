@@ -54,7 +54,7 @@ In Progress: 0
 |  43 | Soundproof                 | ✅       | ✅        |
 |  44 | Rain Dish                  | ✅       | ✅        |
 |  45 | Sand Stream                | ✅       | ✅        |
-|  46 | Pressure                   | ✅       | ❌        |
+|  46 | Pressure                   | ✅       | ✅        |
 |  47 | Thick Fat                  | ✅       | ❌        |
 |  48 | Early Bird                 | ✅       | ❌        |
 |  49 | Flame Body                 | ✅       | ❌        |
