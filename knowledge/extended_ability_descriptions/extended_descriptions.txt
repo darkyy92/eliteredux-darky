@@ -350,7 +350,7 @@ Honey Gather gives a 50% chance to find a Honey item at the end of each turn, bu
 Upon entering battle, reveals the opponents' items and prevents them from working for 2 turns. Does not prevent Mega Stones and other similar items from working.
 
 # ID: 120
-Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves.
+Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves. Also grants Mold Breaker effects to these moves, allowing them to ignore abilities and innates that block effects or reduce damage. Does not bypass abilities that modify base stats.
 
 # ID: 121
 Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.
