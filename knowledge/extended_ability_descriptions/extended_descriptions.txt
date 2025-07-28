@@ -2519,7 +2519,7 @@ Boosts the Pokemon's Speed by one stage when it causes an opponent to faint with
 Considers the user as asleep for moves and statuses. User can act normally and gains immunity to status conditions. Doubles the power of moves when any active Pokemon is asleep. Attacks hit sleeping foes who are switching out for 1x power instead, damaging them before leaving. Boosts damage by 20%.
 
 # ID: 860
-Combines Stall and Analytic. When moving after the opponent, takes 30% less damage from their attacks while dealing 30% more damage with own moves. Rewards tactical waiting over hasty action, providing both defensive and offensive benefits when slower.
+Reduces damage by 30% if the user has not moved yet. Multiplicative with other damage reduction sources. Works when the user switches in mid-turn. Boosts damage by 30% if the target has already moved this turn.
 
 # ID: 861
 This Pokemon's bite and jaw moves are boosted by 30%. When KOing opponents with these moves, it heals 50% of its max HP, but only 25% when using other moves.

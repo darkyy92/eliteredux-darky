@@ -868,7 +868,7 @@ In Progress: 0
 | 857 | Royal Decree               | ✅       | ✅        |
 | 858 | Breezy Neigh               | ✅       | ✅        |
 | 859 | Dreamscape                 | ✅       | ✅        |
-| 860 | Haste Makes Waste          | ✅       | ❌        |
+| 860 | Haste Makes Waste          | ✅       | ✅        |
 | 861 | Hungry Maws                | ✅       | ❌        |
 | 862 | Thermal Slide              | ✅       | ❌        |
 | 863 | Thermomancy                | ✅       | ❌        |
