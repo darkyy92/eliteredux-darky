@@ -1,8 +1,8 @@
 ---
 id: 867
 name: Supercell
-status: ai-generated
-character_count: 246
+status: reviewed
+character_count: 231
 ---
 
 # Supercell - Ability ID 867
@@ -13,7 +13,7 @@ Drizzle + Electro Surge.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Drizzle and Electric Surge. Summons rain (boosts Water moves 20%, weakens Fire 50%) and Electric Terrain (boosts Electric moves 30%, prevents sleep) simultaneously on entry. Provides dual field control for weather and terrain strategies.
+Summons rain and Electric Terrain upon entry, lasting 8 turns (12 with Damp Rock/Terrain Extender). Boosts Water moves by 50% and cuts Fire damage by 50%. Grounded Pokemon cannot fall asleep and Electric moves gain 30% power boost.
 
 ## Detailed Mechanical Explanation
 
