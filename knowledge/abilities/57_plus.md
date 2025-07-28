@@ -1,8 +1,8 @@
 ---
 id: 57
 name: Plus
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 89
 ---
 
 # Plus - Ability ID 57
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Plus doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus abilities. In double battles, this creates a powerful synergy effect that multiplies damage by 2.0x. Only activates when both Pokemon are alive on the field. Pairs excellently with Minus ability.
+Doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
