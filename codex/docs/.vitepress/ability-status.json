@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 668,
+    "completed": 669,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:19:58.311869Z"
+    "generated_at": "2025-07-28T01:25:15.337422Z"
   },
   "abilities": {
     "0": {
@@ -6129,8 +6129,8 @@
       "id": 874,
       "name": "Winter Throne",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "875": {
       "id": 875,
@@ -11386,10 +11386,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "874": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "875": {
       "indicator": "🟠",

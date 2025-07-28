@@ -882,5 +882,5 @@ In Progress: 0
 | 871 | Fire Aspect                | ✅       | ✅        |
 | 872 | Aurora's Gale              | ✅       | ✅        |
 | 873 | Ice Plumes                 | ✅       | ✅        |
-| 874 | Winter Throne              | ✅       | ❌        |
+| 874 | Winter Throne              | ✅       | ✅        |
 | 875 | Energy Tap                 | ✅       | ❌        |
