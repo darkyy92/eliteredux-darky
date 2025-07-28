@@ -1,8 +1,8 @@
 ---
 id: 12
 name: Oblivious
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 165
 ---
 
 # Oblivious - Ability ID 12
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
+This Pokemon is immune to infatuation, Scare, Intimidate and Taunt. When gaining this ability while afflicted by any of the mentioned statuses, instantly cures them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
