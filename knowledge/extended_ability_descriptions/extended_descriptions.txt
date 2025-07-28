@@ -98,7 +98,7 @@ Boosts Speed by 50% during rain.
 Boosts the Pokemon's Speed by 50% during sun.
 
 # ID: 35
-Illuminate increases the accuracy of all moves used by the Pokemon by 20% (1.2x multiplier). Additionally, when this Pokemon is in the lead position of your party while exploring, it doubles the wild encounter rate, making it easier to find wild Pokemon in tall grass, caves, and water.
+Illuminate increases the accuracy of all moves used by the Pokemon by 20% (1.2x multiplier). Additionally, when this Pokemon is in the lead position of your party while exploring, it doubles the wild encounter rate, making it easier to find wild Pokemon in tall grass, caves, and water
 
 # ID: 36
 Trace copies the ability of an opposing Pokemon when entering battle, replacing itself in the current ability slot. Cannot copy Trace, Wonder Guard, Receiver, or persistent abilities. In doubles, targets the first valid opponent. Does not copy innate abilities. Shows ability popup.

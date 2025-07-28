@@ -43,7 +43,7 @@ In Progress: 0
 |  32 | Serene Grace               | ✅       | ✅        |
 |  33 | Swift Swim                 | ✅       | ✅        |
 |  34 | Chlorophyll                | ✅       | ✅        |
-|  35 | Illuminate                 | ✅       | ❌        |
+|  35 | Illuminate                 | ✅       | ✅        |
 |  36 | Trace                      | ✅       | ❌        |
 |  37 | Huge Power                 | ✅       | ❌        |
 |  38 | Poison Point               | ✅       | ✅        |
