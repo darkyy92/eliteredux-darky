@@ -1,8 +1,8 @@
 ---
 id: 25
 name: Wonder Guard
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 182
 ---
 
 # Wonder Guard - Ability ID 25
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Only super-effective moves can damage this Pokemon. All other direct attacks deal zero damage. Status moves, weather, poison, burn, and entry hazards still work. Can be bypassed by Mold Breaker abilities. Shedinja's signature ability turns 1 HP into formidable defense. Forces careful teambuilding.
+Only super-effective attacks or indirect damage can hurt the user. All other direct attacks deal zero damage. Other sources such as poison or ability damage still function as normal.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
