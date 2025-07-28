@@ -1469,7 +1469,7 @@ Lowers both Attack and Special Attack of opposing Pokemon upon entry by one stag
 Uses Torment on entry, preventing the opponent from using the same move consecutively.
 
 # ID: 499
-Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Additionally boosts the accuracy of all moves by 20%.
+Reduces damage from super effective attacks by 35%. Multiplicative with other damage reduction sources. Boosts the user's accuracy by 1.2x. Removes Ghost-typing on target when landing an attack.
 
 # ID: 500
 Guarantees Spacial Rend always lands critical hits and increases critical hit ratio by one stage for all other moves.
