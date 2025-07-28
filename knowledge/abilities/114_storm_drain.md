@@ -1,8 +1,8 @@
 ---
 id: 114
 name: Storm Drain
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 154
 ---
 
 # Storm Drain - Ability ID 114
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Storm Drain redirects all single-target Water-type moves to this Pokemon, absorbing them completely for no damage. When a Water move is absorbed, the Pokemon's highest attacking stat (Attack or Special Attack including stat stages) is raised by one stage. Multi-target moves are unaffected.
+The user is draws in Water-type moves and gain immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage.
 
 ## Detailed Mechanical Explanation
 
