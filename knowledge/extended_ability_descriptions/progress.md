@@ -35,7 +35,7 @@ In Progress: 0
 |  24 | Rough Skin                 | ✅       | ✅        |
 |  25 | Wonder Guard               | ✅       | ✅        |
 |  26 | Levitate                   | ✅       | ✅        |
-|  27 | Effect Spore               | ✅       | ❌        |
+|  27 | Effect Spore               | ✅       | ✅        |
 |  28 | Synchronize                | ✅       | ❌        |
 |  29 | Clear Body                 | ✅       | ❌        |
 |  30 | Natural Cure               | ✅       | ❌        |
