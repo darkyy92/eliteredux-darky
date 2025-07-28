@@ -1,8 +1,8 @@
 ---
 id: 47
 name: Thick Fat
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 115
 ---
 
 # Thick Fat - Ability ID 47
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Provides resistance to Fire and Ice type attacks, taking only half damage from these types. This dual resistance makes the Pokemon exceptionally durable against temperature-based attacks, offering excellent switch-in opportunities and defensive staying power throughout long battles.
+Reduces damage received from Fire and Ice-type moves by 50%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
