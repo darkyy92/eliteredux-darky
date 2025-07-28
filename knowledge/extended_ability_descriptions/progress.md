@@ -78,7 +78,7 @@ In Progress: 0
 |  67 | Torrent                    | ✅       | ❌        |
 |  68 | Swarm                      | ✅       | ❌        |
 |  69 | Rock Head                  | ✅       | ✅        |
-|  70 | Drought                    | ✅       | ❌        |
+|  70 | Drought                    | ✅       | ✅        |
 |  71 | Arena Trap                 | ✅       | ❌        |
 |  72 | Vital Spirit               | ✅       | ❌        |
 |  73 | White Smoke                | ✅       | ❌        |

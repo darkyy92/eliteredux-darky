@@ -203,7 +203,7 @@ Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pok
 Prevents all recoil damage from the user's moves and abilities. Also grants immunity to enrage recoil damage. Does not prevent crash damage or Explosion/Self-Destruct damage.
 
 # ID: 70
-Summons harsh sunlight for 8 turns (12 with Heat Rock) when entering battle. Boosts Fire moves by 50%, reduces Water moves by 50%. Solar Beam/Blade charge instantly. Thunder/Hurricane miss more. Prevents freezing. Cannot override primal weather. Blocked by Cloud Nine.
+Summons harsh sunlight for 8 turns (12 with Heat Rock) on entry. Boosts Fire moves by 50%, reduces Water moves by 50%. Activates extra effects on sun related moves.
 
 # ID: 71
 Arena Trap prevents grounded enemy Pokemon from fleeing or switching out. Flying-type Pokemon, Pokemon with Levitate, Magnet Rise, Air Balloon, or Telekinesis are immune. Ghost-type Pokemon are also immune. Shed Shell bypasses this trap. Does not work on allies in double battles.
