@@ -164,7 +164,7 @@ Boosts the power of attacks by 1.4x but reduces their accuracy by 10%. Only affe
 When hit by making contact (offensively or defensively), has a 50% chance to infatuate the attacker (cuts their Attack and Special Attack in half). This only works on Pokemon of the opposite gender.
 
 # ID: 57
-Plus doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus abilities. In double battles, this creates a powerful synergy effect that multiplies damage by 2.0x. Only activates when both Pokemon are alive on the field. Pairs excellently with Minus ability.
+Doubles the Pokemon's offensive power when partnered with an ally that has Plus or Minus.
 
 # ID: 58
 Minus doubles damage output when partnered with Plus or Minus ally. Only works in double/triple battles with living partner. Creates powerful synergy enabling devastating combo attacks. Essential for doubles strategies focused on overwhelming offensive pressure through coordinated ability synergy.

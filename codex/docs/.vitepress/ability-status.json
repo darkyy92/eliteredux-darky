@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 703,
+    "completed": 704,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T14:22:51.758342Z"
+    "generated_at": "2025-07-28T14:23:34.297106Z"
   },
   "abilities": {
     "0": {
@@ -410,8 +410,8 @@
       "id": 57,
       "name": "Plus",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "58": {
       "id": 58,
@@ -6484,10 +6484,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "57": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "58": {
       "indicator": "🟠",

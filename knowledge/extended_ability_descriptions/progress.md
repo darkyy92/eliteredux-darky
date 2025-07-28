@@ -65,7 +65,7 @@ In Progress: 0
 |  54 | Truant                     | ✅       | ✅        |
 |  55 | Hustle                     | ✅       | ✅        |
 |  56 | Cute Charm                 | ✅       | ✅        |
-|  57 | Plus                       | ✅       | ❌        |
+|  57 | Plus                       | ✅       | ✅        |
 |  58 | Minus                      | ✅       | ❌        |
 |  59 | Forecast                   | ✅       | ❌        |
 |  60 | Sticky Hold                | ✅       | ❌        |
