@@ -1,8 +1,8 @@
 ---
 id: 860
 name: Haste Makes Waste
-status: ai-generated
-character_count: 252
+status: reviewed
+character_count: 210
 ---
 
 # Haste Makes Waste - Ability ID 860
@@ -13,7 +13,7 @@ character_count: 252
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Stall and Analytic. When moving after the opponent, takes 30% less damage from their attacks while dealing 30% more damage with own moves. Rewards tactical waiting over hasty action, providing both defensive and offensive benefits when slower.
+Reduces damage by 30% if the user has not moved yet. Multiplicative with other damage reduction sources. Works when the user switches in mid-turn. Boosts damage by 30% if the target has already moved this turn.
 
 ## Detailed Mechanical Explanation
 
