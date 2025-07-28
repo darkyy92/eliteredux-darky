@@ -1,8 +1,8 @@
 ---
 id: 54
 name: Truant
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 147
 ---
 
 # Truant - Ability ID 54
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Truant prevents consecutive attacking moves. After using any physical or special move, the Pokemon must loaf around next turn and cannot attack. Status moves remain unaffected. This creates a predictable pattern where attacking turns alternate with forced loafing turns, severely limiting offense.
+Prevents consecutive attacking moves. After using an attack, the user must loaf around next turn and cannot attack. Status moves remain unaffected. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
