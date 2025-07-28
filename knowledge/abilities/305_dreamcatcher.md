@@ -2,7 +2,7 @@
 id: 305
 name: Dreamcatcher
 status: reviewed
-character_count: 275
+character_count: 273
 ---
 
 # Dreamcatcher - Ability ID 305
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dreamcatcher doubles the power of the user's moves when any Pokemon on the field is asleep. This includes the user, allies, or opponents. Also adds a Pursuit effect to the user's attacks for 1x damage when the opponent tries to switch out. Does not activate against Comatose.
+Dreamcatcher doubles the power of the user's moves when any Pokemon on the field is asleep. This includes the user, allies, or opponents. Attacks hit sleeping foes who are switching out for 1x power instead, damaging them before leaving. Does not activate against Comatose.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
