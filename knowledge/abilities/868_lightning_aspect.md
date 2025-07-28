@@ -1,8 +1,8 @@
 ---
 id: 868
 name: Lightning Aspect
-status: ai-generated
-character_count: 237
+status: reviewed
+character_count: 236
 ---
 
 # Lightning Aspect - Ability ID 868
@@ -13,7 +13,7 @@ Absorbs electric moves then ups highest stat by +1.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains.
+Absorbs Electric moves for immunity and boosts higher attacking stat by +1. Compares Attack vs Special Attack to determine boost target. Excellent for setup against Electric attacks while providing defensive immunity and offensive gains
 
 ## Detailed Mechanical Explanation
 
