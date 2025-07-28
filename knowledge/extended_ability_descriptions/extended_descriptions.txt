@@ -116,7 +116,7 @@ Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare.
 Immune to frostbite. Reduces damage received from Water and Ice-type moves by 30%. Multiplicative with other sources of damage reduction.
 
 # ID: 41
-Water Veil prevents burn status completely and automatically casts Aqua Ring upon entering battle. The Aqua Ring effect heals 1/16 max HP each turn. Big Root boosts healing by 50%. The healing stacks with other recovery effects and continues until the Pokemon switches out or faints.
+Uses Aqua Ring on entry, which restores 1/16 HP each turn. Grants immunity to burn status and removes burn on switching in.
 
 # ID: 42
 Magnet Pull prevents Steel-type Pokemon from switching out. Ghost-types are immune to this effect. Pokemon holding Shed Shell can escape. Does not block Teleport, U-turn, Volt Switch, or Baton Pass. Creates magnetic field that traps Steel Pokemon until the user switches out or faints.
