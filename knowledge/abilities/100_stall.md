@@ -2,7 +2,7 @@
 id: 100
 name: Stall
 status: reviewed
-character_count: 96
+character_count: 146
 ---
 
 # Stall - Ability ID 100
@@ -13,7 +13,7 @@ character_count: 96
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces damage by 30% when moving before the opponent. Works when the user switches in mid-turn.
+Reduces damage by 30% if the user has not moved yet. Multiplicative with other damage reduction sources. Works when the user switches in mid-turn.
 
 ## Detailed Mechanical Explanation
 
