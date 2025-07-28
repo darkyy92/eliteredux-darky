@@ -1,8 +1,8 @@
 ---
 id: 63
 name: Marvel Scale
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 86
 ---
 
 # Marvel Scale - Ability ID 63
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Marvel Scale increases Defense and Special Defense by 50% when afflicted with any status condition. Activates with sleep, poison, burn, paralysis, freeze, frostbite, bleed, and special conditions like Comatose. Excellent for defensive strategies and combines well with status orbs for reliable bulk.
+Increases Defense and Special Defense by 50% when afflicted with any status condition. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
