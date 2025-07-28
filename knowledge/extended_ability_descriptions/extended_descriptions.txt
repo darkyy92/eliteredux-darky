@@ -56,7 +56,7 @@ Blocks all secondary effects from damaging moves. Grants immunity to entry hazar
 Grants immunity to confusion, Intimidate, and Scare. Immediately cures confusion when receiving this ability.
 
 # ID: 21
-Suction Cups anchors the Pokemon in place, preventing forced switching from enemy moves like Roar, Whirlwind, Dragon Tail, and Circle Throw. Does not prevent voluntary switching or self-switching moves. Can be suppressed by Mold Breaker. AI recognizes and avoids wasting forced switch moves.
+Prevents forced switching from moves and Red Card.
 
 # ID: 22
 Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage.

@@ -29,7 +29,7 @@ In Progress: 0
 |  18 | Flash Fire                 | ✅       | ✅        |
 |  19 | Shield Dust                | ✅       | ✅        |
 |  20 | Own Tempo                  | ✅       | ✅        |
-|  21 | Suction Cups               | ✅       | ❌        |
+|  21 | Suction Cups               | ✅       | ✅        |
 |  22 | Intimidate                 | ✅       | ✅        |
 |  23 | Shadow Tag                 | ✅       | ✅        |
 |  24 | Rough Skin                 | ✅       | ✅        |
