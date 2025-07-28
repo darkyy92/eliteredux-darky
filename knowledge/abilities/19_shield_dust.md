@@ -1,8 +1,8 @@
 ---
 id: 19
 name: Shield Dust
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 218
 ---
 
 # Shield Dust - Ability ID 19
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shield Dust provides triple protection: blocks all secondary effects from damaging moves (burn, paralysis, stat drops), grants complete immunity to entry hazards (Stealth Rock, Spikes), and nullifies all powder-based moves. Elite Redux significantly expanded this ability's defensive coverage.
+Blocks all secondary effects from damaging moves. Grants immunity to entry hazards. Blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
