@@ -198,7 +198,7 @@ In Progress: 0
 | 187 | Fairy Aura                 | ✅       | ❌        |
 | 188 | Aura Break                 | ✅       | ❌        |
 | 189 | Primordial Sea             | ✅       | ❌        |
-| 190 | Desolate Land              | ✅       | ❌        |
+| 190 | Desolate Land              | ✅       | ✅        |
 | 191 | Delta Stream               | ✅       | ❌        |
 | 192 | Stamina                    | ✅       | ❌        |
 | 193 | Wimp Out                   | ✅       | ❌        |
