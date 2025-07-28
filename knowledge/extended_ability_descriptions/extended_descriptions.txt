@@ -44,7 +44,7 @@ Prevents falling asleep by any means, including sleep moves, abilities like Yawn
 Transforms the user into the best defensive type before taking damage. Prioritizes immunities over resistances. Only changes to a pure type. Once per turn.
 
 # ID: 17
-Immunity completely prevents poisoning from all sources including Toxic. Additionally reduces all Poison-type damage by 50%, providing both status and type resistance. If poisoned when gaining this ability, the poison is immediately cured. Can be suppressed by Mold Breaker abilities.
+Prevents poisoning. Reduces all Poison-type damage by 50%. Multiplicative with other sources of damage reduction. If poisoned when gaining this ability, the poison is immediately cured.
 
 # ID: 18
 Flash Fire grants complete immunity to Fire-type moves. When hit by Fire attacks, powers up the user's Fire moves by 50% until switching out. The boost doesn't stack from multiple Fire hits.

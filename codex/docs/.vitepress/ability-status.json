@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 673,
+    "completed": 674,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:38:08.202400Z"
+    "generated_at": "2025-07-28T01:39:51.118174Z"
   },
   "abilities": {
     "0": {
@@ -130,8 +130,8 @@
       "id": 17,
       "name": "Immunity",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "18": {
       "id": 18,
@@ -6244,10 +6244,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "17": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "18": {
       "indicator": "✅",
