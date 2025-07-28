@@ -2,7 +2,7 @@
 id: 14
 name: Compound Eyes
 status: reviewed
-character_count: 90
+character_count: 35
 ---
 
 # Compound Eyes - Ability ID 14
@@ -13,7 +13,7 @@ character_count: 90
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts the user's accuracy by 1.2x. Removes Ghost-typing on target when landing an attack.
+Boosts the user's accuracy by 1.3x.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
