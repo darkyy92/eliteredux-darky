@@ -1,8 +1,8 @@
 ---
 id: 71
 name: Arena Trap
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 211
 ---
 
 # Arena Trap - Ability ID 71
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Arena Trap prevents grounded enemy Pokemon from fleeing or switching out. Flying-type Pokemon, Pokemon with Levitate, Magnet Rise, Air Balloon, or Telekinesis are immune. Ghost-type Pokemon are also immune. Shed Shell bypasses this trap. Does not work on allies in double battles.
+Prevents all non-levitating or Ghost-type foes from switching out. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
