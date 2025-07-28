@@ -1490,7 +1490,7 @@ Uses Heart Swap on entry. Swaps stat stages with the Pokemon directly across fro
 Keen Edge moves become Special (deal Special damage and use the Special Attack stat) and deal 30% more damage.
 
 # ID: 506
-Determination boosts Special Attack by 50% when the Pokemon has any status condition or Comatose ability. Also prevents the frostbite status from reducing Special Attack.
+Boosts Special Attack by 50% when the Pokemon has any status condition. Also prevents the frostbite status from reducing Special Attack.
 
 # ID: 507
 Converts all Normal-type moves to Grass-type and grants STAB for Grass moves, regardless of the user's type.
