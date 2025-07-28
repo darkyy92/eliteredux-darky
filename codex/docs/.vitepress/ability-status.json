@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 670,
+    "completed": 671,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T01:25:59.725200Z"
+    "generated_at": "2025-07-28T01:31:31.286136Z"
   },
   "abilities": {
     "0": {
@@ -95,8 +95,8 @@
       "id": 12,
       "name": "Oblivious",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "13": {
       "id": 13,
@@ -6214,10 +6214,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "12": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "13": {
       "indicator": "✅",

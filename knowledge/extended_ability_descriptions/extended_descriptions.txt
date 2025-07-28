@@ -29,7 +29,7 @@ This Pokemon absorbs Electric-type moves completely, converting them into energy
 The user gains immunity to Water-type moves and they heal for 25% of their max HP when hit by them.
 
 # ID: 12
-This Pokemon is immune to infatuation and move-restricting effects like Taunt, Disable, Encore, and Torment. Maintains focus in battle, ignoring attempts to limit its move choices. Setup sweepers can boost freely without Taunt fear, and walls can use recovery moves unimpeded by disruption.
+This Pokemon is immune to infatuation, Scare, Intimidate and Taunt. When gaining this ability while afflicted by any of the mentioned statuses, instantly cures them.
 
 # ID: 13
 Cloud Nine clears all weather upon switch-in and nullifies weather effects (including Primal weathers) while the user remains on the field. Weather can still be set, but provides no damage boosts or ability triggers until the user switches out.
