@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 686,
+    "completed": 687,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T13:21:00.004980Z"
+    "generated_at": "2025-07-28T13:23:12.328868Z"
   },
   "abilities": {
     "0": {
@@ -291,8 +291,8 @@
       "id": 40,
       "name": "Magma Armor",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "41": {
       "id": 41,
@@ -6382,10 +6382,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "40": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "41": {
       "indicator": "🟠",

@@ -48,7 +48,7 @@ In Progress: 0
 |  37 | Huge Power                 | ✅       | ✅        |
 |  38 | Poison Point               | ✅       | ✅        |
 |  39 | Inner Focus                | ✅       | ✅        |
-|  40 | Magma Armor                | ✅       | ❌        |
+|  40 | Magma Armor                | ✅       | ✅        |
 |  41 | Water Veil                 | ✅       | ❌        |
 |  42 | Magnet Pull                | ✅       | ❌        |
 |  43 | Soundproof                 | ✅       | ❌        |

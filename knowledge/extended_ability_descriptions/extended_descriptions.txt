@@ -113,7 +113,7 @@ Has a 30% chance to inflict poison on contact moves, both when attacking and bei
 Focus Blast never misses. Unaffected by flinch, Intimidate, or Scare.
 
 # ID: 40
-Magma Armor grants complete immunity to the frostbite status condition and reduces damage from Water and Ice-type moves by 30%. This defensive ability is particularly effective against Ice-type Pokemon and moves that inflict frostbite. The resistance helps mitigate common weaknesses.
+Immune to frostbite. Reduces damage received from Water and Ice-type moves by 30%. Multiplicative with other sources of damage reduction.
 
 # ID: 41
 Water Veil prevents burn status completely and automatically casts Aqua Ring upon entering battle. The Aqua Ring effect heals 1/16 max HP each turn. Big Root boosts healing by 50%. The healing stacks with other recovery effects and continues until the Pokemon switches out or faints.
