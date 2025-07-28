@@ -224,7 +224,7 @@ Incoming damage is reduced by 20% (x0.8), multiplicative with other damage reduc
 Clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits. Works on all weather including primal conditions.
 
 # ID: 77
-Tangled Feet halves opponents' accuracy when this Pokemon is confused. The chaotic, unsteady movements from confusion make the Pokemon harder to hit. Works against all moves targeting this Pokemon, including status moves. Only functions while confused; provides no benefit otherwise.
+When the user is confused or enraged, the Pokemon uses its Speed stat instead of Defense or Special Defense for damage calculations. Choice Scarf does not affect this ability.
 
 # ID: 78
 Motor Drive makes the Pokemon immune to Electric-type moves, boosting Speed by 1 stage instead of taking damage. This includes status moves like Thunder Wave. Works against multi-hit Electric moves, boosting Speed for each hit absorbed. Excellent for pivoting into Electric attacks safely.

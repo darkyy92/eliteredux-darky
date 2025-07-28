@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 716,
+    "completed": 717,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T23:28:44.645858Z"
+    "generated_at": "2025-07-28T23:30:44.269414Z"
   },
   "abilities": {
     "0": {
@@ -550,8 +550,8 @@
       "id": 77,
       "name": "Tangled Feet",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "78": {
       "id": 78,
@@ -6604,10 +6604,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "77": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "78": {
       "indicator": "🟠",
