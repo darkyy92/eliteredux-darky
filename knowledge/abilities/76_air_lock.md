@@ -1,8 +1,8 @@
 ---
 id: 76
 name: Air Lock
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 193
 ---
 
 # Air Lock - Ability ID 76
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Air Lock clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits - no damage boosts, speed changes, or other effects. Works on all weather including primal conditions. Essential for shutting down weather teams.
+Clears all weather upon switch-in and nullifies weather effects while user remains on field. Weather can still be set but provides no benefits. Works on all weather including primal conditions. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
