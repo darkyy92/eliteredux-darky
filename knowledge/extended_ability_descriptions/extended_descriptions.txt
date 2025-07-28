@@ -62,7 +62,7 @@ Prevents forced switching from moves and Red Card.
 Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage.
 
 # ID: 23
-Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pivot moves such as Volt Switch still allows them to switch (except Teleport.)
+Prevents all non-Shadow Tag or Ghost-type foes from switching out. Pokemon holding Shed Shell or using a pivot move such as Flip Turn can escape. Activates during the next turn if the user switches in mid battle.
 
 # ID: 24
 Damages attackers using contact moves for 1/8 of their max HP. Activates on every hit for multihitting moves.
