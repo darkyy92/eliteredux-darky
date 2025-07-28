@@ -1,8 +1,8 @@
 ---
 id: 45
 name: Sand Stream
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 165
 ---
 
 # Sand Stream - Ability ID 45
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush work. Cannot override primal weather. Weather setters compete by Speed.
+Summons a Sandstorm for 8 turns (12 with Smooth Rock) on entry. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain a 50% Special Defense boost. 
 
 ## Detailed Mechanical Explanation
 **Sand Stream** automatically sets up a sandstorm when the Pokemon enters battle, providing the same effect as the move Sandstorm without using a turn.
