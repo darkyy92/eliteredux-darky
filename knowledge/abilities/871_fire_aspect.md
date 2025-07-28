@@ -1,8 +1,8 @@
 ---
 id: 871
 name: Fire Aspect
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 145
 ---
 
 # Fire Aspect - Ability ID 871
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fire Aspect absorbs all Fire-type moves to restore HP instead of taking damage. The Pokemon recovers 25% of its maximum HP when hit by fire attacks. Works against all fire moves including status moves. The absorbed energy fuels the user's internal flames, maintaining constant heat.
+The user gains immunity to Fire-type moves and they heal for 25% of their max HP when hit by them. Always burn with moves that can activate them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
