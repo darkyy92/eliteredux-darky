@@ -1,8 +1,8 @@
 ---
 id: 60
 name: Sticky Hold
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 53
 ---
 
 # Sticky Hold - Ability ID 60
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sticky Hold prevents the Pokemon from losing its held item through any means. Blocks Knock Off, Thief, Covet, Trick, Switcheroo, and other item-removing effects. The item remains secure throughout battle, enabling consistent item-dependent strategies and protecting valuable held items from theft.
+The user's item cannot be forcibly removed or stolen.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
