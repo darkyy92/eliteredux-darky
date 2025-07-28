@@ -1,8 +1,8 @@
 ---
 id: 855
 name: Hyper Cleanse
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 170
 ---
 
 # Hyper Cleanse - Ability ID 855
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hyper Cleanse provides complete immunity to all status conditions including burn, freeze, paralysis, poison, and sleep. Additionally reduces damage from poison-type moves by 50%. The status immunity cannot be bypassed by Mold Breaker. Perfect for defensive pivots and status absorbers.
+Immune to all status conditions. Additionally reduces all Poison-type damage by 50%. If afflicted with status when gaining this ability, conditions are immediately cured.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -68,10 +68,10 @@ constexpr Ability HyperCleanse = {
 
 ### Poison Damage Calculations
 Examples with 100 base power poison move:
-- **Neutral target**: 100 Ã— 0.5 = 50 power
-- **Grass/Fairy target**: 100 Ã— 2 Ã— 0.5 = 100 power
+- **Neutral target**: 100 × 0.5 = 50 power
+- **Grass/Fairy target**: 100 × 2 × 0.5 = 100 power
 - **Steel target**: Would be immune anyway
-- **Poison/Ground target**: 100 Ã— 0.5 Ã— 0.5 = 25 power
+- **Poison/Ground target**: 100 × 0.5 × 0.5 = 25 power
 
 ### Strategic Implications
 - **Ultimate status wall**: Cannot be crippled by status conditions
