@@ -1,8 +1,8 @@
 ---
 id: 49
 name: Flame Body
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 124
 ---
 
 # Flame Body - Ability ID 49
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flame Body has a 30% chance to inflict burn status on any Pokemon that makes contact with attacks, whether attacking or defending. The burned Pokemon takes 1/16 max HP damage each turn and has Attack reduced by 50%. Also doubles egg hatching speed when in party. Fire-types cannot be burned.
+Contact with this Pokemon has a 20% chance to inflict burn. Non-contact has a 30% chance. Works offensively and defensively. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
