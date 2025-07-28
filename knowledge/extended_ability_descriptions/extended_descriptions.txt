@@ -719,7 +719,7 @@ Punk Rock amplifies the user's sound moves by 30% and reduces incoming sound mov
 Sand Spit activates when taking damage from an attack. Summons an 8-turn sandstorm (12 turns with Smooth Rock) that deals 1/16 max HP damage each turn to non-Ground, Rock, and Steel types. The user gains immunity to sandstorm damage. Does not activate if the user faints from the attack.
 
 # ID: 246
-Halves all incoming special attack damage. Multiplicative with other sources of damage reduction.
+Halves all incoming Special Attack damage. Multiplicative with other sources of damage reduction.
 
 # ID: 247
 Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages instead of 1, resist berries reduce super-effective damage by 75% instead of 50%, and PP-restoring berries restore twice as much PP.
