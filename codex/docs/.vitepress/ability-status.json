@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 651,
+    "completed": 652,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T00:06:08.777682Z"
+    "generated_at": "2025-07-28T00:16:34.789578Z"
   },
   "abilities": {
     "0": {
@@ -6024,8 +6024,8 @@
       "id": 859,
       "name": "Dreamscape",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "860": {
       "id": 860,
@@ -11296,10 +11296,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "859": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "860": {
       "indicator": "🟠",

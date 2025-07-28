@@ -2516,7 +2516,7 @@ Prevents the user and its ally from being targeted by priority moves with priori
 Boosts the Pokemon's Speed by one stage when it causes an opponent to faint with a direct attack.
 
 # ID: 859
-Dreamscape combines Comatose and Dreamcatcher, keeping the Pokemon in permanent sleep while being fully functional. Gains complete immunity to all status conditions and deals 20% more damage. The sleep state also enables Dreamcatcher, doubling move power for devastating 140% total damage increase.
+Considers the user as asleep for moves and statuses. User can act normally and gains immunity to status conditions. Doubles the power of moves when any active Pokemon is asleep. Attacks hit sleeping foes who are switching out for 1x power instead, damaging them before leaving. Boosts damage by 20%.
 
 # ID: 860
 Combines Stall and Analytic. When moving after the opponent, takes 30% less damage from their attacks while dealing 30% more damage with own moves. Rewards tactical waiting over hasty action, providing both defensive and offensive benefits when slower.
