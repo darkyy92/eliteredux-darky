@@ -125,7 +125,7 @@ Prevents Steel-type Pokemon from switching out while the user is present. Ghost-
 Grants immunity to sound-based moves. Self-targeting sound moves are not blocked.
 
 # ID: 44
-Rain Dish restores HP when rain weather is active, healing 1/8 of maximum HP at the end of each turn. Works with all rain types including Drizzle and Primordial Sea. Healing is blocked by Heal Block, Bleed status, Blood Stain effect, or opposing Permanence ability. Enhanced by Big Root item.
+Restores 1/8 max HP at the end of each turn in rain.
 
 # ID: 45
 Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush work. Cannot override primal weather. Weather setters compete by Speed.
