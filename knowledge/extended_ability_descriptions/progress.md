@@ -71,7 +71,7 @@ In Progress: 0
 |  60 | Sticky Hold                | ✅       | ✅        |
 |  61 | Shed Skin                  | ✅       | ✅        |
 |  62 | Guts                       | ✅       | ✅        |
-|  63 | Marvel Scale               | ✅       | ❌        |
+|  63 | Marvel Scale               | ✅       | ✅        |
 |  64 | Liquid Ooze                | ✅       | ❌        |
 |  65 | Overgrow                   | ✅       | ❌        |
 |  66 | Blaze                      | ✅       | ❌        |
