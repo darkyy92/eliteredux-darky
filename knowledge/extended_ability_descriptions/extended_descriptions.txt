@@ -2195,7 +2195,7 @@ The user burns the foe on contact. Works on offense and defense.
 Heals the user for 25% of all damage they deal to opponents. Healing occurs immediately after damage is dealt. Minimum healing of 1 HP.
 
 # ID: 749
-The user is draws in Water-type moves and is immune to them. Additionally, Water-type moves boost the highest attacking stat of the user and heal for 25% of their max HP when absorbing them.
+The user is draws in Water-type moves and gain immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage and heal for 25% of their max HP when absorbing them.
 
 # ID: 750
 When inflicting poison on an opponent, drop their Attack, Special Attack, and Speed by one stage immediately after it applies.
