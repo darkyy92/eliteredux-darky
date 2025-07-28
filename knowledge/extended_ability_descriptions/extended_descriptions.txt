@@ -158,7 +158,7 @@ Clears all entry hazards from your side of the field when entering battle. The P
 Prevents consecutive attacking moves. After using an attack, the user must loaf around next turn and cannot attack. Status moves remain unaffected.
 
 # ID: 55
-Hustle boosts the power of physical moves by 1.4x but reduces their accuracy to 90% of normal. Only affects non-status moves - status moves maintain perfect accuracy. High risk, high reward ability that trades reliability for raw power. Essential for frail attackers needing extra damage.
+Boosts the power of attacks by 1.4x but reduces their accuracy by 10%. Only affects non-status moves.
 
 # ID: 56
 When making or receiving contact moves, has a 50% chance to infatuate the opponent. Works bidirectionally - triggers whether attacking or defending with contact moves. Infatuated Pokemon have reduced accuracy and may be unable to attack. Does not work on same-gender or genderless Pokemon.
