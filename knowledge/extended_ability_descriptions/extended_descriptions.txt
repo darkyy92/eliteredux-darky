@@ -128,7 +128,7 @@ Grants immunity to sound-based moves. Self-targeting sound moves are not blocked
 Restores 1/8 max HP at the end of each turn in rain.
 
 # ID: 45
-Summons sandstorm for 8 turns (12 with Smooth Rock) when entering battle. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain 50% Special Defense boost. Sand Force/Rush work. Cannot override primal weather. Weather setters compete by Speed.
+Summons a Sandstorm for 8 turns (12 with Smooth Rock) on entry. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain a 50% Special Defense boost.
 
 # ID: 46
 Pressure doubles PP usage of opposing moves and clears all stat buffs on entry. Pressure bearer keeps their stat drops while removing positive buffs from all opponents. Opposing moves cost 2 PP instead of 1, accelerating resource depletion. Displays "is exerting its pressure!" upon entry.
