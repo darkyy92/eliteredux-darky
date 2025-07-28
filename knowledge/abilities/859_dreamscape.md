@@ -1,8 +1,8 @@
 ---
 id: 859
 name: Dreamscape
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 299
 ---
 
 # Dreamscape - Ability ID 859
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dreamscape combines Comatose and Dreamcatcher, keeping the Pokemon in permanent sleep while being fully functional. Gains complete immunity to all status conditions and deals 20% more damage. The sleep state also enables Dreamcatcher, doubling move power for devastating 140% total damage increase.
+Considers the user as asleep for moves and statuses. User can act normally and gains immunity to status conditions. Doubles the power of moves when any active Pokemon is asleep. Attacks hit sleeping foes who are switching out for 1x power instead, damaging them before leaving. Boosts damage by 20%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
