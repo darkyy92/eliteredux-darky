@@ -1,8 +1,8 @@
 ---
 id: 73
 name: White Smoke
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 103
 ---
 
 # White Smoke - Ability ID 73
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-White Smoke automatically sets Smokescreen on the user's side when entering battle, lasting 3 turns (5 with Light Clay held). Smokescreen obscures the user's party in smoke, increasing their evasiveness by 25% and making all moves targeting them less accurate. Provides team-wide defensive utility.
+Sets Smokescreen on entry, lasting 3 turns. Smokescreen increases the evasiveness of your party by 25%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
