@@ -2,7 +2,7 @@
 id: 11
 name: Water Absorb
 status: reviewed
-character_count: 285
+character_count: 99
 ---
 
 # Water Absorb - Ability ID 11
@@ -13,7 +13,8 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon absorbs Water-type moves completely, converting them into energy that restores 25% of its maximum HP. Provides complete immunity to Water damage, secondary effects like stat drops, and even Scald's burn chance. Fire-types can safely switch into any Water attack with this.
+The user gains immunity to Water-type moves and they heal for 25% of their max HP when hit by them.
+
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
