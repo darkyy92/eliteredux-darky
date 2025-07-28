@@ -2033,7 +2033,7 @@ Biting moves a 50% chance to burn the target on hit. Multihits roll the activati
 Patchwork functions identically to Disguise, but with a vengeful twist. When the Pokemon's disguise is broken by taking damage, it automatically curses the attacker. The curse inflicts ongoing damage equal to 25% of the opponent's maximum HP each turn until they switch out or faint.
 
 # ID: 694
-The user can land Normal and Fighting-type moves on Ghost-type Pokemon for neutral damage. Also grants immunity to Intimidate and Scare. Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage.
+The user can land Normal and Fighting-type moves on Ghost-types for neutral damage. Grants immunity to Intimidate and Scare. Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt.
 
 # ID: 695
 Adds 20% of the user's Speed stat to damage when using attacks. Choice Scarf does not affect this ability.
