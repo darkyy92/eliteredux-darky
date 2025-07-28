@@ -2,7 +2,7 @@
 id: 104
 name: Mold Breaker
 status: reviewed
-character_count: 103
+character_count: 172
 ---
 
 # Mold Breaker - Ability ID 104
@@ -13,7 +13,7 @@ character_count: 103
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage.
+Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
