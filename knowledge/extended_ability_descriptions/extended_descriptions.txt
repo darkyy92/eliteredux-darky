@@ -2534,7 +2534,7 @@ Multiplies the chance of inflicting burn or frostbite by 5x on all moves. Does n
 Once per entry when receiving a contact move, gain 50% damage reduction and force out the attacker. Multiplicative with other sources of damage  reduction.
 
 # ID: 865
-Heat Sink redirects Fire-type moves targeting allies to this Pokemon. When hit by a Fire move, the attack is completely absorbed (no damage taken), and this Pokemon raises its highest attacking stat by one stage (Attack or Special Attack, whichever is higher at the time of absorption).
+Draws in Fire-type moves and gain immunity to them. Additionally, Fire-type moves boost the highest attacking stat of the user by one stage.
 
 # ID: 866
 While this ability is active, all other battlers lose their Same Type Attack Bonus, dealing normal damage instead of 1.5x with type matching moves. Even battlers with Adaptability cannot achieve 2x STAB. Only affects opponents - the user retains their STAB bonus. Suppressed by Mold Breaker abilities

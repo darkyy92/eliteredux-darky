@@ -873,7 +873,7 @@ In Progress: 0
 | 862 | Thermal Slide              | ✅       | ✅        |
 | 863 | Thermomancy                | ✅       | ✅        |
 | 864 | Chuckster (N)              | ✅       | ✅        |
-| 865 | Heat Sink                  | ✅       | ❌        |
+| 865 | Heat Sink                  | ✅       | ✅        |
 | 866 | Relic Stone                | ✅       | ❌        |
 | 867 | Supercell                  | ✅       | ❌        |
 | 868 | Lightning Aspect           | ✅       | ❌        |

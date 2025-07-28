@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 657,
+    "completed": 658,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T00:29:10.229155Z"
+    "generated_at": "2025-07-28T00:33:31.284007Z"
   },
   "abilities": {
     "0": {
@@ -6066,8 +6066,8 @@
       "id": 865,
       "name": "Heat Sink",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "866": {
       "id": 866,
@@ -11332,10 +11332,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "865": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "866": {
       "indicator": "🟠",
