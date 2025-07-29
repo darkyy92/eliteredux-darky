@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 726,
+    "completed": 727,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T01:12:25.041458Z"
+    "generated_at": "2025-07-29T01:17:45.298505Z"
   },
   "abilities": {
     "0": {
@@ -683,8 +683,8 @@
       "id": 96,
       "name": "Normalize",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "97": {
       "id": 97,
@@ -6718,10 +6718,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "96": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "97": {
       "indicator": "✅",

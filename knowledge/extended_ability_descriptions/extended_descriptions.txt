@@ -275,7 +275,7 @@ Boosts the Pokemon's highest attacking stat by 50% during sun.
 Boosts Speed stat by 50% when suffering from any status condition. Negates the Speed drop from paralysis status.
 
 # ID: 96
-Normalize converts all damaging moves to Normal-type and grants 10% power boost. These Normal-type moves bypass resistances - Rock and Steel take neutral damage instead of resisting. Works on all damaging moves regardless of original type. Ghost-types remain immune. No super effective hits.
+Converts all damaging moves to Normal-type and grants a 10% power boost. Normal-type moves bypass resistances, but not immunities.
 
 # ID: 97
 Boosts critical hit damage from 1.5x to 2.25x by applying an additional 50% multiplier.
