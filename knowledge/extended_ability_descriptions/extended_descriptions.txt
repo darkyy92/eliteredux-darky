@@ -242,7 +242,7 @@ Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP in
 When hit, raises the user's Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 84
-Unburden doubles Speed when the Pokemon's held item is consumed or removed. The boost persists until the Pokemon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
+When consuming or losing a held item, the user's base Speed stat is multiplied by x2. Boost goes away when switching out, gaining a new item, or upon losing the ability.
 
 # ID: 85
 Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status.
