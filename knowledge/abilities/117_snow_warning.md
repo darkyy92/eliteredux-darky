@@ -1,8 +1,8 @@
 ---
 id: 117
 name: Snow Warning
-status: ai-generated
-character_count: 272
+status: reviewed
+character_count: 200
 ---
 
 # Snow Warning - Ability ID 117
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat.
+Summons hailstorm for 8 turns (12 with Icy Rock) on entry. Damages non-Ice types by 1/16 HP per turn. Boosts the Defense stat of Ice-type Pokemon by 50%. Halves the effectiveness of sun related moves.
 
 ## Detailed Mechanical Explanation
 **Snow Warning** automatically creates a hailstorm when the Pokemon enters battle, providing the same effect as the move Hail without consuming a turn.
