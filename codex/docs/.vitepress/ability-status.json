@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 740,
+    "completed": 741,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-29T16:13:57.093343Z"
+    "generated_at": "2025-07-29T16:17:00.301641Z"
   },
   "abilities": {
     "0": {
@@ -858,8 +858,8 @@
       "id": 121,
       "name": "Multitype",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "122": {
       "id": 122,
@@ -6868,10 +6868,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "121": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "122": {
       "indicator": "🟠",

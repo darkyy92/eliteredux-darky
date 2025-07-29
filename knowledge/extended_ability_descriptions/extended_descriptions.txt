@@ -347,7 +347,7 @@ Upon entering battle, reveals the opponents' items and prevents them from workin
 Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves. Also grants Mold Breaker effects to these moves, allowing them to ignore abilities and innates that block effects or reduce damage. Does not bypass abilities that modify base stats.
 
 # ID: 121
-Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.
+The user changes form based of the type of Plate they are currently holding. Plates cannot be removed, and Multitype cannot be overridden, suppressed, swapped, or copied in any way.
 
 # ID: 122
 During sunny weather, Flower Gift boosts Special Attack and Special Defense by 50% (1.5x) for this Pokemon and all allies. Works in both regular sun and harsh sun conditions. The boost applies immediately when sun activates and affects the entire party simultaneously in all battle formats.

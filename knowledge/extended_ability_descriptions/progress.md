@@ -129,7 +129,7 @@ In Progress: 0
 | 118 | Ability 118                | ❌       | ❌        |
 | 119 | Frisk                      | ✅       | ✅        |
 | 120 | Reckless                   | ✅       | ✅        |
-| 121 | Multitype                  | ✅       | ❌        |
+| 121 | Multitype                  | ✅       | ✅        |
 | 122 | Flower Gift                | ✅       | ❌        |
 | 123 | Bad Dreams                 | ✅       | ❌        |
 | 124 | Pickpocket                 | ✅       | ❌        |
