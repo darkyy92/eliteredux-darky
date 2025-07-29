@@ -1,8 +1,8 @@
 ---
 id: 124
 name: Pickpocket
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 144
 ---
 
 # Pickpocket - Ability ID 124
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Pickpocket activates when hit by contact moves, automatically stealing the attacker's held item if the holder has no item. Stolen items benefit the thief immediately. Fails if target has Sticky Hold or Supersweet Syrup abilities, or holds unstealable items. Works through Substitute.
+The user steals the target's held item on contact if they are currently holding no item. Does not work with Mega Stones and other similar items.
 
 ## Detailed Mechanical Explanation
 
