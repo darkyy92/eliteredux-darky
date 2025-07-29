@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 722,
+    "completed": 723,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T00:56:04.695054Z"
+    "generated_at": "2025-07-29T01:05:09.100427Z"
   },
   "abilities": {
     "0": {
@@ -641,8 +641,8 @@
       "id": 90,
       "name": "Poison Heal",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "91": {
       "id": 91,
@@ -6682,10 +6682,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "90": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "91": {
       "indicator": "🟠",

@@ -98,7 +98,7 @@ In Progress: 0
 |  87 | Dry Skin                   | ✅       | ✅        |
 |  88 | Download                   | ✅       | ❌        |
 |  89 | Iron Fist                  | ✅       | ✅        |
-|  90 | Poison Heal                | ✅       | ❌        |
+|  90 | Poison Heal                | ✅       | ✅        |
 |  91 | Adaptability               | ✅       | ❌        |
 |  92 | Skill Link                 | ✅       | ✅        |
 |  93 | Hydration                  | ✅       | ✅        |
