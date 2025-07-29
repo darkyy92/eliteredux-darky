@@ -1,8 +1,8 @@
 ---
 id: 127
 name: Unnerve
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 56
 ---
 
 # Unnerve - Ability ID 127
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Unnerve prevents all opposing Pokemon from consuming their held items during battle. This powerful disruption ability blocks berries, herbs, seeds, and other consumable items from activating, including crucial defensive tools like Focus Sash and Sitrus Berry. Works in both battle formats.
+Prevents all opposing Pokemon from consuming held items.
 
 ## Detailed Mechanical Explanation
 - **Trigger**: Active as long as a Pokemon with Unnerve is on the field
