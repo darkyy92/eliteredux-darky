@@ -1,8 +1,8 @@
 ---
 id: 121
 name: Multitype
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 181
 ---
 
 # Multitype - Ability ID 121
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Multitype revolutionizes type flexibility by linking the holder's type directly to held Plate items. Holding a Flame Plate transforms the user to Fire-type, while Splash Plate grants Water-type. This unsuppressable ability ensures consistent type-changing mechanics that define legendary encounters.
+The user changes form based of the type of Plate they are currently holding. Plates cannot be removed, and Multitype cannot be overridden, suppressed, swapped, or copied in any way.
 
 ## Detailed Mechanical Explanation
 
