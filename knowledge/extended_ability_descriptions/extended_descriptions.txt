@@ -233,7 +233,7 @@ Immune to Electric-type moves, and boost Speed by 1 stage when the user is hit b
 Rivalry boosts damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon. Creates strategic matchups where same-gender battles favor offense while opposite-gender encounters improve defense for tactical play.
 
 # ID: 80
-Steadfast boosts Speed by one stage when the Pokemon flinches, turning flinching into a benefit. Works with moves like Fake Out and high-flinch attacks. The Speed boost occurs immediately after the flinch, potentially allowing faster moves next turn. Can combine with Rattled for double Speed boosts.
+Getting flinched raises Speed by one stage.
 
 # ID: 82
 Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. This includes both held berries and berries consumed through moves like Pluck or Natural Gift.

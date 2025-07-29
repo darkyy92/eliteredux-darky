@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 718,
+    "completed": 719,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-29T00:15:09.057966Z"
+    "generated_at": "2025-07-29T00:18:37.047911Z"
   },
   "abilities": {
     "0": {
@@ -571,8 +571,8 @@
       "id": 80,
       "name": "Steadfast",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "81": {
       "id": 81,
@@ -6622,10 +6622,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "80": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "81": {
       "indicator": "⏳",

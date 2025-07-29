@@ -88,7 +88,7 @@ In Progress: 0
 |  77 | Tangled Feet               | ✅       | ✅        |
 |  78 | Motor Drive                | ✅       | ✅        |
 |  79 | Rivalry                    | ✅       | ❌        |
-|  80 | Steadfast                  | ✅       | ❌        |
+|  80 | Steadfast                  | ✅       | ✅        |
 |  81 | Ability 81                 | ❌       | ❌        |
 |  82 | Gluttony                   | ✅       | ❌        |
 |  83 | Anger Point                | ✅       | ❌        |
