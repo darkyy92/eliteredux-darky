@@ -1,8 +1,8 @@
 ---
 id: 116
 name: Solid Rock
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 106
 ---
 
 # Solid Rock - Ability ID 116
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Solid Rock reduces damage from super-effective moves by 35%, providing excellent defensive utility against type disadvantages. This breakable ability helps survival against 2x or higher effectiveness attacks, making it essential for defensive builds requiring endurance and survivability.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
