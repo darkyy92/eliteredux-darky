@@ -2015,7 +2015,7 @@ When dealing damage with punching moves, recover HP equal to 10% of damage dealt
 Boosts the power of all wing, wind, and air-based moves by 30%. The user is immune to Ground-type moves and other ground effects such as Spikes or terrains, and boosts the power of Flying-type moves by 25%.
 
 # ID: 689
-Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together. Ignores all stat stage changes during damage calculations.
+Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together. Ignores all the foes' stat stage changes during damage calculations.
 
 # ID: 690
 When the user is hit by a contact move, they force the attacker to switch out to a random ally. Once per switch in.
