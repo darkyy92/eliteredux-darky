@@ -1,8 +1,8 @@
 ---
 id: 94
 name: Solar Power
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 62
 ---
 
 # Solar Power - Ability ID 94
@@ -13,7 +13,7 @@ Boosts highest attacking stat by 50% in sun.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts highest attacking stat by 50% in sun. Compares Attack vs Special Attack including stat stages and applies 1.5x multiplier to the higher stat. Works with regular sun, Drought, and Desolate Land weather conditions. No HP loss unlike main series. Pure offensive boost with no drawbacks.
+Boosts the Pokemon's highest attacking stat by 50% during sun.
 
 ## Detailed Mechanical Explanation
 - Boosts the highest attacking stat (Attack or Special Attack) by 50% in sun
