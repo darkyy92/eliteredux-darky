@@ -132,7 +132,7 @@ In Progress: 0
 | 121 | Multitype                  | ✅       | ✅        |
 | 122 | Flower Gift                | ✅       | ✅        |
 | 123 | Bad Dreams                 | ✅       | ✅        |
-| 124 | Pickpocket                 | ✅       | ❌        |
+| 124 | Pickpocket                 | ✅       | ✅        |
 | 125 | Sheer Force                | ✅       | ❌        |
 | 126 | Contrary                   | ✅       | ❌        |
 | 127 | Unnerve                    | ✅       | ❌        |

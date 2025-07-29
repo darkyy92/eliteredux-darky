@@ -356,7 +356,7 @@ During sun, boost base Special Attack and Special Defense by 50% for this Pokemo
 All sleeping opponents lose 25% of their max HP at the end of each turn.
 
 # ID: 124
-Pickpocket activates when hit by contact moves, automatically stealing the attacker's held item if the holder has no item. Stolen items benefit the thief immediately. Fails if target has Sticky Hold or Supersweet Syrup abilities, or holds unstealable items. Works through Substitute.
+The user steals the target's held item on contact if they are currently holding no item. Does not work with Mega Stones and other similar items.
 
 # ID: 125
 Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost, stacking to 1.69x total. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted.
