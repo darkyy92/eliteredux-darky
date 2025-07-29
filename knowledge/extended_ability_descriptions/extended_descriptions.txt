@@ -338,7 +338,7 @@ Restores 1/8 max HP at the end of each turn in hail. Also grants immunity to hai
 Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 117
-Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat.
+Summons hailstorm for 8 turns (12 with Icy Rock) on entry. Damages non-Ice types by 1/16 HP per turn. Boosts the Defense stat of Ice-type Pokemon by 50%. Halves the effectiveness of sun related moves.
 
 # ID: 118
 Honey Gather gives a 50% chance to find a Honey item at the end of each turn, but only if the Pokemon is not already holding an item. Honey restores 20 HP when consumed and can be sold for 100 Poké Dollars. Excellent for resource gathering and emergency healing in longer battles.

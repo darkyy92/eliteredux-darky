@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 739,
+    "completed": 740,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T15:38:03.254834Z"
+    "generated_at": "2025-07-29T15:46:30.477235Z"
   },
   "abilities": {
     "0": {
@@ -830,8 +830,8 @@
       "id": 117,
       "name": "Snow Warning",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "118": {
       "id": 118,
@@ -6844,10 +6844,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "117": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "118": {
       "indicator": "🟠",
