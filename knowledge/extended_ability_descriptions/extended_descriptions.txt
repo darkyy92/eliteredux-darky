@@ -182,7 +182,7 @@ At the end of each turn, there's a 30% chance for the user to cure status condit
 Boosts Attack stat by 50% when suffering from any status condition. Negates the Attack drop from burn status.
 
 # ID: 63
-Increases Defense and Special Defense by 50% when afflicted with any status condition.
+Increases base Defense and Special Defense by 50% when afflicted with any status condition.
 
 # ID: 64
 Liquid Ooze reverses all healing effects from drain moves, causing the attacker to take damage instead. Affects Absorb, Drain Punch, Giga Drain, Leech Life, and similar draining attacks. The damage equals what would have been healed. Perfect counter to healing-based strategies.
