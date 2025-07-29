@@ -1,8 +1,8 @@
 ---
 id: 87
 name: Dry Skin
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 149
 ---
 
 # Dry Skin - Ability ID 87
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dry Skin heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun. Combines Water Absorb's healing with Rain Dish's rain recovery. Sun damage bypasses Substitute but not Magic Guard. Crucial for weather synergy.
+The user heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
