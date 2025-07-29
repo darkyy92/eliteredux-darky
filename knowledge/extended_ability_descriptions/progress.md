@@ -99,7 +99,7 @@ In Progress: 0
 |  88 | Download                   | ✅       | ❌        |
 |  89 | Iron Fist                  | ✅       | ✅        |
 |  90 | Poison Heal                | ✅       | ✅        |
-|  91 | Adaptability               | ✅       | ❌        |
+|  91 | Adaptability               | ✅       | ✅        |
 |  92 | Skill Link                 | ✅       | ✅        |
 |  93 | Hydration                  | ✅       | ✅        |
 |  94 | Solar Power                | ✅       | ❌        |

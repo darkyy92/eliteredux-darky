@@ -260,7 +260,7 @@ Boosts the power of punching moves by 30%.
 Restores 1/8 max HP per turn instead of taking damage when poisoned. Works with both regular poison and toxic poison. Also prevents damage from Toxic terrain.
 
 # ID: 91
-Adaptability enhances the Same Type Attack Bonus (STAB) from 1.5x to 2x damage when using moves matching the Pokemon's type. This massive 33% relative increase makes STAB moves hit significantly harder than coverage options. Works with all types including dual-types. Pure offensive power boost.
+Boosts STAB damage boost on moves from 1.5x to 2.0x damage.
 
 # ID: 92
 Multihit moves to always hit 5 times. For moves that only hit 3 times or Population Bomb, there will be one accuracy check for all hits instead of individual checks for each hit.
