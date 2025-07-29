@@ -1,8 +1,8 @@
 ---
 id: 101
 name: Technician
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 295
 ---
 
 # Technician - Ability ID 101
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts.
+Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts
 
 ## Detailed Mechanical Explanation
 
