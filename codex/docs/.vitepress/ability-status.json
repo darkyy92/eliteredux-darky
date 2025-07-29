@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 721,
+    "completed": 722,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T00:48:27.491882Z"
+    "generated_at": "2025-07-29T00:56:04.695054Z"
   },
   "abilities": {
     "0": {
@@ -620,8 +620,8 @@
       "id": 87,
       "name": "Dry Skin",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "88": {
       "id": 88,
@@ -6664,10 +6664,10 @@
       "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "87": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "88": {
       "indicator": "🟠",

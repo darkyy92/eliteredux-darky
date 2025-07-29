@@ -248,7 +248,7 @@ When consuming or losing a held item, the user's base Speed stat is multiplied b
 Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status.
 
 # ID: 87
-Dry Skin heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun. Combines Water Absorb's healing with Rain Dish's rain recovery. Sun damage bypasses Substitute but not Magic Guard. Crucial for weather synergy.
+The user heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun.
 
 # ID: 88
 Download analyzes the opposing Pokemon's defenses upon entering battle. If the foe's Defense is higher than Special Defense, it raises Special Attack by one stage. If Special Defense is higher or equal, it raises Attack by one stage. Works on switch-in and uses actual stat values including boosts.

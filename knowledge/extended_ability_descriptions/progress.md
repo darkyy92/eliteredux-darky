@@ -95,7 +95,7 @@ In Progress: 0
 |  84 | Unburden                   | ✅       | ✅        |
 |  85 | Heatproof                  | ✅       | ✅        |
 |  86 | Ability 86                 | ❌       | ❌        |
-|  87 | Dry Skin                   | ✅       | ❌        |
+|  87 | Dry Skin                   | ✅       | ✅        |
 |  88 | Download                   | ✅       | ❌        |
 |  89 | Iron Fist                  | ✅       | ✅        |
 |  90 | Poison Heal                | ✅       | ❌        |
