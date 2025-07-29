@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 728,
+    "completed": 729,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T01:27:54.495678Z"
+    "generated_at": "2025-07-29T01:31:51.460966Z"
   },
   "abilities": {
     "0": {
@@ -732,8 +732,8 @@
       "id": 103,
       "name": "Klutz",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "104": {
       "id": 104,
@@ -6760,10 +6760,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "103": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "104": {
       "indicator": "✅",

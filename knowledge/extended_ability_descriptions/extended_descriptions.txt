@@ -296,7 +296,7 @@ Boosts moves with 60 BP or less by 1.5x. Does not boost moves with 60 BP or less
 During sun, cures all status conditions at the end of the turn.
 
 # ID: 103
-Klutz disables all held item effects including berries, stat boosts, damage multipliers, and special abilities. Items can still be knocked off or stolen but give no benefits. Item-based moves like Fling fail. Mega Stones bypass this restriction allowing mega evolution despite the ability.
+Disables all held item effects. Items can still be knocked off or stolen but give no benefits. Item-based moves like Fling fail. Mega Stones bypass this restriction.
 
 # ID: 104
 Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt.
