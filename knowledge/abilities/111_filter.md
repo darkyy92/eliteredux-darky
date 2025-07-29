@@ -1,8 +1,8 @@
 ---
 id: 111
 name: Filter
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 280
 ---
 
 # Filter - Ability ID 111
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Filter reduces damage from super-effective attacks by 35%, making them deal only 65% of their normal damage. This effectively changes a 2x super-effective hit to 1.3x damage. Stacks with other damage reduction. The ability can be bypassed by Mold Breaker, Teravolt, and Turboblaze.
+Filter reduces damage from super-effective attacks by 35%, making them deal only 65% of their normal damage. This effectively changes a 2x super-effective hit to 1.3x damage. Stacks with other damage reduction. The ability can be bypassed by Mold Breaker, Teravolt, and Turboblaze
 
 ## Detailed Mechanical Explanation
 
