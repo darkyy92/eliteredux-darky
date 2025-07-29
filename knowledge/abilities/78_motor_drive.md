@@ -1,8 +1,8 @@
 ---
 id: 78
 name: Motor Drive
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 129
 ---
 
 # Motor Drive - Ability ID 78
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Motor Drive makes the Pokemon immune to Electric-type moves, boosting Speed by 1 stage instead of taking damage. This includes status moves like Thunder Wave. Works against multi-hit Electric moves, boosting Speed for each hit absorbed. Excellent for pivoting into Electric attacks safely.
+Immune to Electric-type moves, and boost Speed by 1 stage when the user is hit by them. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
