@@ -1,8 +1,8 @@
 ---
 id: 122
 name: Flower Gift
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 97
 ---
 
 # Flower Gift - Ability ID 122
@@ -13,6 +13,6 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-During sunny weather, Flower Gift boosts Special Attack and Special Defense by 50% (1.5x) for this Pokemon and all allies. Works in both regular sun and harsh sun conditions. The boost applies immediately when sun activates and affects the entire party simultaneously in all battle formats.
+During sun, boost base Special Attack and Special Defense by 50% for this Pokemon and all allies.
 
 ## Detailed Mechanical Explanation
