@@ -308,7 +308,7 @@ Adds +1 to the critical hit stage of all the Pokemon's damaging moves.
 Uses a 100 BP Explosion or Outburst (whichever is higher) when knocked out. Using explosion moves will always Flinch the target.
 
 # ID: 107
-Anticipation alerts the Pokemon when facing opponents with super-effective moves on switch-in. This heightened awareness grants the ability to automatically dodge the first super-effective hit received in battle. After dodging once, the effect is used up. Works against all damage types.
+Alerts the Pokemon when facing opponents with super-effective moves on switch-in. Dodge the first super effective hit received in battle.
 
 # ID: 108
 Forewarn automatically casts an 80 BP Future Sight on the opposing Pokemon when switching in. The psychic attack strikes 2 turns later, dealing damage regardless of type immunities. If one foe has Future Sight pending, targets the other. Cannot stack multiple Future Sights on same target.
