@@ -1,8 +1,8 @@
 ---
 id: 130
 name: Cursed Body
-status: ai-generated
-character_count: 279
+status: reviewed
+character_count: 278
 ---
 
 # Cursed Body - Ability ID 130
@@ -13,7 +13,7 @@ character_count: 279
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokemon.
+Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokemon
 
 ## Detailed Mechanical Explanation
 
