@@ -1,8 +1,8 @@
 ---
 id: 91
 name: Adaptability
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 59
 ---
 
 # Adaptability - Ability ID 91
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Adaptability enhances the Same Type Attack Bonus (STAB) from 1.5x to 2x damage when using moves matching the Pokemon's type. This massive 33% relative increase makes STAB moves hit significantly harder than coverage options. Works with all types including dual-types. Pure offensive power boost.
+Boosts STAB damage boost on moves from 1.5x to 2.0x damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
