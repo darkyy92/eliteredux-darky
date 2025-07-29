@@ -2,7 +2,7 @@
 id: 495
 name: Doombringer
 status: reviewed
-character_count: 221
+character_count: 264
 ---
 
 # Doombringer - Ability ID 495
@@ -13,7 +13,7 @@ character_count: 221
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Uses Doom Desire on entry. Doom Desire is a Steel-type 140 base power and strikes the target two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks.
+Uses Doom Desire on entry. Doom Desire is a Steel-type 140 base power and strikes the target two turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks. This cannot target the same Pokemon twice.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
