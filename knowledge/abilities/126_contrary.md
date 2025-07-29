@@ -1,8 +1,8 @@
 ---
 id: 126
 name: Contrary
-status: ai-generated
-character_count: 292
+status: reviewed
+character_count: 84
 ---
 
 # Contrary - Ability ID 126
@@ -13,7 +13,7 @@ character_count: 292
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contrary reverses all stat changes affecting this Pokemon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat, Leaf Storm), opponent moves (Intimidate, Growl), and abilities (Simple). The reversed stats still respect the +6/-6 stage limits.
+Reverses all stat changes affecting this Pokemon. Works with self-inflicted changes.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
