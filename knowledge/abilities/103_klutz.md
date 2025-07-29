@@ -1,8 +1,8 @@
 ---
 id: 103
 name: Klutz
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 165
 ---
 
 # Klutz - Ability ID 103
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Klutz disables all held item effects including berries, stat boosts, damage multipliers, and special abilities. Items can still be knocked off or stolen but give no benefits. Item-based moves like Fling fail. Mega Stones bypass this restriction allowing mega evolution despite the ability.
+Disables all held item effects. Items can still be knocked off or stolen but give no benefits. Item-based moves like Fling fail. Mega Stones bypass this restriction.
 
 ## Detailed Mechanical Explanation
 
