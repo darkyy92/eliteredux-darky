@@ -86,7 +86,7 @@ In Progress: 0
 |  75 | Shell Armor                | ✅       | ✅        |
 |  76 | Air Lock                   | ✅       | ✅        |
 |  77 | Tangled Feet               | ✅       | ✅        |
-|  78 | Motor Drive                | ✅       | ❌        |
+|  78 | Motor Drive                | ✅       | ✅        |
 |  79 | Rivalry                    | ✅       | ❌        |
 |  80 | Steadfast                  | ✅       | ❌        |
 |  81 | Ability 81                 | ❌       | ❌        |

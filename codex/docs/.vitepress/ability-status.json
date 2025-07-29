@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 717,
+    "completed": 718,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-28T23:30:44.269414Z"
+    "generated_at": "2025-07-29T00:15:09.057966Z"
   },
   "abilities": {
     "0": {
@@ -557,8 +557,8 @@
       "id": 78,
       "name": "Motor Drive",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "79": {
       "id": 79,
@@ -6610,10 +6610,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "78": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "79": {
       "indicator": "🟠",
