@@ -135,7 +135,7 @@ In Progress: 0
 | 124 | Pickpocket                 | ✅       | ✅        |
 | 125 | Sheer Force                | ✅       | ✅        |
 | 126 | Contrary                   | ✅       | ✅        |
-| 127 | Unnerve                    | ✅       | ❌        |
+| 127 | Unnerve                    | ✅       | ✅        |
 | 128 | Defiant                    | ✅       | ❌        |
 | 129 | Defeatist                  | ✅       | ❌        |
 | 130 | Cursed Body                | ✅       | ❌        |

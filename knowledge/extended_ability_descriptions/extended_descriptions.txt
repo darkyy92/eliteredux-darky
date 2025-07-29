@@ -365,7 +365,7 @@ Removes most beneficial secondary effects after landing attacks in exchange for 
 Reverses all stat changes affecting this Pokemon. Works with self-inflicted changes.
 
 # ID: 127
-Unnerve prevents all opposing Pokemon from consuming their held items during battle. This powerful disruption ability blocks berries, herbs, seeds, and other consumable items from activating, including crucial defensive tools like Focus Sash and Sitrus Berry. Works in both battle formats.
+Prevents all opposing Pokemon from consuming held items.
 
 # ID: 128
 Defiant triggers when any of the Pokemon's stats are lowered by an opponent, immediately boosting Attack by two stages in retaliation. Activates from direct stat drops, Intimidate, and stat-lowering secondary effects. Cannot activate if Attack is at maximum. Stacks with other boosts.

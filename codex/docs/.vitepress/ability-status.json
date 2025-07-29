@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 747,
+    "completed": 748,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-29T17:56:10.363618Z"
+    "generated_at": "2025-07-29T17:57:15.727454Z"
   },
   "abilities": {
     "0": {
@@ -900,8 +900,8 @@
       "id": 127,
       "name": "Unnerve",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "128": {
       "id": 128,
@@ -6904,10 +6904,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "127": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "128": {
       "indicator": "🟠",
