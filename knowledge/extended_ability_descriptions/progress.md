@@ -114,7 +114,7 @@ In Progress: 0
 | 103 | Klutz                      | ✅       | ✅        |
 | 104 | Mold Breaker               | ✅       | ✅        |
 | 105 | Super Luck                 | ✅       | ✅        |
-| 106 | Aftermath                  | ✅       | ❌        |
+| 106 | Aftermath                  | ✅       | ✅        |
 | 107 | Anticipation               | ✅       | ❌        |
 | 108 | Forewarn                   | ✅       | ❌        |
 | 109 | Unaware                    | ✅       | ❌        |
