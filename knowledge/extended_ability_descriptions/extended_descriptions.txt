@@ -383,7 +383,7 @@ Gives a 30% chance to cure status conditions at the end of each turn for both th
 In a double battle, the user's ally receives 50% less damage. Multiplicative with other damage reduction sources.
 
 # ID: 133
-When hit by a physical move, this ability activates automatically, lowering Defense by 1 stage but raising Speed by 2 stages. The stat changes help the user become a faster sweeper at the cost of reduced physical bulk. Triggers even if Defense or Speed stats are already at minimum or maximum limits.
+When hit by a contact move, raises the user's Speed by 2 stages and lowers their defense by 1 stage. Activates on each hit of a multihit move.
 
 # ID: 134
 Heavy Metal doubles the Pokemon's weight in battle. This makes weight-based attacks like Low Kick and Grass Knot deal more damage against this Pokemon. However, it also increases damage from the user's own Heavy Slam and Heat Crash moves by making them heavier than foes.
