@@ -1,8 +1,8 @@
 ---
 id: 112
 name: Slow Start
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 142
 ---
 
 # Slow Start - Ability ID 112
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Slow Start halves Attack, Special Attack, and Speed for the first 5 turns after switching in. The turn counter resets each time the Pokemon switches out. After 5 turns, stats return to normal and a message displays. This ability simulates a slow warm-up period, encouraging strategic timing.
+Halves Attack, Special Attack, and Speed for the first 5 turns after switching in. The turn counter resets each time the Pokemon switches out. 
 
 ## Detailed Mechanical Explanation
 Slow Start is a hindering ability that significantly reduces a Pokemon's offensive capabilities and speed during the initial turns of battle:
