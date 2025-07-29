@@ -1,8 +1,8 @@
 ---
 id: 107
 name: Anticipation
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 137
 ---
 
 # Anticipation - Ability ID 107
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Anticipation alerts the Pokemon when facing opponents with super-effective moves on switch-in. This heightened awareness grants the ability to automatically dodge the first super-effective hit received in battle. After dodging once, the effect is used up. Works against all damage types.
+Alerts the Pokemon when facing opponents with super-effective moves on switch-in. Dodge the first super effective hit received in battle. 
 
 ## Detailed Mechanical Explanation
 
