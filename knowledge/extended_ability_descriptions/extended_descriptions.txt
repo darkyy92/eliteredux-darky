@@ -1769,7 +1769,7 @@ Boosts Grass-type moves by 50% when Grassy Terrain is active.
 Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). During sandstorm, the user's Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage.
 
 # ID: 605
-Ignores all the foes' stat stage changes during damage calculations. When the user has their stats lowered by anther Pokemon, they raise their Attack by 2 stages.
+Ignores all the foes' stat stage changes during damage calculations. When the user has their stats lowered by another Pokemon, they raise their Attack by 2 stages.
 
 # ID: 606
 Combines ground immunity with exceptional Flying-type prowess. Immune to all Ground-type moves while boosting Flying-type move power by 50%. When HP drops to 33% or below, Flying-type moves gain an additional power boost, reaching nearly double strength for devastating aerial assaults.
