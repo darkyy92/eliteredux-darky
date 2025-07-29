@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 740,
-    "written": 855,
-    "pending": 21,
-    "generated_at": "2025-07-29T15:47:38.956366Z"
+    "written": 854,
+    "pending": 22,
+    "generated_at": "2025-07-29T16:13:57.093343Z"
   },
   "abilities": {
     "0": {
@@ -835,10 +835,10 @@
     },
     "118": {
       "id": 118,
-      "name": "Honey Gather",
-      "written": true,
+      "name": "Ability 118",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "119": {
       "id": 119,
@@ -6850,10 +6850,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "118": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "119": {
       "indicator": "✅",

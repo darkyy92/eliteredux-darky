@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 855
+Completed: 854
 In Progress: 0
 
 ## Progress Tracking
@@ -126,7 +126,7 @@ In Progress: 0
 | 115 | Ice Body                   | ✅       | ✅        |
 | 116 | Solid Rock                 | ✅       | ✅        |
 | 117 | Snow Warning               | ✅       | ✅        |
-| 118 | Honey Gather               | ✅       | ❌        |
+| 118 | Ability 118                | ❌       | ❌        |
 | 119 | Frisk                      | ✅       | ✅        |
 | 120 | Reckless                   | ✅       | ✅        |
 | 121 | Multitype                  | ✅       | ❌        |
