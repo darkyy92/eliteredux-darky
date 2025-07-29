@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 749,
+    "completed": 750,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-29T17:58:44.843977Z"
+    "generated_at": "2025-07-29T18:03:41.956989Z"
   },
   "abilities": {
     "0": {
@@ -921,8 +921,8 @@
       "id": 130,
       "name": "Cursed Body",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "131": {
       "id": 131,
@@ -6922,10 +6922,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "130": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "131": {
       "indicator": "✅",

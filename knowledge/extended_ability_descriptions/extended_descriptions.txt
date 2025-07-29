@@ -374,7 +374,7 @@ When the user has their stats lowered by another Pokemon, they raise their Attac
 Defeatist halves both Attack and Special Attack stats when HP drops below 33% of maximum. This severe penalty activates immediately when crossing the threshold and deactivates when healed above it. Creates a major strategic disadvantage requiring careful HP management and timing.
 
 # ID: 130
-Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokemon.
+Cursed Body has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off. Works against physical and special contact moves but not status moves. Particularly effective on defensive Pokemon
 
 # ID: 131
 Gives a 30% chance to cure status conditions at the end of each turn for both the user and their ally if they are out in a double battle. Makes 2 separate checks for each Pokemon.

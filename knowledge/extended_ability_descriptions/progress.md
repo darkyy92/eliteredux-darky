@@ -138,7 +138,7 @@ In Progress: 0
 | 127 | Unnerve                    | ✅       | ✅        |
 | 128 | Defiant                    | ✅       | ✅        |
 | 129 | Defeatist                  | ✅       | ❌        |
-| 130 | Cursed Body                | ✅       | ❌        |
+| 130 | Cursed Body                | ✅       | ✅        |
 | 131 | Healer                     | ✅       | ✅        |
 | 132 | Friend Guard               | ✅       | ✅        |
 | 133 | Weak Armor                 | ✅       | ❌        |
