@@ -2,7 +2,7 @@
 id: 63
 name: Marvel Scale
 status: reviewed
-character_count: 86
+character_count: 91
 ---
 
 # Marvel Scale - Ability ID 63
@@ -13,7 +13,7 @@ character_count: 86
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Increases Defense and Special Defense by 50% when afflicted with any status condition. 
+Increases base Defense and Special Defense by 50% when afflicted with any status condition. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
