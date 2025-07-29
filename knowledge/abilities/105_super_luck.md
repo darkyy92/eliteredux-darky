@@ -1,8 +1,8 @@
 ---
 id: 105
 name: Super Luck
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 70
 ---
 
 # Super Luck - Ability ID 105
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Super Luck adds +1 to the critical hit stage of all the Pokemon's damaging moves. This effectively doubles the critical hit chance for most moves (from 1/16 to 1/8). Stacks with high-crit moves like Slash and items like Scope Lens. Maximum crit stage is still capped at +4 for guaranteed crits.
+Adds +1 to the critical hit stage of all the Pokemon's damaging moves.
 
 ## Detailed Mechanical Explanation
 
