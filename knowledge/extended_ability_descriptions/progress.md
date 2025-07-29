@@ -134,7 +134,7 @@ In Progress: 0
 | 123 | Bad Dreams                 | ✅       | ✅        |
 | 124 | Pickpocket                 | ✅       | ✅        |
 | 125 | Sheer Force                | ✅       | ✅        |
-| 126 | Contrary                   | ✅       | ❌        |
+| 126 | Contrary                   | ✅       | ✅        |
 | 127 | Unnerve                    | ✅       | ❌        |
 | 128 | Defiant                    | ✅       | ❌        |
 | 129 | Defeatist                  | ✅       | ❌        |
