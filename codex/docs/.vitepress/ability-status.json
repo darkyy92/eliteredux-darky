@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 727,
+    "completed": 728,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T01:17:45.298505Z"
+    "generated_at": "2025-07-29T01:24:46.661524Z"
   },
   "abilities": {
     "0": {
@@ -718,8 +718,8 @@
       "id": 101,
       "name": "Technician",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "102": {
       "id": 102,
@@ -6748,10 +6748,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "101": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "102": {
       "indicator": "✅",

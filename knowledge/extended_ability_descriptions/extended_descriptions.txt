@@ -290,7 +290,7 @@ Guarantees hits for all moves used by and against the user.
 Reduces damage by 30% if the user has not moved yet. Multiplicative with other damage reduction sources. Works when the user switches in mid-turn.
 
 # ID: 101
-Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts.
+Boosts moves with 60 BP or less by 1.5x. Multi-hit moves check per hit, so Bullet Seed (25 BP) gets boosted each strike. Great for priority moves like Bullet Punch (40 to 60 BP) and Mach Punch. Also helps Hidden Power, Rapid Spin, and weak utility moves. Stacks with STAB and other damage boosts
 
 # ID: 102
 During sun, cures all status conditions at the end of the turn.
