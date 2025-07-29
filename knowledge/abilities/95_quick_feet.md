@@ -1,8 +1,8 @@
 ---
 id: 95
 name: Quick Feet
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 112
 ---
 
 # Quick Feet - Ability ID 95
@@ -13,7 +13,7 @@ Ups Speed by 1.5x if suffering from a status condition.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Quick Feet boosts Speed by 50% when afflicted with any status condition including burn, poison, paralysis, sleep, freeze, or bleed. Uniquely ignores paralysis speed reduction, turning it into a net speed gain. Popular with Flame/Toxic Orb strategies for reliable activation and Facade synergy.
+Boosts Speed stat by 50% when suffering from any status condition. Negates the Speed drop from paralysis status.
 
 ## Detailed Mechanical Explanation
 
