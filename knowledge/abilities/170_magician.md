@@ -1,8 +1,8 @@
 ---
 id: 170
 name: Magician
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 165
 ---
 
 # Magician - Ability ID 170
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Magician activates when the holder uses a non-contact move that damages the target, automatically stealing the target's held item if possible. The stolen item immediately benefits the thief. Fails if the holder already has an item, the target has Sticky Hold, or the item cannot be stolen.
+The user steals the target's held item when landing a non-contact move if they are currently holding no item. Does not work with Mega Stones and other similar items.
 
 ## Detailed Mechanical Explanation
 
