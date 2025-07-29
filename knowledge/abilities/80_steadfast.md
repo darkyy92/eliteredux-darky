@@ -1,8 +1,8 @@
 ---
 id: 80
 name: Steadfast
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 43
 ---
 
 # Steadfast - Ability ID 80
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Steadfast boosts Speed by one stage when the Pokemon flinches, turning flinching into a benefit. Works with moves like Fake Out and high-flinch attacks. The Speed boost occurs immediately after the flinch, potentially allowing faster moves next turn. Can combine with Rattled for double Speed boosts.
+Getting flinched raises Speed by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
