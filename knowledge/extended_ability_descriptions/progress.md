@@ -130,7 +130,7 @@ In Progress: 0
 | 119 | Frisk                      | ✅       | ✅        |
 | 120 | Reckless                   | ✅       | ✅        |
 | 121 | Multitype                  | ✅       | ✅        |
-| 122 | Flower Gift                | ✅       | ❌        |
+| 122 | Flower Gift                | ✅       | ✅        |
 | 123 | Bad Dreams                 | ✅       | ❌        |
 | 124 | Pickpocket                 | ✅       | ❌        |
 | 125 | Sheer Force                | ✅       | ❌        |

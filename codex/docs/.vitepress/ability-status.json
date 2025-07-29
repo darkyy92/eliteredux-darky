@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 741,
+    "completed": 742,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-29T16:17:00.301641Z"
+    "generated_at": "2025-07-29T16:42:46.980558Z"
   },
   "abilities": {
     "0": {
@@ -865,8 +865,8 @@
       "id": 122,
       "name": "Flower Gift",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "123": {
       "id": 123,
@@ -6874,10 +6874,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "122": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "123": {
       "indicator": "🟠",

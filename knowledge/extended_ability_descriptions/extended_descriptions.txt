@@ -350,7 +350,7 @@ Increases the damage of moves that cause recoil by 20%. While enraged, this boos
 The user changes form based of the type of Plate they are currently holding. Plates cannot be removed, and Multitype cannot be overridden, suppressed, swapped, or copied in any way.
 
 # ID: 122
-During sunny weather, Flower Gift boosts Special Attack and Special Defense by 50% (1.5x) for this Pokemon and all allies. Works in both regular sun and harsh sun conditions. The boost applies immediately when sun activates and affects the entire party simultaneously in all battle formats.
+During sun, boost base Special Attack and Special Defense by 50% for this Pokemon and all allies.
 
 # ID: 123
 Bad Dreams inflicts nightmare damage on all sleeping opponents, dealing 25% max HP at turn end. Bypasses Substitute and affects multiple foes simultaneously. Works with all sleep including Rest. Forces opponents to wake up or take massive damage each turn.
