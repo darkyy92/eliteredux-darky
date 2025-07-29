@@ -368,7 +368,7 @@ Reverses all stat changes affecting this Pokemon. Works with self-inflicted chan
 Prevents all opposing Pokemon from consuming held items.
 
 # ID: 128
-Defiant triggers when any of the Pokemon's stats are lowered by an opponent, immediately boosting Attack by two stages in retaliation. Activates from direct stat drops, Intimidate, and stat-lowering secondary effects. Cannot activate if Attack is at maximum. Stacks with other boosts.
+When the user has their stats lowered by another Pokemon, they raise their Attack by 2 stages.
 
 # ID: 129
 Defeatist halves both Attack and Special Attack stats when HP drops below 33% of maximum. This severe penalty activates immediately when crossing the threshold and deactivates when healed above it. Creates a major strategic disadvantage requiring careful HP management and timing.

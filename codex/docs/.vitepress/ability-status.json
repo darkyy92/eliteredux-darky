@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 748,
+    "completed": 749,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-29T17:58:10.677092Z"
+    "generated_at": "2025-07-29T17:58:44.843977Z"
   },
   "abilities": {
     "0": {
@@ -907,8 +907,8 @@
       "id": 128,
       "name": "Defiant",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "129": {
       "id": 129,
@@ -6910,10 +6910,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "128": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "129": {
       "indicator": "🟠",
