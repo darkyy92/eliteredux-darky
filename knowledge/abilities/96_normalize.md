@@ -1,8 +1,8 @@
 ---
 id: 96
 name: Normalize
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 130
 ---
 
 # Normalize - Ability ID 96
@@ -13,7 +13,7 @@ Its moves become Normal-type, get 1.1x boost, ignore resists.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Normalize converts all damaging moves to Normal-type and grants 10% power boost. These Normal-type moves bypass resistances - Rock and Steel take neutral damage instead of resisting. Works on all damaging moves regardless of original type. Ghost-types remain immune. No super effective hits.
+Converts all damaging moves to Normal-type and grants a 10% power boost. Normal-type moves bypass resistances, but not immunities.
 
 ## Detailed Mechanical Explanation
 
