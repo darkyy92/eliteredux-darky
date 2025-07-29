@@ -128,7 +128,7 @@ Grants immunity to sound-based moves. Self-targeting sound moves are not blocked
 Restores 1/8 max HP at the end of each turn in rain.
 
 # ID: 45
-Summons a Sandstorm for 8 turns (12 with Smooth Rock) on entry. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain a 50% Special Defense boost.
+Summons a Sandstorm for 8 turns (12 with Smooth Rock) on entry. Damages non-Rock/Ground/Steel types by 1/16 HP per turn. Rock-types gain a 50% Special Defense boost. Halves the effectiveness of sun related moves.
 
 # ID: 46
 Doubles PP usage of opposing moves and clears all positive stat stages on entry.
