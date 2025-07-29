@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 724,
+    "completed": 725,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T01:07:10.081727Z"
+    "generated_at": "2025-07-29T01:08:23.400273Z"
   },
   "abilities": {
     "0": {
@@ -669,8 +669,8 @@
       "id": 94,
       "name": "Solar Power",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "95": {
       "id": 95,
@@ -6706,10 +6706,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "94": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "95": {
       "indicator": "🟠",

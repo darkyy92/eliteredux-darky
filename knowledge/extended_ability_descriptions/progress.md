@@ -102,7 +102,7 @@ In Progress: 0
 |  91 | Adaptability               | ✅       | ✅        |
 |  92 | Skill Link                 | ✅       | ✅        |
 |  93 | Hydration                  | ✅       | ✅        |
-|  94 | Solar Power                | ✅       | ❌        |
+|  94 | Solar Power                | ✅       | ✅        |
 |  95 | Quick Feet                 | ✅       | ❌        |
 |  96 | Normalize                  | ✅       | ❌        |
 |  97 | Sniper                     | ✅       | ✅        |

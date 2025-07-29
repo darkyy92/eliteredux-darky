@@ -269,7 +269,7 @@ Multihit moves to always hit 5 times. For moves that only hit 3 times or Populat
 During rain, cures all status conditions at the end of the turn.
 
 # ID: 94
-Boosts highest attacking stat by 50% in sun. Compares Attack vs Special Attack including stat stages and applies 1.5x multiplier to the higher stat. Works with regular sun, Drought, and Desolate Land weather conditions. No HP loss unlike main series. Pure offensive boost with no drawbacks.
+Boosts the Pokemon's highest attacking stat by 50% during sun.
 
 # ID: 95
 Quick Feet boosts Speed by 50% when afflicted with any status condition including burn, poison, paralysis, sleep, freeze, or bleed. Uniquely ignores paralysis speed reduction, turning it into a net speed gain. Popular with Flame/Toxic Orb strategies for reliable activation and Facade synergy.
