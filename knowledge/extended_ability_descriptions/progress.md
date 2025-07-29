@@ -178,7 +178,7 @@ In Progress: 0
 | 167 | Cheek Pouch                | ✅       | ❌        |
 | 168 | Protean                    | ✅       | ❌        |
 | 169 | Fur Coat                   | ✅       | ❌        |
-| 170 | Magician                   | ✅       | ❌        |
+| 170 | Magician                   | ✅       | ✅        |
 | 171 | Bulletproof                | ✅       | ❌        |
 | 172 | Competitive                | ✅       | ❌        |
 | 173 | Strong Jaw                 | ✅       | ✅        |

@@ -491,7 +491,7 @@ Changes the user's type to match the type of the move being used before attackin
 This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection.
 
 # ID: 170
-Magician activates when the holder uses a non-contact move that damages the target, automatically stealing the target's held item if possible. The stolen item immediately benefits the thief. Fails if the holder already has an item, the target has Sticky Hold, or the item cannot be stolen.
+The user steals the target's held item when landing a non-contact move if they are currently holding no item. Does not work with Mega Stones and other similar items.
 
 # ID: 171
 Provides complete immunity to ball, bomb, and projectile moves. Blocks Shadow Ball, Focus Blast, Aura Sphere, Sludge Bomb, Energy Ball, Bullet Seed, and similar ballistic attacks. The immunity prevents all damage and effects from these moves, working against both physical and special variants.
