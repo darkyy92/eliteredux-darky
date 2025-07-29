@@ -123,7 +123,7 @@ In Progress: 0
 | 112 | Slow Start                 | ✅       | ✅        |
 | 113 | Scrappy                    | ✅       | ✅        |
 | 114 | Storm Drain                | ✅       | ✅        |
-| 115 | Ice Body                   | ✅       | ❌        |
+| 115 | Ice Body                   | ✅       | ✅        |
 | 116 | Solid Rock                 | ✅       | ❌        |
 | 117 | Snow Warning               | ✅       | ❌        |
 | 118 | Honey Gather               | ✅       | ❌        |
