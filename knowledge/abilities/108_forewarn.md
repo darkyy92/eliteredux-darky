@@ -1,8 +1,8 @@
 ---
 id: 108
 name: Forewarn
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 248
 ---
 
 # Forewarn - Ability ID 108
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Forewarn automatically casts an 80 BP Future Sight on the opposing Pokemon when switching in. The psychic attack strikes 2 turns later, dealing damage regardless of type immunities. If one foe has Future Sight pending, targets the other. Cannot stack multiple Future Sights on same target.
+Casts an 80 BP Future Sight on the opposing Pokemon when switching in. Strikes 2 turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks. This cannot target the same Pokemon twice.
 
 ## Detailed Mechanical Explanation
 
