@@ -335,7 +335,7 @@ The user is draws in Water-type moves and gain immunity to them. Additionally, W
 Restores 1/8 max HP at the end of each turn in hail. Also grants immunity to hail damage.
 
 # ID: 116
-Solid Rock reduces damage from super-effective moves by 35%, providing excellent defensive utility against type disadvantages. This breakable ability helps survival against 2x or higher effectiveness attacks, making it essential for defensive builds requiring endurance and survivability.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 117
 Summons hailstorm for 8 turns (12 with Icy Rock) when entering battle. Damages non-Ice types by 1/16 HP per turn. Blizzard never misses. Aurora Veil can be used. Ice Body heals, Snow Cloak boosts evasion. Cannot override primal weather. Blocked by Safety Goggles/Overcoat.
