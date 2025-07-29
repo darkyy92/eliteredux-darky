@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 725,
+    "completed": 726,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T01:08:23.400273Z"
+    "generated_at": "2025-07-29T01:12:09.334379Z"
   },
   "abilities": {
     "0": {
@@ -676,8 +676,8 @@
       "id": 95,
       "name": "Quick Feet",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "96": {
       "id": 96,
@@ -6712,10 +6712,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "95": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "96": {
       "indicator": "🟠",

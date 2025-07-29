@@ -103,7 +103,7 @@ In Progress: 0
 |  92 | Skill Link                 | ✅       | ✅        |
 |  93 | Hydration                  | ✅       | ✅        |
 |  94 | Solar Power                | ✅       | ✅        |
-|  95 | Quick Feet                 | ✅       | ❌        |
+|  95 | Quick Feet                 | ✅       | ✅        |
 |  96 | Normalize                  | ✅       | ❌        |
 |  97 | Sniper                     | ✅       | ✅        |
 |  98 | Magic Guard                | ✅       | ✅        |

@@ -272,7 +272,7 @@ During rain, cures all status conditions at the end of the turn.
 Boosts the Pokemon's highest attacking stat by 50% during sun.
 
 # ID: 95
-Quick Feet boosts Speed by 50% when afflicted with any status condition including burn, poison, paralysis, sleep, freeze, or bleed. Uniquely ignores paralysis speed reduction, turning it into a net speed gain. Popular with Flame/Toxic Orb strategies for reliable activation and Facade synergy.
+Boosts Speed stat by 50% when suffering from any status condition. Negates the Speed drop from paralysis status.
 
 # ID: 96
 Normalize converts all damaging moves to Normal-type and grants 10% power boost. These Normal-type moves bypass resistances - Rock and Steel take neutral damage instead of resisting. Works on all damaging moves regardless of original type. Ghost-types remain immune. No super effective hits.
