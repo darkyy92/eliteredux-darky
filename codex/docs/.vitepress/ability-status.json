@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 736,
+    "completed": 737,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T15:31:15.225516Z"
+    "generated_at": "2025-07-29T15:32:01.913023Z"
   },
   "abilities": {
     "0": {
@@ -802,8 +802,8 @@
       "id": 113,
       "name": "Scrappy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "114": {
       "id": 114,
@@ -6820,10 +6820,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "113": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "114": {
       "indicator": "✅",

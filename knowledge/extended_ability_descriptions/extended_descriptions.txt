@@ -326,7 +326,7 @@ Reduces damage from super-effective attacks by 35%. Multiplicative with other so
 Halves Attack, Special Attack, and Speed for the first 5 turns after switching in. The turn counter resets each time the Pokemon switches out.
 
 # ID: 113
-Scrappy allows Normal and Fighting-type moves to hit Ghost-type Pokemon for normal damage, bypassing their immunity. Additionally grants complete immunity to Intimidate and Scare abilities, preventing Attack drops from these sources. Perfect for physical attackers facing Ghost types.
+The user can land Normal and Fighting-type moves on Ghost-types for neutral damage. Grants immunity to Intimidate and Scare.
 
 # ID: 114
 The user is draws in Water-type moves and gain immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage.
