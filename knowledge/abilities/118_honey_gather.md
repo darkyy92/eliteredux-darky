@@ -1,8 +1,8 @@
 ---
 id: 118
 name: Honey Gather
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 169
 ---
 
 # Honey Gather - Ability ID 118
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Honey Gather gives a 50% chance to find a Honey item at the end of each turn, but only if the Pokemon is not already holding an item. Honey restores 20 HP when consumed and can be sold for 100 Pok√© Dollars. Excellent for resource gathering and emergency healing in longer battles.
+Gives a 50% chance to find Honey at the end of each turn if the Pokemon is not already holding an item. Honey acts as a Sitrus and Lum Berry for Pokemon related to bees.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -25,7 +25,7 @@ Honey Gather gives a 50% chance to find a Honey item at the end of each turn, bu
 - **Activation Rate**: 50% chance per turn
 - **Requirement**: Pokemon must not be holding an item
 - **Item Generated**: Honey (ITEM_HONEY)
-- **Honey Properties**: Restores 20 HP when consumed, sells for 100 Pok√© Dollars
+- **Honey Properties**: Restores 20 HP when consumed, sells for 100 PokÈ Dollars
 
 ### Activation Conditions:
 1. **Turn End Trigger**: Activates during the end-of-turn phase
@@ -35,7 +35,7 @@ Honey Gather gives a 50% chance to find a Honey item at the end of each turn, bu
 
 ### Item Details - Honey:
 - **Healing**: Restores 20 HP when consumed
-- **Monetary Value**: Can be sold for 100 Pok√© Dollars
+- **Monetary Value**: Can be sold for 100 PokÈ Dollars
 - **Usage**: Can be consumed during battle for emergency healing
 - **Inventory**: Transfers to bag if gained outside battle
 
