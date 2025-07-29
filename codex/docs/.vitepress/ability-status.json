@@ -2,9 +2,9 @@
   "metadata": {
     "total_abilities": 876,
     "completed": 721,
-    "written": 856,
-    "pending": 20,
-    "generated_at": "2025-07-29T00:47:09.203370Z"
+    "written": 855,
+    "pending": 21,
+    "generated_at": "2025-07-29T00:48:27.491882Z"
   },
   "abilities": {
     "0": {
@@ -611,10 +611,10 @@
     },
     "86": {
       "id": 86,
-      "name": "Simple",
-      "written": true,
+      "name": "Ability 86",
+      "written": false,
       "reviewed": false,
-      "status": "written"
+      "status": "pending"
     },
     "87": {
       "id": 87,
@@ -6658,10 +6658,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "86": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "⏳",
+      "badge_class": "status-pending",
+      "progress_text": "0/2",
+      "tooltip": "Written: ❌, Reviewed: ❌"
     },
     "87": {
       "indicator": "🟠",

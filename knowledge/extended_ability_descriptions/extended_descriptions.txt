@@ -247,9 +247,6 @@ When consuming or losing a held item, the user's base Speed stat is multiplied b
 # ID: 85
 Halves damage from Fire-type moves. Immune to burn damage and Attack drops from burn status.
 
-# ID: 86
-Simple doubles all stat stage changes on user, whether positive or negative. Boosts from moves like Swords Dance become +4 instead of +2. Stat drops are also doubled. Works perfectly with Stored Power, which gains +40 power per stage instead of +20. Blocked by Clear Body/stat drop prevention.
-
 # ID: 87
 Dry Skin heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun. Combines Water Absorb's healing with Rain Dish's rain recovery. Sun damage bypasses Substitute but not Magic Guard. Crucial for weather synergy.
 

@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 856
+Completed: 855
 In Progress: 0
 
 ## Progress Tracking
@@ -94,7 +94,7 @@ In Progress: 0
 |  83 | Anger Point                | ✅       | ✅        |
 |  84 | Unburden                   | ✅       | ✅        |
 |  85 | Heatproof                  | ✅       | ✅        |
-|  86 | Simple                     | ✅       | ❌        |
+|  86 | Ability 86                 | ❌       | ❌        |
 |  87 | Dry Skin                   | ✅       | ❌        |
 |  88 | Download                   | ✅       | ❌        |
 |  89 | Iron Fist                  | ✅       | ✅        |
