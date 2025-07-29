@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 735,
+    "completed": 736,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T15:30:28.009310Z"
+    "generated_at": "2025-07-29T15:31:15.225516Z"
   },
   "abilities": {
     "0": {
@@ -795,8 +795,8 @@
       "id": 112,
       "name": "Slow Start",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "113": {
       "id": 113,
@@ -6814,10 +6814,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "112": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "113": {
       "indicator": "🟠",

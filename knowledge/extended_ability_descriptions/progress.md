@@ -120,7 +120,7 @@ In Progress: 0
 | 109 | Unaware                    | ✅       | ✅        |
 | 110 | Tinted Lens                | ✅       | ✅        |
 | 111 | Filter                     | ✅       | ✅        |
-| 112 | Slow Start                 | ✅       | ❌        |
+| 112 | Slow Start                 | ✅       | ✅        |
 | 113 | Scrappy                    | ✅       | ❌        |
 | 114 | Storm Drain                | ✅       | ✅        |
 | 115 | Ice Body                   | ✅       | ❌        |
