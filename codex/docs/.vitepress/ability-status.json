@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 733,
+    "completed": 734,
     "written": 855,
     "pending": 21,
-    "generated_at": "2025-07-29T15:25:24.430565Z"
+    "generated_at": "2025-07-29T15:27:15.861536Z"
   },
   "abilities": {
     "0": {
@@ -774,8 +774,8 @@
       "id": 109,
       "name": "Unaware",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "110": {
       "id": 110,
@@ -6796,10 +6796,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "109": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "110": {
       "indicator": "✅",

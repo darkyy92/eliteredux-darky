@@ -314,7 +314,7 @@ Alerts the Pokemon when facing opponents with super-effective moves on switch-in
 Casts an 80 BP Future Sight on the opposing Pokemon when switching in. Strikes 2 turns later, bypassing substitutes and other protections. The attack cannot miss once initiated and ignores accuracy checks. This cannot target the same Pokemon twice.
 
 # ID: 109
-Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers like Dragon Dance users and ignore defensive boosts, while also being unaffected by opponent stat debuffs.
+Ignores all the foes' stat stage changes during damage calculations.
 
 # ID: 110
 Doubles damage when attacking into resistances. If a move would be resisted (0.5x damage or less), the damage is multiplied by 2x.
@@ -1772,7 +1772,7 @@ Boosts Grass-type moves by 50% when Grassy Terrain is active.
 Summons sandstorm on entry, lasting 8 turns (12 with Smooth Stone). During sandstorm, the user's Ground-type moves bypass immunity and hit airborne Pokemon with normal effectiveness. The user is immune to sandstorm damage.
 
 # ID: 605
-Ignores all stat stage changes during damage calculations. When the user has their stats lowered by anther Pokemon, they raise their Attack by 2 stages.
+Ignores all the foes' stat stage changes during damage calculations. When the user has their stats lowered by anther Pokemon, they raise their Attack by 2 stages.
 
 # ID: 606
 Combines ground immunity with exceptional Flying-type prowess. Immune to all Ground-type moves while boosting Flying-type move power by 50%. When HP drops to 33% or below, Flying-type moves gain an additional power boost, reaching nearly double strength for devastating aerial assaults.
