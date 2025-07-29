@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 719,
+    "completed": 720,
     "written": 856,
     "pending": 20,
-    "generated_at": "2025-07-29T00:18:37.047911Z"
+    "generated_at": "2025-07-29T00:26:31.147641Z"
   },
   "abilities": {
     "0": {
@@ -592,8 +592,8 @@
       "id": 83,
       "name": "Anger Point",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "84": {
       "id": 84,
@@ -6640,10 +6640,10 @@
       "tooltip": "Written: ✅, Reviewed: ❌"
     },
     "83": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "84": {
       "indicator": "🟠",

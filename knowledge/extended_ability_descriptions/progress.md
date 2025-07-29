@@ -91,7 +91,7 @@ In Progress: 0
 |  80 | Steadfast                  | ✅       | ✅        |
 |  81 | Ability 81                 | ❌       | ❌        |
 |  82 | Gluttony                   | ✅       | ❌        |
-|  83 | Anger Point                | ✅       | ❌        |
+|  83 | Anger Point                | ✅       | ✅        |
 |  84 | Unburden                   | ✅       | ❌        |
 |  85 | Heatproof                  | ✅       | ✅        |
 |  86 | Simple                     | ✅       | ❌        |

@@ -239,7 +239,7 @@ Getting flinched raises Speed by one stage.
 Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. This includes both held berries and berries consumed through moves like Pluck or Natural Gift.
 
 # ID: 83
-Anger Point raises Attack by +1 stage when taking damage from any move. When hit by a critical hit, Attack is maximized to +6 stages instantly. Only triggers if the Pokemon survives the hit and can have its Attack raised. Perfect for turning defensive situations into offensive opportunities.
+When hit, raises the user's Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 84
 Unburden doubles Speed when the Pokemon's held item is consumed or removed. The boost persists until the Pokemon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
