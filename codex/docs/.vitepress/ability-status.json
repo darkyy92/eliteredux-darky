@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 745,
+    "completed": 746,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-29T17:40:01.492841Z"
+    "generated_at": "2025-07-29T17:55:15.644636Z"
   },
   "abilities": {
     "0": {
@@ -886,8 +886,8 @@
       "id": 125,
       "name": "Sheer Force",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "126": {
       "id": 126,
@@ -6892,10 +6892,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "125": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "126": {
       "indicator": "🟠",

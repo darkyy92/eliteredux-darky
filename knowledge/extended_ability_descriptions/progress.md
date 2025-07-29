@@ -133,7 +133,7 @@ In Progress: 0
 | 122 | Flower Gift                | ✅       | ✅        |
 | 123 | Bad Dreams                 | ✅       | ✅        |
 | 124 | Pickpocket                 | ✅       | ✅        |
-| 125 | Sheer Force                | ✅       | ❌        |
+| 125 | Sheer Force                | ✅       | ✅        |
 | 126 | Contrary                   | ✅       | ❌        |
 | 127 | Unnerve                    | ✅       | ❌        |
 | 128 | Defiant                    | ✅       | ❌        |

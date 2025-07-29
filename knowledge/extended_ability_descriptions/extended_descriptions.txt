@@ -359,7 +359,7 @@ All sleeping opponents lose 25% of their max HP at the end of each turn.
 The user steals the target's held item on contact if they are currently holding no item. Does not work with Mega Stones and other similar items.
 
 # ID: 125
-Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost, stacking to 1.69x total. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted.
+Removes most beneficial secondary effects after landing attacks in exchange for a 1.3x boost. Notably prevents Life Orb recoil when using these moves. Removable effects include reducing the target's stats, increasing the user's stats, inflicting status on a target and flinching.
 
 # ID: 126
 Contrary reverses all stat changes affecting this Pokemon. Stat increases become decreases and vice versa. Works with self-inflicted changes (moves like Overheat, Leaf Storm), opponent moves (Intimidate, Growl), and abilities (Simple). The reversed stats still respect the +6/-6 stage limits.
