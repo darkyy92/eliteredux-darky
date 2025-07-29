@@ -305,7 +305,7 @@ Allows moves to ignore the target's abilities and innates that interfere with ef
 Adds +1 to the critical hit stage of all the Pokemon's damaging moves.
 
 # ID: 106
-When this Pokemon faints from a contact move, it deals explosive retaliation damage to the attacker equal to 25% of their maximum HP. This posthumous strike bypasses Substitute but won't activate from indirect damage. Magic Guard protects attackers from this damage. A final parting gift
+Uses a 100 BP Explosion or Outburst (whichever is higher) when knocked out. Using explosion moves will always Flinch the target.
 
 # ID: 107
 Anticipation alerts the Pokemon when facing opponents with super-effective moves on switch-in. This heightened awareness grants the ability to automatically dodge the first super-effective hit received in battle. After dodging once, the effect is used up. Works against all damage types.
