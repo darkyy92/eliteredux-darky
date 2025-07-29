@@ -1,8 +1,8 @@
 ---
 id: 90
 name: Poison Heal
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 158
 ---
 
 # Poison Heal - Ability ID 90
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Poison Heal reverses poison's effects, restoring 1/8 max HP per turn instead of taking damage. Works with both regular poison and toxic poison. The healing occurs at the end of each turn when poison would normally damage. Pokemon with this ability actively benefit from being poisoned.
+Restores 1/8 max HP per turn instead of taking damage when poisoned. Works with both regular poison and toxic poison. Also prevents damage from Toxic terrain.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
