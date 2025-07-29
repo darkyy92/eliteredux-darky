@@ -1,8 +1,8 @@
 ---
 id: 115
 name: Ice Body
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 89
 ---
 
 # Ice Body - Ability ID 115
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ice Body restores 1/8 of max HP at the end of each turn during hailstorms. The healing occurs during any hail weather including natural hail, Snow Warning hail, and extended hail from Icy Rock. Provides complete immunity to hail damage. Does not heal on the first turn after switching in.
+Restores 1/8 max HP at the end of each turn in hail. Also grants immunity to hail damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
