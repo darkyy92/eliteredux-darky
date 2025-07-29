@@ -2,7 +2,7 @@
 id: 605
 name: Contempt
 status: reviewed
-character_count: 152
+character_count: 162
 ---
 
 # Contempt - Ability ID 605
@@ -13,7 +13,7 @@ character_count: 152
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Ignores all stat stage changes during damage calculations. When the user has their stats lowered by anther Pokemon, they raise their Attack by 2 stages.
+Ignores all the foes' stat stage changes during damage calculations. When the user has their stats lowered by anther Pokemon, they raise their Attack by 2 stages.
 
 ## Detailed Mechanical Explanation
 
