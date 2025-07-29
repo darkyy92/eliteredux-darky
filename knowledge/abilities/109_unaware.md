@@ -1,8 +1,8 @@
 ---
 id: 109
 name: Unaware
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 68
 ---
 
 # Unaware - Ability ID 109
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Unaware ignores all opponent stat changes when calculating damage, treating their stats as if they have no boosts or drops. This allows the user to deal consistent damage against setup sweepers like Dragon Dance users and ignore defensive boosts, while also being unaffected by opponent stat debuffs.
+Ignores all the foes' stat stage changes during damage calculations.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
