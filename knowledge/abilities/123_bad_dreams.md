@@ -1,8 +1,8 @@
 ---
 id: 123
 name: Bad Dreams
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 72
 ---
 
 # Bad Dreams - Ability ID 123
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Bad Dreams inflicts nightmare damage on all sleeping opponents, dealing 25% max HP at turn end. Bypasses Substitute and affects multiple foes simultaneously. Works with all sleep including Rest. Forces opponents to wake up or take massive damage each turn.
+All sleeping opponents lose 25% of their max HP at the end of each turn.
 
 ## Detailed Mechanical Explanation
 
