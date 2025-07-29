@@ -131,7 +131,7 @@ In Progress: 0
 | 120 | Reckless                   | ✅       | ✅        |
 | 121 | Multitype                  | ✅       | ✅        |
 | 122 | Flower Gift                | ✅       | ✅        |
-| 123 | Bad Dreams                 | ✅       | ❌        |
+| 123 | Bad Dreams                 | ✅       | ✅        |
 | 124 | Pickpocket                 | ✅       | ❌        |
 | 125 | Sheer Force                | ✅       | ❌        |
 | 126 | Contrary                   | ✅       | ❌        |

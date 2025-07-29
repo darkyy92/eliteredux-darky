@@ -353,7 +353,7 @@ The user changes form based of the type of Plate they are currently holding. Pla
 During sun, boost base Special Attack and Special Defense by 50% for this Pokemon and all allies.
 
 # ID: 123
-Bad Dreams inflicts nightmare damage on all sleeping opponents, dealing 25% max HP at turn end. Bypasses Substitute and affects multiple foes simultaneously. Works with all sleep including Rest. Forces opponents to wake up or take massive damage each turn.
+All sleeping opponents lose 25% of their max HP at the end of each turn.
 
 # ID: 124
 Pickpocket activates when hit by contact moves, automatically stealing the attacker's held item if the holder has no item. Stolen items benefit the thief immediately. Fails if target has Sticky Hold or Supersweet Syrup abilities, or holds unstealable items. Works through Substitute.
