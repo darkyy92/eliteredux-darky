@@ -2,7 +2,7 @@
 id: 106
 name: Aftermath
 status: reviewed
-character_count: 287
+character_count: 128
 ---
 
 # Aftermath - Ability ID 106
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon faints from a contact move, it deals explosive retaliation damage to the attacker equal to 25% of their maximum HP. This posthumous strike bypasses Substitute but won't activate from indirect damage. Magic Guard protects attackers from this damage. A final parting gift
+Uses a 100 BP Explosion or Outburst (whichever is higher) when knocked out. Using explosion moves will always Flinch the target.
 
 ## Detailed Mechanical Explanation
 
