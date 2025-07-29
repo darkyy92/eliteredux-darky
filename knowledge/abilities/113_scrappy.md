@@ -1,8 +1,8 @@
 ---
 id: 113
 name: Scrappy
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 124
 ---
 
 # Scrappy - Ability ID 113
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Scrappy allows Normal and Fighting-type moves to hit Ghost-type Pokemon for normal damage, bypassing their immunity. Additionally grants complete immunity to Intimidate and Scare abilities, preventing Attack drops from these sources. Perfect for physical attackers facing Ghost types.
+The user can land Normal and Fighting-type moves on Ghost-types for neutral damage. Grants immunity to Intimidate and Scare.
 
 ## Detailed Mechanical Explanation
 
