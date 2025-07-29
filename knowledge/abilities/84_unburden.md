@@ -1,8 +1,8 @@
 ---
 id: 84
 name: Unburden
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 169
 ---
 
 # Unburden - Ability ID 84
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Unburden doubles Speed when the Pokemon's held item is consumed or removed. The boost persists until the Pokemon switches out or gains a new item. Works with berries, gems, consumable items, and items lost through moves like Knock Off, Incinerate, or abilities like Pickpocket.
+When consuming or losing a held item, the user's base Speed stat is multiplied by x2. Boost goes away when switching out, gaining a new item, or upon losing the ability. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
