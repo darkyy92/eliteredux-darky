@@ -302,7 +302,7 @@ Disables all held item effects. Items can still be knocked off or stolen but giv
 Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt.
 
 # ID: 105
-Super Luck adds +1 to the critical hit stage of all the Pokemon's damaging moves. This effectively doubles the critical hit chance for most moves (from 1/16 to 1/8). Stacks with high-crit moves like Slash and items like Scope Lens. Maximum crit stage is still capped at +4 for guaranteed crits.
+Adds +1 to the critical hit stage of all the Pokemon's damaging moves.
 
 # ID: 106
 When this Pokemon faints from a contact move, it deals explosive retaliation damage to the attacker equal to 25% of their maximum HP. This posthumous strike bypasses Substitute but won't activate from indirect damage. Magic Guard protects attackers from this damage. A final parting gift.
