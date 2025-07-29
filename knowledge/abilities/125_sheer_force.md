@@ -1,8 +1,8 @@
 ---
 id: 125
 name: Sheer Force
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 279
 ---
 
 # Sheer Force - Ability ID 125
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sheer Force removes additional effects from moves (burn, freeze, stat changes, etc.) in exchange for 1.3x power boost. Prevents Life Orb recoil but keeps the damage boost, stacking to 1.69x total. Elemental punches, Flamethrower, Ice Beam, and most moves with secondary effects get boosted.
+Removes most beneficial secondary effects after landing attacks in exchange for a 1.3x boost. Notably prevents Life Orb recoil when using these moves. Removable effects include reducing the target's stats, increasing the user's stats, inflicting status on a target and flinching.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
