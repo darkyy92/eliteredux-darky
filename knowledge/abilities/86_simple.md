@@ -1,8 +1,8 @@
 ---
 id: 86
 name: Simple
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 69
 ---
 
 # Simple - Ability ID 86
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Simple doubles all stat stage changes on user, whether positive or negative. Boosts from moves like Swords Dance become +4 instead of +2. Stat drops are also doubled. Works perfectly with Stored Power, which gains +40 power per stage instead of +20. Blocked by Clear Body/stat drop prevention.
+Doubles all stat stage changes on user, whether positive or negative. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -101,7 +101,7 @@ s8 ChangeStatBuffs(u8 battler, s8 statValue, u32 statId, u32 flags, const u8* BS
 
 ### Edge Cases and Limitations:
 1. **Protection Bypass**: Simple calculates before protection checks, but won't apply if the stat change is ultimately blocked
-2. **Cap Interactions**: Still limited by Â±6 stat stage caps
+2. **Cap Interactions**: Still limited by ±6 stat stage caps
 3. **Z-Move Boosts**: Z-move stat boosts are also doubled
 4. **Baton Pass**: Doubled stat stages are passed along normally
 5. **Transform/Imposter**: Copies Simple but not the current stat stages
