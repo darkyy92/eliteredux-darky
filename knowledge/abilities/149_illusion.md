@@ -1,8 +1,8 @@
 ---
 id: 149
 name: Illusion
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 115
 ---
 
 # Illusion - Ability ID 149
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Illusion makes the Pokemon appear as the last alive party member while providing a 1.3x damage boost to all moves. The disguise is automatically broken when the Pokemon takes damage from any move that hits, revealing the true form and removing the power boost.
+Makes the Pokemon appear as the last alive party member. Boosts the user's damage by 30% until the illusion breaks.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
