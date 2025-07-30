@@ -177,7 +177,7 @@ In Progress: 0
 | 166 | Flower Veil                | ✅       | ✅        |
 | 167 | Cheek Pouch                | ✅       | ✅        |
 | 168 | Protean                    | ✅       | ✅        |
-| 169 | Fur Coat                   | ✅       | ❌        |
+| 169 | Fur Coat                   | ✅       | ✅        |
 | 170 | Magician                   | ✅       | ✅        |
 | 171 | Bulletproof                | ✅       | ❌        |
 | 172 | Competitive                | ✅       | ❌        |

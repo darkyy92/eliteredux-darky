@@ -488,7 +488,7 @@ No effect.
 Before each attack, the user overrides their type to match the move's type.  Activates once per turn.
 
 # ID: 169
-This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection.
+Halves all incoming Attack damage. Multiplicative with other sources of damage reduction.
 
 # ID: 170
 The user steals the target's held item when landing a non-contact move if they are currently holding no item. Does not work with Mega Stones and other similar items.
