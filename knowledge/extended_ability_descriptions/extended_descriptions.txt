@@ -1967,7 +1967,7 @@ Opponents deal minimum damage rolls when attacking, forcing 85% damage instead o
 Boosts ally attacks by 25%, or by 50% if it is a recoil move. The user receives no boost.
 
 # ID: 673
-Pokemon with this ability gain an unremovable bleed status condition. When the user contact offensively or defensively with another Pokemon who does not have this ability, it replaces their current ability and causes bleeding.
+Pokemon with this ability gain an unremovable bleed status condition. When the user makes contact offensively or defensively with another Pokemon who does not have this ability, it replaces their current ability and causes bleeding.
 
 # ID: 674
 Deal double damage to targets inflicted with bleeding and the user is immune to status effects.
