@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 792,
+    "completed": 793,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:38:28.418789Z"
+    "generated_at": "2025-07-30T02:42:03.600410Z"
   },
   "abilities": {
     "0": {
@@ -1362,8 +1362,8 @@
       "id": 193,
       "name": "Wimp Out",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "194": {
       "id": 194,
@@ -7300,10 +7300,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "193": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "194": {
       "indicator": "🟠",

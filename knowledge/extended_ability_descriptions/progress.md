@@ -201,7 +201,7 @@ In Progress: 0
 | 190 | Desolate Land              | ✅       | ✅        |
 | 191 | Delta Stream               | ✅       | ✅        |
 | 192 | Stamina                    | ✅       | ✅        |
-| 193 | Wimp Out                   | ✅       | ❌        |
+| 193 | Wimp Out                   | ✅       | ✅        |
 | 194 | Emergency Exit             | ✅       | ❌        |
 | 195 | Water Compaction           | ✅       | ❌        |
 | 196 | Merciless                  | ✅       | ✅        |

@@ -560,7 +560,7 @@ Creates Strong Winds lasting until user switches. Reduces super-effective damage
 When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 193
-When the Pokemon takes damage and its HP drops to 50% or below for the first time in battle, it automatically switches out to safety. Only works in trainer battles with available party members. Blocked by Sheer Force moves and Arena Trap-style trapping effects. Provides emergency escape mechanism.
+When the Pokemon receives damage and its HP drops to 50% or below for the first time in battle, it switches out to safety. Activates on the last hit of multihit moves.
 
 # ID: 194
 When this Pokemon's HP drops to half or below from an attack, it automatically switches out at the end of the turn in trainer battles only. Requires usable party members and cannot be prevented by trapping effects. The switching occurs after all move effects resolve completely safely.
