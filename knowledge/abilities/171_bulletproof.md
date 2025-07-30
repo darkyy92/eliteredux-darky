@@ -1,8 +1,8 @@
 ---
 id: 171
 name: Bulletproof
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 115
 ---
 
 # Bulletproof - Ability ID 171
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Provides complete immunity to ball, bomb, and projectile moves. Blocks Shadow Ball, Focus Blast, Aura Sphere, Sludge Bomb, Energy Ball, Bullet Seed, and similar ballistic attacks. The immunity prevents all damage and effects from these moves, working against both physical and special variants.
+Provides immunity to ball, bomb, and projectile moves. Includes Acid Spray, Rock Wrecker, Pollen Puff, and Barrage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
