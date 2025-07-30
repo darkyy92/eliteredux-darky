@@ -1,8 +1,8 @@
 ---
 id: 145
 name: Big Pecks
-status: ai-generated
-character_count: 259
+status: reviewed
+character_count: 41
 ---
 
 # Big Pecks - Ability ID 145
@@ -13,7 +13,7 @@ character_count: 259
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Big Pecks boosts the power of all contact moves by 30%. This includes physical attacks like Tackle, Scratch, and Bite, as well as special contact moves like Grass Knot. The damage boost applies to any move that makes direct physical contact with the opponent.
+Boosts the power of contact moves by 30%. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
