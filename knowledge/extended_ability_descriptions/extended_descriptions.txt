@@ -473,7 +473,7 @@ Boosts the user's and their ally's accuracy by 1.2x when active in a double batt
 Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt. Adds Fire to the user's typing. Retains Fire typing even upon losing the ability, going away only when switching out.
 
 # ID: 164
-Teravolt charges the Pokemon with bursting electrical energy that allows moves to penetrate all defensive abilities while adding Electric typing. Bypasses Wonder Guard, Levitate, and other protective traits while granting Electric STAB and resistances for maximum battlefield control.
+Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt. Adds Electric to the user's typing. Retains Electric typing even upon losing the ability, going away only when switching out.
 
 # ID: 165
 Protects the user and allies from infatuation caused by Attract, heal block effects from Heal Block and Psychic Noise, and disabling moves including Disable, Taunt, Encore, and Torment. This protective veil can be bypassed by abilities that ignore other abilities like Mold Breaker.

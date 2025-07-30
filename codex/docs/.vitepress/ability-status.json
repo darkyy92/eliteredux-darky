@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 772,
+    "completed": 773,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:56:19.447593Z"
+    "generated_at": "2025-07-30T01:56:50.416119Z"
   },
   "abilities": {
     "0": {
@@ -1159,8 +1159,8 @@
       "id": 164,
       "name": "Teravolt",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "165": {
       "id": 165,
@@ -7126,10 +7126,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "164": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "165": {
       "indicator": "🟠",
