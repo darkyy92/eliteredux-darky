@@ -157,7 +157,7 @@ In Progress: 0
 | 146 | Sand Rush                  | ✅       | ✅        |
 | 147 | Wonder Skin                | ✅       | ✅        |
 | 148 | Analytic                   | ✅       | ❌        |
-| 149 | Illusion                   | ✅       | ❌        |
+| 149 | Illusion                   | ✅       | ✅        |
 | 150 | Imposter                   | ✅       | ❌        |
 | 151 | Infiltrator                | ✅       | ❌        |
 | 152 | Mummy                      | ✅       | ❌        |

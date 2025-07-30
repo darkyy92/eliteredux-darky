@@ -431,7 +431,7 @@ Immune to all damage boosting ability effects from opponents, other than Parenta
 Analytic boosts attack power by 30% when the user moves after the target. The boost applies to all damaging moves except Future Sight and Doom Desire. Works when the target has already acted this turn, making it excellent for slow attackers who naturally move last in battle.
 
 # ID: 149
-Illusion makes the Pokemon appear as the last alive party member while providing a 1.3x damage boost to all moves. The disguise is automatically broken when the Pokemon takes damage from any move that hits, revealing the true form and removing the power boost.
+Makes the Pokemon appear as the last alive party member. Boosts the user's damage by 30% until the illusion breaks.
 
 # ID: 150
 Imposter transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats, types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
