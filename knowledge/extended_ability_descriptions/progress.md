@@ -148,7 +148,7 @@ In Progress: 0
 | 137 | Toxic Boost                | ✅       | ✅        |
 | 138 | Flare Boost                | ✅       | ✅        |
 | 139 | Harvest                    | ✅       | ✅        |
-| 140 | Telepathy                  | ✅       | ❌        |
+| 140 | Telepathy                  | ✅       | ✅        |
 | 141 | Moody                      | ✅       | ❌        |
 | 142 | Overcoat                   | ✅       | ✅        |
 | 143 | Poison Touch               | ✅       | ❌        |

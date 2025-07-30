@@ -404,7 +404,7 @@ Raises the Pokemon's Special Attack stat by 50% when burned. Negates burn damage
 50% chance to restore berry on turn end, 100% in sun. Includes berries that were used for Fling, Natural Gift, or eaten.
 
 # ID: 140
-Telepathy protects the Pokemon from all damage-dealing moves used by its allies in double or triple battles. This includes spread moves like Earthquake, Surf, and Discharge that would normally hit all Pokemon on the field. The ability provides complete immunity from friendly fire damage.
+Protects the Pokemon from all damage-dealing moves used by its allies in double battles.
 
 # ID: 141
 Moody triggers at the end of each turn, randomly selecting one stat to sharply raise (+2 stages) and another stat to lower (-1 stage). The same stat cannot be both raised and lowered in the same turn. Only activates if at least one stat change is possible.

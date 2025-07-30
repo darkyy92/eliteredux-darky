@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 755,
+    "completed": 756,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:18:56.801575Z"
+    "generated_at": "2025-07-30T01:19:22.189874Z"
   },
   "abilities": {
     "0": {
@@ -991,8 +991,8 @@
       "id": 140,
       "name": "Telepathy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "141": {
       "id": 141,
@@ -6982,10 +6982,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "140": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "141": {
       "indicator": "🟠",
