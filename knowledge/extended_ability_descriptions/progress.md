@@ -163,7 +163,7 @@ In Progress: 0
 | 152 | Mummy                      | ✅       | ✅        |
 | 153 | Moxie                      | ✅       | ✅        |
 | 154 | Justified                  | ✅       | ✅        |
-| 155 | Rattled                    | ✅       | ❌        |
+| 155 | Rattled                    | ✅       | ✅        |
 | 156 | Magic Bounce               | ✅       | ✅        |
 | 157 | Sap Sipper                 | ✅       | ✅        |
 | 158 | Prankster                  | ✅       | ✅        |

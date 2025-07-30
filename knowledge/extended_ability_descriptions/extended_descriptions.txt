@@ -449,7 +449,7 @@ Boosts the user's Attack by one stage whenever it knocks out an opponent with a 
 Immune to Dark-type moves, and boost Attack by 1 stage when the user is hit by them.
 
 # ID: 155
-Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only works on damaging moves and doesn't activate if the Pokemon faints from the hit. Provides defensive utility by turning weaknesses into opportunity.
+Boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. Activates multiple times against multihit moves.
 
 # ID: 156
 Reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Does not reflect moves that were already reflected.
