@@ -1,8 +1,8 @@
 ---
 id: 188
 name: Aura Break
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 109
 ---
 
 # Aura Break - Ability ID 188
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reverses aura abilities' effects, causing Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%. Only affects Dark-type and Fairy-type move power boosts. Battle Aura and other aura-named abilities remain unaffected by this field-wide reversal effect.
+Causes Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%.
 
 ## Detailed Mechanical Explanation
 
