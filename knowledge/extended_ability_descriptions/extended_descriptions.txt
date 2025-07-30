@@ -395,7 +395,7 @@ Light Metal halves the Pokemon's weight and boosts their Speed stat by 30%. Make
 Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction.
 
 # ID: 137
-Toxic Boost increases the Pokemon's physical Attack by 50% when poisoned (regular or badly poisoned). The ability completely prevents poison damage both in battle and in the field. Works with self-inflicted poison from Toxic Orb. The Attack boost applies immediately upon becoming poisoned.
+Increases the Pokemon's Attack stat by 50% when poisoned (regular or badly poisoned). Immediately applies poison to user when in Toxic Terrain, regardless of them being grounded or not. Nullifies poison damage.
 
 # ID: 138
 Flare Boost raises the Pokemon's Special Attack by 50% when burned instead of reducing Attack. Negates burn damage completely. Additionally, when entering battle or when fog weather activates, automatically inflicts burn status on self. Perfect for special attackers who can exploit burn immunity.

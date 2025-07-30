@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 753,
+    "completed": 754,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T00:53:39.307484Z"
+    "generated_at": "2025-07-30T00:59:50.029956Z"
   },
   "abilities": {
     "0": {
@@ -970,8 +970,8 @@
       "id": 137,
       "name": "Toxic Boost",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "138": {
       "id": 138,
@@ -6964,10 +6964,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "137": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "138": {
       "indicator": "🟠",
