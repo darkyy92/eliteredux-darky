@@ -539,7 +539,7 @@ Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affec
 Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
 
 # ID: 186
-Dark Aura radiates malevolent energy that empowers all Dark-type moves on the battlefield. When this Pokemon enters battle, it announces its presence with a chilling aura that boosts Dark moves by 33% for every Pokemon. Can be reversed by Aura Break, reducing power to 75% instead.
+All Dark-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break.
 
 # ID: 187
 Fairy Aura radiates mystical energy that empowers all Fairy-type moves on the battlefield by 33%, affecting both allies and opponents equally. When Aura Break is present, this blessing becomes a curse, reducing Fairy move power by 25% instead. Creates significant field-wide impact.
