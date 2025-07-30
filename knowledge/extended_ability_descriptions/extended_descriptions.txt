@@ -554,7 +554,7 @@ Creates Heavy Rain that lasts until user switches. Completely nullifies all dama
 Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Activates extra effects on sun related moves.
 
 # ID: 191
-Creates Strong Winds lasting until user switches. Reduces super-effective damage to Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather. Protects all Flying Pokemon on field, not just user.
+Creates Strong Winds lasting until user switches. Reduces super-effective damage to all active Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather.
 
 # ID: 192
 Stamina transforms each hit taken into defensive strength. Normal attacks raise Defense by one stage, turning continuous damage into progressive fortification. Critical hits trigger an exceptional response, instantly maximizing Defense to +600%. This creates a risk-reward dynamic.

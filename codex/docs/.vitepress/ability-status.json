@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 790,
+    "completed": 791,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:36:34.414848Z"
+    "generated_at": "2025-07-30T02:37:50.999626Z"
   },
   "abilities": {
     "0": {
@@ -1348,8 +1348,8 @@
       "id": 191,
       "name": "Delta Stream",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "192": {
       "id": 192,
@@ -7288,10 +7288,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "191": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "192": {
       "indicator": "🟠",
