@@ -1,8 +1,8 @@
 ---
 id: 192
 name: Stamina
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 122
 ---
 
 # Stamina - Ability ID 192
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Stamina transforms each hit taken into defensive strength. Normal attacks raise Defense by one stage, turning continuous damage into progressive fortification. Critical hits trigger an exceptional response, instantly maximizing Defense to +600%. This creates a risk-reward dynamic.
+When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 
