@@ -146,7 +146,7 @@ In Progress: 0
 | 135 | Light Metal                | ✅       | ✅        |
 | 136 | Multiscale                 | ✅       | ✅        |
 | 137 | Toxic Boost                | ✅       | ✅        |
-| 138 | Flare Boost                | ✅       | ❌        |
+| 138 | Flare Boost                | ✅       | ✅        |
 | 139 | Harvest                    | ✅       | ✅        |
 | 140 | Telepathy                  | ✅       | ❌        |
 | 141 | Moody                      | ✅       | ❌        |
