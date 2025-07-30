@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 773,
+    "completed": 774,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:56:50.416119Z"
+    "generated_at": "2025-07-30T01:59:27.035212Z"
   },
   "abilities": {
     "0": {
@@ -1166,8 +1166,8 @@
       "id": 165,
       "name": "Aroma Veil",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "166": {
       "id": 166,
@@ -7132,10 +7132,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "165": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "166": {
       "indicator": "🟠",

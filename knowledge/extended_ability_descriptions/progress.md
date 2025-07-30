@@ -173,7 +173,7 @@ In Progress: 0
 | 162 | Victory Star               | ✅       | ✅        |
 | 163 | Turboblaze                 | ✅       | ✅        |
 | 164 | Teravolt                   | ✅       | ✅        |
-| 165 | Aroma Veil                 | ✅       | ❌        |
+| 165 | Aroma Veil                 | ✅       | ✅        |
 | 166 | Flower Veil                | ✅       | ❌        |
 | 167 | Cheek Pouch                | ✅       | ❌        |
 | 168 | Protean                    | ✅       | ❌        |

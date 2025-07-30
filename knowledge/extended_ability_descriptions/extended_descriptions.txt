@@ -476,7 +476,7 @@ Allows moves to ignore the target's abilities and innates that interfere with ef
 Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt. Adds Electric to the user's typing. Retains Electric typing even upon losing the ability, going away only when switching out.
 
 # ID: 165
-Protects the user and allies from infatuation caused by Attract, heal block effects from Heal Block and Psychic Noise, and disabling moves including Disable, Taunt, Encore, and Torment. This protective veil can be bypassed by abilities that ignore other abilities like Mold Breaker.
+Protects the user and allies from infatuation, heal block effects, and disabling moves including Disable, Taunt, Encore, and Torment.
 
 # ID: 166
 Surrounds Grass-type allies with a protective veil of petals, preventing all status conditions including poison, burn, paralysis, sleep, and freeze. Also blocks all stat reductions from enemy moves, abilities, and effects. Does not protect the user if they are not Grass-type.
