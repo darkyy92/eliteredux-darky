@@ -1,8 +1,8 @@
 ---
 id: 193
 name: Wimp Out
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 167
 ---
 
 # Wimp Out - Ability ID 193
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When the Pokemon takes damage and its HP drops to 50% or below for the first time in battle, it automatically switches out to safety. Only works in trainer battles with available party members. Blocked by Sheer Force moves and Arena Trap-style trapping effects. Provides emergency escape mechanism.
+When the Pokemon receives damage and its HP drops to 50% or below for the first time in battle, it switches out to safety. Activates on the last hit of multihit moves.
 
 ## Detailed Mechanical Explanation
 
