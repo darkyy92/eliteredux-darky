@@ -1,8 +1,8 @@
 ---
 id: 174
 name: Refrigerate
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 104
 ---
 
 # Refrigerate - Ability ID 174
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Refrigerate converts all Normal-type moves to Ice-type. The Pokemon gains STAB (1.5x power) for Ice moves regardless of its original typing. Unlike the main series, this ability does not provide an additional 1.2x power boost to converted moves, only type conversion and STAB access.
+Converts all Normal-type moves to Ice-type and grants STAB for Ice moves, regardless of the user's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
