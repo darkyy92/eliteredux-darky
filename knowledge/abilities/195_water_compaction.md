@@ -1,8 +1,8 @@
 ---
 id: 195
 name: Water Compaction
-status: ai-generated
-character_count: 290
+status: reviewed
+character_count: 239
 ---
 
 # Water Compaction - Ability ID 195
@@ -13,7 +13,7 @@ character_count: 290
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Water Compaction reduces damage from Water-type moves by 50% and raises Defense by 2 stages when hit by Water moves. Both effects trigger on the same Water attack - first the damage reduction applies, then the Defense boost activates if the Pokemon can still raise its Defense stat further.
+Reduces damage from Water-type moves by 50% and raises Defense by 2 stages when hit by Water moves. Multiplicative with other sources of damage reduction. Defense boost applies after the hit lands. Activates on each hit of a multihit move. 
 
 ## Detailed Mechanical Explanation
 
