@@ -149,7 +149,7 @@ In Progress: 0
 | 138 | Flare Boost                | ✅       | ✅        |
 | 139 | Harvest                    | ✅       | ✅        |
 | 140 | Telepathy                  | ✅       | ✅        |
-| 141 | Moody                      | ✅       | ❌        |
+| 141 | Moody                      | ✅       | ✅        |
 | 142 | Overcoat                   | ✅       | ✅        |
 | 143 | Poison Touch               | ✅       | ❌        |
 | 144 | Regenerator                | ✅       | ✅        |
