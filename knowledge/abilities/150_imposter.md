@@ -1,8 +1,8 @@
 ---
 id: 150
 name: Imposter
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 289
 ---
 
 # Imposter - Ability ID 150
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Imposter transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats, types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
+Transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats (minus HP), types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
