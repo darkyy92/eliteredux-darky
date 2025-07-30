@@ -1,8 +1,8 @@
 ---
 id: 161
 name: Zen Mode
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 39
 ---
 
 # Zen Mode - Ability ID 161
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Zen Mode triggers permanent form change upon battle entry. Unlike HP-based transformations, this activates unconditionally when entering battle. The transformation lasts the entire battle and cannot be reversed. Works with Darmanitan forms, changing stats, typing, and complete movepool access.
+Triggers form change upon battle entry. 
 
 ## Detailed Mechanical Explanation
 
