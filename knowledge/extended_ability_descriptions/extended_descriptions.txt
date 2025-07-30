@@ -458,7 +458,7 @@ Reflects most status moves back to the user before they can take effect. The bou
 Immune to Grass-type moves, and boost highest attacking stat by 1 stage when the user is hit by them.
 
 # ID: 158
-Status moves gain +1 priority, going first in their priority bracket. This includes moves like Thunder Wave, Spore, Taunt, and stat boosters. However, status moves completely fail when targeting opposing Dark-type Pokemon. Works on multi-target moves but affected opponents are protected.
+Status moves gain +1 priority. Status moves fail when directly targeting opposing Dark-type Pokemon.
 
 # ID: 159
 Sand Force boosts the Pokemon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.

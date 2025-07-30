@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 767,
+    "completed": 768,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:48:23.233326Z"
+    "generated_at": "2025-07-30T01:49:44.121371Z"
   },
   "abilities": {
     "0": {
@@ -1117,8 +1117,8 @@
       "id": 158,
       "name": "Prankster",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "159": {
       "id": 159,
@@ -7090,10 +7090,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "158": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "159": {
       "indicator": "🟠",
