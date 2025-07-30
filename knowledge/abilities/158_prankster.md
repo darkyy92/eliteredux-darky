@@ -1,8 +1,8 @@
 ---
 id: 158
 name: Prankster
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 100
 ---
 
 # Prankster - Ability ID 158
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Status moves gain +1 priority, going first in their priority bracket. This includes moves like Thunder Wave, Spore, Taunt, and stat boosters. However, status moves completely fail when targeting opposing Dark-type Pokemon. Works on multi-target moves but affected opponents are protected.
+Status moves gain +1 priority. Status moves fail when directly targeting opposing Dark-type Pokemon. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
