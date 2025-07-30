@@ -1,8 +1,8 @@
 ---
 id: 191
 name: Delta Stream
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 227
 ---
 
 # Delta Stream - Ability ID 191
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Creates Strong Winds lasting until user switches. Reduces super-effective damage to Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather. Protects all Flying Pokemon on field, not just user.
+Creates Strong Winds lasting until user switches. Reduces super-effective damage to all active Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather. 
 
 ## Detailed Mechanical Explanation
 **Delta Stream** creates the primal weather "Strong Winds" that provides unique Flying-type protection and weather move immunity.
