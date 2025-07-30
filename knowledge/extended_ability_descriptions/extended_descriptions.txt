@@ -446,7 +446,7 @@ When the user receives a contact move from another Pokemon who does not have thi
 Boosts the user's Attack by one stage whenever it knocks out an opponent with a direct hit.
 
 # ID: 154
-Immune to Dark-type moves, and boost Attack by 1 stage when the user is hit by them. Activates on each hit of a multihit move.
+Immune to Dark-type moves, and boost Attack by 1 stage when the user is hit by them.
 
 # ID: 155
 Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only works on damaging moves and doesn't activate if the Pokemon faints from the hit. Provides defensive utility by turning weaknesses into opportunity.
