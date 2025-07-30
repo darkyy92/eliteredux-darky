@@ -455,7 +455,7 @@ Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. Th
 Reflects most status moves back to the user before they can take effect. The bounced move targets the original user with no additional accuracy check. Does not reflect moves that were already reflected.
 
 # ID: 157
-Sap Sipper provides immunity to Grass-type moves and boosts the highest attacking stat by one stage when hit. Also redirects single-target Grass moves in doubles. The boost applies to Attack or Special Attack, whichever is higher. Great defensive utility with offensive potential.
+Immune to Grass-type moves, and boost highest attacking stat by 1 stage when the user is hit by them.
 
 # ID: 158
 Status moves gain +1 priority, going first in their priority bracket. This includes moves like Thunder Wave, Spore, Taunt, and stat boosters. However, status moves completely fail when targeting opposing Dark-type Pokemon. Works on multi-target moves but affected opponents are protected.

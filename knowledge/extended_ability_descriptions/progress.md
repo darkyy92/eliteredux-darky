@@ -165,7 +165,7 @@ In Progress: 0
 | 154 | Justified                  | ✅       | ✅        |
 | 155 | Rattled                    | ✅       | ❌        |
 | 156 | Magic Bounce               | ✅       | ✅        |
-| 157 | Sap Sipper                 | ✅       | ❌        |
+| 157 | Sap Sipper                 | ✅       | ✅        |
 | 158 | Prankster                  | ✅       | ❌        |
 | 159 | Sand Force                 | ✅       | ❌        |
 | 160 | Ability 160                | ❌       | ❌        |
