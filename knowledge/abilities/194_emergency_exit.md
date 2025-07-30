@@ -1,8 +1,8 @@
 ---
 id: 194
 name: Emergency Exit
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 167
 ---
 
 # Emergency Exit - Ability ID 194
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon's HP drops to half or below from an attack, it automatically switches out at the end of the turn in trainer battles only. Requires usable party members and cannot be prevented by trapping effects. The switching occurs after all move effects resolve completely safely.
+When the Pokemon receives damage and its HP drops to 50% or below for the first time in battle, it switches out to safety. Activates on the last hit of multihit moves.
 
 ## Detailed Mechanical Explanation
 
