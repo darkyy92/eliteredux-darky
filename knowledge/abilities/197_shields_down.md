@@ -1,8 +1,8 @@
 ---
 id: 197
 name: Shields Down
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 283
 ---
 
 # Shields Down - Ability ID 197
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert to Meteor Form once transformed during battle.
+Transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert to Meteor Form once transformed during battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
