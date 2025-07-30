@@ -1,8 +1,8 @@
 ---
 id: 140
 name: Telepathy
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 88
 ---
 
 # Telepathy - Ability ID 140
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Telepathy protects the Pokemon from all damage-dealing moves used by its allies in double or triple battles. This includes spread moves like Earthquake, Surf, and Discharge that would normally hit all Pokemon on the field. The ability provides complete immunity from friendly fire damage.
+Protects the Pokemon from all damage-dealing moves used by its allies in double battles. 
 
 ## Detailed Mechanical Explanation
 
