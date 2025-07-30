@@ -1,8 +1,8 @@
 ---
 id: 166
 name: Flower Veil
-status: ai-generated
-character_count: 276
+status: reviewed
+character_count: 99
 ---
 
 # Flower Veil - Ability ID 166
@@ -13,7 +13,7 @@ character_count: 276
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Surrounds Grass-type allies with a protective veil of petals, preventing all status conditions including poison, burn, paralysis, sleep, and freeze. Also blocks all stat reductions from enemy moves, abilities, and effects. Does not protect the user if they are not Grass-type.
+Prevents all status conditions and stat reductions for Grass-type allies. Includes self-stat drops.
 
 ## Detailed Mechanical Explanation
 
