@@ -1,8 +1,8 @@
 ---
 id: 175
 name: Sweet Veil
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 74
 ---
 
 # Sweet Veil - Ability ID 175
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sweet Veil provides sleep immunity to both the user and their ally in doubles battles. This ability prevents Sleep status from moves like Sleep Powder, Hypnosis, and Spore. The protection extends to the ally even if they don't have Sweet Veil themselves. Cannot be suppressed but can be broken.
+Provides sleep immunity to both the user and their ally in double battles. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
