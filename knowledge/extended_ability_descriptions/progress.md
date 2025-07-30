@@ -185,7 +185,7 @@ In Progress: 0
 | 174 | Refrigerate                | ✅       | ✅        |
 | 175 | Sweet Veil                 | ✅       | ✅        |
 | 176 | Stance Change              | ✅       | ✅        |
-| 177 | Gale Wings                 | ✅       | ❌        |
+| 177 | Gale Wings                 | ✅       | ✅        |
 | 178 | Mega Launcher              | ✅       | ✅        |
 | 179 | Grass Pelt                 | ✅       | ✅        |
 | 180 | Symbiosis                  | ✅       | ❌        |
