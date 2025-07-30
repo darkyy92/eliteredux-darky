@@ -1,8 +1,8 @@
 ---
 id: 157
 name: Sap Sipper
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 101
 ---
 
 # Sap Sipper - Ability ID 157
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sap Sipper provides immunity to Grass-type moves and boosts the highest attacking stat by one stage when hit. Also redirects single-target Grass moves in doubles. The boost applies to Attack or Special Attack, whichever is higher. Great defensive utility with offensive potential.
+Immune to Grass-type moves, and boost highest attacking stat by 1 stage when the user is hit by them.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
