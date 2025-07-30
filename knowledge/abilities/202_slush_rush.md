@@ -2,7 +2,7 @@
 id: 202
 name: Slush Rush
 status: reviewed
-character_count: 102
+character_count: 88
 ---
 
 # Slush Rush - Ability ID 202
@@ -13,7 +13,7 @@ character_count: 102
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Slush Rush boosts the Pokemon's Speed by 50% during hail weather. Also grants immunity to hail damage.
+Boosts the Pokemon's Speed stat by 50% during hail. Also grants immunity to hail damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
