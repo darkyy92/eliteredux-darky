@@ -1,8 +1,8 @@
 ---
 id: 189
 name: Primordial Sea
-status: ai-generated
-character_count: 262
+status: reviewed
+character_count: 271
 ---
 
 # Primordial Sea - Ability ID 189
@@ -13,7 +13,7 @@ character_count: 262
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Rain abilities activate.
+Creates Heavy Rain that lasts until user switches. Completely nullifies all damaging Fire moves. Water moves gain 50% boost. Cannot be overridden except by other primal weather. Activates extra effects on rain related moves. Halves the effectiveness of sun related moves.
 
 ## Detailed Mechanical Explanation
 **Primordial Sea** creates a special primal weather condition called "Heavy Rain" that provides extreme weather control and Fire-type immunity.
