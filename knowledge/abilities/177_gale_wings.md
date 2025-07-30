@@ -1,8 +1,8 @@
 ---
 id: 177
 name: Gale Wings
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 56
 ---
 
 # Gale Wings - Ability ID 177
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Grants Flying-type moves +1 priority when the Pokemon is at full HP. Works with any move that becomes Flying-type including ones changed by abilities like Aerilate. Priority boost disappears if HP drops below maximum, even by 1 point. Essential for fast offensive Flying-types.
+Grants +1 priority to Flying-type moves when at full HP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
