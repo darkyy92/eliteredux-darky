@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 762,
+    "completed": 763,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:35:49.504421Z"
+    "generated_at": "2025-07-30T01:38:55.940936Z"
   },
   "abilities": {
     "0": {
@@ -1068,8 +1068,8 @@
       "id": 151,
       "name": "Infiltrator",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "152": {
       "id": 152,
@@ -7048,10 +7048,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "151": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "152": {
       "indicator": "🟠",

@@ -437,7 +437,7 @@ Makes the Pokemon appear as the last alive party member. Boosts the user's damag
 Transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats (minus HP), types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
 
 # ID: 151
-Infiltrator allows moves to bypass protective effects that would normally block or reduce damage. All moves ignore Substitute dolls and damage reduction screens like Reflect, Light Screen, and Aurora Veil. Also bypasses Mist when using stat-lowering moves, ensuring attacks connect at full power.
+Allows moves to bypass the effects of screens, Safeguard, Mist, and Substitute.
 
 # ID: 152
 Mummy spreads when hit by contact moves, replacing the attacker's ability with Mummy unless they have Ability Shield or an unsuppressable ability. Particularly effective against physical attackers, disrupting their strategies and spreading the curse through battle teams.
