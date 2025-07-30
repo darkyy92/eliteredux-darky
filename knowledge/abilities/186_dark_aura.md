@@ -1,8 +1,8 @@
 ---
 id: 186
 name: Dark Aura
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 116
 ---
 
 # Dark Aura - Ability ID 186
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dark Aura radiates malevolent energy that empowers all Dark-type moves on the battlefield. When this Pokemon enters battle, it announces its presence with a chilling aura that boosts Dark moves by 33% for every Pokemon. Can be reversed by Aura Break, reducing power to 75% instead.
+All Dark-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break. 
 
 ## Detailed Mechanical Explanation
 
