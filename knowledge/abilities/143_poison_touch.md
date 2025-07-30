@@ -1,8 +1,8 @@
 ---
 id: 143
 name: Poison Touch
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 92
 ---
 
 # Poison Touch - Ability ID 143
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When this Pokemon makes physical contact, either by using contact moves or being hit by them, there's a 30% chance the opposing Pokemon becomes poisoned. This ability functions both offensively and defensively during battle, but cannot poison targets already poisoned or immune to poison.
+Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
