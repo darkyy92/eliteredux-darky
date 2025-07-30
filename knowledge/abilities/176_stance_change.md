@@ -1,8 +1,8 @@
 ---
 id: 176
 name: Stance Change
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 268
 ---
 
 # Stance Change - Ability ID 176
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically changes Aegislash's form based on moves used. Shield form switches to Blade when using damaging moves. Blade switches to Shield with King's Shield. Redux forms swap between physical/special based on move type. Unsuppressable. Form changes occur before attacks execute.
+Changes Aegislash's form based on moves used. Shield form switches to Blade when using damaging moves. Blade switches to Shield with King's Shield. Redux forms swap between physical/special based on move type. Unsuppressable. Form changes occur before attacks execute.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
