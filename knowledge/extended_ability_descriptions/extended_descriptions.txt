@@ -503,7 +503,7 @@ Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers a
 Boosts the power of biting and fang moves by 30%.
 
 # ID: 174
-Refrigerate converts all Normal-type moves to Ice-type. The Pokemon gains STAB (1.5x power) for Ice moves regardless of its original typing. Unlike the main series, this ability does not provide an additional 1.2x power boost to converted moves, only type conversion and STAB access.
+Converts all Normal-type moves to Ice-type and grants STAB for Ice moves, regardless of the user's type.
 
 # ID: 175
 Sweet Veil provides sleep immunity to both the user and their ally in doubles battles. This ability prevents Sleep status from moves like Sleep Powder, Hypnosis, and Spore. The protection extends to the ally even if they don't have Sweet Veil themselves. Cannot be suppressed but can be broken.

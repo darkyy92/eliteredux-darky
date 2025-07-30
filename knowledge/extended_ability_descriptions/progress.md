@@ -182,7 +182,7 @@ In Progress: 0
 | 171 | Bulletproof                | ✅       | ✅        |
 | 172 | Competitive                | ✅       | ❌        |
 | 173 | Strong Jaw                 | ✅       | ✅        |
-| 174 | Refrigerate                | ✅       | ❌        |
+| 174 | Refrigerate                | ✅       | ✅        |
 | 175 | Sweet Veil                 | ✅       | ❌        |
 | 176 | Stance Change              | ✅       | ❌        |
 | 177 | Gale Wings                 | ✅       | ❌        |
