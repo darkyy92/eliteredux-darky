@@ -443,7 +443,7 @@ Allows moves to bypass the effects of screens, Safeguard, Mist, and Substitute.
 When the user receives a contact move from another Pokemon who does not have this ability, it replaces their current ability with Mummy.
 
 # ID: 153
-Moxie boosts the user's Attack stat by one stage when it knocks out an opponent Pokemon. This ability triggers immediately after dealing the final blow and works with any move that causes a knockout. The Attack boost stacks with other stat modifiers and persists until switching out.
+Boosts the user's Attack by one stage whenever it knocks out an opponent with a direct hit.
 
 # ID: 154
 Justified activates when hit by Dark-type moves, granting immunity to damage and raising the user's highest attacking stat by 1 stage. Whether Attack or Special Attack increases depends on which is naturally higher with stat boosts considered. Pairs well with switch-ins.
