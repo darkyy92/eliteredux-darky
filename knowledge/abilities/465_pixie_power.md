@@ -2,7 +2,7 @@
 id: 465
 name: Pixie Power
 status: reviewed
-character_count: 117
+character_count: 145
 ---
 
 # Pixie Power - Ability ID 465
@@ -13,7 +13,7 @@ character_count: 117
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-All Fairy moves get a 1.33x boost (opponent also gets the boost), affected by Aura Break. 1.2x accuracy on all moves.
+All Fairy-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break. 1.2x accuracy on all moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
