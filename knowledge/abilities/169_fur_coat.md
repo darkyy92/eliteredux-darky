@@ -1,8 +1,8 @@
 ---
 id: 169
 name: Fur Coat
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 89
 ---
 
 # Fur Coat - Ability ID 169
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection.
+Halves all incoming Attack damage. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 
