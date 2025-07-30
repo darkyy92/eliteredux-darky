@@ -175,7 +175,7 @@ In Progress: 0
 | 164 | Teravolt                   | ✅       | ✅        |
 | 165 | Aroma Veil                 | ✅       | ✅        |
 | 166 | Flower Veil                | ✅       | ✅        |
-| 167 | Cheek Pouch                | ✅       | ❌        |
+| 167 | Cheek Pouch                | ✅       | ✅        |
 | 168 | Protean                    | ✅       | ❌        |
 | 169 | Fur Coat                   | ✅       | ❌        |
 | 170 | Magician                   | ✅       | ✅        |

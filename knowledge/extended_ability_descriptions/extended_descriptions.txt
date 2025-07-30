@@ -482,7 +482,7 @@ Protects the user and allies from infatuation, heal block effects, and disabling
 Prevents all status conditions and stat reductions for Grass-type allies. Includes self-stat drops.
 
 # ID: 167
-Cheek Pouch restores 33% of the Pokemon's maximum HP immediately after consuming any Berry through normal means. This healing occurs in addition to the Berry's primary effect, making Berry-based strategies significantly more effective in battle.
+No effect.
 
 # ID: 168
 Changes the user's type to match the type of the move being used before attacking, granting Same Type Attack Bonus (STAB) to all moves. This ability only activates once per turn and will not trigger if the user is already the same type as the move being used, except for Struggle.
