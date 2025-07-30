@@ -545,7 +545,7 @@ All Dark-type moves for the user, their allies, and the opponent get a 1.33x boo
 All Fairy-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break.
 
 # ID: 188
-Reverses aura abilities' effects, causing Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%. Only affects Dark-type and Fairy-type move power boosts. Battle Aura and other aura-named abilities remain unaffected by this field-wide reversal effect.
+Causes Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%.
 
 # ID: 189
 Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Rain abilities activate.
