@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 763,
+    "completed": 764,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:39:58.026020Z"
+    "generated_at": "2025-07-30T01:42:10.376993Z"
   },
   "abilities": {
     "0": {
@@ -1075,8 +1075,8 @@
       "id": 152,
       "name": "Mummy",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "153": {
       "id": 153,
@@ -7054,10 +7054,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "152": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "153": {
       "indicator": "🟠",

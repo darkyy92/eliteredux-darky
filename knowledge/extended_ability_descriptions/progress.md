@@ -160,7 +160,7 @@ In Progress: 0
 | 149 | Illusion                   | ✅       | ✅        |
 | 150 | Imposter                   | ✅       | ✅        |
 | 151 | Infiltrator                | ✅       | ✅        |
-| 152 | Mummy                      | ✅       | ❌        |
+| 152 | Mummy                      | ✅       | ✅        |
 | 153 | Moxie                      | ✅       | ❌        |
 | 154 | Justified                  | ✅       | ❌        |
 | 155 | Rattled                    | ✅       | ❌        |

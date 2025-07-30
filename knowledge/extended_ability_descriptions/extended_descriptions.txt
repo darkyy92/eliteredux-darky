@@ -440,7 +440,7 @@ Transforms the Pokemon into the opponent upon switching in. Copies their appeara
 Allows moves to bypass the effects of screens, Safeguard, Mist, and Substitute.
 
 # ID: 152
-Mummy spreads when hit by contact moves, replacing the attacker's ability with Mummy unless they have Ability Shield or an unsuppressable ability. Particularly effective against physical attackers, disrupting their strategies and spreading the curse through battle teams.
+When the user receives a contact move from another Pokemon who does not have this ability, it replaces their current ability with Mummy.
 
 # ID: 153
 Moxie boosts the user's Attack stat by one stage when it knocks out an opponent Pokemon. This ability triggers immediately after dealing the final blow and works with any move that causes a knockout. The Attack boost stacks with other stat modifiers and persists until switching out.
