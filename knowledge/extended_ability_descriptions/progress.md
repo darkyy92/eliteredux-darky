@@ -183,7 +183,7 @@ In Progress: 0
 | 172 | Competitive                | ✅       | ❌        |
 | 173 | Strong Jaw                 | ✅       | ✅        |
 | 174 | Refrigerate                | ✅       | ✅        |
-| 175 | Sweet Veil                 | ✅       | ❌        |
+| 175 | Sweet Veil                 | ✅       | ✅        |
 | 176 | Stance Change              | ✅       | ❌        |
 | 177 | Gale Wings                 | ✅       | ❌        |
 | 178 | Mega Launcher              | ✅       | ✅        |

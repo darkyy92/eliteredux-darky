@@ -506,7 +506,7 @@ Boosts the power of biting and fang moves by 30%.
 Converts all Normal-type moves to Ice-type and grants STAB for Ice moves, regardless of the user's type.
 
 # ID: 175
-Sweet Veil provides sleep immunity to both the user and their ally in doubles battles. This ability prevents Sleep status from moves like Sleep Powder, Hypnosis, and Spore. The protection extends to the ally even if they don't have Sweet Veil themselves. Cannot be suppressed but can be broken.
+Provides sleep immunity to both the user and their ally in double battles.
 
 # ID: 176
 Automatically changes Aegislash's form based on moves used. Shield form switches to Blade when using damaging moves. Blade switches to Shield with King's Shield. Redux forms swap between physical/special based on move type. Unsuppressable. Form changes occur before attacks execute.
