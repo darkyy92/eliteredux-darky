@@ -203,7 +203,7 @@ In Progress: 0
 | 192 | Stamina                    | ✅       | ✅        |
 | 193 | Wimp Out                   | ✅       | ✅        |
 | 194 | Emergency Exit             | ✅       | ✅        |
-| 195 | Water Compaction           | ✅       | ❌        |
+| 195 | Water Compaction           | ✅       | ✅        |
 | 196 | Merciless                  | ✅       | ✅        |
 | 197 | Shields Down               | ✅       | ❌        |
 | 198 | Stakeout                   | ✅       | ✅        |

@@ -566,7 +566,7 @@ When the Pokemon receives damage and its HP drops to 50% or below for the first 
 When the Pokemon receives damage and its HP drops to 50% or below for the first time in battle, it switches out to safety. Activates on the last hit of multihit moves.
 
 # ID: 195
-Water Compaction reduces damage from Water-type moves by 50% and raises Defense by 2 stages when hit by Water moves. Both effects trigger on the same Water attack - first the damage reduction applies, then the Defense boost activates if the Pokemon can still raise its Defense stat further.
+Reduces damage from Water-type moves by 50% and raises Defense by 2 stages when hit by Water moves. Multiplicative with other sources of damage reduction. Defense boost applies after the hit lands. Activates on each hit of a multihit move.
 
 # ID: 196
 Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered.
