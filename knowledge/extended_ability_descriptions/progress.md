@@ -143,7 +143,7 @@ In Progress: 0
 | 132 | Friend Guard               | ✅       | ✅        |
 | 133 | Weak Armor                 | ✅       | ✅        |
 | 134 | Heavy Metal                | ✅       | ✅        |
-| 135 | Light Metal                | ✅       | ❌        |
+| 135 | Light Metal                | ✅       | ✅        |
 | 136 | Multiscale                 | ✅       | ✅        |
 | 137 | Toxic Boost                | ✅       | ❌        |
 | 138 | Flare Boost                | ✅       | ❌        |

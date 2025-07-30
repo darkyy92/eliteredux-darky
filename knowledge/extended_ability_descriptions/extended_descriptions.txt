@@ -389,7 +389,7 @@ When hit by a contact move, raises the user's Speed by 2 stages and lowers their
 Doubles the Pokemon's weight. Makes weight-based attacks such as Low Kick deal more damage against this Pokemon. However, it also increases damage from the user's Heavy Slam and similar weight-based moves.
 
 # ID: 135
-Light Metal halves the Pokemon's weight and boosts Speed by 30%. The weight reduction affects weight-based moves like Low Kick, Grass Knot, Heavy Slam, and Heat Crash. Lower weight reduces damage taken from opposing weight moves but reduces damage dealt by the user's own weight-based attacks.
+Light Metal halves the Pokemon's weight and boosts their Speed stat by 30%. Makes weight-based attacks such as Low Kick deal less damage against this Pokemon. However, it also decreases damage from the user's Heavy Slam and similar weight-based moves.
 
 # ID: 136
 Reduces all incoming damage by 50% when the Pokemon is at max HP. Multiplicative with other sources of damage reduction.
