@@ -1,8 +1,8 @@
 ---
 id: 180
 name: Symbiosis
-status: ai-generated
-character_count: 230
+status: reviewed
+character_count: 103
 ---
 
 # Symbiosis - Ability ID 180
@@ -13,7 +13,7 @@ character_count: 230
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Symbiosis automatically transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. Only works in Double/Multi battles with teammates on the same side. Perfect for supporting strategies.
+Transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
