@@ -521,7 +521,7 @@ Boosts pulse, beam, ball, and aura moves by 30%.
 Boosts the user's Defense stat by 50% when in Grassy Terrain.
 
 # ID: 180
-Symbiosis automatically transfers the holder's item to an ally immediately after that ally consumes or uses up their held item. Only works in Double/Multi battles with teammates on the same side. Perfect for supporting strategies.
+Transfers the holder's item to an ally immediately after that ally consumes or uses up their held item.
 
 # ID: 181
 Contact moves are boosted by 30%.

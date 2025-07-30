@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 783,
+    "completed": 784,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:26:38.255041Z"
+    "generated_at": "2025-07-30T02:27:05.493300Z"
   },
   "abilities": {
     "0": {
@@ -1271,8 +1271,8 @@
       "id": 180,
       "name": "Symbiosis",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "181": {
       "id": 181,
@@ -7222,10 +7222,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "180": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "181": {
       "indicator": "✅",

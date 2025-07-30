@@ -188,7 +188,7 @@ In Progress: 0
 | 177 | Gale Wings                 | ✅       | ✅        |
 | 178 | Mega Launcher              | ✅       | ✅        |
 | 179 | Grass Pelt                 | ✅       | ✅        |
-| 180 | Symbiosis                  | ✅       | ❌        |
+| 180 | Symbiosis                  | ✅       | ✅        |
 | 181 | Tough Claws                | ✅       | ✅        |
 | 182 | Pixilate                   | ✅       | ✅        |
 | 183 | Gooey                      | ✅       | ❌        |
