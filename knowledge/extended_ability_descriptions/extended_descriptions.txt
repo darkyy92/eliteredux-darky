@@ -557,7 +557,7 @@ Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifi
 Creates Strong Winds lasting until user switches. Reduces super-effective damage to all active Flying-types to neutral. Blocks all weather-based moves from hitting opponents. Cannot be overridden except by other primal weather.
 
 # ID: 192
-Stamina transforms each hit taken into defensive strength. Normal attacks raise Defense by one stage, turning continuous damage into progressive fortification. Critical hits trigger an exceptional response, instantly maximizing Defense to +600%. This creates a risk-reward dynamic.
+When hit, raises the user's Defense by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
 
 # ID: 193
 When the Pokemon takes damage and its HP drops to 50% or below for the first time in battle, it automatically switches out to safety. Only works in trainer battles with available party members. Blocked by Sheer Force moves and Arena Trap-style trapping effects. Provides emergency escape mechanism.

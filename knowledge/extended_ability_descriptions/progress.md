@@ -200,7 +200,7 @@ In Progress: 0
 | 189 | Primordial Sea             | ✅       | ✅        |
 | 190 | Desolate Land              | ✅       | ✅        |
 | 191 | Delta Stream               | ✅       | ✅        |
-| 192 | Stamina                    | ✅       | ❌        |
+| 192 | Stamina                    | ✅       | ✅        |
 | 193 | Wimp Out                   | ✅       | ❌        |
 | 194 | Emergency Exit             | ✅       | ❌        |
 | 195 | Water Compaction           | ✅       | ❌        |
