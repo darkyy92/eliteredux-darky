@@ -572,7 +572,7 @@ Reduces damage from Water-type moves by 50% and raises Defense by 2 stages when 
 Guarantees critical hits against targets who are poisoned, paralyzed, bleeding, or have their speed lowered.
 
 # ID: 197
-Shields Down transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert to Meteor Form once transformed during battle.
+Transforms Minior from Meteor Form to Core Form when HP drops to 50% or below. In Meteor Form, grants immunity to all status conditions. When using Shell Smash, immediately transforms to Core Form regardless of current HP. Cannot revert to Meteor Form once transformed during battle.
 
 # ID: 198
 Deals double damage to opponents that just switched in. Only works right after they switch in for 1 turn.

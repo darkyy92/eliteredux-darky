@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 795,
+    "completed": 796,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:45:23.699723Z"
+    "generated_at": "2025-07-30T02:46:11.534741Z"
   },
   "abilities": {
     "0": {
@@ -1390,8 +1390,8 @@
       "id": 197,
       "name": "Shields Down",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "198": {
       "id": 198,
@@ -7324,10 +7324,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "197": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "198": {
       "indicator": "✅",

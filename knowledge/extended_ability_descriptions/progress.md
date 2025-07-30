@@ -205,7 +205,7 @@ In Progress: 0
 | 194 | Emergency Exit             | ✅       | ✅        |
 | 195 | Water Compaction           | ✅       | ✅        |
 | 196 | Merciless                  | ✅       | ✅        |
-| 197 | Shields Down               | ✅       | ❌        |
+| 197 | Shields Down               | ✅       | ✅        |
 | 198 | Stakeout                   | ✅       | ✅        |
 | 199 | Water Bubble               | ✅       | ✅        |
 | 200 | Steelworker                | ✅       | ✅        |
