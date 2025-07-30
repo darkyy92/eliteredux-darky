@@ -1,8 +1,8 @@
 ---
 id: 162
 name: Victory Star
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 83
 ---
 
 # Victory Star - Ability ID 162
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Victory Star provides a consistent 20% accuracy boost to all moves used by the Pokemon and its allies in multi battles. This multiplicative boost stacks with other accuracy modifiers and is always active, making unreliable moves like Focus Blast and Thunder more dependable in crucial battles.
+Boosts the user's and their ally's accuracy by 1.2x when active in a double battle.
 
 ## Detailed Mechanical Explanation
 
