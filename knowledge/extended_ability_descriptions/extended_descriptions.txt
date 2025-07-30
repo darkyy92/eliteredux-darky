@@ -461,7 +461,7 @@ Immune to Grass-type moves, and boost highest attacking stat by 1 stage when the
 Status moves gain +1 priority. Status moves fail when directly targeting opposing Dark-type Pokemon.
 
 # ID: 159
-Sand Force boosts the Pokemon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.
+Boosts the Pokemon's highest attacking stat by 50% in sand. Immune to sandstorm damage.
 
 # ID: 161
 Zen Mode triggers permanent form change upon battle entry. Unlike HP-based transformations, this activates unconditionally when entering battle. The transformation lasts the entire battle and cannot be reversed. Works with Darmanitan forms, changing stats, typing, and complete movepool access.

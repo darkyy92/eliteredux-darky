@@ -167,7 +167,7 @@ In Progress: 0
 | 156 | Magic Bounce               | ✅       | ✅        |
 | 157 | Sap Sipper                 | ✅       | ✅        |
 | 158 | Prankster                  | ✅       | ✅        |
-| 159 | Sand Force                 | ✅       | ❌        |
+| 159 | Sand Force                 | ✅       | ✅        |
 | 160 | Ability 160                | ❌       | ❌        |
 | 161 | Zen Mode                   | ✅       | ❌        |
 | 162 | Victory Star               | ✅       | ❌        |

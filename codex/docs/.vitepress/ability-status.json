@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 768,
+    "completed": 769,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:49:44.121371Z"
+    "generated_at": "2025-07-30T01:50:49.230823Z"
   },
   "abilities": {
     "0": {
@@ -1124,8 +1124,8 @@
       "id": 159,
       "name": "Sand Force",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "160": {
       "id": 160,
@@ -7096,10 +7096,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "159": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "160": {
       "indicator": "⏳",
