@@ -1,8 +1,8 @@
 ---
 id: 167
 name: Cheek Pouch
-status: ai-generated
-character_count: 245
+status: reviewed
+character_count: 10
 ---
 
 # Cheek Pouch - Ability ID 167
@@ -13,7 +13,7 @@ character_count: 245
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Cheek Pouch restores 33% of the Pokemon's maximum HP immediately after consuming any Berry through normal means. This healing occurs in addition to the Berry's primary effect, making Berry-based strategies significantly more effective in battle.
+No effect.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
