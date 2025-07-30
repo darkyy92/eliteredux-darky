@@ -170,7 +170,7 @@ In Progress: 0
 | 159 | Sand Force                 | ✅       | ✅        |
 | 160 | Ability 160                | ❌       | ❌        |
 | 161 | Zen Mode                   | ✅       | ✅        |
-| 162 | Victory Star               | ✅       | ❌        |
+| 162 | Victory Star               | ✅       | ✅        |
 | 163 | Turboblaze                 | ✅       | ❌        |
 | 164 | Teravolt                   | ✅       | ❌        |
 | 165 | Aroma Veil                 | ✅       | ❌        |

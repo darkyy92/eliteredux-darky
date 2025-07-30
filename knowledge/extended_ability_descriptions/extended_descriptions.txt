@@ -467,7 +467,7 @@ Boosts the Pokemon's highest attacking stat by 50% in sand. Immune to sandstorm 
 Triggers form change upon battle entry.
 
 # ID: 162
-Victory Star provides a consistent 20% accuracy boost to all moves used by the Pokemon and its allies in multi battles. This multiplicative boost stacks with other accuracy modifiers and is always active, making unreliable moves like Focus Blast and Thunder more dependable in crucial battles.
+Boosts the user's and their ally's accuracy by 1.2x when active in a double battle.
 
 # ID: 163
 Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
