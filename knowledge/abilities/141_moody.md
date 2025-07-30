@@ -1,8 +1,8 @@
 ---
 id: 141
 name: Moody
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 119
 ---
 
 # Moody - Ability ID 141
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Moody triggers at the end of each turn, randomly selecting one stat to sharply raise (+2 stages) and another stat to lower (-1 stage). The same stat cannot be both raised and lowered in the same turn. Only activates if at least one stat change is possible.
+At the end of each turn, randomly selects one stat to raise by 2 stages and another different stat to lower by 1 stage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
