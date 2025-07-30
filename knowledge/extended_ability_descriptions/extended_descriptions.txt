@@ -530,7 +530,7 @@ Contact moves are boosted by 30%.
 Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 183
-When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace through their slimy nature.
+When the user is hit by a contact move, the attacker reduces their Speed by one stage. Activates multiple times against multihit moves.
 
 # ID: 184
 Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokemon also gains STAB on all Flying-type moves, even those not converted by this ability.

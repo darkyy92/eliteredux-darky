@@ -191,7 +191,7 @@ In Progress: 0
 | 180 | Symbiosis                  | ✅       | ✅        |
 | 181 | Tough Claws                | ✅       | ✅        |
 | 182 | Pixilate                   | ✅       | ✅        |
-| 183 | Gooey                      | ✅       | ❌        |
+| 183 | Gooey                      | ✅       | ✅        |
 | 184 | Aerilate                   | ✅       | ❌        |
 | 185 | Parental Bond              | ✅       | ❌        |
 | 186 | Dark Aura                  | ✅       | ❌        |
