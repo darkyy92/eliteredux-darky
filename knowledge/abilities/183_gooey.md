@@ -1,8 +1,8 @@
 ---
 id: 183
 name: Gooey
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 135
 ---
 
 # Gooey - Ability ID 183
@@ -13,7 +13,8 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by a contact move, the attacker is ensnared by the user's sticky goo, reducing their Speed by one stage. This ability turns physical attacks into a strategic disadvantage for foes, allowing Gooey Pokemon to slow down threats and control the battle's pace through their slimy nature.
+When the user is hit by a contact move, the attacker reduces their Speed by one stage. Activates multiple times against multihit moves.
+
 
 ## Detailed Mechanical Explanation
 
