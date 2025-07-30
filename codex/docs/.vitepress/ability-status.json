@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 757,
+    "completed": 758,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:21:18.991214Z"
+    "generated_at": "2025-07-30T01:23:21.871269Z"
   },
   "abilities": {
     "0": {
@@ -1012,8 +1012,8 @@
       "id": 143,
       "name": "Poison Touch",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "144": {
       "id": 144,
@@ -7000,10 +7000,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "143": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "144": {
       "indicator": "✅",

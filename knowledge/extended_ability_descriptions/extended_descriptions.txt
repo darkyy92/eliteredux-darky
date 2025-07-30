@@ -413,7 +413,7 @@ At the end of each turn, randomly selects one stat to raise by 2 stages and anot
 Provides immunity to weather damage from Sandstorm and Hail, and blocks all powder moves including Sleep Powder, Stun Spore, Poison Powder, Spore, Cotton Spore, Rage Powder, Powder, and Magic Powder. Also reduces incoming special damage by 20%. Multiplicative with other damage reduction sources.
 
 # ID: 143
-When this Pokemon makes physical contact, either by using contact moves or being hit by them, there's a 30% chance the opposing Pokemon becomes poisoned. This ability functions both offensively and defensively during battle, but cannot poison targets already poisoned or immune to poison.
+Has a 30% chance to inflict poison on contact moves, both when attacking and being attacked.
 
 # ID: 144
 Restores 33% of maximum HP when switching out. This heal is not blocked by Heal Block.
