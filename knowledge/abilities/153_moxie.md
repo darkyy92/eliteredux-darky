@@ -1,8 +1,8 @@
 ---
 id: 153
 name: Moxie
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 91
 ---
 
 # Moxie - Ability ID 153
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Moxie boosts the user's Attack stat by one stage when it knocks out an opponent Pokemon. This ability triggers immediately after dealing the final blow and works with any move that causes a knockout. The Attack boost stacks with other stat modifiers and persists until switching out.
+Boosts the user's Attack by one stage whenever it knocks out an opponent with a direct hit.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
