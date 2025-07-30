@@ -1,8 +1,8 @@
 ---
 id: 159
 name: Sand Force
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 87
 ---
 
 # Sand Force - Ability ID 159
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Force boosts the Pokemon's highest attacking stat (Attack or Special Attack, whichever is higher) by 50% during sandstorm weather. Works with all forms of sandstorm including temporary and permanent sandstorm. Also grants immunity to sandstorm damage. Perfect for mixed attackers.
+Boosts the Pokemon's highest attacking stat by 50% in sand. Immune to sandstorm damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
