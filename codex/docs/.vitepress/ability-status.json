@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 789,
+    "completed": 790,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:34:34.571413Z"
+    "generated_at": "2025-07-30T02:36:34.414848Z"
   },
   "abilities": {
     "0": {
@@ -1334,8 +1334,8 @@
       "id": 189,
       "name": "Primordial Sea",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "190": {
       "id": 190,
@@ -7276,10 +7276,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "189": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "190": {
       "indicator": "✅",

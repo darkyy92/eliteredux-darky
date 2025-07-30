@@ -197,7 +197,7 @@ In Progress: 0
 | 186 | Dark Aura                  | ✅       | ✅        |
 | 187 | Fairy Aura                 | ✅       | ✅        |
 | 188 | Aura Break                 | ✅       | ✅        |
-| 189 | Primordial Sea             | ✅       | ❌        |
+| 189 | Primordial Sea             | ✅       | ✅        |
 | 190 | Desolate Land              | ✅       | ✅        |
 | 191 | Delta Stream               | ✅       | ❌        |
 | 192 | Stamina                    | ✅       | ❌        |

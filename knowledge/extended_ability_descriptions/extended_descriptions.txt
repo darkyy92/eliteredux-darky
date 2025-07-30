@@ -548,7 +548,7 @@ All Fairy-type moves for the user, their allies, and the opponent get a 1.33x bo
 Causes Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%.
 
 # ID: 189
-Creates Heavy Rain that lasts until user switches out. Completely nullifies all damaging Fire-type moves. Water moves gain 50% boost. Cannot be overridden by regular weather. Only other primal weather can replace it. Thunder always hits. Rain abilities activate.
+Creates Heavy Rain that lasts until user switches. Completely nullifies all damaging Fire moves. Water moves gain 50% boost. Cannot be overridden except by other primal weather. Activates extra effects on rain related moves. Halves the effectiveness of sun related moves.
 
 # ID: 190
 Creates Extremely Harsh Sunlight lasting until user switches. Completely nullifies all damaging Water moves. Fire moves gain 50% boost. Cannot be overridden except by other primal weather. Activates extra effects on sun related moves.
