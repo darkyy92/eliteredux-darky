@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 781,
+    "completed": 782,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:23:52.080620Z"
+    "generated_at": "2025-07-30T02:26:09.691502Z"
   },
   "abilities": {
     "0": {
@@ -1243,8 +1243,8 @@
       "id": 176,
       "name": "Stance Change",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "177": {
       "id": 177,
@@ -7198,10 +7198,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "176": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "177": {
       "indicator": "🟠",
