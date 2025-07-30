@@ -587,7 +587,7 @@ Steelworker converts Normal-type moves to Steel-type and grants STAB for Steel m
 Berserk activates when the Pokemon drops to half HP or below from an opposing attack, boosting its highest attacking stat by one stage. Includes stat stages to determine which gets boosted. Triggers only once per battle. Other damage sources that bring you to half HP or below will not activate it.
 
 # ID: 202
-Slush Rush boosts the Pokemon's Speed by 50% during hail weather. Also grants immunity to hail damage.
+Boosts the Pokemon's Speed stat by 50% during hail. Also grants immunity to hail damage.
 
 # ID: 203
 Long Reach prevents the user from making contact with targets when using contact moves. Additionally, physical non-contact moves receive a 1.2x damage boost. Only applies damage boost to physical moves that were originally non-contact.
