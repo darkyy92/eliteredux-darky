@@ -1106,7 +1106,7 @@ Mega Launcher moves always hit and strike both opposing Pokemon simultaneously. 
 Amplifier boosts sound-based moves by 30% damage. Single-target sound moves gain spread targeting to hit both opposing Pokemon. Does not spread with multihit moves.
 
 # ID: 379
-Ice Dew redirects all Ice-type moves to this Pokemon. Upon absorbing an Ice move, boosts either Attack or Special Attack (whichever is higher) by one stage.
+Redirects all Ice-type moves to this Pokemon and absorbs them. Upon absorbing an Ice move, boosts either Attack or Special Attack (whichever is higher) by one stage.
 
 # ID: 380
 When entering battle during Sun, boosts the user's highest stat by one stage.
