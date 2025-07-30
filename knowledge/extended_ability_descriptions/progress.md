@@ -171,7 +171,7 @@ In Progress: 0
 | 160 | Ability 160                | ❌       | ❌        |
 | 161 | Zen Mode                   | ✅       | ✅        |
 | 162 | Victory Star               | ✅       | ✅        |
-| 163 | Turboblaze                 | ✅       | ❌        |
+| 163 | Turboblaze                 | ✅       | ✅        |
 | 164 | Teravolt                   | ✅       | ❌        |
 | 165 | Aroma Veil                 | ✅       | ❌        |
 | 166 | Flower Veil                | ✅       | ❌        |

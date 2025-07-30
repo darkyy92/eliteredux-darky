@@ -470,7 +470,7 @@ Triggers form change upon battle entry.
 Boosts the user's and their ally's accuracy by 1.2x when active in a double battle.
 
 # ID: 163
-Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
+Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt. Adds Fire to the user's typing. Retains Fire typing even upon losing the ability, going away only when switching out.
 
 # ID: 164
 Teravolt charges the Pokemon with bursting electrical energy that allows moves to penetrate all defensive abilities while adding Electric typing. Bypasses Wonder Guard, Levitate, and other protective traits while granting Electric STAB and resistances for maximum battlefield control.
