@@ -494,7 +494,7 @@ Halves all incoming Attack damage. Multiplicative with other sources of damage r
 The user steals the target's held item when landing a non-contact move if they are currently holding no item. Does not work with Mega Stones and other similar items.
 
 # ID: 171
-Provides complete immunity to ball, bomb, and projectile moves. Blocks Shadow Ball, Focus Blast, Aura Sphere, Sludge Bomb, Energy Ball, Bullet Seed, and similar ballistic attacks. The immunity prevents all damage and effects from these moves, working against both physical and special variants.
+Provides immunity to ball, bomb, and projectile moves. Includes Acid Spray, Rock Wrecker, Pollen Puff, and Barrage.
 
 # ID: 172
 Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokemon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 778,
+    "completed": 779,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T02:17:06.583976Z"
+    "generated_at": "2025-07-30T02:20:33.936380Z"
   },
   "abilities": {
     "0": {
@@ -1208,8 +1208,8 @@
       "id": 171,
       "name": "Bulletproof",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "172": {
       "id": 172,
@@ -7168,10 +7168,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "171": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "172": {
       "indicator": "🟠",
