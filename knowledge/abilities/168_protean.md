@@ -1,8 +1,8 @@
 ---
 id: 168
 name: Protean
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 101
 ---
 
 # Protean - Ability ID 168
@@ -13,7 +13,8 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Changes the user's type to match the type of the move being used before attacking, granting Same Type Attack Bonus (STAB) to all moves. This ability only activates once per turn and will not trigger if the user is already the same type as the move being used, except for Struggle.
+Before each attack, the user overrides their type to match the move's type. 
+Activates once per turn.
 
 ## Detailed Mechanical Explanation
 
