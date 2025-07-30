@@ -1,8 +1,8 @@
 ---
 id: 165
 name: Aroma Veil
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 133
 ---
 
 # Aroma Veil - Ability ID 165
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Protects the user and allies from infatuation caused by Attract, heal block effects from Heal Block and Psychic Noise, and disabling moves including Disable, Taunt, Encore, and Torment. This protective veil can be bypassed by abilities that ignore other abilities like Mold Breaker.
+Protects the user and allies from infatuation, heal block effects, and disabling moves including Disable, Taunt, Encore, and Torment.
 
 ## Detailed Mechanical Explanation
 
