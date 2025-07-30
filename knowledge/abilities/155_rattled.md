@@ -1,8 +1,8 @@
 ---
 id: 155
 name: Rattled
-status: ai-generated
-character_count: 300
+status: reviewed
+character_count: 118
 ---
 
 # Rattled - Ability ID 155
@@ -13,7 +13,7 @@ character_count: 300
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rattled boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. The boost applies after damage calculation but before the move ends. Only works on damaging moves and doesn't activate if the Pokemon faints from the hit. Provides defensive utility by turning weaknesses into opportunity.
+Boosts Speed by one stage when hit by Bug, Dark, or Ghost-type moves. Activates multiple times against multihit moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
