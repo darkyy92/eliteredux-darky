@@ -1,8 +1,8 @@
 ---
 id: 146
 name: Sand Rush
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 89
 ---
 
 # Sand Rush - Ability ID 146
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sand Rush significantly boosts the Pokemon's Speed by 50% during sandstorm weather, making it exceptionally swift in battle. The ability also provides complete immunity to sandstorm damage, allowing the Pokemon to battle unhindered by harsh weather conditions. Functions under any sandstorm effect.
+Boosts the Pokemon's Speed stat by 50% in sand. Also grants immunity to sandstorm damage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
