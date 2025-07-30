@@ -1,5 +1,5 @@
 # ID: 1
-Damaging moves gain +10% flinch chance, which stacks additively with existing flinch chances and King's Rock. This affects all damaging moves, including each hit of multihit moves. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party.
+Attacks gain +10% flinch chance. Stacks additively with other flinch sources. Multihits roll the activation chance on each hit. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party. Toxic Terrain active turns do not decrease while the user is present.
 
 # ID: 2
 Drizzle summons rain weather when the Pokemon enters battle, lasting 8 turns (12 with Damp Rock held). Rain boosts Water moves by 50% and cuts Fire damage by 50%. Certain moves and abilities have special interactions with rain. Cannot override primal weather conditions.
