@@ -158,7 +158,7 @@ In Progress: 0
 | 147 | Wonder Skin                | ✅       | ✅        |
 | 148 | Analytic                   | ✅       | ❌        |
 | 149 | Illusion                   | ✅       | ✅        |
-| 150 | Imposter                   | ✅       | ❌        |
+| 150 | Imposter                   | ✅       | ✅        |
 | 151 | Infiltrator                | ✅       | ❌        |
 | 152 | Mummy                      | ✅       | ❌        |
 | 153 | Moxie                      | ✅       | ❌        |

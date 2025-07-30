@@ -434,7 +434,7 @@ Analytic boosts attack power by 30% when the user moves after the target. The bo
 Makes the Pokemon appear as the last alive party member. Boosts the user's damage by 30% until the illusion breaks.
 
 # ID: 150
-Imposter transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats, types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
+Transforms the Pokemon into the opponent upon switching in. Copies their appearance, stats (minus HP), types, abilities, moves, and stat changes. Each copied move has 5 PP. Cannot transform if the target has Substitute, is already transformed, has Illusion active, or is semi-invulnerable.
 
 # ID: 151
 Infiltrator allows moves to bypass protective effects that would normally block or reduce damage. All moves ignore Substitute dolls and damage reduction screens like Reflect, Light Screen, and Aurora Veil. Also bypasses Mist when using stat-lowering moves, ensuring attacks connect at full power.
