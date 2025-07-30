@@ -2,7 +2,7 @@
 id: 1
 name: Stench
 status: reviewed
-character_count: 268
+character_count: 285
 ---
 
 # Stench - Ability ID 1
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Damaging moves gain +10% flinch chance, which stacks additively with existing flinch chances and King's Rock. This affects all damaging moves, including each hit of multihit moves. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party.
+Attacks gain +10% flinch chance. Stacks additively with other flinch sources. Multihits roll the activation chance on each hit. Outside of battle, wild Pokemon appear half as often when this Pokemon leads the party. Toxic Terrain active turns do not decrease while the user is present.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
