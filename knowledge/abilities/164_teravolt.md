@@ -1,8 +1,8 @@
 ---
 id: 164
 name: Teravolt
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 298
 ---
 
 # Teravolt - Ability ID 164
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Teravolt charges the Pokemon with bursting electrical energy that allows moves to penetrate all defensive abilities while adding Electric typing. Bypasses Wonder Guard, Levitate, and other protective traits while granting Electric STAB and resistances for maximum battlefield control.
+Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt. Adds Electric to the user's typing. Retains Electric typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 
