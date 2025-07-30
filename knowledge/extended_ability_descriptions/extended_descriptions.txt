@@ -542,7 +542,7 @@ Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves
 All Dark-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break.
 
 # ID: 187
-Fairy Aura radiates mystical energy that empowers all Fairy-type moves on the battlefield by 33%, affecting both allies and opponents equally. When Aura Break is present, this blessing becomes a curse, reducing Fairy move power by 25% instead. Creates significant field-wide impact.
+All Fairy-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break.
 
 # ID: 188
 Reverses aura abilities' effects, causing Dark Aura and Fairy Aura to reduce their respective type moves by 25% instead of boosting them by 33%. Only affects Dark-type and Fairy-type move power boosts. Battle Aura and other aura-named abilities remain unaffected by this field-wide reversal effect.

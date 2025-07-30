@@ -195,7 +195,7 @@ In Progress: 0
 | 184 | Aerilate                   | ✅       | ❌        |
 | 185 | Parental Bond              | ✅       | ❌        |
 | 186 | Dark Aura                  | ✅       | ✅        |
-| 187 | Fairy Aura                 | ✅       | ❌        |
+| 187 | Fairy Aura                 | ✅       | ✅        |
 | 188 | Aura Break                 | ✅       | ❌        |
 | 189 | Primordial Sea             | ✅       | ❌        |
 | 190 | Desolate Land              | ✅       | ✅        |
