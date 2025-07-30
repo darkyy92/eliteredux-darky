@@ -1,8 +1,8 @@
 ---
 id: 151
 name: Infiltrator
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 79
 ---
 
 # Infiltrator - Ability ID 151
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Infiltrator allows moves to bypass protective effects that would normally block or reduce damage. All moves ignore Substitute dolls and damage reduction screens like Reflect, Light Screen, and Aurora Veil. Also bypasses Mist when using stat-lowering moves, ensuring attacks connect at full power.
+Allows moves to bypass the effects of screens, Safeguard, Mist, and Substitute.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
