@@ -1,8 +1,8 @@
 ---
 id: 134
 name: Heavy Metal
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 205
 ---
 
 # Heavy Metal - Ability ID 134
@@ -13,7 +13,7 @@ character_count: 271
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Heavy Metal doubles the Pokemon's weight in battle. This makes weight-based attacks like Low Kick and Grass Knot deal more damage against this Pokemon. However, it also increases damage from the user's own Heavy Slam and Heat Crash moves by making them heavier than foes.
+Doubles the Pokemon's weight. Makes weight-based attacks such as Low Kick deal more damage against this Pokemon. However, it also increases damage from the user's Heavy Slam and similar weight-based moves.
 
 ## Detailed Mechanical Explanation
 Heavy Metal is an ability that doubles the Pokemon's weight during battle calculations. This has several important implications:
