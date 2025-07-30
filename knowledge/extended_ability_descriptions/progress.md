@@ -174,7 +174,7 @@ In Progress: 0
 | 163 | Turboblaze                 | ✅       | ✅        |
 | 164 | Teravolt                   | ✅       | ✅        |
 | 165 | Aroma Veil                 | ✅       | ✅        |
-| 166 | Flower Veil                | ✅       | ❌        |
+| 166 | Flower Veil                | ✅       | ✅        |
 | 167 | Cheek Pouch                | ✅       | ❌        |
 | 168 | Protean                    | ✅       | ❌        |
 | 169 | Fur Coat                   | ✅       | ❌        |
