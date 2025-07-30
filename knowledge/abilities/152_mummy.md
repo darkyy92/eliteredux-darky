@@ -1,8 +1,8 @@
 ---
 id: 152
 name: Mummy
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 136
 ---
 
 # Mummy - Ability ID 152
@@ -13,7 +13,7 @@ character_count: 271
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Mummy spreads when hit by contact moves, replacing the attacker's ability with Mummy unless they have Ability Shield or an unsuppressable ability. Particularly effective against physical attackers, disrupting their strategies and spreading the curse through battle teams.
+When the user receives a contact move from another Pokemon who does not have this ability, it replaces their current ability with Mummy.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
