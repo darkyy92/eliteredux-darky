@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 765,
+    "completed": 766,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:44:09.870298Z"
+    "generated_at": "2025-07-30T01:45:40.090434Z"
   },
   "abilities": {
     "0": {
@@ -1089,8 +1089,8 @@
       "id": 154,
       "name": "Justified",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "155": {
       "id": 155,
@@ -7066,10 +7066,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "154": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "155": {
       "indicator": "🟠",

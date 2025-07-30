@@ -162,7 +162,7 @@ In Progress: 0
 | 151 | Infiltrator                | ✅       | ✅        |
 | 152 | Mummy                      | ✅       | ✅        |
 | 153 | Moxie                      | ✅       | ✅        |
-| 154 | Justified                  | ✅       | ❌        |
+| 154 | Justified                  | ✅       | ✅        |
 | 155 | Rattled                    | ✅       | ❌        |
 | 156 | Magic Bounce               | ✅       | ✅        |
 | 157 | Sap Sipper                 | ✅       | ❌        |
