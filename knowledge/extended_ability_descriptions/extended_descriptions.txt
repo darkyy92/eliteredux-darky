@@ -419,7 +419,7 @@ Has a 30% chance to inflict poison on contact moves, both when attacking and bei
 Restores 33% of maximum HP when switching out. This heal is not blocked by Heal Block.
 
 # ID: 145
-Big Pecks boosts the power of all contact moves by 30%. This includes physical attacks like Tackle, Scratch, and Bite, as well as special contact moves like Grass Knot. The damage boost applies to any move that makes direct physical contact with the opponent.
+Boosts the power of contact moves by 30%.
 
 # ID: 146
 Sand Rush significantly boosts the Pokemon's Speed by 50% during sandstorm weather, making it exceptionally swift in battle. The ability also provides complete immunity to sandstorm damage, allowing the Pokemon to battle unhindered by harsh weather conditions. Functions under any sandstorm effect.

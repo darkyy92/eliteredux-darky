@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 758,
+    "completed": 759,
     "written": 854,
     "pending": 22,
-    "generated_at": "2025-07-30T01:27:51.233564Z"
+    "generated_at": "2025-07-30T01:30:27.087711Z"
   },
   "abilities": {
     "0": {
@@ -1026,8 +1026,8 @@
       "id": 145,
       "name": "Big Pecks",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "146": {
       "id": 146,
@@ -7012,10 +7012,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "145": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "146": {
       "indicator": "🟠",
