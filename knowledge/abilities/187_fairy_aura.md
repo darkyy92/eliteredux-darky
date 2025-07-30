@@ -1,8 +1,8 @@
 ---
 id: 187
 name: Fairy Aura
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 117
 ---
 
 # Fairy Aura - Ability ID 187
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fairy Aura radiates mystical energy that empowers all Fairy-type moves on the battlefield by 33%, affecting both allies and opponents equally. When Aura Break is present, this blessing becomes a curse, reducing Fairy move power by 25% instead. Creates significant field-wide impact.
+All Fairy-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break.
 
 ## Detailed Mechanical Explanation
 
