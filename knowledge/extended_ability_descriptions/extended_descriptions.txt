@@ -485,7 +485,7 @@ Prevents all status conditions and stat reductions for Grass-type allies. Includ
 No effect.
 
 # ID: 168
-Changes the user's type to match the type of the move being used before attacking, granting Same Type Attack Bonus (STAB) to all moves. This ability only activates once per turn and will not trigger if the user is already the same type as the move being used, except for Struggle.
+Before each attack, the user overrides their type to match the move's type.  Activates once per turn.
 
 # ID: 169
 This Pokemon's thick, luxurious fur acts as natural armor against physical attacks. When struck by moves that make direct physical contact or use raw physical force, the dense fur absorbs and disperses much of the impact, reducing the damage taken by half. The fur provides excellent protection.
