@@ -1,8 +1,8 @@
 ---
 id: 154
 name: Justified
-status: ai-generated
-character_count: 271
+status: reviewed
+character_count: 126
 ---
 
 # Justified - Ability ID 154
@@ -13,7 +13,7 @@ character_count: 271
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Justified activates when hit by Dark-type moves, granting immunity to damage and raising the user's highest attacking stat by 1 stage. Whether Attack or Special Attack increases depends on which is naturally higher with stat boosts considered. Pairs well with switch-ins.
+Immune to Dark-type moves, and boost Attack by 1 stage when the user is hit by them. Activates on each hit of a multihit move.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
