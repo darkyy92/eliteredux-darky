@@ -1,8 +1,8 @@
 ---
 id: 163
 name: Turboblaze
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 290
 ---
 
 # Turboblaze - Ability ID 163
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Turboblaze ignites the user with a blazing aura that burns through enemy defenses while adding Fire typing. Moves bypass all defensive abilities like Levitate, Wonder Guard, and type immunities, ensuring attacks connect. The added Fire type grants STAB to Fire moves and resistances.
+Allows moves to ignore the target's abilities and innates that interfere with effects or reduce damage. Does not bypass abilities that modify base stats such as Grass Pelt. Adds Fire to the user's typing. Retains Fire typing even upon losing the ability, going away only when switching out.
 
 ## Detailed Mechanical Explanation
 
