@@ -2300,7 +2300,7 @@ This ability combines two effects: it switches between two forms at the end of e
 Boosts Sing's accuracy to 90%. Does not lock to accuracy to 90%, the move still gets affected by accuracy/evasiveness changes.
 
 # ID: 787
-When hit by any Water or Ice moves, boost Attack and Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the move resolves.
+When hit by a Water-type attack, raises the user's Attack by one stage, and Defense by one stage on the turn after. If it's hit by an Ice-type attack, it will raise both in the first turn. each. Activates on each hit of a multihit move.
 
 # ID: 788
 After using an Ice-type move, the user follows up with a 50 BP Blizzard (Ice, 85% accuracy, hits both opponents, 20% frostbite chance. Weather-based).
