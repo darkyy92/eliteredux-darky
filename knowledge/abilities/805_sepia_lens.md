@@ -1,8 +1,8 @@
 ---
 id: 805
 name: Sepia Lens
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 258
 ---
 
 # Sepia Lens - Ability ID 805
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sepia Lens combines Tinted Lens and Sand Guard effects. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.
+Combines Tinted Lens and Sand Guard. Doubles damage when attacking with not very effective moves. During sandstorm, blocks priority moves from opponents and halves damage from special attacks. Also grants immunity to sandstorm damage like other Ground-types.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
