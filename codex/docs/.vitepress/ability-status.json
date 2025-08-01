@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 817,
+    "completed": 818,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-01T22:33:45.503258Z"
+    "generated_at": "2025-08-01T23:13:36.736036Z"
   },
   "abilities": {
     "0": {
@@ -5646,8 +5646,8 @@
       "id": 805,
       "name": "Sepia Lens",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "806": {
       "id": 806,
@@ -10972,10 +10972,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "805": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "806": {
       "indicator": "✅",
