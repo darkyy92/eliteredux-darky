@@ -89,7 +89,7 @@ The following moves are boosted by Impaler and can trigger bleed:
 ### Damage Calculations
 Example with Megahorn (120 BP):
 - Base: 120 BP
-- With Impaler: 120 × 1.3 = 156 BP
+- With Impaler: 120 x 1.3 = 156 BP
 - Plus 30% chance to inflict additional bleed damage
 
 ### Strategic Implications

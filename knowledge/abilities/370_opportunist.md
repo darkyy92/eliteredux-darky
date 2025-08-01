@@ -35,7 +35,7 @@ constexpr Ability Opportunist = {
 ```
 
 ### Mechanic Breakdown
-1. **Trigger Condition**: Target Pokemon's current HP ≤ 50% of maximum HP
+1. **Trigger Condition**: Target Pokemon's current HP <= 50% of maximum HP
 2. **Effect**: Adds +1 priority to all moves used against qualifying targets
 3. **Activation**: Passive check during priority calculation phase
 4. **Scope**: Only affects moves targeting Pokemon below half health

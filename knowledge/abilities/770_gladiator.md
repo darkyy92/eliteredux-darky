@@ -22,7 +22,7 @@ Empowers the inner warrior spirit, boosting all Fighting-type moves by 30% damag
 
 ### Damage Multipliers
 - **Normal State (HP > 1/3)**: Fighting-type moves deal 1.3x damage (30% increase)
-- **Desperate State (HP ≤ 1/3)**: Fighting-type moves deal 1.8x damage (80% increase)
+- **Desperate State (HP <= 1/3)**: Fighting-type moves deal 1.8x damage (80% increase)
 
 ### Implementation Details
 - Uses the `BOOSTED_SWARM_MULTIPLIER(TYPE_FIGHTING)` macro in the codebase

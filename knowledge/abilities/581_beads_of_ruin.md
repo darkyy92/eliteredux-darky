@@ -67,7 +67,7 @@ static void RuinEffect(int ruinStat, int battler, int statId, u32 *stat, NonStac
 **Example Damage Calculations:**
 If a Pokemon normally has 100 Special Defense:
 - With Beads of Ruin: 100 x 0.75 = 75 Special Defense (33% more damage taken from special attacks)
-- Combined with other effects: If the Pokemon also gets -1 Special Defense stage, the effective Special Defense becomes 75 x 0.67 ≈ 50
+- Combined with other effects: If the Pokemon also gets -1 Special Defense stage, the effective Special Defense becomes 75 x 0.67 about 50
 
 **Common Users:**
 - **Chi Yu** (National Dex #1004): Dark/Fire type legendary with Beads of Ruin as an innate ability

@@ -45,7 +45,7 @@ Parental Bond causes most moves to hit twice with the following power distributi
 4. **Status Chances**: Each hit rolls for additional effects independently
 
 ### Battle Calculations
-- Total damage ≈ 125% of original move power (100% + 25%)
+- Total damage about 125% of original move power (100% + 25%)
 - Each hit calculated with full stats, type effectiveness, and modifiers
 - Critical hits determined separately for each strike
 

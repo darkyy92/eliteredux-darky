@@ -31,7 +31,7 @@ Blaze enhances Fire-type moves with dynamic power boosts. When the Pokemon has m
    - Fire-type moves: 1.2x power
    - All other moves: No effect
    
-2. **Critical State** (HP ≤ 1/3 max):
+2. **Critical State** (HP <= 1/3 max):
    - Fire-type moves: 1.5x power
    - All other moves: No effect
 

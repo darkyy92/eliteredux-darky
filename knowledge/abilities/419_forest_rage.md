@@ -61,7 +61,7 @@ constexpr Ability ForestRage = {
 
 ### Damage Calculation
 **Healthy (>1/3 HP)**: Base damage x 1.3 x other modifiers
-**Low HP (≤1/3 HP)**: Base damage x 1.8 x other modifiers
+**Low HP (<=1/3 HP)**: Base damage x 1.8 x other modifiers
 
 Example with 100 BP Grass move:
 - Healthy: 100 x 1.3 = 130 effective power

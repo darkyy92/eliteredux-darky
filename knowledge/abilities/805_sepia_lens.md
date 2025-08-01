@@ -36,7 +36,7 @@ Sepia Lens is a combination ability that merges the effects of Tinted Lens and S
 ### Activation Conditions
 
 **Tinted Lens Effect:**
-- Activates when using any move with type effectiveness ≤ 0.5x
+- Activates when using any move with type effectiveness <= 0.5x
 - Works against any target regardless of weather conditions
 - No restrictions on move type or category
 
@@ -82,7 +82,7 @@ if (IS_MOVE_SPECIAL(move) && IsBattlerWeatherAffected(attacker, WEATHER_SANDSTOR
 ### Affected Moves and Interactions
 
 **Tinted Lens Component:**
-- All offensive moves with ≤0.5x type effectiveness
+- All offensive moves with <=0.5x type effectiveness
 - Common scenarios: Fire moves vs Water, Electric vs Ground, Fighting vs Ghost, etc.
 - Does NOT affect moves that are already super effective or neutral
 

@@ -28,7 +28,7 @@ Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% 
 
 ### Damage Multipliers:
 1. **High HP (>33% HP)**: 1.2x power to Water-type moves
-2. **Low HP (≤33% HP)**: 1.5x power to Water-type moves
+2. **Low HP (<=33% HP)**: 1.5x power to Water-type moves
 3. **Non-Water moves**: No effect
 
 ### Move Interactions:

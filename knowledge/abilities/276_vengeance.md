@@ -23,7 +23,7 @@ Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal
 - **Dual Power Levels**: 
   - Normal: 1.2x damage multiplier (20% boost)
   - Low HP: 1.5x damage multiplier (50% boost)
-- **HP Threshold**: Enhanced boost activates when HP ≤ 33% of maximum HP
+- **HP Threshold**: Enhanced boost activates when HP <= 33% of maximum HP
 - **Calculation**: HP threshold is calculated as `gBattleMons[battler].maxHP / 3`
 
 ### Technical Implementation

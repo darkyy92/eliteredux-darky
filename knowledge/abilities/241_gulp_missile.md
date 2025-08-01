@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
+When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP <=50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
 
 ## Detailed Mechanical Explanation
 
@@ -31,7 +31,7 @@ The ability checks if:
 ### Form Determination
 When triggered:
 - **HP > 50%**: Changes to Cramorant-Gulping (caught a regular fish)
-- **HP ≤ 50%**: Changes to Cramorant-Gorging (caught a Pikachu)
+- **HP <= 50%**: Changes to Cramorant-Gorging (caught a Pikachu)
 
 ### Counterattack Mechanics
 When Cramorant in Gulping or Gorging form is hit by any damaging move:

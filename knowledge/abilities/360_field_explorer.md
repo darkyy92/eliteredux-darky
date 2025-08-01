@@ -102,7 +102,7 @@ Field Explorer appears on numerous Pokemon in Elite Redux, available as both a r
 ## Related Abilities
 
 ### Similar Damage Boosting Abilities
-- **Technician** (#101): Boosts weak moves (≤60 power) by 50%
+- **Technician** (#101): Boosts weak moves (<=60 power) by 50%
 - **Sheer Force** (#125): Removes secondary effects for 30% power boost
 - **Iron Fist** (#89): Boosts punching moves by 20%
 - **Strong Jaw** (#173): Boosts biting moves by 50%

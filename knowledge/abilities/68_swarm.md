@@ -30,7 +30,7 @@ Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pok
 1. **Normal State** (HP > 1/3 max):
    - Bug-type moves: 1.2x power
    
-2. **Low HP State** (HP ≤ 1/3 max):
+2. **Low HP State** (HP <= 1/3 max):
    - Bug-type moves: 1.5x power
 
 ### Interaction Rules:
@@ -82,5 +82,5 @@ constexpr Ability Swarm = {
 - **BOOSTED_SWARM_MULTIPLIER**: Enhanced version used by some custom abilities
 
 ### Version History:
-- Original games: 1.5x boost when HP ≤ 1/3
+- Original games: 1.5x boost when HP <= 1/3
 - Elite Redux: Added 1.2x base boost + 1.5x low HP boost for more consistent value

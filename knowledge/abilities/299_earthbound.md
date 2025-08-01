@@ -22,7 +22,7 @@ Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls belo
 Earthbound is a swarm-type ability that enhances Ground-type moves based on the user's current HP status:
 
 - **Normal State (HP > 1/3)**: Ground-type moves deal 1.2x damage
-- **Low HP State (HP ≤ 1/3)**: Ground-type moves deal 1.5x damage
+- **Low HP State (HP <= 1/3)**: Ground-type moves deal 1.5x damage
 
 ### Technical Implementation
 ```cpp
@@ -43,7 +43,7 @@ constexpr Ability Earthbound = {
 
 ### Activation Conditions
 - **Move Type**: Only affects Ground-type moves
-- **HP Threshold**: The 1.5x boost activates when current HP ≤ (max HP ÷ 3)
+- **HP Threshold**: The 1.5x boost activates when current HP <= (max HP / 3)
 - **Calculation**: HP threshold is calculated in real-time, not based on percentage displays
 
 ### Affected Moves (Examples)
@@ -59,7 +59,7 @@ Ground-type moves that benefit from Earthbound include:
 For a Pokemon with 300 max HP using Earthquake (100 BP):
 - **At 101+ HP**: 100 x 1.2 = 120 effective base power
 - **At 100 HP or less**: 100 x 1.5 = 150 effective base power
-- **Breakpoint**: Exactly 100 HP (300 ÷ 3 = 100)
+- **Breakpoint**: Exactly 100 HP (300 / 3 = 100)
 
 ### Interactions with Other Mechanics
 - **STAB**: Stacks multiplicatively (1.5 x 1.2/1.5 = 1.8/2.25 total)

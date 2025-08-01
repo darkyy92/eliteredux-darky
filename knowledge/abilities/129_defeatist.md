@@ -18,7 +18,7 @@ Defeatist halves both Attack and Special Attack stats when HP drops below 33% of
 ## Detailed Mechanical Explanation
 
 ### Activation Threshold
-- Activates when HP ≤ 33.33% (1/3) of maximum HP
+- Activates when HP <= 33.33% (1/3) of maximum HP
 - The exact threshold is calculated as `hp <= maxHP / 3`
 - Deactivates immediately when healed above the threshold
 

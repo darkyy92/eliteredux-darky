@@ -161,7 +161,7 @@ BattleScript_HandleSoulEaterEffect_AfterHeal:
 
 **Healing Calculation:**
 - Example: Pokemon with 400 max HP recovers 100 HP on each KO
-- Minimum healing: 1 HP (if max HP ≤ 4)
+- Minimum healing: 1 HP (if max HP <= 4)
 - Maximum healing: 25% of max HP up to practical HP limits
 
 ### Competitive Viability

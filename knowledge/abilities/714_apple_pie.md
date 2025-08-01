@@ -87,8 +87,8 @@ The two components work together excellently:
 #### Common Enhanced Berries
 - **Oran Berry**: 20 HP to 40 HP healing
 - **Sitrus Berry**: 25% max HP to 50% max HP healing
-- **Liechi Berry**: +1 Attack to +2 Attack when HP ≤ 25%
-- **Petaya Berry**: +1 Sp. Atk to +2 Sp. Atk when HP ≤ 25%
+- **Liechi Berry**: +1 Attack to +2 Attack when HP <= 25%
+- **Petaya Berry**: +1 Sp. Atk to +2 Sp. Atk when HP <= 25%
 - **Leppa Berry**: +10 PP to +20 PP restoration
 - **Jaboca/Rowap Berry**: 1/8 max HP to 1/4 max HP damage to attacker
 

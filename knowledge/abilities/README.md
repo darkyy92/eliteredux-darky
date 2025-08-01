@@ -25,7 +25,7 @@ Each ability file should contain:
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-{Extended description for in-game use. Write as continuous text without line breaks. Target 280-300 characters total. Keep concise due to GBA UI limits: 11 usable lines × 30 chars/line. Should explain core mechanics clearly for players.}
+{Extended description for in-game use. Write as continuous text without line breaks. Target 280-300 characters total. Keep concise due to GBA UI limits: 11 usable lines x 30 chars/line. Should explain core mechanics clearly for players.}
 
 ## Detailed Mechanical Explanation (Discord/Reference)
 

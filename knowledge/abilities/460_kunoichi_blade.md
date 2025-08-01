@@ -38,7 +38,7 @@ Kunoichi's Blade is a unique hybrid ability that combines two distinct offensive
 ### Technical Implementation
 ```c
 constexpr Ability KunoichiBlade = {
-    .onOffensiveMultiplier = Technician.onOffensiveMultiplier,  // 1.5x for ≤60 BP moves
+    .onOffensiveMultiplier = Technician.onOffensiveMultiplier,  // 1.5x for <=60 BP moves
     .skillLink = TRUE,  // Multi-hit moves always hit max times
 };
 
@@ -48,7 +48,7 @@ if (basePower <= 60) MUL(1.5);
 
 ### Synergistic Power
 The combination creates powerful synergy:
-- Multi-hit moves typically have low base power (≤60 BP)
+- Multi-hit moves typically have low base power (<=60 BP)
 - Technician boosts each individual hit
 - Skill Link guarantees maximum hits
 - Result: Consistent high-damage multi-hit attacks
@@ -70,7 +70,7 @@ The combination creates powerful synergy:
 - **Bone Rush** (Ground): 25 BP to 187.5 total effective BP
 
 **Other Technician-boosted moves:**
-- Moves ≤60 BP that aren't multi-hit still get 1.5x boost
+- Moves <=60 BP that aren't multi-hit still get 1.5x boost
 - Quick Attack, Bullet Punch, Mach Punch, etc.
 
 ### Strategic Implications

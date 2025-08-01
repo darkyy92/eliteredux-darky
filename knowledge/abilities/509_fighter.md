@@ -41,7 +41,7 @@ Fighter is an offensive ability that provides variable damage boosts to Fighting
 ```
 
 ### HP Threshold Calculation
-- **1/3 HP threshold**: Calculated as maxHP ÷ 3 (rounded down)
+- **1/3 HP threshold**: Calculated as maxHP / 3 (rounded down)
 - **Dynamic scaling**: Boost changes immediately when crossing threshold
 - **Examples**:
   - 300 HP Pokemon: High boost at 100 HP or below

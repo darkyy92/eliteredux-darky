@@ -25,7 +25,7 @@ Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP in
 2. **Berry Healing**: After consuming any berry, restore 1/3 of max HP (minimum 1 HP)
 
 ### Activation Conditions:
-- **Early Consumption**: Only applies to berries with hpFraction ≤ 4 (1/4 HP berries)
+- **Early Consumption**: Only applies to berries with hpFraction <= 4 (1/4 HP berries)
 - **Bonus Healing**: Triggers after ANY berry consumption, regardless of activation threshold
 - **Berry Sources**: Works with held berries, berries from Pluck, Bug Bite, and Natural Gift
 
@@ -53,7 +53,7 @@ if (ItemId_GetPocket(itemId) == POCKET_BERRIES &&
 - **Custap Berry**: Grants priority to next move
 
 ### Berry Healing Calculation:
-- **Base Healing**: max HP ÷ 3
+- **Base Healing**: max HP / 3
 - **Minimum**: 1 HP if calculation results in 0
 - **Stacks With**: Original berry effects (e.g., Sitrus Berry heals for its normal amount PLUS 1/3 max HP)
 
@@ -71,7 +71,7 @@ if (ItemId_GetPocket(itemId) == POCKET_BERRIES &&
 
 ### Example Damage Calculations:
 **Scenario**: 300 HP Pokemon with Sitrus Berry at 149/300 HP
-- Without Gluttony: Berry doesn't activate (needs ≤75 HP)
+- Without Gluttony: Berry doesn't activate (needs <=75 HP)
 - With Gluttony: Berry activates, heals 25% (75 HP) + 33% (100 HP) = 175 HP total
 
 ### Common Users:

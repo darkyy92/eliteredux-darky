@@ -50,7 +50,7 @@ The ability uses the `SWARM_MULTIPLIER` macro which implements:
 
 ### Key Mechanics
 - **Move Type Restriction**: Only affects Electric-type moves
-- **HP Threshold**: Activates stronger boost when HP ≤ maxHP/3
+- **HP Threshold**: Activates stronger boost when HP <= maxHP/3
 - **Multiplicative Scaling**: Applies as a damage multiplier, not base power modification
 - **Real-time Calculation**: Boost level recalculated each turn based on current HP
 

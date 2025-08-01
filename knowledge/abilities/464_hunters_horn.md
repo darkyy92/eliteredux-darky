@@ -24,7 +24,7 @@ Hunter's Horn combines two existing ability components:
 **Power Boost Implementation:**
 - **Exact multiplier**: 1.3x (30% power increase)
 - **Code reference**: `MUL(1.3)` in `MightyHorn.onOffensiveMultiplier` function
-- **Implementation**: Uses fixed-point arithmetic `UQ_4_12(1.3)` = 1331/1024 ≈ 1.30x
+- **Implementation**: Uses fixed-point arithmetic `UQ_4_12(1.3)` = 1331/1024 about 1.30x
 
 **Heal on KO Implementation:**
 - **Exact amount**: 25% of max HP (1/4 HP)

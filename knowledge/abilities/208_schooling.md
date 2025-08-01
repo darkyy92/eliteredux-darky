@@ -25,7 +25,7 @@ Schooling is a unique form-changing ability that allows certain Pokemon to trans
 - **HP Threshold**: Form changes when HP drops to 25% (1/4) or less of maximum HP
 - **Transformation Direction**: 
   - Solo Form to School Form when HP > 25% and level ≥ 20
-  - School Form to Solo Form when HP ≤ 25%
+  - School Form to Solo Form when HP <= 25%
 
 ### Activation Conditions
 ```cpp

@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
+Move BP <=50: +1 crit rate. Move BP <=25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -22,16 +22,16 @@ Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak mo
 
 ### Effect Mechanics:
 1. **Critical Hit Boost**:
-   - Condition: Move base power ≤ 50
+   - Condition: Move base power <= 50
    - Effect: +1 critical hit stage
    - Affected moves: 139 total moves
    - Stacks with other crit modifiers
 
 2. **Priority Boost**:
-   - Condition: Move base power ≤ 25
+   - Condition: Move base power <= 25
    - Effect: +1 priority
    - Affected moves: 63 total moves
-   - Both effects apply to ≤25 BP moves
+   - Both effects apply to <=25 BP moves
 
 ### Technical Implementation:
 ```cpp
@@ -56,7 +56,7 @@ constexpr Ability Perfectionist = {
 
 ### Notable Move Interactions:
 
-**Priority + Crit (≤25 BP)**:
+**Priority + Crit (<=25 BP)**:
 - Fury Swipes (20 BP, 2-5 hits)
 - Triple Kick (20 BP, 3 hits guaranteed)
 - Fury Cutter (20 BP, doubles each hit)
@@ -111,7 +111,7 @@ constexpr Ability Perfectionist = {
 ### Synergistic Elements:
 
 **Abilities**:
-- Technician: 1.5x on ≤60 BP moves
+- Technician: 1.5x on <=60 BP moves
 - Skill Link: Max hits on multi-hit
 - Sniper: 2.25x crit damage
 - Super Luck: Higher crit chance

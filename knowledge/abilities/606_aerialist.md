@@ -19,7 +19,7 @@ Combines ground immunity with exceptional Flying-type prowess. Immune to all Gro
 
 Aerialist is a compound ability that combines the effects of two separate abilities:
 - **Levitate**: Provides ground immunity and 1.25x Flying-type move power boost
-- **Flock**: Implements Flying-type Swarm mechanics (1.2x power normally, 1.5x at ≤33% HP)
+- **Flock**: Implements Flying-type Swarm mechanics (1.2x power normally, 1.5x at <=33% HP)
 
 ### Code Structure
 ```cpp
@@ -40,7 +40,7 @@ constexpr Ability Aerialist = {
 2. **Flying-type Power Boosts**: 
    - Base: 1.25x multiplier from Levitate component
    - Additional: 1.2x multiplier from Flock component (normal HP)
-   - Critical: 1.5x multiplier from Flock component (≤33% HP)
+   - Critical: 1.5x multiplier from Flock component (<=33% HP)
 3. **Stackable Multipliers**: Both effects apply simultaneously to Flying-type moves
 4. **Breakable**: Can be suppressed by Mold Breaker-type abilities
 

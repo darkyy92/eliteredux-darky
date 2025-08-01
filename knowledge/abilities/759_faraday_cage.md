@@ -112,7 +112,7 @@ Based on trainer data analysis, Faraday Cage is used by:
 - 252+ Atk Choice Band Azumarill Aqua Jet: 63-74% to 50-59% (with Faraday Cage)
 
 **Thunder Cage Retaliation:**
-- 50 BP Thunder Cage from 252+ SpA Modest user ≈ 25-30% to most neutral targets
+- 50 BP Thunder Cage from 252+ SpA Modest user about 25-30% to most neutral targets
 - Additional 1/8 HP per turn for 4-5 turns = 50-62.5% total passive damage
 
 ### Version History

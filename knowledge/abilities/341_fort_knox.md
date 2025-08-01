@@ -105,7 +105,7 @@ Blocks ALL abilities that use `onOffensiveMultiplier`, including:
 - Solar Power (1.5x special in sun)
 - Analytic (1.3x when moving last, line 1692)
 - Tinted Lens (2x on not very effective moves)
-- Technician (1.5x on moves ≤60 power)
+- Technician (1.5x on moves <=60 power)
 
 **Weather/Terrain Boosts:**
 - Sand Force (1.3x Rock/Ground/Steel in sand)

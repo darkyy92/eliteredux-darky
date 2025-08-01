@@ -30,7 +30,7 @@ Psychic Mind is a signature ability that enhances the power of Psychic-type move
 
 ### Damage Calculation
 - **Normal state (HP > 1/3):** Psychic-type moves deal **1.2x damage** (20% increase)
-- **Pinch state (HP ≤ 1/3):** Psychic-type moves deal **1.5x damage** (50% increase)
+- **Pinch state (HP <= 1/3):** Psychic-type moves deal **1.5x damage** (50% increase)
 
 ### Technical Implementation
 **File:** `/Users/joel/Github/eliteredux/eliteredux-source/src/abilities.cc`  
@@ -58,7 +58,7 @@ The ability uses the `SWARM_MULTIPLIER` macro with `TYPE_PSYCHIC`, defined at li
 
 ### Key Mechanics
 - Only affects **outgoing damage** from Psychic-type moves
-- HP threshold check: `current HP ≤ (max HP ÷ 3)`
+- HP threshold check: `current HP <= (max HP / 3)`
 - Stacks multiplicatively with other damage modifiers
 - Active on both physical and special Psychic-type moves
 

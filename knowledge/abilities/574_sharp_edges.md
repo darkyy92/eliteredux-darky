@@ -60,7 +60,7 @@ Sharp Edges triggers on any move with the contact flag, including but not limite
 ### Damage Comparison with Similar Abilities
 
 **Sharp Edges vs Iron Barbs/Rough Skin**:
-- **Sharp Edges**: 1/6 max HP damage (≈16.67% max HP)
+- **Sharp Edges**: 1/6 max HP damage (about16.67% max HP)
 - **Iron Barbs/Rough Skin**: 1/8 max HP damage (12.5% max HP)
 - **Difference**: Sharp Edges deals 33% more retaliation damage
 
@@ -74,7 +74,7 @@ Sharp Edges triggers on any move with the contact flag, including but not limite
 **Rocky Helmet Interaction**:
 - Sharp Edges and Rocky Helmet stack for massive retaliation damage
 - Combined damage: 1/6 (Sharp Edges) + 1/6 (Rocky Helmet) = 1/3 max HP total
-- This is significantly more punishing than Iron Barbs + Rocky Helmet (1/8 + 1/6 = 7/24 ≈ 29.2%)
+- This is significantly more punishing than Iron Barbs + Rocky Helmet (1/8 + 1/6 = 7/24 about 29.2%)
 
 **Substitute Interaction**:
 - Sharp Edges activates even if the attack hits a Substitute
@@ -88,16 +88,16 @@ Sharp Edges triggers on any move with the contact flag, including but not limite
 ### Damage Calculation Examples
 
 **Example 1**: Garchomp (404 max HP) uses Dragon Claw against Sharp Edges user
-- **Sharp Edges**: 404 ÷ 6 = 67.33 to 67 HP damage to Garchomp
-- **Iron Barbs**: 404 ÷ 8 = 50.5 to 50 HP damage to Garchomp
+- **Sharp Edges**: 404 / 6 = 67.33 to 67 HP damage to Garchomp
+- **Iron Barbs**: 404 / 8 = 50.5 to 50 HP damage to Garchomp
 - **Difference**: Sharp Edges deals 17 more damage (34% increase)
 
 **Example 2**: Shedinja (1 max HP) uses Shadow Sneak against Sharp Edges user
-- Calculation: 1 ÷ 6 = 0.167 to rounds to 0, but minimum is 1
+- Calculation: 1 / 6 = 0.167 to rounds to 0, but minimum is 1
 - Shedinja takes 1 HP damage and faints (same as Iron Barbs)
 
 **Example 3**: Skill Link Cloyster uses Icicle Spear (5 hits) against Sharp Edges user
-- Each hit: 251 ÷ 6 = 41.83 to 41 HP damage per hit
+- Each hit: 251 / 6 = 41.83 to 41 HP damage per hit
 - Total damage: 41 x 5 = 205 HP damage to Cloyster
 - Cloyster effectively takes 205/251 = 81.7% of its max HP in retaliation
 
