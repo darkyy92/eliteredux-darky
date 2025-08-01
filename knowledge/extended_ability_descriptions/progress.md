@@ -1,7 +1,7 @@
 # Extended Ability Descriptions Progress
 
 Total Abilities: 876
-Completed: 854
+Completed: 875
 In Progress: 0
 
 ## Progress Tracking
@@ -16,7 +16,7 @@ In Progress: 0
 |   5 | Sturdy                     | ✅       | ✅        |
 |   6 | Damp                       | ✅       | ✅        |
 |   7 | Limber                     | ✅       | ✅        |
-|   8 | Ability 8                  | ❌       | ❌        |
+|   8 | Sand Veil                  | ✅       | ✅        |
 |   9 | Static                     | ✅       | ✅        |
 |  10 | Volt Absorb                | ✅       | ✅        |
 |  11 | Water Absorb               | ✅       | ✅        |
@@ -89,12 +89,12 @@ In Progress: 0
 |  78 | Motor Drive                | ✅       | ✅        |
 |  79 | Rivalry                    | ✅       | ❌        |
 |  80 | Steadfast                  | ✅       | ✅        |
-|  81 | Ability 81                 | ❌       | ❌        |
+|  81 | Snow Cloak                 | ✅       | ✅        |
 |  82 | Gluttony                   | ✅       | ❌        |
 |  83 | Anger Point                | ✅       | ✅        |
 |  84 | Unburden                   | ✅       | ✅        |
 |  85 | Heatproof                  | ✅       | ✅        |
-|  86 | Ability 86                 | ❌       | ❌        |
+|  86 | Simple                     | ✅       | ✅        |
 |  87 | Dry Skin                   | ✅       | ✅        |
 |  88 | Download                   | ✅       | ❌        |
 |  89 | Iron Fist                  | ✅       | ✅        |
@@ -126,7 +126,7 @@ In Progress: 0
 | 115 | Ice Body                   | ✅       | ✅        |
 | 116 | Solid Rock                 | ✅       | ✅        |
 | 117 | Snow Warning               | ✅       | ✅        |
-| 118 | Ability 118                | ❌       | ❌        |
+| 118 | Honey Gather               | ✅       | ✅        |
 | 119 | Frisk                      | ✅       | ✅        |
 | 120 | Reckless                   | ✅       | ✅        |
 | 121 | Multitype                  | ✅       | ✅        |
@@ -168,7 +168,7 @@ In Progress: 0
 | 157 | Sap Sipper                 | ✅       | ✅        |
 | 158 | Prankster                  | ✅       | ✅        |
 | 159 | Sand Force                 | ✅       | ✅        |
-| 160 | Ability 160                | ❌       | ❌        |
+| 160 | Iron Barbs                 | ✅       | ✅        |
 | 161 | Zen Mode                   | ✅       | ✅        |
 | 162 | Victory Star               | ✅       | ✅        |
 | 163 | Turboblaze                 | ✅       | ✅        |
@@ -222,7 +222,7 @@ In Progress: 0
 | 211 | Power Construct            | ✅       | ✅        |
 | 212 | Corrosion                  | ✅       | ✅        |
 | 213 | Comatose                   | ✅       | ✅        |
-| 214 | Ability 214                | ❌       | ❌        |
+| 214 | Queenly Majesty            | ✅       | ✅        |
 | 215 | Innards Out                | ✅       | ✅        |
 | 216 | Dancer                     | ✅       | ✅        |
 | 217 | Battery                    | ✅       | ✅        |
@@ -245,7 +245,7 @@ In Progress: 0
 | 234 | Intrepid Sword             | ✅       | ✅        |
 | 235 | Dauntless Shield           | ✅       | ✅        |
 | 236 | Libero                     | ✅       | ✅        |
-| 237 | Ability 237                | ❌       | ❌        |
+| 237 | Ball Fetch                 | ✅       | ✅        |
 | 238 | Cotton Down                | ✅       | ✅        |
 | 239 | Propeller Tail             | ✅       | ✅        |
 | 240 | Mirror Armor               | ✅       | ✅        |
@@ -315,7 +315,7 @@ In Progress: 0
 | 304 | Magical Dust               | ✅       | ✅        |
 | 305 | Dreamcatcher               | ✅       | ✅        |
 | 306 | Nocturnal                  | ✅       | ✅        |
-| 307 | Ability 307                | ❌       | ❌        |
+| 307 | Self Sufficient            | ✅       | ✅        |
 | 308 | Tectonize                  | ✅       | ✅        |
 | 309 | Ice Age                    | ✅       | ✅        |
 | 310 | Half Drake                 | ✅       | ✅        |
@@ -354,7 +354,7 @@ In Progress: 0
 | 343 | Psychic Mind               | ✅       | ✅        |
 | 344 | Poison Absorb              | ✅       | ✅        |
 | 345 | Scavenger                  | ✅       | ✅        |
-| 346 | Ability 346                | ❌       | ❌        |
+| 346 | Twisted Dimension          | ✅       | ✅        |
 | 347 | Multi Headed               | ✅       | ✅        |
 | 348 | North Wind                 | ✅       | ✅        |
 | 349 | Overcharge                 | ✅       | ✅        |
@@ -481,7 +481,7 @@ In Progress: 0
 | 470 | Archer                     | ✅       | ✅        |
 | 471 | Cold Plasma                | ✅       | ✅        |
 | 472 | Super Slammer              | ✅       | ✅        |
-| 473 | Ability 473                | ❌       | ❌        |
+| 473 | Inversion                  | ✅       | ✅        |
 | 474 | Accelerate                 | ✅       | ✅        |
 | 475 | Frost Burn                 | ✅       | ✅        |
 | 476 | Itchy Defense              | ✅       | ✅        |
@@ -537,7 +537,7 @@ In Progress: 0
 | 526 | Monster Hunter             | ✅       | ✅        |
 | 527 | Crowned Sword              | ✅       | ✅        |
 | 528 | Crowned Shield             | ✅       | ✅        |
-| 529 | Ability 529                | ❌       | ❌        |
+| 529 | Berserk DNA                | ✅       | ✅        |
 | 530 | Crowned King               | ✅       | ✅        |
 | 531 | Clap Trap                  | ✅       | ✅        |
 | 532 | Permanence                 | ✅       | ✅        |
@@ -546,7 +546,7 @@ In Progress: 0
 | 535 | Mind's Eye                 | ✅       | ✅        |
 | 536 | Blood Price                | ✅       | ✅        |
 | 537 | Spike Armor                | ✅       | ✅        |
-| 538 | Ability 538                | ❌       | ❌        |
+| 538 | Voodoo Power               | ✅       | ✅        |
 | 539 | Chrome Coat                | ✅       | ✅        |
 | 540 | Banshee                    | ✅       | ✅        |
 | 541 | Web Spinner                | ✅       | ✅        |
@@ -580,14 +580,14 @@ In Progress: 0
 | 569 | Supreme Overlord           | ✅       | ✅        |
 | 570 | Ill Will                   | ✅       | ✅        |
 | 571 | Fire Scales                | ✅       | ✅        |
-| 572 | Ability 572                | ❌       | ❌        |
+| 572 | Watch Your Step            | ✅       | ✅        |
 | 573 | Rapid Response             | ✅       | ✅        |
 | 574 | Sharp Edges                | ✅       | ❌        |
 | 575 | Thermal Exchange           | ✅       | ✅        |
 | 576 | Good As Gold               | ✅       | ✅        |
 | 577 | Sharing Is Caring          | ✅       | ✅        |
 | 578 | Tablets Of Ruin            | ✅       | ✅        |
-| 579 | Ability 579                | ❌       | ❌        |
+| 579 | Sword Of Ruin              | ✅       | ✅        |
 | 580 | Vessel Of Ruin             | ✅       | ✅        |
 | 581 | Beads Of Ruin              | ✅       | ❌        |
 | 582 | Thick Skin                 | ✅       | ❌        |
@@ -671,8 +671,8 @@ In Progress: 0
 | 660 | Ultra Instinct             | ✅       | ✅        |
 | 661 | Unlocked Potential         | ✅       | ✅        |
 | 662 | Higher Rank                | ✅       | ✅        |
-| 663 | Ability 663                | ❌       | ❌        |
-| 664 | Ability 664                | ❌       | ❌        |
+| 663 | Funeral Pyre               | ✅       | ✅        |
+| 664 | Flame Bubble               | ✅       | ✅        |
 | 665 | Elemental Vortex           | ✅       | ✅        |
 | 666 | Snowy Wrath                | ✅       | ✅        |
 | 667 | Pattern Change             | ✅       | ✅        |
@@ -689,7 +689,7 @@ In Progress: 0
 | 678 | Fluffiest                  | ✅       | ✅        |
 | 679 | Way of Precision           | ✅       | ✅        |
 | 680 | Way of Swiftness           | ✅       | ✅        |
-| 681 | Ability 681                | ❌       | ❌        |
+| 681 | Atomic Punch               | ✅       | ✅        |
 | 682 | Iron Giant                 | ✅       | ✅        |
 | 683 | Master Hand                | ✅       | ✅        |
 | 684 | Final Blow                 | ✅       | ✅        |
@@ -739,7 +739,7 @@ In Progress: 0
 | 728 | Wind Rage                  | ✅       | ✅        |
 | 729 | Victory Bomb               | ✅       | ✅        |
 | 730 | Razor Sharp                | ✅       | ✅        |
-| 731 | Ability 731                | ❌       | ❌        |
+| 731 | To The Bone                | ✅       | ✅        |
 | 732 | Blade Dance                | ✅       | ✅        |
 | 733 | Taekkyeon                  | ✅       | ✅        |
 | 734 | Ape Shift                  | ✅       | ✅        |
@@ -783,7 +783,7 @@ In Progress: 0
 | 772 | Relentless                 | ✅       | ✅        |
 | 773 | Soothsayer                 | ✅       | ✅        |
 | 774 | Corrupted Mind             | ✅       | ✅        |
-| 775 | Ability 775                | ❌       | ❌        |
+| 775 | Flame Coat                 | ✅       | ✅        |
 | 776 | Unown Power                | ✅       | ✅        |
 | 777 | Super Scope                | ✅       | ✅        |
 | 778 | Venom Crown                | ✅       | ✅        |
@@ -863,8 +863,8 @@ In Progress: 0
 | 852 | Envenom                    | ✅       | ✅        |
 | 853 | Purple Haze                | ✅       | ✅        |
 | 854 | Gnashing Cannon            | ✅       | ✅        |
-| 855 | Ability 855                | ❌       | ❌        |
-| 856 | Ability 856                | ❌       | ❌        |
+| 855 | Hyper Cleanse              | ✅       | ✅        |
+| 856 | Molten Coat                | ✅       | ✅        |
 | 857 | Royal Decree               | ✅       | ✅        |
 | 858 | Breezy Neigh               | ✅       | ✅        |
 | 859 | Dreamscape                 | ✅       | ✅        |

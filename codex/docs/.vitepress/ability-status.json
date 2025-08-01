@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 796,
-    "written": 854,
-    "pending": 22,
-    "generated_at": "2025-07-31T23:45:26.738931Z"
+    "completed": 817,
+    "written": 875,
+    "pending": 1,
+    "generated_at": "2025-08-01T21:27:03.950335Z"
   },
   "abilities": {
     "0": {
@@ -65,10 +65,10 @@
     },
     "8": {
       "id": 8,
-      "name": "Ability 8",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Sand Veil",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "9": {
       "id": 9,
@@ -576,10 +576,10 @@
     },
     "81": {
       "id": 81,
-      "name": "Ability 81",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Snow Cloak",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "82": {
       "id": 82,
@@ -611,10 +611,10 @@
     },
     "86": {
       "id": 86,
-      "name": "Ability 86",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Simple",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "87": {
       "id": 87,
@@ -835,10 +835,10 @@
     },
     "118": {
       "id": 118,
-      "name": "Ability 118",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Honey Gather",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "119": {
       "id": 119,
@@ -1129,10 +1129,10 @@
     },
     "160": {
       "id": 160,
-      "name": "Ability 160",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Iron Barbs",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "161": {
       "id": 161,
@@ -1507,10 +1507,10 @@
     },
     "214": {
       "id": 214,
-      "name": "Ability 214",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Queenly Majesty",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "215": {
       "id": 215,
@@ -1668,10 +1668,10 @@
     },
     "237": {
       "id": 237,
-      "name": "Ability 237",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Ball Fetch",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "238": {
       "id": 238,
@@ -2158,10 +2158,10 @@
     },
     "307": {
       "id": 307,
-      "name": "Ability 307",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Self Sufficient",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "308": {
       "id": 308,
@@ -2431,10 +2431,10 @@
     },
     "346": {
       "id": 346,
-      "name": "Ability 346",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Twisted Dimension",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "347": {
       "id": 347,
@@ -3320,10 +3320,10 @@
     },
     "473": {
       "id": 473,
-      "name": "Ability 473",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Inversion",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "474": {
       "id": 474,
@@ -3712,10 +3712,10 @@
     },
     "529": {
       "id": 529,
-      "name": "Ability 529",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Berserk DNA",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "530": {
       "id": 530,
@@ -3775,10 +3775,10 @@
     },
     "538": {
       "id": 538,
-      "name": "Ability 538",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Voodoo Power",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "539": {
       "id": 539,
@@ -4013,10 +4013,10 @@
     },
     "572": {
       "id": 572,
-      "name": "Ability 572",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Watch Your Step",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "573": {
       "id": 573,
@@ -4062,10 +4062,10 @@
     },
     "579": {
       "id": 579,
-      "name": "Ability 579",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Sword Of Ruin",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "580": {
       "id": 580,
@@ -4650,17 +4650,17 @@
     },
     "663": {
       "id": 663,
-      "name": "Ability 663",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Funeral Pyre",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "664": {
       "id": 664,
-      "name": "Ability 664",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Flame Bubble",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "665": {
       "id": 665,
@@ -4776,10 +4776,10 @@
     },
     "681": {
       "id": 681,
-      "name": "Ability 681",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Atomic Punch",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "682": {
       "id": 682,
@@ -5126,10 +5126,10 @@
     },
     "731": {
       "id": 731,
-      "name": "Ability 731",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "To The Bone",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "732": {
       "id": 732,
@@ -5434,10 +5434,10 @@
     },
     "775": {
       "id": 775,
-      "name": "Ability 775",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Flame Coat",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "776": {
       "id": 776,
@@ -5994,17 +5994,17 @@
     },
     "855": {
       "id": 855,
-      "name": "Ability 855",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Hyper Cleanse",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "856": {
       "id": 856,
-      "name": "Ability 856",
-      "written": false,
-      "reviewed": false,
-      "status": "pending"
+      "name": "Molten Coat",
+      "written": true,
+      "reviewed": true,
+      "status": "reviewed"
     },
     "857": {
       "id": 857,
@@ -6190,10 +6190,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "8": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "9": {
       "indicator": "✅",
@@ -6628,10 +6628,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "81": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "82": {
       "indicator": "🟠",
@@ -6658,10 +6658,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "86": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "87": {
       "indicator": "✅",
@@ -6850,10 +6850,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "118": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "119": {
       "indicator": "✅",
@@ -7102,10 +7102,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "160": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "161": {
       "indicator": "✅",
@@ -7426,10 +7426,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "214": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "215": {
       "indicator": "✅",
@@ -7564,10 +7564,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "237": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "238": {
       "indicator": "✅",
@@ -7984,10 +7984,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "307": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "308": {
       "indicator": "✅",
@@ -8218,10 +8218,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "346": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "347": {
       "indicator": "✅",
@@ -8980,10 +8980,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "473": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "474": {
       "indicator": "✅",
@@ -9316,10 +9316,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "529": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "530": {
       "indicator": "✅",
@@ -9370,10 +9370,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "538": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "539": {
       "indicator": "✅",
@@ -9574,10 +9574,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "572": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "573": {
       "indicator": "✅",
@@ -9616,10 +9616,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "579": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "580": {
       "indicator": "✅",
@@ -10120,16 +10120,16 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "663": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "664": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "665": {
       "indicator": "✅",
@@ -10228,10 +10228,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "681": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "682": {
       "indicator": "✅",
@@ -10528,10 +10528,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "731": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "732": {
       "indicator": "✅",
@@ -10792,10 +10792,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "775": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "776": {
       "indicator": "✅",
@@ -11272,16 +11272,16 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "855": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "856": {
-      "indicator": "⏳",
-      "badge_class": "status-pending",
-      "progress_text": "0/2",
-      "tooltip": "Written: ❌, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "857": {
       "indicator": "✅",

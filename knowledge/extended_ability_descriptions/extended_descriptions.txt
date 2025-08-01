@@ -19,6 +19,9 @@ If the user makes contact with another Pokemon, offensively or defensively, the 
 # ID: 7
 All recoil damage to the user is halved; this includes moves with scaling recoil damage like Brave Bird, moves with crash damage like Jump Kick, or moves with fixed recoil like Steel Beam. Paralysis also cannot affect the user, and if they gain Limber, existing paralysis is cured.
 
+# ID: 8
+During sandstorm, enemy Pokemon's accuracy is divided by 1.25, and user is immune to sand damage. Bypassed by No Guard/Mold Breaker. (note to self: does this count as +1 evasion? does it just multiply the end result after accuracy/evasion buffs/nerfs?)
+
 # ID: 9
 30% chance to paralyze on any contact move (both offense and defense in Elite Redux). Halves foe's Speed to 50% with 25% full paralysis chance per turn. Makes Wild Charge/Spark deadly threats. Severely punishes U-turn/Fake Out users. Electric-types and Limber immune. Bypassed by Mold Breaker.
 
@@ -622,6 +625,9 @@ Poison-type moves become super effective against Steel-type Pokemon. Additionall
 # ID: 213
 Comatose considers the user as asleep for moves and statuses. The Pokemon can move normally and gains immunity to all status conditions. Cannot be copied or suppressed. Rest fails when used.
 
+# ID: 214
+Queenly Majesty prevents the user and its ally from being targeted by priority moves with priority higher than 0.
+
 # ID: 215
 Innards Out activates when the Pokemon is knocked out by an opponent's attack. It inflicts the same amount of damage the fatal attack dealt back to the attacker. Cannot affect attackers protected by Magic Guard.
 
@@ -687,6 +693,9 @@ Dauntless Shield immediately raises Defense by one stage when entering battle.
 
 # ID: 236
 Libero overrides the user's type to match the move being used before it attacks. Cannot activate on Struggle moves.
+
+# ID: 237
+No effect in battle.
 
 # ID: 238
 Cotton Down triggers when the Pokemon is hit by any attack, lowering the Speed of ALL Pokemon by one stage. Activates multiple times against multihit moves.
