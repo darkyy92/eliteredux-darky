@@ -149,6 +149,87 @@ The codex now includes an UNDO feature for save/approve actions:
 - Character counts ALWAYS include spaces (GBA renders spaces as tiles)
 - The site uses dark theme by default but supports theme switching
 
+## Auto-Generated File System & Conflict Resolution
+
+### Critical Files and Data Flow
+The ability documentation system uses a specific data flow that MUST be understood to avoid data loss:
+
+#### Source of Truth (SAFE TO EDIT)
+- `../knowledge/abilities/*.md` - Individual ability documentation files
+- These files contain frontmatter with metadata and full documentation
+- All manual edits should ONLY be made to these files
+
+#### Auto-Generated Files (NEVER EDIT MANUALLY)
+- `../knowledge/extended_ability_descriptions/progress.md` - Progress tracking table
+- `docs/.vitepress/ability-status.json` - API data for inline editor
+- Generated via GitHub Actions on every push to main
+
+#### Data Flow Chain
+1. **Individual ability files** (`../knowledge/abilities/*.md`) 
+2. **GitHub Actions triggers** on push to main
+3. **`generate_progress.py`** creates progress.md from ability files
+4. **`generate_status_api.py`** creates ability-status.json from progress.md
+5. **Codex site** uses ability-status.json for inline editor functionality
+
+### Git Conflict Resolution Protocol
+
+When encountering stash/merge conflicts with auto-generated files:
+
+1. **ALWAYS keep upstream versions** of auto-generated files:
+   ```bash
+   git checkout --theirs ../knowledge/extended_ability_descriptions/progress.md
+   git checkout --theirs docs/.vitepress/ability-status.json
+   ```
+
+2. **Only commit source file changes**:
+   - Individual ability files with special character fixes
+   - Manual script improvements (generate_progress.py, InlineAbilityEditor.vue)
+   - Direct documentation edits
+
+3. **Character encoding fixes for GBA compatibility**:
+   - Replace special characters: "é" → "é", "ö" → "ö", "÷" → "÷"
+   - Update generate_progress.py with `encoding='utf-8', errors='replace'`
+   - Fix InlineAbilityEditor.vue UTF-8 encoding: `btoa(unescape(encodeURIComponent(content)))`
+
+### Common Conflict Scenarios
+
+#### Scenario 1: Stashed Changes After Extended Period
+- **Problem**: Others committed new ability progress while your changes were stashed
+- **Solution**: Restore stash, resolve conflicts by keeping upstream auto-generated files
+- **Key**: Your special character fixes in source files are preserved, others' progress is not lost
+
+#### Scenario 2: Character Encoding Issues
+- **Problem**: Special characters causing display/compilation issues
+- **Solution**: Fix in source files only, let automation regenerate tracking files
+- **Never**: Manually edit progress.md or ability-status.json
+
+### UTF-8 Encoding Best Practices
+
+#### Python Scripts
+```python
+with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
+    content = f.read()
+```
+
+#### JavaScript (InlineAbilityEditor.vue)
+```javascript
+content: btoa(unescape(encodeURIComponent(updatedContent)))
+```
+
+### Normal Workflow
+1. Edit individual ability files in `../knowledge/abilities/*.md`
+2. Push changes to main branch
+3. GitHub Actions automatically regenerates tracking files
+4. **No manual script execution needed**
+
+### Debugging Automation Issues (Optional)
+
+If auto-generated files seem incorrect after GitHub Actions runs:
+1. Check GitHub Actions logs for the latest main branch push
+2. Verify individual ability files have correct frontmatter
+3. **Optional**: Run `generate_progress.py` locally for debugging only
+4. Never manually fix the output - fix the source files and push again
+
 ## Future Enhancement: Real-Time Updates
 
 Real-time updates are currently disabled. The planned automated approval workflow (see `/plans/automated_approval_workflow/`) will provide instant updates without the polling issues.
