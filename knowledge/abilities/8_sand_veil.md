@@ -55,10 +55,10 @@ constexpr Ability SandVeil = {
 
 ### Accuracy Calculation Example
 Base 100% accuracy move in sandstorm:
-- 100% ÷ 1.25 = **80% final accuracy**
+- 100% Ã· 1.25 = **80% final accuracy**
 
 With opponent's Hone Claws (+1 accuracy):
-- 133% ÷ 1.25 = **106.4% final accuracy**
+- 133% Ã· 1.25 = **106.4% final accuracy**
 
 ### Interactions with Other Abilities/Mechanics
 - **Sand Stream**: Partner ability to set sandstorm

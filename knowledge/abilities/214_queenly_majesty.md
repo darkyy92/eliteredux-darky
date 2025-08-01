@@ -92,4 +92,4 @@ When a priority move is blocked: "*Pokemon cannot use [move name]!*" after the a
 ### Version History
 Queenly Majesty is based on the Generation VII ability but with Elite Redux's multi-ability system integration. In Elite Redux, it often appears as an innate ability rather than a main ability, providing additional utility to many Pokemon that wouldn't normally have access to priority protection.
 
-The ability is particularly notable for its implementation alongside Dazzling and Armor Tail, which share the same core mechanic but may have different secondary effects or distributions across the Pokédex.
+The ability is particularly notable for its implementation alongside Dazzling and Armor Tail, which share the same core mechanic but may have different secondary effects or distributions across the PokÃ©dex.

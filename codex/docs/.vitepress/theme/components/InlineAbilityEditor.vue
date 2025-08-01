@@ -657,7 +657,7 @@ async function handleSaveConfirm() {
         },
         body: JSON.stringify({
           message: `docs: Update ${abilityInfo.value.name} ability description`,
-          content: btoa(contentWithReviewedStatus),
+          content: btoa(unescape(encodeURIComponent(contentWithReviewedStatus))),
           sha: fileData.sha,
           branch: 'main'
         })
@@ -779,7 +779,7 @@ async function handleApproveConfirm() {
         },
         body: JSON.stringify({
           message: `Approved ability ${abilityInfo.value.id} ${abilityInfo.value.name}`,
-          content: btoa(updatedContent),
+          content: btoa(unescape(encodeURIComponent(updatedContent))),
           sha: fileData.sha,
           branch: 'main'
         })

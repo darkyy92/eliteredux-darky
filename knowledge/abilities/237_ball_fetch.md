@@ -23,11 +23,11 @@ Ball Fetch is a unique out-of-battle utility ability that was introduced in Gene
 ### Mechanics:
 - **Battle Effect**: None - the ability has no impact during actual battles
 - **AI Rating**: 0 (confirmed in battle_ai_util.c)
-- **Overworld Effect**: Retrieves the first Poké Ball used in a failed wild encounter
+- **Overworld Effect**: Retrieves the first PokÃ© Ball used in a failed wild encounter
 - **Activation Requirements**: 
   - Must be in the player's party (not necessarily in battle)
   - Only works in wild Pokemon encounters
-  - Only retrieves the first Poké Ball used in the encounter
+  - Only retrieves the first PokÃ© Ball used in the encounter
   - Ball must have failed to catch the Pokemon
 
 ### Implementation in Elite Redux:
