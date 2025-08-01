@@ -707,7 +707,7 @@ Propeller Tail boosts the user's Speed by 50% during rain and grants immunity to
 Mirror Armor reflects all stat-lowering effects aimed at the user back to the attacker. The reflection bypasses immunities.
 
 # ID: 241
-When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP ≤50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
+When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP <=50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
 
 # ID: 242
 Stalwart prevents the Pokemon from being affected by target redirection effects and effects that remove or suppress abilities.
@@ -848,7 +848,7 @@ Physical moves use the Defense stat of the user instead of Attack for damage, wh
 Mystic Power grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does not boost moves that already receive a STAB bonus.
 
 # ID: 288
-Move BP ≤50: +1 crit rate. Move BP ≤25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
+Move BP <=50: +1 crit rate. Move BP <=25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
 
 # ID: 289
 Growing Tooth boosts the user's Attack by one stage whenever they successfully hit with a biting move.
