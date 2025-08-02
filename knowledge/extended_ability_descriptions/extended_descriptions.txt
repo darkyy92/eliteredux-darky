@@ -812,7 +812,7 @@ Sand Song boosts the power of all sound-based moves by 20% and converts Normal-t
 Rampage eliminates recharge turns when the user successfully KOs an opponent with a direct attack.
 
 # ID: 276
-Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal conditions and an enhanced 1.5x boost when the Pokemon's HP drops to 1/3 or below. This ability works similarly to type-specific Swarm abilities, rewarding strategic damage management with increased offensive power.
+Boosts the power of Ghost-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 # ID: 277
 Blitz Boxer grants +1 priority to all punching moves when at full HP.
