@@ -1,8 +1,8 @@
 ---
 id: 586
 name: Winged King
-status: ai-generated
-character_count: 293
+status: reviewed
+character_count: 43
 ---
 
 # Winged King - Ability ID 586
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Increases damage of super-effective attacks by 33%. When this Pokemon's move deals 2x damage due to type advantage, the multiplier becomes 2.66x instead. Does not affect normally effective or resisted moves. Stacks with STAB and other damage modifiers for devastating super-effective coverage.
+Super effective attacks are boosted by 33%.
 
 ## Detailed Mechanical Explanation
 
