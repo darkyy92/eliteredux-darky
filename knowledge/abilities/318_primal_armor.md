@@ -1,8 +1,8 @@
 ---
 id: 318
 name: Primal Armor
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 106
 ---
 
 # Primal Armor - Ability ID 318
@@ -13,7 +13,8 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Primal Armor reduces damage from super-effective moves by 50%. Activates when moves have 2x or higher type effectiveness, cutting damage to manageable levels. Works against all super-effective attacks regardless of type. Stacks with other damage reduction effects like berries for incredible bulk.
+Reduces damage from super-effective attacks by 50%. Multiplicative with other sources of damage reduction.
+
 
 ## Detailed Mechanical Explanation
 
