@@ -75,7 +75,7 @@ In Progress: 0
 |  64 | Liquid Ooze                | ✅       | ✅        |
 |  65 | Overgrow                   | ✅       | ✅        |
 |  66 | Blaze                      | ✅       | ✅        |
-|  67 | Torrent                    | ✅       | ❌        |
+|  67 | Torrent                    | ✅       | ✅        |
 |  68 | Swarm                      | ✅       | ❌        |
 |  69 | Rock Head                  | ✅       | ✅        |
 |  70 | Drought                    | ✅       | ✅        |
