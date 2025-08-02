@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 834,
+    "completed": 835,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:41:02.860306Z"
+    "generated_at": "2025-08-02T00:42:27.076440Z"
   },
   "abilities": {
     "0": {
@@ -1306,8 +1306,8 @@
       "id": 185,
       "name": "Parental Bond",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "186": {
       "id": 186,
@@ -7252,10 +7252,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "185": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "186": {
       "indicator": "✅",

@@ -539,7 +539,7 @@ When the user is hit by a contact move, the attacker reduces their Speed by one 
 Normal-type moves become Flying-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 185
-Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
+Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Bypasses Fort Knox/Wonder Skin.
 
 # ID: 186
 All Dark-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break.
