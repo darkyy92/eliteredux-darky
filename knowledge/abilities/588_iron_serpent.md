@@ -1,8 +1,8 @@
 ---
 id: 588
 name: Iron Serpent
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 43
 ---
 
 # Iron Serpent - Ability ID 588
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Iron Serpent strikes with devastating precision, boosting super-effective moves by an additional 33%. This transforms 2x effective hits into 2.66x devastation and 4x weaknesses into 5.32x damage. Perfect for Pokemon with wide type coverage, turning every super-effective hit into a potential OHKO.
+Super effective attacks are boosted by 33%.
 
 ## Detailed Mechanical Explanation
 
