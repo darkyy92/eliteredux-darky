@@ -2099,7 +2099,7 @@ Reduces damage from super-effective attacks by 35%. Multiplicative with other so
 Upon entering battle, adds Water to the user's current typing. Retains Water typing even upon losing the ability, going away only when switching out. Also boosts the power of Water-type moves by 50%.
 
 # ID: 714
-Apple Pie combines Self Sufficient and Ripen effects. Heals 1/16 of max HP at the end of each turn and doubles all berry effects including healing, stat boosts, and damage from offensive berries. Perfect for sustained battles with berry-based strategies and natural recovery.
+Restores 1/16 of the Pokemon's maximum HP at the end of each turn. Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages, resist berries reduce super-effective damage by 75%, and PP-restoring berries restore 20 PP.
 
 # ID: 715
 Upon entering battle, adds Psychic to the user's current typing. Retains Psychic typing even upon losing the ability, going away only when switching out. The user is immune to Ground-type moves and other ground effects such as Spikes and terrains.

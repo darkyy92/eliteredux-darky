@@ -722,7 +722,7 @@ In Progress: 0
 | 711 | Lunar Affinity             | ✅       | ✅        |
 | 712 | Flame Shield               | ✅       | ✅        |
 | 713 | Aquatic Dweller            | ✅       | ✅        |
-| 714 | Apple Pie                  | ✅       | ❌        |
+| 714 | Apple Pie                  | ✅       | ✅        |
 | 715 | Hover                      | ✅       | ✅        |
 | 716 | Depravity                  | ✅       | ✅        |
 | 717 | Wildfire                   | ✅       | ✅        |
