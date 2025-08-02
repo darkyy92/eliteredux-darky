@@ -1,8 +1,8 @@
 ---
 id: 460
 name: Kunoichi's Blade
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 293
 ---
 
 # Kunoichi's Blade - Ability ID 460
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Kunoichi Blade combines Technician and Skill Link effects. Moves with 60 BP or less get a 1.5x power boost, while multi-hit moves like Bullet Seed and Rock Blast always hit the maximum number of times (5 hits). Perfect for multi-hit builds with guaranteed consistency and offensive power.
+Boosts moves with 60 BP or less by 1.5x. Does not boost moves with 60 BP or less if they potentially can have more than 60 BP, such as Revenge or Venoshock. Multihit moves to always hit 5 times. For moves that only hit 3 times or Population Bomb, there will be one accuracy check for all hits.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
