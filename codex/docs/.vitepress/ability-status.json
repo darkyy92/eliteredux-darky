@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 852,
+    "completed": 853,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:13:21.747162Z"
+    "generated_at": "2025-08-02T01:15:32.391360Z"
   },
   "abilities": {
     "0": {
@@ -3483,8 +3483,8 @@
       "id": 496,
       "name": "Wishmaker",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "497": {
       "id": 497,
@@ -9118,10 +9118,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "496": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "497": {
       "indicator": "✅",
