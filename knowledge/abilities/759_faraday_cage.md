@@ -1,8 +1,8 @@
 ---
 id: 759
 name: Faraday Cage
-status: ai-generated
-character_count: 247
+status: reviewed
+character_count: 292
 ---
 
 # Faraday Cage - Ability ID 759
@@ -13,7 +13,7 @@ character_count: 247
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Protects from critical hits and reduces physical damage by 20%. When hit by contact moves, automatically uses Thunder Cage at 50 power to trap the attacker in electricity for 2-5 turns, dealing damage at the end of each turn and preventing escape.
+Incoming damage is reduced by 20%, multiplicative with other damage reduction. Critical hits are blocked. Uses Thunder Cage when hit by contact moves, a 50 BP Electric-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
