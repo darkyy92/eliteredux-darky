@@ -608,7 +608,7 @@ Galvanize converts all Normal-type moves into Electric-type and Electric moves g
 Surge Surfer boosts the Pokemon's Speed by 50% when Electric Terrain is active. The boost applies immediately and disappears when it ends.
 
 # ID: 208
-When at level 20 or above, transforms into School Form with improved stats and abilities. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot transform if already transformed by other effects.
+When at level 20 or above, transforms into School Form. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot be overridden, suppressed, swapped, or copied in any way.
 
 # ID: 209
 Disguise blocks the first damaging move that hits the Pokemon and changes its form after. Only non-status moves are blocked. In fog, the disguise is restored immediately once per switch in, or when fog is set again.

@@ -216,7 +216,7 @@ In Progress: 0
 | 205 | Triage                     | ✅       | ✅        |
 | 206 | Galvanize                  | ✅       | ✅        |
 | 207 | Surge Surfer               | ✅       | ✅        |
-| 208 | Schooling                  | ✅       | ❌        |
+| 208 | Schooling                  | ✅       | ✅        |
 | 209 | Disguise                   | ✅       | ✅        |
 | 210 | Battle Bond                | ✅       | ✅        |
 | 211 | Power Construct            | ✅       | ✅        |
