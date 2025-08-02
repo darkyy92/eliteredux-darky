@@ -701,7 +701,7 @@ In Progress: 0
 | 690 | Restraining Order          | ✅       | ✅        |
 | 691 | Assassin's Tools           | ✅       | ✅        |
 | 692 | Frostmaw                   | ✅       | ✅        |
-| 693 | Patchwork                  | ✅       | ❌        |
+| 693 | Patchwork                  | ✅       | ✅        |
 | 694 | Blind Rage                 | ✅       | ✅        |
 | 695 | Slipstream                 | ✅       | ✅        |
 | 696 | Apex Predator              | ✅       | ✅        |
