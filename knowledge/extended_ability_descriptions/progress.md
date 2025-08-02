@@ -137,7 +137,7 @@ In Progress: 0
 | 126 | Contrary                   | ✅       | ✅        |
 | 127 | Unnerve                    | ✅       | ✅        |
 | 128 | Defiant                    | ✅       | ✅        |
-| 129 | Defeatist                  | ✅       | ❌        |
+| 129 | Defeatist                  | ✅       | ✅        |
 | 130 | Cursed Body                | ✅       | ✅        |
 | 131 | Healer                     | ✅       | ✅        |
 | 132 | Friend Guard               | ✅       | ✅        |

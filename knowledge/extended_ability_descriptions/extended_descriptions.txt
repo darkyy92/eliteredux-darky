@@ -374,7 +374,7 @@ Prevents all opposing Pokemon from consuming held items.
 When the user has their stats lowered by another Pokemon, they raise their Attack by 2 stages.
 
 # ID: 129
-Defeatist halves both Attack and Special Attack stats when HP drops below 33% of maximum. This severe penalty activates immediately when crossing the threshold and deactivates when healed above it. Creates a major strategic disadvantage requiring careful HP management and timing.
+Halves both Attack and Special Attack stats when HP drops below 33% of maximum. Deactivates after healing above this threshold.
 
 # ID: 130
 The user has a 30% chance to disable the attacker's move for 4 turns when hit by contact moves. The disabled move cannot be selected until the effect wears off.
