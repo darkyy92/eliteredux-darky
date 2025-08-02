@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 859,
+    "completed": 860,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:27:13.780289Z"
+    "generated_at": "2025-08-02T01:30:15.615767Z"
   },
   "abilities": {
     "0": {
@@ -4253,8 +4253,8 @@
       "id": 606,
       "name": "Aerialist",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "607": {
       "id": 607,
@@ -9778,10 +9778,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "606": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "607": {
       "indicator": "✅",
