@@ -1,8 +1,8 @@
 ---
 id: 184
 name: Aerilate
-status: ai-generated
-character_count: 229
+status: reviewed
+character_count: 92
 ---
 
 # Aerilate - Ability ID 184
@@ -13,7 +13,7 @@ character_count: 229
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokemon also gains STAB on all Flying-type moves, even those not converted by this ability.
+Normal-type moves become Flying-type and they receive STAB regardless of the Pokemon's type.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
