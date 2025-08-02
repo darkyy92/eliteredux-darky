@@ -1352,7 +1352,7 @@ Cryomancy multiplies the chance of inflicting frostbite by 5x on all moves.  Doe
 Phantom Pain removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon for 1x effectiveness.
 
 # ID: 458
-Purgatory boosts Ghost-type moves by 1.3x power normally, increasing to 1.8x when the Pokemon is below 1/3 of its maximum HP. This ability combines type specialization with a pinch effect, making Ghost-types increasingly dangerous as they take damage. Excellent for late-game sweeps.
+Boosts the power of Ghost-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 # ID: 459
 Converts all Normal-type moves to Psychic-type and grants STAB for Psychic moves, regardless of the user's type.
