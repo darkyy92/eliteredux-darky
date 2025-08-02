@@ -1,8 +1,8 @@
 ---
 id: 614
 name: Balloon Bomber
-status: ai-generated
-character_count: 277
+status: reviewed
+character_count: 296
 ---
 
 # Balloon Bomber - Ability ID 614
@@ -13,7 +13,7 @@ character_count: 277
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokemon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.
+Uses a 100 BP Explosion or Outburst (whichever is higher) when knocked out. Using explosion moves will always Flinch the target. When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. Activates on each hit of a multihit move. Boost applies after the hit lands.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
