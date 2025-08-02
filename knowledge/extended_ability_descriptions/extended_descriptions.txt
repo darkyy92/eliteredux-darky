@@ -758,7 +758,7 @@ Fills the area with gas that completely suppresses all abilities except unsuppre
 Pastel Veil automatically sets up Safeguard for the user's team when the Pokemon enters battle. Safeguard lasts for 5 turns and protects all team members from status conditions.
 
 # ID: 258
-Automatically switches between Full and Hangry forms at the end of each turn. Morpeko's Full form has different abilities than its Hangry form. This form change cannot be prevented and affects the Pokemon's appearance, typing, and available abilities in battle.
+Automatically switches between Full and Hangry forms at the end of each turn. Cannot be overridden, suppressed, swapped, or copied in any way.
 
 # ID: 259
 Quick Draw gives a 30% chance for the user to act first in their priority bracket. Stacks multiplicatively with Quick Claw for a 44% chance to activate.
