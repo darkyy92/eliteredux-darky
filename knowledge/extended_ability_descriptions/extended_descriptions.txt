@@ -2306,7 +2306,7 @@ Gives a 30% chance to cure status conditions at the end of each turn for both th
 Uses Whirlpool upon switching into battle, a 50 BP Water-type Special move that traps the opponent for 4-5 turns. The target takes 1/8 max HP damage each turn and cannot switch out until the trap ends.
 
 # ID: 785
-This ability combines two effects: it switches between two forms at the end of each turn like Hunger Switch, and boosts Electric and Dark-type moves. When using Electric or Dark-type moves, damage is increased by 35% but the user takes 10% recoil damage from the attack.
+Automatically switches between Full and Hangry forms at the end of each turn. Boosts Electric and Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user. Cannot be overridden, suppressed, swapped, or copied in any way.
 
 # ID: 786
 Boosts Sing's accuracy to 90%. Does not lock to accuracy to 90%, the move still gets affected by accuracy/evasiveness changes.
