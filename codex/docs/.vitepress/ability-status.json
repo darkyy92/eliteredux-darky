@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 849,
+    "completed": 850,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:10:48.008418Z"
+    "generated_at": "2025-08-02T01:11:14.822342Z"
   },
   "abilities": {
     "0": {
@@ -2944,8 +2944,8 @@
       "id": 419,
       "name": "Forest Rage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "420": {
       "id": 420,
@@ -8656,10 +8656,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "419": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "420": {
       "indicator": "✅",

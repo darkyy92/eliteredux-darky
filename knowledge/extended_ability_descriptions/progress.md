@@ -427,7 +427,7 @@ In Progress: 0
 | 416 | Atomic Burst               | ✅       | ✅        |
 | 417 | Hellblaze                  | ✅       | ✅        |
 | 418 | Riptide                    | ✅       | ✅        |
-| 419 | Forest Rage                | ✅       | ❌        |
+| 419 | Forest Rage                | ✅       | ✅        |
 | 420 | Primal Maw                 | ✅       | ✅        |
 | 421 | Sweeping Edge              | ✅       | ✅        |
 | 422 | Gifted Mind                | ✅       | ✅        |
