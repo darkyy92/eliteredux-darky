@@ -2,7 +2,7 @@
 id: 580
 name: Vessel Of Ruin
 status: reviewed
-character_count: 144
+character_count: 193
 ---
 
 # Vessel Of Ruin - Ability ID 580
@@ -13,7 +13,7 @@ character_count: 144
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
+Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability do not stack together. Stacks multiplicatively with Special Attack drops.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
