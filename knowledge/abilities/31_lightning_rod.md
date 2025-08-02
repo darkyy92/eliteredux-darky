@@ -1,8 +1,8 @@
 ---
 id: 31
 name: Lightning Rod
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 158
 ---
 
 # Lightning Rod - Ability ID 31
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Draws all Electric-type moves to this Pokemon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, fully protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
+The user draws in Electric-type moves and gains immunity to them. Additionally, Electric-type moves boost the highest attacking stat of the user by one stage.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
