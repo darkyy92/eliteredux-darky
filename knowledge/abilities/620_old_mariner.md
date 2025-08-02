@@ -1,8 +1,8 @@
 ---
 id: 620
 name: Old Mariner
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 293
 ---
 
 # Old Mariner - Ability ID 620
@@ -13,7 +13,7 @@ character_count: 281
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines Seaweed and Amphibious effects. Grants Water-type STAB to all moves and immunity to drench status. Grass moves deal 2x damage to Fire types while Fire moves deal 0.5x damage to Grass types. An effective maritime battler with botanical advantages against specific matchups.
+If user is Grass-type, they take half damage from Fire-type attacks and deals 2x damage to Fire-type Pokemon with Grass-type moves. Multiplicative with other sources of damage reduction. Grants STAB to Water-type moves regardless of the user's typing. Also provides immunity to being drenched.
 
 ## Detailed Mechanical Explanation
 
