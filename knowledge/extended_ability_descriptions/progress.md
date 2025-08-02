@@ -801,7 +801,7 @@ In Progress: 0
 | 790 | Frenzied Phantom           | ✅       | ✅        |
 | 791 | DNA Scramble               | ✅       | ✅        |
 | 792 | Metallic Jaws              | ✅       | ✅        |
-| 793 | Calculative                | ✅       | ❌        |
+| 793 | Calculative                | ✅       | ✅        |
 | 794 | Deadly Precision           | ✅       | ✅        |
 | 795 | Embody Aspect              | ✅       | ✅        |
 | 796 | Embody Aspect (Hearthflame) | ✅       | ✅        |

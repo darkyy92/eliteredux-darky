@@ -2330,7 +2330,7 @@ Transforms Deoxys between forms based on the move used. Damaging moves trigger A
 Upon entering battle, adds Steel to the user's current typing. Retains Steel typing even upon losing the ability, going away only when switching out. all biting moves to hit twice. First hit deals 100% damage, second hit deals 40%. Each hit rolls secondary effects independently (except flinch).
 
 # ID: 793
-Calculative combines Analytic and Neuroforce. Analytic boosts damage by 30% when moving after the target. Neuroforce increases super-effective moves by 35%. Together they reward calculated plays and exploiting type matchups. Ideal for slow, strategic Pokemon who excel at precise timing.
+When the user moves after the target, boosts attack power by 30%. Super effective attacks are boosted by 35%.
 
 # ID: 794
 Always land super effective attacks on the opponent. Allows super effective attacks to ignore the target's abilities and innates that interfere with effects or reduce damage.

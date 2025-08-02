@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 872,
+    "completed": 873,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:49:17.936303Z"
+    "generated_at": "2025-08-02T01:50:36.434835Z"
   },
   "abilities": {
     "0": {
@@ -5562,8 +5562,8 @@
       "id": 793,
       "name": "Calculative",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "794": {
       "id": 794,
@@ -10900,10 +10900,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "793": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "794": {
       "indicator": "✅",
