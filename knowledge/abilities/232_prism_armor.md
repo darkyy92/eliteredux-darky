@@ -1,8 +1,8 @@
 ---
 id: 232
 name: Prism Armor
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 106
 ---
 
 # Prism Armor - Ability ID 232
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Prism Armor reduces damage from super effective moves by 35%. Activates when type effectiveness is 2x or greater, turning 2x damage into 1.3x and 4x into 2.6x. Works on all attack types and critical hits. Can be bypassed by Mold Breaker. Excellent for tanking coverage moves.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
