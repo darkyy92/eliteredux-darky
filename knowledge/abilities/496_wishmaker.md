@@ -1,8 +1,8 @@
 ---
 id: 496
 name: Wishmaker
-status: ai-generated
-character_count: 259
+status: reviewed
+character_count: 147
 ---
 
 # Wishmaker - Ability ID 496
@@ -13,7 +13,7 @@ character_count: 259
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically uses Wish upon entering battle, setting up delayed healing that restores half of the user's max HP on the following turn. This self-healing ability can only be activated 3 times per battle, making it a valuable but limited source of HP recovery.
+Uses Wish on entry, setting up delayed healing that restores half of the current ally's max HP on the following turn. Activates 3 times per battle.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
