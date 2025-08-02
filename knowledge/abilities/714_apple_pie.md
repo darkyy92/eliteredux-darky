@@ -1,8 +1,8 @@
 ---
 id: 714
 name: Apple Pie
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 292
 ---
 
 # Apple Pie - Ability ID 714
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Apple Pie combines Self Sufficient and Ripen effects. Heals 1/16 of max HP at the end of each turn and doubles all berry effects including healing, stat boosts, and damage from offensive berries. Perfect for sustained battles with berry-based strategies and natural recovery.
+Restores 1/16 of the Pokemon's maximum HP at the end of each turn. Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages, resist berries reduce super-effective damage by 75%, and PP-restoring berries restore 20 PP.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
