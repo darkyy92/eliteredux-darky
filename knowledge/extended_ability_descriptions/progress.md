@@ -778,7 +778,7 @@ In Progress: 0
 | 767 | Presto                     | ✅       | ✅        |
 | 768 | Samba                      | ✅       | ✅        |
 | 769 | Junshi Sanda               | ✅       | ✅        |
-| 770 | Gladiator                  | ✅       | ❌        |
+| 770 | Gladiator                  | ✅       | ✅        |
 | 771 | Forsaken Heart             | ✅       | ✅        |
 | 772 | Relentless                 | ✅       | ✅        |
 | 773 | Soothsayer                 | ✅       | ✅        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 870,
+    "completed": 871,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:47:29.513226Z"
+    "generated_at": "2025-08-02T01:47:55.753429Z"
   },
   "abilities": {
     "0": {
@@ -5401,8 +5401,8 @@
       "id": 770,
       "name": "Gladiator",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "771": {
       "id": 771,
@@ -10762,10 +10762,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "770": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "771": {
       "indicator": "✅",
