@@ -13,7 +13,7 @@ character_count: 77
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts the power of Electric-type moves by 30%, or by 50% at 1/3 HP or lower.
+Boosts the power of Electric-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 ## Implementation Details
 
