@@ -1,8 +1,8 @@
 ---
 id: 606
 name: Aerialist
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 238
 ---
 
 # Aerialist - Ability ID 606
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Combines ground immunity with exceptional Flying-type prowess. Immune to all Ground-type moves while boosting Flying-type move power by 50%. When HP drops to 33% or below, Flying-type moves gain an additional power boost, reaching nearly double strength for devastating aerial assaults.
+The user is immune to Ground-type moves and other ground effects such as Spikes and terrains. Boosts the damage of Flying-type moves by 25%. Additionally, boosts the power of Flying-type moves by another 20%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 
