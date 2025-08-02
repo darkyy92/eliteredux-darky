@@ -1,8 +1,8 @@
 ---
 id: 427
 name: Cheating Death
-status: ai-generated
-character_count: 286
+status: reviewed
+character_count: 122
 ---
 
 # Cheating Death - Ability ID 427
@@ -13,7 +13,7 @@ character_count: 286
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Negates all damage for the first 2 hits received. Works exactly like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards.
+Negates the first two instances of damage received. Moves still connect and secondary effects apply, but damage becomes 0.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
