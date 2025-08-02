@@ -1,8 +1,8 @@
 ---
 id: 793
 name: Calculative
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 109
 ---
 
 # Calculative - Ability ID 793
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Calculative combines Analytic and Neuroforce. Analytic boosts damage by 30% when moving after the target. Neuroforce increases super-effective moves by 35%. Together they reward calculated plays and exploiting type matchups. Ideal for slow, strategic Pokemon who excel at precise timing.
+When the user moves after the target, boosts attack power by 30%. Super effective attacks are boosted by 35%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
