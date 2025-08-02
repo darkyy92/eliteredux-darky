@@ -680,7 +680,7 @@ Full Metal Body gives immunity to all stat reductions from moves and abilities. 
 Shadow Shield halves damage from all attacks when at full HP. Multiplicative with other damage reduction sources.
 
 # ID: 232
-Prism Armor reduces damage from super effective moves by 35%. Activates when type effectiveness is 2x or greater, turning 2x damage into 1.3x and 4x into 2.6x. Works on all attack types and critical hits. Can be bypassed by Mold Breaker. Excellent for tanking coverage moves.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 233
 Super effective attacks are boosted by 35%.
