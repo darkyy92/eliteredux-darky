@@ -1,8 +1,8 @@
 ---
 id: 799
 name: Rockhard Shaft
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 73
 ---
 
 # Rockhard Shaft - Ability ID 799
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When the Pokemon drops below 1/3 of its maximum HP, the boost increases to 1.8x damage. This works with any Rock-type move regardless of category. The ability activates automatically based on current HP percentage.
+Boosts the power of Rock-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
