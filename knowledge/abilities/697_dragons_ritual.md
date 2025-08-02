@@ -1,8 +1,8 @@
 ---
 id: 697
 name: Dragon's Ritual
-status: ai-generated
-character_count: 281
+status: reviewed
+character_count: 106
 ---
 
 # Dragon's Ritual - Ability ID 697
@@ -13,7 +13,7 @@ Dragon's Ritual ability effects.
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Dragon's Ritual is a powerful draconic ability that enhances the user's connection to dragon energy. This mystical ritual grants enhanced power and special effects when using Dragon-type moves, reflecting the Pokemon's mastery over ancient draconic techniques and elemental forces.
+Boosts the user's Attack and Speed by one stage each whenever it knocks out an opponent with a direct hit.
 
 ## Detailed Mechanical Explanation
 
