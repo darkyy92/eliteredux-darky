@@ -1,8 +1,8 @@
 ---
 id: 66
 name: Blaze
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 73
 ---
 
 # Blaze - Ability ID 66
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Blaze enhances Fire-type moves with dynamic power boosts. When the Pokemon has more than 1/3 HP, Fire attacks deal 1.2x damage. When critically injured (1/3 HP or less), the boost increases to 1.5x damage. This ability makes Fire-types increasingly dangerous as they take more damage.
+Boosts the power of Fire-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
