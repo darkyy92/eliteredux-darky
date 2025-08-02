@@ -1,8 +1,8 @@
 ---
 id: 370
 name: Opportunist
-status: ai-generated
-character_count: 247
+status: reviewed
+character_count: 77
 ---
 
 # Opportunist - Ability ID 370
@@ -13,7 +13,7 @@ character_count: 247
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Opportunist grants +1 priority to all moves when targeting opponents with 50% HP or less. This ability excels at revenge killing and finishing off weakened threats before they can strike back. The priority boost stacks with existing move priority.
+Grants +1 priority to all moves when targeting opponents with 50% HP or less. 
 
 ## Detailed Mechanical Explanation
 
