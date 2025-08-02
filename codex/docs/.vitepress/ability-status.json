@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 843,
+    "completed": 844,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:02:01.068204Z"
+    "generated_at": "2025-08-02T01:03:26.509610Z"
   },
   "abilities": {
     "0": {
@@ -2405,8 +2405,8 @@
       "id": 342,
       "name": "Seaweed",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "343": {
       "id": 343,
@@ -8194,10 +8194,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "342": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "343": {
       "indicator": "✅",

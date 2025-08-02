@@ -350,7 +350,7 @@ In Progress: 0
 | 339 | Spider Lair                | ✅       | ✅        |
 | 340 | Fatal Precision            | ✅       | ✅        |
 | 341 | Fort Knox                  | ✅       | ✅        |
-| 342 | Seaweed                    | ✅       | ❌        |
+| 342 | Seaweed                    | ✅       | ✅        |
 | 343 | Psychic Mind               | ✅       | ✅        |
 | 344 | Poison Absorb              | ✅       | ✅        |
 | 345 | Scavenger                  | ✅       | ✅        |
