@@ -2,7 +2,7 @@
 id: 579
 name: Sword Of Ruin
 status: reviewed
-character_count: 137
+character_count: 179
 ---
 
 # Sword Of Ruin - Ability ID 579
@@ -13,7 +13,7 @@ character_count: 137
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
+Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability do not stack together. Stacks multiplicatively with Defense drops.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
@@ -58,7 +58,7 @@ static void RuinEffect(int ruinStat, int battler, int statId, u32 *stat, NonStac
 ### Damage Calculation Impact
 With Sword Of Ruin active, physical damage calculations are modified:
 ```
-Physical Damage = ((2 x Level + 10) ÷ 250) x (Attack ÷ (Defense x 0.75)) x Base Power x Modifiers
+Physical Damage = ((2 x Level + 10) ï¿½ 250) x (Attack ï¿½ (Defense x 0.75)) x Base Power x Modifiers
 ```
 
 This effectively increases physical damage by approximately 33.33% against affected Pokemon.
