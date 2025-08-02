@@ -1,8 +1,8 @@
 ---
 id: 79
 name: Rivalry
-status: ai-generated
-character_count: 288
+status: reviewed
+character_count: 156
 ---
 
 # Rivalry - Ability ID 79
@@ -13,7 +13,7 @@ character_count: 288
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rivalry boosts damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon. Creates strategic matchups where same-gender battles favor offense while opposite-gender encounters improve defense for tactical play.
+Boosts the user's damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
