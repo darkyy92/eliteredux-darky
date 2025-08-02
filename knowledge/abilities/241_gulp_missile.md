@@ -1,8 +1,8 @@
 ---
 id: 241
 name: Gulp Missile
-status: ai-generated
-character_count: 273
+status: reviewed
+character_count: 300
 ---
 
 # Gulp Missile - Ability ID 241
@@ -13,7 +13,7 @@ character_count: 273
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP <=50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping form also lowers Defense by 1; Gorging form paralyzes.
+When Cramorant uses Surf, Triple Dive or Dive, it catches prey: Gulping form if HP >50% or Gorging form if HP <=50%. When hit in either form, spits prey dealing 25% max HP damage to attacker and returns to base. Gulping Form also lowers Defense by 1; Gorging Form paralyzes. Cannot be suppressed etc. 
 
 ## Detailed Mechanical Explanation
 
