@@ -2,7 +2,7 @@
 id: 581
 name: Beads Of Ruin
 status: reviewed
-character_count: 145
+character_count: 195
 ---
 
 # Beads Of Ruin - Ability ID 581
@@ -13,7 +13,7 @@ character_count: 145
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Reduces the Special Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
+Reduces the Special Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability do not stack together. Stacks multiplicatively with Special Defense drops.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
