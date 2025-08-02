@@ -90,7 +90,7 @@ In Progress: 0
 |  79 | Rivalry                    | ✅       | ✅        |
 |  80 | Steadfast                  | ✅       | ✅        |
 |  81 | Snow Cloak                 | ✅       | ✅        |
-|  82 | Gluttony                   | ✅       | ❌        |
+|  82 | Gluttony                   | ✅       | ✅        |
 |  83 | Anger Point                | ✅       | ✅        |
 |  84 | Unburden                   | ✅       | ✅        |
 |  85 | Heatproof                  | ✅       | ✅        |

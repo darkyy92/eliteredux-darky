@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 825,
+    "completed": 826,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:20:13.596092Z"
+    "generated_at": "2025-08-02T00:25:53.974067Z"
   },
   "abilities": {
     "0": {
@@ -585,8 +585,8 @@
       "id": 82,
       "name": "Gluttony",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "83": {
       "id": 83,
@@ -6634,10 +6634,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "82": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "83": {
       "indicator": "✅",

@@ -239,7 +239,7 @@ Boosts the user's damage by 25% against same-gender Pokemon and reduces damage t
 Getting flinched raises Speed by one stage.
 
 # ID: 82
-Gluttony allows berries that normally activate at 1/4 HP to trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. This includes both held berries and berries consumed through moves like Pluck or Natural Gift.
+Berries that normally activate at 1/4 HP trigger at 1/2 HP instead. Additionally, after consuming any berry, the user recovers 1/3 of max HP. Does not include berries consumed through moves like Pluck.
 
 # ID: 83
 When hit, raises the user's Attack by 1 stage or maximizes it on critical hits. Activates on each hit of a multihit move.
