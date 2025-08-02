@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 840,
+    "completed": 841,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:55:03.114639Z"
+    "generated_at": "2025-08-02T00:58:03.470231Z"
   },
   "abilities": {
     "0": {
@@ -2027,8 +2027,8 @@
       "id": 288,
       "name": "Perfectionist",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "289": {
       "id": 289,
@@ -7870,10 +7870,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "288": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "289": {
       "indicator": "✅",

@@ -296,7 +296,7 @@ In Progress: 0
 | 285 | Ground Shock               | ✅       | ✅        |
 | 286 | Ancient Idol               | ✅       | ✅        |
 | 287 | Mystic Power               | ✅       | ✅        |
-| 288 | Perfectionist              | ✅       | ❌        |
+| 288 | Perfectionist              | ✅       | ✅        |
 | 289 | Growing Tooth              | ✅       | ✅        |
 | 290 | Inflatable                 | ✅       | ✅        |
 | 291 | Aurora Borealis            | ✅       | ✅        |
