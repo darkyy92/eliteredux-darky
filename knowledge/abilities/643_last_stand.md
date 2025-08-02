@@ -5,7 +5,7 @@ status: reviewed
 character_count: 160
 ---
 
-# Last Stand - Ability ID 643
+# Denting Blows - Ability ID 643
 
 ## In-Game Description
 Hammer moves lower defense.
