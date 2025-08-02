@@ -1055,7 +1055,7 @@ Molten Down makes Fire-type moves super effective against Rock-types instead of 
 Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch).
 
 # ID: 359
-Flock enhances Flying-type moves by 1.2x normally and 1.5x when HP drops below 1/3 of maximum. This conditional power boost follows the same mechanics as starter abilities like Overgrow and Blaze. The multiplier stacks with STAB and other damage modifiers.
+Boosts the power of Flying-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 # ID: 360
 Field Explorer boosts the power of field-based moves like Cut, Surf, Fly, and Strength by 50%. This ability transforms traditional HM moves into viable combat options, allowing exploration utility moves to serve dual purposes. Works with approximately 16 moves flagged as field-based.
