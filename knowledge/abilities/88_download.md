@@ -1,8 +1,8 @@
 ---
 id: 88
 name: Download
-status: ai-generated
-character_count: 298
+status: reviewed
+character_count: 172
 ---
 
 # Download - Ability ID 88
@@ -13,7 +13,7 @@ character_count: 298
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Download analyzes the opposing Pokemon's defenses upon entering battle. If the foe's Defense is higher than Special Defense, it raises Special Attack by one stage. If Special Defense is higher or equal, it raises Attack by one stage. Works on switch-in and uses actual stat values including boosts.
+When switching in, if the foe's Defense is higher than Special Defense, raise Special Attack by one stage. If Special Defense is higher or equal, raise Attack by one stage. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
