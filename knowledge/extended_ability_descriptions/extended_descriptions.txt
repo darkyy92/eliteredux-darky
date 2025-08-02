@@ -500,7 +500,7 @@ The user steals the target's held item when landing a non-contact move if they a
 Provides immunity to ball, bomb, and projectile moves. Includes Acid Spray, Rock Wrecker, Pollen Puff, and Barrage.
 
 # ID: 172
-Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokemon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.
+When the user has their stats lowered by another Pokemon, they raise their Special Attack by 2 stages.
 
 # ID: 173
 Boosts the power of biting and fang moves by 30%.

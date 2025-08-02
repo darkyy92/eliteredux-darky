@@ -180,7 +180,7 @@ In Progress: 0
 | 169 | Fur Coat                   | ✅       | ✅        |
 | 170 | Magician                   | ✅       | ✅        |
 | 171 | Bulletproof                | ✅       | ✅        |
-| 172 | Competitive                | ✅       | ❌        |
+| 172 | Competitive                | ✅       | ✅        |
 | 173 | Strong Jaw                 | ✅       | ✅        |
 | 174 | Refrigerate                | ✅       | ✅        |
 | 175 | Sweet Veil                 | ✅       | ✅        |
