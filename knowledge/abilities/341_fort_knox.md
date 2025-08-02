@@ -1,8 +1,8 @@
 ---
 id: 341
 name: Fort Knox
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 104
 ---
 
 # Fort Knox - Ability ID 341
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Neutralizes offensive abilities that boost damage or enable multi-hits. Blocks 158+ damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond and Multi Headed bypass.
+Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 ## Detailed Mechanical Explanation
 
