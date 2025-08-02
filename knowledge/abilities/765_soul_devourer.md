@@ -1,8 +1,8 @@
 ---
 id: 765
 name: Soul Devourer
-status: ai-generated
-character_count: 287
+status: reviewed
+character_count: 224
 ---
 
 # Soul Devourer - Ability ID 765
@@ -13,7 +13,7 @@ character_count: 287
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokemon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokemon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP. Removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon for 1x effectiveness. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
