@@ -1,8 +1,8 @@
 ---
 id: 770
 name: Gladiator
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 77
 ---
 
 # Gladiator - Ability ID 770
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Empowers the inner warrior spirit, boosting all Fighting-type moves by 30% damage under normal conditions. When pushed to the brink with HP at 1/3 or below, the gladiator enters a desperate berserker state, amplifying Fighting moves by a massive 80% instead. Perfect for dramatic comeback victories.
+Boosts the power of Fighting-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
