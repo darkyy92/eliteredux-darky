@@ -1,8 +1,8 @@
 ---
 id: 574
 name: Sharp Edges
-status: ai-generated
-character_count: 297
+status: reviewed
+character_count: 109
 ---
 
 # Sharp Edges - Ability ID 574
@@ -13,7 +13,7 @@ character_count: 297
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Sharp Edges inflicts 1/6 maximum HP damage to attackers using contact moves, making it significantly more punishing than Iron Barbs or Rough Skin which deal 1/8 damage. The retaliation is based on the attacker's max HP and always deals at least 1 damage. Magic Guard prevents this damage entirely.
+Damages attackers using contact moves for 1/6 of their max HP. Activates on every hit for multihitting moves.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
