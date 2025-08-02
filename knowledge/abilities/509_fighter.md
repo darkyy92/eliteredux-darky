@@ -1,8 +1,8 @@
 ---
 id: 509
 name: Fighter
-status: ai-generated
-character_count: 268
+status: reviewed
+character_count: 77
 ---
 
 # Fighter - Ability ID 509
@@ -13,7 +13,7 @@ character_count: 268
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Fighter boosts Fighting-type moves by 20% at high HP and 50% when at 1/3 HP or below. The damage multiplier increases when the Pokemon becomes desperate, making it excellent for clutch situations. Works with all Fighting-type attacks and stacks with other multipliers.
+Boosts the power of Fighting-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
