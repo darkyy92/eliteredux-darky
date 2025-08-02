@@ -767,7 +767,7 @@ In Progress: 0
 | 756 | Striker Pixilate           | ✅       | ✅        |
 | 757 | Doom Blast                 | ✅       | ✅        |
 | 758 | Bruteforce                 | ✅       | ✅        |
-| 759 | Faraday Cage               | ✅       | ❌        |
+| 759 | Faraday Cage               | ✅       | ✅        |
 | 760 | Acidic Slime               | ✅       | ✅        |
 | 761 | Rose Garden                | ✅       | ✅        |
 | 762 | Qigong                     | ✅       | ✅        |

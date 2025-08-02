@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 868,
+    "completed": 869,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:41:42.770036Z"
+    "generated_at": "2025-08-02T01:45:52.041577Z"
   },
   "abilities": {
     "0": {
@@ -5324,8 +5324,8 @@
       "id": 759,
       "name": "Faraday Cage",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "760": {
       "id": 760,
@@ -10696,10 +10696,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "759": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "760": {
       "indicator": "✅",
