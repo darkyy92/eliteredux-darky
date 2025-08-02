@@ -4,7 +4,7 @@
     "completed": 867,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:39:28.915913Z"
+    "generated_at": "2025-08-02T01:39:50.178228Z"
   },
   "abilities": {
     "0": {
@@ -4510,7 +4510,7 @@
     },
     "643": {
       "id": 643,
-      "name": "Last Stand",
+      "name": "Denting Blows",
       "written": true,
       "reviewed": true,
       "status": "reviewed"

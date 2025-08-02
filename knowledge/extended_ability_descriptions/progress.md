@@ -651,7 +651,7 @@ In Progress: 0
 | 640 | Rhythmic                   | ✅       | ✅        |
 | 641 | Chunky Bass Line           | ✅       | ✅        |
 | 642 | Jackhammer                 | ✅       | ✅        |
-| 643 | Last Stand                 | ✅       | ✅        |
+| 643 | Denting Blows              | ✅       | ✅        |
 | 644 | Ice Cold Hunter            | ✅       | ✅        |
 | 645 | Soul Crusher               | ✅       | ✅        |
 | 646 | Arc Flash                  | ✅       | ✅        |
