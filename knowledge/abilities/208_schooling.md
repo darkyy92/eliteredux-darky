@@ -1,8 +1,8 @@
 ---
 id: 208
 name: Schooling
-status: ai-generated
-character_count: 274
+status: reviewed
+character_count: 247
 ---
 
 # Schooling - Ability ID 208
@@ -13,12 +13,12 @@ character_count: 274
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When at level 20 or above, transforms into School Form with improved stats and abilities. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot transform if already transformed by other effects.
+When at level 20 or above, transforms into School Form. Reverts to Solo Form when HP drops to 25% or less. This form change triggers automatically upon entry and at end of each turn. Cannot be overridden, suppressed, swapped, or copied in any way.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
 
-Schooling is a unique form-changing ability that allows certain Pokemon to transform between two distinct forms based on level requirements and HP thresholds.
+Schooling is a unique form-changing ability that allows certain Pokemon to transform between two distinct forms based on level requirements and HP thresholds. 
 
 ### Core Mechanics
 - **Level Requirement**: Must be level 20 or above to activate
