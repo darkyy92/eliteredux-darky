@@ -536,7 +536,7 @@ Normal-type moves become Fairy-type and they receive STAB regardless of the Poke
 When the user is hit by a contact move, the attacker reduces their Speed by one stage. Activates multiple times against multihit moves.
 
 # ID: 184
-Aerilate converts Normal-type moves to Flying-type, granting STAB to them. Affected moves receive a 1.2x damage boost on top of STAB. The Pokemon also gains STAB on all Flying-type moves, even those not converted by this ability.
+Normal-type moves become Flying-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 185
 Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
