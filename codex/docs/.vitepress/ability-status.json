@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 818,
+    "completed": 819,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-01T23:13:36.736036Z"
+    "generated_at": "2025-08-02T00:11:11.240890Z"
   },
   "abilities": {
     "0": {
@@ -2237,8 +2237,8 @@
       "id": 318,
       "name": "Primal Armor",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "319": {
       "id": 319,
@@ -8050,10 +8050,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "318": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "319": {
       "indicator": "✅",

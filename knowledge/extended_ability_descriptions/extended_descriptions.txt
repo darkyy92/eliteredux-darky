@@ -935,7 +935,7 @@ Upon entering battle, adds Steel to the user's current typing. Retains Steel typ
 Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 # ID: 318
-Primal Armor reduces damage from super-effective moves by 50%. Activates when moves have 2x or higher type effectiveness, cutting damage to manageable levels. Works against all super-effective attacks regardless of type. Stacks with other damage reduction effects like berries for incredible bulk.
+Reduces damage from super-effective attacks by 50%. Multiplicative with other sources of damage reduction.
 
 # ID: 319
 Raging Boxer causes punching moves to hit twice, with the first hit at 100% power and second hit at 40% power. Both attacks independently roll secondary effect chances (except flinch).
