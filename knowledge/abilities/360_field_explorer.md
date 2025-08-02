@@ -1,8 +1,8 @@
 ---
 id: 360
 name: Field Explorer
-status: ai-generated
-character_count: 284
+status: reviewed
+character_count: 149
 ---
 
 # Field Explorer - Ability ID 360
@@ -13,7 +13,7 @@ character_count: 284
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Field Explorer boosts the power of field-based moves like Cut, Surf, Fly, and Strength by 50%. This ability transforms traditional HM moves into viable combat options, allowing exploration utility moves to serve dual purposes. Works with approximately 16 moves flagged as field-based.
+Boosts the power of moves that can be used in the overworld by 50%. Includes all HM moves, (Zen) Headbutt, Ice Spinner, Hidden/Secret Power, and Dig.
 
 ## Detailed Mechanical Explanation
 
