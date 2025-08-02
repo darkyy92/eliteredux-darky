@@ -854,7 +854,7 @@ Attacks with 50 BP or less raise their critical hit ratio by one stage, and atta
 Growing Tooth boosts the user's Attack by one stage whenever they successfully hit with a biting move.
 
 # ID: 290
-When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the move resolves.
+When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the hit lands.
 
 # ID: 291
 Aurora Borealis grants STAB to all Ice-type moves regardless of the Pokemon's typing. Weather Ball becomes Ice-type with doubled power, Aurora Veil works without hail, and weather-based Ice moves like Blizzard to never miss.
