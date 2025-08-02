@@ -1709,7 +1709,7 @@ Reduces the Defense stat of every other Pokemon by 25% while the user is out. Mu
 Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability do not stack together. Stacks multiplicatively with Special Attack drops.
 
 # ID: 581
-Reduces the Special Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
+Reduces the Special Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability do not stack together. Stacks multiplicatively with Special Defense drops.
 
 # ID: 582
 Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokemon survive key hits they otherwise couldn't tank.
