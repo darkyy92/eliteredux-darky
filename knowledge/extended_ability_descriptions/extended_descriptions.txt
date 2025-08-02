@@ -1702,6 +1702,9 @@ All stat changes are shared between all battlers on the field, both positive and
 # ID: 578
 Reduces the Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together. Stacks multiplicatively with Attack drops.
 
+# ID: 579
+Reduces the Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability do not stack together. Stacks multiplicatively with Defense drops.
+
 # ID: 580
 Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
