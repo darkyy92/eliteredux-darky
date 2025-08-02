@@ -1,8 +1,8 @@
 ---
 id: 276
 name: Vengeance
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 74
 ---
 
 # Vengeance - Ability ID 276
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Vengeance powers up Ghost-type moves, providing a 1.2x damage boost under normal conditions and an enhanced 1.5x boost when the Pokemon's HP drops to 1/3 or below. This ability works similarly to type-specific Swarm abilities, rewarding strategic damage management with increased offensive power.
+Boosts the power of Ghost-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
