@@ -1,8 +1,8 @@
 ---
 id: 185
 name: Parental Bond
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 196
 ---
 
 # Parental Bond - Ability ID 185
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Most moves hit twice: first strike at full power, second at 25%. Multi-hit moves, status moves, and certain special moves only hit once. Damage calculation and effects apply separately for each hit, making this excellent for breaking Focus Sashes and Substitutes while triggering abilities twice.
+Makes all attacks hit twice in succession. The first hit deals 100%, while the second hit deals 25%. Each hit rolls secondary effects independently (except flinch). Bypasses Fort Knox/Wonder Skin.
 
 ## Detailed Mechanical Explanation
 
