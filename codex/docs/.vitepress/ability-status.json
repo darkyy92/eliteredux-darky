@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 863,
+    "completed": 864,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:33:37.629508Z"
+    "generated_at": "2025-08-02T01:36:01.461967Z"
   },
   "abilities": {
     "0": {
@@ -4512,8 +4512,8 @@
       "id": 643,
       "name": "Last Stand",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "644": {
       "id": 644,
@@ -10000,10 +10000,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "643": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "644": {
       "indicator": "✅",

@@ -1895,7 +1895,7 @@ After landing any sound move, the user follows up with a 40 BP Earthquake that h
 Hammer moves to hit twice, with each hit dealing 70% of the move's normal damage. Secondary effects roll independently for each hit (except flinch).
 
 # ID: 643
-Last Stand transforms desperation into defensive prowess. As the Pokemon's HP decreases, both Defense and Special Defense gradually increase proportionally to damage taken, reaching maximum 1.6x multiplier when near fainting. This creates dramatic comeback potential in critical situations.
+Lowers the target's Defense by one stage when hitting with Hammer attacks. Each target can only be affected once per turn. The Defense drop occurs after damage.
 
 # ID: 644
 Ice-type moves hit twice in hail for full damage on both hits. User is immune to hail damage. Both hits apply secondary effects independently (except flinch).
