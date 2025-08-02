@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 874,
+    "completed": 875,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:51:08.088532Z"
+    "generated_at": "2025-08-02T01:52:57.515794Z"
   },
   "abilities": {
     "0": {
@@ -5926,8 +5926,8 @@
       "id": 845,
       "name": "Impaler",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "846": {
       "id": 846,
@@ -11212,10 +11212,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "845": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "846": {
       "indicator": "✅",

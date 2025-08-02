@@ -853,7 +853,7 @@ In Progress: 0
 | 842 | Festivities (N)            | ✅       | ✅        |
 | 843 | Fey Flight                 | ✅       | ✅        |
 | 844 | Best Offense               | ✅       | ✅        |
-| 845 | Impaler                    | ✅       | ❌        |
+| 845 | Impaler                    | ✅       | ✅        |
 | 846 | Magus Blades               | ✅       | ✅        |
 | 847 | Lightning Born             | ✅       | ✅        |
 | 848 | Superheavy (N)             | ✅       | ✅        |
