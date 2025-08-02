@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 847,
+    "completed": 848,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:09:58.734055Z"
+    "generated_at": "2025-08-02T01:10:28.985348Z"
   },
   "abilities": {
     "0": {
@@ -2930,8 +2930,8 @@
       "id": 417,
       "name": "Hellblaze",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "418": {
       "id": 418,
@@ -8644,10 +8644,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "417": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "418": {
       "indicator": "🟠",

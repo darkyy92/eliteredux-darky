@@ -425,7 +425,7 @@ In Progress: 0
 | 414 | Pretty Princess            | ✅       | ✅        |
 | 415 | Self Repair                | ✅       | ✅        |
 | 416 | Atomic Burst               | ✅       | ✅        |
-| 417 | Hellblaze                  | ✅       | ❌        |
+| 417 | Hellblaze                  | ✅       | ✅        |
 | 418 | Riptide                    | ✅       | ❌        |
 | 419 | Forest Rage                | ✅       | ❌        |
 | 420 | Primal Maw                 | ✅       | ✅        |
