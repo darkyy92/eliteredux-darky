@@ -1,8 +1,8 @@
 ---
 id: 494
 name: Arcane Force
-status: ai-generated
-character_count: 269
+status: reviewed
+character_count: 195
 ---
 
 # Arcane Force - Ability ID 494
@@ -13,7 +13,7 @@ character_count: 269
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Arcane Force grants all moves STAB (Same Type Attack Bonus), regardless of type matching. This mystical power also amplifies super-effective attacks by 10%, making hits that would normally deal 2x damage or more even stronger. A perfect fusion of versatility and power.
+Grants the 1.5x STAB damage bonus to all moves regardless of type matching. Does not boost moves that already receive a STAB bonus. Additionally, boosts the power of super effective moves by 10%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
