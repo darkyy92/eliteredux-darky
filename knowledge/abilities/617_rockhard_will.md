@@ -1,8 +1,8 @@
 ---
 id: 617
 name: Rockhard Will
-status: ai-generated
-character_count: 299
+status: reviewed
+character_count: 73
 ---
 
 # Rockhard Will - Ability ID 617
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Rockhard Will demonstrates unwavering determination through type-focused damage scaling. The ability grants Rock-type moves a 1.2x damage boost normally, increasing to 1.5x when HP falls to 1/3 or below. This creates strategic depth, rewarding both aggressive early pressure and clutch endgame play.
+Boosts the power of Rock-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 
