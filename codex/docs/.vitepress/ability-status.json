@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 826,
+    "completed": 827,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:25:53.974067Z"
+    "generated_at": "2025-08-02T00:28:54.601559Z"
   },
   "abilities": {
     "0": {
@@ -3231,8 +3231,8 @@
       "id": 460,
       "name": "Kunoichi's Blade",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "461": {
       "id": 461,
@@ -8902,10 +8902,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "460": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "461": {
       "indicator": "✅",

@@ -1358,7 +1358,7 @@ Purgatory boosts Ghost-type moves by 1.3x power normally, increasing to 1.8x whe
 Converts all Normal-type moves to Psychic-type and grants STAB for Psychic moves, regardless of the user's type.
 
 # ID: 460
-Kunoichi Blade combines Technician and Skill Link effects. Moves with 60 BP or less get a 1.5x power boost, while multi-hit moves like Bullet Seed and Rock Blast always hit the maximum number of times (5 hits). Perfect for multi-hit builds with guaranteed consistency and offensive power.
+Boosts moves with 60 BP or less by 1.5x. Does not boost moves with 60 BP or less if they potentially can have more than 60 BP, such as Revenge or Venoshock. Multihit moves to always hit 5 times. For moves that only hit 3 times or Population Bomb, there will be one accuracy check for all hits.
 
 # ID: 461
 Monkey Business automatically uses Tickle upon switching into battle, lowering the opposing Pokemon's Attack and Defense stats by one stage each.

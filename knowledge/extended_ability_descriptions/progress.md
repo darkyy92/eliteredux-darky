@@ -468,7 +468,7 @@ In Progress: 0
 | 457 | Phantom Pain               | ✅       | ✅        |
 | 458 | Purgatory                  | ✅       | ❌        |
 | 459 | Emanate                    | ✅       | ✅        |
-| 460 | Kunoichi's Blade           | ✅       | ❌        |
+| 460 | Kunoichi's Blade           | ✅       | ✅        |
 | 461 | Monkey Business            | ✅       | ✅        |
 | 462 | Combat Specialist          | ✅       | ✅        |
 | 463 | Jungle's Guard             | ✅       | ✅        |
