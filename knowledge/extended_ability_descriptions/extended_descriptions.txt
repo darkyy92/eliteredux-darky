@@ -1004,7 +1004,7 @@ Sets Sticky Web on opponent's field when the user enters battle. Lasts 5 turns a
 Super-effective damaging moves never miss and always land critical hits.
 
 # ID: 341
-Neutralizes offensive abilities that boost damage or enable multi-hits. Blocks 158+ damage multipliers like Huge Power, Iron Fist, and type-boosting abilities. Prevents multi-hit abilities from activating extra hits. Only Parental Bond and Multi Headed bypass.
+Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 # ID: 342
 If user is Grass-type: takes 50% damage from Fire-type attacks and deals 2x damage to Fire-type Pokemon with Grass-type moves. Reverses the normal Fire vs Grass matchup. Both effects require user to be Grass-type. Can be negated by Mold Breaker and similar abilities.
