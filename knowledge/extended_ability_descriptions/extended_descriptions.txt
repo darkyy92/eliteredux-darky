@@ -194,7 +194,7 @@ Liquid Ooze reverses all healing effects from drain moves, causing the attacker 
 Boosts the power of Grass-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 # ID: 66
-Blaze enhances Fire-type moves with dynamic power boosts. When the Pokemon has more than 1/3 HP, Fire attacks deal 1.2x damage. When critically injured (1/3 HP or less), the boost increases to 1.5x damage. This ability makes Fire-types increasingly dangerous as they take more damage.
+Boosts the power of Fire-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 # ID: 67
 Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% when the Pokemon's HP drops below 1/3 of its maximum. This ability is signature to most Water-type starter Pokemon, providing consistent offensive pressure with a powerful emergency boost when needed.
