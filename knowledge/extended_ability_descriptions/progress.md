@@ -582,7 +582,7 @@ In Progress: 0
 | 571 | Fire Scales                | ✅       | ✅        |
 | 572 | Watch Your Step            | ✅       | ✅        |
 | 573 | Rapid Response             | ✅       | ✅        |
-| 574 | Sharp Edges                | ✅       | ❌        |
+| 574 | Sharp Edges                | ✅       | ✅        |
 | 575 | Thermal Exchange           | ✅       | ✅        |
 | 576 | Good As Gold               | ✅       | ✅        |
 | 577 | Sharing Is Caring          | ✅       | ✅        |
