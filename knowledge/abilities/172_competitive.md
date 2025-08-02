@@ -1,8 +1,8 @@
 ---
 id: 172
 name: Competitive
-status: ai-generated
-character_count: 294
+status: reviewed
+character_count: 102
 ---
 
 # Competitive - Ability ID 172
@@ -13,7 +13,7 @@ character_count: 294
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Competitive sharply raises Special Attack by 2 stages whenever an enemy lowers any of this Pokemon's stats. This includes direct stat-lowering moves, secondary effects from attacks, abilities, and items used by opponents. The boost only occurs from enemy actions, not self-inflicted stat drops.
+When the user has their stats lowered by another Pokemon, they raise their Special Attack by 2 stages.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
