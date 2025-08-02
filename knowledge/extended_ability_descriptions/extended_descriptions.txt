@@ -1088,7 +1088,7 @@ Sighting System guarantees all moves hit regardless of accuracy checks. Moves wi
 Not implemented.
 
 # ID: 370
-Opportunist grants +1 priority to all moves when targeting opponents with 50% HP or less. This ability excels at revenge killing and finishing off weakened threats before they can strike back. The priority boost stacks with existing move priority.
+Grants +1 priority to all moves when targeting opponents with 50% HP or less.
 
 # ID: 371
 Giant Wings boosts the power of all wing, wind, and air-based moves by 30%.

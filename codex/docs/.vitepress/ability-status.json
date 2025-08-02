@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 846,
+    "completed": 847,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:09:17.302143Z"
+    "generated_at": "2025-08-02T01:09:58.734055Z"
   },
   "abilities": {
     "0": {
@@ -2601,8 +2601,8 @@
       "id": 370,
       "name": "Opportunist",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "371": {
       "id": 371,
@@ -8362,10 +8362,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "370": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "371": {
       "indicator": "✅",
