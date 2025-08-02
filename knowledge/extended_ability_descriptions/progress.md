@@ -594,7 +594,7 @@ In Progress: 0
 | 583 | Gallantry                  | ✅       | ✅        |
 | 584 | Orichalcum Pulse           | ✅       | ✅        |
 | 585 | Sun Basking                | ✅       | ✅        |
-| 586 | Winged King                | ✅       | ❌        |
+| 586 | Winged King                | ✅       | ✅        |
 | 587 | Hadron Engine              | ✅       | ✅        |
 | 588 | Iron Serpent               | ✅       | ❌        |
 | 589 | Weather Double Boost       | ✅       | ✅        |

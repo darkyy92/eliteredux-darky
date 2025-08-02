@@ -1724,7 +1724,7 @@ Sets sun on entry for 8 turns (12 with Heat Rock). While sun is active, boosts t
 Blocks priority moves and reduces physical attack damage by 50% in sun. Multiplicative with other sources of damage reduction.
 
 # ID: 586
-Increases damage of super-effective attacks by 33%. When this Pokemon's move deals 2x damage due to type advantage, the multiplier becomes 2.66x instead. Does not affect normally effective or resisted moves. Stacks with STAB and other damage modifiers for devastating super-effective coverage.
+Super effective attacks are boosted by 33%.
 
 # ID: 587
 Sets electric terrain on entry for 8 turns (12 with Terrain Extender). While terrain is active, boosts the user's Special Attack by 33%.
