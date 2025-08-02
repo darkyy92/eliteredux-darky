@@ -1,8 +1,8 @@
 ---
 id: 464
 name: Hunter's Horn
-status: ai-generated
-character_count: 285
+status: reviewed
+character_count: 159
 ---
 
 # Hunter's Horn - Ability ID 464
@@ -13,7 +13,7 @@ character_count: 285
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential in battle.
+Boosts the power of horn and drill-based attacks by 30%. When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 ## Detailed Mechanical Explanation
 
