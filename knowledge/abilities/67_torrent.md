@@ -1,8 +1,8 @@
 ---
 id: 67
 name: Torrent
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 74
 ---
 
 # Torrent - Ability ID 67
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Torrent boosts the power of Water-type moves by 20% normally, increasing to 50% when the Pokemon's HP drops below 1/3 of its maximum. This ability is signature to most Water-type starter Pokemon, providing consistent offensive pressure with a powerful emergency boost when needed.
+Boosts the power of Water-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
