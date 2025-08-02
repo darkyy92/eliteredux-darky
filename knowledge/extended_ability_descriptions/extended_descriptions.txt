@@ -1808,7 +1808,7 @@ Casts Quash on entry. Quash nullifies most Speed altering effects, including Tai
 Halves all incoming physical attack damage. Multiplicative with other sources of damage reduction. Also grants immunity to all non-attack damage sources including entry hazards, weather damage, status conditions, and recoil.
 
 # ID: 614
-When hit by Fire or Flying-type moves, inflates like a balloon to boost Defense and Special Defense by one stage each. If the Pokemon faints from direct contact moves, it explodes dealing 25% max HP damage to the attacker. Defensive versatility combined with explosive revenge.
+Uses a 100 BP Explosion or Outburst (whichever is higher) when knocked out. Using explosion moves will always Flinch the target. When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. Activates on each hit of a multihit move. Boost applies after the hit lands.
 
 # ID: 615
 Biting moves moves are boosted by 30% and have a 50% chance to burn the target on hit. Multihits roll the activation chance on each hit.

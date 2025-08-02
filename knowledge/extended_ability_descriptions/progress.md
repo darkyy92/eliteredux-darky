@@ -622,7 +622,7 @@ In Progress: 0
 | 611 | Entrance                   | ✅       | ✅        |
 | 612 | Rejection                  | ✅       | ✅        |
 | 613 | Apple Enlightenment        | ✅       | ✅        |
-| 614 | Balloon Bomber             | ✅       | ❌        |
+| 614 | Balloon Bomber             | ✅       | ✅        |
 | 615 | Flaming Maw                | ✅       | ✅        |
 | 616 | Demolitionist              | ✅       | ✅        |
 | 617 | Rockhard Will              | ✅       | ❌        |
