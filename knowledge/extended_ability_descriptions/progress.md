@@ -628,7 +628,7 @@ In Progress: 0
 | 617 | Rockhard Will              | ✅       | ✅        |
 | 618 | Fragrant Daze              | ✅       | ✅        |
 | 619 | Low Visibility             | ✅       | ✅        |
-| 620 | Old Mariner                | ✅       | ❌        |
+| 620 | Old Mariner                | ✅       | ✅        |
 | 621 | Ectoplasm                  | ✅       | ✅        |
 | 622 | Beautiful Music            | ✅       | ✅        |
 | 623 | Surprise                   | ✅       | ✅        |
