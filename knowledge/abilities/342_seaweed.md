@@ -1,8 +1,8 @@
 ---
 id: 342
 name: Seaweed
-status: ai-generated
-character_count: 267
+status: reviewed
+character_count: 186
 ---
 
 # Seaweed - Ability ID 342
@@ -13,7 +13,7 @@ character_count: 267
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-If user is Grass-type: takes 50% damage from Fire-type attacks and deals 2x damage to Fire-type Pokemon with Grass-type moves. Reverses the normal Fire vs Grass matchup. Both effects require user to be Grass-type. Can be negated by Mold Breaker and similar abilities.
+If user is Grass-type, they take half damage from Fire-type attacks and deals 2x damage to Fire-type Pokemon with Grass-type moves. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 
