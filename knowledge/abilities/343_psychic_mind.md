@@ -2,7 +2,7 @@
 id: 343
 name: Psychic Mind
 status: reviewed
-character_count: 272
+character_count: 76
 ---
 
 # Psychic Mind - Ability ID 343
@@ -13,7 +13,7 @@ character_count: 272
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts Psychic-type moves by 1.2x damage. When HP drops to 1/3 or less, boost increases to 1.5x damage. Works on both physical and special Psychic-type moves. Multiplies with STAB and other damage modifiers. Follows the classic pinch ability pattern like Blaze or Torrent.
+Boosts the power of Psychic-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 
