@@ -1,8 +1,8 @@
 ---
 id: 582
 name: Thick Skin
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 106
 ---
 
 # Thick Skin - Ability ID 582
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokemon survive key hits they otherwise couldn't tank.
+Reduces damage from super-effective attacks by 35%. Multiplicative with other sources of damage reduction.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
