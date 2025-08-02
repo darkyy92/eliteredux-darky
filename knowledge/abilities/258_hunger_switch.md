@@ -1,8 +1,8 @@
 ---
 id: 258
 name: Hunger Switch
-status: ai-generated
-character_count: 261
+status: reviewed
+character_count: 142
 ---
 
 # Hunger Switch - Ability ID 258
@@ -13,7 +13,7 @@ character_count: 261
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically switches between Full and Hangry forms at the end of each turn. Morpeko's Full form has different abilities than its Hangry form. This form change cannot be prevented and affects the Pokemon's appearance, typing, and available abilities in battle.
+Automatically switches between Full and Hangry forms at the end of each turn. Cannot be overridden, suppressed, swapped, or copied in any way.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
