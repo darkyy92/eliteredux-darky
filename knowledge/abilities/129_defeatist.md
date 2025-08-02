@@ -1,8 +1,8 @@
 ---
 id: 129
 name: Defeatist
-status: ai-generated
-character_count: 280
+status: reviewed
+character_count: 127
 ---
 
 # Defeatist - Ability ID 129
@@ -13,7 +13,7 @@ character_count: 280
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Defeatist halves both Attack and Special Attack stats when HP drops below 33% of maximum. This severe penalty activates immediately when crossing the threshold and deactivates when healed above it. Creates a major strategic disadvantage requiring careful HP management and timing.
+Halves both Attack and Special Attack stats when HP drops below 33% of maximum. Deactivates after healing above this threshold.
 
 ## Detailed Mechanical Explanation
 
