@@ -87,7 +87,7 @@ In Progress: 0
 |  76 | Air Lock                   | ✅       | ✅        |
 |  77 | Tangled Feet               | ✅       | ✅        |
 |  78 | Motor Drive                | ✅       | ✅        |
-|  79 | Rivalry                    | ✅       | ❌        |
+|  79 | Rivalry                    | ✅       | ✅        |
 |  80 | Steadfast                  | ✅       | ✅        |
 |  81 | Snow Cloak                 | ✅       | ✅        |
 |  82 | Gluttony                   | ✅       | ❌        |

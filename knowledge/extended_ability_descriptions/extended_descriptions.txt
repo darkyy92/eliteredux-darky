@@ -233,7 +233,7 @@ When the user is confused or enraged, the Pokemon uses its Speed stat instead of
 Immune to Electric-type moves, and boost Speed by 1 stage when the user is hit by them. Activates on each hit of a multihit move.
 
 # ID: 79
-Rivalry boosts damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon. Creates strategic matchups where same-gender battles favor offense while opposite-gender encounters improve defense for tactical play.
+Boosts the user's damage by 25% against same-gender Pokemon and reduces damage taken by 25% from opposite-gender Pokemon. No effect with genderless Pokemon.
 
 # ID: 80
 Getting flinched raises Speed by one stage.

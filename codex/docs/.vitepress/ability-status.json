@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 824,
+    "completed": 825,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:15:24.891628Z"
+    "generated_at": "2025-08-02T00:20:13.596092Z"
   },
   "abilities": {
     "0": {
@@ -564,8 +564,8 @@
       "id": 79,
       "name": "Rivalry",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "80": {
       "id": 80,
@@ -6616,10 +6616,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "79": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "80": {
       "indicator": "✅",
