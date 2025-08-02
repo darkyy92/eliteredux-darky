@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 873,
+    "completed": 874,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:50:36.434835Z"
+    "generated_at": "2025-08-02T01:51:08.088532Z"
   },
   "abilities": {
     "0": {
@@ -5604,8 +5604,8 @@
       "id": 799,
       "name": "Rockhard Shaft",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "800": {
       "id": 800,
@@ -10936,10 +10936,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "799": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "800": {
       "indicator": "✅",

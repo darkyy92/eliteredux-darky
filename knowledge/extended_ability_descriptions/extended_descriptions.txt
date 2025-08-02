@@ -2348,7 +2348,7 @@ Raises the Pokemon's Defense stat by one stage when switching into battle.
 Raises the Pokemon's Special Defense stat by one stage when switching into battle.
 
 # ID: 799
-Rockhard Shaft empowers all Rock-type moves with a 1.3x damage multiplier. When the Pokemon drops below 1/3 of its maximum HP, the boost increases to 1.8x damage. This works with any Rock-type move regardless of category. The ability activates automatically based on current HP percentage.
+Boosts the power of Rock-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 # ID: 800
 Converts all Normal-type moves to Dark-type and grants STAB for Dark moves, regardless of the user's type.
