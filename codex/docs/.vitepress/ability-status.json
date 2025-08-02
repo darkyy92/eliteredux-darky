@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 864,
+    "completed": 865,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:36:01.461967Z"
+    "generated_at": "2025-08-02T01:36:55.321134Z"
   },
   "abilities": {
     "0": {
@@ -4708,8 +4708,8 @@
       "id": 671,
       "name": "Bad Omen",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "672": {
       "id": 672,
@@ -10168,10 +10168,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "671": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "672": {
       "indicator": "✅",
