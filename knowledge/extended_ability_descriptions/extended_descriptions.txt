@@ -1370,7 +1370,7 @@ Combat Specialist boosts the power of punching and kicking moves by 30%.
 Jungle's Guard shields the user+Grass-type allies from status conditions and stat drops while healing the user's status at the end of each turn during sun.
 
 # ID: 464
-Horn-based moves (Megahorn, Horn Leech, etc.) gain 30% power boost. Additionally inherits Soul Eater effect: gains +1 to highest stat when KOing an opponent. The 1/4 HP healing mentioned in description also triggers on KO. Combines offensive pressure with snowball potential in battle.
+Boosts the power of horn and drill-based attacks by 30%. When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 # ID: 465
 All Fairy-type moves for the user, their allies, and the opponent get a 1.33x boost. Boost is reversed by Aura Break. 1.2x accuracy on all moves.

@@ -472,7 +472,7 @@ In Progress: 0
 | 461 | Monkey Business            | ✅       | ✅        |
 | 462 | Combat Specialist          | ✅       | ✅        |
 | 463 | Jungle's Guard             | ✅       | ✅        |
-| 464 | Hunter's Horn              | ✅       | ❌        |
+| 464 | Hunter's Horn              | ✅       | ✅        |
 | 465 | Pixie Power                | ✅       | ✅        |
 | 466 | Plasma Lamp                | ✅       | ✅        |
 | 467 | Magma Eater                | ✅       | ✅        |
