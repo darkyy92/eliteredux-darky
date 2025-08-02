@@ -589,7 +589,7 @@ In Progress: 0
 | 578 | Tablets Of Ruin            | ✅       | ✅        |
 | 579 | Sword Of Ruin              | ✅       | ✅        |
 | 580 | Vessel Of Ruin             | ✅       | ✅        |
-| 581 | Beads Of Ruin              | ✅       | ❌        |
+| 581 | Beads Of Ruin              | ✅       | ✅        |
 | 582 | Thick Skin                 | ✅       | ❌        |
 | 583 | Gallantry                  | ✅       | ✅        |
 | 584 | Orichalcum Pulse           | ✅       | ✅        |

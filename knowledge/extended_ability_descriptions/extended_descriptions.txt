@@ -1706,7 +1706,7 @@ Reduces the Attack stat of every other Pokemon by 25% while the user is out. Mul
 Reduces the Special Attack stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
 # ID: 581
-Beads of Ruin creates a passive aura that reduces the Special Defense of all other Pokemon on the field by 25%. This effect applies immediately when entering battle and persists while on the field. Cannot be suppressed by abilities like Neutralizing Gas. Stacks with other stat reduction effects.
+Reduces the Special Defense stat of every other Pokemon by 25% while the user is out. Multiples of the same Ruin ability does not stack together.
 
 # ID: 582
 Thick Skin provides excellent defensive utility by reducing damage from super-effective attacks by 35%. When an opponent's move would deal 2x effectiveness damage, this ability cuts that damage down significantly, helping bulky Pokemon survive key hits they otherwise couldn't tank.

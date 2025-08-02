@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 855,
+    "completed": 856,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:16:30.969590Z"
+    "generated_at": "2025-08-02T01:17:17.720875Z"
   },
   "abilities": {
     "0": {
@@ -4078,8 +4078,8 @@
       "id": 581,
       "name": "Beads Of Ruin",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "582": {
       "id": 582,
@@ -9628,10 +9628,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "581": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "582": {
       "indicator": "🟠",
