@@ -1,8 +1,8 @@
 ---
 id: 458
 name: Purgatory
-status: ai-generated
-character_count: 283
+status: reviewed
+character_count: 74
 ---
 
 # Purgatory - Ability ID 458
@@ -13,7 +13,7 @@ character_count: 283
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Purgatory boosts Ghost-type moves by 1.3x power normally, increasing to 1.8x when the Pokemon is below 1/3 of its maximum HP. This ability combines type specialization with a pinch effect, making Ghost-types increasingly dangerous as they take damage. Excellent for late-game sweeps.
+Boosts the power of Ghost-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
