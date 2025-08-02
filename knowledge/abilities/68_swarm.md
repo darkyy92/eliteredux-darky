@@ -1,8 +1,8 @@
 ---
 id: 68
 name: Swarm
-status: ai-generated
-character_count: 295
+status: reviewed
+character_count: 72
 ---
 
 # Swarm - Ability ID 68
@@ -13,7 +13,7 @@ character_count: 295
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Swarm increases the power of Bug-type moves by 20% normally, or 50% when the Pokemon's HP drops to 1/3 or less. The ability activates automatically when health is low, providing a significant damage boost when most needed. Perfect for Bug-type attackers who can capitalize on the enhanced power.
+Boosts the power of Bug-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
