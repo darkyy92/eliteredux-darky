@@ -2,7 +2,7 @@
 id: 114
 name: Storm Drain
 status: reviewed
-character_count: 154
+character_count: 152
 ---
 
 # Storm Drain - Ability ID 114
@@ -13,7 +13,7 @@ character_count: 154
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-The user is draws in Water-type moves and gain immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage.
+The user draws in Water-type moves and gains immunity to them. Additionally, Water-type moves boost the highest attacking stat of the user by one stage.
 
 ## Detailed Mechanical Explanation
 
