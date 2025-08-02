@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 837,
+    "completed": 838,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:47:40.438422Z"
+    "generated_at": "2025-08-02T00:51:25.331746Z"
   },
   "abilities": {
     "0": {
@@ -1698,8 +1698,8 @@
       "id": 241,
       "name": "Gulp Missile",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "242": {
       "id": 242,
@@ -7588,10 +7588,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "241": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "242": {
       "indicator": "✅",

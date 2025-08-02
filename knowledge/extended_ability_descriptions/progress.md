@@ -249,7 +249,7 @@ In Progress: 0
 | 238 | Cotton Down                | ✅       | ✅        |
 | 239 | Propeller Tail             | ✅       | ✅        |
 | 240 | Mirror Armor               | ✅       | ✅        |
-| 241 | Gulp Missile               | ✅       | ❌        |
+| 241 | Gulp Missile               | ✅       | ✅        |
 | 242 | Stalwart                   | ✅       | ✅        |
 | 243 | Steam Engine               | ✅       | ✅        |
 | 244 | Punk Rock                  | ✅       | ✅        |
