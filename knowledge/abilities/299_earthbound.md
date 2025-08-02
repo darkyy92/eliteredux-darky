@@ -1,8 +1,8 @@
 ---
 id: 299
 name: Earthbound
-status: ai-generated
-character_count: 296
+status: reviewed
+character_count: 75
 ---
 
 # Earthbound - Ability ID 299
@@ -13,7 +13,7 @@ character_count: 296
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokemon is endangered. Ideal for Ground specialists and desperate counterattacks.
+Boosts the power of Ground-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
