@@ -2249,7 +2249,7 @@ Grants immunity to all non-attack damage sources including entry hazards, weathe
 Boosts the damage of Water and Ice-type moves by 25%. Halves damage received from Fire-type moves. Multiplicative with other damage reduction sources.
 
 # ID: 765
-Soul Devourer combines two abilities: Soul Eater and Phantom Pain. When this Pokemon defeats an opponent, it recovers 25% of its maximum HP. Additionally, Ghost-type moves can hit Normal-type Pokemon at 1x effectiveness instead of having no effect, breaking through Normal-type immunity.
+When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP. Removes Normal-type immunity to Ghost-type moves, allowing Ghost attacks to hit Normal-type Pokemon for 1x effectiveness.
 
 # ID: 766
 Upon entering battle, the user drops the Attack stat of all opposing Pokemon by one stage. The user gains a 50% Speed boost and 20% Attack boost on their first turn after switching in.
