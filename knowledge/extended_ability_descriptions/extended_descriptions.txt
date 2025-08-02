@@ -431,7 +431,7 @@ Boosts the Pokemon's Speed stat by 50% in sand. Also grants immunity to sandstor
 Immune to all damage boosting ability effects from opponents, other than Parental Bond and Multi Headed.
 
 # ID: 148
-Analytic boosts attack power by 30% when the user moves after the target. The boost applies to all damaging moves except Future Sight and Doom Desire. Works when the target has already acted this turn, making it excellent for slow attackers who naturally move last in battle.
+When the user moves after the target, boosts attack power by 30%.
 
 # ID: 149
 Makes the Pokemon appear as the last alive party member. Boosts the user's damage by 30% until the illusion breaks.

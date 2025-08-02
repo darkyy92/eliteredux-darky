@@ -156,7 +156,7 @@ In Progress: 0
 | 145 | Big Pecks                  | ✅       | ✅        |
 | 146 | Sand Rush                  | ✅       | ✅        |
 | 147 | Wonder Skin                | ✅       | ✅        |
-| 148 | Analytic                   | ✅       | ❌        |
+| 148 | Analytic                   | ✅       | ✅        |
 | 149 | Illusion                   | ✅       | ✅        |
 | 150 | Imposter                   | ✅       | ✅        |
 | 151 | Infiltrator                | ✅       | ✅        |
