@@ -2048,7 +2048,7 @@ Adds 20% of the user's Speed stat to damage when using attacks. Choice Scarf doe
 Contact moves are boosted by 30%. When the user knocks out an opponent with a direct hit, it immediately recovers 25% of its maximum HP.
 
 # ID: 697
-Dragon's Ritual is a powerful draconic ability that enhances the user's connection to dragon energy. This mystical ritual grants enhanced power and special effects when using Dragon-type moves, reflecting the Pokemon's mastery over ancient draconic techniques and elemental forces.
+Boosts the user's Attack and Speed by one stage each whenever it knocks out an opponent with a direct hit.
 
 # ID: 698
 All Keen Edge moves can never miss, and they bypass protection moves and ignore any secondary effects associated with them.

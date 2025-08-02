@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 866,
+    "completed": 867,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:38:10.165886Z"
+    "generated_at": "2025-08-02T01:39:28.915913Z"
   },
   "abilities": {
     "0": {
@@ -4890,8 +4890,8 @@
       "id": 697,
       "name": "Dragon's Ritual",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "698": {
       "id": 698,
@@ -10324,10 +10324,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "697": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "698": {
       "indicator": "✅",
