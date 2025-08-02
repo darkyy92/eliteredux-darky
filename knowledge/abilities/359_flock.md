@@ -1,8 +1,8 @@
 ---
 id: 359
 name: Flock
-status: ai-generated
-character_count: 256
+status: reviewed
+character_count: 75
 ---
 
 # Flock - Ability ID 359
@@ -13,7 +13,7 @@ character_count: 256
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Flock enhances Flying-type moves by 1.2x normally and 1.5x when HP drops below 1/3 of maximum. This conditional power boost follows the same mechanics as starter abilities like Overgrow and Blaze. The multiplier stacks with STAB and other damage modifiers.
+Boosts the power of Flying-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 
