@@ -1,8 +1,8 @@
 ---
 id: 417
 name: Hellblaze
-status: ai-generated
-character_count: 291
+status: reviewed
+character_count: 73
 ---
 
 # Hellblaze - Ability ID 417
@@ -13,7 +13,7 @@ character_count: 291
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Hellblaze empowers Fire-type moves with a 1.3x damage boost normally, increasing to a powerful 1.8x boost when the Pokemon drops below 1/3 of its maximum HP. This ability excels in clutch situations, turning low HP into devastating firepower. Essential for Fire sweepers and revenge killers.
+Boosts the power of Fire-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
