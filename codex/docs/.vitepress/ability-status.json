@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 856,
+    "completed": 857,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:25:09.441548Z"
+    "generated_at": "2025-08-02T01:25:43.454185Z"
   },
   "abilities": {
     "0": {
@@ -4085,8 +4085,8 @@
       "id": 582,
       "name": "Thick Skin",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "583": {
       "id": 583,
@@ -9634,10 +9634,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "582": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "583": {
       "indicator": "✅",

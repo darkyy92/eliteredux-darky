@@ -590,7 +590,7 @@ In Progress: 0
 | 579 | Sword Of Ruin              | ✅       | ✅        |
 | 580 | Vessel Of Ruin             | ✅       | ✅        |
 | 581 | Beads Of Ruin              | ✅       | ✅        |
-| 582 | Thick Skin                 | ✅       | ❌        |
+| 582 | Thick Skin                 | ✅       | ✅        |
 | 583 | Gallantry                  | ✅       | ✅        |
 | 584 | Orichalcum Pulse           | ✅       | ✅        |
 | 585 | Sun Basking                | ✅       | ✅        |
