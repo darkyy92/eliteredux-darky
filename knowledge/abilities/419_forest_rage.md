@@ -1,8 +1,8 @@
 ---
 id: 419
 name: Forest Rage
-status: ai-generated
-character_count: 260
+status: reviewed
+character_count: 74
 ---
 
 # Forest Rage - Ability ID 419
@@ -13,7 +13,7 @@ character_count: 260
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Forest Rage boosts the power of all Grass-type moves by 30% when healthy. When the Pokemon drops below 1/3 HP, the multiplier increases to 80%. This ability activates for any move with Grass typing regardless of user's type. Stacks with other damage modifiers.
+Boosts the power of Grass-type moves by 30%, or by 80% at 1/3 HP or lower.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
