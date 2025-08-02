@@ -625,7 +625,7 @@ In Progress: 0
 | 614 | Balloon Bomber             | ✅       | ✅        |
 | 615 | Flaming Maw                | ✅       | ✅        |
 | 616 | Demolitionist              | ✅       | ✅        |
-| 617 | Rockhard Will              | ✅       | ❌        |
+| 617 | Rockhard Will              | ✅       | ✅        |
 | 618 | Fragrant Daze              | ✅       | ✅        |
 | 619 | Low Visibility             | ✅       | ✅        |
 | 620 | Old Mariner                | ✅       | ❌        |

@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 861,
+    "completed": 862,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:32:13.611197Z"
+    "generated_at": "2025-08-02T01:32:54.457477Z"
   },
   "abilities": {
     "0": {
@@ -4330,8 +4330,8 @@
       "id": 617,
       "name": "Rockhard Will",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "618": {
       "id": 618,
@@ -9844,10 +9844,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "617": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "618": {
       "indicator": "✅",
