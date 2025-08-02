@@ -76,7 +76,7 @@ In Progress: 0
 |  65 | Overgrow                   | ✅       | ✅        |
 |  66 | Blaze                      | ✅       | ✅        |
 |  67 | Torrent                    | ✅       | ✅        |
-|  68 | Swarm                      | ✅       | ❌        |
+|  68 | Swarm                      | ✅       | ✅        |
 |  69 | Rock Head                  | ✅       | ✅        |
 |  70 | Drought                    | ✅       | ✅        |
 |  71 | Arena Trap                 | ✅       | ✅        |
