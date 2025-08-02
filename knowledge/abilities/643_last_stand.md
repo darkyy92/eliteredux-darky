@@ -1,6 +1,6 @@
 ---
 id: 643
-name: Last Stand
+name: Denting Blows
 status: reviewed
 character_count: 160
 ---
