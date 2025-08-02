@@ -2,7 +2,7 @@
 id: 322
 name: Short Circuit
 status: reviewed
-character_count: 74
+character_count: 77
 ---
 
 # Short Circuit - Ability ID 322
@@ -13,7 +13,7 @@ character_count: 74
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Boosts the power of Grass-type moves by 30%, or by 50% at 1/3 HP or lower.
+Boosts the power of Electric-type moves by 30%, or by 50% at 1/3 HP or lower.
 
 ## Implementation Details
 
