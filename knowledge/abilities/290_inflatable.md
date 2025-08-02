@@ -2,7 +2,7 @@
 id: 290
 name: Inflatable
 status: reviewed
-character_count: 175
+character_count: 171
 ---
 
 # Inflatable - Ability ID 290
@@ -13,7 +13,7 @@ character_count: 175
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the move resolves.
+When hit by any Fire or Flying moves, boost Defense and Special Defense by one stage each. Activates on each hit of a multihit move. The boost applies after the hit lands.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
