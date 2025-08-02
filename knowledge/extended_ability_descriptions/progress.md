@@ -517,7 +517,7 @@ In Progress: 0
 | 506 | Determination              | ✅       | ✅        |
 | 507 | Fertilize                  | ✅       | ✅        |
 | 508 | Pure Love                  | ✅       | ✅        |
-| 509 | Fighter                    | ✅       | ❌        |
+| 509 | Fighter                    | ✅       | ✅        |
 | 510 | Mycelium Might             | ✅       | ✅        |
 | 511 | Telekinetic                | ✅       | ✅        |
 | 512 | Combustion                 | ✅       | ✅        |

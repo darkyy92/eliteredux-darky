@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 853,
+    "completed": 854,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:15:32.391360Z"
+    "generated_at": "2025-08-02T01:15:58.077476Z"
   },
   "abilities": {
     "0": {
@@ -3574,8 +3574,8 @@
       "id": 509,
       "name": "Fighter",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "510": {
       "id": 510,
@@ -9196,10 +9196,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "509": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "510": {
       "indicator": "✅",
