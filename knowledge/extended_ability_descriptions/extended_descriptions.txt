@@ -89,7 +89,7 @@ Gives immunity to all stat reductions from moves and abilities. Includes self st
 Cures all status conditions when switching out.
 
 # ID: 31
-Draws all Electric-type moves to this Pokemon. Absorbs Electric attacks harmlessly and boosts highest attacking stat by 1 stage. In doubles, fully protects partner from Electric moves. Ground-types with this ability gain Electric immunity plus the stat boost. Perfect Electric counter.
+The user draws in Electric-type moves and gains immunity to them. Additionally, Electric-type moves boost the highest attacking stat of the user by one stage.
 
 # ID: 32
 Doubles the activation chance of the user's secondary effects on their attacks.
