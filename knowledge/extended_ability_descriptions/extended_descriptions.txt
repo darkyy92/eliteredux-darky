@@ -1058,7 +1058,7 @@ Makes all attacks hit twice in succession. The first hit deals 100%, while the s
 Boosts the power of Flying-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 # ID: 360
-Field Explorer boosts the power of field-based moves like Cut, Surf, Fly, and Strength by 50%. This ability transforms traditional HM moves into viable combat options, allowing exploration utility moves to serve dual purposes. Works with approximately 16 moves flagged as field-based.
+Boosts the power of moves that can be used in the overworld by 50%. Includes all HM moves, (Zen) Headbutt, Ice Spinner, Hidden/Secret Power, and Dig.
 
 # ID: 361
 Striker increases the power of all kicking moves by 30%. Includes Pyro Ball.

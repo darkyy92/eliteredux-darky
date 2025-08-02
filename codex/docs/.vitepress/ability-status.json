@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 845,
+    "completed": 846,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:05:29.893255Z"
+    "generated_at": "2025-08-02T01:09:17.302143Z"
   },
   "abilities": {
     "0": {
@@ -2531,8 +2531,8 @@
       "id": 360,
       "name": "Field Explorer",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "361": {
       "id": 361,
@@ -8302,10 +8302,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "360": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "361": {
       "indicator": "✅",
