@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 858,
+    "completed": 859,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:26:52.322691Z"
+    "generated_at": "2025-08-02T01:27:13.780289Z"
   },
   "abilities": {
     "0": {
@@ -4127,8 +4127,8 @@
       "id": 588,
       "name": "Iron Serpent",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "589": {
       "id": 589,
@@ -9670,10 +9670,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "588": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "589": {
       "indicator": "✅",

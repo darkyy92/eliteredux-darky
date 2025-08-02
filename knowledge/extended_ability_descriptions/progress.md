@@ -596,7 +596,7 @@ In Progress: 0
 | 585 | Sun Basking                | ✅       | ✅        |
 | 586 | Winged King                | ✅       | ✅        |
 | 587 | Hadron Engine              | ✅       | ✅        |
-| 588 | Iron Serpent               | ✅       | ❌        |
+| 588 | Iron Serpent               | ✅       | ✅        |
 | 589 | Weather Double Boost       | ✅       | ✅        |
 | 590 | Sweeping Edge Plus         | ✅       | ✅        |
 | 591 | Celestial Blessing         | ✅       | ✅        |

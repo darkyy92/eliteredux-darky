@@ -1730,7 +1730,7 @@ Super effective attacks are boosted by 33%.
 Sets electric terrain on entry for 8 turns (12 with Terrain Extender). While terrain is active, boosts the user's Special Attack by 33%.
 
 # ID: 588
-Iron Serpent strikes with devastating precision, boosting super-effective moves by an additional 33%. This transforms 2x effective hits into 2.66x devastation and 4x weaknesses into 5.32x damage. Perfect for Pokemon with wide type coverage, turning every super-effective hit into a potential OHKO.
+Super effective attacks are boosted by 33%.
 
 # ID: 589
 In Sun, Water moves gain the damage boost they receive from rain. In Rain, Fire moves gain the damage boost they receive from sun.
