@@ -1,8 +1,8 @@
 ---
 id: 288
 name: Perfectionist
-status: ai-generated
-character_count: 282
+status: reviewed
+character_count: 126
 ---
 
 # Perfectionist - Ability ID 288
@@ -13,7 +13,7 @@ character_count: 282
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Move BP <=50: +1 crit rate. Move BP <=25: also +1 priority. Transforms weak moves into priority revenge kill tools. Works perfectly with multi-hit moves like Fury Swipes. Excludes status moves. Very common on Normal-types. Synergizes with Technician for devastating low-power offense.
+Attacks with 50 BP or less raise their critical hit ratio by one stage, and attacks with 25 BP or lower also gain +1 priority.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
