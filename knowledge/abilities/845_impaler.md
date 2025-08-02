@@ -1,8 +1,8 @@
 ---
 id: 845
 name: Impaler
-status: ai-generated
-character_count: 289
+status: reviewed
+character_count: 262
 ---
 
 # Impaler - Ability ID 845
@@ -13,7 +13,7 @@ character_count: 289
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Impaler combines the power of Mighty Horn to boost all horn-based moves by 30% with a dangerous bleeding effect. Each horn move has a 30% chance to inflict Bleed status on the target. The bleed damage stacks with the boosted move damage for truly devastating offensive potential in battle.
+Boosts the power of horn and drill-based attacks by 30% and they have a 30% chance to inflict Bleed on the target. Bleeding causes 1/16 max HP damage per turn, prevents healing, and negates the effects of stat stages. Rock and Ghost types are immune to bleeding. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
