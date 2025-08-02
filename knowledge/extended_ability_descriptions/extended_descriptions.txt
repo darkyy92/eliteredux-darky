@@ -881,7 +881,7 @@ Grants STAB to Water-type moves regardless of the user's typing. Also provides i
 Grounded adds Ground type to the Pokemon upon entry. Retains Ground typing even upon losing the ability, going away only when switching out.
 
 # ID: 299
-Earthbound boosts Ground-type moves by 1.2x normally and 1.5x when HP falls below 1/3. This swarm-style ability turns low health into a tactical advantage, making Ground attacks significantly more powerful when the Pokemon is endangered. Ideal for Ground specialists and desperate counterattacks.
+Boosts the power of Ground-type moves by 20%, or by 50% at 1/3 HP or lower.
 
 # ID: 300
 Fighting Spirit converts all Normal-type moves into Fighting-type moves and grants STAB on Fighting-type attacks.

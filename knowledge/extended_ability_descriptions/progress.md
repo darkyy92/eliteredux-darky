@@ -307,7 +307,7 @@ In Progress: 0
 | 296 | Lead Coat                  | ✅       | ✅        |
 | 297 | Amphibious                 | ✅       | ✅        |
 | 298 | Grounded                   | ✅       | ✅        |
-| 299 | Earthbound                 | ✅       | ❌        |
+| 299 | Earthbound                 | ✅       | ✅        |
 | 300 | Fighting Spirit            | ✅       | ✅        |
 | 301 | Feline Prowess             | ✅       | ✅        |
 | 302 | Coil Up                    | ✅       | ✅        |
