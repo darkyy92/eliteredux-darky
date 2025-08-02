@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 850,
+    "completed": 851,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T01:11:14.822342Z"
+    "generated_at": "2025-08-02T01:11:50.524544Z"
   },
   "abilities": {
     "0": {
@@ -3000,8 +3000,8 @@
       "id": 427,
       "name": "Cheating Death",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "428": {
       "id": 428,
@@ -8704,10 +8704,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "427": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "428": {
       "indicator": "✅",

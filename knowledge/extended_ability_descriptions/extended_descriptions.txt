@@ -1259,7 +1259,7 @@ Absorbant boosts HP recovery from drain moves by 50% and applies Leech Seed to t
 Clueless negates all weather, terrain, and room effects while active on the field.
 
 # ID: 427
-Negates all damage for the first 2 hits received. Works exactly like Substitute - moves still connect and secondary effects (stat boosts, status) apply normally. Damage is simply reduced to 0. Counter decrements per hit, not per turn. Does not block non-damaging moves or entry hazards.
+Negates the first two instances of damage received. Moves still connect and secondary effects apply, but damage becomes 0.
 
 # ID: 428
 Cheap Tactics uses Scratch (40 BP Normal physical move) targeting a random opponent when switching into battle.
