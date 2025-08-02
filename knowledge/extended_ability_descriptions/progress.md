@@ -426,7 +426,7 @@ In Progress: 0
 | 415 | Self Repair                | ✅       | ✅        |
 | 416 | Atomic Burst               | ✅       | ✅        |
 | 417 | Hellblaze                  | ✅       | ✅        |
-| 418 | Riptide                    | ✅       | ❌        |
+| 418 | Riptide                    | ✅       | ✅        |
 | 419 | Forest Rage                | ✅       | ❌        |
 | 420 | Primal Maw                 | ✅       | ✅        |
 | 421 | Sweeping Edge              | ✅       | ✅        |
