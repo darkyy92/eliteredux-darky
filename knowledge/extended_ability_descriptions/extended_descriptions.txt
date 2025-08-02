@@ -254,7 +254,7 @@ Halves damage from Fire-type moves. Immune to burn damage and Attack drops from 
 The user heals 25% HP from Water-type moves and 12.5% HP each turn in rain. Takes 25% more damage from Fire moves and loses 12.5% HP per turn in sun.
 
 # ID: 88
-Download analyzes the opposing Pokemon's defenses upon entering battle. If the foe's Defense is higher than Special Defense, it raises Special Attack by one stage. If Special Defense is higher or equal, it raises Attack by one stage. Works on switch-in and uses actual stat values including boosts.
+When switching in, if the foe's Defense is higher than Special Defense, raise Special Attack by one stage. If Special Defense is higher or equal, raise Attack by one stage.
 
 # ID: 89
 Boosts the power of punching moves by 30%.

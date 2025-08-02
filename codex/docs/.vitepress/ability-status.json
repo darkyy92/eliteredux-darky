@@ -1,10 +1,10 @@
 {
   "metadata": {
     "total_abilities": 876,
-    "completed": 829,
+    "completed": 830,
     "written": 875,
     "pending": 1,
-    "generated_at": "2025-08-02T00:34:41.775474Z"
+    "generated_at": "2025-08-02T00:35:17.588595Z"
   },
   "abilities": {
     "0": {
@@ -627,8 +627,8 @@
       "id": 88,
       "name": "Download",
       "written": true,
-      "reviewed": false,
-      "status": "written"
+      "reviewed": true,
+      "status": "reviewed"
     },
     "89": {
       "id": 89,
@@ -6670,10 +6670,10 @@
       "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "88": {
-      "indicator": "🟠",
-      "badge_class": "status-needs-review",
-      "progress_text": "1/2",
-      "tooltip": "Written: ✅, Reviewed: ❌"
+      "indicator": "✅",
+      "badge_class": "status-complete",
+      "progress_text": "2/2",
+      "tooltip": "Written: ✅, Reviewed: ✅"
     },
     "89": {
       "indicator": "✅",
