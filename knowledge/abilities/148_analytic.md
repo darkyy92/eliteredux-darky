@@ -1,8 +1,8 @@
 ---
 id: 148
 name: Analytic
-status: ai-generated
-character_count: 275
+status: reviewed
+character_count: 65
 ---
 
 # Analytic - Ability ID 148
@@ -13,7 +13,7 @@ character_count: 275
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Analytic boosts attack power by 30% when the user moves after the target. The boost applies to all damaging moves except Future Sight and Doom Desire. Works when the target has already acted this turn, making it excellent for slow attackers who naturally move last in battle.
+When the user moves after the target, boosts attack power by 30%.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
