@@ -97,7 +97,22 @@ make -j4    # Build ROM
 
 ## Common Issues and Solutions
 
-### 1. Permission denied for protoc
+### 1. arm-none-eabi-gcc: command not found
+**This is the most common issue!** Your environment variables likely aren't set.
+```bash
+# Set these in your current terminal session:
+export DEVKITPRO=/opt/devkitpro
+export DEVKITARM=$DEVKITPRO/devkitARM
+export PATH=$DEVKITARM/bin:$PATH
+
+# Then add them permanently to ~/.zshrc or ~/.bashrc:
+echo 'export DEVKITPRO=/opt/devkitpro' >> ~/.zshrc
+echo 'export DEVKITARM=$DEVKITPRO/devkitARM' >> ~/.zshrc
+echo 'export PATH=$DEVKITARM/bin:$PATH' >> ~/.zshrc
+source ~/.zshrc
+```
+
+### 2. Permission denied for protoc
 ```bash
 chmod +x tools/codegen/protoc
 ```
