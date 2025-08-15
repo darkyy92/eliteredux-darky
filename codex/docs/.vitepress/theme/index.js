@@ -5,6 +5,7 @@ import InlineAbilityEditor from './components/InlineAbilityEditor.vue'
 import UIProvider from './components/UIProvider.vue'
 import Modal from './components/Modal.vue'
 import Toast from './components/Toast.vue'
+import PasswordGate from './components/PasswordGate.vue'
 
 export default {
   extends: DefaultTheme,
@@ -14,12 +15,17 @@ export default {
     app.component('Modal', Modal)
     app.component('Toast', Toast)
     app.component('UIProvider', UIProvider)
+    app.component('PasswordGate', PasswordGate)
   },
   Layout() {
     return h(UIProvider, null, {
-      default: () => h(DefaultTheme.Layout, null, {
-        'doc-before': () => h(InlineAbilityEditor)
-      })
+      default: () => [
+        h(PasswordGate, null, {
+          default: () => h(DefaultTheme.Layout, null, {
+            'doc-before': () => h(InlineAbilityEditor)
+          })
+        })
+      ]
     })
   }
 }
