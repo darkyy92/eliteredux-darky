@@ -144,13 +144,12 @@ The codex now includes an UNDO feature for save/approve actions:
 
 ## Password Protection
 
-**Site Access Password:** `goodra`
-
 The codex is now protected with a password gate system:
-- **Authentication**: Client-side verification with 24-hour session persistence
+- **Authentication**: Client-side verification with 1-month session persistence
 - **Modern UI**: Clean, rounded design with glassmorphism effects
 - **Bot Blocking**: Comprehensive robots.txt and meta tags to prevent search engine indexing
 - **Testing Logout**: Press `Ctrl+Shift+L` to logout for testing purposes
+- **Password**: Contact the project maintainer for access credentials
 
 ## Important Notes
 
@@ -158,7 +157,7 @@ The codex is now protected with a password gate system:
 - The inline editor uses regex to parse frontmatter - be careful with complex markdown
 - Character counts ALWAYS include spaces (GBA renders spaces as tiles)
 - The site uses dark theme by default but supports theme switching
-- **Site is password protected** - ensure authorized users have the password: `goodra`
+- **Site is password protected** - contact maintainer for access credentials
 
 ## Auto-Generated File System & Conflict Resolution
 

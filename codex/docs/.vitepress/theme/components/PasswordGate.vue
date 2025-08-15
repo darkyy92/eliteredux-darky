@@ -6,7 +6,7 @@
         <!-- Logo/Title -->
         <div class="logo-section">
           <div class="logo-icon">🔒</div>
-          <h1 class="site-title">Elite Redux Ability Codex</h1>
+          <h1 class="site-title">Elite Redux<br>Ability Codex</h1>
           <p class="site-subtitle">Access Restricted</p>
         </div>
 
@@ -65,11 +65,11 @@ const isLoading = ref(false)
 const error = ref('')
 const passwordInputRef = ref(null)
 
-// Password configuration (hashed for security)
-const CORRECT_PASSWORD = 'goodra'
+// Password configuration (from environment variable)
+const CORRECT_PASSWORD = import.meta.env.VITE_SITE_PASSWORD || 'dev-fallback'
 const AUTH_KEY = 'codex_auth_token'
 const AUTH_EXPIRY_KEY = 'codex_auth_expiry'
-const SESSION_DURATION = 24 * 60 * 60 * 1000 // 24 hours in milliseconds
+const SESSION_DURATION = 30 * 24 * 60 * 60 * 1000 // 1 month (30 days) in milliseconds
 
 // Simple hash function for password verification
 function hashPassword(password) {
