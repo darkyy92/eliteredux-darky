@@ -989,7 +989,7 @@ Foes can not land critical hits, always roll minimum damage (85% instead of 85-1
 Curses the attacker when knocked out by a direct hit. The curse inflicts 25% max HP damage per turn until the cursed Pokemon switches out or faints. Ghost-type attackers are immune to the curse.
 
 # ID: 336
-Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
+Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will be able to knock out the user.
 
 # ID: 337
 Reduces damage from Grass-type attacks by 50% while boosting the power of the user's own Grass-type moves by 20%. Damage reduction is multiplicative with other sources.
