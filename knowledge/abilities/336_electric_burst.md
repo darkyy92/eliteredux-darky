@@ -2,7 +2,7 @@
 id: 336
 name: Electric Burst
 status: reviewed
-character_count: 162
+character_count: 169
 ---
 
 # Electric Burst - Ability ID 336
@@ -13,7 +13,7 @@ character_count: 162
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
+Electric Burst boosts Electric-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will be able to knock out the user.
 
 ## Detailed Mechanical Explanation
 
