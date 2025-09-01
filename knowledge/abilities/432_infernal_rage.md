@@ -2,7 +2,7 @@
 id: 432
 name: Infernal Rage
 status: reviewed
-character_count: 196
+character_count: 212
 ---
 
 # Infernal Rage - Ability ID 432
@@ -13,7 +13,7 @@ character_count: 196
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Infernal Rage boosts Fire-type moves by 35% but inflicts 5% recoil damage after using them. Recoil is calculated from damage dealt with minimum of 1 HP lost. This recoil cannot knock the user out.
+Infernal Rage boosts Fire-type moves by 35% but inflicts 5% recoil damage after using them. Recoil is calculated from damage dealt with minimum of 1 HP lost. This recoil damage will be able to knock the user out.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
