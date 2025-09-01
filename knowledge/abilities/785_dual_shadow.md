@@ -2,7 +2,7 @@
 id: 785
 name: Dual Shadow
 status: reviewed
-character_count: 299
+character_count: 288
 ---
 
 # Dual Shadow - Ability ID 785
@@ -13,7 +13,7 @@ character_count: 299
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Automatically switches between Full and Hangry forms at the end of each turn. Boosts Electric and Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user. Cannot be overridden, suppressed, swapped, or copied in any way.
+Switches between Full and Hangry forms at the end of each turn. Boosts Electric and Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). Recoil damage will be able to knock out the user. Cannot be overridden, suppressed, swapped, or copied in any way.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
