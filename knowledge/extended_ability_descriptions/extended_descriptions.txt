@@ -2225,7 +2225,7 @@ When hit by any Fire or Flying moves, boost Defense and Special Defense by one s
 Increases the power of all kicking moves by 30%. Includes Pyro Ball. Normal-type moves become Fairy-type and they receive STAB regardless of the Pokemon's type.
 
 # ID: 757
-Boosts Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will not knock out the user.
+Boosts Dark-type moves by 35% but causes 10% recoil damage based on damage dealt (minimum 1 HP). The recoil damage will be able to knock out the user.
 
 # ID: 758
 Increases the damage of moves that cause recoil by 20%. While enraged, this boost applies to all moves. Prevents all recoil damage from the user's moves and abilities. Also grants immunity to enrage recoil damage. Does not prevent crash damage or Explosion/Self-Destruct damage.
