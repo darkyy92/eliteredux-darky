@@ -728,7 +728,7 @@ Halves all incoming Special Attack damage. Multiplicative with other sources of 
 Ripen doubles all beneficial berry effects. Healing berries restore twice as much HP, stat-boosting berries raise stats by 2 stages instead of 1, resist berries reduce super-effective damage by 75% instead of 50%, and PP-restoring berries restore twice as much PP.
 
 # ID: 248
-Ice Face transforms Eiscue into its Noice Face form after taking a physical attack, negating damage once. While in Noice form, if hail is set or if the user is swapped in, revert to Ice Face form. Cannot be copied or suppressed.
+Ice Face transforms Eiscue into its Noice Face form after taking an attack, negating damage once. While in Noice form, if hail is set or if the user is swapped in, revert to Ice Face form. Cannot be copied or suppressed.
 
 # ID: 249
 Power Spot boosts allies' attack power by 30% in double battles. The user itself receives no boost.
