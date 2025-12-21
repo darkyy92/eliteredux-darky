@@ -2,7 +2,7 @@
 id: 9
 name: Static
 status: reviewed
-character_count: 293
+character_count: 99
 ---
 
 # Static - Ability ID 9
@@ -13,7 +13,7 @@ character_count: 293
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-30% chance to paralyze on any contact move (both offense and defense in Elite Redux). Halves foe's Speed to 50% with 25% full paralysis chance per turn. Makes Wild Charge/Spark deadly threats. Severely punishes U-turn/Fake Out users. Electric-types and Limber immune. Bypassed by Mold Breaker.
+Contact with this Pokemon has a 30% chance to inflict paralysis. Works offensively and defensively.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
