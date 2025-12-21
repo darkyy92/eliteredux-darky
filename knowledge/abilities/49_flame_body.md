@@ -13,7 +13,7 @@ character_count: 124
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Contact with this Pokemon has a 20% chance to inflict burn. Non-contact has a 30% chance. Works offensively and defensively. 
+Contact with this Pokemon has a 30% chance to inflict burn. Non-contact has a 20% chance. Works offensively and defensively. 
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
