@@ -8,7 +8,7 @@ character_count: 224
 # Freezing Point - Ability ID 492
 
 ## In-Game Description
-"Contact moves have 30% chance to inflict frostbite."
+"Contact moves have 20% chance to inflict frostbite."
 
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
