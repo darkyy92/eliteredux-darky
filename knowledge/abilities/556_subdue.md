@@ -2,7 +2,7 @@
 id: 556
 name: Subdue
 status: reviewed
-character_count: 113
+character_count: 126
 ---
 
 # Subdue - Ability ID 556
@@ -13,7 +13,7 @@ character_count: 113
 ## Extended In-Game Description
 *For use in Elite Redux extended ability UI (280-300 chars max)*
 
-Doubles the effectiveness of stat drops from moves. Does not affect self-inflicted stat drops or enemy abilities.
+Doubles the effectiveness of stat drops from moves or abilities. Does not affect self-inflicted stat drops or enemy abilities.
 
 ## Detailed Mechanical Explanation
 *For Discord/reference use*
