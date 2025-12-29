@@ -1637,7 +1637,7 @@ When dropping to below 50% HP, the user triggers Shell Smash effects: raising At
 Egoist copies stat boosts that enemy Pokemon receive and applies them to itself. Does not copy other Egoist boosts.
 
 # ID: 556
-Doubles the effectiveness of stat drops from moves. Does not affect self-inflicted stat drops or enemy abilities.
+Doubles the effectiveness of stat drops from moves or abilities. Does not affect self-inflicted stat drops or enemy abilities.
 
 # ID: 557
 Increases the user's Attack stat by 2x for one turn. Multiplicative with other damage boosts. Reapplies after switching in.
