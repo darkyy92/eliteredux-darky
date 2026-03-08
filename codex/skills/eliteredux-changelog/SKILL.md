@@ -74,6 +74,8 @@ After the first pass, inspect important commits with `git show --stat --summary`
 
 Do not trust vague commit subjects alone for the crew changelog if the actual player-visible change needs more precision.
 
+If the superproject commit only bumps the `proto` submodule pointer, inspect the actual `proto` commit before writing release notes.
+
 ## What To Include
 
 Include:
@@ -183,6 +185,9 @@ For the crew version, use similar categories but be more exact.
 - If a commit touches multiple things, split it into separate bullets if that makes the post clearer.
 - Collapse repetitive tiny fixes into one summary bullet unless a specific mon/mechanic is important.
 - For large batches of mon or ability changes, summarize cleanly in the player version and list more specifics in the crew version.
+- For Adoption Center item changes, prefer precise wording like `lineup updated` unless the whole category was actually added.
+- For randomizer QoL, strongly prefer calling out the player value directly.
+  Good example: `Wild mons now show randomized abilities/innates before catching.`
 
 ## Save Format
 

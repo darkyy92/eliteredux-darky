@@ -85,6 +85,23 @@ Current public behavior:
 - complex custom-mon creation is removed
 - debug is disabled for `DIFFICULTY_HELL` and above
 
+## How To Explain It Publicly
+
+When describing public debug to players, do not frame it like full debug returning unchanged.
+
+Prefer wording like:
+
+- `limited player-safe debug`
+- `keeps useful convenience tools`
+- `removes dev/cheat tools`
+
+Explicitly mention when helpful:
+
+- warp/script-skip/dev-travel tools are gone
+- God Mode and Autowin are gone
+- illegal mons/forms/items stay blocked
+- Hell cannot use public debug
+
 ## Where The Rules Live
 
 - `include/global.h`
