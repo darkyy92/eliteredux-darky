@@ -69,11 +69,11 @@
 #### Using Smart Scripts (Recommended)
 ```bash
 # Clean without removing tools
-./scripts/clean_build.sh
+./eliteredux-darky/scripts/clean_build.sh
 
 # Build with automatic tool checking
-./scripts/smart_build.sh     # Uses 4 cores by default
-./scripts/smart_build.sh 10  # Specify core count
+./eliteredux-darky/scripts/smart_build.sh     # Uses 4 cores by default
+./eliteredux-darky/scripts/smart_build.sh 10  # Specify core count
 ```
 
 #### Manual Build Commands
@@ -82,17 +82,18 @@
 make mostlyclean
 
 # Build with appropriate parallelism
-# For M4 Pro (10 cores), but use fewer if memory issues occur
-make -j4  # Recommended for poryscript memory usage
+# On this 10-core Mac, make -j10 has been confirmed to work.
+# If you hit poryscript memory issues on another machine, fall back to -j4.
+make -j10  # Uses all 10 cores
 # OR
-make -j10  # Full cores if memory permits
+make -j4   # Safer fallback if you hit "Killed: 9"
 ```
 
 #### Full Clean Build (rarely needed)
 ```bash
 make clean  # WARNING: This removes tools too
 make tools  # Rebuild all tools
-make -j4    # Build ROM
+make -j10   # Build ROM
 ```
 
 ## Common Issues and Solutions
@@ -123,7 +124,7 @@ make tools
 ```
 
 ### 3. Poryscript memory issues ("Killed: 9")
-- Use fewer parallel jobs: `make -j4` instead of `make -j10`
+- If `make -j10` gets killed on your machine, retry with fewer parallel jobs such as `make -j4`
 - This happens because poryscript uses significant memory when processing map scripts
 - macOS kills processes that consume too much memory
 
@@ -158,13 +159,14 @@ make tools
 
 - Mac Mini M4 Pro: 10 cores (6 performance + 4 efficiency)
 - Use `sysctl -n hw.ncpu` to check your core count
-- Start with `-j4` for stability, increase if build succeeds
+- On this machine, `make -j10` works
+- If you hit memory pressure or `Killed: 9`, fall back to `-j4`
 
 ## Key Learnings Summary
 
 1. **NEVER use `make clean`** - it removes tools and causes build failures
    - Always use `make mostlyclean` instead
-   - Or use the provided scripts: `./scripts/clean_build.sh`
+   - Or use the provided script: `./eliteredux-darky/scripts/clean_build.sh`
 
 2. **macOS Security (Gatekeeper)**
    - Downloaded tools trigger "may cause harm" popups
@@ -172,7 +174,8 @@ make tools
 
 3. **Memory Management**
    - poryscript uses lots of memory with parallel builds
-   - Use `-j4` instead of `-j10` to avoid "Killed: 9" errors
+   - `make -j10` works on this 10-core Mac
+   - If another Mac hits "Killed: 9", retry with `-j4`
 
 4. **libpng on Apple Silicon**
    - Homebrew installs to `/opt/homebrew` not `/usr/local`
@@ -185,5 +188,5 @@ make tools
    
    # For all builds
    make mostlyclean
-   make -j4
+   make -j10
    ```
