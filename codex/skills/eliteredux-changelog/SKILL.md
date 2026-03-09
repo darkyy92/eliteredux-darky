@@ -29,8 +29,8 @@ Always show both in the response.
 
 Always save both to Downloads as:
 
-- `~/Downloads/changelog-YYYY-MM-DD-player.md`
-- `~/Downloads/changelog-YYYY-MM-DD-crew.md`
+- `~/Downloads/elite-redux-<version>-changelog-player-YYYY-MM-DD.md`
+- `~/Downloads/elite-redux-<version>-changelog-crew-YYYY-MM-DD.md`
 
 ## Tone
 
@@ -59,6 +59,36 @@ Prefer:
 - “route/fight/progression”
 - “randomizer”
 - “QoL”
+
+## Writing Style
+
+Keep changelogs tight.
+
+Use:
+
+- short bullets
+- intent first when it helps explain why the change matters
+- player-facing wording
+- the names players actually use for menus and systems
+
+Avoid:
+
+- filler
+- implementation detail
+- vague technical wording
+- internal names when player-facing names are better
+
+Good:
+
+- `Lets you skip normal trainer aggro and choose fights manually`
+- `New toggle in New Game Options and Options+`
+- `DexNav+ now correctly shows when you already caught everything on a route`
+
+Bad:
+
+- `Fixed new-only bulk buy caught-state checks`
+- `Debug trainer aggro toggle now uses the same setting`
+- `Intro Options`
 
 ## Commit Gathering
 
@@ -161,7 +191,7 @@ Instructions on how to update:
 
 - Always include the footer block above.
 - Do not invent a version number, save compatibility warning, contributor callout, or release title if it is not known from the prompt, commits, or repo context.
-- If the version is unknown, use a generic top line like `# **Elite Redux Update**`.
+- If the version is unknown, ask the user for it before writing the final title or saving files.
 - If contributor names are not given, use a safe generic line like `*@ER Crew proudly presents:*`
 - Keep the player version postable as-is in Discord.
 
@@ -181,6 +211,7 @@ For the crew version, use similar categories but be more exact.
 ## Analysis Rules
 
 - Explain the benefit to players, not just the raw change.
+- Prefer one clear sentence over two weaker ones.
 - Bold the biggest player-facing highlights.
 - If a commit touches multiple things, split it into separate bullets if that makes the post clearer.
 - Collapse repetitive tiny fixes into one summary bullet unless a specific mon/mechanic is important.
@@ -188,6 +219,7 @@ For the crew version, use similar categories but be more exact.
 - For Adoption Center item changes, prefer precise wording like `lineup updated` unless the whole category was actually added.
 - For randomizer QoL, strongly prefer calling out the player value directly.
   Good example: `Wild mons now show randomized abilities/innates before catching.`
+- Cut internal wiring details unless players would care about them directly.
 
 ## Save Format
 
@@ -195,8 +227,14 @@ Save both outputs to Downloads and then show both in the response for review.
 
 Suggested filenames:
 
-- `changelog-YYYY-MM-DD-player.md`
-- `changelog-YYYY-MM-DD-crew.md`
+- `elite-redux-<version>-changelog-player-YYYY-MM-DD.md`
+- `elite-redux-<version>-changelog-crew-YYYY-MM-DD.md`
+
+If the exact version is not already known from the prompt, commits, or repo context, ask the user for it before saving files.
+
+For internal/dev Elite Redux releases, also save or copy the crew changelog to the versioned release folder:
+
+- `/Users/joel/Library/CloudStorage/GoogleDrive-darkyy92@gmail.com/My Drive/Pokemon/ROM Hacks/Pokemon Elite Redux/Elite Redux ROM/Dev Versions/Elite Redux v<version> Dev/elite-redux-<version>-changelog-crew-YYYY-MM-DD.md`
 
 ## Quick Workflow
 
@@ -206,5 +244,7 @@ Suggested filenames:
 4. Group changes into player-relevant categories.
 5. Write the `Player Changelog` in Discord announcement style.
 6. Write the `Crew Changelog` with more exact gameplay details.
-7. Save both markdown files to Downloads.
-8. Show both outputs in the response.
+7. If the version is still unknown, ask the user for it.
+8. Save both markdown files to Downloads with the Elite Redux versioned naming pattern.
+9. For internal/dev releases, also place the crew changelog in the versioned folder inside `Dev Versions`.
+10. Show both outputs in the response.
