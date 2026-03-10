@@ -1,6 +1,6 @@
 ---
 name: eliteredux-dev-release
-description: Use when preparing an internal Elite Redux dev release: enabling full dev debug, bumping dev-visible version strings, writing a dev-only changelog, and creating a verified BPS patch from the TrashMan Emerald base ROM.
+description: "Use when preparing an internal Elite Redux dev release with full dev debug, dev-visible version text updates, a dev-only changelog, and a verified BPS patch from the TrashMan Emerald base ROM."
 ---
 
 # Elite Redux Dev Release
