@@ -78,7 +78,7 @@ def main():
     # Process all markdown files
     for file_path in sorted(abilities_dir.glob("*.md")):
         # Skip CLAUDE.md and other non-ability files
-        if file_path.name in ["CLAUDE.md", "README.md"]:
+        if file_path.name in ["AGENTS.md", "CLAUDE.md", "README.md"]:
             continue
             
         with open(file_path, 'r', encoding='utf-8') as f:
